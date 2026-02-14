@@ -4282,7 +4282,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 228802,
       "name": "I wonder",
       "url": "https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj"
@@ -9083,6 +9083,24 @@
     },
     {
       "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/3RHGU9VHAsheMlrDhYyc5e"
+      },
+      "artists": [
+        {
+          "name": "off the menu",
+          "url": "https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268070,
+      "name": "Superpower",
+      "url": "https://open.spotify.com/track/4reOboKTk7q5SQyyFIAIEZ"
+    },
+    {
+      "album": {
         "name": "Someone's playlist #6",
         "url": "https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW"
       },
@@ -10474,7 +10492,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 242117,
       "name": "We will sing",
       "url": "https://open.spotify.com/track/2eYRLrg0QxV4D43UVQ1lOg"
@@ -11096,6 +11114,28 @@
       "duration_ms": 181253,
       "name": "yellow flower",
       "url": "https://open.spotify.com/track/4zgtv325Jmhf4ZWhChaPfu"
+    },
+    {
+      "album": {
+        "name": "Yeonnam-dong",
+        "url": "https://open.spotify.com/album/6gUBc1UThDuJiksqMxo43l"
+      },
+      "artists": [
+        {
+          "name": "RYUL",
+          "url": "https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155127,
+      "name": "Yeonnam-dong",
+      "url": "https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev"
     },
     {
       "album": {

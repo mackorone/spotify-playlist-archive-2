@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > qué no se apague la lumbre 🍺🔥 con Carin León, Lalo Mora y Eliseo Robles
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,988 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,008 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 47 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:46 |
 | 48 | [Que Me Lleve El Diablo](https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 3:30 |
 | 49 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
-| 50 | [Los Dos Amigos](https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:58 |
-| 51 | [Mi Ranchito](https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:25 |
+| 50 | [Mi Ranchito](https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:25 |
+| 51 | [Los Dos Amigos](https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:58 |
 | 52 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 |
 | 53 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
 | 54 | [Mil Noches](https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Super Exitos](https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp) | 3:56 |
-| 55 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 |
-| 56 | [El Golpe Traidor](https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U) | [Los Saylors](https://open.spotify.com/artist/6yoDVUyg5264OoQuXSPIzu) | [El Golpe Traidor](https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo) | 3:05 |
+| 55 | [El Golpe Traidor](https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U) | [Los Saylors](https://open.spotify.com/artist/6yoDVUyg5264OoQuXSPIzu) | [El Golpe Traidor](https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo) | 3:05 |
+| 56 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 |
 | 57 | [Reproches Del Viento](https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:26 |
 | 58 | [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 |
 | 59 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |

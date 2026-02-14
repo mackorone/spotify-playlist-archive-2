@@ -5702,7 +5702,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207761,
       "name": "Focus (feat. CLOVES) - Alok Remix",
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
@@ -7104,7 +7104,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 149673,
       "name": "Heart Like Mine (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
@@ -7438,7 +7438,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 204593,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
@@ -11480,7 +11480,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 169778,
       "name": "Move A Little Closer",
       "url": "https://open.spotify.com/track/0gf1KoU5UhhxoEodDF29Rm"
@@ -15063,6 +15063,28 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/3DwHI74FO3o1lNAdUnDryD"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/4F1KFfkqUWZaEyyoMt3wYF"
+    },
+    {
+      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/0n5qFNQKmEvR2midexvkfy"
       },
@@ -15636,6 +15658,28 @@
       "duration_ms": 186212,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3UTnoLehZjISbFueAmhGvY"
+    },
+    {
+      "album": {
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202078,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
     },
     {
       "album": {

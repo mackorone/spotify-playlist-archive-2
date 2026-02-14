@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "album": {
         "name": "The Best of Tevin Campbell",
         "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
       },
@@ -1020,6 +1038,24 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225988,
+      "name": "dime",
+      "url": "https://open.spotify.com/track/1GxLgrcumcN3TpWnrYQ9pV"
     },
     {
       "album": {
@@ -1464,7 +1500,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 249426,
       "name": "Grow as We Go",
       "url": "https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT"
@@ -2604,7 +2640,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
@@ -2813,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+    },
+    {
+      "album": {
         "name": "Love Story (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
       },
@@ -2824,7 +2878,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 235766,
       "name": "Love Story (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
@@ -3084,7 +3138,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199133,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
@@ -3486,6 +3540,24 @@
     {
       "album": {
         "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "album": {
+        "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/6IpBMtAMrBvSHc9y6rTtQQ"
       },
       "artists": [
@@ -3836,10 +3908,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182226,
       "name": "Something - 2019 Mix",
       "url": "https://open.spotify.com/track/3S6N0Wbem9KV3DBcYNfXuv"
+    },
+    {
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
       "album": {
@@ -4144,6 +4234,24 @@
       "duration_ms": 197298,
       "name": "The Bones - with Hozier",
       "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
+    },
+    {
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "album": {
@@ -5184,7 +5292,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"

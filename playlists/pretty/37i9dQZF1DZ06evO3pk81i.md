@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,123 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,127 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 2 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/5U6rulJvT2kOzG2WY98G4Y) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:20 |
 | 3 | [Mami](https://open.spotify.com/track/55t8gWMIShuAGtzcmomFvx) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:13 |
 | 4 | [Vuelve](https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Vuelve](https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp) | 2:45 |
-| 5 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
+| 5 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 |
 | 6 | [Poema](https://open.spotify.com/track/2UmIxJCmMOWSqua4YXG1o7) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:53 |
-| 7 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 |
+| 7 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
 | 8 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
-| 9 | [CUANDO PIENSO EN TI](https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:22 |
+| 9 | [Baby \(Version Norteña\)](https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:18 |
 | 10 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 |
-| 11 | [Baby \(Version Norteña\)](https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:18 |
+| 11 | [CUANDO PIENSO EN TI](https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:22 |
 | 12 | [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 |
 | 13 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 14 | [No Hay Solución](https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 49 | [Duele Saber](https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:39 |
 | 50 | [Soy Aquel](https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:47 |
 
-Snapshot ID: `aYvGgAAAAABeDKlvUbQdqSN8J3tNT1nS`
+Snapshot ID: `aY0YAAAAAAD4WxtcYz2hBuq3D7zteCi0`

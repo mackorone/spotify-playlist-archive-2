@@ -3525,8 +3525,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Klunk",
+        "url": "https://open.spotify.com/album/3UHqvrisWMiefwr9OjnmPM"
       },
       "artists": [
         {
@@ -9588,7 +9588,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 174000,
       "name": "En t\u00e5r",
       "url": "https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB"
@@ -17396,7 +17396,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221653,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5OCuFqx1Y8KUdMcJjb5nqA"
@@ -17656,6 +17656,24 @@
       "duration_ms": 166689,
       "name": "Ingen, bara du",
       "url": "https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv"
+    },
+    {
+      "album": {
+        "name": "Ingenting",
+        "url": "https://open.spotify.com/album/1HRxwe5kL63xBlXg4yszJQ"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167318,
+      "name": "Ingenting",
+      "url": "https://open.spotify.com/track/0L7mmcpKaTk5cCJqEF9vVf"
     },
     {
       "album": {
@@ -32234,6 +32252,24 @@
       "duration_ms": 172853,
       "name": "Stockholms d\u00e5rar",
       "url": "https://open.spotify.com/track/4e394atn8SYK4bOrRbEfuJ"
+    },
+    {
+      "album": {
+        "name": "Stockholmsbrud",
+        "url": "https://open.spotify.com/album/4A0ITPScPKfjQJUpcknF8L"
+      },
+      "artists": [
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101562,
+      "name": "Stockholmsbrud",
+      "url": "https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J"
     },
     {
       "album": {

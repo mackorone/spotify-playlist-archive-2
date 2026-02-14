@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40582,
+  "num_followers": 40580,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
+        "name": "A3! Blooming WINTER EP",
+        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
+      },
+      "artists": [
+        {
+          "name": "\u96ea\u767d\u6771(CV:\u67ff\u539f\u5fb9\u4e5f)",
+          "url": "https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "\u6708\u8679\u4e0a\u306e\u30a2\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/3Zg5gxoGnLvYzHZbpW4Ybm"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
         "name": "A3! VIVID AUTUMN EP",
         "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 238613,
       "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9\u30a4\u30fc\u30b8\u30fc\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
-        "name": "A3! Blooming WINTER EP",
-        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
-      },
-      "artists": [
-        {
-          "name": "\u96ea\u767d\u6771(CV:\u67ff\u539f\u5fb9\u4e5f)",
-          "url": "https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "\u6708\u8679\u4e0a\u306e\u30a2\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/3Zg5gxoGnLvYzHZbpW4Ybm"
     },
     {
       "added_at": "2025-04-22 19:04:27",

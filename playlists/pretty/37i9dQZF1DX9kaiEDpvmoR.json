@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93769,
+  "num_followers": 93789,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -75,7 +75,7 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Streets of Minneapolis",
+        "name": "Streets of Minneapolis (Bob Clearmountain Radio Mix)",
         "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
       "artists": [
@@ -84,8 +84,8 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 275831,
-      "name": "Streets of Minneapolis",
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Bob Clearmountain Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 200183,
+      "name": "D\u00e4r huden \u00e4r tunnast",
+      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
         "name": "Mannen i spegeln",
         "url": "https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 174101,
       "name": "Bara kom",
       "url": "https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
-        "name": "M\u00e4nniskobarn",
-        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 200183,
-      "name": "D\u00e4r huden \u00e4r tunnast",
-      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "B\u00e4ttre h\u00e4r",
-        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "B\u00e4ttre h\u00e4r",
-      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Svindlande h\u00f6jder",
         "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 255386,
       "name": "Svindlande h\u00f6jder",
       "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "B\u00e4ttre h\u00e4r",
+        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "B\u00e4ttre h\u00e4r",
+      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Country Enough",
+      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
         "name": "Bara vi andas",
         "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 295520,
       "name": "\u00d6stra Svealand (2025)",
       "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Country Enough",
-      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "I Don't Know How to Love You Anymore",
-        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "I Don't Know How to Love You Anymore",
-      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Mjuk extas",
         "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 271875,
       "name": "L\u00e4gg den h\u00e4r, bredvid min",
       "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "I Don't Know How to Love You Anymore",
+        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "I Don't Know How to Love You Anymore",
+      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
-      },
-      "artists": [
-        {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "K\u00e4rleken \u00e4r kung",
         "url": "https://open.spotify.com/album/27SBkKqyRUA4R2VsZFHrap"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 149153,
       "name": "K\u00e4rleken \u00e4r kung",
       "url": "https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Sjung Sjung",
+        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+      },
+      "artists": [
+        {
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Sjung Sjung",
+      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Sol \u00e5 snygga m\u00e4n",
-        "url": "https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA"
+        "name": "N\u00e4r \u00e4nglar d\u00f6r",
+        "url": "https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN"
       },
       "artists": [
         {
-          "name": "Lina Hedlund",
-          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
         }
       ],
-      "duration_ms": 212339,
-      "name": "Sol \u00e5 snygga m\u00e4n",
-      "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"
+      "duration_ms": 191224,
+      "name": "N\u00e4r \u00e4nglar d\u00f6r",
+      "url": "https://open.spotify.com/track/4xHRjdU7PG09WUMVoKE0p0"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "N\u00e4r \u00e4nglar d\u00f6r",
-        "url": "https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN"
+        "name": "Sol \u00e5 snygga m\u00e4n",
+        "url": "https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA"
       },
       "artists": [
         {
-          "name": "Di Leva",
-          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+          "name": "Lina Hedlund",
+          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
         }
       ],
-      "duration_ms": 191224,
-      "name": "N\u00e4r \u00e4nglar d\u00f6r",
-      "url": "https://open.spotify.com/track/4xHRjdU7PG09WUMVoKE0p0"
+      "duration_ms": 212339,
+      "name": "Sol \u00e5 snygga m\u00e4n",
+      "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Sk\u00f6ldpadds\u00f6n",
         "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 255250,
       "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
       "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
     },
     {
       "added_at": "2026-02-12 23:00:41",

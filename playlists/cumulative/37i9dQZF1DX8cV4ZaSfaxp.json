@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "1,2,3,4",
+        "url": "https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK"
+      },
+      "artists": [
+        {
+          "name": "Jueun",
+          "url": "https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "1,2,3,4 (Feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z"
+    },
+    {
+      "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
       },
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 173296,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 196112,
       "name": "Cream Dream",
       "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
@@ -1814,6 +1836,24 @@
       "duration_ms": 200500,
       "name": "Dilemma - Remastered",
       "url": "https://open.spotify.com/track/1N6UrLYVbLsGKv1xuqbgYk"
+    },
+    {
+      "album": {
+        "name": "post post post!",
+        "url": "https://open.spotify.com/album/4Qvaluop0LSr8nOzg1Cub0"
+      },
+      "artists": [
+        {
+          "name": "Josee",
+          "url": "https://open.spotify.com/artist/7HajZEOIyNTjI0DTeLx8Y1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/2ibh8s36m4hNsVfzRomsTI"
     },
     {
       "album": {
@@ -3259,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Not Just Pretty",
+        "url": "https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168817,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0"
+    },
+    {
+      "album": {
         "name": "Indifferent",
         "url": "https://open.spotify.com/album/08kEhkeRMka48Ejr7uUWIl"
       },
@@ -3664,7 +3722,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197648,
       "name": "Line 1",
       "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"

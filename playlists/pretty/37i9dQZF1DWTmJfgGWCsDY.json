@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 8896,
+  "num_followers": 8909,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Nakuja (Remix)",
+        "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Nakuja - Remix",
+      "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Kuokota",
         "url": "https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 242076,
       "name": "Kuokota",
       "url": "https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Nakuja (Remix)",
-        "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Nakuja - Remix",
-      "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "GUGO",
-        "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
+        "name": "Pita Huku",
+        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
       },
       "artists": [
         {
-          "name": "Mavokali",
-          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 137806,
-      "name": "GUGO",
-      "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
+      "duration_ms": 296727,
+      "name": "Pita Huku",
+      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "GUGO",
+        "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "duration_ms": 137806,
+      "name": "GUGO",
+      "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "We Nani",
         "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 254258,
       "name": "We Nani",
       "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Pita Huku",
-        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 296727,
-      "name": "Pita Huku",
-      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Hainaga Ushemeji",
         "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 199847,
       "name": "Nampakia Mkongo",
       "url": "https://open.spotify.com/track/4JMUGR4012eENHnulffTeN"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Penzi Jipya",
-        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
-      },
-      "artists": [
-        {
-          "name": "Gigy Money",
-          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
-        },
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "Penzi Jipya",
-      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Wewe Hapo",
         "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 148036,
       "name": "Wewe Hapo",
       "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Penzi Jipya",
+        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
+      },
+      "artists": [
+        {
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
+        },
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "Penzi Jipya",
+      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Twende Beach",
-        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
+        "name": "Matunzo",
+        "url": "https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj"
       },
       "artists": [
         {
-          "name": "Mkataba Mc",
-          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 250055,
-      "name": "Twende Beach",
-      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
+      "duration_ms": 183903,
+      "name": "Matunzo",
+      "url": "https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1143,38 +1143,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Matunzo",
-        "url": "https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj"
+        "name": "Twende Beach",
+        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
       },
       "artists": [
         {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Mkataba Mc",
+          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
         }
       ],
-      "duration_ms": 183903,
-      "name": "Matunzo",
-      "url": "https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
-      },
-      "artists": [
-        {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 298358,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+      "duration_ms": 250055,
+      "name": "Twende Beach",
+      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1195,6 +1175,26 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 298358,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1263,26 +1263,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
-        "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
       },
       "artists": [
         {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
-        },
-        {
-          "name": "2Fani",
-          "url": "https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD"
-        },
-        {
-          "name": "Chobamc",
-          "url": "https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM"
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
         }
       ],
-      "duration_ms": 292437,
-      "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
-      "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
+      "duration_ms": 154838,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1303,18 +1295,26 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Maokoto",
-        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
+        "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
+        "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
       },
       "artists": [
         {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        },
+        {
+          "name": "2Fani",
+          "url": "https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD"
+        },
+        {
+          "name": "Chobamc",
+          "url": "https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Maokoto",
-      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
+      "duration_ms": 292437,
+      "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
+      "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
     },
     {
       "added_at": "2026-02-05 23:59:28",

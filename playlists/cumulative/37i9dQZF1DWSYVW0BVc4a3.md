@@ -4,7 +4,7 @@
 
 > All energy\. Cover: Noah Baine
 
-1,402 songs - 4 day 7 hr 31 min
+1,403 songs - 4 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Love's Not Over](https://open.spotify.com/track/3q6mkccpsxtJGGwVedusig) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Silhouette](https://open.spotify.com/artist/0mD76jJsxQwaZLhqgt6XRu), [Kuaigon](https://open.spotify.com/artist/4bgLx8IahWxzxBKpZ1W5Kx) | [Love's Not Over](https://open.spotify.com/album/3dZGnWkLHS96GFdsMGitNW) | 5:50 | 2023-01-26 | 2023-03-10 |
 | [LSD Waterpipe](https://open.spotify.com/track/5KpG0PdVBrzDk5YiWZh981) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:58 | 2022-11-10 | 2023-06-09 |
 | [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 | 2025-05-02 | 2026-01-24 |
+| [Luigi \- Adrian Lux Remix](https://open.spotify.com/track/1MZNgovvRNWxQ7xplEwsGX) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Luigi \(Adrian Lux Remix\)](https://open.spotify.com/album/2S9ctSioXWVbalXzev18p7) | 4:40 | 2026-02-13 |  |
 | [Lush](https://open.spotify.com/track/1QLQAgBAw4FkDbQFzIkhoG) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Lush](https://open.spotify.com/album/4WkNU8w47Cl7slbsZZPpKT) | 5:34 | 2025-03-27 | 2026-01-24 |
 | [Luv 4 Real](https://open.spotify.com/track/54PGeitLMNZPRjA0Bhf6im) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8) | [Luv 4 Real](https://open.spotify.com/album/1jxJnzx5RSlWbTfFUNV8de) | 2:14 | 2022-09-22 | 2023-01-27 |
 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 | 2023-10-19 | 2023-11-03 |
@@ -1173,7 +1174,7 @@
 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-10-31 | 2026-01-24 |
 | [Talk To Me](https://open.spotify.com/track/5ZTRxwqNEDMg7itvpIH8aK) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Talk To Me](https://open.spotify.com/album/1wcVXT9boBDEqxOcOkIP6v) | 3:53 | 2025-01-23 | 2026-01-24 |
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-08-18 | 2023-08-04 |
-| [Tamagucci](https://open.spotify.com/track/0NQhEyuwxND8hM5JSsIg9I) | [Elfenberg](https://open.spotify.com/artist/3rVvL036o05Y34SPRsW63P) | [](https://open.spotify.com/album/null) | 5:04 | 2026-02-12 |  |
+| [Tamagucci](https://open.spotify.com/track/0NQhEyuwxND8hM5JSsIg9I) | [Elfenberg](https://open.spotify.com/artist/3rVvL036o05Y34SPRsW63P) | [Tamagucci](https://open.spotify.com/album/5jXQ5K43Mzh4lq9VWPJar2) | 5:04 | 2026-02-12 |  |
 | [Tarantula \- Max Styler Remix](https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tarantula \(Max Styler Remix\)](https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1) | 3:21 | 2024-03-14 | 2024-06-21 |
 | [Telepathy](https://open.spotify.com/track/1imptEWwm1U7nzM7xtHolX) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Do You EP](https://open.spotify.com/album/401VIvbj3pvOX244fANXs4) | 6:25 | 2023-11-02 | 2023-11-10 |
 | [Tell Me Are We](https://open.spotify.com/track/7q8xVdmpBJHNOA6pZq1Hhw) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [They Will EP](https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ) | 6:53 | 2022-08-19 | 2022-12-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,494 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,605 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 65 | [Luck Ra: Bzrp Music Sessions, Vol\. 61/66](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61/66](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 |
 | 66 | [SUERTE](https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [SUERTE](https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz) | 3:13 |
 | 67 | [ENAMORARSE PARA QUE](https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk) | [VIUS](https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE) | [ENAMORARSE PARA QUE](https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ) | 3:04 |
-| 68 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
-| 69 | [Chulo pt.2](https://open.spotify.com/track/1NCF4UUsuT6Xzw2Zxd43PJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 3:38 |
+| 68 | [Chulo pt.2](https://open.spotify.com/track/1NCF4UUsuT6Xzw2Zxd43PJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 3:38 |
+| 69 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
 | 70 | [MR\. MOONDIAL](https://open.spotify.com/track/67LKV40NfSSGIJnm0xz6fi) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 2:45 |
 | 71 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 72 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 81 | [Apaga la luz](https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Apaga la luz](https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf) | 3:23 |
 | 82 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 83 | [Down](https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down](https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW) | 3:15 |
-| 84 | [Bien Pedos](https://open.spotify.com/track/7q1pnIpmnWs6MlGXMTl4LP) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bien Pedos](https://open.spotify.com/album/3qDhZmw3QQKPBq8KASPzTm) | 2:27 |
-| 85 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 |
+| 84 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 |
+| 85 | [Bien Pedos](https://open.spotify.com/track/7q1pnIpmnWs6MlGXMTl4LP) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bien Pedos](https://open.spotify.com/album/3qDhZmw3QQKPBq8KASPzTm) | 2:27 |
 | 86 | [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
 | 87 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 |
 | 88 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [X TI](https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [X TI](https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V) | 3:35 |
 | 100 | [RU MOR](https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC) | 2:26 |
 
-Snapshot ID: `AAAAAJiJKfdhu/ePtpdzgdmy3FSGPgdd`
+Snapshot ID: `AAAAAIajJ2jEIcftGq+yvuRBlynD/zYT`

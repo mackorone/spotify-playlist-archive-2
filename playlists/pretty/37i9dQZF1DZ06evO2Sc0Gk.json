@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21182,
+  "num_followers": 21186,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACD8C9Nsw8rYuQjyjDJSS/w",
+  "snapshot_id": "aY0YAAAAAAA3hhDtiWmIeXjn/QWFUmlM",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody: The Extended Playlist (Worldwide Remixes)",
         "url": "https://open.spotify.com/album/1EHqy12UQ5mRrVOOQlzxtY"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 146666,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2hQG5UZ0DZD0lCpq3rwoWx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "Ohema (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
         "url": "https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 204832,
       "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
       "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "Ohema (feat. Mr Eazi)",
-      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Wait For Your Love",
-      "url": "https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corny",
         "url": "https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 174821,
       "name": "Corny",
       "url": "https://open.spotify.com/track/4OnkZxUQMN9D7ZjGuxEd7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Wait For Your Love",
+      "url": "https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9"
     },
     {
       "added_at": null,
@@ -711,6 +711,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Walk Alone",
         "url": "https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 214710,
       "name": "Never Walk Alone",
       "url": "https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Dabebi",
-      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 205990,
-      "name": "Make E No Tey",
-      "url": "https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 119290,
       "name": "Saudi Arabia",
       "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 205990,
+      "name": "Make E No Tey",
+      "url": "https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marry",
-        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 209841,
-      "name": "Marry",
-      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -1035,6 +1015,34 @@
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
+      },
+      "artists": [
+        {
+          "name": "DJ Battle",
+          "url": "https://open.spotify.com/artist/5rQh3Nz0mE7UaBIp9hotMq"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 213354,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
     }
   ],
   "unique_name": "This Is Mr Eazi",

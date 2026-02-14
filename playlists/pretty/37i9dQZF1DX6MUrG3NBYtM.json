@@ -1,6 +1,6 @@
 {
   "description": "Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock \ud83d\udd25\ud83e\udd1f\ud83c\udffb",
-  "num_followers": 106295,
+  "num_followers": 106290,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "Girl In Red",
-        "url": "https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR"
-      },
-      "artists": [
-        {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
-        }
-      ],
-      "duration_ms": 213312,
-      "name": "Girl In Red",
-      "url": "https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
         "name": "Emo Song",
         "url": "https://open.spotify.com/album/57eDLXzpt2x9Mu5uBZ0eFj"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "All Night All Day",
-        "url": "https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN"
+        "name": "Girl In Red",
+        "url": "https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
         }
       ],
-      "duration_ms": 288818,
-      "name": "All Night All Day",
-      "url": "https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI"
+      "duration_ms": 213312,
+      "name": "Girl In Red",
+      "url": "https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -755,6 +739,22 @@
       "duration_ms": 204631,
       "name": "Legalize Living",
       "url": "https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
+        "name": "All Night All Day",
+        "url": "https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 288818,
+      "name": "All Night All Day",
+      "url": "https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
+        "name": "Burn Me Like a Cigarette",
+        "url": "https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "duration_ms": 201349,
+      "name": "Burn Me Like a Cigarette",
+      "url": "https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
         "name": "Dark Sky Reserve",
         "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 199330,
       "name": "Departure",
       "url": "https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
-        "name": "Burn Me Like a Cigarette",
-        "url": "https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 201349,
-      "name": "Burn Me Like a Cigarette",
-      "url": "https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj"
     },
     {
       "added_at": "2026-02-05 23:00:09",

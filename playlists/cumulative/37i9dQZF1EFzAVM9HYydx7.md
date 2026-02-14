@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-343 songs - 21 hr 10 min
+344 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,8 @@
 | [TOUCH ME](https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:46 | 2025-11-26 |  |
 | [Tough Love](https://open.spotify.com/track/1Y96TJIhZCg8gyvOKalieY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:04 | 2023-12-13 |  |
 | [Traumatized](https://open.spotify.com/track/3MhauDni0SoCRSfv3eSrts) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:10 | 2023-12-13 |  |
-| [Tsunami \(feat\. Davido\)](https://open.spotify.com/track/434baZo99jvOx6y6oFeQZQ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:28 | 2023-12-13 |  |
+| [Tsunami](https://open.spotify.com/track/6a2lBvIpei0ZJGsDr9nL82) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU) | 3:28 | 2026-02-13 |  |
+| [Tsunami \(feat\. Davido\)](https://open.spotify.com/track/434baZo99jvOx6y6oFeQZQ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:28 | 2023-12-13 | 2026-02-14 |
 | [Tweaking \(feat\. Vory\)](https://open.spotify.com/track/0OOQ6JTTFaWIoUWc6r33w4) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:17 | 2023-12-13 |  |
 | [Tyler Herro](https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:36 | 2023-12-14 |  |
 | [Tyler Herro](https://open.spotify.com/track/2AYVCBa6i7nZb9iE8BeJEZ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/48ToOBdKzHVxW7I3n8HNbc) | 3:01 | 2023-12-13 | 2024-02-01 |

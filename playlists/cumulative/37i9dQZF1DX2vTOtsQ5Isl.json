@@ -329,8 +329,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 150428,
       "name": "Hard to be Humble",
       "url": "https://open.spotify.com/track/53tIbFSsEflxrSFASVlT2A"
@@ -4020,6 +4020,24 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
     },
     {
       "album": {
@@ -9071,24 +9089,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "date_added": "2026-02-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
-    },
-    {
-      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -9143,8 +9143,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
       "artists": [
         {
@@ -9198,6 +9198,24 @@
       "duration_ms": 135919,
       "name": "u don't have to tell me",
       "url": "https://open.spotify.com/track/6U5AgSYUubKMrMDEazfSsF"
+    },
+    {
+      "album": {
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "album": {

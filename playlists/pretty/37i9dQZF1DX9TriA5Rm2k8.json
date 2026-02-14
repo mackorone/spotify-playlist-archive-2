@@ -1,6 +1,6 @@
 {
   "description": "Just good energy",
-  "num_followers": 576702,
+  "num_followers": 576704,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-02-03 13:00:12",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "You Were Right",
+      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
+    },
+    {
+      "added_at": "2026-02-03 13:00:12",
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 207830,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2026-02-03 13:00:12",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 239417,
-      "name": "You Were Right",
-      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
     },
     {
       "added_at": "2026-02-03 13:00:12",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-02-03 13:00:12",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
-    },
-    {
-      "added_at": "2026-02-03 13:00:12",
-      "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 154139,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2026-02-03 13:00:12",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     }
   ],
   "unique_name": "Vibe Check",

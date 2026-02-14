@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 59235,
+  "num_followers": 59269,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -1055,18 +1055,34 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 01 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/1YvIPbEswjzNJcTBD1S5EA"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 09",
+        "url": "https://open.spotify.com/album/3mmxRh4FcAMN8OgG9Q4QF2"
       },
       "artists": [
         {
           "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        },
+        {
+          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
+        },
+        {
+          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
+        },
+        {
+          "name": "\u30bf\u30a4\u30ad\u30b7\u30e3\u30c8\u30eb (CV. \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz"
+        },
+        {
+          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
         }
       ],
-      "duration_ms": 291373,
-      "name": "\u604b\u306f\u30c0\u30fc\u30d3\u30fc\u2606 - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/2sR0LFbq4rPjtOV06qaboK"
+      "duration_ms": 287800,
+      "name": "Ms. VICTORIA",
+      "url": "https://open.spotify.com/track/3LAp74LpBYMt7TzlypsTLe"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1187,34 +1203,18 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 09",
-        "url": "https://open.spotify.com/album/3mmxRh4FcAMN8OgG9Q4QF2"
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 01 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/1YvIPbEswjzNJcTBD1S5EA"
       },
       "artists": [
         {
           "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
-        },
-        {
-          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
-          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
-        },
-        {
-          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
-        },
-        {
-          "name": "\u30bf\u30a4\u30ad\u30b7\u30e3\u30c8\u30eb (CV. \u5927\u576a\u7531\u4f73)",
-          "url": "https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz"
-        },
-        {
-          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
-          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
         }
       ],
-      "duration_ms": 287800,
-      "name": "Ms. VICTORIA",
-      "url": "https://open.spotify.com/track/3LAp74LpBYMt7TzlypsTLe"
+      "duration_ms": 291373,
+      "name": "\u604b\u306f\u30c0\u30fc\u30d3\u30fc\u2606 - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/2sR0LFbq4rPjtOV06qaboK"
     },
     {
       "added_at": "2026-01-13 16:30:52",

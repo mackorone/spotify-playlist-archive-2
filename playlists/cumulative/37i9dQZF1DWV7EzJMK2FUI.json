@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "A Table For Two",
+        "url": "https://open.spotify.com/album/1BEHGnDIhU6Xlnh5hhdvqu"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227220,
+      "name": "A Table For Two",
+      "url": "https://open.spotify.com/track/6Uipf5WgTnk9S9NduNhbq8"
+    },
+    {
+      "album": {
         "name": "A Tale of Two Hearts",
         "url": "https://open.spotify.com/album/2S8mcAxKbT3epmgZjsom4Y"
       },
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 253482,
       "name": "After The Wine Is Gone",
       "url": "https://open.spotify.com/track/1iVhmcgJ5wBdw8xFdAnon0"
@@ -5438,7 +5456,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 264000,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/2gpIU1Y1BPo1sBbH9hhz8T"
@@ -6144,6 +6162,24 @@
       "duration_ms": 186089,
       "name": "Don't Blame Me",
       "url": "https://open.spotify.com/track/5BDOsVUha92UcNnDmZkWTR"
+    },
+    {
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/4EM288jd1XLvy5H4AE7mbt"
+      },
+      "artists": [
+        {
+          "name": "Soho Static",
+          "url": "https://open.spotify.com/artist/55fqd9FlZE1UsrkMR4EAu7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270909,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/11GXnmSmAbHMRKnDCKBeR6"
     },
     {
       "album": {
@@ -7272,6 +7308,24 @@
       "duration_ms": 161752,
       "name": "Everything Happens To Me",
       "url": "https://open.spotify.com/track/5skJZRiUtObQ6tR130S5O1"
+    },
+    {
+      "album": {
+        "name": "Everything I Could Dream Of",
+        "url": "https://open.spotify.com/album/5M6bPGEinV6oXwU8yNNPLh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Olofsson",
+          "url": "https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Everything I Could Dream Of",
+      "url": "https://open.spotify.com/track/64IQpQEDxXYVhCzKDi5L2a"
     },
     {
       "album": {
@@ -11353,6 +11407,24 @@
     },
     {
       "album": {
+        "name": "If I Knew You",
+        "url": "https://open.spotify.com/album/0rPJDWhwwWPa8EolWOgXDK"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232148,
+      "name": "If I Knew You",
+      "url": "https://open.spotify.com/track/5OClBgfVkx8S7S9xh8Gzkr"
+    },
+    {
+      "album": {
         "name": "If we don't meet again",
         "url": "https://open.spotify.com/album/5RUKXQ3Z5KIeWu6gZxCjGV"
       },
@@ -14458,7 +14530,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210022,
       "name": "Long Way Around",
       "url": "https://open.spotify.com/track/0Nyao8vuYttfo626fMUfP7"
@@ -18423,6 +18495,24 @@
     },
     {
       "album": {
+        "name": "On the Rocks",
+        "url": "https://open.spotify.com/album/3oeBzzjvyT4ynPeJ3Nm6MX"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "On the Rocks",
+      "url": "https://open.spotify.com/track/0c7qXavs8YwbhYo0oWKUN9"
+    },
+    {
+      "album": {
         "name": "On The Street Where You Live",
         "url": "https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv"
       },
@@ -20588,7 +20678,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 238944,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/5wHPfGY0NUNQO7VgAiBrAQ"
@@ -21420,6 +21510,24 @@
       "duration_ms": 199974,
       "name": "Six Copies",
       "url": "https://open.spotify.com/track/3OnVhUvvgbm9ca4UW1Agh8"
+    },
+    {
+      "album": {
+        "name": "Skip To Be Sorry",
+        "url": "https://open.spotify.com/album/26ZpXHPu5sRL4ZqPxSfaPc"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "Skip To Be Sorry",
+      "url": "https://open.spotify.com/track/5IDgRkmoU7QRQ18OTiFCCd"
     },
     {
       "album": {
@@ -22568,10 +22676,28 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148136,
       "name": "Spring In The City",
       "url": "https://open.spotify.com/track/6e505fkseuEwllclp05MRj"
+    },
+    {
+      "album": {
+        "name": "Spring Into Summer",
+        "url": "https://open.spotify.com/album/0BwYFXtc4ZJrDkSN3PCqcS"
+      },
+      "artists": [
+        {
+          "name": "The Soft Geometry",
+          "url": "https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162991,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/7GNH7oxM6xq3WljPf92P9U"
     },
     {
       "album": {
@@ -23655,6 +23781,24 @@
     },
     {
       "album": {
+        "name": "Taxi To Nowhere",
+        "url": "https://open.spotify.com/album/48qesvWm1bjQe2HTu8vPFE"
+      },
+      "artists": [
+        {
+          "name": "Pinewood Trio",
+          "url": "https://open.spotify.com/artist/0Nwow8ooo0bSITVYtQuzcz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238624,
+      "name": "Taxi To Nowhere",
+      "url": "https://open.spotify.com/track/02MoJPJD25xXR8qspzry6X"
+    },
+    {
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/0pMEVveaBgad6gYjbgwkcT"
       },
@@ -24102,6 +24246,24 @@
       "duration_ms": 185301,
       "name": "The Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey"
+    },
+    {
+      "album": {
+        "name": "The Diary",
+        "url": "https://open.spotify.com/album/4Xu6xpEFa3r5xx4nIjqDuJ"
+      },
+      "artists": [
+        {
+          "name": "Levi Hollis",
+          "url": "https://open.spotify.com/artist/1qX2ZmbjKsrW9gAqmJXvJg"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305032,
+      "name": "The Diary",
+      "url": "https://open.spotify.com/track/6UYwRVtegmXIjdyodYtFTx"
     },
     {
       "album": {
@@ -24980,7 +25142,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 209812,
       "name": "The Sky Is Not the Limit",
       "url": "https://open.spotify.com/track/1pwgaTFDXIp1SB3rvb5U9G"
@@ -25196,7 +25358,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 214508,
       "name": "The Way We Looked Then",
       "url": "https://open.spotify.com/track/7f1c51MW06vPI4049aQRqg"
@@ -26666,6 +26828,24 @@
     {
       "album": {
         "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7u20mRAxakznzbLGqibyvc"
+      },
+      "artists": [
+        {
+          "name": "Arthur Taylor Trio",
+          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215406,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/6k3oz0rUTLMWdCMyQYZv0Q"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
         "url": "https://open.spotify.com/album/1JhUCymiRLse2OsgguYg6L"
       },
       "artists": [
@@ -26784,7 +26964,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187750,
       "name": "Upstairs",
       "url": "https://open.spotify.com/track/0pBXUkgAFnKXQpJIHUibfd"
@@ -27522,7 +27702,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 209182,
       "name": "We Shouldn't",
       "url": "https://open.spotify.com/track/1zwcwBTVGgHmiu4HEDHK4R"
@@ -27702,7 +27882,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 151750,
       "name": "What a Wednesday",
       "url": "https://open.spotify.com/track/6We8xuNdIWCzb5YOw1i5Je"

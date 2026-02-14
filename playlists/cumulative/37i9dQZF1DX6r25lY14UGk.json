@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: PoppyNoji",
+  "description": "New releases for the kids. Cover: Peppa Pig",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 112000,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/5KmuQvBDnwJe6olHzoED6Y"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 125374,
       "name": "Bettina the Cow Song",
       "url": "https://open.spotify.com/track/3iItJj2MEwoomgGwqmIvEm"
@@ -2803,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Circle Time Songs",
+        "url": "https://open.spotify.com/album/2l5gr4Ocz2et0OfqWnB6Sr"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63124,
+      "name": "Circle Time",
+      "url": "https://open.spotify.com/track/1JGICQTrQQ6ynHH17uTiHu"
+    },
+    {
+      "album": {
         "name": "Clap your hands",
         "url": "https://open.spotify.com/album/1cAd8oEc0Dm980LLr6GnmU"
       },
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199828,
       "name": "Dance Dice",
       "url": "https://open.spotify.com/track/543LGaSXi3BRigq9WCPbfZ"
@@ -10066,7 +10084,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 220563,
       "name": "Letters and Words",
       "url": "https://open.spotify.com/track/5aSRoACH3758QHss56EzMO"
@@ -11667,6 +11685,24 @@
     },
     {
       "album": {
+        "name": "Pinkfong & Ninimo Sing Along",
+        "url": "https://open.spotify.com/album/4VJ01vdJN6Iy8S7nxWWWrK"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183889,
+      "name": "My Friend Is Trapped in a Game!",
+      "url": "https://open.spotify.com/track/2ycJk46uEfyApIkIn6hBeP"
+    },
+    {
+      "album": {
         "name": "My Glasses",
         "url": "https://open.spotify.com/album/46oM8rVMVtzwTbxu5BA78a"
       },
@@ -11780,6 +11816,24 @@
       "duration_ms": 115801,
       "name": "My Quiet Cat",
       "url": "https://open.spotify.com/track/50HwMvo7N0stcxfrctc8fq"
+    },
+    {
+      "album": {
+        "name": "My Super Hero",
+        "url": "https://open.spotify.com/album/1GPSLJrdFb2JKFfG5pbIuK"
+      },
+      "artists": [
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129921,
+      "name": "My Super Hero",
+      "url": "https://open.spotify.com/track/6rmq2ysP6imbFkD2TI13tK"
     },
     {
       "album": {
@@ -15037,6 +15091,24 @@
     },
     {
       "album": {
+        "name": "Spring Time (Skye's Music Party)",
+        "url": "https://open.spotify.com/album/3iEiuBG0ya4ywxtjhMIDs7"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121327,
+      "name": "Spring Time - Skye's Music Party",
+      "url": "https://open.spotify.com/track/5XXkjA11BRgZD2oysEndGH"
+    },
+    {
+      "album": {
         "name": "Let Love Be Your Guide",
         "url": "https://open.spotify.com/album/29YQcKWonRl02h3pypRui6"
       },
@@ -15987,6 +16059,24 @@
     },
     {
       "album": {
+        "name": "The Animals On the Farm",
+        "url": "https://open.spotify.com/album/2qzldCNrf6w2L6ORJjqpXs"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181845,
+      "name": "The Animals on the Farm",
+      "url": "https://open.spotify.com/track/1Mpp2CF7OtZWa4kGkvFP94"
+    },
+    {
+      "album": {
         "name": "The Ant And The Elephant - Nursery Rhymes",
         "url": "https://open.spotify.com/album/2BkyBc4e9VebLWYq2c7BXv"
       },
@@ -16624,7 +16714,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 56160,
       "name": "The Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/6wtcf4mEN54S6uriJnLZEy"

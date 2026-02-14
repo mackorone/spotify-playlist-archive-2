@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: 雷同二友
 
-633 songs - 1 day 13 hr 39 min
+634 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [喵喵厭世學](https://open.spotify.com/track/5Cex2CJTLDN1bWbtF9RZ8W) | [黃健怡](https://open.spotify.com/artist/7qajreH6nUWuPXAoW2BFSb) | [喵喵厭世學](https://open.spotify.com/album/7kEm3PHPvDwFbVDIMXXuwV) | 4:01 | 2024-06-27 | 2025-09-12 |
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2024-06-27 | 2025-09-12 |
 | [回望 \(劇集 '我愛九龍城' 主題曲\)](https://open.spotify.com/track/5EYHwU9P9ziWeR2nkn16sT) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [回望 \(劇集 '我愛九龍城' 主題曲\)](https://open.spotify.com/album/452SLZP43DIZBvND4JPr87) | 3:35 | 2025-08-28 |  |
+| [因为你世界又多一份光亮](https://open.spotify.com/track/4gXP06yT0TrjwM7izdamGe) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [因为你世界又多一份光亮](https://open.spotify.com/album/7ctDzanVDppGxTLyFQZZEp) | 3:38 | 2026-02-12 |  |
 | [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/track/0amgqlDzvmEecNiTLY1WRG) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [在一起 \(劇集《企業強人》片尾曲\)](https://open.spotify.com/album/5RHO7NydhLDSx2b1Bi2JU1) | 3:34 | 2024-09-19 | 2025-09-12 |
 | [垃圾女星](https://open.spotify.com/track/2tAHyOEk02Ao7hGMazvaFg) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [垃圾女星](https://open.spotify.com/album/7hIgg1r3CdA8OgHHbFCDtN) | 3:31 | 2024-06-27 | 2025-09-12 |
 | [報復式浪漫](https://open.spotify.com/track/6HITvIt0YrLqYbDzyl1pbI) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [TOKYO BLOOM](https://open.spotify.com/album/5bwMm6xNRjR4s55ADigscJ) | 4:09 | 2024-06-27 | 2025-09-12 |

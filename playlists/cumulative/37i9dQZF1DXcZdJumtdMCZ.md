@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : San T
 
-279 songs - 14 hr 59 min
+280 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Kaara Aattakkaara](https://open.spotify.com/track/0uEtUhy8xAX1fJFiqNs5sr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8), [Darshana K.T.](https://open.spotify.com/artist/69PTuf4WpmquWtR8AU6mKt), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [O Kadhal Kanmani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6XBC9UsX48MzHICIr9m0hj) | 5:36 | 2022-02-08 | 2025-05-10 |
 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2025-01-30 | 2026-02-06 |
 | [Kadala Curry](https://open.spotify.com/track/5n3yg2rW8wQNK44zPAymgp) | [Sunil Jacksz](https://open.spotify.com/artist/5nx79ILI7Kv5NnqXUvuKM5), [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4) | [Kadala Curry](https://open.spotify.com/album/6wV4PfjEeOerup1bDhktVq) | 2:08 | 2026-01-12 |  |
+| [Kadhalum Bodhai Kolla](https://open.spotify.com/track/4Ij9ribfzrfZoTkggDuTgC) | [Rejoy](https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA) | [Kadhalum Bodhai Kolla](https://open.spotify.com/album/64WSscs63dkQWJa2JixFk7) | 2:10 | 2026-02-13 |  |
 | [Kadikaram](https://open.spotify.com/track/6gRmFskLewWFeQSCecPphQ) | [Md Sheik](https://open.spotify.com/artist/4VfIJZ04vNbMGRVKPmipuA) | [Kadikaram](https://open.spotify.com/album/6Ju9c2cy7jX3WIOVupornL) | 3:04 | 2024-12-29 | 2025-09-19 |
 | [Kaipulla](https://open.spotify.com/track/2hMv5q3vOFyYDdzLgH723o) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Rahul Sridhar](https://open.spotify.com/artist/69Ohr3pW7zekL2xapF7DcU) | [Kaipulla](https://open.spotify.com/album/7AdERwcJFbPxFB1QFWYocB) | 2:18 | 2025-11-28 |  |
 | [Kallu Song](https://open.spotify.com/track/1KzqlTr90YD1kxXsmo3ece) | [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT) | [Kallu Song](https://open.spotify.com/album/51eZEXdRR32QG0Gw5YBmKX) | 2:06 | 2025-10-22 | 2025-12-11 |

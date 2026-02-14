@@ -435,6 +435,36 @@
     },
     {
       "album": {
+        "name": "O Grande Banquete",
+        "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
+      },
+      "artists": [
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        },
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315943,
+      "name": "Au\u00ea (A F\u00e9 Ganhou)",
+      "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
+    },
+    {
+      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs"
       },
@@ -2906,7 +2936,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 566865,
       "name": "Pode Morar Aqui",
       "url": "https://open.spotify.com/track/3SSb1jUojmZLbml3S3f9bN"

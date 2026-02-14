@@ -4,7 +4,7 @@
 
 > Hand\-picked releases from the new wave in soul\. Cover: EASY FREAK
 
-622 songs - 1 day 11 hr 57 min
+623 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [I See You](https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:58 | 2022-10-28 | 2023-02-18 |
 | [I See You](https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:58 | 2022-02-10 | 2022-11-02 |
 | [I Used to Blame Others](https://open.spotify.com/track/1kA6PCZmtjHXvkXJV7YRZI) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D) | [I Used to Blame Others](https://open.spotify.com/album/40Vw94C1sS4kMsgY8Yp9h4) | 3:19 | 2022-04-28 | 2022-10-15 |
+| [I Wish](https://open.spotify.com/track/5V4iJ01jVGVokqy7mrwSoH) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Wish](https://open.spotify.com/album/5E0vnfYJ8WJIFjEqwjettq) | 2:36 | 2026-02-13 |  |
 | [I'll Be Your Friend](https://open.spotify.com/track/48wmbIMECpmc4FyNtLL1VI) | [Antares Flare](https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ), [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Piero Conte](https://open.spotify.com/artist/1cpO9uPVOrwgYGOqtMU8f8) | [I'll Be Your Friend](https://open.spotify.com/album/7o5LHcnX1sLlB8wGP9FZqp) | 4:06 | 2025-04-17 | 2025-12-06 |
 | [I'm Trying](https://open.spotify.com/track/62VtlNPhJPlb0nqlL2Tn4L) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp) | [I'm Trying](https://open.spotify.com/album/42CmiJbrEQNYNkIYzKr6ZJ) | 3:08 | 2021-12-16 | 2022-02-11 |
 | [Icarus](https://open.spotify.com/track/2KzpsnZztszanilxkAQBTh) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [ICARUS](https://open.spotify.com/album/6aGniRX6xCiybxgzc6llFD) | 4:58 | 2021-12-16 | 2022-02-25 |

@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/3hgvAfSpFJe4X2gdpoaLUE"
+      },
+      "artists": [
+        {
+          "name": "Gannon Fremin & CCREV",
+          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205679,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/2cfjKoRvAdT7jOfTLAyIwq"
+    },
+    {
+      "album": {
         "name": "Cowboys Did Cocaine",
         "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
       },

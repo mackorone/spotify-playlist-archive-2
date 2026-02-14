@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Eugene Racaza
 
-3,998 songs - 9 day 17 hr 25 min
+3,998 songs - 9 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1819,6 +1819,7 @@
 | [Kinalimutan](https://open.spotify.com/track/6BLwo7mJds9RR3v8bIMHoF) | [The Early Ears](https://open.spotify.com/artist/7o9WMlej7AoTMhELT2Acp2) | [Kinalimutan](https://open.spotify.com/album/0igmoPSvZEJgzoXRutDnTd) | 4:46 | 2023-10-05 | 2023-11-11 |
 | [kinda like it](https://open.spotify.com/track/3l2vrB2URLNbMWCMg6f5lL) | [echi](https://open.spotify.com/artist/0l6KoMnX9bILCknzRTPll5), [Denji](https://open.spotify.com/artist/72wwIgy5ULqf6mFqMiSjVm), [RETRO](https://open.spotify.com/artist/5JQ5QsmDCpzhi6StRcYxqf) | [kinda like it](https://open.spotify.com/album/3RFQeCJ0JIfBKyu71DuDfa) | 3:11 | 2025-01-23 | 2025-02-28 |
 | [Kindat](https://open.spotify.com/track/7FF00z9EmiqgSIvxRX2Hzq) | [Ayaka](https://open.spotify.com/artist/3uoiW2vUQd9pXK8q8vVJ7l), [Beatrice Mariel](https://open.spotify.com/artist/2phmP9IVWMCQJbD4JXj6fX), [Odri](https://open.spotify.com/artist/3dkiiS5m6L2FQWXJGLNpUh) | [Kindat](https://open.spotify.com/album/48vOefVUzZMEQ2oaKul6eC) | 2:43 | 2025-02-14 | 2025-04-04 |
+| [King of Sadtown](https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [King of Sadtown](https://open.spotify.com/album/3JYPXy9wUuPHw1tkU6GiWR) | 3:16 | 2026-02-12 |  |
 | [King\-Ill Freestyle](https://open.spotify.com/track/4OmmlheoypfzMqEhkiaopJ) | [Slader](https://open.spotify.com/artist/0rvUGkKiWLmwZ2lXJqbc0S), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [AnZietyDepression](https://open.spotify.com/album/1ME0JcIEqEc7Vj6XmXhWSl) | 2:44 | 2022-10-13 | 2023-02-03 |
 | [Kinikilig Pa Rin Ako](https://open.spotify.com/track/5ZxMq4oH6Oq6M6Y1oUahZZ) | [Kheed Mendoza](https://open.spotify.com/artist/2tTrLR2zP9657x2hPiGU6Q) | [Kinikilig Pa Rin Ako](https://open.spotify.com/album/3fSjGbCYIP9eB9nVjK70Sx) | 3:11 | 2024-06-27 | 2024-07-27 |
 | [KINSA KA?](https://open.spotify.com/track/1Wlj6tPyx27AD3hYyzfWwe) | [Nier V](https://open.spotify.com/artist/4T3XeWHurbFyAOn5L0oFlP) | [KINSA KA?](https://open.spotify.com/album/6bMIm89sZvbwWnk4EspnMK) | 2:31 | 2024-09-12 | 2024-10-04 |
@@ -3633,7 +3634,6 @@
 | [TOXIC](https://open.spotify.com/track/1jJb9OuE26uSzFep0XJaYt) | [KZZY](https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E), [Dominsuu](https://open.spotify.com/artist/2u913cPvHStJrhCDTLckhU) | [TOXIC](https://open.spotify.com/album/0VhzIC8f5QzF64lUgohJnU) | 2:41 | 2024-04-11 | 2024-06-01 |
 | [Toxic Kiss](https://open.spotify.com/track/0tdTaCoELlYv9jQZnBrpR6) | [YUZON](https://open.spotify.com/artist/2vVmdFWujk0ZF5H2f39xY6) | [Toxic Kiss](https://open.spotify.com/album/3PFZokQ6m4NzcPydrWgMqP) | 3:32 | 2023-02-23 | 2023-03-10 |
 | [Toyo](https://open.spotify.com/track/3swCmgkJL1LtMGMQPlGUK0) | [Mikee Genie](https://open.spotify.com/artist/3gWcGwZWiX2vcQylqC552M) | [Toyo](https://open.spotify.com/album/1ROZNS7QSkmr8mQddlC5yD) | 3:54 | 2025-05-01 | 2025-06-13 |
-| [Track 6](https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Tragedy](https://open.spotify.com/track/3XPeZXx4dHZoyx6l4Ov5IZ) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Tragedy](https://open.spotify.com/album/5BI0KJ0Pk2fCyYdIpGGX07) | 3:53 | 2022-09-08 | 2022-11-25 |
 | [Tragedy](https://open.spotify.com/track/5CnPw5SHRXjSDfzctxeN4X) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Tragedy](https://open.spotify.com/album/1VRDjSLobepbb9zwy5Xdyc) | 3:53 | 2024-02-15 | 2024-03-22 |
 | [Transit](https://open.spotify.com/track/4LQGtHm1urEStDmLSaCwfC) | [Keith Martin Reyes](https://open.spotify.com/artist/2DaczBzAP5HPI5x7xEynwq) | [Transit](https://open.spotify.com/album/1zjQEnkwQZNKWWTqKpFAWG) | 3:57 | 2025-01-23 | 2025-02-28 |

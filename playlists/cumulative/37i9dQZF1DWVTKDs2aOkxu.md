@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Bleachers
 
-831 songs - 2 day 1 hr 27 min
+832 songs - 2 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-28 | 2025-04-28 |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-27 | 2024-09-21 |
 | [Cherry Pie](https://open.spotify.com/track/7GKQLqLE8Fsz98l7HHbR0G) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Cherry Pie](https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1) | 4:09 | 2024-09-12 | 2025-01-17 |
+| [Chick Flick](https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Chick Flick](https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi) | 3:22 | 2026-02-13 |  |
 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 | 2024-12-06 | 2024-12-20 |
 | [Chin Up](https://open.spotify.com/track/66KZtX4hp3Y7JaqmNL5z4i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:23 | 2025-02-21 | 2025-03-14 |
 | [Chrysalis](https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Chrysalis](https://open.spotify.com/album/5JUBmHorgabNcHUb8fbtxy) | 3:28 | 2025-05-30 | 2025-06-13 |
@@ -623,7 +624,7 @@
 | [Sideways](https://open.spotify.com/track/5fLbVEHBkaGnK9jsVFpDLI) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Sideways](https://open.spotify.com/album/4qmH3sNIPphfjrsruLfUiE) | 3:07 | 2025-08-28 | 2025-09-12 |
 | [Silver Ford](https://open.spotify.com/track/1tpgA9lmb1m3qZm1qTnJtD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Devotion](https://open.spotify.com/album/27vmolsE6YhpGbZoMfdjcv) | 3:56 | 2025-05-08 | 2025-07-05 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-06-27 | 2024-07-27 |
-| [Sisters \(feat\. Ninajirachi\)](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters \(feat\. Ninajirachi\)](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 | 2026-02-13 |  |
+| [Sisters](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 | 2026-02-13 |  |
 | [Sit Down And Love Again](https://open.spotify.com/track/4RxEoid1ToLKeWjiG5SYnK) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Sit Down And Love Again](https://open.spotify.com/album/42vfOd3wvScoT0GEZWF5w1) | 1:59 | 2024-08-15 | 2024-08-30 |
 | [Skeletons Coupling](https://open.spotify.com/track/3AjfZFzMkI6jr4r1JKAOd0) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Skeletons Coupling](https://open.spotify.com/album/5cPMW5JjKembPp2CJBKPHu) | 3:27 | 2025-08-21 | 2025-11-14 |
 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 | 2025-03-07 | 2025-03-28 |

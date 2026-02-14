@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 98 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [HighSchool](https://open.spotify.com/album/3AkpBHPOvTPlxXPEhmNp1b) | 3:51 |
 | 99 | [Burning Up](https://open.spotify.com/track/6KWiyZvFVhxeZcZNi0AVnv) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [Burning Up](https://open.spotify.com/album/5YRugobEW4k70jcSy7uVnO) | 2:56 |
 
-Snapshot ID: `AAAAAPsJ02MDeTYb6kFEUkfi4boPAye6`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,759 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,801 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 44 | [In Your Eyes \(Acoustic\)](https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [In Your Eyes \(Acoustic\)](https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ) | 4:33 |
 | 45 | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN) | 3:42 |
 | 46 | [Take on Me](https://open.spotify.com/track/5idADky7mHihopJGObd4hf) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Take on Me](https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq) | 3:28 |
-| 47 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
-| 48 | [I Can't Make You Love Me](https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [I Can't Make You Love Me](https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx) | 4:51 |
+| 47 | [I Can't Make You Love Me](https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [I Can't Make You Love Me](https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx) | 4:51 |
+| 48 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
 | 49 | [Youth](https://open.spotify.com/track/4ulix0RIyXmuNLgwPaz46S) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/3QRsoT9KLOyYYkNRtEkpRI) | 2:40 |
 | 50 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 |
 | 51 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 76 | [In The Aeroplane Over The Sea](https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In The Aeroplane Over The Sea](https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u) | 3:41 |
 | 77 | [Ultralight Beam](https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 2:55 |
 | 78 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
-| 79 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
-| 80 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
+| 79 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
+| 80 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
 | 81 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 | 82 | [The Tourist](https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 4:52 |
 | 83 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 95 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 |
 | 96 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |
 | 97 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
-| 98 | [Come As You Are](https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv) | 2:45 |
-| 99 | [Let's Dance](https://open.spotify.com/track/3jha8ASOaMT5lKZf7hOygG) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration Of Vincent](https://open.spotify.com/album/5oJTHEiBg0Ti5YXwY2Ft7H) | 5:00 |
-| 100 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
+| 98 | [No Diggity](https://open.spotify.com/track/5MiQly7cdHQiP6JBX1PSYG) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Digging The Blogosphere](https://open.spotify.com/album/4rNQTnJ1Qp0rgy2FzE93Wk) | 3:42 |
+| 99 | [Come As You Are](https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv) | 2:45 |
+| 100 | [Let's Dance](https://open.spotify.com/track/3jha8ASOaMT5lKZf7hOygG) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration Of Vincent](https://open.spotify.com/album/5oJTHEiBg0Ti5YXwY2Ft7H) | 5:00 |
 
 Snapshot ID: `AAAAAIfv33vmxjmGBBA4szPrnQQ0Q9Jz`

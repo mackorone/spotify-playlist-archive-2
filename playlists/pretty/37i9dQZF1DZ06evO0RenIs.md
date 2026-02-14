@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,394 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,396 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 18 | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L) | 3:21 |
 | 19 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
 | 20 | [Consolation Prizes](https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
-| 21 | [Rome](https://open.spotify.com/track/5BBR5jxgXXKXNHyAAyhOQr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 4:38 |
+| 21 | [Armistice](https://open.spotify.com/track/49hvfrBDG4ig00wPmXLJRg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:05 |
 | 22 | [Telefono](https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 3:43 |
 | 23 | [Alpha Zulu](https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 2:52 |
 | 24 | [Holdin' on Together](https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 49 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 | 50 | [My Elixir](https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:32 |
 
-Snapshot ID: `aYvGgAAAAAANfsAvmDTnQwHBUQknp68b`
+Snapshot ID: `aY0YAAAAAAAPlUH0PbwwpTkc8elF35i+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 62904,
+  "num_followers": 62913,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAV8RvB706103z8ja2CkcIe",
+  "snapshot_id": "aY0YAAAAAAAwow4Q+uoQPxd+LSTw7sJn",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 259693,
-      "name": "Take My Scars",
-      "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 389947,
       "name": "UNHALL\u00d8WED",
       "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Take My Scars",
+      "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 370746,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
+      "duration_ms": 304381,
+      "name": "Bastards",
+      "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 304381,
-      "name": "Bastards",
-      "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
+      "duration_ms": 370746,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
     },
     {
       "added_at": null,

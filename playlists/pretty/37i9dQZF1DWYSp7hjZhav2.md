@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,247 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,270 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
-| 2 | [Girls MIA](https://open.spotify.com/track/0WHINYuRlFPt4WrXPBeCvo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Quantum Echoes, Pt\. I](https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U) | 2:13 |
+| 2 | [Girls MIA](https://open.spotify.com/track/0WHINYuRlFPt4WrXPBeCvo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Quantum Echoes, Pt\. I](https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U) | 2:13 |
 | 3 | [Nobody \(Extended Mix\)](https://open.spotify.com/track/3osBSgwcOSvcFhUE1SBztt) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY), [Asal](https://open.spotify.com/artist/7N1fOXXxOvxMXq4Gn1xjZC) | [Smoke](https://open.spotify.com/album/2qUTOlPGREFMWzFjPY0qzZ) | 4:30 |
 | 4 | [Human Now \(feat\. Luke Steele\)](https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Luke Steele](https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:10 |
 | 5 | [Love Parade](https://open.spotify.com/track/0LwKAX0JzRSYvOreNvSQzN) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Quantum Echoes, Pt\. I](https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U) | 3:26 |

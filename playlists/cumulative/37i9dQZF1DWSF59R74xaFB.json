@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Sin Bandera en portada.",
+  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Playa Limbo en portada.",
   "name": "Radio Coraz\u00f3n",
   "tracks": [
     {
@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/49fs3XvZKVOSlDzYAJxAQR"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/5XLlc6HOcImRPvBzNshYic"
+    },
+    {
+      "album": {
         "name": "Mis Mas Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8"
       },
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 228506,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
@@ -1762,6 +1780,24 @@
       "duration_ms": 224253,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/5x5J4t82QSVpPxVT0sctSk"
+    },
+    {
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/2iaxXNZEUHEWy1OfCDPFRZ"
+      },
+      "artists": [
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140204,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/64KzhCeX3DVbOK2FPfhiS2"
     },
     {
       "album": {
@@ -3498,6 +3534,28 @@
       "duration_ms": 228989,
       "name": "Ella Que\u0301 Te Dio",
       "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+    },
+    {
+      "album": {
+        "name": "Empecemos a Empezar",
+        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
+      },
+      "artists": [
+        {
+          "name": "Licenciado Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200859,
+      "name": "Empecemos a Empezar",
+      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
     },
     {
       "album": {
@@ -6358,7 +6416,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168387,
       "name": "Milagro",
       "url": "https://open.spotify.com/track/5uAwmFcI1aSSYp3AI8k6U1"
@@ -8772,7 +8830,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 212743,
       "name": "Si Te Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/6TNfi4TTJqh39Gi3eUVfOh"
@@ -8965,6 +9023,28 @@
     },
     {
       "album": {
+        "name": "Sin Despedida",
+        "url": "https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230980,
+      "name": "Sin Despedida",
+      "url": "https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK"
+    },
+    {
+      "album": {
         "name": "10:20:40",
         "url": "https://open.spotify.com/album/309uagfPtaKPwlqZgH16xD"
       },
@@ -9020,7 +9100,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219672,
       "name": "Sincer\u00e1ndome",
       "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
@@ -9947,6 +10027,28 @@
     },
     {
       "album": {
+        "name": "Tengo Que Contarte",
+        "url": "https://open.spotify.com/album/3p0KnHePOqQUsMlO2KJvAd"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Tengo Que Contarte",
+      "url": "https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj"
+    },
+    {
+      "album": {
         "name": "Tengo Que Llegar A Tiempo",
         "url": "https://open.spotify.com/album/2ENpbN4iHa2RUh0VjT0zdU"
       },
@@ -10328,6 +10430,24 @@
       "duration_ms": 238068,
       "name": "T\u00fa Ve",
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
+      "album": {
+        "name": "T\u00fa y Yo X Siempre",
+        "url": "https://open.spotify.com/album/1pa5BFb6W8qJRukSRku5bg"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184449,
+      "name": "T\u00fa y Yo X Siempre",
+      "url": "https://open.spotify.com/track/0tRu6JVcrxamSl49SbOVe1"
     },
     {
       "album": {
@@ -11046,7 +11166,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 188160,
       "name": "\u00a1Ay Amor!",
       "url": "https://open.spotify.com/track/5SL4MQJaRMF4TjvvfUBI6p"
@@ -11172,7 +11292,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 230591,
       "name": "\u00bfQu\u00e9 Culpa Tiene Ella?",
       "url": "https://open.spotify.com/track/2OIms3pvFxF4ygF0apfkqu"

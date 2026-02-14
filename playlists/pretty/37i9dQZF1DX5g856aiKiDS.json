@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 516415,
+  "num_followers": 516428,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-02-09 05:37:40",
       "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2026-02-09 05:37:40",
+      "album": {
         "name": "Can I Love?",
         "url": "https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY"
-    },
-    {
-      "added_at": "2026-02-09 05:37:40",
-      "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2026-02-09 05:37:40",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-09 05:37:40",
       "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Amusement Park",
-      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
-    },
-    {
-      "added_at": "2026-02-09 05:37:40",
-      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 189066,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2026-02-09 05:37:40",
+      "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
     },
     {
       "added_at": "2026-02-09 05:37:40",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-02-09 05:37:40",
       "album": {
-        "name": "5.2 (feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
-    },
-    {
-      "added_at": "2026-02-09 05:37:40",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2026-02-09 05:37:40",
+      "album": {
+        "name": "5.2 (feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
     },
     {
       "added_at": "2026-02-09 05:37:40",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-09 05:37:40",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 140506,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
-    },
-    {
-      "added_at": "2026-02-09 05:37:40",
-      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+    },
+    {
+      "added_at": "2026-02-09 05:37:40",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 140506,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
     },
     {
       "added_at": "2026-02-09 05:37:40",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-09 05:37:40",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
-    },
-    {
-      "added_at": "2026-02-09 05:37:40",
-      "album": {
         "name": "Hola",
         "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
+    },
+    {
+      "added_at": "2026-02-09 05:37:40",
+      "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
     },
     {
       "added_at": "2026-02-09 05:37:40",

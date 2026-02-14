@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 47524,
+  "num_followers": 47550,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2024-07-13 01:25:09",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 256555,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2024-07-13 01:25:09",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-07-13 01:25:09",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+      "duration_ms": 256555,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
     {
       "added_at": "2024-07-13 01:25:09",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-07-13 01:25:09",
       "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Para Tu Amor",
+      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
+    },
+    {
+      "added_at": "2024-07-13 01:25:09",
+      "album": {
         "name": "Lu",
         "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2024-07-13 01:25:09",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Para Tu Amor",
-      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
     },
     {
       "added_at": "2024-07-13 01:25:09",

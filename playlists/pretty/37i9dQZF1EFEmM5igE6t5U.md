@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 202 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 202 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 68 | [Butterflyz](https://open.spotify.com/track/2rfRICVLPoWlFVGx7f48Cw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:08 |
 | 69 | [Gramercy Park](https://open.spotify.com/track/4nztMpRbOZN19lPpSgvjaf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:12 |
 | 70 | [That's When I Knew](https://open.spotify.com/track/24lEIdWXVJiEZ2IOCU0T9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 4:05 |
-| 71 | [You Save Me \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/4vXSx9EFAd81zyACNmMIsA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:41 |
-| 72 | [Ghetto Story Chapter 2 \(feat\. Alicia Keys\)](https://open.spotify.com/track/4lhwhaW9bTJ3GdSyEP8mah) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:45 |
+| 71 | [Ghetto Story Chapter 2 \(feat\. Alicia Keys\)](https://open.spotify.com/track/4lhwhaW9bTJ3GdSyEP8mah) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:45 |
+| 72 | [You Save Me \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/4vXSx9EFAd81zyACNmMIsA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:41 |
 | 73 | [Nobody \(feat\. Alicia Keys & Nicki Minaj\)](https://open.spotify.com/track/3vchM8RVoYP2rAb9NcaaMR) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Grateful](https://open.spotify.com/album/6YDPJOxe5wW5pTIXMH0nCI) | 4:31 |
 | 74 | [Love Is My Disease](https://open.spotify.com/track/0YXj3sGj6ejeROqSXsmWo4) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:01 |
 | 75 | [Unbreakable \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/2DRcaAO76feWOoWCWP1cPp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 4:34 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 201 | [I Got A Little Something \- Live In Seattle](https://open.spotify.com/track/79H23cYdXUmMj0Ceo2Hx8Y) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 1:42 |
 | 202 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `AcJgSgAAAAChfPZIpaqTpV5rv/zMENvZ`
+Snapshot ID: `AcJl6gAAAACRGSnH2zayPvnRXctuAWzz`

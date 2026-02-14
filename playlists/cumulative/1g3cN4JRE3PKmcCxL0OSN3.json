@@ -1293,7 +1293,7 @@
       "artists": [
         {
           "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/1X2rmUp2ZOWuS4AMcB4wKV"
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
       "date_added": "2024-09-16",
@@ -8607,7 +8607,7 @@
       "artists": [
         {
           "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/1X2rmUp2ZOWuS4AMcB4wKV"
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
       "date_added": "2024-09-16",
@@ -11429,7 +11429,7 @@
       "artists": [
         {
           "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/1X2rmUp2ZOWuS4AMcB4wKV"
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
       "date_added": "2024-09-16",
@@ -16923,13 +16923,13 @@
       "artists": [
         {
           "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/1X2rmUp2ZOWuS4AMcB4wKV"
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 283211,
+      "duration_ms": 283212,
       "name": "Melanchoholic",
       "url": "https://open.spotify.com/track/275Y7kmWlhrLbTP5xBEbIc"
     },
@@ -27745,6 +27745,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
+    },
+    {
+      "album": {
         "name": "Fancy That",
         "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
@@ -27760,24 +27778,6 @@
       "duration_ms": 174880,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
-    },
-    {
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "date_added": "2025-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176897,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
     },
     {
       "album": {

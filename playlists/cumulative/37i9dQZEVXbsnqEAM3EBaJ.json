@@ -2637,6 +2637,28 @@
     },
     {
       "album": {
+        "name": "Al Otro Lado Del Sol",
+        "url": "https://open.spotify.com/album/6Ah6hHRCTUopsL8a5PojtQ"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        },
+        {
+          "name": "Robert Aragones",
+          "url": "https://open.spotify.com/artist/6KGDcGSw3VzhkXx78FxM5r"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323718,
+      "name": "Al Otro Lado Del Sol",
+      "url": "https://open.spotify.com/track/5Y3zVZDmxrcHfYN4VtWu9W"
+    },
+    {
+      "album": {
         "name": "Back In Town (Live)",
         "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
       },
@@ -20671,6 +20693,28 @@
     },
     {
       "album": {
+        "name": "God\u2019s Lonely Man",
+        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "God's Lonely Man",
+      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
+    },
+    {
+      "album": {
         "name": "The Hope Of A Spark",
         "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
       },
@@ -22162,6 +22206,28 @@
       "duration_ms": 185714,
       "name": "Harmony's Haunting Lullaby",
       "url": "https://open.spotify.com/track/0SXcy5bWcVTSA1cvHTPfEi"
+    },
+    {
+      "album": {
+        "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+        "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+      "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
     },
     {
       "album": {
@@ -24120,7 +24186,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 68560,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/1DZwTo9w7OJ677WKeDlbPE"
@@ -27315,6 +27381,28 @@
     },
     {
       "album": {
+        "name": "Crown of empty space",
+        "url": "https://open.spotify.com/album/5N0On1ZUu28G6MoXpkp4g1"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64120,
+      "name": "Isotropic Ruin",
+      "url": "https://open.spotify.com/track/45tUdzSjgw0PGuUb4uxwW0"
+    },
+    {
+      "album": {
         "name": "Los Angeles, 1990 (HQ Remastered)",
         "url": "https://open.spotify.com/album/2kuvopKYGlt4H1KfADr6OH"
       },
@@ -28762,6 +28850,32 @@
       "duration_ms": 223616,
       "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH"
+    },
+    {
+      "album": {
+        "name": "Kimerap",
+        "url": "https://open.spotify.com/album/7MDdRy3b6KUWmlr48YW6VX"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Gloria Allel",
+          "url": "https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX"
+        },
+        {
+          "name": "Matu Cosmelli",
+          "url": "https://open.spotify.com/artist/3dyImRirr2cNkiQr3MVhaN"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248927,
+      "name": "Kimerap",
+      "url": "https://open.spotify.com/track/6E4IprUX0TtcDFBPQLbkwa"
     },
     {
       "album": {
@@ -32635,6 +32749,24 @@
     },
     {
       "album": {
+        "name": "Love Notes",
+        "url": "https://open.spotify.com/album/6G3vQf1sKR8pvvPkDR7L1a"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154879,
+      "name": "Love Notes",
+      "url": "https://open.spotify.com/track/10v85PAXbGQ0Wfi3I9cFDb"
+    },
+    {
+      "album": {
         "name": "Love On The Loose",
         "url": "https://open.spotify.com/album/1cJKQlWPzrDYVpI06IvGSb"
       },
@@ -35504,7 +35636,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182049,
       "name": "My Earth Guide",
       "url": "https://open.spotify.com/track/1oXlZn9xxy5cgFboQaGXqy"
@@ -40910,6 +41042,28 @@
       "duration_ms": 136252,
       "name": "Poor Boy Paul - Remastered",
       "url": "https://open.spotify.com/track/0u2vh9mdPkQCDo8H7tBvQg"
+    },
+    {
+      "album": {
+        "name": "This Would Make Me Happy / Yeh Uh Huh",
+        "url": "https://open.spotify.com/album/42uOZWRaCpv2njGaUUOIOJ"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "Poor Little Fool (feat. Tina Turner)",
+      "url": "https://open.spotify.com/track/0QT2Ioz0iNaery2BcdOwLL"
     },
     {
       "album": {
@@ -49575,7 +49729,7 @@
     },
     {
       "album": {
-        "name": "Streets of Minneapolis",
+        "name": "Streets of Minneapolis (Bob Clearmountain Radio Mix)",
         "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
       "artists": [
@@ -49587,8 +49741,8 @@
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 275831,
-      "name": "Streets of Minneapolis",
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Bob Clearmountain Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
@@ -49830,6 +49984,24 @@
       "duration_ms": 131671,
       "name": "Sugar Mami",
       "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+    },
+    {
+      "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/5O1MuPPnMtJWEIG32pmczn"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196150,
+      "name": "Sugarcane",
+      "url": "https://open.spotify.com/track/0I9DqPIzEHl9vNW6ccuX6y"
     },
     {
       "album": {
@@ -58846,6 +59018,28 @@
       "duration_ms": 189544,
       "name": "Verso Por Saludo",
       "url": "https://open.spotify.com/track/6pQZ6v3WVO16zMdUxcVSi7"
+    },
+    {
+      "album": {
+        "name": "Thrice | Audiotree from Nothing",
+        "url": "https://open.spotify.com/album/3IiAxL0O9RW4zLRWTJkrGL"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344160,
+      "name": "Vesper Light - Audiotree Version",
+      "url": "https://open.spotify.com/track/7I2J48BFLe4BLbkDapquMD"
     },
     {
       "album": {

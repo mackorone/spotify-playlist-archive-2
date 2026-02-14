@@ -2,9 +2,9 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como Blessd y J Álvarez.
+> Fino y elegante, como Aria Vega y Ryan Castro.
 
-353 songs - 18 hr 42 min
+355 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-29 | 2023-08-04 |
 | [BESTIES](https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-02-24 | 2023-07-14 |
 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 | 2023-06-29 | 2024-01-27 |
+| [BIZCOCHO](https://open.spotify.com/track/38JH6euiEfvwWDOfhNWWyE) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [BIZCOCHO](https://open.spotify.com/album/3yuAp0DZ7V49gWQJLtALoL) | 2:02 | 2026-02-13 |  |
 | [BOBADITA](https://open.spotify.com/track/52IeC2QBiJqk9jAR5gbe14) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [BOBADITA](https://open.spotify.com/album/5P3zmTUYu5O7NaFXCrRDHX) | 4:04 | 2025-10-31 |  |
 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 | 2022-09-06 | 2022-10-14 |
 | [BORRAXXA](https://open.spotify.com/track/2Y1EBfErprYwOlgluV9neb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [BORRAXXA](https://open.spotify.com/album/29g2vAkqMbojrcb0SrnHQI) | 3:43 | 2022-09-06 | 2022-10-14 |
@@ -58,6 +59,7 @@
 | [Chimbiando](https://open.spotify.com/track/2JuzL1lCVol7VJaKn8WnCn) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chimbiando](https://open.spotify.com/album/7crWoBYWALhKVmqFF3Bx22) | 2:37 | 2023-10-20 | 2023-11-25 |
 | [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-02 | 2023-03-10 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2022-12-02 | 2023-10-21 |
+| [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 | 2026-02-13 |  |
 | [Cinco](https://open.spotify.com/track/0Jpk1xeY7NNz1RcGWuGIch) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Cinco](https://open.spotify.com/album/6xU2rOCRu56Dc9ccFHunbJ) | 2:08 | 2022-12-09 | 2023-02-25 |
 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-03-31 |  |
 | [Clito \(feat\. Lenny Tavárez, Dalex & Brray\)](https://open.spotify.com/track/5p9p6Z7WfvbztQ7eQa3qr0) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:25 | 2022-09-06 | 2022-10-14 |

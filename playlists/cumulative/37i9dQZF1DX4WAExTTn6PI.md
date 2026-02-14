@@ -4,7 +4,7 @@
 
 > Rising voices, enduring roots\. Cover: Meels
 
-328 songs - 20 hr 1 min
+330 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 | 2024-05-03 |
 | [Days Getting Darker](https://open.spotify.com/track/6x9qNBLEiKwtFUIGlSiKzc) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Days Getting Darker](https://open.spotify.com/album/3Iltvt8MfFTPjBWMRzEZHg) | 4:10 | 2025-03-14 |  |
 | [Deland](https://open.spotify.com/track/2ogQbcBM3mlIAWsgAfkxdI) | [Roc Helton](https://open.spotify.com/artist/0PKVGwQ4QlPJAoyLyTskTB) | [Deland](https://open.spotify.com/album/36Z8WCFXTiZi0W7P4NSXiK) | 2:40 | 2026-01-09 | 2026-01-31 |
-| [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 | 2024-01-19 |  |
+| [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 | 2024-01-19 | 2026-02-14 |
 | [Devil Bent](https://open.spotify.com/track/5RmdFziXzizy6O7ErWKrVP) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [Devil Bent](https://open.spotify.com/album/7MID2OeMPD86rIC77bU33K) | 2:33 | 2024-11-22 |  |
 | [Dogfight](https://open.spotify.com/track/0T0bIg86lkmNdMcm4IAYub) | [Erik Dylan](https://open.spotify.com/artist/4Lnd7Ix0gpCGpdKjns4gG8) | [Dogfight](https://open.spotify.com/album/4dcPMjUhsGl9ql203upjwI) | 3:10 | 2025-02-21 |  |
 | [Dream Song](https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Dream Song](https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t) | 4:35 | 2026-01-23 |  |
@@ -206,9 +206,10 @@
 | [Nightmare](https://open.spotify.com/track/3878vJyS8co3IApl8L9VDe) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Anniversary](https://open.spotify.com/album/3L2N9iWhyf3e3BeCJNXOSJ) | 3:53 | 2024-05-03 |  |
 | [No More Candy](https://open.spotify.com/track/1TRwhlZHJVd6kgFu1SgzQ7) | [Cash & Skye](https://open.spotify.com/artist/0ZwK1LsLZvFbhLU6OycrhO) | [No More Candy](https://open.spotify.com/album/2o0u8HkyHrQfy4mrD3JZjJ) | 2:50 | 2022-01-28 | 2024-06-29 |
 | [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 | 2024-08-31 |
-| [Nobody Has To Know Your Mind](https://open.spotify.com/track/6S9v6Dn7CQJTmYIUAi8aWy) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Nobody Has To Know Your Mind](https://open.spotify.com/album/1OwskRzsQ5nIKqkinA6VIW) | 4:53 | 2023-06-16 |  |
+| [Nobody Has To Know Your Mind](https://open.spotify.com/track/6S9v6Dn7CQJTmYIUAi8aWy) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Nobody Has To Know Your Mind](https://open.spotify.com/album/1OwskRzsQ5nIKqkinA6VIW) | 4:53 | 2023-06-16 | 2026-02-14 |
 | [Normal Man](https://open.spotify.com/track/6G9FbzVLpaO11tdbF695bw) | [Will Slater](https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD) | [Normal Man](https://open.spotify.com/album/1Zev3Kk02xxQDe5opXZKaI) | 4:13 | 2026-01-30 |  |
 | [Nothin' At All](https://open.spotify.com/track/0OPx3KJ24XdVgZSbAcrxLz) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Nothin' At All // Good These Days](https://open.spotify.com/album/4z8ST41if1eDX00HErdqhs) | 2:34 | 2025-03-21 | 2026-02-07 |
+| [Nothing's Wrong](https://open.spotify.com/track/3ejswiDrCHaq6OxOB21iLe) | [Jacob McCoy](https://open.spotify.com/artist/1ZF1pknOx8smpDfSgsb7uh) | [Nothing's Wrong](https://open.spotify.com/album/12LA0B9aSUiE5zaTydkFnr) | 3:42 | 2026-02-13 |  |
 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 | 2022-01-28 | 2023-01-14 |
 | [Oh Don't Tell Her](https://open.spotify.com/track/3RSgNrKX1pKr9IGXI8DJeb) | [Todd Day Wait](https://open.spotify.com/artist/6GAZhXqlPQdf3mzK6hvGM9) | [Letters From The Road](https://open.spotify.com/album/0JHImX2PUsNADoalvG2APK) | 3:17 | 2025-12-12 |  |
 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 | 2022-01-28 | 2025-10-18 |
@@ -232,6 +233,7 @@
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 | 2024-03-09 |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
 | [Recommend Me](https://open.spotify.com/track/6X06BJkotsqzb09OReFhhO) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Recommend Me](https://open.spotify.com/album/6K2GTC8JlK5f7MBJbccpyq) | 3:41 | 2023-08-11 | 2025-10-18 |
+| [Reds](https://open.spotify.com/track/2LKf1r9pY8BhAOa9cRiLxG) | [Olivia Barnes](https://open.spotify.com/artist/6OlUNIT9FUO9BkFDPrixVa) | [Reds](https://open.spotify.com/album/7tCBbhU2CJKzXpSN10tx1w) | 3:35 | 2026-02-13 |  |
 | [Ride On](https://open.spotify.com/track/0JRAb68EKNBaZwrkUBMVvq) | [Coleman Jennings](https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp) | [Ride On](https://open.spotify.com/album/4wZ9RtuL0b46pD8dHzl606) | 2:58 | 2026-01-09 |  |
 | [Riot of the Red](https://open.spotify.com/track/2VdbAia2Chh60vG85MCZ18) | [Lou Hazel](https://open.spotify.com/artist/0XIZk0xgmde4G5jaFMjCoe) | [Riot of the Red](https://open.spotify.com/album/3C9rtB39aiZ86y1L052vpr) | 3:28 | 2025-10-17 |  |
 | [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 | 2023-06-10 |
@@ -316,7 +318,7 @@
 | [Waltz Across Texas](https://open.spotify.com/track/5drS8Hv8Q8fufYOn9km0UT) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU) | [Loving You](https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR) | 2:47 | 2023-06-23 | 2024-04-19 |
 | [Way Down Yonder](https://open.spotify.com/track/39y7924mLMb0Jqv5Z1BWkN) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Way Down Yonder](https://open.spotify.com/album/2FdypF8Zv8d6g2MX8WgyXH) | 3:36 | 2024-01-12 | 2025-11-22 |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |
-| [Weekend](https://open.spotify.com/track/11jpBiMgL6JzX8ixmrWK6T) | [Landon Smith](https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m) | [Weekend](https://open.spotify.com/album/75z7BsjM6xczGJ8GHEnsX7) | 2:58 | 2025-01-24 |  |
+| [Weekend](https://open.spotify.com/track/11jpBiMgL6JzX8ixmrWK6T) | [Landon Smith](https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m) | [Weekend](https://open.spotify.com/album/75z7BsjM6xczGJ8GHEnsX7) | 2:58 | 2025-01-24 | 2026-02-14 |
 | [What's Mine](https://open.spotify.com/track/4zYSaNGOSU7HOB5zZD7HSm) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj) | [What's Mine](https://open.spotify.com/album/1EnBb3Gy4rHLE5erfzGCP8) | 3:42 | 2025-09-05 |  |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |
 | [When Night Falls](https://open.spotify.com/track/48pDdyxmu072Bh7eiQDbNi) | [Sweet Sally](https://open.spotify.com/artist/71iKAqpq65sEhaUc1GYHOC) | [When Night Falls](https://open.spotify.com/album/3ZTcIK0n4DFX21bXtpfsur) | 3:17 | 2025-12-12 |  |

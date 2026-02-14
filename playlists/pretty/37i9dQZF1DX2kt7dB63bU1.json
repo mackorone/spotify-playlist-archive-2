@@ -1,13 +1,109 @@
 {
-  "description": "Jazz voices of today. Cover: Ledisi",
-  "num_followers": 164997,
+  "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
+  "num_followers": 165068,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANicY8tALOiR2RyzjhrpJZI0SL9J",
+  "snapshot_id": "AAAAAEJp2FRfX/CF5NYR9iTmLGOcMzr1",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:20",
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
+    },
+    {
+      "added_at": "2026-02-13 05:00:20",
+      "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/6R4Yqh25YPvah5y411Nc7a"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 349228,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/2EsvJgqybdGiwFdViEvPgr"
+    },
+    {
+      "added_at": "2026-02-13 05:00:20",
+      "album": {
+        "name": "In The Brass Palace",
+        "url": "https://open.spotify.com/album/724NffDLMHiaQkmHh6jt3o"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 491638,
+      "name": "They Speak No Evil",
+      "url": "https://open.spotify.com/track/14EugpqQJyjh1q414fjXhL"
+    },
+    {
+      "added_at": "2026-02-13 05:00:20",
+      "album": {
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/20X6mss4u5tBjh8W2lquK6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/0rChXlI7M5KqjzQ2rgs8S0"
+    },
+    {
+      "added_at": "2026-02-13 05:00:20",
+      "album": {
+        "name": "La Javanaise",
+        "url": "https://open.spotify.com/album/6fORZEa1FLJDyK6E8H5Nes"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 214583,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/7v7iwf9k5sI8go8rjlkIL2"
+    },
     {
       "added_at": "2026-02-06 05:00:24",
       "album": {
@@ -143,26 +239,6 @@
     {
       "added_at": "2026-01-16 05:00:18",
       "album": {
-        "name": "My Very Own Ride",
-        "url": "https://open.spotify.com/album/70qZS6hqpcc8kOFWkd22g0"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 531662,
-      "name": "My Very Own Ride",
-      "url": "https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:18",
-      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
       },
@@ -219,22 +295,6 @@
       "duration_ms": 184248,
       "name": "I'm a Stranger Here Myself",
       "url": "https://open.spotify.com/track/1YRDhHyrcMjIcgEBDJKluw"
-    },
-    {
-      "added_at": "2025-12-05 05:00:09",
-      "album": {
-        "name": "A Little Time For Love",
-        "url": "https://open.spotify.com/album/2YNz3gcj2Uucf98VJ4OHPW"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 233208,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s"
     },
     {
       "added_at": "2025-11-28 05:00:12",
@@ -459,26 +519,6 @@
       "duration_ms": 227080,
       "name": "fucking happy",
       "url": "https://open.spotify.com/track/5tZplFi9dOTcwmlFUJV088"
-    },
-    {
-      "added_at": "2025-09-19 04:00:09",
-      "album": {
-        "name": "What Is This Thing Called Love?",
-        "url": "https://open.spotify.com/album/0SGVUNn1QovEcOA4UM8Im0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Kenny Banks Jr.",
-          "url": "https://open.spotify.com/artist/6rSheR9c3wYRRsfhYKBUmg"
-        }
-      ],
-      "duration_ms": 259271,
-      "name": "What Is This Thing Called Love?",
-      "url": "https://open.spotify.com/track/0yrcMGiv3VbMXqykxMjkbg"
     },
     {
       "added_at": "2025-08-22 04:00:09",
@@ -1803,54 +1843,6 @@
       "duration_ms": 267087,
       "name": "Good Nothin",
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/4cbXoQPI6a3YIpkgG6fCBC"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        },
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Stolen Moments",
-          "url": "https://open.spotify.com/artist/6ArJ9xZTeAE2bv2uBUpG1T"
-        },
-        {
-          "name": "Gene Coye",
-          "url": "https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb"
-        },
-        {
-          "name": "Solomon Dorsey",
-          "url": "https://open.spotify.com/artist/2dOcCSGhsuviniO6gz11Y3"
-        }
-      ],
-      "duration_ms": 223674,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0mxe3mKTKOK1MLyQluRsHh"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "\u00e0 Fleur de Peau",
-        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 258900,
-      "name": "Inside and Out",
-      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
     },
     {
       "added_at": "2024-04-12 04:01:00",

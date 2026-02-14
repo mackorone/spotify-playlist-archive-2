@@ -4,7 +4,7 @@
 
 > canciones para chillear con RAMMA & Cindy Cats
 
-190 songs - 10 hr 19 min
+191 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2024-03-29 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2023-10-17 |  |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-10-17 | 2024-06-18 |
-| [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 | 2023-10-17 |  |
+| [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 | 2023-10-17 | 2026-02-14 |
 | [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 | 2023-10-17 | 2023-11-12 |
 | [Anoche](https://open.spotify.com/track/09rQ0jh0ZeUjDX8sePNViv) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Ferrari / Anoche](https://open.spotify.com/album/16TeTRsbO95TSphBvgZ3aV) | 2:16 | 2025-06-20 | 2025-11-21 |
 | [Ansiedark](https://open.spotify.com/track/32Im5bJVsaj0m1n43xk0yA) | [Di Lorenzo](https://open.spotify.com/artist/0eNqhuG7pcEcIrcFGYjhTn) | [Ansiedark](https://open.spotify.com/album/5FYbLZOiFa0quVIDAXutRa) | 2:43 | 2025-06-20 | 2025-07-18 |
@@ -187,6 +187,7 @@
 | [Uno De Esos Días](https://open.spotify.com/track/3knplr6ptMfZ4B1inYhfXP) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Uno De Esos Días](https://open.spotify.com/album/6P4acuRUxR1uWUxB07yBJW) | 2:48 | 2023-10-17 | 2023-12-18 |
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2023-10-17 | 2024-03-30 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-04-05 |  |
+| [Vamos Viendo](https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Vamos Viendo](https://open.spotify.com/album/7pRdY4sR1NNte99L7qWp8S) | 4:13 | 2026-02-13 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2024-03-29 |  |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2023-10-17 | 2024-03-06 |
 | [Vuelo a vos](https://open.spotify.com/track/1A6VU60fUtBTXOihqlhffl) | [Mora Fisz](https://open.spotify.com/artist/5lWxgEnbDJYj5cetVbFmC5) | [Vuelo a vos](https://open.spotify.com/album/7n2cp9tLiKhX3fkSTVkt5d) | 3:37 | 2025-06-20 | 2025-11-21 |

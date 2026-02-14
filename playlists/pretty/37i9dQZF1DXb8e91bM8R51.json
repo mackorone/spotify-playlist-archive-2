@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52992,
+  "num_followers": 52995,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-12-11 16:00:18",
       "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
+    },
+    {
+      "added_at": "2025-12-11 16:00:18",
+      "album": {
         "name": "I GOT ISSUES",
         "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 253913,
       "name": "Sober (feat. Roddy Ricch & Post Malone)",
       "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
-    },
-    {
-      "added_at": "2025-12-11 16:00:18",
-      "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2025-12-11 16:00:18",

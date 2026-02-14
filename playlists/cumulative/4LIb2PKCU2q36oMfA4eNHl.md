@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-388 songs - 1 day 0 hr 56 min
+389 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [Unlearn](https://open.spotify.com/track/3Zeykv0VAQEomLmiq0hr9P) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:11 | 2024-03-08 | 2024-04-27 |
 | [Unrequited Love](https://open.spotify.com/track/6qBNDqTyJMtBlBAa0tPQbh) | [Jannik Jivung](https://open.spotify.com/artist/7dZCDCVWIcs4XL3QMZCcvP), [Hiyasu Cuts](https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO) | [Unrequited Love](https://open.spotify.com/album/03bvkfgknPzot5XmqUE8nV) | 2:24 | 2024-10-11 | 2024-10-19 |
 | [Vanishing Point](https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:00 | 2024-03-08 | 2024-06-27 |
-| [Vlorë](https://open.spotify.com/track/5SzZoF7qXI8l74pcZITNhz) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Missing Places I've Never Been](https://open.spotify.com/album/0PbMNDMPVfWieY0Mvl9p61) | 4:37 | 2025-08-15 |  |
+| [Vlorë](https://open.spotify.com/track/5SzZoF7qXI8l74pcZITNhz) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Missing Places I've Never Been](https://open.spotify.com/album/0PbMNDMPVfWieY0Mvl9p61) | 4:37 | 2025-08-15 | 2026-02-14 |
+| [Vlorë \- Carbon Based Lifeforms Remix](https://open.spotify.com/track/40dbBTlXlEd0h2bywj6iQz) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Vlorë \(Carbon Based Lifeforms Remix\)](https://open.spotify.com/album/66hV7mhLkMj1wSSpsJW99e) | 3:53 | 2026-02-13 |  |
 | [Walking Slowly](https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo) | [Maty Owl](https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:31 | 2024-04-12 | 2024-06-27 |
 | [Warmth](https://open.spotify.com/track/6tbkjEH6uEajWZjrLzd3CK) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [Warmth](https://open.spotify.com/album/5tLrwK3TcK1SMqhVAThVEp) | 2:59 | 2024-06-21 | 2024-11-16 |
 | [Watch You Say Goodbye](https://open.spotify.com/track/3pIBbGT18ynA3uVi4PbV5T) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Watch You Say Goodbye](https://open.spotify.com/album/41hWpc9fB0AeSSIGpNsSLv) | 3:14 | 2025-01-31 | 2025-12-06 |

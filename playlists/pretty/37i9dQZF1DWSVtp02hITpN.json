@@ -1,6 +1,6 @@
 {
   "description": "The best pop music right now ft. Danny L Harle & Dua Lipa",
-  "num_followers": 890095,
+  "num_followers": 890033,
   "original_name": "The Pop List",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
       "artists": [
         {
@@ -79,8 +79,8 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -399,8 +415,8 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
       },
       "artists": [
         {
@@ -408,8 +424,8 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 16",
+      "duration_ms": 205720,
+      "name": "Disappear",
       "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
     },
     {

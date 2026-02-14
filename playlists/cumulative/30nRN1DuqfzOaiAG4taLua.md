@@ -4,7 +4,7 @@
 
 > 
 
-77 songs - 4 hr 10 min
+78 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Madonna](https://open.spotify.com/track/4oe5xGMkivOeMIINR4kIOb) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 2:47 | 2024-01-19 |  |
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/1dEtz42oboLOlGHCBrwmA9) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2025-02-02 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-12-14 | 2024-01-16 |
+| [More Than A Friend](https://open.spotify.com/track/1MkyyWEEiSsInhZwfk8KvY) | [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [More Than Friends](https://open.spotify.com/album/5GViFW9eVnhdrMZZVLXpEw) | 3:23 | 2026-02-14 |  |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-12-22 | 2024-04-20 |
 | [My House](https://open.spotify.com/track/0oEKYdiP3gmLqm21gOhaDD) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Rave Rae](https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG) | [My House](https://open.spotify.com/album/52moeSswi9l8mbonOt3vJR) | 3:01 | 2023-12-18 | 2024-01-16 |
 | [Nacht](https://open.spotify.com/track/7CSw5k27xFPys3o3eRhEPc) | [AGVAS](https://open.spotify.com/artist/3yJyKsUA177jJ2rRfSOgkY) | [Nacht](https://open.spotify.com/album/359ZkggHwhDYbmIlYVddPE) | 4:09 | 2023-12-15 |  |

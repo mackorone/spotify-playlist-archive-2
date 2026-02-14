@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-185 songs - 10 hr 56 min
+186 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bluffin'](https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Bluffin'](https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89) | 2:19 | 2025-12-04 | 2026-02-10 |
 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 | 2025-10-11 |
 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 | 2025-07-18 |  |
+| [Boyfriend](https://open.spotify.com/track/6YCwQYs9osECgiOtfrHT7f) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Hot Freaks Forever](https://open.spotify.com/album/4D7dYPMpxbMcyN16qUHvlL) | 3:22 | 2026-02-13 |  |
 | [Call Me](https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Call Me](https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz) | 3:48 | 2025-11-06 | 2026-01-15 |
 | [Can't Help Myself](https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Can't Help Myself](https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA) | 2:18 | 2025-12-18 |  |
 | [Carry On](https://open.spotify.com/track/3keQNqUZlDH9pT7GNFHJl4) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Carry On](https://open.spotify.com/album/2lQTVys9eE0m20jZ2ac6wK) | 2:40 | 2025-10-16 | 2025-11-29 |
@@ -51,7 +52,7 @@
 | [Delay](https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Delay](https://open.spotify.com/album/4u5PEdBoOdNSQo1KhlYSWw) | 2:43 | 2025-11-06 | 2026-01-23 |
 | [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 | 2025-11-06 | 2026-01-15 |
 | [Driving on the Highway](https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 3:29 | 2025-11-06 |  |
-| [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-14 |  |
+| [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-14 | 2026-02-14 |
 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 | 2025-11-14 |  |
 | [El camino negro](https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Road to Knowhere](https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh) | 5:08 | 2025-07-18 | 2025-08-22 |
 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 | 2025-08-07 |  |
@@ -87,7 +88,7 @@
 | [Jupiter and Mars](https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Jupiter and Mars](https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz) | 3:13 | 2026-01-22 |  |
 | [Just Around the Corner](https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 3:13 | 2025-07-18 | 2025-08-22 |
 | [Keyring](https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Keyring](https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl) | 3:18 | 2025-11-28 |  |
-| [l'aéroport](https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [l'aéroport](https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF) | 2:24 | 2026-01-30 |  |
+| [l'aéroport](https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [l'aéroport](https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF) | 2:24 | 2026-01-30 | 2026-02-14 |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 | 2025-12-22 |
 | [La Californie](https://open.spotify.com/track/1g7tqO5lzjQIQxdVZapBwf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Beat Tape](https://open.spotify.com/album/78QxpVLxXgG7rvYQUXDOfe) | 2:56 | 2025-07-18 | 2025-09-13 |
 | [La prima estate](https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [La prima estate](https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB) | 4:00 | 2025-07-18 |  |
@@ -97,7 +98,7 @@
 | [Let Me Blow Your Mind](https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H) | [Shawn Lee's Ping Pong Orchestra](https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR) | [Hits the Hits](https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo) | 3:51 | 2025-07-18 |  |
 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 | 2025-07-18 |  |
 | [Live & Let Go \(with DISPATCH\)](https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [LOOK! I'm Alive](https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU) | 4:03 | 2025-07-25 | 2025-08-02 |
-| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-07-18 | 2026-02-07 |
+| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-07-18 |  |
 | [Lonely Touch](https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lonely Touch](https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM) | 3:21 | 2026-01-09 |  |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2025-07-18 |  |
 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 | 2025-07-18 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Taffy",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Sexyy Red",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 193786,
       "name": "AAAHH MEN!",
       "url": "https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 156617,
       "name": "Bad Ho's",
       "url": "https://open.spotify.com/track/2OTXDzDbBhIb2gXMrthc6G"
@@ -6141,6 +6141,28 @@
     },
     {
       "album": {
+        "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154931,
+      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
+    },
+    {
+      "album": {
         "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
         "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
       },
@@ -6164,6 +6186,24 @@
       "duration_ms": 137952,
       "name": "Hannah Montana (with NLE Choppa & DaBaby)",
       "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
+    },
+    {
+      "album": {
+        "name": "Hard ES",
+        "url": "https://open.spotify.com/album/17iLQLJuFl38h3ql5RMO2Z"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hard ES",
+      "url": "https://open.spotify.com/track/0q98r6GiZsMR6rpgEM5Gux"
     },
     {
       "album": {
@@ -8874,6 +8914,24 @@
       "duration_ms": 172974,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "album": {
+        "name": "Mind Right",
+        "url": "https://open.spotify.com/album/2CRH2bQaRRCQYtz8yKQT1N"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114535,
+      "name": "Mind Right",
+      "url": "https://open.spotify.com/track/3UQ8Ek9ys69MgZUPM2tC4H"
     },
     {
       "album": {
@@ -12190,7 +12248,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 98624,
       "name": "SEEUMSAYIN",
       "url": "https://open.spotify.com/track/1L5kcJo9aJIjudbqoOyP5e"

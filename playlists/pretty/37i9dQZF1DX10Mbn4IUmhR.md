@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Booshle G
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,461 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,462 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [](https://open.spotify.com/album/null) | 2:26 |
+| 1 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
 | 2 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 3 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 4 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 47 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
 | 48 | [Untimely Disclosure](https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Untimely Disclosure](https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq) | 3:43 |
 | 49 | [I want you to be happy](https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [I want you to be happy](https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu) | 2:45 |
-| 50 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
-| 51 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
+| 50 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
+| 51 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
 | 52 | [Burn](https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB) | [ARIS](https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8) | [Burn](https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO) | 2:16 |
 | 53 | [IDWGOT](https://open.spotify.com/track/3p1yIvdlKxWRqZtvBjP4jA) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [IDWGOT](https://open.spotify.com/album/6mVtGTvJQt8PkGlSWRfGQr) | 3:34 |
-| 54 | [Zoo](https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT) | 3:10 |
-| 55 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
+| 54 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
+| 55 | [Zoo](https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT) | 3:10 |
 
 Snapshot ID: `AAAAAIw8DDfi99T8a3/+eULYByu4+w8e`

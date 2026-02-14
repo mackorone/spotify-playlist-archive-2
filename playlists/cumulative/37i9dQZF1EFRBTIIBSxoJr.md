@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 9 hr 23 min
+169 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 | 2024-03-01 |  |
 | [Wait For You](https://open.spotify.com/track/4yliBaTgjyxPfXunWOhgUK) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Wait For You](https://open.spotify.com/album/1SlN6kwrQTOvBE7FMIPJYC) | 3:03 | 2024-03-01 |  |
 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 | 2024-03-01 |  |
-| [We Are Kings](https://open.spotify.com/track/1Q0ea4a6jwKYR03e2Hra4q) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Lawson](https://open.spotify.com/album/7jwZbSVPKeoBtq02Jl9xii) | 3:57 | 2024-03-01 |  |
+| [We Are Kings](https://open.spotify.com/track/1C79JSJn6W7ZbxpaFysxkh) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Lawson](https://open.spotify.com/album/4RyKJKIyqpKSLYR6CsA3pm) | 3:57 | 2026-02-13 |  |
+| [We Are Kings](https://open.spotify.com/track/1Q0ea4a6jwKYR03e2Hra4q) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Lawson](https://open.spotify.com/album/7jwZbSVPKeoBtq02Jl9xii) | 3:57 | 2024-03-01 | 2026-02-14 |
 | [What You’re Made Of \(feat\. Kiesza\) \(From “Azur Lane” Original Video Game Soundtrack\)](https://open.spotify.com/track/7zCeOOhtMzxlBRdVJ4KwgG) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [What You’re Made Of \(feat\. Kiesza\) \[Azur Lane Soundtrack\]](https://open.spotify.com/album/3M0OxNR7sHtrA4I42ETvjI) | 3:26 | 2024-03-01 |  |
 | [Where Do Broken Hearts Go](https://open.spotify.com/track/6HFywc5eQYRRYHYTatCb5Y) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:49 | 2024-03-01 |  |
 | [Words](https://open.spotify.com/track/2CvVLHZ5BLbfB8tSFPzlQx) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:21 | 2025-10-11 |  |

@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준 \(Jang Beom June\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-652 songs - 1 day 14 hr 22 min
+654 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 | 2024-04-19 |
 | [I want to love](https://open.spotify.com/track/5D63fftBm3Haj5laapgWl2) | [Park Jaewoo](https://open.spotify.com/artist/2WIOofcSewAuVXBSMuQ2dD) | [I want to love](https://open.spotify.com/album/5K5TZWuzj0p4LJwH7jTFug) | 3:31 | 2022-08-18 | 2022-09-03 |
 | [I Will Remember](https://open.spotify.com/track/2FV04bwFqfJyOLDZL2vx7C) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 3:08 | 2022-03-31 | 2022-04-07 |
-| [I wonder](https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [I wonder](https://open.spotify.com/album/5sCytTeu47edSY09lW4dKK) | 3:48 | 2026-01-26 |  |
+| [I wonder](https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [I wonder](https://open.spotify.com/album/5sCytTeu47edSY09lW4dKK) | 3:48 | 2026-01-26 | 2026-02-14 |
 | [I Wonder](https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49) | [Let's Eat! 3 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr) | 3:39 | 2021-12-10 | 2022-05-31 |
 | [I Wonder \(PROD\. Joombas\)](https://open.spotify.com/track/2d1WKw2q9z7CwwqwQGxXYC) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [ANOTHER](https://open.spotify.com/album/1x45vQjY21GuaouM2BA9xq) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [I'll be by your side, you'll be by my side \(Feat\. Morning Coffee\)](https://open.spotify.com/track/7ihmKfltRTBX5Ol48V3XEX) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [I'll be by your side, you'll be by my side](https://open.spotify.com/album/0qm1jTUO7eC2Qg4gNiCPoT) | 3:21 | 2022-01-13 | 2022-01-19 |
@@ -495,6 +495,7 @@
 | [SUNFLOWER](https://open.spotify.com/track/4XR7aLFGYuQhKz64ADIxhm) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [SUNFLOWER](https://open.spotify.com/album/6KTIN8L80MmmH6hCTDn9WI) | 2:56 | 2025-12-02 | 2025-12-19 |
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2021-12-10 |  |
 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 | 2022-07-04 | 2022-08-10 |
+| [Superpower](https://open.spotify.com/track/4reOboKTk7q5SQyyFIAIEZ) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Superpower](https://open.spotify.com/album/3RHGU9VHAsheMlrDhYyc5e) | 4:28 | 2026-02-13 |  |
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-18 | 2022-07-05 |
 | [Swim in you](https://open.spotify.com/track/5VGDHco00AJQFgyBCRmLYo) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Swim in you](https://open.spotify.com/album/5KkoaeR3fLLVZTTc2jZv3p) | 2:44 | 2024-08-22 | 2024-09-04 |
 | [Sy & jW](https://open.spotify.com/track/47ojgWSLE26y7dWivYreFS) | [RYU SEOKWON](https://open.spotify.com/artist/3fc1EOSoH1KTJvrCKOiKBn) | [Sy & jW](https://open.spotify.com/album/615U3nXucGQ4XiaPWLvUA8) | 3:26 | 2022-03-31 | 2022-04-13 |
@@ -569,7 +570,7 @@
 | [Waves of Us](https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Waves of Us](https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS) | 3:23 | 2025-10-10 | 2025-11-14 |
 | [Way Back Home](https://open.spotify.com/track/4M13QYXUbkv5cWYqw7m88u) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo, First](https://open.spotify.com/album/2VTq68lUwuwceZbQdrPj6V) | 3:30 | 2021-12-10 | 2025-01-13 |
 | [We loved each other so much](https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2) | 3:47 | 2022-06-18 | 2022-07-16 |
-| [We will sing](https://open.spotify.com/track/2eYRLrg0QxV4D43UVQ1lOg) | [SOBO](https://open.spotify.com/artist/2tNollCrlC9RSDKyw98N4k), [Sung Haebin](https://open.spotify.com/artist/0tq4WWL39Wk9b1xIKAhS86) | [We will sing](https://open.spotify.com/album/7wIuVFuJBwpA10bmy02nCX) | 4:02 | 2026-01-27 |  |
+| [We will sing](https://open.spotify.com/track/2eYRLrg0QxV4D43UVQ1lOg) | [SOBO](https://open.spotify.com/artist/2tNollCrlC9RSDKyw98N4k), [Sung Haebin](https://open.spotify.com/artist/0tq4WWL39Wk9b1xIKAhS86) | [We will sing](https://open.spotify.com/album/7wIuVFuJBwpA10bmy02nCX) | 4:02 | 2026-01-27 | 2026-02-14 |
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2021-12-10 |  |
 | [We, the young](https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [We, the young](https://open.spotify.com/album/43LOnMWEXJJDUpHPN64m31) | 3:25 | 2025-10-10 | 2025-10-14 |
 | [What are you doing this evening](https://open.spotify.com/track/1BWKZ94ognDAUXWxQjHQza) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Girl's World \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3AfjZrMs5QewjUSPHfklgL) | 3:14 | 2022-04-12 | 2022-04-21 |
@@ -603,6 +604,7 @@
 | [Worry Monster](https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [Worry Monster](https://open.spotify.com/album/0DxeZn68faBLSdUZeoPLDv) | 2:47 | 2025-09-22 | 2025-10-14 |
 | [YaYaYa](https://open.spotify.com/track/3PiLrChGqJRReYYsBwGxEh) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [YaYaYa](https://open.spotify.com/album/2zmNxt0yfxyOjPvHQgpq9j) | 2:47 | 2025-09-01 | 2025-09-23 |
 | [yellow flower](https://open.spotify.com/track/4zgtv325Jmhf4ZWhChaPfu) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [yellow flower](https://open.spotify.com/album/2mfAhk6glwWiONPKoIL1zW) | 3:01 | 2024-06-27 | 2024-07-12 |
+| [Yeonnam\-dong](https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Yeonnam\-dong](https://open.spotify.com/album/6gUBc1UThDuJiksqMxo43l) | 2:35 | 2026-02-13 |  |
 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 | 2021-12-10 | 2024-05-09 |
 | [you](https://open.spotify.com/track/4ZmFkakOVJNmHdmqQqYlVm) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [serenader](https://open.spotify.com/album/1zEO7f3WhdQUWBBX0xwK8g) | 3:52 | 2024-11-22 | 2024-12-06 |
 | [You are](https://open.spotify.com/track/05dg8ZW2BZYJEPlUJYogXU) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [You are](https://open.spotify.com/album/6Y7YRK2kyPKybM9Ue1RrHI) | 2:53 | 2024-07-11 | 2024-07-24 |

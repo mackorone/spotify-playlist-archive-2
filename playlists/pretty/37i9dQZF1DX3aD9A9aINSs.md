@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Bade
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,211 likes - 67 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,204 likes - 67 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 66 | [Gönlüm Firar Etti](https://open.spotify.com/track/4Zlblp8NeUFaS2KpIMPPOe) | [Zeynep Çimelek](https://open.spotify.com/artist/1D1V0L3VgJ4m8xWGDbWWMh) | [Gönlüm Firar Etti](https://open.spotify.com/album/5AAUfPnT2joYUKcF9mwhVk) | 2:59 |
 | 67 | [Çare Sensin](https://open.spotify.com/track/7rJurRpNSlPSMJwUX7u1Si) | [Ebru Akarsu](https://open.spotify.com/artist/3y0RUjS5jqmao6C7gPxutB) | [Çare Sensin](https://open.spotify.com/album/0Y5xQVZPFZXZQQ3kXgsma4) | 3:01 |
 
-Snapshot ID: `AAAAAKRR8WbKGc2jaNmtqoOy2BZrivj8`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

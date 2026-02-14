@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : הילה רוח
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,262 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,270 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 38 | [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 |
 | 39 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
 | 40 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
-| 41 | [אהבת חיי](https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [אהבת חיי](https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm) | 4:28 |
-| 42 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
-| 43 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
+| 41 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
+| 42 | [אהבת חיי](https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [אהבת חיי](https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm) | 4:28 |
+| 43 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
 | 44 | [I Don't Know When, I Don't Know How, I Don't Know Why](https://open.spotify.com/track/2NZc3vxC1wSUkjfHOUe5ek) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Unfurl](https://open.spotify.com/album/3Ee0iWoBRVVol6fHUbKzyx) | 4:20 |
 | 45 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 46 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |

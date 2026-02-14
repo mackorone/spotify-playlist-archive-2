@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-796 songs - 1 day 16 hr 45 min
+797 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-27 | 2024-11-08 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-08 |  |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 | 2024-10-04 |
+| [I Like You Better Than Me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Like You Better Than Me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 | 2026-02-12 |  |
 | [I Made It \(feat\. andreas odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. andreas odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 | 2024-11-08 |
 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 | 2025-09-11 | 2025-10-31 |
 | [I Morgen Er Hun Væk](https://open.spotify.com/track/25SaSAHFKmLEI8qBFwGYdT) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [I Morgen Er Hun Væk](https://open.spotify.com/album/748asQ51T5fmdhSqHfwGN6) | 2:33 | 2025-05-29 | 2025-06-20 |
@@ -723,7 +724,7 @@
 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 | 2025-07-17 | 2025-09-06 |
 | [tusind tanker](https://open.spotify.com/track/6T5dJLZEkwFjEHo8gDkGZJ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [\(over\)lever](https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN) | 2:50 | 2026-01-22 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-06-13 |
-| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [](https://open.spotify.com/album/null) | 3:52 | 2026-02-12 |  |
+| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-12 |  |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 | 2025-06-20 |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 | 2025-04-25 |
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 | 2025-08-15 |

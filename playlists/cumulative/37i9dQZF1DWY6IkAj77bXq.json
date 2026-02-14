@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 162000,
       "name": "Circle Of Everything",
       "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
@@ -1352,6 +1352,24 @@
       "duration_ms": 133731,
       "name": "Dream Catcher",
       "url": "https://open.spotify.com/track/5PYsxNZChhUsvG5xUR33jK"
+    },
+    {
+      "album": {
+        "name": "Dream of the Infinite Sea",
+        "url": "https://open.spotify.com/album/5yovjki9uA5jRTuDC7Yn6I"
+      },
+      "artists": [
+        {
+          "name": "Air of Rumi",
+          "url": "https://open.spotify.com/artist/5d15Iwywovzfx5MKlyN01B"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226943,
+      "name": "Dream of the Infinite Sea",
+      "url": "https://open.spotify.com/track/3MWCIZ33qHsQAWqwdjy0nA"
     },
     {
       "album": {
@@ -2432,6 +2450,24 @@
       "duration_ms": 156000,
       "name": "Interlock",
       "url": "https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo"
+    },
+    {
+      "album": {
+        "name": "Ions",
+        "url": "https://open.spotify.com/album/23oFz7t9EwLjONf7Da4wxX"
+      },
+      "artists": [
+        {
+          "name": "Dhyana",
+          "url": "https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157068,
+      "name": "Ions",
+      "url": "https://open.spotify.com/track/6M9leAc2lHQaUmiSrPIPxe"
     },
     {
       "album": {

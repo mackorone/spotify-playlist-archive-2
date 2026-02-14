@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover: PANIA",
-  "num_followers": 205205,
+  "num_followers": 205202,
   "original_name": "Raw Silk",
   "owner": {
     "name": "Spotify",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-10-13 00:21:48",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
-    },
-    {
-      "added_at": "2025-10-13 00:21:48",
-      "album": {
         "name": "Alter Ego (Swamp Mix)",
         "url": "https://open.spotify.com/album/7sjXaVtk8dTTya20UfWIZW"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 270992,
       "name": "Alter Ego (KAYTRANADA Remix)[with JT]",
       "url": "https://open.spotify.com/track/34d69xsnWH7xGGezyiIQxg"
+    },
+    {
+      "added_at": "2025-10-13 00:21:48",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2025-10-13 00:21:48",

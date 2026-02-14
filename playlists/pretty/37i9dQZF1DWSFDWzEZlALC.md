@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > KITSCHKRIEG und ENNIO haben für den Valentinstag ihre liebsten Love\- und Heartbreak\-Songs für euch gepickt ❤︎
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,321 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,457 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

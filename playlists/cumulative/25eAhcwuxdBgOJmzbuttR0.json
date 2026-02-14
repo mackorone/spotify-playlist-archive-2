@@ -5769,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "Wonder What's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252360,
+      "name": "Send the Pain Below",
+      "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
+    },
+    {
+      "album": {
         "name": "Diamond Eyes (Deluxe)",
         "url": "https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha"
       },

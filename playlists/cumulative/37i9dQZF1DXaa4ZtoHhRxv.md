@@ -4,7 +4,7 @@
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-251 songs - 13 hr 21 min
+252 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [First Rodeo](https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [First Rodeo](https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz) | 3:06 | 2022-07-08 | 2025-06-17 |
 | [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV) | 2:45 | 2025-05-19 |  |
 | [Friday Night](https://open.spotify.com/track/16CoJMdBSUp0Dxd8wZdO1a) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Friday Night](https://open.spotify.com/album/3nDSqKrO5YcHjZzT2q7HO5) | 2:40 | 2023-09-01 | 2025-06-01 |
+| [Getaway Car](https://open.spotify.com/track/5BWK5cxevhraRUxNtdnTNH) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Getaway Car](https://open.spotify.com/album/64uplmfT0JPURVHJp4r3eS) | 2:35 | 2026-02-13 |  |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2023-03-25 |
 | [Giddy Up! \- Malibu Babie Remix](https://open.spotify.com/track/4A2CY9ZLMQe4PDUbQ48lVM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Giddy Up! \(Malibu Babie Remix\)](https://open.spotify.com/album/6mIpPFIWUHCU1dG0dMprBo) | 2:44 | 2023-03-24 | 2025-06-01 |
 | [Girls Like You \(NIIKO X SWAE Remix\)](https://open.spotify.com/track/4aEKQNctFCimUjzJpmMhIK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Girls Like You \(NIIKO X SWAE Remix\)](https://open.spotify.com/album/4qKnK4YNxMhtFNryIjkCzl) | 2:41 | 2023-06-30 |  |

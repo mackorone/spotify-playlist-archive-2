@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Ledbyher
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,749 likes - 79 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,763 likes - 79 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 2 | [Chancer](https://open.spotify.com/track/5dqs7uTXxMozIA3tCzEjwX) | [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn) | [Chancer](https://open.spotify.com/album/6DuDANtEfqCWZ6HafjRWdT) | 3:33 |
 | 3 | [soft fruit](https://open.spotify.com/track/1gQ2opzb0EkaUosykXBgQP) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [soft fruit](https://open.spotify.com/album/5Wu3qUumRnBU6jgLLDM8H6) | 3:50 |
 | 4 | [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 |
-| 5 | [Track 4](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [RACKS.](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 2:28 |
 | 6 | [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 |
 | 7 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 |
 | 8 | [never had a man DEMO](https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z) | [WESTGIRL](https://open.spotify.com/artist/0OPkfhvOowTQLXJ87vgIdD) | [never had a man DEMO](https://open.spotify.com/album/1YISTtmumiQlwIBPf2XICB) | 2:49 |
 | 9 | [Special \- A COLORS SHOW](https://open.spotify.com/track/6BJkASXKRj1fMX8ZRMmD1Z) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Special \- A COLORS SHOW](https://open.spotify.com/album/3keZ36LWEXzPDTqftsmwBi) | 3:12 |
 | 10 | [NVSTY](https://open.spotify.com/track/4JaLORR6H0fn5z8WWhUPvc) | [Tnillz](https://open.spotify.com/artist/7yTJnhcEGPii2kwJKQfr9B) | [NVSTY](https://open.spotify.com/album/5CX81ASPevpNaxpk18kxBg) | 2:58 |
-| 11 | [Track 1](https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [burnt](https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Loving Kills.](https://open.spotify.com/album/3uNj9VcF0CVAcKHFPP6Dml) | 2:20 |
 | 12 | [Sofa Joy](https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:44 |
 | 13 | [SHINIGAMI](https://open.spotify.com/track/4BpDKjq7lgHJs1PC69kpWh) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [SHINIGAMI](https://open.spotify.com/album/73G6D9UNozSCLCxfNnqx2u) | 1:58 |
 | 14 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 |

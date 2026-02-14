@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Deniz Mert x Batu Akdeniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,886 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,874 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bana yalanlar](https://open.spotify.com/track/6dnaVcfaxDbaccqgkYwmnT) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Bana yalanlar](https://open.spotify.com/album/5r6fUP4kmiqOZp1gxJQOI0) | 3:42 |
 | 2 | [kendi kendime](https://open.spotify.com/track/3K3dbW5zekYfzlNe4i6nRY) | [Deniz Mert](https://open.spotify.com/artist/5QVlUHz4xnayUocGAYCTLm), [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [kendi kendime](https://open.spotify.com/album/2RioaKzqNChGfwoJZMgTrQ) | 3:24 |
 | 3 | [Yalan](https://open.spotify.com/track/4QaCneYjuoaTwxu0NoU6hU) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Yalan](https://open.spotify.com/album/6BUu1VknyMLsBhamWTliol) | 3:46 |
-| 4 | [Valla Valhalla](https://open.spotify.com/track/1FwFh04MwahohroWfabVE0) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [](https://open.spotify.com/album/null) | 3:39 |
+| 4 | [Valla Valhalla](https://open.spotify.com/track/1FwFh04MwahohroWfabVE0) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Yavru Ejdera](https://open.spotify.com/album/3UckMgE3Ztnb41p07Le5zh) | 3:39 |
 | 5 | [Yorgun Mermi](https://open.spotify.com/track/21FksgRBxaDINspFnaQOFo) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Yorgun Mermi](https://open.spotify.com/album/0YFXWyupjPdbQcSXaTFtsV) | 3:32 |
 | 6 | [Yarim Benden Gidiyordu](https://open.spotify.com/track/5iI8vDuLoSWtRFlPuymfAG) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Yarim Benden Gidiyordu](https://open.spotify.com/album/5m5MUACw91Gu258a2gwYjW) | 4:19 |
 | 7 | [Mizantrop](https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Mizantrop](https://open.spotify.com/album/7C0Jr61asVHUd9lZVGlTGj) | 3:42 |

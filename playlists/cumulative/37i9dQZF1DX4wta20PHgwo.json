@@ -598,7 +598,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 392746,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/7z6F8O9kR3n3g7zyc1wiAO"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 558720,
       "name": "Another Land",
       "url": "https://open.spotify.com/track/0zCkOKYeToZAvm5rnUxcA3"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 271000,
       "name": "Ash\u00e9",
       "url": "https://open.spotify.com/track/6yzCdriVjWu7XIfah04DpU"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "Autumn in New York",
       "url": "https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v"
@@ -1601,6 +1601,28 @@
     },
     {
       "album": {
+        "name": "Blue Room",
+        "url": "https://open.spotify.com/album/438b0ZTNADLKs5eOiaGyow"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208300,
+      "name": "Blue Room",
+      "url": "https://open.spotify.com/track/6pIezyoIi2jFHfCFmxVikv"
+    },
+    {
+      "album": {
         "name": "Second Strike",
         "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
       },
@@ -1828,7 +1850,7 @@
       ],
       "date_added": "2020-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 324224,
       "name": "Budapest, Part VII - Live",
       "url": "https://open.spotify.com/track/21Jm2Njh72h2WWLSRmiGT5"
@@ -1988,7 +2010,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 322693,
       "name": "Captain\u2019s Song",
       "url": "https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y"
@@ -2564,7 +2586,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 369640,
       "name": "Day Eleven",
       "url": "https://open.spotify.com/track/7ycDDuZBAicxWB8At1jZIo"
@@ -2818,7 +2840,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 141983,
       "name": "EARLY AUTUMN",
       "url": "https://open.spotify.com/track/0XQsLIjr0fJUFJgRpDij8x"
@@ -3008,7 +3030,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 315343,
       "name": "Estate",
       "url": "https://open.spotify.com/track/6xR0WAHOMfSdXfB8Ba9rmK"
@@ -3048,7 +3070,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 167893,
       "name": "Evening Song",
       "url": "https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9"
@@ -3184,7 +3206,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 319426,
       "name": "Fathers and Sons",
       "url": "https://open.spotify.com/track/33Sj4aDvFvSCqsKR45U9Wx"
@@ -3474,6 +3496,24 @@
       "duration_ms": 341345,
       "name": "For My Ladies",
       "url": "https://open.spotify.com/track/7jPNoWAyDdfnzU3mUBI0HI"
+    },
+    {
+      "album": {
+        "name": "For the Culture",
+        "url": "https://open.spotify.com/album/30xdpzKsm1AcSPqWOdMSek"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "For the Culture",
+      "url": "https://open.spotify.com/track/5VyhDlll6gIanznhIhfu3s"
     },
     {
       "album": {
@@ -3918,7 +3958,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 241973,
       "name": "Hard to say Goodbye",
       "url": "https://open.spotify.com/track/3whSnQldx9s3CCiggyvVxk"
@@ -4504,7 +4544,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 435680,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/3GRScbir6t9pXy7WFGeLLd"
@@ -4882,7 +4922,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 322546,
       "name": "Indigo to Azure",
       "url": "https://open.spotify.com/track/4hmnc2MsOM1kNiElChEGho"
@@ -5238,7 +5278,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 518053,
       "name": "January",
       "url": "https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC"
@@ -5644,7 +5684,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 232559,
       "name": "Links",
       "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
@@ -5674,6 +5714,32 @@
       "duration_ms": 277711,
       "name": "Little Piece",
       "url": "https://open.spotify.com/track/3ajLDSfyYyEy1n8MfRuDdk"
+    },
+    {
+      "album": {
+        "name": "Little Piece",
+        "url": "https://open.spotify.com/album/6ZR0FDM9ZvyiMJjyw6EqKd"
+      },
+      "artists": [
+        {
+          "name": "Nice Chair",
+          "url": "https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Kaspar Vadsholt",
+          "url": "https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277711,
+      "name": "Little Piece",
+      "url": "https://open.spotify.com/track/7aUOpHOsDpmx9Y2teCG2BE"
     },
     {
       "album": {
@@ -7184,7 +7250,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 621680,
       "name": "Once upon a Summertime",
       "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
@@ -9602,7 +9668,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 321240,
       "name": "Tears I Cannot Hide",
       "url": "https://open.spotify.com/track/3k2ZG7wOrvAJVfATe6t41E"
@@ -10491,6 +10557,24 @@
     },
     {
       "album": {
+        "name": "Thinkin Bout You",
+        "url": "https://open.spotify.com/album/2fsXOXjqbWThZEfTLJL3xH"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH"
+    },
+    {
+      "album": {
         "name": "This is Not About You",
         "url": "https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI"
       },
@@ -10772,7 +10856,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 310049,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6f3xf1QgwU2S02k8Y2CZpH"
@@ -10926,7 +11010,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 358693,
       "name": "Virgo",
       "url": "https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw"
@@ -11380,7 +11464,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 418142,
       "name": "Where Do You Go?",
       "url": "https://open.spotify.com/track/3eTUgNA4GrFu3mo1wy79ni"
@@ -11530,7 +11614,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 281075,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/1qZ0gHUkbxhNrPN8t1a0TR"

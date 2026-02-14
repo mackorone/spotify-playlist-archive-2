@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.",
-  "num_followers": 33887,
+  "num_followers": 33882,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAN1JZtTKkArQXYgH9kEflmOQas7roh",
+  "snapshot_id": "AAAN3qjAAMQu8zQwBxyHNJxKq3i3d9xY",
   "tracks": [
     {
       "added_at": "2026-01-30 17:49:40",
@@ -1791,6 +1791,166 @@
       "duration_ms": 186768,
       "name": "Always Be The One",
       "url": "https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml"
+    },
+    {
+      "added_at": "2026-02-13 17:08:35",
+      "album": {
+        "name": "If I Didn't Know You",
+        "url": "https://open.spotify.com/album/1sNV3qzZJDjB9Hc7K5BsFp"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 208167,
+      "name": "If I Didn't Know You",
+      "url": "https://open.spotify.com/track/6naFuQGWFBHThc3fppOjbT"
+    },
+    {
+      "added_at": "2026-02-13 17:09:47",
+      "album": {
+        "name": "note to self",
+        "url": "https://open.spotify.com/album/0PFYkZSrTiU72XaEWew15u"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 182191,
+      "name": "note to self",
+      "url": "https://open.spotify.com/track/3DFJukP77diUk45IbxdeLd"
+    },
+    {
+      "added_at": "2026-02-13 17:24:02",
+      "album": {
+        "name": "Be Her",
+        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Be Her",
+      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
+      "added_at": "2026-02-13 17:25:01",
+      "album": {
+        "name": "Whipped",
+        "url": "https://open.spotify.com/album/5kBO9A4p5se9r0z65vR9ZW"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "duration_ms": 175807,
+      "name": "Whipped",
+      "url": "https://open.spotify.com/track/7FcGomj7SwgEaJKoP2wDjV"
+    },
+    {
+      "added_at": "2026-02-13 17:26:00",
+      "album": {
+        "name": "COUNTRY MUSIC",
+        "url": "https://open.spotify.com/album/7vu6qBNbU0iW6zBh2Umu5P"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "COUNTRY MUSIC",
+      "url": "https://open.spotify.com/track/4sDm9hZWYAurCs8l77xkZH"
+    },
+    {
+      "added_at": "2026-02-13 17:27:00",
+      "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
+    },
+    {
+      "added_at": "2026-02-13 17:27:57",
+      "album": {
+        "name": "Talk To Johnny",
+        "url": "https://open.spotify.com/album/2tDKMJJsVZ0dhZh2AcFnFZ"
+      },
+      "artists": [
+        {
+          "name": "Noah James",
+          "url": "https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Talk To Johnny",
+      "url": "https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv"
+    },
+    {
+      "added_at": "2026-02-13 17:39:13",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7C6w4PB4Gm2SUcPMxu7nAP"
+      },
+      "artists": [
+        {
+          "name": "Steven James",
+          "url": "https://open.spotify.com/artist/2GiFp07tRKO0O7e1b3rGZm"
+        }
+      ],
+      "duration_ms": 196107,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0dcyHtBwKZGSkaIraDzrVD"
+    },
+    {
+      "added_at": "2026-02-13 17:58:27",
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/5aCD1rMzLRMGS8my1lDomm"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 204405,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/2gvi2caSU5dR8JlqWOtJHA"
+    },
+    {
+      "added_at": "2026-02-13 19:09:53",
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     }
   ],
   "unique_name": "Country Smash Hits",

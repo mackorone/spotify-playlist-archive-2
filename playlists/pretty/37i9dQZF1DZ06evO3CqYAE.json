@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14283,
+  "num_followers": 14288,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAC7DUv+voMrUZEkZqD0MBst",
+  "snapshot_id": "aY0YAAAAAACSj+fgc4qafDwONn9xaHQ4",
   "tracks": [
     {
       "added_at": null,
@@ -338,15 +338,11 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 246674,
-      "name": "Onememma (feat. Chioma Jesus)",
-      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
+      "duration_ms": 362109,
+      "name": "Akamdinelu",
+      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
     },
     {
       "added_at": null,
@@ -418,11 +414,15 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 362109,
-      "name": "Akamdinelu",
-      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
+      "duration_ms": 246674,
+      "name": "Onememma (feat. Chioma Jesus)",
+      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 317986,
       "name": "Oyoyo Chukwu",
       "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's The Season (Live Performance)",
+        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 1944960,
+      "name": "It's The Season (Live Performance)",
+      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imela",
         "url": "https://open.spotify.com/album/0ppqpCnXDLy2phDJWD97kV"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 249822,
       "name": "Imela",
       "url": "https://open.spotify.com/track/6CHnff0Bu5k1uUvLmrtQF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's The Season (Live Performance)",
-        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 1944960,
-      "name": "It's The Season (Live Performance)",
-      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
     },
     {
       "added_at": null,

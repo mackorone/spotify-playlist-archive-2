@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22808,
+  "num_followers": 22818,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1247,8 +1247,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
+        "name": "Guetto Wave\u2019s",
+        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
       },
       "artists": [
         {
@@ -1258,11 +1258,15 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "LilBoy Bruce",
+          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+      "duration_ms": 193661,
+      "name": "Soul da Noite.",
+      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1311,22 +1315,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "A Beira Mar",
         "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
@@ -1351,8 +1339,24 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Guetto Wave\u2019s",
-        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
+      },
+      "artists": [
+        {
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
+        }
+      ],
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
       "artists": [
         {
@@ -1362,15 +1366,11 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "LilBoy Bruce",
-          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 193661,
-      "name": "Soul da Noite.",
-      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
+      "duration_ms": 164000,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
     },
     {
       "added_at": "2026-01-30 16:49:09",

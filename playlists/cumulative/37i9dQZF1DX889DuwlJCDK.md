@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: TOOBOE
 
-1,606 songs - 4 day 0 hr 59 min
+1,608 songs - 4 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [503](https://open.spotify.com/track/3l05XmfZjuKk50wQGdTJNW) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Futaride Itemo Hitori](https://open.spotify.com/album/4rTlZH5gYKiJjbPsoTHh9q) | 4:38 | 2024-01-18 | 2024-01-24 |
 | [8gatsu31nichi](https://open.spotify.com/track/4qxqTTfRstVeT7hC14wORo) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [8gatsu31nichi](https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv) | 3:08 | 2023-07-27 | 2023-10-18 |
 | [A box of Stockholm](https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [A box of Stockholm](https://open.spotify.com/album/04bpfy9facH2OrN5mlbq5q) | 2:40 | 2023-12-28 | 2024-01-17 |
-| [A Day to See You](https://open.spotify.com/track/4fcpCUkXh8WBoS1slJEWfM) | [shifukuponcho](https://open.spotify.com/artist/0jGAznw2F6sZBJZpIRMYwP) | [Feels Like a Good Day](https://open.spotify.com/album/0LHyi27E09f9saUuiOWevO) | 4:32 | 2026-01-13 |  |
+| [A Day to See You](https://open.spotify.com/track/4fcpCUkXh8WBoS1slJEWfM) | [shifukuponcho](https://open.spotify.com/artist/0jGAznw2F6sZBJZpIRMYwP) | [Feels Like a Good Day](https://open.spotify.com/album/0LHyi27E09f9saUuiOWevO) | 4:32 | 2026-01-13 | 2026-02-14 |
 | [ABCD Girl](https://open.spotify.com/track/6vFiifSiUN69wjdXi9KQtm) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [ABCD Girl](https://open.spotify.com/album/1JaETgTmW0daTqaS5HLZSa) | 2:21 | 2023-08-22 | 2023-09-06 |
 | [ABCDガール](https://open.spotify.com/track/5hInl2IZUBI4FuLMvEor1R) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [ABCDガール](https://open.spotify.com/album/0kDGiFyem8HNi1G2HVEy9O) | 2:21 | 2023-08-22 | 2023-08-24 |
 | [Abduct](https://open.spotify.com/track/6fy7KzYetbfLyZIjRaEgn3) | [KEPURA](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [Abduct](https://open.spotify.com/album/3xNhPdVyaKJNbuYTz5Dkje) | 3:43 | 2025-09-30 | 2025-10-15 |
@@ -589,7 +589,7 @@
 | [So Far So Good](https://open.spotify.com/track/4He7NULsOCTp9DVTu2y3yG) | [KUZIRA](https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV) | [So Far So Good](https://open.spotify.com/album/6QDfPDx8cV2nvB2e4lVgdI) | 1:36 | 2025-07-15 | 2025-08-02 |
 | [SONG](https://open.spotify.com/track/2ymS78X5VTuW7aWlULYn6C) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [be with you](https://open.spotify.com/album/6A2VRRwE1H5yEykoN8T1Zs) | 3:57 | 2024-01-23 | 2024-05-01 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-22 | 2024-04-24 |
-| [sonic blue](https://open.spotify.com/track/0t4OBt6CDqgiht59s0NMAq) | [Luouf](https://open.spotify.com/artist/38rB9QeMo41DgdfHH5MPSs) | [ao](https://open.spotify.com/album/2pcGDSsW68ioKkDYLRpRJn) | 2:16 | 2026-02-11 |  |
+| [sonic blue](https://open.spotify.com/track/0t4OBt6CDqgiht59s0NMAq) | [Luouf](https://open.spotify.com/artist/38rB9QeMo41DgdfHH5MPSs) | [ao](https://open.spotify.com/album/2pcGDSsW68ioKkDYLRpRJn) | 2:16 | 2026-02-11 | 2026-02-14 |
 | [sorry my bad :\(](https://open.spotify.com/track/5ECqAiqpaxYG3PANfOhPzt) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [GENIUS FOOL](https://open.spotify.com/album/4BkqgusPfH36B53Trxj1V8) | 2:27 | 2025-02-25 | 2025-03-26 |
 | [Soundproof Handle](https://open.spotify.com/track/0Hlv2qhpcpDC5bI8FXKel5) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Soundproof Handle](https://open.spotify.com/album/15pXZRlX6QwkRajyRmuHs4) | 4:10 | 2025-11-11 | 2025-12-17 |
 | [sour](https://open.spotify.com/track/75hQ6LBRV06p6DL6pnov9L) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Nemuru \- bridges](https://open.spotify.com/album/1oag16120KwYCJgbKhGk52) | 5:02 | 2025-12-23 |  |
@@ -828,6 +828,7 @@
 | [ぼくらが旅に出る理由](https://open.spotify.com/track/2rl6rmyVqCnPDJcWJvmJtC) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [ぼくらが旅に出る理由](https://open.spotify.com/album/1dUNZj0LeUM18cQLITyCpD) | 3:05 | 2023-12-19 | 2023-12-21 |
 | [ぼーんず・あんど・おーる](https://open.spotify.com/track/43uwyemoEPYGTxpefuifMt) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [ぼーんず・あんど・おーる](https://open.spotify.com/album/5hNo3JFjY8ViYmxNIEu0fd) | 3:19 | 2024-02-27 | 2024-02-29 |
 | [また、春に](https://open.spotify.com/track/37RJ1qDr09G5cDU2U5lPyl) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [また、春に](https://open.spotify.com/album/2Elz7Dxij1ayFAA4R0YIWd) | 3:23 | 2024-03-12 | 2024-03-20 |
+| [まだ選ばれていない僕らへ](https://open.spotify.com/track/3wiJTrKBbmjr5hBKoeMZvL) | [実来](https://open.spotify.com/artist/4TufRbB2y5COx24iXhKDYh) | [まだ選ばれていない僕らへ](https://open.spotify.com/album/5JR74OWjWDCl9cjOJazzxg) | 3:00 | 2026-02-11 |  |
 | [まともじゃない](https://open.spotify.com/track/0zAO0RYO9tDJIq10jz9JsV) | [Mr.マングース](https://open.spotify.com/artist/4tAo2j94lteKnr0wKEyELp) | [まともじゃない](https://open.spotify.com/album/71kxBFHu7lW2VmS2e7bbdK) | 4:49 | 2023-11-28 | 2023-12-06 |
 | [まぶた](https://open.spotify.com/track/2TUKLEXyjtKOmTjJupAexh) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:16 | 2023-11-14 | 2024-12-18 |
 | [まぼろし](https://open.spotify.com/track/1cE22ArAMXBNnWYHaWK0cT) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [まぼろし](https://open.spotify.com/album/4kRIWTZBs1zQmFvzC1bv7H) | 4:02 | 2025-07-15 | 2025-12-03 |
@@ -1588,6 +1589,7 @@
 | [雨の降る町](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 5:35 | 2025-08-19 | 2025-09-12 |
 | [雪月花](https://open.spotify.com/track/6jR9HOKraeOqG9QK0oNTbH) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [不器用な私だから](https://open.spotify.com/album/1GRLI4o90USPkzZOHLULka) | 5:15 | 2024-03-12 | 2024-04-24 |
 | [青いの。](https://open.spotify.com/track/1XqGNBbV15PgSZayE4b3tO) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [青いの。](https://open.spotify.com/album/5VgcEbE9sd4J9uRFJgQToH) | 4:07 | 2024-04-30 | 2024-11-11 |
+| [青い春に \- Re\-recorded](https://open.spotify.com/track/6AivINX7THtyFlL3HdAF9B) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [青い春に \(Re\-recorded\)](https://open.spotify.com/album/2UnzL0n5GjiD7sKc4tRMNy) | 4:11 | 2026-02-11 |  |
 | [青く、春](https://open.spotify.com/track/6OjaQTLVAIgr5mTEQaDDj9) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [青く、春](https://open.spotify.com/album/5gSXV7xmqhHz29n4JSDVLQ) | 4:09 | 2026-01-13 |  |
 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 | 2023-07-27 | 2024-12-18 |
 | [青に零れる](https://open.spotify.com/track/6SV8P2bPw40T7agpsvsAQq) | [リカク見得を切る](https://open.spotify.com/artist/7LFh9WNJa2rbVMzGDOzu39) | [青に零れる](https://open.spotify.com/album/1lG2tZKaVWZIbOAjM2zNtN) | 3:10 | 2024-09-17 | 2024-10-02 |

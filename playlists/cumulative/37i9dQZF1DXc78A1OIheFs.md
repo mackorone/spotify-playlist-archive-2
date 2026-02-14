@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-327 songs - 18 hr 43 min
+327 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-08-15 |  |
 | [Endlessly](https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Right Here Right Now](https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W) | 3:23 | 2026-02-12 |  |
 | [English Boy](https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [English Boy](https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf) | 3:01 | 2024-12-05 | 2025-01-31 |
+| [Escape From Planet Earth](https://open.spotify.com/track/6bMrpe8vPc5c5sPP0OPIVN) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Red Sunset](https://open.spotify.com/album/1QSBbWG8CAH4aWOA3d7FHK) | 2:40 | 2026-02-12 |  |
 | [Every Drop](https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Every Drop](https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA) | 4:04 | 2024-12-19 | 2025-01-10 |
 | [Eyes On Me](https://open.spotify.com/track/1mECl3Zcm5Yp0APfuW5qfi) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Eyes On Me](https://open.spotify.com/album/5oStuVQ3cIli57rHOqi42c) | 3:43 | 2024-05-20 | 2024-11-08 |
 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
@@ -305,7 +306,6 @@
 | [Timezones](https://open.spotify.com/track/0MWNEeM8S6PnP13xuJet12) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Timezones](https://open.spotify.com/album/5V126SDuq0XEspGTPTA50q) | 4:02 | 2024-05-20 | 2024-11-08 |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-17 |  |
 | [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 | 2024-10-03 | 2024-11-08 |
-| [Track 6](https://open.spotify.com/track/6bMrpe8vPc5c5sPP0OPIVN) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Try](https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Try](https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS) | 3:33 | 2024-11-07 | 2024-11-29 |
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 | 2024-11-08 |
 | [U Wanna Give This Up](https://open.spotify.com/track/5iByG8wrFBrqtXdhcKHyRm) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Fifth Season](https://open.spotify.com/album/1eZ5In6AmAeAoXGqOdqOkW) | 3:44 | 2025-09-11 | 2025-10-10 |

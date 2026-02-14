@@ -4,10 +4,12 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 한로로 \(HANRORO\)\)
 
-344 songs - 22 hr 26 min
+346 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 | 2026-02-13 |  |
+| [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 | 2026-02-13 |  |
 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 | 2024-04-02 |  |
 | [a sad invitation](https://open.spotify.com/track/5LvFaKs1QN2nR65h4tJN4R) | [YOON JI HWAN](https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4) | [a sad invitation](https://open.spotify.com/album/3Miicdgx3CUIAfLiMUja2F) | 4:06 | 2024-06-11 |  |
 | [a sad invitation](https://open.spotify.com/track/6FKsLcTZNQCZLaMfGG2l2n) | [YOON JI HWAN](https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4) | [a sad invitation](https://open.spotify.com/album/6uBQ8pLObzXRTttZKW0aZn) | 4:06 | 2025-02-14 |  |
@@ -106,7 +108,7 @@
 | [Gift](https://open.spotify.com/track/6pDvQuoG0AhHTdy7yWyvMG) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 4:20 | 2022-02-17 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-18 |  |
 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 | 2022-02-17 |  |
-| [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 | 2023-11-14 |  |
+| [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 | 2023-11-14 | 2026-02-14 |
 | [Good old days](https://open.spotify.com/track/5Kh4U2f0W2Kz7zRilOMwth) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Good old days](https://open.spotify.com/album/6X25SlTOwDCA7bxvMZfsoo) | 3:52 | 2022-02-17 |  |
 | [Goodbye](https://open.spotify.com/track/071KL7bA9Gt5Pw0Ud3JWav) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Goodbye](https://open.spotify.com/album/7mLtASnOxRZMiPzJUCLuT2) | 4:13 | 2023-02-16 |  |
 | [Guilty](https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band Of Dynamic Brothers](https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1) | 3:44 | 2022-02-17 |  |

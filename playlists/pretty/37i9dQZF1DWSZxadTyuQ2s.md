@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover:  Wizkid & Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,813 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,867 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 48 | [Peru](https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 |
 | 49 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 |
 | 50 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
-| 51 | [Kese \(Dance\)](https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
-| 52 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 |
+| 51 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 |
+| 52 | [Kese \(Dance\)](https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 53 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 |
 | 54 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
 | 55 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 68 | [COMMAS](https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [COMMAS](https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1) | 2:52 |
 | 69 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 |
 | 70 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
-| 71 | [BLESSINGS](https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLESSINGS](https://open.spotify.com/album/0nL0w3df3IsbhIXYEcTXDQ) | 3:28 |
-| 72 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
-| 73 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
+| 71 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
+| 72 | [BLESSINGS](https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLESSINGS](https://open.spotify.com/album/0nL0w3df3IsbhIXYEcTXDQ) | 3:28 |
+| 73 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
 | 74 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 |
 | 75 | [INDUSTRY MACHINE](https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [INDUSTRY MACHINE](https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL) | 3:04 |
 | 76 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |

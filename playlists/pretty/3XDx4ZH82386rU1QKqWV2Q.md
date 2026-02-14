@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,008,032 likes - 113 songs - 5 hr 3 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,007,959 likes - 113 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 73 | [Sparkles](https://open.spotify.com/track/6cIu7LGwnDaQMmwznFJpDo) | [Alex Klb](https://open.spotify.com/artist/1l0XnrEXbVsZKTer9fTwuE) | [Sparkles](https://open.spotify.com/album/3NBLC8PlNy3eMfvNzRnPum) | 3:00 |
 | 74 | [OPEN YOUR EYES](https://open.spotify.com/track/0iAw8AMAfSDTbj7JZoCQQ3) | [Suave Lee](https://open.spotify.com/artist/5RfBPFjY4Fhgilc3C8cAAg) | [OPEN YOUR EYES](https://open.spotify.com/album/0xByjdjMUcBUaD4sQTXV4j) | 2:31 |
 | 75 | [5% Tint X Creature](https://open.spotify.com/track/5gSvWWrkhOAwpcVB1Kbqwz) | [CedanVibe](https://open.spotify.com/artist/7zmqrvVAIRY3qS1AL8gfqP) | [5% Tint X Creature](https://open.spotify.com/album/4ZUIKfKaAWiH9hFa8RXkAC) | 2:11 |
-| 76 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/1X2rmUp2ZOWuS4AMcB4wKV) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 |
+| 76 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 |
 | 77 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 78 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 |
 | 79 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |

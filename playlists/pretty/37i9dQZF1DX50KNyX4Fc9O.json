@@ -1,6 +1,6 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: MUNA",
-  "num_followers": 130128,
+  "num_followers": 130130,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
@@ -59,8 +59,8 @@
     {
       "added_at": "2026-02-12 13:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -139,8 +139,8 @@
     {
       "added_at": "2026-02-12 13:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
       "artists": [
         {
@@ -223,8 +223,24 @@
     {
       "added_at": "2026-02-12 13:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
+    },
+    {
+      "added_at": "2026-02-12 13:00:13",
+      "album": {
+        "name": "THE ART OF BEING A MESS (DELUXE)",
+        "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
       },
       "artists": [
         {
@@ -323,8 +339,8 @@
     {
       "added_at": "2026-02-12 13:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Set Her Free",
+        "url": "https://open.spotify.com/album/1oq9ZVaDaSllEZiv4Qa9JZ"
       },
       "artists": [
         {
@@ -332,8 +348,8 @@
           "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 229000,
+      "name": "Tiny Spaces",
       "url": "https://open.spotify.com/track/3S2cDi6edc7MvZvgQDutLJ"
     },
     {
@@ -455,8 +471,8 @@
     {
       "added_at": "2026-02-12 13:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
       },
       "artists": [
         {
@@ -539,6 +555,22 @@
     {
       "added_at": "2026-02-12 13:00:13",
       "album": {
+        "name": "One Last Night",
+        "url": "https://open.spotify.com/album/1sEWUF2N6mShqAy64rhG7Y"
+      },
+      "artists": [
+        {
+          "name": "MR. FANTASY",
+          "url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH"
+        }
+      ],
+      "duration_ms": 288524,
+      "name": "One Last Night",
+      "url": "https://open.spotify.com/track/1uwzsh4qg5fWIXNladSY26"
+    },
+    {
+      "added_at": "2026-02-12 13:00:13",
+      "album": {
         "name": "POSSESSION",
         "url": "https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip"
       },
@@ -555,8 +587,8 @@
     {
       "added_at": "2026-02-12 13:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
       },
       "artists": [
         {
@@ -564,8 +596,8 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 16",
+      "duration_ms": 205720,
+      "name": "Disappear",
       "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
     },
     {

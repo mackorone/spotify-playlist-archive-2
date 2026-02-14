@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,432 likes - 1,108 songs - 2 day 18 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,444 likes - 1,108 songs - 2 day 18 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,7 +217,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 207 | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
 | 208 | [Satsa \- Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa \- Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
 | 209 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
-| 210 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
+| 210 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/4FxNMZ9OUBEkh6DicZtT6n) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
 | 211 | [Horas y Horas \- Spotify Singles](https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Spotify Singles](https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV) | 3:53 |
 | 212 | [Superstar \- Spotify Singles](https://open.spotify.com/track/2O0tXCpr6AMc0HUe7wI5B8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Spotify Singles](https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV) | 4:30 |
 | 213 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 |

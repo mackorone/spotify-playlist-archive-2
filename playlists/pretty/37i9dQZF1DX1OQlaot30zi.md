@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Pyrex, Plaza, Nabi, Promessa, Marte, Diss Gacha, Lorenzza e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,822 likes - 105 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,862 likes - 105 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 3 | [MANESKIN MELODIA](https://open.spotify.com/track/3xpdxybRTHfSKInlHSpgoB) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 3:03 |
 | 4 | [LA VITA CHE VIVO](https://open.spotify.com/track/2q9O6twPyMmPXqd4arGkA9) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [LA VITA CHE VIVO](https://open.spotify.com/album/4yKtowdWYMpI2FX784fRnQ) | 2:58 |
 | 5 | [OVERSIZE](https://open.spotify.com/track/1DWdzegxzshILVfcdlKLsO) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [OVERSIZE](https://open.spotify.com/album/38rVKLQJl7LzrJ8yivSj7y) | 2:03 |
-| 6 | [Art Attack](https://open.spotify.com/track/786Ix4kzThar3zwk8vx6xj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Art Attack](https://open.spotify.com/album/42OhbFUoE1r4I2ltGbKsG3) | 2:12 |
+| 6 | [Art Attack](https://open.spotify.com/track/786Ix4kzThar3zwk8vx6xj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Art Attack](https://open.spotify.com/album/42OhbFUoE1r4I2ltGbKsG3) | 2:12 |
 | 7 | [Diversi \(feat\. Emis Killa\)](https://open.spotify.com/track/5hdKXtPCJQlEJnSY2N03KT) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [A Loren2za](https://open.spotify.com/album/3UliJpORKM5bI6SHiaEqyG) | 2:53 |
 | 8 | [nuda in casa \#41](https://open.spotify.com/track/0hnau4E4zk3VOZ2UfXuXGs) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [nuda in casa \#41](https://open.spotify.com/album/6HVXG2s0h71HUEUB5U4hwj) | 2:55 |
 | 9 | [LE PAROLE CHE NON TI HO DETTO](https://open.spotify.com/track/4lFkZOGYndTJt4uwThq3se) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [LE PAROLE CHE NON TI HO DETTO](https://open.spotify.com/album/15xgyu9TDje9YVbKwvillq) | 2:12 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 29 | [Amore Goodbye](https://open.spotify.com/track/1ldyqaJZWm8T7m1QH4gLMX) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Amore Goodbye](https://open.spotify.com/album/4x5NkjWZg2Sba0VGKF13cY) | 3:11 |
 | 30 | [\#domanisconosciuti](https://open.spotify.com/track/5Pm8CLUHvlmungv1XeW2Kv) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [\#domanisconosciuti](https://open.spotify.com/album/6rHVcMdjRVehtkugTHrwJf) | 2:49 |
 | 31 | [Music Business](https://open.spotify.com/track/01mCacSmtPNhaKxKA2jsXi) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Music Business](https://open.spotify.com/album/55FgHxHEF1pmMNEZhSYhBr) | 2:33 |
-| 32 | [LAVORARE NO GRAZIE](https://open.spotify.com/track/4SUnOFzgSFHsN0NyENXGXF) | [Occhiaia 47](https://open.spotify.com/artist/1yERvIWJ5NqsRf5Mu1GNtm) | [CRISTODDIO SUPERSTAR](https://open.spotify.com/album/2hjLkU7d3RvZi2sMJF5ApZ) | 2:21 |
+| 32 | [LAVORARE NO GRAZIE \(feat\. elliot\)](https://open.spotify.com/track/4SUnOFzgSFHsN0NyENXGXF) | [Occhiaia 47](https://open.spotify.com/artist/1yERvIWJ5NqsRf5Mu1GNtm), [elliot](https://open.spotify.com/artist/3qeFjeE8OEYCyQFZtKOoDb) | [CRISTODDIO SUPERSTAR](https://open.spotify.com/album/2hjLkU7d3RvZi2sMJF5ApZ) | 2:21 |
 | 33 | [NON FARTELO RACCONTARE](https://open.spotify.com/track/1xalvzebBDSqGKZj1XqSdS) | [The Luxe](https://open.spotify.com/artist/3zhhnmtw4IO0PsXlzLbuLd) | [NON FARTELO RACCONTARE](https://open.spotify.com/album/1QUAPuDKyo7isGP45v5mKN) | 2:13 |
 | 34 | [MISERIA](https://open.spotify.com/track/1x3YtLutkPtcLbVwJ1cIQv) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F) | [MISERIA](https://open.spotify.com/album/5imZj3QdoaXP3vg7hgg4ML) | 2:16 |
 | 35 | [NFAM E PUTTAN](https://open.spotify.com/track/6UptHz4ZdXnTeH68pSKHPh) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [NFAM E PUTTAN](https://open.spotify.com/album/54BRRyTRa8emRRwA8KvhPa) | 3:19 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 45 | [Solo Io e Te](https://open.spotify.com/track/0e0063VNq5DRyyLhSoNoNk) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Solo Io e Te](https://open.spotify.com/album/66fygefRbij5RzuVyNzJ3D) | 1:58 |
 | 46 | [SOLO](https://open.spotify.com/track/2k9AID9oMFxLteLwDU8Lrg) | [Il Fubbe](https://open.spotify.com/artist/6eULbvhzeUO89wEE3fjvLM) | [SOLO](https://open.spotify.com/album/5mK3XMDMcMS5OC0OdDj6S0) | 2:17 |
 | 47 | [Cringe](https://open.spotify.com/track/0AOVF7jz87YAeqW6boeWbq) | [Cuta](https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [Paraculo](https://open.spotify.com/album/5Rc2l6juDaIeaI3cGhiFfg) | 3:03 |
-| 48 | [ERROR \(404\)](https://open.spotify.com/track/1xj85ce5coVDAq01Fw8vH7) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [](https://open.spotify.com/album/null) | 2:36 |
+| 48 | [ERROR \(404\)](https://open.spotify.com/track/1xj85ce5coVDAq01Fw8vH7) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [LEAKS v1](https://open.spotify.com/album/3ZVBv9AMH2Reguwiv6qtf6) | 2:36 |
 | 49 | [SKYLINE](https://open.spotify.com/track/7h1eX9vPRj1XldJ0Xue8JV) | [Bett](https://open.spotify.com/artist/568pseqtkMADgX1DUSzxkj) | [SKYLINE](https://open.spotify.com/album/37hUxHO5Elr9kvxxK8ztLV) | 2:48 |
 | 50 | [RADICI](https://open.spotify.com/track/3pcVujDoQhOPg3DpfCqXL2) | [Casba](https://open.spotify.com/artist/3zKtRVXe9mDA4Bwr4NdvBc), [Nasko](https://open.spotify.com/artist/5not5buuGtMF6M29qKr8G0) | [RADICI](https://open.spotify.com/album/5K65V7l2sVndAFd2Bwr2jS) | 3:03 |
 | 51 | [SALUTE](https://open.spotify.com/track/5NIkl4dia2BsQwypOUSy4Y) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Madbuddy](https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J) | [SALUTE](https://open.spotify.com/album/55PpcerLBwwc3TzbM593QO) | 2:32 |

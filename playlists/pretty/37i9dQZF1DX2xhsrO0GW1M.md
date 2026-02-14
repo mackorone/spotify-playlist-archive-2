@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,991 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,902 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 51 | [Guiding Light](https://open.spotify.com/track/7wDqHhtRkP1TXSlZK0sEQH) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Guiding Light](https://open.spotify.com/album/7BCZXVyzAyoUMTA1MHpGJJ) | 3:37 |
 | 52 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
 | 53 | [Echoing](https://open.spotify.com/track/7ab894xLywHmwswdr00QSr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Echoing](https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF) | 3:37 |
-| 54 | [Shockwave](https://open.spotify.com/track/2UnqgtIfVMfZOvCDGZuUMI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Shockwave](https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd) | 3:31 |
-| 55 | [Reaching Out To You](https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [The Saturday Songwriters](https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3) | [Reaching Out To You](https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa) | 3:30 |
-| 56 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
+| 54 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
+| 55 | [Shockwave](https://open.spotify.com/track/2UnqgtIfVMfZOvCDGZuUMI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Shockwave](https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd) | 3:31 |
+| 56 | [Reaching Out To You](https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [The Saturday Songwriters](https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3) | [Reaching Out To You](https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa) | 3:30 |
 | 57 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 |
 | 58 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 |
 | 59 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 72 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 73 | [Every You Every Me](https://open.spotify.com/track/3tRv4ZYZimrL27flnjgeR6) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd) | 3:33 |
 | 74 | [Lisztomania](https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 4:01 |
-| 75 | [Where Is My Mind?](https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:56 |
+| 75 | [Dive Deep](https://open.spotify.com/track/6yoKgVW3LYI0vD5Qq9YRg5) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Dive Deep](https://open.spotify.com/album/3oHLZFnFrqaRckM76Wsvgn) | 5:13 |
 
 Snapshot ID: `AAAAABlfqZWk7xnf4c0TEwS/Xx2wmboP`

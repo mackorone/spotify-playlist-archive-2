@@ -4,7 +4,7 @@
 
 > Hør årets tolkninger her!
 
-139 songs - 6 hr 59 min
+140 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Jeg elsker deg, men](https://open.spotify.com/track/5FDt8dA0ihBMOfoZGVzXfd) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Jeg elsker deg, men](https://open.spotify.com/album/3qo95l3Zg0asbQc0tTSCfF) | 2:43 | 2024-06-18 | 2025-01-03 |
 | [JEG FÅR VÆRE SOM JEG ER](https://open.spotify.com/track/7HlUh2RqWi4AC2ukWJFZjn) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [JEG FÅR VÆRE SOM JEG ER](https://open.spotify.com/album/5TjkugsjDSG8Nje8wuKXz5) | 2:35 | 2024-06-18 | 2025-01-03 |
 | [Jeg vet du er borte](https://open.spotify.com/track/2kS71Mu54VZUuFwoQKJULG) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Jeg vet du er borte](https://open.spotify.com/album/6rueYOaP9ziot3CWqGGaAf) | 3:02 | 2024-06-18 | 2025-01-03 |
+| [Jente i fra by'n](https://open.spotify.com/track/5SJF9OUyNYVNB8Vv50BAnU) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Jente i fra by'n](https://open.spotify.com/album/1qto5H2JRUfbt3dLjSXaqW) | 2:12 | 2026-02-13 |  |
 | [Kniven i hjertet](https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Kniven i hjertet](https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP) | 3:02 | 2026-02-05 |  |
 | [Kor langt vil du gå](https://open.spotify.com/track/317Z7s4VTuuveubdV1HJEw) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Kor langt vil du gå](https://open.spotify.com/album/7LmtN5zFdhpWQICfeZLmno) | 3:00 | 2025-01-02 |  |
 | [La den mannen vere](https://open.spotify.com/track/3gwOlol1hbBGAFSExWART8) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [La den mannen vere](https://open.spotify.com/album/4fZD65Zw7QYGZwm96ALmS4) | 3:15 | 2025-01-09 |  |

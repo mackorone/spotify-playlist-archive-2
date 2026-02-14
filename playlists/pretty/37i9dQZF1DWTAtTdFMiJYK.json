@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Yawar Abdal",
-  "num_followers": 189196,
+  "num_followers": 189220,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-02-10 10:09:01",
       "album": {
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "duration_ms": 134139,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
+    },
+    {
+      "added_at": "2026-02-10 10:09:01",
+      "album": {
         "name": "Woh",
         "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 194521,
       "name": "Woh",
       "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
-    },
-    {
-      "added_at": "2026-02-10 10:09:01",
-      "album": {
-        "name": "Uljhan",
-        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
-      },
-      "artists": [
-        {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        },
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
-        }
-      ],
-      "duration_ms": 134139,
-      "name": "Uljhan",
-      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
     },
     {
       "added_at": "2026-02-10 10:09:01",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-02-10 10:09:01",
       "album": {
+        "name": "TERA PATA",
+        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "TERA PATA",
+      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
+    },
+    {
+      "added_at": "2026-02-10 10:09:01",
+      "album": {
         "name": "Aasmaan Jaley",
         "url": "https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 166615,
       "name": "Aasmaan Jaley",
       "url": "https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6"
-    },
-    {
-      "added_at": "2026-02-10 10:09:01",
-      "album": {
-        "name": "TERA PATA",
-        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "TERA PATA",
-      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
     },
     {
       "added_at": "2026-02-10 10:09:01",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-10 10:09:01",
       "album": {
-        "name": "Jiya",
-        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
-      },
-      "artists": [
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Jiya",
-      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
-    },
-    {
-      "added_at": "2026-02-10 10:09:01",
-      "album": {
         "name": "Tanhaiyaan",
         "url": "https://open.spotify.com/album/0C8ZC5kcAPqOPJzW9DWfRl"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 189729,
       "name": "Tanhaiyaan",
       "url": "https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1"
+    },
+    {
+      "added_at": "2026-02-10 10:09:01",
+      "album": {
+        "name": "Jiya",
+        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Jiya",
+      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
     },
     {
       "added_at": "2026-02-10 10:09:01",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-02-10 10:09:01",
       "album": {
+        "name": "Ishq X Ranjha",
+        "url": "https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6"
+      },
+      "artists": [
+        {
+          "name": "Khotu Kharkhada",
+          "url": "https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "Ishq X Ranjha",
+      "url": "https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo"
+    },
+    {
+      "added_at": "2026-02-10 10:09:01",
+      "album": {
         "name": "Tuu",
         "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 190000,
       "name": "Tuu",
       "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
-    },
-    {
-      "added_at": "2026-02-10 10:09:01",
-      "album": {
-        "name": "Sahaare",
-        "url": "https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 188860,
-      "name": "Sahaare",
-      "url": "https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0"
     },
     {
       "added_at": "2026-02-10 10:09:01",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-02-10 10:09:01",
       "album": {
-        "name": "Ishq X Ranjha",
-        "url": "https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6"
+        "name": "Sahaare",
+        "url": "https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf"
       },
       "artists": [
         {
-          "name": "Khotu Kharkhada",
-          "url": "https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ"
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
         }
       ],
-      "duration_ms": 151836,
-      "name": "Ishq X Ranjha",
-      "url": "https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo"
+      "duration_ms": 188860,
+      "name": "Sahaare",
+      "url": "https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0"
     },
     {
       "added_at": "2026-02-10 10:09:01",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2026-02-10 10:09:01",
       "album": {
-        "name": "Tu hi hai",
-        "url": "https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ"
+        "name": "Saanware Aijaiyo",
+        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
       "artists": [
         {
-          "name": "Twinkle Aggrwal",
-          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
         }
       ],
-      "duration_ms": 187959,
-      "name": "Tu hi hai",
-      "url": "https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e"
+      "duration_ms": 234713,
+      "name": "Saanware Aijaiyo",
+      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
     },
     {
       "added_at": "2026-02-10 10:09:01",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2026-02-10 10:09:01",
       "album": {
-        "name": "Saanware Aijaiyo",
-        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
+        "name": "Tu hi hai",
+        "url": "https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ"
       },
       "artists": [
         {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
         }
       ],
-      "duration_ms": 234713,
-      "name": "Saanware Aijaiyo",
-      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+      "duration_ms": 187959,
+      "name": "Tu hi hai",
+      "url": "https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e"
     },
     {
       "added_at": "2026-02-10 10:09:01",

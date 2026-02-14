@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Sunday morning whenever you like
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,837 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,782 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 38 | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed) | 3:20 |
 | 39 | [Daydreaming](https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Daydreaming](https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14) | 3:19 |
 | 40 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
-| 41 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
-| 42 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
+| 41 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
+| 42 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
 | 43 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 |
 | 44 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 | 45 | [Need You Now](https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [December](https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW) | 2:28 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 64 | [This Must Be Love](https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [This Must Be Love](https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw) | 2:47 |
 | 65 | [Begin Again](https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Begin Again](https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU) | 3:05 |
 | 66 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
-| 67 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
-| 68 | [Ama said](https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [it's like I never left](https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56) | 2:55 |
-| 69 | [Let's Try Love](https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let's Try Love](https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM) | 2:19 |
+| 67 | [Ama said](https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [it's like I never left](https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56) | 2:55 |
+| 68 | [Let's Try Love](https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let's Try Love](https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM) | 2:19 |
+| 69 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
 | 70 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
 | 71 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
 | 72 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 |

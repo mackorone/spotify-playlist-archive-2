@@ -1,12 +1,12 @@
 {
   "description": "This is Sam Fender. The essential tracks, all in one playlist.",
-  "num_followers": 238250,
+  "num_followers": 238315,
   "original_name": "This Is Sam Fender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAX7MBmgoQmf+7F8yMiEi54",
+  "snapshot_id": "aY0YAAAAAADr30JT6TPWsc9U5DC9RTSH",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Watching (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+        "name": "Seventeen Going Under (Live Deluxe)",
+        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/5VLWOZWrjoGJWEwt7xDRYA"
+      "duration_ms": 130399,
+      "name": "Little Bull Of Blithe",
+      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Going Under (Live Deluxe)",
-        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 130399,
-      "name": "Little Bull Of Blithe",
-      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/5VLWOZWrjoGJWEwt7xDRYA"
     },
     {
       "added_at": null,

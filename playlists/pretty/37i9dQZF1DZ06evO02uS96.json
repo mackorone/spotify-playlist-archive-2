@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169382,
+  "num_followers": 169380,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAA3Oc5HU00ECqArXWUgGjv2",
+  "snapshot_id": "aY0YAAAAAACmJwCjoqk6qQz3Jlaqaviy",
   "tracks": [
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Black Bird",
-      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
+      "duration_ms": 335973,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 335973,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 350933,
       "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
       "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u8776\u3005\u7d50\u3073",
-        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 302960,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8776\u3005\u7d50\u3073",
+        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 302960,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
     },
     {
       "added_at": null,

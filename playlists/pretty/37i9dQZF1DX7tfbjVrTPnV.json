@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 234453,
+  "num_followers": 234477,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Moonshiner",
-      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Saint Mary Of The Woods",
         "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 513440,
       "name": "Choctaw Bingo",
       "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Moonshiner",
+      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Servant of Love",
-        "url": "https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 317213,
-      "name": "Shine a Different Way",
-      "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Your Life Is a Record",
         "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 277986,
       "name": "Copper Canteen",
       "url": "https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Servant of Love",
+        "url": "https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 317213,
+      "name": "Shine a Different Way",
+      "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Picture In a Frame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
-      },
-      "artists": [
-        {
-          "name": "Kimmie Rhodes",
-          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 286069,
-      "name": "Love & Happiness",
-      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 161023,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Picture In a Frame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
+      },
+      "artists": [
+        {
+          "name": "Kimmie Rhodes",
+          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 286069,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
       "artists": [
         {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
       },
       "artists": [
         {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
         }
       ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Band of Brothers",
-        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Killing Fields",
         "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1843,42 +1843,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
-      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -1891,6 +1855,38 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1943,18 +1939,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
       },
       "artists": [
         {
           "name": "John Prine",
           "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
         }
       ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+      "duration_ms": 149422,
+      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
+      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
     },
     {
       "added_at": "2024-08-30 04:00:00",

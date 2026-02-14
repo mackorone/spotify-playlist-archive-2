@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: CHOSNG\(초승\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,246 songs - 3 day 3 hr 26 min
+1,248 songs - 3 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Blinded](https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb) | 3:45 | 2023-07-17 | 2023-08-25 |
 | [Blocks](https://open.spotify.com/track/3WuzkyoFApI0co4QbaltyO) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Somnia 0:00 \- Chapter 1](https://open.spotify.com/album/0yxt6or5KqsURYDJMAMTmi) | 4:01 | 2025-10-30 | 2025-12-05 |
 | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f) | [Miiro](https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP), [Akane Lize](https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK) | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i) | 4:27 | 2025-06-13 | 2025-07-23 |
-| [Blue](https://open.spotify.com/track/4wZ4Mb2u58AcVPbNNXKQwL) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Blue](https://open.spotify.com/album/4e5cub7bCm8o61uKKaAVFW) | 3:16 | 2026-01-14 |  |
+| [Blue](https://open.spotify.com/track/4wZ4Mb2u58AcVPbNNXKQwL) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Blue](https://open.spotify.com/album/4e5cub7bCm8o61uKKaAVFW) | 3:16 | 2026-01-14 | 2026-02-14 |
 | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/album/285AagckaF30HANKbEQnxd) | 3:10 | 2022-03-18 | 2022-07-25 |
 | [Blue bird](https://open.spotify.com/track/1WlNLsdkbPm2tjwIgvkneM) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Blue bird](https://open.spotify.com/album/79aVg7uljET5XuVio9dNFr) | 3:25 | 2021-12-21 | 2024-04-28 |
 | [blue snail](https://open.spotify.com/track/4Tk4Fac1Mfghv1sRvyvGW6) | [Choi Seong](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [psicosismu](https://open.spotify.com/album/6qeeRxn42rayvHbRKqyjxq) | 4:12 | 2023-05-04 | 2023-05-24 |
@@ -573,6 +573,7 @@
 | [Koh](https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/7N391rPsSbIRYDqrI8xP2H) | 4:59 | 2023-09-18 | 2024-04-04 |
 | [Koi](https://open.spotify.com/track/43nyP68GKT0fDa6ftbmvr1) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Forever’s Not Enough](https://open.spotify.com/album/5uYqh7FXvk3jvyUEM1L88b) | 3:01 | 2025-10-14 | 2025-11-14 |
 | [Koriga](https://open.spotify.com/track/0So5dXB9M3InMMGmxslL4L) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [Koriga](https://open.spotify.com/album/6PiN8MeW9hifmkNxVuQUGY) | 3:41 | 2022-04-12 | 2022-04-15 |
+| [Krapow](https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC) | [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [Leader](https://open.spotify.com/album/2ubP3MUtDQ1kkHiuzzYg88) | 2:29 | 2026-02-13 |  |
 | [Kryptonite \(feat\. Henni\)](https://open.spotify.com/track/50dcsUaL1DEzuh8QlNuEpF) | [Chloe Char](https://open.spotify.com/artist/3kP9joDEb8O36na2Gd6mFJ), [Benny Char](https://open.spotify.com/artist/0fP10sGDcpc0dcfe1QoNhS), [Henni](https://open.spotify.com/artist/6nt5cp1v7eC6VFSo00EIKz) | [Kryptonite](https://open.spotify.com/album/1OF8oRoz4dzUfBrGDghif4) | 3:01 | 2025-03-14 | 2025-04-11 |
 | [Last Day](https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Last Day](https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP) | 5:36 | 2024-12-19 | 2025-03-05 |
 | [Last Scene](https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Last Scene](https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa) | 3:46 | 2025-07-08 | 2025-09-02 |
@@ -1079,7 +1080,7 @@
 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-04 | 2025-10-15 |
 | [Tongue](https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Starring](https://open.spotify.com/album/3WWuYymsLHKjtLto36KMgt) | 3:43 | 2025-09-25 | 2025-11-06 |
 | [Too slow](https://open.spotify.com/track/2ByfcUe3hEZDtPILSJG78x) | [Aiowell](https://open.spotify.com/artist/36I2SDkhk3uQ7JlFV47XGu) | [Too slow](https://open.spotify.com/album/6LHo1IYVIJ45AKP0YKdXgg) | 3:24 | 2025-08-04 | 2025-08-27 |
-| [Trace](https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Trace](https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H) | 4:21 | 2026-01-19 |  |
+| [Trace](https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Trace](https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H) | 4:21 | 2026-01-19 | 2026-02-14 |
 | [Train](https://open.spotify.com/track/2sC2MG2UB374acOg0Ltidg) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:58 | 2025-01-30 | 2025-04-11 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [Tree \(Feat\. Eily\)](https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD) | [Tree](https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J) | 3:43 | 2021-12-21 | 2022-07-24 |
@@ -1215,6 +1216,7 @@
 | [Your Melody](https://open.spotify.com/track/282E4GBXUN4knGGBdrjxVP) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Your Melody](https://open.spotify.com/album/0tDLbqb5qbApAdQt0dTtn4) | 3:34 | 2024-11-06 | 2025-01-31 |
 | [Your Voice Makes Me Dream](https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Your Voice Makes Me Dream](https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n) | 4:00 | 2021-12-12 | 2022-07-27 |
 | [yours.](https://open.spotify.com/track/3C4KOIMBDPK21oTsvdMDRn) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [yours.](https://open.spotify.com/album/1jcBjaepZsSf1Wl0mx8S3d) | 3:25 | 2024-08-12 | 2024-08-23 |
+| [Youth](https://open.spotify.com/track/1OF94wxgNL6Gvbswew0tL0) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Normal Life](https://open.spotify.com/album/7j83wp8UM4bW5BwBLbVhOF) | 3:08 | 2026-02-13 |  |
 | [Youth](https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq) | 6:01 | 2021-12-12 | 2022-07-29 |
 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 | 2024-04-19 |
 | [Youth](https://open.spotify.com/track/6clmN7YzxNFd8FR2O7yrtz) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Youth](https://open.spotify.com/album/5RmJvM2QkPYcgEMNAoqOLg) | 3:24 | 2026-01-14 |  |

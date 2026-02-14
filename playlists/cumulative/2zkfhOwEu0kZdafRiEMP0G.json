@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243395,
+      "name": "Cause Of Death",
+      "url": "https://open.spotify.com/track/1JMrmmvPZvwdKOnti8wbmC"
+    },
+    {
+      "album": {
         "name": "Damocles",
         "url": "https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw"
       },
@@ -1232,6 +1250,32 @@
       "duration_ms": 217371,
       "name": "Sincerely Me - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/7Fuj7RyGJYSJ7HgO5E2tJv"
+    },
+    {
+      "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Bryan Garris",
+          "url": "https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe"
+        },
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263947,
+      "name": "Slaughterhouse (feat. Bryan Garris)",
+      "url": "https://open.spotify.com/track/2ClgEn1FZxchrqRZ04JZzj"
     },
     {
       "album": {

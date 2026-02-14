@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13995,
+  "num_followers": 13998,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAD6CW3h1xVUnO/Ps3KuBBCz",
+  "snapshot_id": "aY0YAAAAAABLkoQ1hmrQ1A8CCfxDwn5S",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+        "name": "Soul Nights",
+        "url": "https://open.spotify.com/album/4Q992gzwZqcxKzzRoi15Rf"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Let Me Into Your World (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/1ysq5K2FOAwX61rsUJA18V"
+      "duration_ms": 210853,
+      "name": "If You Don't Know Me by Now",
+      "url": "https://open.spotify.com/track/1Qb1Ygd3TepJ24eiQKUGep"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Nights",
-        "url": "https://open.spotify.com/album/4Q992gzwZqcxKzzRoi15Rf"
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 210853,
-      "name": "If You Don't Know Me by Now",
-      "url": "https://open.spotify.com/track/1Qb1Ygd3TepJ24eiQKUGep"
+      "duration_ms": 159400,
+      "name": "Let Me Into Your World (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/1ysq5K2FOAwX61rsUJA18V"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If You Don't Know Christ by Now",
+        "url": "https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 275070,
+      "name": "If You Don't Know Christ by Now",
+      "url": "https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Don't Know Christ by Now",
-        "url": "https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
@@ -768,25 +784,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 275070,
-      "name": "If You Don't Know Christ by Now",
-      "url": "https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crate Diggers: Rare Soul/R&B Gems, Vol. 2",
-        "url": "https://open.spotify.com/album/6wKiZc8LvL2pPlul4TrKUD"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 367058,
-      "name": "Now Is The Time",
-      "url": "https://open.spotify.com/track/3LCW67QSmmqb3IegY8euzI"
+      "duration_ms": 604160,
+      "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
+      "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "Crate Diggers: Rare Soul/R&B Gems, Vol. 2",
+        "url": "https://open.spotify.com/album/6wKiZc8LvL2pPlul4TrKUD"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 604160,
-      "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
-      "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
+      "duration_ms": 367058,
+      "name": "Now Is The Time",
+      "url": "https://open.spotify.com/track/3LCW67QSmmqb3IegY8euzI"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63393,
+  "num_followers": 63394,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAC3PPnAuhuXibHhGVTp8Nlj",
+  "snapshot_id": "aY0YAAAAAABlQRq7CSHXijSEDtu52j+i",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "Teu Amor N\u00e3o Falha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem \u00e9 Como Nosso Deus?",
         "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 489116,
       "name": "Quem \u00e9 Como Nosso Deus?",
       "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "Teu Amor N\u00e3o Falha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 334400,
-      "name": "Filho Do Deus Vivo - Ao Vivo",
-      "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pardal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
       },
@@ -351,6 +335,54 @@
       "duration_ms": 415099,
       "name": "Pardal - Ao Vivo",
       "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Filho Do Deus Vivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 471733,
+      "name": "Que Se Abram os C\u00e9us - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty"
     },
     {
       "added_at": null,
@@ -395,38 +427,6 @@
       "duration_ms": 355160,
       "name": "Meu Respirar - Ao Vivo",
       "url": "https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 471733,
-      "name": "Que Se Abram os C\u00e9us - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Preto no Branco 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "Estado De Gra\u00e7a (feat. N\u00edvea Soares) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 435733,
       "name": "Tributo a Yehovah - Ac\u00fastico Ao Vivo",
       "url": "https://open.spotify.com/track/5l0ZKLOBQDoag51oWfjWI2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Preto no Branco 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "Estado De Gra\u00e7a (feat. N\u00edvea Soares) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Casa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5Kvc037mncJXV6K8xk244Y"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 420270,
-      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1FipKiLmgrDWGp8Uo6Tzya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 511929,
       "name": "Rio - Ao Vivo",
       "url": "https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Em Casa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5Kvc037mncJXV6K8xk244Y"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 420270,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1FipKiLmgrDWGp8Uo6Tzya"
     },
     {
       "added_at": null,

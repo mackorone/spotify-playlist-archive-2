@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,572 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,607 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 57 | [A Good Heart](https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX) | [Feargal Sharkey](https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T) | [Feargal Sharkey](https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N) | 4:41 |
 | 58 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 |
 | 59 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
-| 60 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
-| 61 | [Jump \- 2004 Remaster](https://open.spotify.com/track/0Z7O8GMQShj9TJrm2yX1R6) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 4:04 |
+| 60 | [Jump \- 2004 Remaster](https://open.spotify.com/track/0Z7O8GMQShj9TJrm2yX1R6) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 4:04 |
+| 61 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
 | 62 | [Live Is Life \- Live](https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Millennium Edition](https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG) | 4:17 |
 | 63 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
 | 64 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 68 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:55 |
 | 69 | [Africa](https://open.spotify.com/track/5tJjo5JDF9zhzYD7yQfATH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Hold The Line: The Ultimate Toto Collection](https://open.spotify.com/album/2suiqJpTmKoWWY84sOT3XN) | 4:56 |
 | 70 | [In The Army Now](https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now \- The Collection](https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg) | 4:41 |
-| 71 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
-| 72 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
+| 71 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
+| 72 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
 | 73 | [Ik Kan Het Niet Alleen](https://open.spotify.com/track/20kvV0pVt7BMlW9mZQBzsT) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Niemand In De Stad](https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H) | 3:58 |
 | 74 | [Vriendschap](https://open.spotify.com/track/13mvLR1T0GesAY3jhM9lAw) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 4:07 |
 | 75 | [Comment ça va](https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK) | [The Shorts](https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf) | [Comment Ça Va](https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09) | 3:29 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 77 | [Rosanna](https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Greatest Hits: 40 Trips Around The Sun](https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2) | 5:32 |
 | 78 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
 | 79 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/58lTbZKr7XkkR4zEpoLhYH) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha \(Expanded Edition\)](https://open.spotify.com/album/0U59W3AMVxEVDzHrEe8UFW) | 4:01 |
-| 80 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
-| 81 | [Doris Day](https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:48 |
+| 80 | [Doris Day](https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:48 |
+| 81 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
 | 82 | [I'm Specialized in You](https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV) | [Time Bandits](https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne) | [Greatest Hits](https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da) | 3:51 |
 | 83 | [Here I Go Again \- 1987 Version; 2017 Remaster](https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Edition\)](https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r) | 4:35 |
 | 84 | [Love & Pride](https://open.spotify.com/track/7s9MPp6IbrZa39gE0zpiVH) | [King](https://open.spotify.com/artist/3ckiHuEKcXHXV0QOkCdCki) | [Love And Pride \- The Best Of King](https://open.spotify.com/album/6I9he8EJUDC07nfcjq4NKZ) | 3:20 |

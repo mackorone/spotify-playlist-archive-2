@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown emerging pop! Cover: MEEK
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,868 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,887 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 4 | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 |
 | 5 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 |
 | 6 | [Safe Now](https://open.spotify.com/track/6EMdPtnLCYSsWBX0s8K0if) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Safe Now](https://open.spotify.com/album/4HCKn10cZMkTZ6wW1k6ULD) | 2:48 |
-| 7 | [Track 5](https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Still in My Head](https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [The Sky](https://open.spotify.com/album/7DPp7NFkMqRUIL9upK7dpE) | 3:43 |
 | 8 | [It's Not You It's Him](https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [It's Not You It's Him](https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK) | 2:49 |
 | 9 | [Recreational](https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Recreational](https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT) | 3:13 |
 | 10 | [Blue](https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Blue](https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u) | 3:49 |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,152 songs - 4 day 15 hr 36 min
+2,154 songs - 4 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Bigger Than The Universe](https://open.spotify.com/track/4O1FGUf2xndvsmtMQtHZNp) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0jnA15McQjMuXilDq9w2BW) | 3:02 | 2022-07-28 | 2022-09-16 |
 | [Biohacking My Technology](https://open.spotify.com/track/6HJwPugn9QStgfhikxQ1d9) | [Ferris Pier](https://open.spotify.com/artist/3PrjxwAe7Zn1cKf76CRRWt), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Biohacking My Technology](https://open.spotify.com/album/4fbyHwnPeLWh410DFJnpL3) | 2:44 | 2024-09-12 | 2025-04-11 |
 | [Birthday](https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Birthday](https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD) | 3:14 | 2023-12-14 | 2024-02-18 |
-| [Bit mig](https://open.spotify.com/track/4thI83CMJQYfi9CXIayke1) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [](https://open.spotify.com/album/null) | 4:31 | 2026-02-12 |  |
+| [Bit mig](https://open.spotify.com/track/4thI83CMJQYfi9CXIayke1) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Klunk](https://open.spotify.com/album/3UHqvrisWMiefwr9OjnmPM) | 4:31 | 2026-02-12 |  |
 | [Bitch](https://open.spotify.com/track/0ZJzqshtEYTOtuoNY2s13q) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bitch](https://open.spotify.com/album/5kpBKPaKvuCXvn2PRoJECt) | 4:03 | 2025-08-14 | 2025-12-05 |
 | [Black Widow](https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Black Widow](https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU) | 2:40 | 2025-09-18 | 2026-02-13 |
 | [Blackbird](https://open.spotify.com/track/19h6KWthFKKGt2gfMLUnd5) | [HILMA](https://open.spotify.com/artist/2t4DuQtbgXn4pA4TchDjao) | [Blackbird](https://open.spotify.com/album/2tSovxmnon7ef9VvckE3kb) | 3:33 | 2024-05-02 | 2024-05-10 |
@@ -520,7 +520,7 @@
 | [En sekund](https://open.spotify.com/track/3HteneaA9R5zRXVvZRoT0i) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [En sekund \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/0M5PVcCS8bM1fpZj7BEqCF) | 3:39 | 2021-12-16 | 2022-03-06 |
 | [En sista chans](https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [En sista chans](https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u) | 3:04 | 2024-08-22 | 2025-03-14 |
 | [En sång om dig](https://open.spotify.com/track/5VdVTdRb1VQ2LeMvTjjXca) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [En sång om dig](https://open.spotify.com/album/35koKrD7oBeq0p3tLDQP4R) | 3:14 | 2024-05-23 | 2024-06-21 |
-| [En tår](https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [En tår](https://open.spotify.com/album/74kknMQmcLmDMi26QF13JK) | 2:54 | 2026-02-12 |  |
+| [En tår](https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [En tår](https://open.spotify.com/album/74kknMQmcLmDMi26QF13JK) | 2:54 | 2026-02-12 | 2026-02-14 |
 | [En tår för varje tår](https://open.spotify.com/track/5bR2R637w1Z7OtUk6qn26P) | [Melina Borglowe](https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj) | [En tår för varje tår](https://open.spotify.com/album/6idVeqKsRaSPry1D2pXqsD) | 3:24 | 2024-05-16 | 2024-06-14 |
 | [En vän som du](https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [En vän som du](https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9) | 3:18 | 2024-06-13 | 2024-08-16 |
 | [En vän till mig](https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [En vän till mig](https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg) | 2:37 | 2024-09-19 | 2024-11-08 |
@@ -938,7 +938,7 @@
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-07 | 2024-08-09 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In kom en ängel](https://open.spotify.com/track/31Ck0hJs7XKo78L5kjDcpZ) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [In kom en ängel](https://open.spotify.com/album/7LewFkBppvrPUZsnGLK8Hg) | 2:56 | 2024-10-17 | 2025-03-02 |
-| [In My Head](https://open.spotify.com/track/5OCuFqx1Y8KUdMcJjb5nqA) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [In My Head](https://open.spotify.com/album/2UsJ8YR59WddA1m4PWsTG1) | 3:41 | 2026-02-12 |  |
+| [In My Head](https://open.spotify.com/track/5OCuFqx1Y8KUdMcJjb5nqA) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [In My Head](https://open.spotify.com/album/2UsJ8YR59WddA1m4PWsTG1) | 3:41 | 2026-02-12 | 2026-02-14 |
 | [In My Mind](https://open.spotify.com/track/4ywvtcOycSYXx7LOMQ2bW4) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [In My Mind](https://open.spotify.com/album/77ug7vI9azTaDP9fILrBHl) | 1:44 | 2024-04-18 | 2024-04-21 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
 | [In The Sunrise](https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [OMR](https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH) | 2:20 | 2022-05-30 | 2023-02-24 |
@@ -953,6 +953,7 @@
 | [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 | 2025-12-14 |
 | [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 | 2025-10-23 | 2026-02-13 |
 | [Ingen, bara du](https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv) | [VIOL](https://open.spotify.com/artist/5mf2lROvATwH6apu0AZBmt) | [Ingen, bara du](https://open.spotify.com/album/7ycajtCnklHybUFzHJvPYA) | 2:46 | 2024-06-13 | 2024-08-16 |
+| [Ingenting](https://open.spotify.com/track/0L7mmcpKaTk5cCJqEF9vVf) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Ingenting](https://open.spotify.com/album/1HRxwe5kL63xBlXg4yszJQ) | 2:47 | 2026-02-12 |  |
 | [Ingenting](https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Ingenting](https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr) | 3:08 | 2024-09-05 | 2024-11-26 |
 | [Ingenting](https://open.spotify.com/track/3t6K2juWZJbEEWWXM8YMjL) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ingenting](https://open.spotify.com/album/3DqUAzuwPpxBZDEwiL10aw) | 2:47 | 2024-05-02 | 2024-06-01 |
 | [Inget Lyckligt Slut](https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Inget Lyckligt Slut](https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs) | 2:24 | 2024-08-08 | 2024-09-29 |
@@ -1732,6 +1733,7 @@
 | [Stockholm lämnar sår \- REMAZE Remix](https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [REMAZE](https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB) | [Stockholm lämnar sår \(REMAZE Remix\)](https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf) | 3:30 | 2023-11-23 | 2024-02-09 |
 | [Stockholm är för stort](https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Stockholm är för stort](https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk) | 3:05 | 2025-08-28 | 2026-01-15 |
 | [Stockholms dårar](https://open.spotify.com/track/4e394atn8SYK4bOrRbEfuJ) | [Oscar Ahlgren](https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob) | [Stockholms dårar](https://open.spotify.com/album/7nvenV5moQscgVQjBbbjSB) | 2:52 | 2024-03-28 | 2024-05-03 |
+| [Stockholmsbrud](https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Stockholmsbrud](https://open.spotify.com/album/4A0ITPScPKfjQJUpcknF8L) | 1:41 | 2026-02-12 |  |
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2022-11-24 | 2023-10-06 |
 | [Stockholmsvy](https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf) | 2:41 | 2022-07-28 | 2022-11-24 |
 | [Stockholmsvy](https://open.spotify.com/track/5DEXZtBOW4haBWw3fvSmwD) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/296TJIJiULJkhgFxhapwR6) | 2:41 | 2022-04-28 | 2022-07-29 |

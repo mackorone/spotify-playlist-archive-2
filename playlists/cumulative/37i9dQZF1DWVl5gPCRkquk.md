@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-385 songs - 23 hr 58 min
+386 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Avalanche](https://open.spotify.com/track/4E2Spia8iCpVqoVUnjavWe) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 4:18 | 2023-09-25 | 2023-10-09 |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-05-02 |  |
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2025-05-02 |  |
+| [Best of Our Possible Lives](https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Best of Our Possible Lives](https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC) | 3:08 | 2026-02-13 |  |
 | [Better Distractions](https://open.spotify.com/track/3CmcswzHOACDjooV1KLULN) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 4:09 | 2024-01-12 |  |
 | [Birds](https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL) | [Jessie Early](https://open.spotify.com/artist/0xGWbDs5hpYFmiOoMpm0EL) | [The Fire Never Dies](https://open.spotify.com/album/6Qz8VEatH6nwsvIEB7vDk8) | 3:41 | 2021-10-29 | 2022-07-29 |
 | [Blind in the Fray](https://open.spotify.com/track/25hEexChI4sq7CH1K4hqh8) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 3:33 | 2021-10-29 | 2022-04-20 |
@@ -72,7 +73,7 @@
 | [cigarette holes](https://open.spotify.com/track/4WxxPiwiWxrhnJPnsNoOLO) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Bad For Me](https://open.spotify.com/album/76v1LQXUBTB1tmqYrTohmv) | 2:26 | 2022-04-15 | 2022-11-11 |
 | [cigarette holes](https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [cigarette holes](https://open.spotify.com/album/1nuf7xVIP1J9rpeGje6zLD) | 2:26 | 2022-04-15 | 2022-04-20 |
 | [Come Back to Me](https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC) | [Virginia Man](https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt) | [These Four Words](https://open.spotify.com/album/6spUqdLQA7jkRInsc7MxFb) | 2:06 | 2024-03-08 | 2024-12-21 |
-| [Come Daylight](https://open.spotify.com/track/6vq4LQat2BBDYODMCiFO1k) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Come Daylight](https://open.spotify.com/album/6mO0gww4D1uUTbm2PrN6kG) | 3:07 | 2024-07-19 |  |
+| [Come Daylight](https://open.spotify.com/track/6vq4LQat2BBDYODMCiFO1k) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Come Daylight](https://open.spotify.com/album/6mO0gww4D1uUTbm2PrN6kG) | 3:07 | 2024-07-19 | 2026-02-14 |
 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 | 2022-09-06 |  |
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2024-12-20 |  |
 | [Cool Jam](https://open.spotify.com/track/3N55TX8RISkVx4yDuKDG6P) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [McKenzie](https://open.spotify.com/album/5EK1qziAlurOZINUJC1yPe) | 3:26 | 2021-10-29 | 2022-07-29 |

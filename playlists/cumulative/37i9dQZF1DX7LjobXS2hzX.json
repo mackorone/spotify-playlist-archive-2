@@ -2445,6 +2445,28 @@
     },
     {
       "album": {
+        "name": "Soleil m\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/05E8nV4jttlse9c9COMaCR"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        },
+        {
+          "name": "Orlanda",
+          "url": "https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240933,
+      "name": "Comme un refrain",
+      "url": "https://open.spotify.com/track/2MkA4ZOZC3xrUVj3jiVQkX"
+    },
+    {
+      "album": {
         "name": "Compliqu\u00e9",
         "url": "https://open.spotify.com/album/2C3Mf9ElXpByjDdc4LMDrz"
       },
@@ -3257,6 +3279,28 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+    },
+    {
+      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -3294,7 +3338,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 156135,
       "name": "dis moi o\u00f9, dis moi quand (feat. Hubert Lenoir)",
       "url": "https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK"
@@ -3498,7 +3542,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -6232,7 +6276,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 222693,
       "name": "La ziguezon",
       "url": "https://open.spotify.com/track/2Vmf6V7IQAVZlUcjE2FbDc"
@@ -7016,7 +7060,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 162926,
       "name": "m'enfuir d'ici",
       "url": "https://open.spotify.com/track/5MzrIFmRok1Z0sI1VwlAyT"
@@ -7202,7 +7246,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -8152,7 +8196,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 174751,
       "name": "Not What\u2019s Going On",
       "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
@@ -8214,7 +8258,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -9444,7 +9488,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180624,
       "name": "Rester",
       "url": "https://open.spotify.com/track/3Q7AjkKVBoBIVjnZQLGJwQ"
@@ -10013,6 +10057,24 @@
     },
     {
       "album": {
+        "name": "She Stole My Truck",
+        "url": "https://open.spotify.com/album/0hjiKG6daMiML6mvD0fZEC"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172295,
+      "name": "She Stole My Truck",
+      "url": "https://open.spotify.com/track/5VoOUxtMkxqNC0XuolPHcL"
+    },
+    {
+      "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
@@ -10510,7 +10572,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 186828,
       "name": "Still Got The Spirit",
       "url": "https://open.spotify.com/track/719Z3FXsetuWivg6bVaNVU"

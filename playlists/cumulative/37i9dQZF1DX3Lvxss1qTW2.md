@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Zaylevelten
 
-634 songs - 1 day 5 hr 34 min
+635 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 | 2025-01-17 | 2025-05-09 |
 | [Coco Samba](https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Coco Samba](https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5) | 3:09 | 2025-12-19 |  |
 | [Cocoa Butter](https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [Cocoa Butter](https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ) | 1:53 | 2024-10-04 | 2025-03-07 |
+| [Coconut Cream](https://open.spotify.com/track/7kR5jVONjEK3MOlf0RV6AH) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Coconut Cream](https://open.spotify.com/album/7i1yZ6WL8S8ORA1MqVmm0e) | 3:08 | 2026-02-13 |  |
 | [Cold War \(with FAVE\)](https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Cold War](https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y) | 3:13 | 2024-06-28 | 2024-11-08 |
 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 | 2024-11-29 | 2025-03-29 |
 | [Complicated](https://open.spotify.com/track/140cW0PtrfiVaOrIUlZ5Dq) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Dutty Love](https://open.spotify.com/album/175r8elKWemcX0GM1CbOQy) | 2:36 | 2024-11-08 | 2025-03-07 |
@@ -512,7 +513,7 @@
 | [Short Skirt \(Fine Girls\)](https://open.spotify.com/track/6UiQVXLAXT4ZJYeXBGnran) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Short Skirt \(Fine Girls\)](https://open.spotify.com/album/0cEAm1fUmZp2wkeofSOdTq) | 2:17 | 2024-08-09 | 2024-11-16 |
 | [Shout](https://open.spotify.com/track/7lpPd7U9zYc6gDnP8k3rhL) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Shout](https://open.spotify.com/album/3dGRqq7EliVcR2rMERd78H) | 2:24 | 2024-09-20 | 2024-12-13 |
 | [Side](https://open.spotify.com/track/6HsnEHAUGWzjnbbBdcWq11) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Side](https://open.spotify.com/album/6W35XGp7xF1wfkuS3fP1kL) | 2:46 | 2024-09-27 | 2024-12-13 |
-| [Sina Nia](https://open.spotify.com/track/2m7onT9CEqOJKwYnZSnT1L) | [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h) | [Sina Nia](https://open.spotify.com/album/6HGpO7uZ24LZ9xAl4aYthD) | 3:01 | 2026-01-28 |  |
+| [Sina Nia](https://open.spotify.com/track/2m7onT9CEqOJKwYnZSnT1L) | [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h) | [Sina Nia](https://open.spotify.com/album/6HGpO7uZ24LZ9xAl4aYthD) | 3:01 | 2026-01-28 | 2026-02-14 |
 | [Sinner](https://open.spotify.com/track/6vm4fsrfhkJnWXTys1UnqR) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Sinner](https://open.spotify.com/album/6rDkLaotjRbxgDN8LXVyGL) | 2:37 | 2025-06-06 | 2025-09-05 |
 | [Sinner Remix \(feat\. Rybeena\)](https://open.spotify.com/track/0MQRgZpFXFGeaXZNx7CSWr) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Sinner Remix \(feat\. Rybeena\)](https://open.spotify.com/album/0XfdNmgoZ6ZwJshH5cAcOv) | 2:27 | 2025-08-08 | 2025-09-05 |
 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 | 2025-01-14 | 2025-01-22 |

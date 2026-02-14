@@ -3122,6 +3122,24 @@
     {
       "album": {
         "name": "Lawson",
+        "url": "https://open.spotify.com/album/4RyKJKIyqpKSLYR6CsA3pm"
+      },
+      "artists": [
+        {
+          "name": "Lawson",
+          "url": "https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "We Are Kings",
+      "url": "https://open.spotify.com/track/1C79JSJn6W7ZbxpaFysxkh"
+    },
+    {
+      "album": {
+        "name": "Lawson",
         "url": "https://open.spotify.com/album/7jwZbSVPKeoBtq02Jl9xii"
       },
       "artists": [
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 237693,
       "name": "We Are Kings",
       "url": "https://open.spotify.com/track/1Q0ea4a6jwKYR03e2Hra4q"

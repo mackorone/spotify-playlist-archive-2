@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Myles 6ix, Teetwo, TeniTeach
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,739 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,753 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 7 | [Amor Antigo](https://open.spotify.com/track/0A7EhW7szUKXijk50SQ489) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Amor Antigo](https://open.spotify.com/album/3Wp15P2TDQhsgFAFxlRO9C) | 3:12 |
 | 8 | [1,2,3](https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [1,2,3](https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z) | 2:34 |
 | 9 | [Casar É pra Esquecer](https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Casar É pra Esquecer](https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or) | 2:57 |
-| 10 | [Amor, amor \(feat\. Zé Pedrito\)](https://open.spotify.com/track/6RPUPsGtnBYa7O0XiFHOdt) | [Lucas Maia](https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr), [Zé Pedrito](https://open.spotify.com/artist/0xtgUn3PRfIqqzzwu1rzJN) | [Amor, amor \(feat\. Zé Pedrito\)](https://open.spotify.com/album/2nBpRfBiBYcxnYZFkUr8Fd) | 2:50 |
+| 10 | [Amor, amor](https://open.spotify.com/track/6RPUPsGtnBYa7O0XiFHOdt) | [Lucas Maia](https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr), [Zé Pedrito](https://open.spotify.com/artist/3DH9RR8gHg1qQYanqZ31bv) | [Amor, amor](https://open.spotify.com/album/2nBpRfBiBYcxnYZFkUr8Fd) | 2:50 |
 | 11 | [Pobre Ex\-Namorado](https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pobre Ex\-Namorado](https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc) | 2:53 |
 | 12 | [Tu na Tua](https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [Tu na Tua](https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO) | 2:48 |
 | 13 | [Respirar](https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Respirar](https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H) | 4:14 |

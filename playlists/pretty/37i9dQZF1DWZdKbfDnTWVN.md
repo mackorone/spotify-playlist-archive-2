@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E?si=H29ND\-AOSsSKrTGvxqx2\-g"> Mad G</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,180 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,193 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 51 | [June 25th](https://open.spotify.com/track/52oGL84hQkBKLqtEuwsIs6) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [June 25th](https://open.spotify.com/album/4Hogx7jn8gJvADmHAXPzSH) | 2:50 |
 | 52 | [Properly \(feat\. Femi One\)](https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Properly \(feat\. Femi One\)](https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo) | 3:32 |
 
-Snapshot ID: `AAAAAIQo5hBACHBr2tohGFeb3tqlNCy6`
+Snapshot ID: `AAAAAEwEP+sNpV4ui02tKAz5DYlnk1GY`

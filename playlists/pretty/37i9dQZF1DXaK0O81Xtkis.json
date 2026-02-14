@@ -1,13 +1,77 @@
 {
-  "description": "a little indie, a little pop, soda featuring Whitney Whitney",
-  "num_followers": 228986,
+  "description": "a little indie, a little pop, soda featuring Knox",
+  "num_followers": 228983,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhRMmWx77zy3GQlJtdc8Vcj4/8t",
+  "snapshot_id": "AAAAAB3TkWc+dLzj+mRbeuX++r16mP7S",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/71LN5sgNOqcRkIk2Kbi6jR"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 152720,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/1F5G0Au0xfNSYnX7NCDnqC"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/05KNazpljahHfx1ElDNujj"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "duration_ms": 136225,
+      "name": "Girls Just Wanna",
+      "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
+    },
     {
       "added_at": "2026-02-06 10:00:13",
       "album": {
@@ -751,314 +815,6 @@
       "duration_ms": 202962,
       "name": "Shitshow",
       "url": "https://open.spotify.com/track/4brTl1F22JnQFQHNvCJOHM"
-    },
-    {
-      "added_at": "2025-11-14 05:57:58",
-      "album": {
-        "name": "EVERYONE'S A STAR!",
-        "url": "https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 195229,
-      "name": "Everyone\u2019s A Star!",
-      "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
-    },
-    {
-      "added_at": "2025-11-14 17:46:36",
-      "album": {
-        "name": "Where Did You Go?",
-        "url": "https://open.spotify.com/album/6fWj5aZpuvjVEIIdTaNDNi"
-      },
-      "artists": [
-        {
-          "name": "Good Boy Daisy",
-          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Where Did You Go?",
-      "url": "https://open.spotify.com/track/5vtgw0pMPr8eue3CLcfeQC"
-    },
-    {
-      "added_at": "2025-11-21 05:00:23",
-      "album": {
-        "name": "COULDA NOT",
-        "url": "https://open.spotify.com/album/7C8y6bTlVS6lzvLMi1WXRs"
-      },
-      "artists": [
-        {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
-        }
-      ],
-      "duration_ms": 162313,
-      "name": "COULDA NOT",
-      "url": "https://open.spotify.com/track/4ZCiBayQ8AFbOW3kQuXn9y"
-    },
-    {
-      "added_at": "2025-11-07 05:51:47",
-      "album": {
-        "name": "me with no shirt on",
-        "url": "https://open.spotify.com/album/3ChvAG8hqJnQjg6hV4Ise2"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 168580,
-      "name": "me with no shirt on",
-      "url": "https://open.spotify.com/track/4kfbeIjJ5jgiAqgKlRIuUs"
-    },
-    {
-      "added_at": "2025-11-08 19:55:38",
-      "album": {
-        "name": "Sucker Punch",
-        "url": "https://open.spotify.com/album/4geWEPMfEaMOsfMC05rfB0"
-      },
-      "artists": [
-        {
-          "name": "Betty Taylor",
-          "url": "https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY"
-        }
-      ],
-      "duration_ms": 203395,
-      "name": "Sucker Punch",
-      "url": "https://open.spotify.com/track/6lT1D6MI2NUpDUlrRVFL7g"
-    },
-    {
-      "added_at": "2025-10-17 04:01:00",
-      "album": {
-        "name": "Coydog",
-        "url": "https://open.spotify.com/album/07XhF0Jlpkb0jCey7j9Tsn"
-      },
-      "artists": [
-        {
-          "name": "Carter Vail",
-          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
-        }
-      ],
-      "duration_ms": 210885,
-      "name": "6 Feet Under",
-      "url": "https://open.spotify.com/track/41n5NNDfMFv9nhSutXMXPX"
-    },
-    {
-      "added_at": "2025-10-10 04:21:56",
-      "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/7ycd7aaioLGruOwzSd5bw6"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        },
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/5YtYSUSeKI6jgNlY9Dprmr"
-    },
-    {
-      "added_at": "2025-11-07 05:51:47",
-      "album": {
-        "name": "She Goes",
-        "url": "https://open.spotify.com/album/0UPsFm6WSOwkWQH8Q0sMKF"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 183173,
-      "name": "She Goes",
-      "url": "https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "mood swings",
-        "url": "https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 125786,
-      "name": "mood swings",
-      "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
-    },
-    {
-      "added_at": "2025-10-17 04:01:00",
-      "album": {
-        "name": "Horizons: Night",
-        "url": "https://open.spotify.com/album/1yHRhrhRL63coaqR3zGYRi"
-      },
-      "artists": [
-        {
-          "name": "Adrian Lyles",
-          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
-        }
-      ],
-      "duration_ms": 164911,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/1Y9ewybegCoWaDE1wDcsxX"
-    },
-    {
-      "added_at": "2025-10-31 04:09:06",
-      "album": {
-        "name": "wannabe!",
-        "url": "https://open.spotify.com/album/0oDjFPkkSXX2xRYvAiyZDN"
-      },
-      "artists": [
-        {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
-        }
-      ],
-      "duration_ms": 132637,
-      "name": "wannabe!",
-      "url": "https://open.spotify.com/track/1GRm70qZVH8GAjyPIZcpV4"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "Different, Worse Versions",
-        "url": "https://open.spotify.com/album/5xrd3MOx7k8cUP9Z86pgF7"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 183076,
-      "name": "Different, Worse Versions",
-      "url": "https://open.spotify.com/track/6e3kXGh5HwuKZNMSi46qCU"
-    },
-    {
-      "added_at": "2025-10-10 04:21:56",
-      "album": {
-        "name": "kids",
-        "url": "https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "pollen",
-      "url": "https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp"
-    },
-    {
-      "added_at": "2025-09-27 19:59:59",
-      "album": {
-        "name": "Say What You Want",
-        "url": "https://open.spotify.com/album/666B6FOTPm0UYxwpto6N2x"
-      },
-      "artists": [
-        {
-          "name": "Tom A. Smith",
-          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
-        }
-      ],
-      "duration_ms": 238951,
-      "name": "I Don't Blame You",
-      "url": "https://open.spotify.com/track/2q4OrVl17enVQwEP3FqICn"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "Blue Sky Mentality",
-        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 176985,
-      "name": "Walk Walk Walk",
-      "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
-    },
-    {
-      "added_at": "2025-09-27 20:32:56",
-      "album": {
-        "name": "U-Turn",
-        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 206628,
-      "name": "U-Turn",
-      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
-    },
-    {
-      "added_at": "2025-09-05 04:00:28",
-      "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "nobody matters but You",
-        "url": "https://open.spotify.com/album/1mufhVjLOfNqSue9IpyrCm"
-      },
-      "artists": [
-        {
-          "name": "Leyla Ebrahimi",
-          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
-        }
-      ],
-      "duration_ms": 237423,
-      "name": "nobody matters but You",
-      "url": "https://open.spotify.com/track/418GRtVIC4w7aN26ADRMPO"
     }
   ],
   "unique_name": "soda",

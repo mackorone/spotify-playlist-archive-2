@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Llénate de good vibes con HOPECORE, el nuevo álbum de Grupo Selectivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,492 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,598 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 2 | [Mi Entorno](https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Entorno](https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj) | 2:52 |
 | 3 | [EASY](https://open.spotify.com/track/6w60YlYpRUFr0XrZ1bNt9D) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD](https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0) | 2:57 |
 | 4 | [Recárguense Conmigo](https://open.spotify.com/track/4gzks4gPyueRKrO2NgKHrY) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Recárguense Conmigo](https://open.spotify.com/album/14UWtrymZmGVX2FC7m4ZRe) | 3:00 |
-| 5 | [La Racha](https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [La Racha](https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF) | 2:48 |
+| 5 | [LA RACHA](https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LA RACHA](https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF) | 2:48 |
 | 6 | [Mente Diferente](https://open.spotify.com/track/4mA8ZTzAyoxIRMgRWEqeLn) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Mente Diferente](https://open.spotify.com/album/1GecQKdJkQ4XZsnm3gfpT0) | 2:54 |
 | 7 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
 | 8 | [El Niño de Oro](https://open.spotify.com/track/1xHy5H5QiCaw117gVLOQiE) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [El Niño de Oro](https://open.spotify.com/album/5EVkDfY4Idm2vygk03P3sY) | 2:57 |

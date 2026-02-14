@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Eva Under Fire",
+  "description": "For full-volume lovers. Cover: TX2",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -3689,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199819,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG"
+    },
+    {
+      "album": {
         "name": "Certainty",
         "url": "https://open.spotify.com/album/2bggVQ0LqAdCy8zdf4GFQ4"
       },
@@ -5773,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "End Of Us",
+        "url": "https://open.spotify.com/album/3tgeT35mV5tfT8clmooBVC"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/7sPLzNndlXYlriDJRcqomv"
+    },
+    {
+      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R"
       },
@@ -5874,7 +5910,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 194370,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/2fhBazTvPdHa27az86vVui"
@@ -15486,7 +15522,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 190344,
       "name": "Murder Scene (feat. Magnolia Park)",
       "url": "https://open.spotify.com/track/7fmtvVoWh7U0RIuyEcXm24"
@@ -16158,7 +16194,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 185945,
       "name": "Nice Guy (feat. Ekoh)",
       "url": "https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2"
@@ -16252,6 +16288,28 @@
       "duration_ms": 201110,
       "name": "Nightmare (The Devil)",
       "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+    },
+    {
+      "album": {
+        "name": "Nightmare Tripping (Feat. Nickelback)",
+        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321106,
+      "name": "Nightmare Tripping (Feat. Nickelback)",
+      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
     },
     {
       "album": {
@@ -17744,7 +17802,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 161016,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/1UUIQlzikG5RI9J93lNjCS"
@@ -20170,6 +20228,24 @@
       "duration_ms": 191439,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
+    },
+    {
+      "album": {
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
     },
     {
       "album": {

@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Dream As One (from Avatar: Fire and Ash)",
+        "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199876,
+      "name": "Dream As One - from Avatar: Fire and Ash",
+      "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
+    },
+    {
+      "album": {
         "name": "Ultimate Collection: Dobie Gray",
         "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
       },

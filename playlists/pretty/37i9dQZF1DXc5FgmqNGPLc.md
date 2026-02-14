@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,979 likes - 100 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,984 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 89 | [I Can't Stand It \- Live At Club Mozambique, Detroit, 1970](https://open.spotify.com/track/0nkL1ZQc2KkRxdLW7xQaRh) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Live At Club Mozambique](https://open.spotify.com/album/1Ky6DlBjmTsPJtnJT8AGeD) | 8:24 |
 | 90 | [Okonkole' Y Trompa \- Live in Japan 1982](https://open.spotify.com/track/1JTyErCbO6j5gPDSvJRJpg) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Twins Live In Japan 1982](https://open.spotify.com/album/77E3yGa6D6O5HJRuK90KyG) | 6:55 |
 | 91 | [Out 'N' In \- live](https://open.spotify.com/track/77QDXNb6mor0iUdD3F9vcx) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Rudy Van Gelder](https://open.spotify.com/artist/0XMh2eSb9EmhFxqIKcFzKx) | [Joe Henderson In Japan](https://open.spotify.com/album/5aDmGHhMGNNGLtWz5WK67Q) | 9:05 |
-| 92 | [Monaco \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 |
+| 92 | [Monaco \- Set 1 / Live At Cafe Bohemia, May 31, 1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 |
 | 93 | [Evidence \- Live At Carnegie Hall, New York/1957](https://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r) | [Thelonious Monk Quartet](https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [At Carnegie Hall](https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk) | 4:41 |
 | 94 | [4 am \- Live](https://open.spotify.com/track/6XMBsqFCKYGBeydljl78gM) | [Terry Gibbs](https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK), [Lou Levy](https://open.spotify.com/artist/5c5L65QQWcsXXI8bfxeWBM), [Conte Candoli](https://open.spotify.com/artist/3wM3S0CxD0Do7IWKvJ0WRG) | [4am \(Live\)](https://open.spotify.com/album/5wTePbvn1oyjbwWSdbd2TP) | 5:17 |
 | 95 | [C Jam Blues \- Live at the Blue Note Club, Chicago; 1994 Remix](https://open.spotify.com/track/1wHGIsLlqW1sPsiVY6zyml) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Live At The Blue Note](https://open.spotify.com/album/2Pi1i1PxmSDcczxHrhzj1p) | 4:52 |

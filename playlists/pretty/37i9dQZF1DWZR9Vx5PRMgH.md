@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,665 likes - 15 songs - 19 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,665 likes - 15 songs - 19 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 | 3 | [La Amistad l Las Alucines l 01x32](https://open.spotify.com/episode/09A65oSB87KBxo7MhMba1t) | [Las Alucines](https://open.spotify.com/show/5kopp3hL0uRgLZUh7nOvia) | [Las Alucines](https://open.spotify.com/album/5kopp3hL0uRgLZUh7nOvia) | 1:09:33 |
 | 4 | [535\. Por qué necesitamos más historias contadas por mujeres \| Jueves de Lety & Ash](https://open.spotify.com/episode/1oxyZM7F2UAMTdf2PcJSoR) | [Se Regalan Dudas](https://open.spotify.com/show/0KUjSzqMyxrTyXuw15j4e8) | [Se Regalan Dudas](https://open.spotify.com/album/0KUjSzqMyxrTyXuw15j4e8) | 25:53 |
 | 5 | [T6E33 ¡Descubrí Que No Soy Su Hija! 😭 Ft\.  @danielaaedomusica  \#chismes \#familia](https://open.spotify.com/episode/773c4j03ydb6KgGMHeDEMI) | [Noche De Chicxs](https://open.spotify.com/show/06X9VZLwWLBNiHS0sbdmmt) | [Noche De Chicxs](https://open.spotify.com/album/06X9VZLwWLBNiHS0sbdmmt) | 1:27:18 |
-| 6 | [46\. Victorias Secret: Así destruyeron un imperio de $7,000,000,000](https://open.spotify.com/episode/57D7osjPB9nBXUyFz2kI8R) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:18:47 |
+| 6 | [46\. Victorias Secret: Así destruyeron un imperio de $7,000,000,000](https://open.spotify.com/episode/57D7osjPB9nBXUyFz2kI8R) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:17:07 |
 | 7 | [209: Un niño flotaba en carretera, los ojos en el retrovisor y más historias de carreteras.](https://open.spotify.com/episode/7H4HaG8BW8MhZjbV3an2lu) | [Morras Malditas](https://open.spotify.com/show/4NFj1Q4BotsQYlKXMEXS8v) | [Morras Malditas](https://open.spotify.com/album/4NFj1Q4BotsQYlKXMEXS8v) | 1:12:16 |
 | 8 | [112.\- "Fertilidad: más allá del reloj biológico" con Romina, Alexis e Hildelisa](https://open.spotify.com/episode/67I2Zmbvn5MVLygiBgj9lC) | [LA MAGIA DEL CAOS con Aislinn Derbez](https://open.spotify.com/show/53bnc3AHyqknK2JMAHo9br) | [LA MAGIA DEL CAOS con Aislinn Derbez](https://open.spotify.com/album/53bnc3AHyqknK2JMAHo9br) | 56:59 |
 | 9 | [139 Sexo y hombres: de lo que nadie habla con Roberto Levy](https://open.spotify.com/episode/4mj1uFCLEkLB51AoDNLkBN) | [Más Allá del Rosa](https://open.spotify.com/show/6xKpLdvm45jVLp7gD9O3DY) | [Más Allá del Rosa](https://open.spotify.com/album/6xKpLdvm45jVLp7gD9O3DY) | 3:44:53 |

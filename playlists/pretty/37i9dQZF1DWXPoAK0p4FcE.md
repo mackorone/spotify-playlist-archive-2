@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: เรนิษรา
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,486 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,484 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 2 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
-| 3 | [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/track/3x48XhiGJb4z77U84VNGTK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/album/6CpcMEDGbHpyiqHfVN2Pos) | 5:06 |
-| 4 | [อุบัติเหตุ](https://open.spotify.com/track/73CrYgDl37fnFNXp9IJmyX) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [อุบัติเหตุ](https://open.spotify.com/album/4KLqKuzE6d3mKq9I7ZJH2i) | 4:00 |
-| 5 | [ขอบคุณ \(Analog\)](https://open.spotify.com/track/6rkUJtKAIsZsxEaUHZiTYY) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ขอบคุณ \(Analog\)](https://open.spotify.com/album/34AZJVTpAAmWJlg0NkhFQw) | 3:30 |
-| 6 | [ครึ่งแรก \(halftime\)](https://open.spotify.com/track/4UMNbuTXjoAB1uy4yltoDa) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ครึ่งแรก \(halftime\)](https://open.spotify.com/album/2BoxbOFfft1eBL6o8wvRuS) | 4:32 |
-| 7 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 |
-| 8 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
-| 9 | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD) | 4:14 |
-| 10 | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/track/5cRnsaIIJzFVj882jAFN1S) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/album/4PJVgb3BYqTTsB5Jl5OsXM) | 4:04 |
-| 11 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |
-| 12 | [Thank You](https://open.spotify.com/track/5CymAewij8lB7VgdhovfZ0) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Thank You](https://open.spotify.com/album/1KOYRnENvPu1Yh8sCGVTaD) | 4:23 |
-| 13 | [พรดาวตก](https://open.spotify.com/track/6VMntYzRpSDB2lRIJWJ1Zw) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [พรดาวตก](https://open.spotify.com/album/4WBPyEq4CAEORHls1imUjh) | 4:28 |
-| 14 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |
-| 15 | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/track/7DCeytp6V1Pp7U5sMfE7qb) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/album/3RZJaIhAUcjQLa61I0tPZM) | 4:23 |
-| 16 | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/track/5GFhuaQZgF240TDr6VMfKZ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/album/5V9mD5CxFt0eWroOlYdWjM) | 4:17 |
-| 17 | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/track/1WIZ3l4fZemVHoL8LjaAXS) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/album/1fW1hBs7G8B5VmsvmoGdus) | 2:57 |
+| 1 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
+| 2 | [อุบัติเหตุ](https://open.spotify.com/track/73CrYgDl37fnFNXp9IJmyX) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [อุบัติเหตุ](https://open.spotify.com/album/4KLqKuzE6d3mKq9I7ZJH2i) | 4:00 |
+| 3 | [Fall in love too easily](https://open.spotify.com/track/0rVPjrssMtRriOlhqhlno4) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Fall in love too easily](https://open.spotify.com/album/2PujWlerF7kmr6fLeC7wBZ) | 4:12 |
+| 4 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 5 | [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/track/3x48XhiGJb4z77U84VNGTK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/album/6CpcMEDGbHpyiqHfVN2Pos) | 5:06 |
+| 6 | [ขอบคุณ \(Analog\)](https://open.spotify.com/track/6rkUJtKAIsZsxEaUHZiTYY) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ขอบคุณ \(Analog\)](https://open.spotify.com/album/34AZJVTpAAmWJlg0NkhFQw) | 3:30 |
+| 7 | [ครึ่งแรก \(halftime\)](https://open.spotify.com/track/4UMNbuTXjoAB1uy4yltoDa) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ครึ่งแรก \(halftime\)](https://open.spotify.com/album/2BoxbOFfft1eBL6o8wvRuS) | 4:32 |
+| 8 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 |
+| 9 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
+| 10 | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD) | 4:14 |
+| 11 | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/track/5cRnsaIIJzFVj882jAFN1S) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/album/4PJVgb3BYqTTsB5Jl5OsXM) | 4:04 |
+| 12 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |
+| 13 | [Thank You](https://open.spotify.com/track/5CymAewij8lB7VgdhovfZ0) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Thank You](https://open.spotify.com/album/1KOYRnENvPu1Yh8sCGVTaD) | 4:23 |
+| 14 | [พรดาวตก](https://open.spotify.com/track/6VMntYzRpSDB2lRIJWJ1Zw) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [พรดาวตก](https://open.spotify.com/album/4WBPyEq4CAEORHls1imUjh) | 4:28 |
+| 15 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |
+| 16 | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/track/7DCeytp6V1Pp7U5sMfE7qb) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/album/3RZJaIhAUcjQLa61I0tPZM) | 4:23 |
+| 17 | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/track/5GFhuaQZgF240TDr6VMfKZ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/album/5V9mD5CxFt0eWroOlYdWjM) | 4:17 |
 | 18 | [Trip](https://open.spotify.com/track/7k0zv87tT5Q9pEfDErNcm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Trip](https://open.spotify.com/album/1JLTRV3W2SedWzmtUMjDn6) | 3:39 |
 | 19 | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy) | 3:59 |
 | 20 | [กลับมาไม่มีเธอให้กอด \(deserved\)](https://open.spotify.com/track/306CSpkvZDDv5S4sqSDAn7) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลับมาไม่มีเธอให้กอด \(deserved\)](https://open.spotify.com/album/4bmOGGTtXBr5Iw4aeqKNNP) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/track/2LXwmbBwQtMlxyc7B8URR3) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/album/5rzx4nzHzapsZ34X22Ykg1) | 4:06 |
 | 50 | [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 |
 
-Snapshot ID: `AAAAAAYg+SeOiqdfhodfCDLDm+MNoJ1J`
+Snapshot ID: `AAAAAGY7QU0c9ekcfuAgoT8e1snZOG6R`

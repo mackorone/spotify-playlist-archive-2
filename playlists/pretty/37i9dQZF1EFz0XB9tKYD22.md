@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572 likes - 347 songs - 20 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 573 likes - 347 songs - 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 26 | [What She Wants Tonight](https://open.spotify.com/track/3BQipmmdqOBwk2Nz7oKw3j) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:07 |
 | 27 | [This One's for the Girls](https://open.spotify.com/track/4Xpu7wUGMZ6XcVvZHd5mwv) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/1OtyAbeM8Ex503oamdpmzQ) | 4:03 |
 | 28 | [Cry Pretty](https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:07 |
-| 29 | [Alone Together](https://open.spotify.com/track/3ZsLuJ8uU0lE6rGTkDaqEg) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:51 |
-| 30 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 29 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 30 | [Alone Together](https://open.spotify.com/track/3ZsLuJ8uU0lE6rGTkDaqEg) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:51 |
 | 31 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
 | 32 | [Closer To You](https://open.spotify.com/track/6biq5BjD7UAXpefEgDVbp5) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:07 |
 | 33 | [Little Toy Guns](https://open.spotify.com/track/51BWN2aIhyUgcXMAYSohdS) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/3Zuipf1PBcdnfKFyj6asOo) | 3:30 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 74 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 |
 | 75 | [First Rodeo](https://open.spotify.com/track/6qVGdACuFEApXMb7Ep4luc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:43 |
 | 76 | [Two Things](https://open.spotify.com/track/3FydZFxDIfVEFojIxd5flv) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:35 |
-| 77 | [Like I'll Never Love You Again](https://open.spotify.com/track/7utpHSZSjZY0u4OqeSNR9G) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:36 |
-| 78 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
-| 79 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 |
+| 77 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 |
+| 78 | [Like I'll Never Love You Again](https://open.spotify.com/track/7utpHSZSjZY0u4OqeSNR9G) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:36 |
+| 79 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
 | 80 | [Lopen Op Het Water](https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:28 |
 | 81 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
 | 82 | [Chaser](https://open.spotify.com/track/76vVrWGgSYz7r0rYEwU807) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 4:23 |
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 208 | [It Ain't Easy](https://open.spotify.com/track/0zpVeUdz3eO7iJiOEdl2Up) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:05 |
 | 209 | [Outrun Me](https://open.spotify.com/track/5I5rqEeq4vBj7gbJOgYDUR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:47 |
 | 210 | [Sweet Louisiana](https://open.spotify.com/track/5pMNVwBmwQ7GfaVKfzuPzo) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 3:02 |
-| 211 | [Wounded](https://open.spotify.com/track/56SFMatA6nKIg2pROl35Fz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 3:39 |
-| 212 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
+| 211 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
+| 212 | [Wounded](https://open.spotify.com/track/56SFMatA6nKIg2pROl35Fz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 3:39 |
 | 213 | [Time on My Hands](https://open.spotify.com/track/4rFP0zt2o5K3W6Aq6rbOk8) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 2:56 |
 | 214 | [Three Mississippi](https://open.spotify.com/track/4TgXc5k4jAEgtvczElBqqv) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Pain To Kill](https://open.spotify.com/album/49axBJyEks5UCGHHTwDwp3) | 3:59 |
 | 215 | [Dein Blick](https://open.spotify.com/track/5UuXVnVkHtezDwP8UZRwaV) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:17 |
@@ -269,8 +269,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 259 | [Bad Love](https://open.spotify.com/track/1pfNTd88JczeBX1kndkO3p) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/5YRwR7wOulWESaGKwHcQbF) | 3:26 |
 | 260 | [Something Strong](https://open.spotify.com/track/4ooiGkHiIi6VQNGmE0MnSR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:34 |
 | 261 | [The Other Side](https://open.spotify.com/track/2x6rtVe96HwHP5QRM2oXpL) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 2:59 |
-| 262 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
-| 263 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
+| 262 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
+| 263 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
 | 264 | [Summer Of Love](https://open.spotify.com/track/6DD2q4wRpJwwiUajqQMeKx) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Eleven](https://open.spotify.com/album/2IjiBV6bprNXNHexpJ9WIC) | 4:19 |
 | 265 | [Being Myself](https://open.spotify.com/track/36EvBZRt8Oyx9rqt6L3mws) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 3:40 |
 | 266 | [Heartbreaker](https://open.spotify.com/track/0XAKcbVMoF5kW8Dqjdhbdx) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Heartbreaker](https://open.spotify.com/album/4w3sOYIFoyDInELmHxhHdT) | 3:29 |
@@ -356,4 +356,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 346 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 347 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcJgXgAAAADoha8S2WUZDltaP0bURkbF`
+Snapshot ID: `AcJl6gAAAAAerkex9vX0Nxnn/wCmevyS`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,540 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,558 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
-| 2 | [Heya](https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 5:25 |
-| 3 | [Cherish](https://open.spotify.com/track/22czSIoBdsSi89qKNl5GYA) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Antiguo Trunk](https://open.spotify.com/album/5EWIHx3EGfOlcYWVhlNIfH) | 4:23 |
-| 4 | [Love Is You](https://open.spotify.com/track/5iDpbj6HcDohfP5UCNeIOZ) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Flower](https://open.spotify.com/album/6sR8UXsdokd18ak4Eflyuw) | 3:53 |
+| 1 | [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 |
+| 2 | [LOST](https://open.spotify.com/track/23alqwXGP0AULQNNLoo8hP) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [LOST \(Positively Yours X THAMA\) \[Original Soundtrack\]](https://open.spotify.com/album/7jUK0orRr3PukdcFBmI5eb) | 4:17 |
+| 3 | [eighteen winter](https://open.spotify.com/track/4DCSmGoAFwHTc522Q0w1KG) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [eighteen winter](https://open.spotify.com/album/0z6mqbRgx3LOM7ROyB9q7C) | 3:19 |
+| 4 | [Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
 | 5 | [Movie](https://open.spotify.com/track/270BNZsCT9Vem71dhF1PcK) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Movie](https://open.spotify.com/album/6wrLoKrpAyH8xMlJPSIt2r) | 5:02 |
-| 6 | [Error](https://open.spotify.com/track/3v3ZFFAhWkgRijv5cqfhTb) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Scent](https://open.spotify.com/album/6lbMbeqLAEAZ4sR0OcOY3C) | 3:32 |
+| 6 | [Cherish](https://open.spotify.com/track/22czSIoBdsSi89qKNl5GYA) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Antiguo Trunk](https://open.spotify.com/album/5EWIHx3EGfOlcYWVhlNIfH) | 4:23 |
 | 7 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 8 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 | 9 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 35 | [YOUtopia](https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:02 |
 | 36 | [Bad Dream](https://open.spotify.com/track/7GXcuBE3Aiu8gUJjX8PSlV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 3:30 |
 | 37 | [Frozen](https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:04 |
-| 38 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
-| 39 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
+| 38 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
+| 39 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
 | 40 | [The Craving \(Jenna's version\)](https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 2:54 |
 | 41 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 |
 | 42 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
-| 43 | [1:05](https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:00 |
-| 44 | [Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 |
+| 43 | [Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 |
+| 44 | [1:05](https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:00 |
 | 45 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 46 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
 | 47 | [3:00 AM](https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Our Love](https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 49 | [Shouldn't Be](https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51) | 3:30 |
 | 50 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 |
 
-Snapshot ID: `AAAAACz9qQaeweB9A/fV9zZdeRWeLsL3`
+Snapshot ID: `AAAAADHshrQkqCaGz0VdQmxsmjOcliZG`

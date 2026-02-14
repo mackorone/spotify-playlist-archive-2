@@ -2,7 +2,7 @@
 
 ### [T1 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0BcvW2psHDx)
 
-> T1 오피셜 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
+> T1 ‘치어플리 챌린지’ 당첨 작품입니다\. ‘강효은’님 축하합니다!<br/><br/>T1 공식 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
 
 200 songs - 9 hr 40 min
 
@@ -159,7 +159,7 @@
 | [Savannah](https://open.spotify.com/track/0ZdUHFxifUJNqo7G4aJzoF) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Philly K.](https://open.spotify.com/artist/1v8lhkt5jZgHT8xi1wYNUS) | [Savannah](https://open.spotify.com/album/71cGzXXQV7S3GWFIS57IO5) | 3:28 | 2025-07-07 |  |
 | [Save Me](https://open.spotify.com/track/4r5wtdQV4NWsz5AEwy1YCz) | [DEAMN](https://open.spotify.com/artist/1Q50Y9cXWlkNEG6gJfUP1e) | [Save Me \(Deluxe\)](https://open.spotify.com/album/7IlO51zPDE9f2u1yWrwI00) | 3:04 | 2025-07-07 |  |
 | [scs \- edit](https://open.spotify.com/track/5xZTWcerOkechTLwXzh8uI) | [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [scs](https://open.spotify.com/album/7xr6VZrLvdYoqaigAxUAYx) | 3:10 | 2025-07-07 |  |
-| [Secret Handshake](https://open.spotify.com/track/0e3DfObupAg2qjezKKxoAa) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm), [Submotive](https://open.spotify.com/artist/5wlb3CuXIKwGZj2qSmNFUU) | [Alpha Omega](https://open.spotify.com/album/4RqkoyzwiQiTiemmchAR96) | 4:53 | 2025-07-07 |  |
+| [Secret Handshake](https://open.spotify.com/track/0e3DfObupAg2qjezKKxoAa) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm), [Submotive](https://open.spotify.com/artist/18IDmJ9TpGsEp3mQqixaUE) | [Alpha Omega](https://open.spotify.com/album/4RqkoyzwiQiTiemmchAR96) | 4:53 | 2025-07-07 |  |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2025-07-07 |  |
 | [Sexy Money](https://open.spotify.com/track/3V86nh7BVSfSU2v306NRph) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Sexy Money](https://open.spotify.com/album/1ntjYo3rw4Jy7vLbNVr4yT) | 2:27 | 2025-07-07 |  |
 | [Shine](https://open.spotify.com/track/7jW2dcStZndF9lWRrPUvzV) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Shine](https://open.spotify.com/album/1TS3cjyqnslzRJIU91kGYF) | 5:15 | 2025-07-07 |  |

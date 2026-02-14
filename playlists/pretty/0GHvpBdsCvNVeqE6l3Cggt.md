@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 46 songs - 2 hr 56 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 48 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 44 | [True North](https://open.spotify.com/track/092Z1yGLAFCEBtqmRtpWaX) | [MEERKEIME](https://open.spotify.com/artist/1jDLEyYY7Y17UFRFixE0vT) | [Unmoored](https://open.spotify.com/album/7seOQf6Fwg0G8K4n1ceQo4) | 4:03 |
 | 45 | [Colors](https://open.spotify.com/track/7kCVr4F8BZF1FqRvCRoZrN) | [LOVEBOYI](https://open.spotify.com/artist/67alZX1HqejXZ8D1osWKVb) | [BITE ME](https://open.spotify.com/album/3VEDv1sWPxO4FJn2Kv8W75) | 3:16 |
 | 46 | [A Debt Of Kindness And Gas Money](https://open.spotify.com/track/3TuIkuAzWzNJy98iLUs87n) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [A Debt Of Kindness And Gas Money](https://open.spotify.com/album/1NvBEPTiJisYuiYG6FCkCz) | 2:47 |
+| 47 | [I Want More](https://open.spotify.com/track/0BSQD6UgS8k2zzZjED2tNP) | [The Sunshine Kidz](https://open.spotify.com/artist/0hX8vqzEXKOHSl0Gc93RhQ) | [I Want Your Soul](https://open.spotify.com/album/5AOdeWFBM5nXSDqLic94Sv) | 4:25 |
+| 48 | [True Love In A Box](https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ) | [Poppet](https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1) | [True Love In A Box](https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy) | 2:07 |
 
-Snapshot ID: `AAAj5GnU1puHKQG+apsjnDWZwyKAW95z`
+Snapshot ID: `AAAj5pdkGfBYzIQD9Osx1YNQRm75mo9q`

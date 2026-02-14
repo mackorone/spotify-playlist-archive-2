@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: NandaTsunami",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: TOKIODK",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -1953,6 +1953,32 @@
     },
     {
       "album": {
+        "name": "Amante do Ritmo",
+        "url": "https://open.spotify.com/album/0TToigjWHLjRoeAp5tthcL"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        },
+        {
+          "name": "Gustavo Menor",
+          "url": "https://open.spotify.com/artist/30xbre7p79LCHfEVL30V28"
+        },
+        {
+          "name": "H'erick",
+          "url": "https://open.spotify.com/artist/0AWmEctf5aGzb4Nzdw9rHD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228830,
+      "name": "Amante do Ritmo",
+      "url": "https://open.spotify.com/track/2hzeR8rMQNMpiCsIPAxO4A"
+    },
+    {
+      "album": {
         "name": "PRA SEMPRE NO MESMO BAIRRO",
         "url": "https://open.spotify.com/album/5Cc1z7x5KA1eo20fmWG4Zi"
       },
@@ -3455,6 +3481,32 @@
     },
     {
       "album": {
+        "name": "BAWBAW",
+        "url": "https://open.spotify.com/album/1wN0ZKxu3f1Stg3YTJqmez"
+      },
+      "artists": [
+        {
+          "name": "Caio Ocean",
+          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
+        },
+        {
+          "name": "Lis Mc",
+          "url": "https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE"
+        },
+        {
+          "name": "lym.",
+          "url": "https://open.spotify.com/artist/5U3zpiuSJMo2mZK9AXjWnp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "BAWBAW",
+      "url": "https://open.spotify.com/track/0O2tFdTHWPCNNknaSpgMsw"
+    },
+    {
+      "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
       },
@@ -4794,7 +4846,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 154588,
       "name": "Calafrio",
       "url": "https://open.spotify.com/track/6Hfyp3i6WXGa13blQAOisL"
@@ -5110,7 +5162,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207004,
       "name": "CARA PRETA",
       "url": "https://open.spotify.com/track/47xidjAwGohxviJVbUubaF"
@@ -6647,6 +6699,28 @@
     },
     {
       "album": {
+        "name": "Corte Na Rede",
+        "url": "https://open.spotify.com/album/4hR5JdF5sE2FPVgyMPGGLK"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Martins",
+          "url": "https://open.spotify.com/artist/5XBV83KATWnMoLIxdDsHev"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113868,
+      "name": "Corte Na Rede",
+      "url": "https://open.spotify.com/track/5hlXYTR6J3HgfOcDudciTy"
+    },
+    {
+      "album": {
         "name": "O Barulhento Sil\u00eancio da Resili\u00eancia",
         "url": "https://open.spotify.com/album/37WnFwASKKZmgNU6acBXKH"
       },
@@ -7147,6 +7221,28 @@
     },
     {
       "album": {
+        "name": "C\u00edrculo",
+        "url": "https://open.spotify.com/album/4qEJbubnqTLNlxZEoyRHJY"
+      },
+      "artists": [
+        {
+          "name": "Mrasta",
+          "url": "https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "C\u00edrculo",
+      "url": "https://open.spotify.com/track/7dNr6DSJ0xTkwugGLYwWZw"
+    },
+    {
+      "album": {
         "name": "C\u00f3digo",
         "url": "https://open.spotify.com/album/5cvYblzqh4tgErztd3e1tj"
       },
@@ -7318,7 +7414,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 235662,
       "name": "Dadinho \u00e9 o Crlh",
       "url": "https://open.spotify.com/track/3aI3Jo3FxhcQHAu1NcRpKK"
@@ -8574,6 +8670,32 @@
       "duration_ms": 144000,
       "name": "Dinheiro Nunca Sai de Moda",
       "url": "https://open.spotify.com/track/6Dh0f1u7YIRoOSvxvIR7HK"
+    },
+    {
+      "album": {
+        "name": "INFRA\u00c7\u00c3O - 1\u00ba ATO",
+        "url": "https://open.spotify.com/album/0d1H9Ibh2JL1JauWYcNI5g"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Lucchini",
+          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "DISCURSO DO GRAMMY",
+      "url": "https://open.spotify.com/track/6V9Ea0gmi4f228AvEDdNhB"
     },
     {
       "album": {
@@ -16081,6 +16203,32 @@
     },
     {
       "album": {
+        "name": "MANDA CHUVA",
+        "url": "https://open.spotify.com/album/5BC6awylqMQDSspHGw1x9m"
+      },
+      "artists": [
+        {
+          "name": "Roque Buzz",
+          "url": "https://open.spotify.com/artist/0iErhbGyi8BEn8R1413oN4"
+        },
+        {
+          "name": "GLEAL",
+          "url": "https://open.spotify.com/artist/0RZwQL9dNjzlSTMDSyArq6"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164930,
+      "name": "MANDA CHUVA",
+      "url": "https://open.spotify.com/track/2e2EWacX4TZLOCXiqgR4RP"
+    },
+    {
+      "album": {
         "name": "Manequim",
         "url": "https://open.spotify.com/album/3cRhmBLXUYHHoG4hiM50Sv"
       },
@@ -16226,7 +16374,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 178200,
       "name": "Mant\u00e9m",
       "url": "https://open.spotify.com/track/4UQKbfNf13JpmmsX6ZFxbR"
@@ -18884,7 +19032,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 269268,
       "name": "Neguin Desaforado",
       "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
@@ -20676,7 +20824,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 179043,
       "name": "O Melhor Que Temos",
       "url": "https://open.spotify.com/track/7AfCZyJXIjGgopNM5ELKmL"
@@ -24409,6 +24557,28 @@
     },
     {
       "album": {
+        "name": "Preliminares",
+        "url": "https://open.spotify.com/album/4lGyE89T3G1IkvlydhEwlU"
+      },
+      "artists": [
+        {
+          "name": "Aori",
+          "url": "https://open.spotify.com/artist/42aKmFNXt0KKWbnYVl2mhp"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158478,
+      "name": "Preliminares",
+      "url": "https://open.spotify.com/track/0qROwaFvE45qYmAFvDr5pf"
+    },
+    {
+      "album": {
         "name": "Preta",
         "url": "https://open.spotify.com/album/0eETaCTE3z3Jcc3fqxB15E"
       },
@@ -26541,6 +26711,36 @@
     },
     {
       "album": {
+        "name": "Sagacidade",
+        "url": "https://open.spotify.com/album/6ZSSbu8VScMaHUaylyiy3z"
+      },
+      "artists": [
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        },
+        {
+          "name": "LYONS PROD.",
+          "url": "https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Sagacidade",
+      "url": "https://open.spotify.com/track/2Mi4qS9zwNxEOl73MiVmtX"
+    },
+    {
+      "album": {
         "name": "Sal e \u00c1gua",
         "url": "https://open.spotify.com/album/1WEOmzUH4S8KR73V5Gllyo"
       },
@@ -28574,7 +28774,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 272671,
       "name": "Sob Medida",
       "url": "https://open.spotify.com/track/0bUdbJq7cwyhPtGHCEysmj"
@@ -31557,6 +31757,24 @@
     },
     {
       "album": {
+        "name": "GUIAS QUE SOBREVIVERAM AO TEMPO, OU CHATARIA MXTP, Vol. 1",
+        "url": "https://open.spotify.com/album/5ItL5H9bFfTeiCM9BLzWyP"
+      },
+      "artists": [
+        {
+          "name": "WARLLOCK",
+          "url": "https://open.spotify.com/artist/0TNbPd9mzBgHNz8GEY9PYn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100111,
+      "name": "V. CAMALE\u00c3O S\u00d3",
+      "url": "https://open.spotify.com/track/6rrCpsVh4srjrobz5M9IQy"
+    },
+    {
+      "album": {
         "name": "V.L Pitbull e Sua Dama",
         "url": "https://open.spotify.com/album/0GiIUJ0aJ06iaHwvOXJS0w"
       },
@@ -31764,6 +31982,28 @@
       "duration_ms": 121703,
       "name": "vapor triple black",
       "url": "https://open.spotify.com/track/12x5fQEe2OACdzuDfcrkVm"
+    },
+    {
+      "album": {
+        "name": "VAPORWAVE",
+        "url": "https://open.spotify.com/album/1q0E8KmEPXEee94av8cgbc"
+      },
+      "artists": [
+        {
+          "name": "SONHO",
+          "url": "https://open.spotify.com/artist/6N3O4ninctG9pzwAG0vLVK"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196950,
+      "name": "VAPORWAVE",
+      "url": "https://open.spotify.com/track/40OWTDAZoA6YneK6Ga9Uby"
     },
     {
       "album": {
@@ -33106,7 +33346,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 226601,
       "name": "\u00c9 Preciso Coragem",
       "url": "https://open.spotify.com/track/1mhm0i4XYTtuUS961s92ku"

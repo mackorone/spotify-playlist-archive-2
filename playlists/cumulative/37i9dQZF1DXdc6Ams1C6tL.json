@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Dave & Tems are back on top \ud83c\udf27\ufe0f",
+  "description": "Taylor Swift scores her second Showgirl number one single \ud83e\uddcb",
   "name": "Every UK Number One: 2026",
   "tracks": [
     {
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Opalite",
+        "url": "https://open.spotify.com/album/3QFoWoSKxCdj8Ad28kstOp"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359659,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT"
+    },
+    {
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
@@ -838,7 +856,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"

@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 178048,
       "name": "2026",
       "url": "https://open.spotify.com/track/4ZuUJilJAe5MSA8dXHdOXR"
@@ -12798,7 +12798,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 121846,
       "name": "Eu Vou Cuspir",
       "url": "https://open.spotify.com/track/27rqWKpmFCD0Mmw3XABBOW"
@@ -28933,6 +28933,44 @@
     },
     {
       "album": {
+        "name": "Reliquia do 2T",
+        "url": "https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Gu",
+          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Mc Dkziin",
+          "url": "https://open.spotify.com/artist/06CW6ZcdRZc14gC6wr3bt6"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Reliquia do 2T",
+      "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
+    },
+    {
+      "album": {
         "name": "O Que Bate \u00c9 Maluquice",
         "url": "https://open.spotify.com/album/4cFKT3iVF65cmcBbgw5FWJ"
       },
@@ -30532,7 +30570,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 192034,
       "name": "Seja Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE"

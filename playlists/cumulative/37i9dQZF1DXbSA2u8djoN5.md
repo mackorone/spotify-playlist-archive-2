@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: M.G.L, Erika Isac
 
-239 songs - 11 hr 36 min
+239 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [STILL IN LUV](https://open.spotify.com/track/2o7xkPKZ3nvp1zjyhrbyoS) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [STILL IN LUV](https://open.spotify.com/album/5DU4TXi3lF6JnLBOkDHzkB) | 2:46 | 2025-05-01 | 2025-05-16 |
 | [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 | 2025-06-05 | 2025-07-20 |
 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-06 |  |
+| [Te huro](https://open.spotify.com/track/6zQXHOW4bTbpnn9yg7znLU) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ursarinho](https://open.spotify.com/album/4C6OBgnEjXgnTAZstlzYwp) | 1:53 | 2026-02-12 |  |
 | [Te văd în trecut](https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te văd în trecut](https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0) | 3:52 | 2025-02-13 | 2025-06-20 |
 | [TEL AVIV](https://open.spotify.com/track/5RuV7f3rEoQeqZ8YvT4mVZ) | [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9) | [TEL AVIV](https://open.spotify.com/album/6KOfz6EiIEDW8qTRSlPiwV) | 2:04 | 2024-08-15 | 2024-09-20 |
 | [TELEKOM](https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 2:29 | 2024-08-22 | 2024-12-06 |
@@ -213,7 +214,6 @@
 | [Tiramissyou](https://open.spotify.com/track/0cZMXKpB9diA7STbOFZdpC) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Jeasmine](https://open.spotify.com/artist/4z24jecfJLaCrADePIHqOP) | [Tiramissyou](https://open.spotify.com/album/1xGPA4sKgJj2TTEofLUdeb) | 2:20 | 2025-04-24 | 2025-06-20 |
 | [TOATE STELELE](https://open.spotify.com/track/4SJMMS8ufyod5fn7nCpLuA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TOATE STELELE](https://open.spotify.com/album/4xKOxc0mP4HHPDPXQ2VXvE) | 2:31 | 2025-08-21 | 2025-09-30 |
 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 | 2025-10-09 |  |
-| [Track 1](https://open.spotify.com/track/6zQXHOW4bTbpnn9yg7znLU) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 | 2024-06-27 |  |
 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 | 2024-10-17 | 2024-12-06 |
 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 | 2025-03-14 | 2025-11-03 |

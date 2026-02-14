@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: MAKSIM & Babet
 
-1,220 songs - 2 day 10 hr 21 min
+1,221 songs - 2 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-01-16 | 2025-03-07 |
 | [Ga En Groei](https://open.spotify.com/track/1sPY1rVNG2eMZRmFBDgHGr) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ga En Groei](https://open.spotify.com/album/1hKX2VOb6eNcKk9jNAhuqA) | 2:45 | 2024-03-28 | 2024-05-24 |
 | [Ga Maar Gauw](https://open.spotify.com/track/7BqgNKFlthSF7kF0bjqg3N) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Ga Maar Gauw](https://open.spotify.com/album/2eOt2P8J0vvlS7tR1Mw7CH) | 3:07 | 2025-05-08 | 2025-08-05 |
-| [Ga Toch Niet Zo Snel \- Onvergetelijke Liedjes](https://open.spotify.com/track/7J4c1cqQuRDFORHaiaPlcX) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Ga Toch Niet Zo Snel \(Onvergetelijke Liedjes\)](https://open.spotify.com/album/4iWyHx1Z3TAxmYM0BEcgsH) | 4:35 | 2025-11-06 |  |
+| [Ga Toch Niet Zo Snel \- Onvergetelijke Liedjes](https://open.spotify.com/track/7J4c1cqQuRDFORHaiaPlcX) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Ga Toch Niet Zo Snel \(Onvergetelijke Liedjes\)](https://open.spotify.com/album/4iWyHx1Z3TAxmYM0BEcgsH) | 4:35 | 2025-11-06 | 2026-02-14 |
 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-11 | 2024-09-27 |
 | [Gebruiksaanwijzing](https://open.spotify.com/track/618yYVf9TdfLpcj6tdePaP) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Gebruiksaanwijzing](https://open.spotify.com/album/1DEK18Z3t4U358XPdRysMP) | 2:47 | 2023-02-23 | 2023-04-21 |
 | [Gedoemd Te Mislukken](https://open.spotify.com/track/08usYSVEgY0R01aoWgiVFf) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Gedoemd Te Mislukken](https://open.spotify.com/album/6veVuNUi2Ges3ZacZzyhUe) | 2:45 | 2026-02-12 |  |
@@ -893,6 +893,7 @@
 | [Reflectie](https://open.spotify.com/track/5FK0Juq9j6A5bWptn50zRE) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Grensgebied](https://open.spotify.com/album/2tN5hmNiqAeAKCjrCFJ1ry) | 2:19 | 2024-11-28 | 2025-02-28 |
 | [Regie](https://open.spotify.com/track/6fjKk47RwwX88GQfnmFRt0) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Sociale Zaken](https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR) | 3:35 | 2024-01-18 | 2024-02-09 |
 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 | 2025-03-27 | 2025-06-20 |
+| [Rekensom](https://open.spotify.com/track/5fP2wbY8JNWrjRmzxdIBlk) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Rekensom](https://open.spotify.com/album/2KUG1T7acDMOBpPUazomuR) | 2:56 | 2026-02-13 |  |
 | [Ren Lenny Ren](https://open.spotify.com/track/2aqotKVn9O0Igy9DJFA5rU) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Aflevering 5 \- Acda en de Munnik\)](https://open.spotify.com/album/1Cpvv9jivG5mN8ro87NtmM) | 3:06 | 2025-10-02 | 2025-11-07 |
 | [Ritmo Pegajoso](https://open.spotify.com/track/4nwohqWiqvZfGfDVRplr7y) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ritmo Pegajoso](https://open.spotify.com/album/4EoYRkSz9c0UnC2MgcrjO6) | 2:45 | 2025-06-12 | 2025-09-26 |
 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:03 | 2023-11-16 | 2024-04-05 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 575733,
+  "num_followers": 575707,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -963,6 +963,26 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "M\u00e1s De Lo Que Apost\u00e9",
+        "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 205031,
+      "name": "M\u00e1s De Lo Que Apost\u00e9",
+      "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "M\u00e1s De Lo Que Apost\u00e9",
-        "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 205031,
-      "name": "M\u00e1s De Lo Que Apost\u00e9",
-      "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Nuclear",
-        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 240984,
-      "name": "Como Si Fueras a Morir Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "La Extraordinaria Paradoja Del Sonido Quijano",
         "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 197320,
       "name": "La Lola",
       "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Nuclear",
+        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 240984,
+      "name": "Como Si Fueras a Morir Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Follow You / Cutthroat",
-        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 246007,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Follow You / Cutthroat",
+        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Porfa no te vayas",
+        "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "Porfa no te vayas",
+      "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/2cx8aUPxZ0GvVJkJdNXeOM"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 219373,
       "name": "D\u00e9jala Que Baile (with Alejandro Sanz & Arkano)",
       "url": "https://open.spotify.com/track/2KK9N6iBAisA0booTu3bGd"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Porfa no te vayas",
-        "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "Porfa no te vayas",
-      "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Estrella De Mar",
-        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Sin ti no soy nada",
-      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 220573,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Estrella De Mar",
+        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Sin ti no soy nada",
+      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Tragas o Escupes",
-        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Eso Que T\u00fa Me Das",
-      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Energ\u00eda Bacana",
         "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 147720,
       "name": "Energ\u00eda Bacana",
       "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Tragas o Escupes",
+        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Eso Que T\u00fa Me Das",
+      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Canciones para el tiempo y la distancia",
         "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 278333,
       "name": "Turnedo",
       "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Via Dalma II",
-        "url": "https://open.spotify.com/album/0S5gRSeaHeH10kOQsE8RvK"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Yo no te pido la luna",
-      "url": "https://open.spotify.com/track/1hI1st8dvPmr1S55XDkavG"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -2659,6 +2643,22 @@
       "duration_ms": 199880,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Via Dalma II",
+        "url": "https://open.spotify.com/album/0S5gRSeaHeH10kOQsE8RvK"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Yo no te pido la luna",
+      "url": "https://open.spotify.com/track/1hI1st8dvPmr1S55XDkavG"
     },
     {
       "added_at": "2025-07-18 14:13:17",

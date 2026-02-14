@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,929 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,107 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 48 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 |
 | 49 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
 | 50 | [Grounded](https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb) | 9:31 |
-| 51 | [The Longest Rest](https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 |
-| 52 | [Descending](https://open.spotify.com/track/2zyIF3bu7REVrFEbCkKeqR) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Shakuhachi Sleep Music](https://open.spotify.com/album/4t1knEf4OemS9en0BH7CGf) | 9:41 |
+| 51 | [Descending](https://open.spotify.com/track/2zyIF3bu7REVrFEbCkKeqR) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Shakuhachi Sleep Music](https://open.spotify.com/album/4t1knEf4OemS9en0BH7CGf) | 9:41 |
+| 52 | [The Longest Rest](https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 |
 | 53 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
 | 54 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
 | 55 | [Baby Deep Sleep](https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Tranquility: Just Relax \- 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being](https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc) | 3:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 70 | [Swasa](https://open.spotify.com/track/5W8G3QUUFXMhe1RpYR40ms) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:30 |
 | 71 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Forest Bathing](https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
 | 72 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
-| 73 | [Inner Calmness](https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK) | [Arijit Ghoshal](https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86) | [Relaxation and Meditation in Bollywood](https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm) | 6:46 |
-| 74 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 |
+| 73 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 |
+| 74 | [Inner Calmness](https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK) | [Arijit Ghoshal](https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86) | [Relaxation and Meditation in Bollywood](https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm) | 6:46 |
 | 75 | [Poornam](https://open.spotify.com/track/7JRb8YV4LFbRv0ULSw1Qjs) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:04 |
 | 76 | [A Peaceful Music](https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE) | [Mitchell Solaris](https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU) | [Relaxation \- Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation](https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv) | 5:17 |
 | 77 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |

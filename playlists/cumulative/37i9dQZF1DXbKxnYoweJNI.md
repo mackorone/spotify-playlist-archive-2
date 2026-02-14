@@ -4,7 +4,7 @@
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 盧可沛 \(Look\)
 
-4,138 songs - 10 day 1 hr 56 min
+4,140 songs - 10 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Mom's Tattoo](https://open.spotify.com/track/6dn6wwbFsAfqW9BQB1j6tv) | [王彙筑](https://open.spotify.com/artist/25tE1FD2cGV7NaKnJqWsbx) | [滴滴答答](https://open.spotify.com/album/1BkoR0eXCHJ2L4zqky0UW2) | 3:06 | 2024-12-12 | 2025-01-10 |
 | [Monday Afternoon](https://open.spotify.com/track/0lKWF4xm3K7z0f0E4McFr8) | [DJ Didilong](https://open.spotify.com/artist/4VP44ZwK51R0y7ZbjJLHJR), [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [Monday Afternoon](https://open.spotify.com/album/1Za6HXnemIpRA7qFb23YZo) | 4:55 | 2025-08-28 | 2025-09-26 |
 | [Monday Morning](https://open.spotify.com/track/5nT1fT9aHqr57WydDppWrx) | [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9), [JL22](https://open.spotify.com/artist/0Ysd9RYTjO0w8rh9jpeiEV) | [Monday Morning](https://open.spotify.com/album/18bvNo9XhwEz5JrPHOmqSw) | 2:42 | 2025-03-20 | 2025-04-25 |
+| [MONEY RULES 3EVA](https://open.spotify.com/track/75TjVsnekD1AKqFSYUoxkD) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [MONEY RULES 3EVA](https://open.spotify.com/album/0itH0yBHu2Ezq4VVyIuND4) | 2:43 | 2026-02-12 |  |
 | [Moon Knows](https://open.spotify.com/track/7BcnacJ7hPIEHVvomINbjV) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [Moon Knows](https://open.spotify.com/album/2CbQb96IOBJoto38ZdTXr1) | 4:00 | 2025-09-25 | 2025-10-24 |
 | [Moon River \(221007\)](https://open.spotify.com/track/0dqAX5qj7DeyYu3AYlMzVh) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hidden Card 藏招](https://open.spotify.com/album/5tGDjZXlNj85kXxlRPVg7A) | 2:47 | 2024-06-27 | 2024-07-12 |
 | [moonlight](https://open.spotify.com/track/62A4bCkSIY5Geqo2N0uzTM) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [moonlight](https://open.spotify.com/album/5lKpuRqLRvNHpsZzIkSg7A) | 2:42 | 2026-01-15 | 2026-02-13 |
@@ -4138,6 +4139,7 @@
 | [黑羊](https://open.spotify.com/track/7wvCf0TVfwkTCi08qDoKYV) | [生命樹](https://open.spotify.com/artist/2o2RrZDsatJnaOvxjv26Rb) | [黑羊](https://open.spotify.com/album/2ZBph7n09KJ2ve2oZXnOW7) | 3:33 | 2025-08-14 | 2025-08-29 |
 | [黑色哀歌](https://open.spotify.com/track/0shX8L0gxnlHt23OqxmbRU) | [太一](https://open.spotify.com/artist/5jxliDFxfzNzI2PHwpB37C) | [黑色哀歌](https://open.spotify.com/album/6qpUiGKx4FgvH8Aq34x85p) | 5:04 | 2025-07-17 | 2025-08-15 |
 | [黑色的眼淚](https://open.spotify.com/track/3jTdeureDsda2MqrvK6sLl) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa), [adyl!u](https://open.spotify.com/artist/65dzQWigeHAU9MwjX52Usd) | [黑色的眼淚](https://open.spotify.com/album/3aVQVfwQT61DVqg6N2i5X5) | 2:24 | 2025-03-13 | 2025-04-04 |
+| [黑色西裝白裙子](https://open.spotify.com/track/34EOJNxuxKnxrN5jiSC1U7) | [Mic 周卓盈](https://open.spotify.com/artist/4jluBPDpLl0IU7R23m7UAB) | [黑色西裝白裙子](https://open.spotify.com/album/6Ov4q7aQNQTMNLDmCQvT5I) | 3:20 | 2026-02-12 |  |
 | [黑色遊戲](https://open.spotify.com/track/6Crp2zPOZAd18ltIEloQft) | [Avewo](https://open.spotify.com/artist/5qmo6jvzK3u5rSiJGwSOuc) | [黑色遊戲](https://open.spotify.com/album/3Phtu4rnDjzZPhDiKdToAn) | 2:33 | 2025-03-13 | 2025-04-04 |
 | [黑體](https://open.spotify.com/track/5wMQx96UbX0tj8Utii4ma0) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq), [hue](https://open.spotify.com/artist/6Ahi2PpG3gEX5M1HuQiQGL) | [黑體](https://open.spotify.com/album/0N3zvesLfu0o7lFK8AJa3H) | 3:10 | 2024-10-31 | 2024-11-22 |
 | [鼓仔燈](https://open.spotify.com/track/2hoOEiO1vujA1PT6hkN6XR) | [EUAN](https://open.spotify.com/artist/7tJUAyM0VRKna9QEqcngkM) | [鼓仔燈](https://open.spotify.com/album/0keTZmyEaHbP6MCPZeNgtI) | 3:18 | 2025-11-13 | 2025-11-28 |

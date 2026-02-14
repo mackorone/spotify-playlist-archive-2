@@ -1,12 +1,12 @@
 {
   "description": "De la Calle a la Cima con Easykid y Kali Uchis.",
-  "num_followers": 9840711,
+  "num_followers": 9840436,
   "original_name": "MANSI\u00d3N REGGAET\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADw9ai/ff4MqelzwHfirFBKKEFSJ",
+  "snapshot_id": "AAAAAA7OuZNZbWAUnRIuFDEJGRG/y/7J",
   "tracks": [
     {
       "added_at": "2026-02-06 04:59:14",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-02-06 04:59:14",
       "album": {
-        "name": "PELIGROSA",
-        "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        }
-      ],
-      "duration_ms": 134930,
-      "name": "PELIGROSA",
-      "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
-    },
-    {
-      "added_at": "2026-02-06 04:59:14",
-      "album": {
         "name": "THANK YOU BB",
         "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
       },
@@ -159,6 +143,26 @@
       "duration_ms": 206666,
       "name": "THANK YOU BB",
       "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
+    },
+    {
+      "added_at": "2026-02-13 17:03:18",
+      "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 199456,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
     },
     {
       "added_at": "2026-02-06 04:59:14",
@@ -195,6 +199,30 @@
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+      "added_at": "2026-02-13 17:03:18",
+      "album": {
+        "name": "Texteando",
+        "url": "https://open.spotify.com/album/7bs0PbEq3o0tDm6UfFJhkn"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Texteando",
+      "url": "https://open.spotify.com/track/3rKpnMQ8ko9X116yIj5V9S"
     },
     {
       "added_at": "2026-02-06 04:59:14",
@@ -311,22 +339,6 @@
       "duration_ms": 236000,
       "name": "X (feat. Maluma & Ozuna) - Remix",
       "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
-    },
-    {
-      "added_at": "2026-02-06 04:59:14",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Se Prepar\u00f3",
-      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
     },
     {
       "added_at": "2026-02-06 04:59:14",
@@ -864,7 +876,7 @@
           "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 187151,
+      "duration_ms": 189108,
       "name": "Chica Gal\u00e1ctica - W Sound 07",
       "url": "https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,866 likes - 50 songs - 2 hr 19 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,862 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 8 | [ADHD](https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [ADHD](https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ) | 2:54 |
 | 9 | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK) | 2:34 |
 | 10 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/0pBMFlAy7mQeUMQKaN4y8x) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/6PXqQOVeSTmA90oXv1iw32) | 3:15 |
-| 11 | [Lotje](https://open.spotify.com/track/7KJ021unkPr4E8Z8waQ5L7) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/2EZYI8AVfZxCzzKuRKCfS1) | 2:46 |
+| 11 | [Lotje](https://open.spotify.com/track/7KJ021unkPr4E8Z8waQ5L7) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/2EZYI8AVfZxCzzKuRKCfS1) | 2:46 |
 | 12 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 |
 | 13 | [Hoe Het Is](https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Hoe Het Is](https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC) | 2:31 |
 | 14 | [After van de After](https://open.spotify.com/track/3LTwPBHUaxOSMSr2FApAEQ) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [After van de After](https://open.spotify.com/album/2aTAHZvkEubo78gvkni3Ul) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 49 | [Beauty & De Brains](https://open.spotify.com/track/4aOqKc3Zdg4m5uK3mqAM8B) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:08 |
 | 50 | [Feel It Still](https://open.spotify.com/track/7FESgYLcOufHqKlwrvJN60) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Feel It Still](https://open.spotify.com/album/2fbps64P1Z4EEktydBn9yZ) | 2:43 |
 
-Snapshot ID: `AAAT0IVqbfW2SS7nAgeCWZkO+jQ2OjB7`
+Snapshot ID: `AAAT0igTRLC4tL9fGpFBC+KTOUA3vsvT`

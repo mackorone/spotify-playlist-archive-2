@@ -4,7 +4,7 @@
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 38 min
+79 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,13 +67,14 @@
 | [No Thanks](https://open.spotify.com/track/7sf18eK8GKYiffwszSB3mS) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:40 | 2024-01-10 | 2025-12-25 |
 | [Not Ready Yet](https://open.spotify.com/track/5UYvsw1P7codQIsxOjlpDM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:24 | 2025-10-26 | 2026-01-21 |
 | [october](https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:47 | 2024-01-10 |  |
-| [Pathetic](https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:46 | 2025-10-26 |  |
+| [Pathetic](https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:46 | 2025-10-26 | 2026-02-14 |
 | [Pressure](https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:28 | 2024-01-10 | 2025-10-27 |
 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 | 2024-05-12 | 2024-06-09 |
 | [Put You First](https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Put You First](https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd) | 2:20 | 2024-10-13 |  |
 | [reflection](https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:40 | 2024-05-12 |  |
 | [said so](https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:06 | 2024-05-12 |  |
-| [Scared of Myself](https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Scared of Myself](https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha) | 3:18 | 2025-08-29 |  |
+| [Scared of Myself](https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Scared of Myself](https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha) | 3:18 | 2025-08-29 | 2026-02-14 |
+| [Scared of Myself](https://open.spotify.com/track/7gnJbQcm0abwugDk1Xyxj5) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:18 | 2026-02-14 |  |
 | [Shady](https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:49 | 2024-01-10 | 2025-12-26 |
 | [Shy](https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:32 | 2024-01-10 |  |
 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 | 2024-01-10 | 2025-10-29 |

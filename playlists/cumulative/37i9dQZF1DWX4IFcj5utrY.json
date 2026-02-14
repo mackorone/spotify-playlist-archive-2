@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Dwson",
+  "description": "The best dance hits in Africa. Cover: Sun-El Musician",
   "name": "mint Africa",
   "tracks": [
     {
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148965,
       "name": "Agba Baller",
       "url": "https://open.spotify.com/track/2vdapk0XgqtUnMtTixBQMH"
@@ -14290,6 +14290,28 @@
       "duration_ms": 445714,
       "name": "Izimangaliso (feat. Khanyisa)",
       "url": "https://open.spotify.com/track/6b9VMCogXvoK6OfNUBQ8T9"
+    },
+    {
+      "album": {
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283491,
+      "name": "I\u2019ll Be There (For You)",
+      "url": "https://open.spotify.com/track/3XkJJI9V76H803dnf9PAaA"
     },
     {
       "album": {

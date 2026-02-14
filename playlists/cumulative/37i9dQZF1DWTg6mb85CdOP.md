@@ -4,7 +4,7 @@
 
 > más es más\. Orestes Gomez lo sabe.
 
-460 songs - 1 day 8 hr 6 min
+463 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 | 2023-02-03 | 2023-11-02 |
 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 | 2025-09-05 | 2025-11-13 |
 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 | 2025-09-05 | 2025-11-13 |
+| [AMANTES](https://open.spotify.com/track/5lqi80trHHTiGk2JYBG2JH) | [008RACCA](https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM) | [AMANTES](https://open.spotify.com/album/1RDicbxeFHWyoTzzV13xxk) | 3:00 | 2026-02-13 |  |
 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 | 2023-02-03 | 2023-11-02 |
 | [Amor A La Mexicana](https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amor A La Mexicana](https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD) | 4:25 | 2025-11-12 | 2025-12-06 |
 | [Amor Eterno \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/23KWQpnS1K8KwC06msL9tm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 7:08 | 2025-11-12 | 2025-12-06 |
@@ -180,6 +181,7 @@
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2025-11-12 | 2025-12-06 |
 | [Hasta Que Te Conocí](https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 7:15 | 2025-11-12 | 2025-12-06 |
 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 | 2025-12-05 |  |
+| [Helao](https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Helao](https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt) | 3:50 | 2026-02-13 |  |
 | [Hello \- Remastered](https://open.spotify.com/track/2LmwUKeGCJZUKHKwOrX3Xb) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 3:23 | 2025-09-05 | 2025-11-13 |
 | [Hercules Theme](https://open.spotify.com/track/5Y6j5OOV7RxICBWhPvc5Ju) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV) | 4:28 | 2025-03-21 | 2025-09-06 |
 | [Hijos Del Sol](https://open.spotify.com/track/0ds8HD4pYc88Po0RMygxiO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hijos Del Sol](https://open.spotify.com/album/6gnYcXVaffdG0vwVM34cr8) | 2:56 | 2023-02-03 | 2023-11-02 |
@@ -299,6 +301,7 @@
 | [Pardon](https://open.spotify.com/track/1nBA4QinIbQyRzVgG0UJGy) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 3:48 | 2025-01-23 | 2025-03-22 |
 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/3R9bx0Y0yBLZqEvbhF7aV2) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife](https://open.spotify.com/album/0YS25Dr3hMtMFlVTfuvzl4) | 3:05 | 2025-09-05 | 2025-11-13 |
 | [Pasado y Olvido](https://open.spotify.com/track/0H9Mw9YefXVFZmezMzfGOT) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Vida Ventura](https://open.spotify.com/album/5VosrSVY4pQ56SCZ83L8NI) | 4:17 | 2023-02-03 | 2023-11-02 |
+| [pegameeeeento](https://open.spotify.com/track/6xOrgVwywtEb57A6hPTFSK) | [LA VIRGENCITA](https://open.spotify.com/artist/1Ez09hEUfJOWNBf0Q7d1qw), [Saga](https://open.spotify.com/artist/7mY2ZD4zAsviFn1bZKClAA) | [pegameeeeento](https://open.spotify.com/album/79n327Ncr8MdWDR03vwkJU) | 3:00 | 2026-02-13 |  |
 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 | 2023-02-03 | 2023-11-02 |
 | [Phonkay](https://open.spotify.com/track/7pX107w1oLawMhoBvNnr6e) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI), [Danny Daze](https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Goonyverso](https://open.spotify.com/album/18y1QkZZffhLMRIywBWGEx) | 2:25 | 2024-02-06 | 2024-04-19 |
 | [Phonkay](https://open.spotify.com/track/7Gi8tO48Xe7IcgiVXTqs1x) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI), [Danny Daze](https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Homecore! Miami All\-Stars](https://open.spotify.com/album/66XFndmwDXr8Eu6llRCzSd) | 2:25 | 2023-11-01 | 2025-01-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,296 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,294 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 8 | [Pura Pura Bahagia \- Japanese Version](https://open.spotify.com/track/76r78vQ7H7SQkrNpRAL6ma) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Morning in Osaka](https://open.spotify.com/album/54ms2CNMhAc2Ssio38mxOC) | 3:42 |
 | 9 | [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 |
 | 10 | [Eksplorasi](https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Eksplorasi](https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI) | 3:01 |
-| 11 | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/track/4nnqax49cgpwE1be5dZXii) | [Millie Snow](https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy) | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/album/7lAuAFSGe6h9Hr7imLn3sC) | 3:40 |
+| 11 | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/track/4nnqax49cgpwE1be5dZXii) | [Millie Snow](https://open.spotify.com/artist/3LK2WzEzWSUHvqAqfWyDrG) | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/album/7lAuAFSGe6h9Hr7imLn3sC) | 3:40 |
 | 12 | [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 |
 | 13 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 |
 | 14 | [Senandung Dibatas Mimpi](https://open.spotify.com/track/4tvjUxP4pJ3ySoZxEUtsLk) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Jamie Aditya](https://open.spotify.com/artist/0WZFzBhmkw96pBkN2km2aE) | [Senandung Dibatas Mimpi](https://open.spotify.com/album/6MeReYOMahdO7ZNcWsKvTz) | 6:09 |

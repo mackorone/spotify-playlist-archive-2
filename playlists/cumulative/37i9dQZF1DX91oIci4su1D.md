@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,241 songs - 3 day 2 hr 20 min
+1,242 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [500](https://open.spotify.com/track/5OVymDEf9BbTC1JRniCjnh) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tranquility Base Vol\. 1](https://open.spotify.com/album/6KkjYQ6h1BIQE4LspVgQdh) | 2:46 | 2023-06-23 | 2023-12-09 |
 | [500](https://open.spotify.com/track/7JMxCKaCYx3JbKHCdhd5kH) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tranquility Base Vol\. 1](https://open.spotify.com/album/5fC0IDTURADF9bMs3FqomK) | 2:46 | 2023-05-19 | 2023-06-24 |
 | [5000 Miles](https://open.spotify.com/track/3G5PWGVpzTCliUyJ720qLj) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [Bodine](https://open.spotify.com/artist/4w6oVQUBewDrvPthS07F4r) | [5000 Miles](https://open.spotify.com/album/3hNaKqqGi9U9CictEEeVrR) | 3:50 | 2021-12-17 | 2022-11-12 |
+| [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 | 2026-02-13 |  |
 | [9910](https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [9910](https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1) | 3:25 | 2023-09-08 | 2024-10-26 |
 | [A Big Life](https://open.spotify.com/track/1wC8NewPz9UC2omMzQx78S) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [A Big Life](https://open.spotify.com/album/68B29M8gbUTv0qSTjTIj7Q) | 3:47 | 2022-01-28 | 2023-02-25 |
 | [A Love Like You](https://open.spotify.com/track/1oY02AiGl444ywpOuWuet6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Robbie Seed](https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [A Love Like You](https://open.spotify.com/album/0JP7MmkQdZEOgkzDz0RCSH) | 3:48 | 2025-03-07 |  |
@@ -679,7 +680,7 @@
 | [Malfunction](https://open.spotify.com/track/0XhzCSC06CIvr3j5Ycl7q4) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Malfunction](https://open.spotify.com/album/4bqFd4M0jmJVrnv0JC9Xy7) | 2:38 | 2021-12-17 | 2022-10-01 |
 | [Malu \- Grum Remix](https://open.spotify.com/track/4v4elkQ4vWtZGMuNGte7JP) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Trance Wax \(Deluxe\)](https://open.spotify.com/album/3ZbYCU377KwSNgDUqZC9cN) | 3:12 | 2021-12-17 | 2022-09-29 |
 | [Man On The Run \- Miami Edit](https://open.spotify.com/track/2JBLiMWASj0QQUchl0f5g6) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Cerf](https://open.spotify.com/artist/4BthEkBXth6eZmU91fPKpd), [Mitiska](https://open.spotify.com/artist/2BVVk2fLwxQisteQ8VXzCf), [Jaren](https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm) | [Miami Edits EP](https://open.spotify.com/album/7yZAvHTzgMKACZz5aExHul) | 2:48 | 2023-03-31 | 2024-02-17 |
-| [Manifesto](https://open.spotify.com/track/5pXz9Ajxeu73yz6Mr7pm5P) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Silva City](https://open.spotify.com/artist/2JJrzNukWHtw9I2SKAjL5j), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Manifesto](https://open.spotify.com/album/4Ajb5EteKQWUm88jWx3UQa) | 2:38 | 2025-04-18 |  |
+| [Manifesto](https://open.spotify.com/track/5pXz9Ajxeu73yz6Mr7pm5P) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Silva City](https://open.spotify.com/artist/2JJrzNukWHtw9I2SKAjL5j), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Manifesto](https://open.spotify.com/album/4Ajb5EteKQWUm88jWx3UQa) | 2:38 | 2025-04-18 | 2026-02-14 |
 | [Manoeuvres](https://open.spotify.com/track/7KX5mgPR5iNo5XK7C5D5i0) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Manoeuvres](https://open.spotify.com/album/20w3vd1ih8QihXZfCOTL3Y) | 3:56 | 2021-12-17 | 2023-02-25 |
 | [Manray](https://open.spotify.com/track/4NdEelTQyMQ4seMGHb7OWx) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Dakota](https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG) | [Manray](https://open.spotify.com/album/1se4IcPEkRxAXAAwc9q102) | 3:35 | 2022-03-25 | 2023-04-09 |
 | [Mantra](https://open.spotify.com/track/0JkKlMPyrl9hHEq8OwUMS5) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Mantra](https://open.spotify.com/album/2oW4o2exZxsnbteWcik97a) | 3:48 | 2023-07-14 | 2024-07-13 |

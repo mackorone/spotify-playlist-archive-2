@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 74437,
+  "num_followers": 74442,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAvW6WkvsyGcJOgim6eM5Eq",
+  "snapshot_id": "aY0YAAAAAABoyC4Z1TMvrUySyC+9w0YH",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blah-Blah-Blah",
         "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
       },
@@ -399,6 +399,30 @@
       "duration_ms": 268533,
       "name": "Cry For Love",
       "url": "https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life (The Prodigy Remix)",
+        "url": "https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        },
+        {
+          "name": "Liam Howlett",
+          "url": "https://open.spotify.com/artist/3UKIiIkOIj6NEzAPClAM3t"
+        }
+      ],
+      "duration_ms": 300133,
+      "name": "Lust For Life - The Prodigy Remix",
+      "url": "https://open.spotify.com/track/5JLrVTFMGGeeB5Iz4Oci0R"
     },
     {
       "added_at": null,
@@ -435,26 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life (The Prodigy Remix)",
-        "url": "https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
       "artists": [
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        },
-        {
-          "name": "Liam Howlett",
-          "url": "https://open.spotify.com/artist/3UKIiIkOIj6NEzAPClAM3t"
         }
       ],
-      "duration_ms": 300133,
-      "name": "Lust For Life - The Prodigy Remix",
-      "url": "https://open.spotify.com/track/5JLrVTFMGGeeB5Iz4Oci0R"
+      "duration_ms": 146598,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 259113,
       "name": "Loves Missing",
       "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 146598,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 174578,
-      "name": "Funtime",
-      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 392160,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 174578,
+      "name": "Funtime",
+      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 433357,
-      "name": "Dum Dum Boys",
-      "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
         "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 192853,
       "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
       "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 433357,
+      "name": "Dum Dum Boys",
+      "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
     },
     {
       "added_at": null,
@@ -659,38 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 180260,
-      "name": "Tiny Girls",
-      "url": "https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome To Goran Bregovic",
-        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
@@ -703,6 +671,22 @@
       "duration_ms": 271171,
       "name": "James Bond",
       "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 180260,
+      "name": "Tiny Girls",
+      "url": "https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 269461,
       "name": "The Pure and the Damned",
       "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacifiques Biches",
-        "url": "https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu"
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
       "artists": [
-        {
-          "name": "Florian Pellissier Quintet",
-          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 130434,
-      "name": "Only Fan",
-      "url": "https://open.spotify.com/track/33y7jKAaOAk0rIzd9Ky3I3"
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,369 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,491 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 52 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 53 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
 | 54 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 |
-| 55 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
-| 56 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |
+| 55 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |
+| 56 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
 | 57 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
 | 58 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 |
 | 59 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 77 | [Under Pressure](https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:31 |
 | 78 | [DJ Got Us Fallin in Love](https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To) | [Her Bright Skies](https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI) | [DJ Got Us Fallin in Love](https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL) | 3:35 |
 | 79 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
-| 80 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
-| 81 | [Flagpole Sitta](https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Flagpole Sitta](https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm) | 3:43 |
+| 80 | [Flagpole Sitta](https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Flagpole Sitta](https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm) | 3:43 |
+| 81 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
 | 82 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
 | 83 | [Alive](https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Alive](https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL) | 4:22 |
 | 84 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: ZUTOMAYO ずっと真夜中でいいのに。
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Mori Calliope
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,046 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,382 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Cubibibibism](https://open.spotify.com/track/7sh0ZVMLYh44tuFWHxLIA9) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K) | [Cubibibibism](https://open.spotify.com/album/2dWB8ZDmHav9YpD0snjXDW) | 3:23 |
 | 75 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
 
-Snapshot ID: `AAAAAJtxfZzLq+qFojjfo8pwAYPB5LN2`
+Snapshot ID: `AAAAAKNdGNb1oInQ4CbLcnqy5VXQGROB`

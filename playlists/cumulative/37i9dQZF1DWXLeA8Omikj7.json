@@ -3067,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "Circle The Sun",
+        "url": "https://open.spotify.com/album/15cQa9RgoDqW1x1pGdZStT"
+      },
+      "artists": [
+        {
+          "name": "Nadia Struiwigh",
+          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287995,
+      "name": "Circle The Sun",
+      "url": "https://open.spotify.com/track/0Y3JtlNwFkF4qbka3VfPK3"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY"
       },
@@ -4558,7 +4576,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 270000,
       "name": "Dolori",
       "url": "https://open.spotify.com/track/0Cy71ynWqU8ujRQTeAtX1u"
@@ -6156,7 +6174,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
@@ -7650,7 +7668,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210716,
       "name": "Gilded",
       "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
@@ -8545,6 +8563,24 @@
     },
     {
       "album": {
+        "name": "Chill Out Zone",
+        "url": "https://open.spotify.com/album/7fyCNZNItiQvcVrzLVouTC"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Hora Dorada",
+      "url": "https://open.spotify.com/track/2H9uhmMVABgcUHxppF1GK9"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6ekrtKzBfy0TRcjbK6cY7g"
       },
@@ -8732,7 +8768,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 213897,
       "name": "I Cannot I",
       "url": "https://open.spotify.com/track/5g6hwRzghn8aOzQo8xqpHF"
@@ -10055,7 +10091,7 @@
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 260545,
+      "duration_ms": 260546,
       "name": "La femme d'argent - Vegyn Version",
       "url": "https://open.spotify.com/track/7jDxY5BblYMlamymg6jqfA"
     },
@@ -13206,7 +13242,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 334384,
       "name": "Offscreen",
       "url": "https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t"
@@ -14048,7 +14084,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 235636,
       "name": "Philos - Edit",
       "url": "https://open.spotify.com/track/6uMuNTt5BKq9Ft0N8StW2T"
@@ -20328,7 +20364,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 244285,
       "name": "Under the soil",
       "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
@@ -20802,7 +20838,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 142812,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi"

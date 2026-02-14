@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,775 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,783 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 49 | [Federal Fed \(feat\. Future\)](https://open.spotify.com/track/7hpCaD1ILnO9GoMQvj5oWI) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 3:29 |
 | 50 | [In da Air](https://open.spotify.com/track/3Av4FkyTixUk20htpZlwZY) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:56 |
 
-Snapshot ID: `aYvGgAAAAADFWnm5atKE1JDcgQbKyLoA`
+Snapshot ID: `aY0YAAAAAACcIJU9PR2nL7iNWTK1M9Of`

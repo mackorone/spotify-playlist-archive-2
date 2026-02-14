@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 364281,
+  "num_followers": 364261,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
+        "name": "Hist\u00f3ria para dois",
+        "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 198926,
+      "name": "Hist\u00f3ria para dois",
+      "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
         "name": "Quase",
         "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 189600,
       "name": "Impostor",
       "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
-        "name": "Hist\u00f3ria para dois",
-        "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 198926,
-      "name": "Hist\u00f3ria para dois",
-      "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI"
-      },
-      "artists": [
-        {
-          "name": "Vivi",
-          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 183032,
-      "name": "Noites em Miami",
-      "url": "https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "Cara Ideal",
         "url": "https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 144923,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI"
+      },
+      "artists": [
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 183032,
+      "name": "Noites em Miami",
+      "url": "https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl"
     },
     {
       "added_at": "2026-02-06 03:00:06",

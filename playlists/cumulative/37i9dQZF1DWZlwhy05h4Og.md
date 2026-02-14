@@ -2,9 +2,9 @@
 
 ### [SUGAR](https://open.spotify.com/playlist/37i9dQZF1DWZlwhy05h4Og)
 
-> The sweetest bops\. Cover: GIRLSET
+> The sweetest bops\. Cover: IVE
 
-263 songs - 12 hr 53 min
+264 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2023-03-22 | 2023-10-28 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-26 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 |  |
+| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-13 |  |
 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/1GywvEH11aZcdvyZnRjfyn), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 | 2023-07-07 | 2024-08-31 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-28 | 2026-02-07 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2023-03-22 | 2023-09-23 |
@@ -94,7 +95,7 @@
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-22 | 2023-12-02 |
 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-22 | 2023-09-23 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2023-03-22 | 2023-12-09 |
-| [flip phone](https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [flip phone](https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww) | 2:04 | 2024-07-05 |  |
+| [flip phone](https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [flip phone](https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww) | 2:04 | 2024-07-05 | 2026-02-14 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-31 | 2024-04-13 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-10-24 |  |
 | [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 | 2024-07-05 |  |

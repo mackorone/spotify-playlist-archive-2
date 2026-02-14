@@ -4039,6 +4039,32 @@
     },
     {
       "album": {
+        "name": "J'ai merd\u00e9",
+        "url": "https://open.spotify.com/album/1SRs8XIRRpOe2g4Y4pAoIA"
+      },
+      "artists": [
+        {
+          "name": "Vaik",
+          "url": "https://open.spotify.com/artist/4TDkhCbk461mCCeION8atB"
+        },
+        {
+          "name": "Hind",
+          "url": "https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr"
+        },
+        {
+          "name": "Jeremy Lior",
+          "url": "https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "J'ai merd\u00e9",
+      "url": "https://open.spotify.com/track/3SxZzsVNK8VjabXJphHYPo"
+    },
+    {
+      "album": {
         "name": "HIGH SCHOOL (R\u00e9\u00e9dition)",
         "url": "https://open.spotify.com/album/3OPPPqo5gekMagH8KLjxQT"
       },

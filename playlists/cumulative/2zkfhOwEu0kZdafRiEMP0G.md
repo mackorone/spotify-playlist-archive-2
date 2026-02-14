@@ -4,7 +4,7 @@
 
 > 
 
-77 songs - 5 hr 18 min
+79 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2025-08-26 | 2025-10-23 |
 | [Broken Heart](https://open.spotify.com/track/1hNiqmCEOozAghYTQEbQH6) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Broken Heart](https://open.spotify.com/album/6bc1hlrJy9oULH5LnYNkpv) | 3:27 | 2025-11-05 |  |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-04 |  |
+| [Cause Of Death](https://open.spotify.com/track/1JMrmmvPZvwdKOnti8wbmC) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:03 | 2026-02-13 |  |
 | [Damocles](https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Damocles](https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw) | 4:24 | 2025-04-28 |  |
 | [Dance With The Devil](https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:47 | 2025-06-05 | 2026-02-06 |
 | [Defying Gravity \- Acappella](https://open.spotify.com/track/7w4Q5qczL9gCgIyXUJIzLK) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [Defying Gravity \(Acappella\)](https://open.spotify.com/album/0cskxM3g6oJYcTqXTDFXgZ) | 3:08 | 2025-07-13 | 2025-12-28 |
@@ -65,6 +66,7 @@
 | [Say No to This](https://open.spotify.com/track/3s9itRgJYcKhem01P17865) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Sydney James Harcourt](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:02 | 2026-01-30 |  |
 | [Shivers](https://open.spotify.com/track/5oT96Jkv0FhwcBDtVfFaGL) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [The Acoustic EP Vol\. 5](https://open.spotify.com/album/2Ic6pPjNXycJWiE2gHrSnI) | 3:30 | 2025-10-11 | 2025-12-28 |
 | [Sincerely Me \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/7Fuj7RyGJYSJ7HgO5E2tJv) | [Colton Ryan](https://open.spotify.com/artist/4e9ML6IDGbv8W09mMlStKc), [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Nik Dodani](https://open.spotify.com/artist/6H6kEm6c01DA6idz9cV34a) | [Dear Evan Hansen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yURloAyqmXCjQ1rmX0ltA) | 3:37 | 2026-01-27 |  |
+| [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/2ClgEn1FZxchrqRZ04JZzj) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:23 | 2026-02-13 |  |
 | [Something To Believe In](https://open.spotify.com/track/4kin4clo4ALSnwb33SYsdE) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2eeKB2KD7VwbWtcovqLzpS) | 3:31 | 2025-11-05 |  |
 | [Stained Glass Eyes And Colorful Tears](https://open.spotify.com/track/2ag0hixCwLjj9Gi5Z44hbO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:38 | 2025-07-22 |  |
 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 | 2025-07-13 | 2025-10-23 |

@@ -1,13 +1,29 @@
 {
-  "description": "Where R&B lives. Cover: Ella Mai",
-  "num_followers": 6114974,
+  "description": "Where R&B lives. Cover: Brent Faiyaz",
+  "num_followers": 6115200,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACKp0n6xB0QSvdV1SuTAXYOHmOiS",
+  "snapshot_id": "AAAAAFTDny/u5dn88YY3vdqegkINhcTo",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 223621,
+      "name": "wrong faces.",
+      "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"
+    },
     {
       "added_at": "2026-02-06 05:00:49",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
       "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Love Is A Kingdom",
@@ -55,22 +87,6 @@
       "duration_ms": 234080,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
-        "name": "ACT II",
-        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "heal something",
-      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -123,6 +139,22 @@
       "duration_ms": 146015,
       "name": "No",
       "url": "https://open.spotify.com/track/6LP8B6nA0k4QaQTkHkBG4K"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "added_at": "2026-01-16 05:00:30",
@@ -181,6 +213,22 @@
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
     },
     {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "pure fantasy.",
+      "url": "https://open.spotify.com/track/3ST33QbyCHtNq6sGVEjgZO"
+    },
+    {
       "added_at": "2026-01-23 05:00:35",
       "album": {
         "name": "Vacancy",
@@ -213,10 +261,10 @@
       "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
     },
     {
-      "added_at": "2025-12-12 05:00:29",
+      "added_at": "2026-01-16 05:00:30",
       "album": {
-        "name": "Tell Her",
-        "url": "https://open.spotify.com/album/1Sr1nrKVq8nYCrxvjPiHcA"
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
       },
       "artists": [
         {
@@ -224,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 199043,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv"
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -243,6 +291,26 @@
       "duration_ms": 256615,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -347,6 +415,22 @@
       "duration_ms": 170564,
       "name": "BROWN SUGAH",
       "url": "https://open.spotify.com/track/2lP4A3vu4O8SwZz1Tss6IC"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Sweetest Lullabye",
+        "url": "https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 255237,
+      "name": "Sweetest Lullabye",
+      "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -543,22 +627,6 @@
     {
       "added_at": "2026-01-16 05:00:30",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-01-16 05:00:30",
-      "album": {
         "name": "Honey Water",
         "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
       },
@@ -687,66 +755,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "30.",
-        "url": "https://open.spotify.com/album/3XAOKZb6n3bx6j9OvDSPvc"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "my man... (feat. Mariah The Scientist)",
-      "url": "https://open.spotify.com/track/1aXJeavB4ztnMd6eGvhl0y"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Finally Over It (The Afterparty)",
-        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230646,
-      "name": "Go Girl (with Latto & Doja Cat)",
-      "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "JUST A DREAM",
         "url": "https://open.spotify.com/album/6HxNmblyLP8Z7QW8Ic2VCr"
       },
@@ -835,26 +843,6 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Still Shinin",
-        "url": "https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 137066,
-      "name": "act xi: she ain\u2019t no angel",
-      "url": "https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0"
     },
     {
       "added_at": "2025-12-12 05:00:29",

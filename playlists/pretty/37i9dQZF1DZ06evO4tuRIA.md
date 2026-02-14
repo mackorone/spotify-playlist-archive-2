@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,706 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,727 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [De Bajo Perfil](https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 2:44 |
 | 50 | [El Chili Willy](https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El 7 De La Suerte](https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1) | 3:37 |
 
-Snapshot ID: `aYvGgAAAAAD1iMx5LhUVlAvknOmpdKOa`
+Snapshot ID: `aY0YAAAAAAAq9YWFWmBLpG4S2JVLL4cN`

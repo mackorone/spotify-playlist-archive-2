@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 243247,
+  "num_followers": 243300,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "No Te Olvidare",
-        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "No Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Viva Tejano Party Mix",
         "url": "https://open.spotify.com/album/7btBiEKMNBvPRe0e6HRVe1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 211146,
       "name": "Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/4Uo3KErgqv7GoEBZbAI1wU"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "No Te Olvidare",
+        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "No Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 252573,
-      "name": "Amigo M\u00edo",
-      "url": "https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Siempre Humilde (Remastered)",
         "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 231600,
       "name": "Ahora Qu\u00e9 Hago Sin Ti",
       "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 252573,
+      "name": "Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -976,13 +976,13 @@
       },
       "artists": [
         {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
+          "name": "La Tropa F",
+          "url": "https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Por Favor Corazon",
-      "url": "https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe"
+      "duration_ms": 223040,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/0Ni9rZBFkAXXQgeVli29zM"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1040,13 +1040,13 @@
       },
       "artists": [
         {
-          "name": "La Tropa F",
-          "url": "https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1"
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 223040,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/0Ni9rZBFkAXXQgeVli29zM"
+      "duration_ms": 223946,
+      "name": "Por Favor Corazon",
+      "url": "https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
-        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
       "artists": [
         {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
         }
       ],
-      "duration_ms": 237213,
-      "name": "Alma Negra",
-      "url": "https://open.spotify.com/track/7tDhR4DkIf5qEmUyWhl6aj"
+      "duration_ms": 182386,
+      "name": "Don Luis El Tejano",
+      "url": "https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
       },
       "artists": [
         {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
         }
       ],
-      "duration_ms": 182386,
-      "name": "Don Luis El Tejano",
-      "url": "https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT"
+      "duration_ms": 237213,
+      "name": "Alma Negra",
+      "url": "https://open.spotify.com/track/7tDhR4DkIf5qEmUyWhl6aj"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1668,13 +1668,13 @@
       },
       "artists": [
         {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 223960,
-      "name": "Preciosa",
-      "url": "https://open.spotify.com/track/6lruDosJz30DwXkz1hxytg"
+      "duration_ms": 190626,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/3GZMMuN6QVF6PQLWFpwTpN"
     },
     {
       "added_at": "2024-05-02 04:14:20",

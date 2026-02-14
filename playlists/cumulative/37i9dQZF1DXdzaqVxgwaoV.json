@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 192812,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4"
@@ -3426,6 +3426,28 @@
       "duration_ms": 203733,
       "name": "La Mesa Del Rinc\u00f3n",
       "url": "https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p"
+    },
+    {
+      "album": {
+        "name": "Los Cantos Vallenatos de Escalona - 18 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2aDc695vrjmfMiZ1a1L0P6"
+      },
+      "artists": [
+        {
+          "name": "Bovea Y Sus Vallenatos",
+          "url": "https://open.spotify.com/artist/64OlwPCoVudxb3laVVxqvV"
+        },
+        {
+          "name": "Alberto Fernandez",
+          "url": "https://open.spotify.com/artist/3Pp4UuZvKfW8dfnwYeQeic"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "La Molinera",
+      "url": "https://open.spotify.com/track/7s2vffYrqcDb6ota0NbzdQ"
     },
     {
       "album": {

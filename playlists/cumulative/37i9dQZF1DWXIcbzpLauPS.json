@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best new metalcore. where brutality and technicality collide. Cover: Varials",
+  "description": "the best new metalcore. where brutality and technicality collide. Cover: ERRA",
   "name": "The Core",
   "tracks": [
     {
@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Love Is Not Enough",
+        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168323,
+      "name": "Bad Faith",
+      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/1bgOW93DoJH4IFbenx0MOU"
       },
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 193254,
       "name": "Black Canvas",
       "url": "https://open.spotify.com/track/0Avdfr2SnvWvMsFgSJ7lwz"
@@ -4685,6 +4703,24 @@
     },
     {
       "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/7rIDE6bTaH5AQ4lJPvrHxY"
+      },
+      "artists": [
+        {
+          "name": "Fight From Within",
+          "url": "https://open.spotify.com/artist/6mQi8LMPMts9Fz67wqneDV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178210,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/1xcHVQZNAFJO6XETkmzfbF"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
       },
@@ -5050,7 +5086,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182061,
       "name": "Cold Hard Truth",
       "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
@@ -7003,6 +7039,24 @@
     },
     {
       "album": {
+        "name": "Die On The Vine",
+        "url": "https://open.spotify.com/album/7yX9BfKA5ruWExegFabUbo"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186767,
+      "name": "Die On The Vine",
+      "url": "https://open.spotify.com/track/7bf0jNK5Wy72fGv5bPoMwH"
+    },
+    {
+      "album": {
         "name": "Digital Hell",
         "url": "https://open.spotify.com/album/64isnUcD3Iw5PXtJMcQ8S3"
       },
@@ -7820,6 +7874,28 @@
       "duration_ms": 285000,
       "name": "Dust of the Bereaved",
       "url": "https://open.spotify.com/track/5wfILshQZtz9pKTOBEuH95"
+    },
+    {
+      "album": {
+        "name": "Dying Son",
+        "url": "https://open.spotify.com/album/14e7Th4blXvtD9WULa3UbA"
+      },
+      "artists": [
+        {
+          "name": "Odd Palace",
+          "url": "https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV"
+        },
+        {
+          "name": "vianova",
+          "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254722,
+      "name": "Dying Son",
+      "url": "https://open.spotify.com/track/0PrFpMByl3SoBNx8GwgGDz"
     },
     {
       "album": {
@@ -10263,6 +10339,24 @@
     },
     {
       "album": {
+        "name": "Fume / Death Dance",
+        "url": "https://open.spotify.com/album/2YyAV6o1IcLp1SMSiIoofD"
+      },
+      "artists": [
+        {
+          "name": "LEVELS",
+          "url": "https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Fume",
+      "url": "https://open.spotify.com/track/3FYxYAROEXhDFWJMk8Dsoy"
+    },
+    {
+      "album": {
         "name": "further eden",
         "url": "https://open.spotify.com/album/6SP2sLzff9oyOWtNsnnykw"
       },
@@ -11835,6 +11929,28 @@
     },
     {
       "album": {
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
+    },
+    {
+      "album": {
         "name": "Hivemind",
         "url": "https://open.spotify.com/album/22ZNSrE7hmUqmoXtR4uhIl"
       },
@@ -12088,6 +12204,24 @@
       "duration_ms": 239934,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
+    },
+    {
+      "album": {
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206788,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
     },
     {
       "album": {
@@ -13852,7 +13986,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 160588,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF"
@@ -15114,7 +15248,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 254600,
       "name": "Make Sure It Hurts",
       "url": "https://open.spotify.com/track/2D8zMxyIC6Mv3a7LoLcIHZ"
@@ -18108,7 +18242,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 189157,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3"
@@ -20635,6 +20769,24 @@
     },
     {
       "album": {
+        "name": "Shallows",
+        "url": "https://open.spotify.com/album/2x3JsKIhlgERRE6trVaYvX"
+      },
+      "artists": [
+        {
+          "name": "Haste The Day",
+          "url": "https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230300,
+      "name": "Shallows",
+      "url": "https://open.spotify.com/track/5xxXjTLApETkmNiFHyksac"
+    },
+    {
+      "album": {
         "name": "Shape Of My Mind",
         "url": "https://open.spotify.com/album/6gB6uISPDphVltQinR1Oia"
       },
@@ -21436,7 +21588,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 165000,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/0dJJZdhE4kl1ZkUZdFmuV5"
@@ -22448,7 +22600,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 185777,
       "name": "SUFFER IN THE DARK",
       "url": "https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp"
@@ -23120,6 +23272,24 @@
       "duration_ms": 185172,
       "name": "TANZNEID",
       "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
+    },
+    {
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/6KfypxhpTW4yLxvlhFOjpY"
+      },
+      "artists": [
+        {
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/21VOqis8anMJTRx6GqI13b"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192692,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/2w9zVGPqawOlE0rrdGqDWx"
     },
     {
       "album": {
@@ -24924,7 +25094,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 215000,
       "name": "To The Ashes",
       "url": "https://open.spotify.com/track/1BOXQvY4T2H3zCza7UN15D"
@@ -25448,7 +25618,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 232631,
       "name": "Two-Headed Trout",
       "url": "https://open.spotify.com/track/1PYMTjGi39pXt8AkUkdKIA"

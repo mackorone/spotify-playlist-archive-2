@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Jo Black, Zaan Sonnekus, Loufi, Mr Heinz en meer!
 
-2,395 songs - 5 day 13 hr 19 min
+2,397 songs - 5 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,13 +802,14 @@
 | [Hart & Siel](https://open.spotify.com/track/3AEnib9I7FYM96OCm36MIR) | [Chessiwessi](https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT), [Op Die Plaas](https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu) | [Hart & Siel](https://open.spotify.com/album/2gU2Ije6ls9RkrBWkVihbn) | 2:08 | 2024-10-03 | 2024-10-11 |
 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 | 2023-11-30 | 2024-06-28 |
 | [Hart En Siel \- JaKeS Remix](https://open.spotify.com/track/2LYyrTpGQXIBYyaGs6m04m) | [Jennifer Zamudio](https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS) | [Hart en Siel \(JaKeS Remix\)](https://open.spotify.com/album/4BlZg6tqaUWyYAOfwkdh0b) | 3:33 | 2025-05-08 | 2025-07-04 |
-| [Hart Se Huis](https://open.spotify.com/track/5nRmUgC9OlJKDJQSM8IfGu) | [Jauni M](https://open.spotify.com/artist/0XFIwXOKznNNBfUGBEnG6Z) | [Hart Se Huis](https://open.spotify.com/album/1T75D96zgBzMUw3HFefAbb) | 3:01 | 2025-12-04 |  |
+| [Hart Se Huis](https://open.spotify.com/track/5nRmUgC9OlJKDJQSM8IfGu) | [Jauni M](https://open.spotify.com/artist/0XFIwXOKznNNBfUGBEnG6Z) | [Hart Se Huis](https://open.spotify.com/album/1T75D96zgBzMUw3HFefAbb) | 3:01 | 2025-12-04 | 2026-02-14 |
 | [Hart Se Taal](https://open.spotify.com/track/2xsi5mXx1oQqW3Zu3zoHiA) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Hart Se Taal](https://open.spotify.com/album/3IDe6qUpf3OD9dphpCaR7o) | 2:45 | 2025-06-19 | 2025-09-19 |
 | [Hart soos 'n Hilux](https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Hart soos 'n Hilux](https://open.spotify.com/album/5p2LWBsu5tiu0O8Of4fvqR) | 3:48 | 2025-10-16 | 2025-12-19 |
 | [Hart Van 'n Boer](https://open.spotify.com/track/3DfndLaDlqowbyHW1b38FR) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT) | [Hart Van 'n Boer](https://open.spotify.com/album/3hJvQX9TenCm8qPDcmiRMF) | 4:00 | 2025-01-16 | 2025-04-04 |
 | [Hart van Klip](https://open.spotify.com/track/05jx6R2VzJ1ahVbVE7yPqj) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Hart van Klip](https://open.spotify.com/album/3i2X3qLYSXxiaPZ6zpFjzE) | 3:55 | 2023-04-13 | 2023-05-12 |
 | [Hart Van My Moeder](https://open.spotify.com/track/3BEC4539U1SHSEmi7WehsP) | [Nico Booijse](https://open.spotify.com/artist/2qPbWpMGJHe0RVPdSFq27g) | [100 Jaar Afrikaans](https://open.spotify.com/album/3v1w4eaCLAJbQuHu5MWnsN) | 3:10 | 2025-12-11 | 2026-01-02 |
 | [Hartaanval \- Acoustic](https://open.spotify.com/track/2kGdg0aDmJuiLO2RQxB41G) | [Ligskyn](https://open.spotify.com/artist/7hmJU6y6rxUfhoPnlrrSpi) | [Hartaanval \(Acoustic\)](https://open.spotify.com/album/0eeIib5KU6g95FtlMXlSK0) | 2:39 | 2025-11-20 | 2025-11-28 |
+| [Hartedief](https://open.spotify.com/track/1LoPKOqVyvGJ5DABsk59nf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Hartedief](https://open.spotify.com/album/144JQdwCcUgMK7l7REoJ1h) | 2:56 | 2026-02-13 |  |
 | [Hartedief \(het my verlief\)](https://open.spotify.com/track/4wuPDjn5tcc0PnsNJwsTOG) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Emma B](https://open.spotify.com/artist/6kZhCOVrizIUp4vNTaSjI3) | [Hartedief \(het my verlief\)](https://open.spotify.com/album/2FLYy64AxyOjkf9YatzaT5) | 2:27 | 2025-03-20 | 2025-04-25 |
 | [Hartenbos](https://open.spotify.com/track/0oEYTosJjUJ9BofgKZWrrY) | [Anya Swart](https://open.spotify.com/artist/4E9ryRNnC5qkpYtmcmNvHR) | [Hartenbos](https://open.spotify.com/album/5cUNcRuCMLXOFkpC9fVaGT) | 3:08 | 2023-10-26 | 2023-11-24 |
 | [Hartklop REMIX](https://open.spotify.com/track/29GFGVkl82QZXJHjdcDwGZ) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Hartklop REMIX](https://open.spotify.com/album/1QiiEeFLAM14do17g5PTpA) | 2:35 | 2022-11-04 | 2022-12-09 |
@@ -1930,6 +1931,7 @@
 | [Soos 'n Kind](https://open.spotify.com/track/7znBzdNDXHqVVUPhbyam4g) | [Emil Paul](https://open.spotify.com/artist/1eLGnVNTlowcmg1Hhjv8os) | [Soos 'n Kind](https://open.spotify.com/album/2ZQbQxhL8ddeVZtY0ShWMD) | 3:23 | 2024-03-28 | 2024-04-19 |
 | [Soos Bloed \- SENSASIE Remix](https://open.spotify.com/track/4uXteEd1JioDpa7IMkYmrR) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Soos Bloed \(SENSASIE Remix\)](https://open.spotify.com/album/6hOn92qvDdFna02b21Qvx6) | 3:28 | 2024-07-04 | 2024-12-06 |
 | [Soos Die Reën](https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Soos Die Reën](https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF) | 2:44 | 2022-10-27 | 2022-11-18 |
+| [Soos Pappa](https://open.spotify.com/track/2FGW1G3fCoxQ8wbAKwFLKG) | [Caitie Rock](https://open.spotify.com/artist/6hziGkMhslWlOlFs0Xpm8E), [Dewan van Helsdingen](https://open.spotify.com/artist/0dyFQmrpPMaBRUKbJEezZS) | [Soos Pappa](https://open.spotify.com/album/2vQRxAMrSyPQ7N0pcB0luI) | 3:04 | 2026-02-12 |  |
 | [SOS](https://open.spotify.com/track/3PzdqaxouPup0BFKeU545G) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ), [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [SOS](https://open.spotify.com/album/4FOundWeVlsABamwqGAeDy) | 2:37 | 2023-07-06 | 2023-07-28 |
 | [Sou Jy](https://open.spotify.com/track/5RZ2jaq7ocHg4CYbhUTWqS) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Sou Jy](https://open.spotify.com/album/7e0pc5OQafeJU1uAXvkjVC) | 3:22 | 2025-10-23 | 2025-11-07 |
 | [Sou Vir Jou](https://open.spotify.com/track/6b9Dja0fQQBQv0tIhWeJCr) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Sou Vir Jou](https://open.spotify.com/album/0myi1ku1lKysaEXDKeesL7) | 2:59 | 2024-06-27 | 2024-09-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: J. Cole",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -5693,6 +5693,32 @@
     },
     {
       "album": {
+        "name": "Everything Allocated",
+        "url": "https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Everything Allocated",
+      "url": "https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD"
+    },
+    {
+      "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
@@ -10158,7 +10184,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 198466,
       "name": "LLC",
       "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"

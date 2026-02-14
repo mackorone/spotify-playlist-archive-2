@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Nilusi x Lisandro Cuxi",
-  "num_followers": 158722,
+  "num_followers": 158742,
   "original_name": "le miel",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,30 @@
       "duration_ms": 189546,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2M8dS8F3XolgXChxiu0m5B"
+    },
+    {
+      "added_at": "2026-02-12 23:00:24",
+      "album": {
+        "name": "J'ai merd\u00e9",
+        "url": "https://open.spotify.com/album/1SRs8XIRRpOe2g4Y4pAoIA"
+      },
+      "artists": [
+        {
+          "name": "Vaik",
+          "url": "https://open.spotify.com/artist/4TDkhCbk461mCCeION8atB"
+        },
+        {
+          "name": "Hind",
+          "url": "https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr"
+        },
+        {
+          "name": "Jeremy Lior",
+          "url": "https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "J'ai merd\u00e9",
+      "url": "https://open.spotify.com/track/3SxZzsVNK8VjabXJphHYPo"
     },
     {
       "added_at": "2026-02-12 23:00:24",

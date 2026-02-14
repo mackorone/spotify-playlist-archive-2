@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover:NEW LORE (Philippines)",
+  "description": "Hottest indie sounds from Asia. Cover: Omega Sapien (Korea)",
   "name": ".ORG",
   "tracks": [
     {
@@ -5828,7 +5828,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 236500,
       "name": "Can We",
       "url": "https://open.spotify.com/track/2eWgPpDUiaEO9UhBF7jW7Z"
@@ -8584,7 +8584,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 147500,
       "name": "Dear Frosty",
       "url": "https://open.spotify.com/track/1zHgBwJ9tJXIewPPv8qved"
@@ -8902,6 +8902,28 @@
       "duration_ms": 225000,
       "name": "Dewi Pelita",
       "url": "https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED"
+    },
+    {
+      "album": {
+        "name": "Di Balik Senyap",
+        "url": "https://open.spotify.com/album/1Iu5uc5rQV4W7nHBEe2eNF"
+      },
+      "artists": [
+        {
+          "name": "Themilo",
+          "url": "https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS"
+        },
+        {
+          "name": "Leonardo Ringo",
+          "url": "https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346024,
+      "name": "Di Balik Senyap",
+      "url": "https://open.spotify.com/track/2fyfrAc8mncLRrHUgYlCpW"
     },
     {
       "album": {
@@ -13877,6 +13899,24 @@
     },
     {
       "album": {
+        "name": "Gotta Find My Way",
+        "url": "https://open.spotify.com/album/1k0ZhZWkz6gAGl9qgxeSf0"
+      },
+      "artists": [
+        {
+          "name": "Mormingming",
+          "url": "https://open.spotify.com/artist/5OLPBUTjfyz4FSyvAa4l3M"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226525,
+      "name": "Gotta Find My Way",
+      "url": "https://open.spotify.com/track/0CXWEqzWvX7wvlss2R4Ool"
+    },
+    {
+      "album": {
         "name": "grandma's song",
         "url": "https://open.spotify.com/album/2xTM1Jy7mLkAy5n5nqPWIQ"
       },
@@ -17358,7 +17398,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 218839,
       "name": "If you calling, I'm going",
       "url": "https://open.spotify.com/track/65Rh8rkenDC2JUXDxjo3tx"
@@ -19019,6 +19059,24 @@
     },
     {
       "album": {
+        "name": "King of Sadtown",
+        "url": "https://open.spotify.com/album/3JYPXy9wUuPHw1tkU6GiWR"
+      },
+      "artists": [
+        {
+          "name": "Peej",
+          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "King of Sadtown",
+      "url": "https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT"
+    },
+    {
+      "album": {
         "name": "KINJAI",
         "url": "https://open.spotify.com/album/5eqd70Un1wA7zKOPn6eE0u"
       },
@@ -19181,6 +19239,28 @@
     },
     {
       "album": {
+        "name": "Koneko",
+        "url": "https://open.spotify.com/album/18BjCYMvmvJSfFT8EWtyWe"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        },
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248750,
+      "name": "Koneko",
+      "url": "https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH"
+    },
+    {
+      "album": {
         "name": "Konsensya",
         "url": "https://open.spotify.com/album/3Gwpshb9YLl9oLss4dVPot"
       },
@@ -19196,6 +19276,24 @@
       "duration_ms": 213934,
       "name": "Konsensya",
       "url": "https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL"
+    },
+    {
+      "album": {
+        "name": "Leader",
+        "url": "https://open.spotify.com/album/2ubP3MUtDQ1kkHiuzzYg88"
+      },
+      "artists": [
+        {
+          "name": "Omega Sapien",
+          "url": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149449,
+      "name": "Krapow",
+      "url": "https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC"
     },
     {
       "album": {
@@ -20035,6 +20133,24 @@
     },
     {
       "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/3Vdfc1NzQa5kesS30wwWCO"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234162,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4HhAQANF6t7Zn3kTWzwyc1"
+    },
+    {
+      "album": {
         "name": "LIE DOWN..",
         "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
       },
@@ -20716,7 +20832,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 216384,
       "name": "Lord, I Gotta Move On",
       "url": "https://open.spotify.com/track/35Ky17HnxZjFZHUMfLpfI3"
@@ -21474,7 +21590,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164000,
       "name": "lungs",
       "url": "https://open.spotify.com/track/1hBH6b5tTZAGPcerJKOcsf"
@@ -25520,7 +25636,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 253800,
       "name": "NOW",
       "url": "https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH"
@@ -27760,6 +27876,24 @@
       "duration_ms": 211666,
       "name": "Please Baby Please",
       "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
+    },
+    {
+      "album": {
+        "name": "Please Don't Say You Love Me",
+        "url": "https://open.spotify.com/album/4DCyn7qNbbEYlxKNJyikYp"
+      },
+      "artists": [
+        {
+          "name": "Ishbel Warifa",
+          "url": "https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212234,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/4KWwDJPAVi3k3B16P9yySe"
     },
     {
       "album": {
@@ -34952,7 +35086,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 160007,
       "name": "Test My Fate",
       "url": "https://open.spotify.com/track/7Ak27zXdedAW9ETDDSzsxA"
@@ -35404,6 +35538,24 @@
       "duration_ms": 240250,
       "name": "The Real World",
       "url": "https://open.spotify.com/track/6UNcgKafaHhsO5rFuwYCJa"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/1Yyz2u4loJ2ltgtR0uVFE6"
+      },
+      "artists": [
+        {
+          "name": "COPAK",
+          "url": "https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/02ICRIj52ntml18khwSWHh"
     },
     {
       "album": {
@@ -37591,6 +37743,24 @@
     },
     {
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7CHhMy4RSjyZ60Nx2LGu3t"
+      },
+      "artists": [
+        {
+          "name": "Aya Anjani",
+          "url": "https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179890,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/5LppXgPN2u3pBVgkZ5igXJ"
+    },
+    {
+      "album": {
         "name": "van gogh",
         "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
       },
@@ -38932,7 +39102,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 157213,
       "name": "What's On Your Mind",
       "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
@@ -39414,7 +39584,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 401871,
       "name": "Who's In My House?",
       "url": "https://open.spotify.com/track/6KUypHhUEnluMh8U1TkjF1"

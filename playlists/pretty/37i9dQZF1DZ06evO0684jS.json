@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 889824,
+  "num_followers": 889814,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADAV5QBuOM2jYUj2dgN2jdZ",
+  "snapshot_id": "aY0YAAAAAABbGvZokju9mgSXBI1hdLnF",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 179404,
       "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
     },
     {
       "added_at": null,
@@ -739,6 +739,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 303076,
+      "name": "MotorSport",
+      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pinkprint (International Deluxe Explicit)",
         "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
       },
@@ -775,30 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 303076,
-      "name": "MotorSport",
-      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss The Ring (Deluxe)",
         "url": "https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr"
       },
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Ball For Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 162285,
       "name": "Holy Ground (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Ball For Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Barbies",
-        "url": "https://open.spotify.com/album/0bfNmMmjV6nvDwwhUvL7e8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Black Barbies",
-      "url": "https://open.spotify.com/track/3y9cCbnBn0zjkJa2YkOj70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -971,22 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+        "name": "Black Barbies",
+        "url": "https://open.spotify.com/album/0bfNmMmjV6nvDwwhUvL7e8"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 242520,
-      "name": "Swish Swish",
-      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
+      "duration_ms": 254080,
+      "name": "Black Barbies",
+      "url": "https://open.spotify.com/track/3y9cCbnBn0zjkJa2YkOj70"
     },
     {
       "added_at": null,
@@ -1011,22 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 265333,
-      "name": "Right By My Side",
-      "url": "https://open.spotify.com/track/2bgW1SJqUjIkWcbxTPTIdy"
+      "duration_ms": 242520,
+      "name": "Swish Swish",
+      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
     },
     {
       "added_at": null,
@@ -1047,6 +1027,26 @@
       "duration_ms": 258218,
       "name": "Down In the DM (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/5w1vhNA2OEWUQ371QzyMmM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Right By My Side",
+      "url": "https://open.spotify.com/track/2bgW1SJqUjIkWcbxTPTIdy"
     },
     {
       "added_at": null,

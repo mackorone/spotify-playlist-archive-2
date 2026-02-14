@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
 
-713 songs - 1 day 16 hr 38 min
+715 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-03-21 | 2023-07-25 |
 | [Boomer Uncle](https://open.spotify.com/track/2b1GmT7aQW5ZfO0KO4VrZz) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd), [Thee Raa](https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l) | [Boomer Uncle](https://open.spotify.com/album/4tIElD5GwZ09DgpjkdBuT2) | 3:42 | 2024-02-01 | 2024-04-19 |
 | [Boomer Uncle](https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd), [Thee Raa](https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l) | [Boomer Uncle](https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA) | 3:42 | 2023-11-08 | 2024-05-11 |
+| [Broken Star \(From "Loopd"\)](https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm) | [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc), [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e) | [Broken Star \(From "Loopd"\)](https://open.spotify.com/album/4OV1vpPYa4djhsQcBBRCtI) | 3:54 | 2026-02-13 |  |
 | [Broken Wings](https://open.spotify.com/track/77jETME7Ez1121b19u4rVc) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [Broken Wings](https://open.spotify.com/album/2a0O2snHRwzZyp7SLojqQZ) | 3:33 | 2025-04-10 | 2025-07-02 |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2023-03-21 | 2023-06-24 |
 | [Callin](https://open.spotify.com/track/21ZfO35yXXVaz68RFq0j1u) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Callin](https://open.spotify.com/album/53A1Rka8vVEqsh0qYuuGFF) | 2:31 | 2024-02-23 | 2024-03-09 |
@@ -339,6 +340,7 @@
 | [Manjakizhange](https://open.spotify.com/track/5V8lgBdrbPb9Nt4fM2g4Kx) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Manjakizhange](https://open.spotify.com/album/4oV39FxFImDWG0xgyXnC9H) | 4:11 | 2023-07-31 | 2024-02-01 |
 | [Mannipaya](https://open.spotify.com/track/2zhTPVJtOlwDMpaUYfQIjn) | [Andriyana Rajahselvam](https://open.spotify.com/artist/3YSjPoy0AbAnNLZriJLcP6), [Nira](https://open.spotify.com/artist/0mzyuFfvjtJ6z6F3vqUzll) | [Mannipaya](https://open.spotify.com/album/6X7oqggnGMqx9Br60vx9DS) | 3:56 | 2023-03-21 | 2023-07-25 |
 | [MAPPU](https://open.spotify.com/track/6WCNGFUbzx8oSNSZZBSU0S) | [LINGGES](https://open.spotify.com/artist/7wPsR5gJq1N0GSVcBidY76), [Vetha Shahana](https://open.spotify.com/artist/2Bkya49Y15WCHqNRhRz8yA) | [MAPPU](https://open.spotify.com/album/7DWe5hTZv2d69Lm9qGtiQE) | 3:08 | 2025-05-15 | 2025-08-26 |
+| [Maruguriye](https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9) | [Aneesh](https://open.spotify.com/artist/5xygYgMW6E6BlT9IJm4Guj), [Vighnesh Ramakrishna](https://open.spotify.com/artist/7xa7uCYXquIwjRNTU3Silg) | [Maruguriye](https://open.spotify.com/album/4isPDjqpqszETdbRUc4NdD) | 3:48 | 2026-02-13 |  |
 | [Maya](https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl) | [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5), [Jo](https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94) | [Maya](https://open.spotify.com/album/33kre6aCwOaOGcckKeQilT) | 3:18 | 2024-03-19 | 2024-09-20 |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-05-02 | 2023-11-16 |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 | 2023-06-24 |

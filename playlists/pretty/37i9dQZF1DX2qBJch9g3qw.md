@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,194 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,189 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 48 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
 | 49 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
 | 50 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
-| 51 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 |
-| 52 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
+| 51 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
+| 52 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 |
 | 53 | [Adore You \(feat\. Abhi Dijon\)](https://open.spotify.com/track/25isxLhIKV8lNSecmvY700) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Abhi//Dijon](https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:31 |
 | 54 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 |
 | 55 | [Over & Done](https://open.spotify.com/track/0fjO41F0zhpJaLp7GEvMON) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Carrie.](https://open.spotify.com/artist/7d1YYFPCWI2xsrZHa7U9Md) | [Over & Done](https://open.spotify.com/album/3xuOAlopCvFZtJanfT0ab3) | 3:22 |

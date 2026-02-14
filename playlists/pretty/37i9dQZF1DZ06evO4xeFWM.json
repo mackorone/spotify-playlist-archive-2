@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220231,
+  "num_followers": 220249,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADquQckvObKkK3KgDsHxDKn",
+  "snapshot_id": "aY0YAAAAAACZSvDnJ64YQXunWNbpXgKu",
   "tracks": [
     {
       "added_at": null,
@@ -483,42 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad in Scandinavia",
-        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 198074,
-      "name": "Grip",
-      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Laura Palmer",
-      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planet Earth III (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2yiyCryQfCMScX04EdWbDu"
       },
@@ -543,6 +507,42 @@
       "duration_ms": 309629,
       "name": "Planet Earth III Suite",
       "url": "https://open.spotify.com/track/6WXdn8gwGfdjLtE4wXuCoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Laura Palmer",
+      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad in Scandinavia",
+        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 198074,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happier (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 240531,
       "name": "Happier - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Back To The Future",
-      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Fino y elegante, como Blessd y J \u00c1lvarez. ",
+  "description": "Fino y elegante, como Aria Vega y Ryan Castro. ",
   "name": "FINO",
   "tracks": [
     {
@@ -659,6 +659,28 @@
     },
     {
       "album": {
+        "name": "BIZCOCHO",
+        "url": "https://open.spotify.com/album/3yuAp0DZ7V49gWQJLtALoL"
+      },
+      "artists": [
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "SVNTI",
+          "url": "https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122696,
+      "name": "BIZCOCHO",
+      "url": "https://open.spotify.com/track/38JH6euiEfvwWDOfhNWWyE"
+    },
+    {
+      "album": {
         "name": "BOBADITA",
         "url": "https://open.spotify.com/album/5P3zmTUYu5O7NaFXCrRDHX"
       },
@@ -1146,6 +1168,28 @@
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
+    },
+    {
+      "album": {
+        "name": "CH\u00c9VERE (premium_remix)",
+        "url": "https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219989,
+      "name": "CH\u00c9VERE (premium_remix)",
+      "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
     },
     {
       "album": {

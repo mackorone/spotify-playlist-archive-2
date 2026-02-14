@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Angie
 
-1,005 songs - 1 day 22 hr 45 min
+1,006 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [NEI MIEI BAGGY](https://open.spotify.com/track/0Z05qanrc8NlgmdSz3m6yY) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [NEI MIEI BAGGY](https://open.spotify.com/album/3N76zBP7HY3REllWU1dgKB) | 2:19 | 2025-10-02 | 2025-12-12 |
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-19 | 2025-02-12 |
 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-03-28 | 2025-01-17 |
+| [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 | 2026-02-13 |  |
 | [NEVE SU MARTE \(feat\. Annalisa\)](https://open.spotify.com/track/3vMigJ03XjZTUMtrhDBIrK) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [FRAGILE](https://open.spotify.com/album/6W0JuhlBiFbVakn06IpC63) | 3:17 | 2023-03-23 | 2023-04-14 |
 | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/track/0RUzwtbvoASM5AVKRcmyYR) | [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/album/0cV8EqMkPdAivkRmFQ1uHo) | 2:45 | 2024-06-20 | 2024-07-19 |
 | [niagara](https://open.spotify.com/track/37DX42Kw57adheqsD1D1BI) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CHE ME NE FACCIO DEL TEMPO](https://open.spotify.com/album/7wo8Dh80MUfpde8P135MQR) | 2:56 | 2026-02-12 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Panda, Gusttavo Lima",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -4624,6 +4624,24 @@
       "duration_ms": 164642,
       "name": "N\u00e3o Me Recomendo - Ao Vivo",
       "url": "https://open.spotify.com/track/6YGC1K8FOpTOIZApTtmmA1"
+    },
+    {
+      "album": {
+        "name": "Alian\u00e7a - Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126043,
+      "name": "N\u00e3o Mexe nas Minhas Gavetas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ"
     },
     {
       "album": {

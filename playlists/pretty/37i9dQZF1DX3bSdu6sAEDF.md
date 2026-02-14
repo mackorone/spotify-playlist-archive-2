@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,905 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,878 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 47 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 |
 | 48 | [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 |
 | 49 | [I Get High](https://open.spotify.com/track/3nhu3q5V1VLVNm9fjGRRjU) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/7EqCyZU3Fuv6tHAZ84JGTG) | 4:20 |
-| 50 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea](https://open.spotify.com/artist/4jUG2n9MXExizho5Bz09oN) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
+| 50 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
 | 51 | [pick me up](https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [pick me up](https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr) | 2:46 |
 | 52 | [Carry The World](https://open.spotify.com/track/47aYMkfVuokvbMWL8bxOd1) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Something Beautiful](https://open.spotify.com/album/0NiM7JW25zZ3mhQ8NPNGvF) | 3:26 |
 | 53 | [Zodiac](https://open.spotify.com/track/5IsJtIM3On4BNkSujt4A2c) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/12XZSKFp45paJp1t0faWg3) | 3:13 |

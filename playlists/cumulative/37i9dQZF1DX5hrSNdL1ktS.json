@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "BAPE",
+        "url": "https://open.spotify.com/album/4THe82zIaQ9jPSpiT2de0c"
+      },
+      "artists": [
+        {
+          "name": "LYLY!",
+          "url": "https://open.spotify.com/artist/2hbrINwBSsd5qyvoC62yzB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "BAPE",
+      "url": "https://open.spotify.com/track/0IPy9vDKXFDrLrjyb1wyJm"
+    },
+    {
+      "album": {
         "name": "Barby Bellaka",
         "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
       },
@@ -1800,6 +1818,32 @@
       "duration_ms": 162493,
       "name": "Barby Bellaka",
       "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
+    },
+    {
+      "album": {
+        "name": "BAYAM\u00d3N",
+        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Esteban Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "BAYAM\u00d3N",
+      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
     },
     {
       "album": {
@@ -3442,7 +3486,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 136500,
       "name": "Chicago Bullzz",
       "url": "https://open.spotify.com/track/6WgMhjHfTTzJIeODsF7mx8"
@@ -5968,6 +6012,24 @@
       "duration_ms": 190222,
       "name": "EL HIMNO",
       "url": "https://open.spotify.com/track/7eD3zreqJo2Z47KaPwfM4U"
+    },
+    {
+      "album": {
+        "name": "EL M\u00c1S KBRON",
+        "url": "https://open.spotify.com/album/4RXfirEa3b7zXjehcZZTJ5"
+      },
+      "artists": [
+        {
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "EL M\u00c1S KBRON",
+      "url": "https://open.spotify.com/track/6pCEiGZubxYSCUoNAxdVzd"
     },
     {
       "album": {
@@ -9287,6 +9349,32 @@
     },
     {
       "album": {
+        "name": "La Korta",
+        "url": "https://open.spotify.com/album/1dRhO8mUvBtuvAS4JdCzGn"
+      },
+      "artists": [
+        {
+          "name": "Kid Pistola",
+          "url": "https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU"
+        },
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "BabyGrec",
+          "url": "https://open.spotify.com/artist/3qLmnqk0Y5RjGLGsgfmR0C"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "La Korta",
+      "url": "https://open.spotify.com/track/4QWgjtyhHfeaJ6wG90GIEC"
+    },
+    {
+      "album": {
         "name": "La Mano (feat. Tavo Rayo)",
         "url": "https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR"
       },
@@ -9994,7 +10082,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 120107,
       "name": "Las Jordan",
       "url": "https://open.spotify.com/track/0QlmzYyp0iHIlsDRTSWnQV"
@@ -12092,7 +12180,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 160000,
       "name": "MEJOR QUE AYER",
       "url": "https://open.spotify.com/track/1e4EXzy7nwiJ5KB63sx6Wb"
@@ -12246,7 +12334,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168979,
       "name": "MENORITY",
       "url": "https://open.spotify.com/track/4cT8GNylfjxF5Cyqxkiums"
@@ -12629,6 +12717,28 @@
     },
     {
       "album": {
+        "name": "MONCLER",
+        "url": "https://open.spotify.com/album/5rgrUZEU4N6YvKlCR2ni4i"
+      },
+      "artists": [
+        {
+          "name": "BLONDI",
+          "url": "https://open.spotify.com/artist/64GIAsb5lyLCJlF5oouIMc"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "MONCLER",
+      "url": "https://open.spotify.com/track/3DDqP01mqugtAmzPTLaPkq"
+    },
+    {
+      "album": {
         "name": "Monear",
         "url": "https://open.spotify.com/album/7y2DPJLJyjD7GtifrndcKs"
       },
@@ -12850,7 +12960,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 130909,
       "name": "MTY",
       "url": "https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6"
@@ -13593,6 +13703,24 @@
     },
     {
       "album": {
+        "name": "No hay nah",
+        "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "No hay nah",
+      "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
+    },
+    {
+      "album": {
         "name": "No la Pienso Buscar",
         "url": "https://open.spotify.com/album/6By5eKZUc9RUAVeKKa0fY3"
       },
@@ -13982,7 +14110,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 175200,
       "name": "Nostalgia .0003 Me Llam\u00f3",
       "url": "https://open.spotify.com/track/2Q5bLo3tPq6krEDCNyLUR6"
@@ -14400,7 +14528,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 139744,
       "name": "Pa faltosear",
       "url": "https://open.spotify.com/track/7ABi9gqayQeCH09RY7fmhY"
@@ -14548,6 +14676,32 @@
       "duration_ms": 169629,
       "name": "Pa Tanto",
       "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
+    },
+    {
+      "album": {
+        "name": "Pa' Chingar",
+        "url": "https://open.spotify.com/album/1in2AISoGcaQC8uV395CvP"
+      },
+      "artists": [
+        {
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141374,
+      "name": "Pa' Chingar",
+      "url": "https://open.spotify.com/track/1ppA4PVgZP8Btlsdj1sMhE"
     },
     {
       "album": {
@@ -17368,7 +17522,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 122397,
       "name": "REGGAETONIcA",
       "url": "https://open.spotify.com/track/4pjAe97HAyP7vn1X5kDHY5"
@@ -17666,6 +17820,24 @@
       "duration_ms": 211837,
       "name": "Rodillas",
       "url": "https://open.spotify.com/track/3V0dDAgNdQod4YwoqrPMZP"
+    },
+    {
+      "album": {
+        "name": "ROMANCE 101",
+        "url": "https://open.spotify.com/album/4S2gImaDXGuIUwM0qmV0UA"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190824,
+      "name": "ROMANCE 101",
+      "url": "https://open.spotify.com/track/7iYviVnl86yun8TiKcc55a"
     },
     {
       "album": {
@@ -18934,6 +19106,28 @@
       "duration_ms": 184850,
       "name": "Slow Low (Remix) [feat. Yng Lvcas]",
       "url": "https://open.spotify.com/track/5menFq7EblXYAscansW5hY"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/1R9bScq7ygXuJDEbBvBaBv"
+      },
+      "artists": [
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        },
+        {
+          "name": "Moodjaas",
+          "url": "https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147453,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/185XLbN4M3fs4FrKSXCqHV"
     },
     {
       "album": {
@@ -21006,7 +21200,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 123789,
       "name": "Tumpa Tumpa (feat. Alu Mix)",
       "url": "https://open.spotify.com/track/7gmxE0kbyG9QZJIBtFarIi"

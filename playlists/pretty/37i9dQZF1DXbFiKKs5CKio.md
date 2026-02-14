@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,418 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,427 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 20 | [Mentiras](https://open.spotify.com/track/5dEzVhAhEImxZeTNxHK6GS) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Mentiras](https://open.spotify.com/album/6TlsCm8yHABXEM8NcYghVF) | 3:35 |
 | 21 | [me chama de sua](https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [BRUNÊ](https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf), [DeVito Cxrleone](https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k) | [Love Songs, Vol\. I](https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON) | 2:19 |
 | 22 | [Tenha Calma](https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:41 |
-| 23 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 |
+| 23 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
 | 24 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
-| 25 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
+| 25 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 |
 | 26 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
 | 27 | [When You Smile](https://open.spotify.com/track/6zbLnvuLbHSyf46wTyl7DP) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [When You Smile](https://open.spotify.com/album/7fpbLbzIxYTHAGLSxFGMka) | 2:20 |
-| 28 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
-| 29 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
+| 28 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
+| 29 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
 | 30 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 |
 | 31 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
 | 32 | [Mais Prazer](https://open.spotify.com/track/35Lw74EetsAZzUFpi9Wa3P) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Mais Prazer](https://open.spotify.com/album/7s7ygL3e8FaDH7A1z4vB90) | 2:39 |
-| 33 | [Divã](https://open.spotify.com/track/0I9prX3TerZiLc7a539eJG) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Relíquia](https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB) | 3:29 |
-| 34 | [Wasabi](https://open.spotify.com/track/1UkGJzED0op1iGczcnHB3i) | [2DE1](https://open.spotify.com/artist/4wBcHIPRXjBeZPWLKekdfo) | [Wasabi](https://open.spotify.com/album/3zoxHI9tM3WytQC2ShnNGI) | 4:05 |
+| 33 | [Wasabi](https://open.spotify.com/track/1UkGJzED0op1iGczcnHB3i) | [2DE1](https://open.spotify.com/artist/4wBcHIPRXjBeZPWLKekdfo) | [Wasabi](https://open.spotify.com/album/3zoxHI9tM3WytQC2ShnNGI) | 4:05 |
+| 34 | [Divã](https://open.spotify.com/track/0I9prX3TerZiLc7a539eJG) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Relíquia](https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB) | 3:29 |
 | 35 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
 | 36 | [amor não é suficiente](https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [amor não é suficiente](https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF) | 2:40 |
 | 37 | [Você Merece](https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:04 |

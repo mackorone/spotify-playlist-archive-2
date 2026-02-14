@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,121 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,205 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 30 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 31 | [Good Hearted Woman](https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Good Hearted Woman](https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv) | 3:03 |
 | 32 | [Outlaw State Of Mind](https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 5:35 |
-| 33 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
-| 34 | [Ghosts Of Mississippi](https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Reckless](https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z) | 6:14 |
-| 35 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
+| 33 | [Ghosts Of Mississippi](https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Reckless](https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z) | 6:14 |
+| 34 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
+| 35 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
 | 36 | [Life Ain't Fair and the World Is Mean](https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [High Top Mountain](https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf) | 2:06 |
 | 37 | [I'm a Ramblin' Man](https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Ramblin' Man](https://open.spotify.com/album/353z5yWoQlug84akazanpg) | 2:50 |
 | 38 | [I Could Drive You Crazy](https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers](https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz) | 3:36 |
 | 39 | [High Cost Of Living](https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 5:45 |
-| 40 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
-| 41 | [Country State Of Mind](https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Montana Café](https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf) | 3:57 |
+| 40 | [Country State Of Mind](https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Montana Café](https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf) | 3:57 |
+| 41 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
 | 42 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 |
 | 43 | [Long Haired Country Boy](https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 4:00 |
 | 44 | [The Road Goes On Forever](https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa) | [The Road Goes On Forever](https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l) | 4:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 79 | [Shooting Star](https://open.spotify.com/track/6XHJItDN9BGgMmaAAdvMZ9) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Shooting Star](https://open.spotify.com/album/06MnI6bTrVI0i1RLntTass) | 4:43 |
 | 80 | [16th Avenue](https://open.spotify.com/track/7tvoGy9Ou4Oe0Lu3Mv0WVX) | [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Blue Eyed Blues](https://open.spotify.com/album/3EMQs9gBntlWvOcnODjINi) | 3:09 |
 
-Snapshot ID: `AAAAAIj6yb6M4TQS2omdsIyAa2i+X7BT`
+Snapshot ID: `AAAAAMAqfz4MaG1x0gp2z7DruvGLtnxT`

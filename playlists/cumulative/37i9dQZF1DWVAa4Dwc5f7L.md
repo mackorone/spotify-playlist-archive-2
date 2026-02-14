@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo
 
-232 songs - 15 hr 30 min
+233 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [La Quiero a Morir](https://open.spotify.com/track/4Tzq5jGBM5BN7eAkz64BCQ) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Hijos Del Rey](https://open.spotify.com/album/4vKfz0fbETcKfrZRhhczHS) | 5:06 | 2022-01-20 | 2022-10-15 |
 | [La Quiero a Morir](https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Hijos Del Rey](https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal) | 5:06 | 2022-09-09 | 2024-04-19 |
 | [La Reunión 5 : La Bailadora / El Amor Más Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / Tú Eres Ajena / Borracha \- En Vivo](https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol) | [La Reunión](https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [La Reunión 5 : La Bailadora / El Amor Más Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / Tú Eres Ajena / Borracha \(En Vivo\)](https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR) | 15:47 | 2023-10-13 |  |
-| [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 | 2022-01-20 |  |
+| [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 | 2022-01-20 | 2026-02-14 |
 | [La Tanga](https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:26 | 2022-01-20 | 2022-10-26 |
 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 | 2022-09-09 | 2024-04-19 |
 | [La Temperatura \(feat\. Eli Palacios\)](https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Eli Palacios](https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:44 | 2022-01-20 |  |
@@ -160,6 +160,7 @@
 | [Mucho Flow](https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Mucho Flow](https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV) | 2:56 | 2023-08-04 | 2024-06-29 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2023-03-10 |  |
 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 | 2022-01-20 |  |
+| [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 | 2026-02-13 |  |
 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 | 2022-01-20 |  |
 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 | 2022-01-20 |  |
 | [No Es Normal](https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [No Es Normal](https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163) | 3:01 | 2023-09-01 | 2025-07-29 |

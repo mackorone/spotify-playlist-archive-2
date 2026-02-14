@@ -764,7 +764,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 153142,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
@@ -2199,6 +2199,28 @@
     },
     {
       "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+    },
+    {
+      "album": {
         "name": "MOOD RING",
         "url": "https://open.spotify.com/album/0gSBpcyID5faN64X9wDveP"
       },
@@ -2927,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "album": {
         "name": "i know i'm a hopeless romantic",
         "url": "https://open.spotify.com/album/1s5ZRP7NnLkzGAIAyrwAxx"
       },
@@ -3104,7 +3144,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
@@ -3162,7 +3202,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
@@ -5014,7 +5054,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 195693,
       "name": "Remember us",
       "url": "https://open.spotify.com/track/68cWBpjuYI3QGzVbD1PCP5"
@@ -5614,6 +5654,24 @@
       "duration_ms": 274179,
       "name": "So Good",
       "url": "https://open.spotify.com/track/5O0wmooPtCi3E9F1O8J7KR"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2IPAFLfHHc6v3hwvQs9r5H"
+      },
+      "artists": [
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203030,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/3qkjIhQFkrefAkYcxMRzty"
     },
     {
       "album": {
@@ -6217,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "Sweetest Lullabye",
+        "url": "https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255237,
+      "name": "Sweetest Lullabye",
+      "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
+    },
+    {
+      "album": {
         "name": "Groove Theory",
         "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
       },
@@ -6434,6 +6510,24 @@
       "duration_ms": 240721,
       "name": "Think About You - Acoustic",
       "url": "https://open.spotify.com/track/6e0n5SzuhpqqVLcHSvt7kZ"
+    },
+    {
+      "album": {
+        "name": "Thinkin Bout You",
+        "url": "https://open.spotify.com/album/2fsXOXjqbWThZEfTLJL3xH"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH"
     },
     {
       "album": {
@@ -7178,7 +7272,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 483946,
       "name": "Y\u00e8k\u00e8rmo S\u00e8w",
       "url": "https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz"

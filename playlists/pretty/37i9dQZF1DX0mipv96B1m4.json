@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1621,
+  "num_followers": 1620,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Bakuwe",
+        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
+      },
+      "artists": [
+        {
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Bakuwe",
+      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Very Wellooo",
         "url": "https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 218823,
       "name": "Edoboozi Lyo",
       "url": "https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bakuwe",
-        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
-      },
-      "artists": [
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bakuwe",
-      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
       "added_at": "2024-03-01 12:07:08",

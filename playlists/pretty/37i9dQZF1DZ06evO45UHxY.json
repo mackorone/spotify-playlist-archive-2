@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2829,
+  "num_followers": 2831,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACNzwJG0gbk1zd4nCHVHjo5",
+  "snapshot_id": "aY0YAAAAAAAD6BSARGohW1dwypg90W/h",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Banda",
-        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "La p\u00e1lida luz",
-      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
         "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 140173,
       "name": "La chica del tec",
       "url": "https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Top Banda",
+        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "La p\u00e1lida luz",
+      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropicalandia",
-        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+        "name": "Lo Mejor de Lo Mejor Desde Durango",
+        "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Me Vas a Querer",
-      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
+      "duration_ms": 252866,
+      "name": "Si la Ves",
+      "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Bandas",
-        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
+        "name": "Tropicalandia",
+        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
       },
       "artists": [
         {
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 171720,
-      "name": "Zapatos viejos",
-      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor de Lo Mejor Desde Durango",
-        "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Si la Ves",
-      "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
+      "duration_ms": 220293,
+      "name": "Me Vas a Querer",
+      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 177600,
       "name": "Cumbiando Con Zeta",
       "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes Bandas",
+        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Zapatos viejos",
+      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
     },
     {
       "added_at": null,

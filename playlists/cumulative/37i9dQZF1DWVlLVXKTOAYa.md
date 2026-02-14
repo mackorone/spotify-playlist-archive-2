@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,262 songs - 2 day 17 hr 30 min
+1,263 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-23 | 2024-12-06 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-28 | 2024-12-06 |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-05-11 | 2023-08-24 |
-| [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-24 |  |
+| [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-24 | 2026-02-14 |
 | [999 \(with Camilo\)](https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [999 \(with Camilo\)](https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu) | 3:44 | 2022-03-24 | 2022-04-19 |
 | [@ my worst](https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [@ my worst](https://open.spotify.com/album/6nai5PN6n6imja0Bg8n3OW) | 3:11 | 2022-03-24 | 2022-04-12 |
 | [A good childhood](https://open.spotify.com/track/3wnYIZF58S7PSiGkUY52nI) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [A good childhood](https://open.spotify.com/album/16herEzIppMwsUnkBCe2v5) | 3:27 | 2022-03-24 | 2022-04-18 |
@@ -311,6 +311,7 @@
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-20 | 2025-07-08 |
 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2022-03-24 | 2022-04-19 |
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2022-01-06 | 2023-01-16 |
+| [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 | 2026-02-12 |  |
 | [Doppelgänger](https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Doppelgänger](https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc) | 3:14 | 2022-03-24 | 2022-06-03 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-20 | 2024-05-24 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-07-07 | 2024-04-19 |

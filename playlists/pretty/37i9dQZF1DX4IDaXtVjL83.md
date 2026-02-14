@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Tame Impala, JENNIE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,661 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,690 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 3 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 |
 | 4 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 |
 | 5 | [TOO BAD – Alan Walker Remix](https://open.spotify.com/track/2LmTUhUiqhlO0Vvo8GRUFm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [TOO BAD – Alan Walker Remix](https://open.spotify.com/album/33Deh5WKm6L73g7I3wqsG3) | 2:28 |
-| 6 | [Lullaby Remix \(with Paradise, Jay Park & LOUIS of LNGSHOT\)](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix \(with Paradise, Jay Park & LOUIS of LNGSHOT\)](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 |
+| 6 | [Lullaby Remix](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 |
 | 7 | [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 |
 | 8 | [i’m like that \(feat\. Loco\)](https://open.spotify.com/track/2pxKB19fIuNoP7l3YuWZCh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [i’m like that \(feat\. Loco\)](https://open.spotify.com/album/5LzADECg642S1CvXPymtQ0) | 2:15 |
 | 9 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |

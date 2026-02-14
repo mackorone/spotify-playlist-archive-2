@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: ZAYN",
+  "description": "Recent hits and new songs from your fave artists. Cover: Myles Smith & Niall Horan",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -552,6 +552,24 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
     },
     {
       "album": {
@@ -3105,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "Be Her",
+        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217240,
+      "name": "Be Her",
+      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
+      "album": {
         "name": "Be Kind",
         "url": "https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r"
       },
@@ -5545,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/6SCV1DAF0OhDKfJtaLxkEU"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167884,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o"
+    },
+    {
+      "album": {
         "name": "The Click (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1NZBzIrSV5yca91Su4i1MC"
       },
@@ -6526,7 +6580,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 184133,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
@@ -7142,6 +7196,24 @@
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
+    },
+    {
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196451,
+      "name": "City",
+      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
     },
     {
       "album": {
@@ -9008,7 +9080,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176797,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB"
@@ -9601,6 +9673,24 @@
     },
     {
       "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
+    },
+    {
+      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
       },
@@ -9976,7 +10066,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 177727,
       "name": "Don't Include Me (American Dream)",
       "url": "https://open.spotify.com/track/17PfJpgoah18r7kKl0T8gF"
@@ -13173,6 +13263,28 @@
     },
     {
       "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+    },
+    {
+      "album": {
         "name": "From Austin",
         "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
       },
@@ -13358,7 +13470,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 170313,
       "name": "Games",
       "url": "https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw"
@@ -13416,6 +13528,24 @@
       "duration_ms": 160160,
       "name": "Get By",
       "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
+    },
+    {
+      "album": {
+        "name": "Get In Girl",
+        "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
     },
     {
       "album": {
@@ -14264,7 +14394,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 169182,
       "name": "GOOD COMPANY",
       "url": "https://open.spotify.com/track/3NHO9t2CwRNUmfoetjtnHO"
@@ -22782,7 +22912,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 179692,
       "name": "LIGHTKEEPER",
       "url": "https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs"
@@ -24670,7 +24800,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"

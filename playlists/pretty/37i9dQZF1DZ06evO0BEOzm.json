@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 305972,
+  "num_followers": 306013,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAcTl+MD8BasNRSkD0TKfaz",
+  "snapshot_id": "aY0YAAAAAADP5iTf9JkdnEkqpNZxg2Ii",
   "tracks": [
     {
       "added_at": null,
@@ -116,7 +116,7 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 139192,
+      "duration_ms": 139193,
       "name": "Roc Steady (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/4jCKLCyhHjrzz6be6NDhrd"
     },
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 154433,
-      "name": "Ungrateful (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 154433,
+      "name": "Ungrateful (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 172221,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
     },
     {
       "added_at": null,

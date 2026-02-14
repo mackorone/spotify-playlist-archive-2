@@ -1,6 +1,6 @@
 {
   "description": "Unwind in time to these 70s classics.",
-  "num_followers": 300145,
+  "num_followers": 300153,
   "original_name": "Unwind 70s",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 199573,
       "name": "Sister Golden Hair",
       "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 211708,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
+      "duration_ms": 211708,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
     },
     {
       "added_at": "2024-08-05 06:44:38",

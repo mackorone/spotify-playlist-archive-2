@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 86343,
+  "num_followers": 86354,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADYVbg0m5FQ/6iHdvTYreDk",
+  "snapshot_id": "aY0YAAAAAACQADMgIIMIReJC+L529UTE",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 352013,
-      "name": "Into the Mouth of Hell We March",
-      "url": "https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ"
+      "duration_ms": 409693,
+      "name": "Torn Between Scylla and Charybdis",
+      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 409693,
-      "name": "Torn Between Scylla and Charybdis",
-      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
+      "duration_ms": 352013,
+      "name": "Into the Mouth of Hell We March",
+      "url": "https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ"
     },
     {
       "added_at": null,

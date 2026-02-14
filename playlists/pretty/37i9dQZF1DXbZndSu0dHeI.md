@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,309 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,306 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 65 | [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 |
 | 66 | [I can do what I want](https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [I can do what I want](https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7) | 3:00 |
 | 67 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
-| 68 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 69 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
+| 68 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
+| 69 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 70 | [For the Cold Country](https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the Cold Country](https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY) | 6:27 |
 | 71 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 | 72 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
 | 73 | [Where Sky Becomes Sea](https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Where Sky Becomes Sea](https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD) | 5:17 |
-| 74 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
-| 75 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 |
-| 76 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
+| 74 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
+| 75 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
+| 76 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 |
 | 77 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
 | 78 | [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 |
 | 79 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
@@ -100,11 +100,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 90 | [Try](https://open.spotify.com/track/1E2pCJo8kbB2og7YYiJMWx) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 2:59 |
 | 91 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 |
 | 92 | [Nazareth](https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nazareth](https://open.spotify.com/album/0dGHtn2QNcrxne6aIAm3Lj) | 4:10 |
-| 93 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |
-| 94 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
+| 93 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
+| 94 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |
 | 95 | [I Can See Clearly Now](https://open.spotify.com/track/12RfMGt8MdXrilOJNAhe6r) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [I Can See Clearly Now](https://open.spotify.com/album/7ijWsMC7YkQm4HiXwt9Epe) | 3:11 |
-| 96 | [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 |
-| 97 | [Honey](https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack A](https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH) | 3:44 |
+| 96 | [Honey](https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack A](https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH) | 3:44 |
+| 97 | [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 |
 | 98 | [Smile For The Camera](https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne) | 3:12 |
 | 99 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 |
 | 100 | [Gracie](https://open.spotify.com/track/0FAZwSMwU1rJIkalvkLBfT) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Gracie](https://open.spotify.com/album/6JHyo5Yy3rAr1SCpBfI9SR) | 3:19 |

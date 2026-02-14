@@ -2,9 +2,9 @@
 
 ### [Gospel Classics](https://open.spotify.com/playlist/37i9dQZF1DXcuQS7VQhd6f)
 
-> All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Tamela Mann
+> All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P\. Kee
 
-163 songs - 15 hr 28 min
+164 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [I Know I've Been Changed](https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 4:36 | 2024-12-02 |  |
 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 | 2024-12-02 |  |
 | [I Like Me \(feat\. Da' T.R.U.T.H.\)](https://open.spotify.com/track/31PJEni32PQEUGY1UE0QM2) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [The Fight Of My Life](https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW) | 3:05 | 2024-12-02 | 2025-09-15 |
+| [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/2mccRVO7fG5HpOlfCrIjYr) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2vW8HKWfqwM0Vin3CuGJor) | 4:58 | 2026-02-13 |  |
 | [I Need You \(Live\)](https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [I Need You \(Live\)](https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8) | 5:23 | 2025-09-14 |  |
 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 | 2024-12-02 |  |
 | [I Need You To Survive](https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 7:31 | 2024-12-02 |  |
@@ -137,7 +138,7 @@
 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 | 2024-12-02 |  |
 | [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 | 2024-12-02 |  |
 | [The Battle Is the Lord's](https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Save The World](https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH) | 4:24 | 2024-12-02 |  |
-| [The Battle Is the Lord's](https://open.spotify.com/track/3Xg7RAV68Y0l8xyqQsuKJe) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [The Essential Yolanda Adams](https://open.spotify.com/album/4sOJp2pBThvDJWECcO82wr) | 6:27 | 2024-12-02 |  |
+| [The Battle Is the Lord's](https://open.spotify.com/track/3Xg7RAV68Y0l8xyqQsuKJe) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [The Essential Yolanda Adams](https://open.spotify.com/album/4sOJp2pBThvDJWECcO82wr) | 6:27 | 2024-12-02 | 2026-02-14 |
 | [The Best In Me](https://open.spotify.com/track/1B5NWdLAt8GC4WKTPUCrLM) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Here I Am](https://open.spotify.com/album/2IIxW2mUKDpa3X6YC0NPlf) | 8:34 | 2024-12-02 |  |
 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Gaither Homecoming Classics Vol.1](https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT) | 1:58 | 2024-12-02 |  |
 | [The Presence of the Lord Is Here](https://open.spotify.com/track/3xbCCfFXSpbEIZ9b5Cp5IM) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Byron Cage](https://open.spotify.com/album/5uGy0JXyjCNMvu23my8l4f) | 7:02 | 2024-12-02 |  |

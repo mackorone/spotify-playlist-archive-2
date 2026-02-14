@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,992 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,995 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 57 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 58 | [Bitch Please II](https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Marshall Mathers LP](https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ) | 4:48 |
 | 59 | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU) | 2:39 |
-| 60 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 |
-| 61 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 |
+| 60 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 |
+| 61 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 |
 | 62 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 |
 | 63 | [Diamonds](https://open.spotify.com/track/16XAN9gpC9SRqurufHuOtG) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Diamonds](https://open.spotify.com/album/3eXcGyDMSAQVmguugUuaqV) | 2:24 |
 | 64 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 |

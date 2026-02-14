@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
+  "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
   "name": "Grass Roots",
   "tracks": [
     {
@@ -6542,7 +6542,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213360,
       "name": "Let It Fall",
       "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
@@ -9087,6 +9087,28 @@
     },
     {
       "album": {
+        "name": "Reverend (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/2lMtrArg7d3Oed4h6j35WQ"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347050,
+      "name": "Reverend (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/0XxrvPXoMCePCYr0icUdJk"
+    },
+    {
+      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
       },
@@ -9382,7 +9404,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 261333,
       "name": "Runnin' from the Weather",
       "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
@@ -10653,6 +10675,24 @@
     },
     {
       "album": {
+        "name": "River Rat",
+        "url": "https://open.spotify.com/album/6AIye9W5mOCZgsbfk6c440"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/7qAIHFtOLHXMsVH3RJA0Ug"
+    },
+    {
+      "album": {
         "name": "Way Back When",
         "url": "https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL"
       },
@@ -11622,7 +11662,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 237529,
       "name": "Toe The Line",
       "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
@@ -11912,6 +11952,24 @@
       "duration_ms": 272509,
       "name": "Until Im Grey",
       "url": "https://open.spotify.com/track/31wdXEGbC6aPycv8pid4BW"
+    },
+    {
+      "album": {
+        "name": "Up from the Bottom",
+        "url": "https://open.spotify.com/album/2gwK6AWvVnJVji8CC3ceJV"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213680,
+      "name": "Up from the Bottom",
+      "url": "https://open.spotify.com/track/7gafoLtMMgxssDyy1hOibC"
     },
     {
       "album": {

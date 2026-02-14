@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: Noni
 
-1,526 songs - 3 day 9 hr 34 min
+1,530 songs - 3 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 | 2023-09-07 | 2023-10-14 |
 | [Dead \(feat\. Young Cocoa\)](https://open.spotify.com/track/62z9xqVNOKn3yc7K3wbmxa) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Young Cocoa](https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 4:13 | 2022-07-07 | 2022-08-05 |
 | [Deep](https://open.spotify.com/track/5qAIWH5sCgT8arRXfO5WqM) | [Fakhri Violin](https://open.spotify.com/artist/1isDv1b52s3AQkEfeGNnk2), [Lisa Walean](https://open.spotify.com/artist/0BB2kAKsMFfErGppY0jCQK), [AZRIELJOE](https://open.spotify.com/artist/2VTsfPxcqLs5rRkYDMzj2b) | [Deep](https://open.spotify.com/album/6bZqBLB6UMXVNWmIsIyVrG) | 3:17 | 2025-02-20 | 2025-05-02 |
+| [deep](https://open.spotify.com/track/60qBMrnq0QgV2PD378i4Oy) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [deep](https://open.spotify.com/album/0C7ns8jOxZ5oGbfvCd2Mbg) | 2:16 | 2026-02-12 |  |
 | [Deep Inside](https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN) | [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v) | [Deep Inside](https://open.spotify.com/album/69LdwRkc49IXEghOXTaZmO) | 2:43 | 2025-02-20 | 2025-05-16 |
 | [DEJA VU](https://open.spotify.com/track/5hKUDU4pAJ0r5q1EKHUtOQ) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [DEJA VU](https://open.spotify.com/album/5vXqBD6mMYZPQmYgWYs9P9) | 2:20 | 2025-05-15 | 2025-09-05 |
 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 | 2025-10-16 | 2026-01-30 |
@@ -1264,6 +1265,7 @@
 | [swan song](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [the blueprint](https://open.spotify.com/album/6rnEVluW1Z5CFiC3hDVDtV) | 3:25 | 2025-10-23 |  |
 | [Sway](https://open.spotify.com/track/6XJkUNg0IJB014weMpIkcv) | [Jamegolotus](https://open.spotify.com/artist/4WJHHbKaR6ZuhBrenMOj41) | [Sway](https://open.spotify.com/album/3Jge97aDjxTviMZsnhI5J4) | 4:08 | 2026-01-22 |  |
 | [Sway](https://open.spotify.com/track/72jcArK2XacBC3coCyqD53) | [tylo](https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI), [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [Sway](https://open.spotify.com/album/0Em41Gp1puLBGiVXh0BmxZ) | 3:14 | 2024-05-30 | 2024-08-09 |
+| [Sweater](https://open.spotify.com/track/00zym4gip0T3BaJTRYdimU) | [OZO](https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI) | [Sweater](https://open.spotify.com/album/6ucXmTxvLp3pJrEiOJcRfW) | 3:54 | 2026-02-13 |  |
 | [Sweet](https://open.spotify.com/track/7qiPEIyiABDUK2WAez5GC4) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Sweet](https://open.spotify.com/album/3pcG25f5YmhBzQRCi7EuSS) | 3:09 | 2024-08-22 | 2024-08-30 |
 | [Sweet](https://open.spotify.com/track/5FAUwmHyCfhB04I4hhc7DV) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Sweet](https://open.spotify.com/album/4rjYcvl3RNOvcEXGWkmZGX) | 3:04 | 2023-02-23 | 2023-03-18 |
 | [sweet like caramel](https://open.spotify.com/track/5IEHGuhBC2KcZd8QowluO7) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [CIRCLE](https://open.spotify.com/artist/0B1FeMwGdjW4lhKaIGtpge) | [sweet like caramel](https://open.spotify.com/album/37FTe20tDYCnrSoLyOaX4l) | 3:18 | 2026-02-12 |  |
@@ -1508,6 +1510,8 @@
 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 | 2024-10-24 | 2024-12-05 |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-09-22 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-09-30 | 2022-10-08 |
+| [YOU](https://open.spotify.com/track/5UZdQdSdJ5l7xRSiKW24so) | [Elly C](https://open.spotify.com/artist/70BawCx2NZDdvo6BIv9Uda) | [YOU](https://open.spotify.com/album/6SZSArjw7j3ktFtKhH0sbs) | 4:09 | 2026-02-12 |  |
+| [you](https://open.spotify.com/track/4JxpLXRB3oa1pSDBJ8pVF9) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [you](https://open.spotify.com/album/2UKoS0WE1NdjriJlOjRSPq) | 2:50 | 2026-02-12 |  |
 | [YOU](https://open.spotify.com/track/1Y3yYZKCbk9G6CiBxJ3BLT) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [YOU](https://open.spotify.com/album/7rixXHKYaXdEkeS9EIGzAu) | 2:20 | 2023-07-13 | 2023-08-04 |
 | [You don't know a thing](https://open.spotify.com/track/2Q2So6LX922NtBZ4VdhXlS) | [Ardawan](https://open.spotify.com/artist/0yN1YoVjyMgjRwJFwGUVno) | [You don't know a thing](https://open.spotify.com/album/2ERiYCLPPxsrj8uzQVvrfU) | 3:56 | 2023-08-31 | 2023-10-06 |
 | [You Don't Know Me](https://open.spotify.com/track/6zX2iF3aZC26DEtISIcmwh) | [Almira Zaky](https://open.spotify.com/artist/62aXcFkYSHe0Kai0CImGyy) | [You Don't Know Me](https://open.spotify.com/album/5GPeTPlGNbf3CcHdg7PAoU) | 2:28 | 2023-02-23 | 2023-03-18 |

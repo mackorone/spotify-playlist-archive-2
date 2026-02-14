@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,289 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,774 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 27 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 28 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/3RMr94P81nO3GtW9MfqNp5) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:45 |
 | 29 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
-| 30 | [Wrong Places](https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:57 |
+| 30 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
 | 31 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 |
-| 32 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
+| 32 | [Wrong Places](https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:57 |
 | 33 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
 | 34 | [Red Flags](https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:55 |
 | 35 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 38 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 39 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 |
 | 40 | [Need You](https://open.spotify.com/track/1rgK0UrJNwkaIptPI0a5kg) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 3:41 |
-| 41 | [Calculate II \- II](https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Calculate II](https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK) | 3:00 |
-| 42 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 41 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 42 | [Calculate II \- II](https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Calculate II](https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK) | 3:00 |
 | 43 | [KU LO SA](https://open.spotify.com/track/6NYaKDhK6xOuylauWDuLrP) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:28 |
 | 44 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
 | 45 | [Seasons](https://open.spotify.com/track/5Dsuz6UsZyoWM3HOaRgQeC) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 |

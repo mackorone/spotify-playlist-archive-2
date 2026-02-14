@@ -8991,6 +8991,24 @@
     },
     {
       "album": {
+        "name": "Love Me Endlessly",
+        "url": "https://open.spotify.com/album/6qnempinCv6qCSselntiJC"
+      },
+      "artists": [
+        {
+          "name": "Rose Oye",
+          "url": "https://open.spotify.com/artist/2WZF7q1UIV9ERGtEoUrhyr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173385,
+      "name": "Love Me Endlessly",
+      "url": "https://open.spotify.com/track/5gJ2EAd37L67lCLwMxHP6x"
+    },
+    {
+      "album": {
         "name": "Love You",
         "url": "https://open.spotify.com/album/3i95WwwIswh0rz7tjH7SX3"
       },
@@ -14809,6 +14827,24 @@
     },
     {
       "album": {
+        "name": "Sound From The South",
+        "url": "https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185262,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4QrcCtSGa3xaR1DpVfV2jB"
+    },
+    {
+      "album": {
         "name": "THANK YOU FOR BEING GOD",
         "url": "https://open.spotify.com/album/5DxuuH3I49aT4DoQsfLFqQ"
       },
@@ -15545,42 +15581,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2GKNyDFZWhUb2JCwip2hSH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/4QrcCtSGa3xaR1DpVfV2jB"
-    },
-    {
-      "album": {
         "name": "Trust in you",
         "url": "https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w"
       },
@@ -16088,6 +16088,24 @@
       "duration_ms": 484374,
       "name": "W.O.W (Walking On Water) - Reprise",
       "url": "https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29"
+    },
+    {
+      "album": {
+        "name": "Sound From The South",
+        "url": "https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Wa Gbile Na",
+      "url": "https://open.spotify.com/track/2GKNyDFZWhUb2JCwip2hSH"
     },
     {
       "album": {

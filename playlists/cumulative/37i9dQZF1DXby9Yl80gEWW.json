@@ -3509,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Live Rosin",
+      "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
+    },
+    {
+      "album": {
         "name": "Look Again",
         "url": "https://open.spotify.com/album/5lrfORa8KmOOrSfgDyNGZM"
       },
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 135453,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"

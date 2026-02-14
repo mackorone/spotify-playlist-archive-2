@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 62295,
+  "num_followers": 62311,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACNiqqIkc4eTiJBFXKnd7QI",
+  "snapshot_id": "aY0YAAAAAAAP27in1NVNTkZgO0Hd6ZyZ",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "La T\u00edpica (2.018)",
-      "url": "https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -111,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Remate",
-        "url": "https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5"
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
         }
       ],
-      "duration_ms": 244137,
-      "name": "El Remate",
-      "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
+      "duration_ms": 234000,
+      "name": "Aranjuez",
+      "url": "https://open.spotify.com/track/6p7AcEaN1Dy3Pjo4SJdzMM"
     },
     {
       "added_at": null,
@@ -163,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
       },
       "artists": [
         {
@@ -172,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Aranjuez",
-      "url": "https://open.spotify.com/track/6p7AcEaN1Dy3Pjo4SJdzMM"
+      "duration_ms": 171560,
+      "name": "La T\u00edpica",
+      "url": "https://open.spotify.com/track/6vadvytXA6QudX5WDBpP2f"
     },
     {
       "added_at": null,
@@ -224,13 +204,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Jeronimo",
-          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Medellificaci\u00f3n",
-      "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
+      "duration_ms": 244137,
+      "name": "El Remate",
+      "url": "https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc"
     },
     {
       "added_at": null,
@@ -296,7 +276,7 @@
       "added_at": null,
       "album": {
         "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
       "artists": [
         {
@@ -304,13 +284,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Bajo Tierra",
-          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
+          "name": "Jeronimo",
+          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
         }
       ],
-      "duration_ms": 235000,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
+      "duration_ms": 232000,
+      "name": "Medellificaci\u00f3n",
+      "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
     },
     {
       "added_at": null,
@@ -380,29 +360,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Tito Agudelo",
-          "url": "https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49"
+          "name": "Bajo Tierra",
+          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
         }
       ],
-      "duration_ms": 202771,
-      "name": "Misa de Sanazi\u00f3n",
-      "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 365706,
-      "name": "Otra Canci\u00f3n Larga",
-      "url": "https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV"
+      "duration_ms": 235000,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
     },
     {
       "added_at": null,
@@ -419,6 +383,22 @@
       "duration_ms": 240608,
       "name": "No Est\u00e1 en Venta",
       "url": "https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 365706,
+      "name": "Otra Canci\u00f3n Larga",
+      "url": "https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV"
     },
     {
       "added_at": null,
@@ -446,11 +426,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Tito Agudelo",
+          "url": "https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49"
         }
       ],
-      "duration_ms": 219578,
-      "name": "Round 40",
-      "url": "https://open.spotify.com/track/6qLRoIRGqNoAU7HFyY4vuD"
+      "duration_ms": 202771,
+      "name": "Misa de Sanazi\u00f3n",
+      "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
     },
     {
       "added_at": null,
@@ -560,7 +544,7 @@
       "added_at": null,
       "album": {
         "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
       },
       "artists": [
         {
@@ -569,12 +553,12 @@
         },
         {
           "name": "Rulaz Plazco",
-          "url": "https://open.spotify.com/artist/7AIm5A2YlfUs5qLKcQD6O1"
+          "url": "https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s"
         }
       ],
       "duration_ms": 231413,
       "name": "G\u00e9nero Rural",
-      "url": "https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll"
+      "url": "https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P"
     },
     {
       "added_at": null,

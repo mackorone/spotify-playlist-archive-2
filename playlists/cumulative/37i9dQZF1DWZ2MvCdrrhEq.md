@@ -4,7 +4,7 @@
 
 > did your boots start working?
 
-67 songs - 3 hr 51 min
+69 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-07-19 | 2025-03-29 |
 | [Boots on the Ground](https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp) | [Boots on the Ground](https://open.spotify.com/album/0u6U3JM9VGWgXyz6mESTii) | 3:23 | 2025-04-28 |  |
 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2024-04-02 |  |
+| [Bullet](https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Bullet](https://open.spotify.com/album/6SCV1DAF0OhDKfJtaLxkEU) | 2:47 | 2026-02-13 |  |
 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 | 2024-04-02 |  |
 | [Can't Get Enough](https://open.spotify.com/track/1Ly3sQABkGYruk0s8XF6US) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Between Friends](https://open.spotify.com/album/3fWRZINvsj236ZaWNo6g9J) | 3:49 | 2024-04-02 |  |
 | [Cha Cha Slide](https://open.spotify.com/track/2qYBZY6bR7l52BGhkBSk9O) | [Mr\. C](https://open.spotify.com/artist/4KKEvADkhfVx3BpYJyezZr) | [Mr\. C Presents The Cha\-cha Slide Greatest Hits](https://open.spotify.com/album/4ZyYh0YDaUHwD8fAEcw0dM) | 3:42 | 2024-04-02 |  |
@@ -43,20 +44,21 @@
 | [Hoedown Throwdown](https://open.spotify.com/track/6ntkwU1MhehTKgx4BWxX3f) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:01 | 2024-04-02 |  |
 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 | 2024-04-02 |  |
 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 | 2024-04-02 |  |
-| [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2024-04-02 |  |
+| [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2024-04-02 | 2026-02-14 |
 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/6KryVEgkMGOWZHQLwTbU7E) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/album/7FE1lCQJo6eqLL7dKCyDH0) | 2:46 | 2024-04-02 |  |
 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 | 2024-04-02 |  |
 | [Lasso](https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Lasso](https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc) | 2:09 | 2025-05-30 |  |
 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 | 2024-04-02 |  |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2024-04-02 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-04-02 | 2024-04-27 |
+| [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-02-13 |  |
 | [No Vacancy](https://open.spotify.com/track/1A3ic2z0rbonwSKL7A6dMF) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [No Vacancy](https://open.spotify.com/album/5CbejhKUD9skksKHfdq9GT) | 2:36 | 2025-10-03 |  |
 | [Nutbush City Limits](https://open.spotify.com/track/06yREZ9X92R2e9RJpdzZ2O) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:01 | 2024-04-02 | 2024-04-05 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2024-04-18 | 2024-08-24 |
 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2024-04-02 | 2024-04-19 |
 | [Picture To Burn](https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 2:53 | 2024-04-02 |  |
-| [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-04-26 |  |
-| [RIIVERDANCE](https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:11 | 2024-04-02 |  |
+| [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-04-26 | 2026-02-14 |
+| [RIIVERDANCE](https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:11 | 2024-04-02 | 2026-02-14 |
 | [Ring Finger](https://open.spotify.com/track/2vdTESMRnbbNSe8i8LbZq9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:39 | 2024-08-23 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2024-04-02 |  |
 | [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 | 2024-04-04 |  |

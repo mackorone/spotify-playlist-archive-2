@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,323 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,318 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 6 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |
 | 7 | [Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W) | [Vard.](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Shoreditch](https://open.spotify.com/album/2UI5HpK8lRfHoVFNYqnv3N) | 2:29 |
 | 8 | [Around \- Solomun Vox](https://open.spotify.com/track/1FqCIlKJRNqpuQOAO7HCGd) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/0iUmwPbn9g14HaxZiYzfHJ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Around](https://open.spotify.com/album/2HBNLX7RcLK8Bvte2kFGbJ) | 6:58 |
-| 9 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
-| 10 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 9 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 10 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
 | 11 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
 | 12 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
 | 13 | [Stay With Me](https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Stay With Me](https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R) | 3:47 |

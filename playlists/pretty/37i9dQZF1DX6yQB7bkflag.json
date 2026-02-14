@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Tenxi, Yung Caters, Jemsii",
-  "num_followers": 118133,
+  "num_followers": 118160,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOk0zqq2FDTNimtJBxGVqZe4gz7N",
+  "snapshot_id": "AAAAAN4S2ot5LnWgXKIiNqxre9qt2Vhm",
   "tracks": [
     {
       "added_at": "2026-02-12 17:10:38",
@@ -67,8 +67,8 @@
     {
       "added_at": "2026-02-12 17:10:38",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -135,6 +135,22 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-02-13 07:00:41",
+      "album": {
+        "name": "Berbunga",
+        "url": "https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg"
+      },
+      "artists": [
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "duration_ms": 200553,
+      "name": "Puspa",
+      "url": "https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd"
     },
     {
       "added_at": "2026-02-12 17:10:38",
@@ -411,8 +427,24 @@
     {
       "added_at": "2026-02-12 17:10:38",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
+    },
+    {
+      "added_at": "2026-02-12 17:10:38",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
       },
       "artists": [
         {
@@ -467,8 +499,8 @@
     {
       "added_at": "2026-02-12 17:10:38",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A Love For Strangers",
+        "url": "https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc"
       },
       "artists": [
         {
@@ -517,7 +549,7 @@
         },
         {
           "name": "RYO",
-          "url": "https://open.spotify.com/artist/4Dgyc5PJLTM2GyfZGT2uzF"
+          "url": "https://open.spotify.com/artist/3nfCxDVevITHrnUT4YouD0"
         }
       ],
       "duration_ms": 211363,

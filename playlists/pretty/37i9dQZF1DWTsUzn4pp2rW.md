@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,919 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,977 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 34 | [In Too Deep](https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [The Best of George White Group](https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P) | 4:08 |
 | 35 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 |
 | 36 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 |
-| 37 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:47 |
-| 38 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
+| 37 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
+| 38 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:47 |
 | 39 | [Mother Of Mine](https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD) | [more than neighbours](https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj) | [Mother Of Mine](https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp) | 4:02 |
 | 40 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 |
 | 41 | [I Never Can Say Goodbye](https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [I Never Can Say Goodbye](https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU) | 4:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 44 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
 | 45 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
 | 46 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 |
-| 47 | [Don't Go To Strangers](https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 5:20 |
-| 48 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
+| 47 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
+| 48 | [Don't Go To Strangers](https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 5:20 |
 | 49 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
 | 50 | [Much Rain](https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Much Rain](https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo) | 4:46 |
 | 51 | [Do You Believe](https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Melodic Canvas](https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG) | 3:27 |

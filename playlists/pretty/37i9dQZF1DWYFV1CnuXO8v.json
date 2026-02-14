@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 198435,
+  "num_followers": 198474,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFbrE1tmWTa+Dt2uPdT3oahKrx9",
+  "snapshot_id": "AAAAAOmXRUICSImLMz8AB86409febeS1",
   "tracks": [
     {
       "added_at": "2025-10-14 05:26:51",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Aamel Nasini",
-      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
         "name": "Ekhtart Sah",
         "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 209706,
       "name": "Ya Waheshny",
       "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Aamel Nasini",
+      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
     },
     {
       "added_at": "2025-10-14 05:26:51",

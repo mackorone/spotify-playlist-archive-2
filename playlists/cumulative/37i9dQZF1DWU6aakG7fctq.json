@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Nina del R\u00edo",
+  "description": "Fresh Latin Indie you should know. Cover: Nezzah",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Amor.illo",
+        "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
+      },
+      "artists": [
+        {
+          "name": "Louie El Ser",
+          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
+        },
+        {
+          "name": "Tommie Phoenix",
+          "url": "https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193939,
+      "name": "Amor.illo",
+      "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
+    },
+    {
+      "album": {
         "name": "Amorcito Veranito",
         "url": "https://open.spotify.com/album/7AzgJfovaFC6Hs9DJTagFX"
       },
@@ -1820,7 +1842,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 202800,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
@@ -3326,7 +3348,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 183973,
       "name": "cohete",
       "url": "https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE"
@@ -3991,6 +4013,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00e1nta Raz\u00f3n",
+        "url": "https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185246,
+      "name": "Cu\u00e1nta Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
+    },
+    {
+      "album": {
         "name": "C\u00e1llame",
         "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
@@ -4480,7 +4520,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 174150,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
@@ -4654,7 +4694,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 183528,
       "name": "diferente",
       "url": "https://open.spotify.com/track/4MKLEMi0SRHLKxJE7SlMyc"
@@ -4730,6 +4770,24 @@
       "duration_ms": 188933,
       "name": "Discoman\u00eda",
       "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
+    },
+    {
+      "album": {
+        "name": "Dmentes",
+        "url": "https://open.spotify.com/album/6lMLfxCtMZ81byoSxyKPsu"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Dmentes",
+      "url": "https://open.spotify.com/track/4JCXV1hCrHFV0YiAe6KhV3"
     },
     {
       "album": {
@@ -5574,7 +5632,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 172500,
       "name": "El Verdugo",
       "url": "https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq"
@@ -7468,6 +7526,24 @@
       "duration_ms": 184683,
       "name": "Heart of Glass",
       "url": "https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp"
+    },
+    {
+      "album": {
+        "name": "Helao",
+        "url": "https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Helao",
+      "url": "https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB"
     },
     {
       "album": {
@@ -11019,6 +11095,28 @@
     },
     {
       "album": {
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        },
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182167,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
+    },
+    {
+      "album": {
         "name": "Mente Positiva, Fin de Semana",
         "url": "https://open.spotify.com/album/7s9jARF8VWjmMVSjnzzoFb"
       },
@@ -11944,7 +12042,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 165642,
       "name": "Muy Agradecido",
       "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
@@ -16240,6 +16338,24 @@
       "duration_ms": 188507,
       "name": "Sed",
       "url": "https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z"
+    },
+    {
+      "album": {
+        "name": "Sediento",
+        "url": "https://open.spotify.com/album/2Tr8J0zIHLZHUY20gdkTXf"
+      },
+      "artists": [
+        {
+          "name": "LUAS\u00d3",
+          "url": "https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151867,
+      "name": "Sediento",
+      "url": "https://open.spotify.com/track/5WQTKOfagQ6ZlKaz9czMSZ"
     },
     {
       "album": {

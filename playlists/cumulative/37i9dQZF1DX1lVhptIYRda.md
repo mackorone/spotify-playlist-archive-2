@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Megan Moroney
+> Today's top country hits\. Cover: Ella Langley
 
-960 songs - 2 day 3 hr 56 min
+962 songs - 2 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,8 @@
 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 | 2025-03-28 | 2026-02-07 |
 | [Bartender](https://open.spotify.com/track/0QTBbr4C6yoaGKSFtZt05j) | [Cady Groves](https://open.spotify.com/artist/4uIDwHKFKJQiY8aLttzFUh) | [Bless My Heart](https://open.spotify.com/album/0k7vFx71y0w5r6RGhDMAfG) | 3:29 | 2020-06-21 | 2020-08-15 |
 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 | 2020-04-12 | 2020-09-11 |
+| [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 | 2026-02-13 |  |
+| [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 | 2026-02-13 |  |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2020-08-01 | 2020-11-22 |
 | [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 | 2024-05-31 | 2024-11-23 |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2019-05-26\* | 2019-06-15 |
@@ -297,7 +299,7 @@
 | [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 | 2023-01-27 | 2023-08-05 |
 | [Girl On Fire](https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Girl On Fire](https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM) | 2:53 | 2022-08-26 | 2023-01-14 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/5nra2uQhiaYKKpemgiDNC3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [GIVE HEAVEN SOME HELL](https://open.spotify.com/album/0GAm85q4EIBAVs27M5hh0J) | 3:37 | 2020-09-05 | 2020-11-22 |
-| [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 | 2025-12-12 |  |
+| [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 | 2025-12-12 | 2026-02-14 |
 | [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 | 2023-03-17 | 2023-08-26 |
 | [Giving You Up](https://open.spotify.com/track/6ymvTpjleCEqFFXZBghwKI) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/78JnUpxEE1rPwMn4GO4tXs) | 3:50 | 2019-11-02 | 2020-06-29 |
 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 | 2020-06-21 | 2020-06-29 |
@@ -667,7 +669,7 @@
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-01-21 | 2023-01-06 |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-02-11 | 2022-12-10 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-09-21 |
-| [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-09 |  |
+| [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-09 | 2026-02-14 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-11-03 | 2024-03-16 |
 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 | 2023-09-29 | 2024-02-10 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-21 | 2024-07-27 |

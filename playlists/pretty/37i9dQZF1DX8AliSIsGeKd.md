@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover:
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,428 likes - 90 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,623 likes - 90 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bloom](https://open.spotify.com/track/1VFtOmIeM5zWuHkVegtKc0) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Bloom](https://open.spotify.com/album/2Kv9eMk4X5ndJUXnJ2hdt4) | 3:39 |
 | 2 | [Stay Low](https://open.spotify.com/track/1b4liku6aBKZu91P12rrco) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7) | [Stay Low](https://open.spotify.com/album/5zXbKhngAtpFHylQCI9E8I) | 3:09 |
-| 3 | [House Call](https://open.spotify.com/track/1hhmi4I1FE3Nrm5qYJPfMC) | [Reboot](https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H), [Shokë](https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk) | [](https://open.spotify.com/album/null) | 3:36 |
+| 3 | [House Call](https://open.spotify.com/track/1hhmi4I1FE3Nrm5qYJPfMC) | [Reboot](https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H), [Shokë](https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk) | [House Call EP](https://open.spotify.com/album/7mbRuqG10QswjNkLEqrE6o) | 3:36 |
 | 4 | [Good Girl](https://open.spotify.com/track/1OhIvBBCNnTDx01ugLqscr) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Good Girl](https://open.spotify.com/album/1etZbO7J4Zwgkp6HdGztla) | 5:25 |
 | 5 | [Vicious Chords](https://open.spotify.com/track/0P2hbnluQ22QPuWLWZLvho) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Vicious Chords](https://open.spotify.com/album/6NSpFpsmUvEMyQI3os9nJ6) | 2:45 |
 | 6 | [DNA](https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [DNA](https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO) | 3:16 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 23 | [All I Want](https://open.spotify.com/track/3fHvJHBjrQqWlk2sn3lMCp) | [VEENMOL](https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa) | [All I Want](https://open.spotify.com/album/4lTpI1Uv249yIAIs7FQro8) | 4:05 |
 | 24 | [Anything for You](https://open.spotify.com/track/5Kx79TrJK82FPt3V6jnTQp) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Apropos](https://open.spotify.com/artist/0t18cCTMIMvAOB5CzykNuF) | [Anything for You](https://open.spotify.com/album/4ahngxYE1UGDi6mgcGaHGZ) | 5:23 |
 | 25 | [Soul of Fire](https://open.spotify.com/track/3sbWnyhh7vo6NG7yt9eGFD) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Roger Lavelle](https://open.spotify.com/artist/3ZHqvLocrTfSbtm9DDJnqT), [YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Soul of Fire](https://open.spotify.com/album/4uEP5Atag4qmlSMxI72qiX) | 3:47 |
-| 26 | [Always You](https://open.spotify.com/track/0P50kdsTzSpFj0l9aWkoUl) | [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P), [Woodes](https://open.spotify.com/artist/3hMcI5TaFecQ9kAtXgNYJ8) | [Protomensch](https://open.spotify.com/album/5RpildYNkocYZRiXt9Lxte) | 3:07 |
+| 26 | [Always You](https://open.spotify.com/track/0P50kdsTzSpFj0l9aWkoUl) | [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Protomensch](https://open.spotify.com/album/5RpildYNkocYZRiXt9Lxte) | 3:07 |
 | 27 | [Pocket Call](https://open.spotify.com/track/17aROgSF4U5S2QbZmdaKKr) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Pocket Call](https://open.spotify.com/album/4fmHMLtckwkWq2TkjazfdO) | 5:03 |
 | 28 | [Getting Lost](https://open.spotify.com/track/5ASKK5XFM4GNSvJD2fMq9C) | [Khainz](https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX) | [Getting Lost](https://open.spotify.com/album/6g2RJ5s2yX3qbVLi6sKWoC) | 3:22 |
 | 29 | [A Prayer for the Dancefloor \(feat\. Conduit\)](https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Conduit](https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy) | [A Prayer for the Dancefloor](https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr) | 6:54 |

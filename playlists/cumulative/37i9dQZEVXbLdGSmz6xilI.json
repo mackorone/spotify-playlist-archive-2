@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 245750,
       "name": "Anh \u0110\u00e3 Kh\u00f4ng Bi\u1ebft C\u00e1ch Y\u00eau Em",
       "url": "https://open.spotify.com/track/1hPbWyZnUPaeAWbOSKwkXJ"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 259764,
       "name": "Ch\u1ea5t G\u00e2y H\u1ea1i",
       "url": "https://open.spotify.com/track/1i5SZL7Ngz0sYFaKmwieyw"
@@ -9334,7 +9334,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/58ZlEBxBrzISXtmcOPo476"
@@ -10632,7 +10632,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 275820,
       "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n",
       "url": "https://open.spotify.com/track/5SzJs9cwYXdSm9G3xcXuA2"
@@ -20958,7 +20958,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -24042,7 +24042,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 172500,
       "name": "Tr\u00e0n B\u1ed9 Nh\u1edb",
       "url": "https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF"
@@ -25716,6 +25716,24 @@
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
       "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"
+    },
+    {
+      "album": {
+        "name": "V\u1ea1n S\u1ef1 Nh\u01b0 \u00dd",
+        "url": "https://open.spotify.com/album/7AVHwm7gJOqqDQsT11bMJb"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00fac Nh\u00e2n",
+          "url": "https://open.spotify.com/artist/1dmaHHd1Xbd85cT1egYb4w"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "V\u1ea1n S\u1ef1 Nh\u01b0 \u00dd",
+      "url": "https://open.spotify.com/track/1HIGvBEkqODXGfmfK3eJgc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 82842,
+  "num_followers": 82879,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-02-10 07:29:04",
       "album": {
-        "name": "Tere Bin Jiya",
-        "url": "https://open.spotify.com/album/4itsjS5C9u50gUufh8Jfre"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        },
-        {
-          "name": "Dr. Deepali Patil",
-          "url": "https://open.spotify.com/artist/5ZCkgKMHxQpCwchRoOhjyO"
-        }
-      ],
-      "duration_ms": 328334,
-      "name": "Tere Bin Jiya",
-      "url": "https://open.spotify.com/track/0LPYAOj31l7iV8gz5tfeQZ"
-    },
-    {
-      "added_at": "2026-02-10 07:29:04",
-      "album": {
         "name": "Nadiya Bairi Bhayi",
         "url": "https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
+    },
+    {
+      "added_at": "2026-02-10 07:29:04",
+      "album": {
+        "name": "Tere Bin Jiya",
+        "url": "https://open.spotify.com/album/4itsjS5C9u50gUufh8Jfre"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Dr. Deepali Patil",
+          "url": "https://open.spotify.com/artist/5ZCkgKMHxQpCwchRoOhjyO"
+        }
+      ],
+      "duration_ms": 328334,
+      "name": "Tere Bin Jiya",
+      "url": "https://open.spotify.com/track/0LPYAOj31l7iV8gz5tfeQZ"
     },
     {
       "added_at": "2026-02-10 07:29:04",
@@ -1095,18 +1095,30 @@
     {
       "added_at": "2026-02-10 07:29:04",
       "album": {
-        "name": "Dil Ke Behlane Ki",
-        "url": "https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl"
+        "name": "Bawla (feat. Khan Brothers) [Maati S1]",
+        "url": "https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh"
       },
       "artists": [
         {
-          "name": "Gayatri Asokan",
-          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "Sushant Divgikar",
+          "url": "https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8"
+        },
+        {
+          "name": "Parth Parekh",
+          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
+        },
+        {
+          "name": "Khan Brothers",
+          "url": "https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4"
         }
       ],
-      "duration_ms": 224874,
-      "name": "Dil Ke Behlane Ki",
-      "url": "https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37"
+      "duration_ms": 180782,
+      "name": "Bawla (feat. Khan Brothers) [Maati S1]",
+      "url": "https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht"
     }
   ],
   "unique_name": "Fusion Finds",

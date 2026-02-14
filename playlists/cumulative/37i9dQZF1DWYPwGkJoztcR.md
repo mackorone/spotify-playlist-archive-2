@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-151 songs - 8 hr 43 min
+152 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Count On Me](https://open.spotify.com/track/37t0GbjVpnXSvl1P4uyNfN) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Count On Me](https://open.spotify.com/album/11TcP4qnRQpaaP1zO6WgL2) | 3:28 | 2025-10-02 | 2025-10-05 |
 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2025-06-27 | 2025-09-04 |
 | [Cruisin’](https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Cruisin’](https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI) | 3:24 | 2025-06-27 |  |
+| [Crystal Tears](https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Crystal Tears](https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE) | 3:42 | 2026-02-06 |  |
 | [Daydreaming](https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [In my cluttered head](https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC) | 3:23 | 2025-06-27 |  |
 | [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 | 2025-11-11 | 2025-11-17 |
 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 | 2025-06-27 |  |
@@ -113,7 +114,7 @@
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2025-06-27 |  |
 | [Open Door](https://open.spotify.com/track/3MqZXacgnNZKXuE8Zz4hL9) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Open Door](https://open.spotify.com/album/75mnCrj4eNWJwRoldLVbpM) | 2:24 | 2025-06-27 | 2025-08-10 |
 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 | 2025-06-27 |  |
-| [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 | 2025-06-27 |  |
+| [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 | 2025-06-27 | 2026-02-14 |
 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 | 2025-06-27 |  |
 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 | 2025-06-27 |  |
 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-06-27 |  |

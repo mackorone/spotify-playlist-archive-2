@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -20156,7 +20156,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221952,
       "name": "\u55ae\u7a0b\u7968",
       "url": "https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC"
@@ -20779,6 +20779,28 @@
     },
     {
       "album": {
+        "name": "\u5a1c\u5a1c",
+        "url": "https://open.spotify.com/album/1OG6vE3sjnBHgYOmJ4Hw9B"
+      },
+      "artists": [
+        {
+          "name": "Teddy Fan",
+          "url": "https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH"
+        },
+        {
+          "name": "\u5e8a\u54e5",
+          "url": "https://open.spotify.com/artist/5tz6K8BYKfiVFB8yQRdGX8"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257695,
+      "name": "\u5a1c\u5a1c",
+      "url": "https://open.spotify.com/track/0ctQdwQS3cYmt2R38rOmTl"
+    },
+    {
+      "album": {
         "name": "\u5b64\u55ae",
         "url": "https://open.spotify.com/album/0Vk2WBEn7dT72mv2s1G9bk"
       },
@@ -21180,7 +21202,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -21458,7 +21480,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 269118,
       "name": "\u61f7\u7591\u4eba\u751f",
       "url": "https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1"
@@ -24780,7 +24802,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 244686,
       "name": "\u7d66\u5343\u5104\u9846\u661f\u9078\u4e2d\u7684\u4e8c\u4eba",
       "url": "https://open.spotify.com/track/3rT8GbzEYNApPxU7yYQlYU"
@@ -25934,7 +25956,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 245664,
       "name": "\u9060\u5728\u773c\u524d",
       "url": "https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc"
@@ -26782,7 +26804,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"

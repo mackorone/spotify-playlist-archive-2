@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,051 songs - 2 day 9 hr 31 min
+1,052 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,7 +732,7 @@
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 | 2024-12-02 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-19 | 2024-12-10 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2023-01-31 | 2023-03-03 |
-| [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 | 2026-01-15 |  |
+| [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 | 2026-01-15 | 2026-02-14 |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 | 2025-09-18 | 2025-10-17 |
 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 | 2023-04-27 | 2023-05-12 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-25 |  |
@@ -862,6 +862,7 @@
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-06-01 | 2023-09-07 |
 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-03 | 2023-09-07 |
 | [XXL](https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X) | 3:26 | 2023-08-03 | 2023-08-05 |
+| [Y si peleamos](https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Y si peleamos](https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY) | 3:12 | 2026-02-12 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 | 2025-09-12 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2023-01-31 | 2023-03-16 |
 | [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-28 | 2023-05-10 |

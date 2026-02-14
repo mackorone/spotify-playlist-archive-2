@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Yovie Widianto, Dinda Ghania ",
-  "num_followers": 145248,
+  "num_followers": 145330,
   "original_name": "Naik Daun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGNjrlWoLksN54Y1yT1Ru90mPaxb",
+  "snapshot_id": "AAAAAB+iBHgO9MiTl79Iw4xTQdPFwLFb",
   "tracks": [
     {
       "added_at": "2026-02-12 17:00:17",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH"
     },
     {
+      "added_at": "2026-02-13 07:01:04",
+      "album": {
+        "name": "Berbunga",
+        "url": "https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg"
+      },
+      "artists": [
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "duration_ms": 200553,
+      "name": "Puspa",
+      "url": "https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd"
+    },
+    {
       "added_at": "2026-02-12 17:00:17",
       "album": {
         "name": "Pulang Pada-Mu",
@@ -207,6 +223,22 @@
     {
       "added_at": "2026-02-12 17:00:17",
       "album": {
+        "name": "Sihir",
+        "url": "https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF"
+      },
+      "artists": [
+        {
+          "name": "Eclat Story",
+          "url": "https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom"
+        }
+      ],
+      "duration_ms": 206842,
+      "name": "Sihir",
+      "url": "https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd"
+    },
+    {
+      "added_at": "2026-02-12 17:00:17",
+      "album": {
         "name": "17 To 70",
         "url": "https://open.spotify.com/album/0IkQeHJmQ9XiH2maQlAneu"
       },
@@ -255,6 +287,26 @@
       "duration_ms": 196080,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5BMqVX8p5Qjsw6IhVfJEu7"
+    },
+    {
+      "added_at": "2026-02-12 17:00:17",
+      "album": {
+        "name": "Hatimulah Sandaran",
+        "url": "https://open.spotify.com/album/39UtKDoxLrzRbq1QBVFUaM"
+      },
+      "artists": [
+        {
+          "name": "Nabila Maharani",
+          "url": "https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW"
+        },
+        {
+          "name": "Tri Suaka",
+          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
+        }
+      ],
+      "duration_ms": 271153,
+      "name": "Hatimulah Sandaran",
+      "url": "https://open.spotify.com/track/0ZGYum0a1FsBVrFBIFIjZZ"
     },
     {
       "added_at": "2026-02-12 17:00:17",

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: M.G.L, Erika Isac",
-  "num_followers": 22530,
+  "num_followers": 22538,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -143,8 +143,8 @@
     {
       "added_at": "2026-02-12 22:00:17",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Ursarinho",
+        "url": "https://open.spotify.com/album/4C6OBgnEjXgnTAZstlzYwp"
       },
       "artists": [
         {
@@ -152,8 +152,8 @@
           "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 113684,
+      "name": "Te huro",
       "url": "https://open.spotify.com/track/6zQXHOW4bTbpnn9yg7znLU"
     },
     {
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-02-12 22:00:17",
       "album": {
-        "name": "CALIFORNIA",
-        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "CALIFORNIA",
-      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
-    },
-    {
-      "added_at": "2026-02-12 22:00:17",
-      "album": {
         "name": "Antidot",
         "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 166363,
       "name": "Antidot",
       "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
+    },
+    {
+      "added_at": "2026-02-12 22:00:17",
+      "album": {
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
     },
     {
       "added_at": "2026-02-12 22:00:17",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-02-12 22:00:17",
       "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
-    },
-    {
-      "added_at": "2026-02-12 22:00:17",
-      "album": {
         "name": "BANDO 4",
         "url": "https://open.spotify.com/album/3wE4neLiYyfvKHzQYMPlVh"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 148453,
       "name": "FACE DOWN",
       "url": "https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR"
+    },
+    {
+      "added_at": "2026-02-12 22:00:17",
+      "album": {
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
       "added_at": "2026-02-12 22:00:17",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-02-12 22:00:17",
       "album": {
-        "name": "HE$OYAM",
-        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
-    },
-    {
-      "added_at": "2026-02-12 22:00:17",
-      "album": {
         "name": "Eu Beu / 3 Pahare",
         "url": "https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 200100,
       "name": "Eu Beu / 3 Pahare",
       "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
+    },
+    {
+      "added_at": "2026-02-12 22:00:17",
+      "album": {
+        "name": "HE$OYAM",
+        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     },
     {
       "added_at": "2026-02-12 22:00:17",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-02-12 22:00:17",
       "album": {
-        "name": "PLAYBOY CITY",
-        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 123191,
-      "name": "A.D.S.",
-      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
-    },
-    {
-      "added_at": "2026-02-12 22:00:17",
-      "album": {
         "name": "\u0218tefan IV",
         "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 194936,
       "name": "inexplicabil",
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
+    },
+    {
+      "added_at": "2026-02-12 22:00:17",
+      "album": {
+        "name": "PLAYBOY CITY",
+        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 123191,
+      "name": "A.D.S.",
+      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
     },
     {
       "added_at": "2026-02-12 22:00:17",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-02-12 22:00:17",
       "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2026-02-12 22:00:17",
+      "album": {
         "name": "ALTCEVA",
         "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 186300,
       "name": "ALTCEVA",
       "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
-    },
-    {
-      "added_at": "2026-02-12 22:00:17",
-      "album": {
-        "name": "Vise La Plic",
-        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vise La Plic",
-      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     }
   ],
   "unique_name": "Suflet + Sunet",

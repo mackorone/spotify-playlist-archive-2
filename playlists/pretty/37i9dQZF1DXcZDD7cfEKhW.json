@@ -1,13 +1,33 @@
 {
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Taylor Swift",
-  "num_followers": 4027277,
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
+  "num_followers": 4027139,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl",
+  "snapshot_id": "AAAAAFRRKHuxTVcLeyHPqeTRxC24Slv9",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:21",
+      "album": {
+        "name": "I Just Might (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0Nskh9VqoqUMDvyEPyuyJR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 196551,
+      "name": "I Just Might - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/3NFyvuSE0PnDoXgpjBEAyh"
+    },
     {
       "added_at": "2025-11-28 06:19:43",
       "album": {
@@ -55,6 +75,26 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "Sports car (remixes)",
+        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Sports car - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
         "url": "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv"
       },
@@ -91,46 +131,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Sports car (remixes)",
-        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Sports car - TELYKAST Remix",
-      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Midnight Sun (Bundle)",
-        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Alex Chapman",
-          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
-        }
-      ],
-      "duration_ms": 193743,
-      "name": "Midnight Sun - Alex Chapman Remix",
-      "url": "https://open.spotify.com/track/1LFBygPkUZyFE0U7hJDWOb"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Abracadabra (Gesaffelstein Remix)",
         "url": "https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO"
       },
@@ -147,26 +147,6 @@
       "duration_ms": 211735,
       "name": "Abracadabra - Gesaffelstein Remix",
       "url": "https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj"
-    },
-    {
-      "added_at": "2025-10-07 21:28:13",
-      "album": {
-        "name": "Here All Night (Remixes)",
-        "url": "https://open.spotify.com/album/2FmBAje1pzPUlv2JRxMm2Y"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        },
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 175675,
-      "name": "Here All Night - INJI Remix",
-      "url": "https://open.spotify.com/track/2zkZbmGdYDLhWY6Mz7f1Gt"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -191,62 +171,22 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Black Friday (pretty like the sun)",
-        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+        "name": "Midnight Sun (Bundle)",
+        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
         }
       ],
-      "duration_ms": 145599,
-      "name": "Black Friday (pretty like the sun)",
-      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Revolving door (remixes)",
-        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 171304,
-      "name": "Revolving door - Lavern remix",
-      "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+      "duration_ms": 193743,
+      "name": "Midnight Sun - Alex Chapman Remix",
+      "url": "https://open.spotify.com/track/1LFBygPkUZyFE0U7hJDWOb"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -267,6 +207,46 @@
       "duration_ms": 158840,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -305,24 +285,24 @@
       "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
-      "added_at": "2025-12-12 05:00:38",
+      "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Superscar (SONIKKU Remix)",
-        "url": "https://open.spotify.com/album/7raylxJ3XFNzulLbbFuwnH"
+        "name": "Runaway (U & I)",
+        "url": "https://open.spotify.com/album/4xrwP1XPbtzfBAahfstm0e"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
         },
         {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 194928,
-      "name": "Superscar - SONIKKU Remix",
-      "url": "https://open.spotify.com/track/2DSo999j9b6tgCfWTBlj9t"
+      "duration_ms": 147307,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -343,26 +323,6 @@
       "duration_ms": 136580,
       "name": "These Words",
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Runaway (U & I)",
-        "url": "https://open.spotify.com/album/4xrwP1XPbtzfBAahfstm0e"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 147307,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -631,26 +591,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -679,6 +619,26 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1035,26 +995,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
       },
@@ -1071,6 +1011,26 @@
       "duration_ms": 155676,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1239,30 +1199,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Moth To A Flame (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 389956,
-      "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
-      "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -1291,6 +1227,30 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "Moth To A Flame (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 389956,
+      "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
+      "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Rise (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
       },
@@ -1307,6 +1267,26 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Revolving door (remixes)",
+        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 171304,
+      "name": "Revolving door - Lavern remix",
+      "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1351,26 +1331,6 @@
       "duration_ms": 187670,
       "name": "PROVENZA - REMIX",
       "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "It's ok I'm ok (remixes)",
-        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "It's ok I'm ok - Ian Asher remix",
-      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1423,6 +1383,26 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "It's ok I'm ok (remixes)",
+        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 166125,
+      "name": "It's ok I'm ok - Ian Asher remix",
+      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
       },
@@ -1459,26 +1439,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Lil Boo Thang (Galantis Remix)",
-        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 129631,
-      "name": "Lil Boo Thang - Galantis Remix",
-      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Too Much (Ely Oaks Remix)",
         "url": "https://open.spotify.com/album/6r4SN9q8F3E2dLP3UUsHaq"
       },
@@ -1495,6 +1455,26 @@
       "duration_ms": 141323,
       "name": "Too Much - Ely Oaks Remix",
       "url": "https://open.spotify.com/track/09FAqeIjjeAWqo3nuazGZu"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Lil Boo Thang (Galantis Remix)",
+        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 129631,
+      "name": "Lil Boo Thang - Galantis Remix",
+      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1587,6 +1567,26 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     }
   ],
   "unique_name": "Pop Remix",

@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Julieta.
 
-718 songs - 1 day 13 hr 10 min
+719 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Hermanos Wright](https://open.spotify.com/track/7HDpJkB7U8FAf72cuj0Smn) | [Claudia Halley](https://open.spotify.com/artist/573UMfqPKD53nEj7LWY6u0), [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw) | [Hermanos Wright](https://open.spotify.com/album/0AK8X0pHu1camT8SAeR2rR) | 4:04 | 2025-02-27 | 2025-03-21 |
 | [Hey](https://open.spotify.com/track/0AL28serWfdor08HKJxYxt) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Hey](https://open.spotify.com/album/0RRbTLs0RM9MhoRiFaUBrw) | 3:37 | 2025-01-09 | 2025-01-31 |
 | [HEY HO](https://open.spotify.com/track/1ve7FRFbWAfH4qSt1hYzTf) | [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj) | [HEY HO](https://open.spotify.com/album/482K2X4zbR8pzjzN6wi7Z7) | 2:57 | 2025-10-09 | 2025-12-12 |
-| [hibernarse](https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [hibernarse](https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686) | 2:43 | 2025-03-21 |  |
+| [hibernarse](https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [hibernarse](https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686) | 2:43 | 2025-03-21 | 2026-02-14 |
 | [Hileta Kantu Nafarra](https://open.spotify.com/track/2hCPxRbnCZbnAIxeU52CYj) | [ZETAK](https://open.spotify.com/artist/4fYuFg89YvkN1bUwpXumdE), [Maixux Zugarramurdi](https://open.spotify.com/artist/50VrkblhvDhRei2E29rPpG) | [Hileta Kantu Nafarra](https://open.spotify.com/album/3zMqegOQxv66TAHfh6dBLe) | 3:48 | 2024-12-12 | 2024-12-20 |
 | [Historias de mi madre](https://open.spotify.com/track/0KYPXalufEdTN32XRy7hHf) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Historias de mi madre](https://open.spotify.com/album/0HVLItjkoFLo6rAIhdPJQU) | 4:19 | 2025-10-16 | 2026-01-15 |
 | [I Feel Good](https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [I Feel Good](https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68) | 3:49 | 2026-01-22 | 2026-02-13 |
@@ -583,6 +583,7 @@
 | [Si Nos Sale Bien](https://open.spotify.com/track/5405R4K9cMvxfpuHFOOaAS) | [Seo Jaleo](https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r), [Shama](https://open.spotify.com/artist/4paX5a2On2c6qn6V1l6c11) | [Si Nos Sale Bien](https://open.spotify.com/album/6d4CVVyiuybv8amh08SEB7) | 2:58 | 2025-07-10 | 2025-07-18 |
 | [si nunca encuentro el amor](https://open.spotify.com/track/24eUFdj06jCU2dtUG2Cimx) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [si nunca encuentro el amor](https://open.spotify.com/album/1qUFBB5jVqv1iG1erTf7JI) | 3:50 | 2025-07-24 | 2025-09-12 |
 | [SI QUIERES](https://open.spotify.com/track/1tnamj7qFl2qru2NWCtd8I) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [SI QUIERES](https://open.spotify.com/album/2RxxIyw1NhReLgHtZ354gG) | 2:49 | 2025-02-06 | 2025-11-28 |
+| [Si te aleja del amor no puede ser bueno](https://open.spotify.com/track/74OSeuCRZ8PD3odrj8wDMX) | [Calequi y Las Panteras](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [Si te aleja del amor no puede ser bueno](https://open.spotify.com/album/1o9aYmc0gxZKd4kY62fTD7) | 2:35 | 2026-02-13 |  |
 | [Si Tengo Suerte](https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Si Tengo Suerte](https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh) | 2:54 | 2024-06-27 | 2024-10-04 |
 | [Si tú vuelves](https://open.spotify.com/track/2XCobKSIKF6S27TCmHnAzh) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv), [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv) | [Si tú vuelves](https://open.spotify.com/album/5a777hFkZ8DdyreRYdtKvU) | 3:21 | 2025-02-06 | 2025-02-28 |
 | [Siempre sale el Sol](https://open.spotify.com/track/5eCHx60UtffR3kWotaXs6j) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Siempre sale el Sol](https://open.spotify.com/album/4qV5L11scrdd1GorttD70Q) | 2:29 | 2025-11-27 | 2025-12-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,462 likes - 75 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,489 likes - 75 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 67 | [Doctor Theme \- Background Score](https://open.spotify.com/track/2sW8zbqjQsOnwTcjC2JWBO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Doctor \(Original Background Score\)](https://open.spotify.com/album/57HnFkNaWMtqA3h7rrRIAh) | 0:43 |
 | 68 | [Mudinja Thodra](https://open.spotify.com/track/6b52NQujSIgTurwO7fVJnj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 1:57 |
 | 69 | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 |
-| 70 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
-| 71 | [Jailer Drill Theme \- Instrumental](https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 0:43 |
+| 70 | [Jailer Drill Theme \- Instrumental](https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 0:43 |
+| 71 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
 | 72 | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 |
 | 73 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |
 | 74 | [Animal Instinct](https://open.spotify.com/track/5Lf5SOcqZFePjtjK1QbLYY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 0:37 |

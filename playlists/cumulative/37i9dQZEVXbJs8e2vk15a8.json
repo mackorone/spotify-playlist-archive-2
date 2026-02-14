@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3"
+    },
+    {
+      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
       },
@@ -18304,7 +18322,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 135566,
       "name": "DESCONTROL",
       "url": "https://open.spotify.com/track/6wg4Cy4qOP12tmPYLtFnvI"
@@ -24504,7 +24522,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -49034,7 +49052,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -51784,6 +51802,32 @@
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
+    },
+    {
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
     },
     {
       "album": {
@@ -62412,7 +62456,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 215978,
       "name": "Sin Maquillaje",
       "url": "https://open.spotify.com/track/18uaagQLUhgpNbEHYslclE"
@@ -65761,6 +65805,24 @@
     },
     {
       "album": {
+        "name": "S\u00e9 esa mujer valiente",
+        "url": "https://open.spotify.com/album/3Cs66qzk3iIbe99tCo6rhs"
+      },
+      "artists": [
+        {
+          "name": "Alba Letycia",
+          "url": "https://open.spotify.com/artist/53ejCadpKDLZAGO2Q7JOM5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144959,
+      "name": "S\u00e9 esa mujer valiente",
+      "url": "https://open.spotify.com/track/7J9mEYmPlt8QUlUjuUUKMd"
+    },
+    {
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -67343,6 +67405,28 @@
     },
     {
       "album": {
+        "name": "EL \u00c1LBUM DEL VERANO",
+        "url": "https://open.spotify.com/album/1JM2BMHpt2pTdaIpw2Jxtb"
+      },
+      "artists": [
+        {
+          "name": "PEPU",
+          "url": "https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8"
+        },
+        {
+          "name": "Pizzu",
+          "url": "https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197264,
+      "name": "TENGO UN FEELING",
+      "url": "https://open.spotify.com/track/1toIsvoqn3HCpdetMXk2sJ"
+    },
+    {
+      "album": {
         "name": "TENGO UN FEELING",
         "url": "https://open.spotify.com/album/6x0R5etnad2YtJ8aobqMoU"
       },
@@ -67358,7 +67442,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197264,
       "name": "TENGO UN FEELING",
       "url": "https://open.spotify.com/track/4ezApj4UvVqLOtxdXUOLMb"

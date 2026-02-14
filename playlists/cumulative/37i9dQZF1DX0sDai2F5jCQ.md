@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: J\. Cole
 
-763 songs - 1 day 13 hr 3 min
+763 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,6 @@
 | [Touch Tight](https://open.spotify.com/track/573IKEOcJbl5FOKLrZfoPl) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Touch Tight](https://open.spotify.com/album/4s6Wa5Rokzi0dmSmxdNFGm) | 1:31 | 2024-12-05 | 2025-03-21 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-10-11 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-09-22 | 2023-12-22 |
-| [Track 8](https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 |  |
 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 | 2025-02-20 | 2025-05-30 |
 | [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 | 2025-02-20 | 2025-07-18 |
@@ -741,6 +740,7 @@
 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-08-28 | 2026-02-13 |
 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-07 | 2025-10-17 |
 | [WHAT DO](https://open.spotify.com/track/6k5rWswrLNxNwMyFkC3Na2) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Souths Most Wanted](https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR) | 2:56 | 2024-04-11 | 2024-06-14 |
+| [What They Want](https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Lebron Flocka James 2K26](https://open.spotify.com/album/5KJNwu0VqV1SCUsjtLYybh) | 2:59 | 2026-02-12 |  |
 | [WHAT'S HAPPENIN' \(feat\. Latto & Coupe\)](https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [PARADISE](https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD) | 3:21 | 2025-08-07 | 2026-02-13 |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-08 | 2024-03-15 |
 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-17 | 2025-04-04 |

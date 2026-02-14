@@ -1,12 +1,12 @@
 {
-  "description": "New releases for the kids. Cover: PoppyNoji",
-  "num_followers": 87689,
+  "description": "New releases for the kids. Cover: Peppa Pig",
+  "num_followers": 87894,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC9BocmX8qwNqwAlBPma+424UJgk",
+  "snapshot_id": "AAAAACHmjKuMB5FbcKfvDi2uZsYd/dSY",
   "tracks": [
     {
       "added_at": "2026-02-06 05:00:41",
@@ -23,6 +23,86 @@
       "duration_ms": 173359,
       "name": "George Said Peppa!",
       "url": "https://open.spotify.com/track/0pAWdGTPRySliWu827nNzz"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "My Super Hero",
+        "url": "https://open.spotify.com/album/1GPSLJrdFb2JKFfG5pbIuK"
+      },
+      "artists": [
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        }
+      ],
+      "duration_ms": 129921,
+      "name": "My Super Hero",
+      "url": "https://open.spotify.com/track/6rmq2ysP6imbFkD2TI13tK"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Spring Time (Skye's Music Party)",
+        "url": "https://open.spotify.com/album/3iEiuBG0ya4ywxtjhMIDs7"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 121327,
+      "name": "Spring Time - Skye's Music Party",
+      "url": "https://open.spotify.com/track/5XXkjA11BRgZD2oysEndGH"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Pinkfong & Ninimo Sing Along",
+        "url": "https://open.spotify.com/album/4VJ01vdJN6Iy8S7nxWWWrK"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 183889,
+      "name": "My Friend Is Trapped in a Game!",
+      "url": "https://open.spotify.com/track/2ycJk46uEfyApIkIn6hBeP"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "The Animals On the Farm",
+        "url": "https://open.spotify.com/album/2qzldCNrf6w2L6ORJjqpXs"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "The Animals on the Farm",
+      "url": "https://open.spotify.com/track/1Mpp2CF7OtZWa4kGkvFP94"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Circle Time Songs",
+        "url": "https://open.spotify.com/album/2l5gr4Ocz2et0OfqWnB6Sr"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "duration_ms": 63124,
+      "name": "Circle Time",
+      "url": "https://open.spotify.com/track/1JGICQTrQQ6ynHH17uTiHu"
     },
     {
       "added_at": "2026-02-06 05:00:41",
@@ -1695,94 +1775,6 @@
       "duration_ms": 101023,
       "name": "Use Your Imagination",
       "url": "https://open.spotify.com/track/4FSmnnhe2fOCW8j0reCd7I"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
-        "name": "Dance Dice",
-        "url": "https://open.spotify.com/album/7vnCEDBq59uhuZOwT5ywk1"
-      },
-      "artists": [
-        {
-          "name": "Caitie's Classroom",
-          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
-        },
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 199828,
-      "name": "Dance Dice",
-      "url": "https://open.spotify.com/track/543LGaSXi3BRigq9WCPbfZ"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
-        "name": "The Itsy Bitsy Spider",
-        "url": "https://open.spotify.com/album/6qgySiTfSkOfxCAVPgumBe"
-      },
-      "artists": [
-        {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        }
-      ],
-      "duration_ms": 56160,
-      "name": "The Itsy Bitsy Spider",
-      "url": "https://open.spotify.com/track/6wtcf4mEN54S6uriJnLZEy"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
-        "name": "Bettina the Cow Song (Skye's Music Party)",
-        "url": "https://open.spotify.com/album/4dfHyaL4vsh9nLHNwemWFR"
-      },
-      "artists": [
-        {
-          "name": "PAW Patrol",
-          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
-        }
-      ],
-      "duration_ms": 125374,
-      "name": "Bettina the Cow Song",
-      "url": "https://open.spotify.com/track/3iItJj2MEwoomgGwqmIvEm"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
-        "name": "Ode To Autumn",
-        "url": "https://open.spotify.com/album/1qhTp8vOzy0zJA55MyGlMJ"
-      },
-      "artists": [
-        {
-          "name": "Music House for Children",
-          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
-        },
-        {
-          "name": "Emma Hutchinson",
-          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/5KmuQvBDnwJe6olHzoED6Y"
-    },
-    {
-      "added_at": "2025-09-12 04:00:08",
-      "album": {
-        "name": "The Phonics Alphabet Song",
-        "url": "https://open.spotify.com/album/3REYhlA1p5oaZ1fDKvKZNR"
-      },
-      "artists": [
-        {
-          "name": "Toddler Tunes",
-          "url": "https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW"
-        }
-      ],
-      "duration_ms": 220563,
-      "name": "Letters and Words",
-      "url": "https://open.spotify.com/track/5aSRoACH3758QHss56EzMO"
     }
   ],
   "unique_name": "New Kids Music",

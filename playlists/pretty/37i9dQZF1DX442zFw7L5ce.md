@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,821 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,868 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 5 | [Ammayi](https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:35 |
 | 6 | [Chitti](https://open.spotify.com/track/5aaY1uspY7bZbdal535FZm) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Radhan](https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Jathi Ratnalu](https://open.spotify.com/album/6t8PSuibbgF5Esm4a78sZA) | 3:06 |
 | 7 | [Monna Kanipinchavu](https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx), [Veturi](https://open.spotify.com/artist/2PzkQwyu8uJkEJMkqV0nEj) | [Surya S/o Krishnan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34EFScbYAJkSTujfbtT8gO) | 5:32 |
-| 8 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 |
-| 9 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
+| 8 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
+| 9 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 |
 | 10 | [Pachchadanamey](https://open.spotify.com/track/5eQYzdcEDOhvJ4ClsUQB3C) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:01 |
 | 11 | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo) | 4:42 |
 | 12 | [Nee Kannu Neeli Samudram \- Telugu](https://open.spotify.com/track/1C9SYGI40nNYh98gN87Fwr) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Uppena](https://open.spotify.com/album/0vHE0cmA8orbBgzIWz9T3D) | 5:12 |

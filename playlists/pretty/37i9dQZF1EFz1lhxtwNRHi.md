@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442 likes - 158 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,440 likes - 158 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
-| 2 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/3bBknFVxhFjBIFX91HcneQ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:19 |
+| 2 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 | 3 | [Stitches](https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:26 |
-| 4 | [Mercy](https://open.spotify.com/track/6EKvI1Beyh29HJoLJOdfw2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:28 |
+| 4 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 | 5 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 |
 | 6 | [In My Blood](https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:31 |
 | 7 | [Lost In Japan](https://open.spotify.com/track/79esEXlqqmq0GPz0xQSZTV) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:21 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 12 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 13 | [Emergency](https://open.spotify.com/track/6sKAs2tdtTVTO2U0IgJAur) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency](https://open.spotify.com/album/2HbmDfMxtgPFf73xQbeaga) | 2:49 |
 | 14 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/2BM7nF0pMIpLQOT04o691Z) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:22 |
-| 15 | [No Promises](https://open.spotify.com/track/5CRLZTiHict3Z9NDRBivxk) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 2:46 |
-| 16 | [Patience](https://open.spotify.com/track/6C6o1thW23zGypBnWdTKec) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 2:55 |
+| 15 | [No Promises](https://open.spotify.com/track/3gnDoaJUgD9Bblzld77Kcp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 2:46 |
+| 16 | [Patience](https://open.spotify.com/track/0JZ9lcwFcAscMpy1YxUtpW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 2:55 |
 | 17 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 |
 | 18 | [Love Like That](https://open.spotify.com/track/5aYEQLm02WlSlaOv5g6sZo) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:04 |
 | 19 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 21 | [Wonderful Life \(Mi Oh My\) \- From the Angry Birds Movie Original Motion Picture Soundtrack](https://open.spotify.com/track/3s2FxrA4ZXbTR6SlH6LXh9) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Wonderful Life \(Mi Oh My\) \[From the Angry Birds Movie Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2TUIZ6xGn04sMd96KbPVnW) | 3:30 |
 | 22 | [Girls Talk Boys \- From "Ghostbusters" Original Motion Picture Soundtrack](https://open.spotify.com/track/5XWmfpinsT4XbfFsUASSaG) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Girls Talk Boys \(From "Ghostbusters" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YREBUbJTPWQWmjxuJ6h77) | 3:36 |
 | 23 | [Pray](https://open.spotify.com/track/7vl6ANTdLHg94AvCYXiSIw) | [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:20 |
-| 24 | [Understand](https://open.spotify.com/track/5VYgsWOawA5pqeYP5pJMFR) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 5:00 |
+| 24 | [Understand](https://open.spotify.com/track/4IiHCtnfw8tZasAeocWqVe) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 5:00 |
 | 25 | [O.D.D.](https://open.spotify.com/track/1HuIahUPUXCx7Kz4rgMXFU) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:42 |
 | 26 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 | 27 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 157 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 158 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcJgSgAAAADGzgTopfM3bobQg1DBFWOg`
+Snapshot ID: `AcJl6gAAAADAS/ZRKZkExYTRp+CP7KDY`

@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Parker McCollum
+> Trending for a reason \- the home of country's future monster hits\. Cover: Luke Combs
 
-619 songs - 1 day 9 hr 27 min
+620 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/track/6R7nxAdrHuQXHGRrDc9Rit) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/album/0NMpxcd0QLTrDqJ9bb58Qw) | 3:24 | 2022-04-08 | 2022-11-19 |
 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 | 2024-02-23 | 2024-04-06 |
 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 | 2025-06-20 | 2025-08-10 |
-| [20 Cigarettes](https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 2:40 | 2025-05-30 |  |
+| [20 Cigarettes](https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 2:40 | 2025-05-30 | 2026-02-14 |
 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 | 2021-12-17 | 2022-05-07 |
 | [24](https://open.spotify.com/track/520NKSFkKbELWUV5XQfIG9) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [24](https://open.spotify.com/album/5T9VoZ9HYeDUhlr7NTjHfH) | 3:03 | 2021-12-17 | 2022-05-14 |
 | [28th of June](https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [28th of June](https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX) | 3:45 | 2024-03-29 | 2024-05-11 |
@@ -456,6 +456,7 @@
 | [Shut the Door](https://open.spotify.com/track/2Qgw0F6DpMy9rs5XxlYh7U) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Shut the Door](https://open.spotify.com/album/2zSXpvoUL2o12rBYTfaL8W) | 2:53 | 2021-12-17 | 2022-06-04 |
 | [Silverado Blue](https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Silverado Blue](https://open.spotify.com/album/4mWuLL9DOPcmUZ6j5VRMhv) | 3:03 | 2024-09-13 | 2025-03-22 |
 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8) | 3:11 | 2024-06-14 | 2024-09-14 |
+| [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 | 2026-02-13 |  |
 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-07 | 2025-04-05 |
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-12-17 | 2021-12-24 |
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-05-09 | 2025-09-27 |

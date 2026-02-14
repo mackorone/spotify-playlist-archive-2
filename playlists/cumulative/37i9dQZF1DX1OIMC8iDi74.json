@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Precision Points",
+        "url": "https://open.spotify.com/album/6ICiF17DAadeFv7yvW69Q5"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173711,
+      "name": "BACK 2 THE RECORD",
+      "url": "https://open.spotify.com/track/2P0hULf2MorSbvSGD93TuI"
+    },
+    {
+      "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 222352,
       "name": "CAPE CANAVERAL",
       "url": "https://open.spotify.com/track/66eqfWqjPxHmiA5pmu87Kv"
@@ -2655,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "CIRCLES",
+      "url": "https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS"
+    },
+    {
+      "album": {
         "name": "Clarity (Remixes)",
         "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
       },
@@ -2758,7 +2794,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 183724,
       "name": "CONTACT",
       "url": "https://open.spotify.com/track/0qnkt7iy7onBjcyoKJcOpj"
@@ -2780,7 +2816,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180616,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/0t20e3FAuQ4F4iQJwzvhxs"
@@ -4760,7 +4796,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 217600,
       "name": "fall into you",
       "url": "https://open.spotify.com/track/3lllNdHwDYVRlRxK7Dcd2p"
@@ -5035,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Festy",
+        "url": "https://open.spotify.com/album/7A8MWzDWOWKS3B01UqKnWy"
+      },
+      "artists": [
+        {
+          "name": "Ricky Remedy",
+          "url": "https://open.spotify.com/artist/2nWD5qpzn6rGaBz5gLZvfB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "Festy",
+      "url": "https://open.spotify.com/track/36Ldzl1CGui3uzBoTI7tUC"
+    },
+    {
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE"
       },
@@ -5112,7 +5166,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 188689,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m"
@@ -7141,6 +7195,32 @@
     },
     {
       "album": {
+        "name": "HORSEPOWER",
+        "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "CREG",
+          "url": "https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "HORSEPOWER",
+      "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
+    },
+    {
+      "album": {
         "name": "DUSK",
         "url": "https://open.spotify.com/album/0redwBOaK57PJoSLEl2OMD"
       },
@@ -8462,6 +8542,28 @@
     {
       "album": {
         "name": "Killa",
+        "url": "https://open.spotify.com/album/0dSEgLGoOnAs8zgih944Jt"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/5QrzHMtPWyS2ho4VodUHBx"
+    },
+    {
+      "album": {
+        "name": "Killa",
         "url": "https://open.spotify.com/album/2XbLTWvDNnAXFjmNaegzfq"
       },
       "artists": [
@@ -8666,7 +8768,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 173793,
       "name": "LEANGUT",
       "url": "https://open.spotify.com/track/1MWYsEUv3r21FKYmCNoND1"
@@ -10459,6 +10561,24 @@
     },
     {
       "album": {
+        "name": "Move That",
+        "url": "https://open.spotify.com/album/3WNLXTen5awWz3GD4tSIDj"
+      },
+      "artists": [
+        {
+          "name": "Buku",
+          "url": "https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Move That",
+      "url": "https://open.spotify.com/track/3t54EVMe1LKOz98VELh8L9"
+    },
+    {
+      "album": {
         "name": "Proxima Nova",
         "url": "https://open.spotify.com/album/1USScuJT7Fbq5vyXyn5yx4"
       },
@@ -10474,6 +10594,24 @@
       "duration_ms": 244200,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/60q8mNyzHfyzWZ77Wg904D"
+    },
+    {
+      "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "album": {
@@ -11968,7 +12106,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 152147,
       "name": "PONDA",
       "url": "https://open.spotify.com/track/2MAVzueQH0kZZm331wHwjD"
@@ -12752,7 +12890,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243428,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/5q9BSjuaHSksG8fSloIoU3"
@@ -16786,6 +16924,24 @@
       "duration_ms": 216363,
       "name": "Ur Body",
       "url": "https://open.spotify.com/track/2yaNaFyZsZSWLI5evzKlGK"
+    },
+    {
+      "album": {
+        "name": "the unicorn who believed in love",
+        "url": "https://open.spotify.com/album/4Ji0jYiDG2pSI78Fuk8VWh"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150379,
+      "name": "ur such a JERK!",
+      "url": "https://open.spotify.com/track/1uKVaRz9nJVcNa9dCcW6js"
     },
     {
       "album": {

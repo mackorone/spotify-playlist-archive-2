@@ -1,13 +1,29 @@
 {
   "description": "I didn\u2019t do my makeup just to cry!\nchloe moriondo on the cover.",
-  "num_followers": 596078,
+  "num_followers": 596062,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACSHyuPhk7E+woOOBuZbhnADs3IV",
+  "snapshot_id": "AAAAAAaQhZRm0Jn/idZnoDjOyCHOg7aC",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:27:29",
+      "album": {
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
     {
       "added_at": "2026-01-23 05:59:46",
       "album": {
@@ -831,22 +847,6 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2025-10-25 14:36:55",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 218284,
-      "name": "Sharpest Tool",
-      "url": "https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl"
     },
     {
       "added_at": "2025-10-25 14:36:55",

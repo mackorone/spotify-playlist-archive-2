@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,458 likes - 235 songs - 12 hr 47 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,440 likes - 235 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 | 234 | [Open to the Light](https://open.spotify.com/track/7wBO6TRRB4TYx3VbToSK6j) | [Fletcher Kent](https://open.spotify.com/artist/296NGRpJWhJMiY68OVtZiR) | [Open to the Light](https://open.spotify.com/album/1nZPMXqMArC4btqTCaUxGa) | 3:43 |
 | 235 | [Leaning On You](https://open.spotify.com/track/0KCLH394qDn7jNKWZDEXHx) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 3:01 |
 
-Snapshot ID: `AAAu1buZT6Pi0KChuQZjppWCTGbaL4vi`
+Snapshot ID: `AAAu1/z7QM1S3kQcCZAwX7XenZjgfg6k`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Lykke Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,212 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,189 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 3 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 |
 | 4 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 5 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
-| 6 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [](https://open.spotify.com/album/null) | 4:04 |
+| 6 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 |
 | 7 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 8 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
 | 9 | [Beatback](https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Beatback](https://open.spotify.com/album/0nKPxS384Utr4iDBXlZBRU) | 2:19 |

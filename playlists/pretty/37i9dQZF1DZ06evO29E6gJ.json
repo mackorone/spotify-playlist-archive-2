@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 12750,
+  "num_followers": 12754,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAB9q7IKazf5KgizZCzTbXGC",
+  "snapshot_id": "aY0YAAAAAABUiRzuqFFPAMUvtHaCCG0v",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos Del Norte En Vivo (Live)",
-        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Alma Rendida",
-      "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 116000,
       "name": "Desilusi\u00f3n",
       "url": "https://open.spotify.com/track/4NEZkAs4jxwUSdyXfn6Q8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1orita Cantinera (Serie 2000)",
-        "url": "https://open.spotify.com/album/0WZxY0v3nKJNBJHCXqlryw"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Se\u00f1orita Cantinera",
-      "url": "https://open.spotify.com/track/7DWY2WaAOc6x7KztLZH6CS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Ojos De Pancha",
         "url": "https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 168226,
       "name": "Corazoncito Tirano",
       "url": "https://open.spotify.com/track/6WDO9b672nRsA3W3FtPlLU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1orita Cantinera (Serie 2000)",
+        "url": "https://open.spotify.com/album/0WZxY0v3nKJNBJHCXqlryw"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Se\u00f1orita Cantinera",
+      "url": "https://open.spotify.com/track/7DWY2WaAOc6x7KztLZH6CS"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
+        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 130226,
+      "name": "Vino Maldito",
+      "url": "https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serie De Colecci\u00f3n 15 Aut\u00e9nticos \u00c9xitos",
         "url": "https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 180506,
       "name": "Cartas Marcadas",
       "url": "https://open.spotify.com/track/5p9sP0cRe8tC5cwdzEe7YR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
-        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 130226,
-      "name": "Vino Maldito",
-      "url": "https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe"
     },
     {
       "added_at": null,

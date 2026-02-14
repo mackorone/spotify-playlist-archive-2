@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,938 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,923 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 29 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 |
 | 30 | [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 |
 | 31 | [Can't Get You Out of My Head](https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [The Great Awakening](https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN) | 3:10 |
-| 32 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
-| 33 | [Devil Town](https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Noise Floor \(Rarities: 1998\-2005\)](https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D) | 3:03 |
+| 32 | [Devil Town](https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Noise Floor \(Rarities: 1998\-2005\)](https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D) | 3:03 |
+| 33 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
 | 34 | [Skeleton Boy](https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft) | 3:33 |
 | 35 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
 | 36 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 49 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
 | 50 | [Vampire Again](https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Vampire Again](https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ) | 4:02 |
 | 51 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 |
-| 52 | [It's Halloween!](https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [It's Halloween!](https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi) | 2:29 |
-| 53 | [Scarecrow](https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ) | 4:15 |
+| 52 | [Scarecrow](https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ) | 4:15 |
+| 53 | [It's Halloween!](https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [It's Halloween!](https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi) | 2:29 |
 | 54 | [Standing on Ghosts](https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Four Words to Stand On](https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5) | 3:31 |
 | 55 | [Dark and Stormy](https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6) | 4:55 |
 | 56 | [Struggle With the Beast](https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Struggle With the Beast](https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm) | 8:44 |

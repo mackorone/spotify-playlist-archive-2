@@ -4,7 +4,7 @@
 
 > Força Suprema, Rahiz  entram na zona.
 
-948 songs - 2 day 2 hr 0 min
+949 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [4AM no Rio](https://open.spotify.com/track/6Z0omreb7QNSj3ptomTmOU) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [4AM no Rio](https://open.spotify.com/album/08mBO0iH81lIKabmqfHY6S) | 3:27 | 2022-07-16 | 2023-04-07 |
 | [5 de Maio](https://open.spotify.com/track/5ouBml5nl0MCZfYeqDXyMx) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [5 de Maio](https://open.spotify.com/album/2GI8bC7lxElFSmYjxxZ8sJ) | 3:10 | 2024-05-02 | 2024-06-07 |
 | [90'S](https://open.spotify.com/track/46WrepwqfcjHJw6SodeE6x) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [90'S](https://open.spotify.com/album/4jmhjL7dx01WbhN3xezNFb) | 3:10 | 2024-09-19 | 2024-09-21 |
+| [96 ao Infinito](https://open.spotify.com/track/19m6c5dAgdT04pcqDygJzD) | [Dealema](https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I), [David Cruz](https://open.spotify.com/artist/6JHMDm5fjmoglBBIxJFDeJ) | [96 ao Infinito](https://open.spotify.com/album/2fKuVu1BDvBiT98dbCtnxA) | 4:33 | 2026-02-13 |  |
 | [9Xs](https://open.spotify.com/track/3pcX4h49ckvJ7hRUbsRUWH) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:40 | 2023-12-22 | 2025-01-31 |
 | [A Cara do Gueto](https://open.spotify.com/track/0SF9lqOmfEe4JWcDEpwGAr) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp), [Socorro](https://open.spotify.com/artist/0zEjogN3aaPBp6TqYCwyM1) | [A Cara de Angola](https://open.spotify.com/album/0ahB7ZR4rouyedW9tkOkLR) | 3:46 | 2025-12-12 | 2026-01-02 |
 | [A Carta Que Eu Nunca Te Escrevi](https://open.spotify.com/track/0SH231TP9yPlZ7HJYEAS6F) | [Boss AC](https://open.spotify.com/artist/2AiLSd9HXwfFwO9g00s2hk) | [Rimar Contra A Maré...](https://open.spotify.com/album/4CrszdJCRchxt1xko3ews3) | 4:22 | 2025-05-08 | 2025-05-16 |
@@ -841,6 +842,7 @@
 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 | 2023-02-10 | 2025-01-10 |
 | [Tata](https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 2:39 | 2023-12-08 | 2025-01-17 |
 | [teach me how to love](https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO) | [colombianacallmegringo](https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB) | [teach me how to love](https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj) | 2:37 | 2022-07-16 | 2022-08-05 |
+| [Telefone](https://open.spotify.com/track/5TyLwhvcv5HvQlP0ZhSgLu) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Telefone](https://open.spotify.com/album/0eM1DhRDLncMmBZWP2BJj4) | 2:37 | 2026-02-13 |  |
 | [TELELE](https://open.spotify.com/track/6icQRKoMeolKYBV5WKIBv3) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [TELELE](https://open.spotify.com/album/1wmBYJlqmqLKRUnShUYhOQ) | 2:41 | 2023-07-20 | 2023-09-01 |
 | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/3Zf4sVsmsFMSMiq6EcLuCz) | [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/7ykDqjbu0EIVs6RVJ7bUzK) | 4:08 | 2025-09-11 | 2026-02-06 |
 | [Tempero](https://open.spotify.com/track/5aObfslcyWOUklHK8SUM8b) | [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Pika](https://open.spotify.com/artist/3N8p0SELgr5vZLgUTdmCNi), [Topboy Blk](https://open.spotify.com/artist/5wQNFcDVCxuiePhZzryw6h) | [Hoodstarz](https://open.spotify.com/album/2K4yTolJlZ3i7AyCjdRFnp) | 3:39 | 2022-12-16 | 2023-02-17 |
@@ -865,7 +867,6 @@
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 | 2023-06-09 |
 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 | 2024-08-22 | 2025-10-24 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-12 | 2025-09-26 |
-| [Track 10](https://open.spotify.com/track/19m6c5dAgdT04pcqDygJzD) | [Dealema](https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Tradução](https://open.spotify.com/track/0rPbTXcpkUXbP1jqz0oEqG) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Entrelinhas](https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u) | 2:58 | 2025-05-22 | 2025-06-13 |
 | [TRAJE](https://open.spotify.com/track/1qG4PQKxaInnCww9yu7Tf7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [Trilogia: O Legado](https://open.spotify.com/album/2pkSKT2bYhqojZdfJxMWD9) | 3:05 | 2023-02-10 | 2023-04-07 |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |

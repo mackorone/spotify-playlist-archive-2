@@ -4,7 +4,7 @@
 
 > The best pop music right now ft\. Danny L Harle & Dua Lipa
 
-726 songs - 1 day 14 hr 17 min
+727 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [All This Love](https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [All This Love](https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4) | 3:25 | 2025-08-14 | 2025-09-26 |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 | 2025-11-15 |
 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-07-26 | 2024-10-11 |
-| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [](https://open.spotify.com/album/null) | 3:03 | 2026-02-13 |  |
+| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-02-13 |  |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-06-26 | 2025-08-01 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-19 | 2025-06-13 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-14 | 2025-06-13 |
@@ -159,6 +159,7 @@
 | [Different Planets](https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Different Planets](https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r) | 3:10 | 2024-12-20 | 2025-03-14 |
 | [Dirty](https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Dirty](https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK) | 3:03 | 2024-12-13 | 2025-03-04 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 | 2024-08-16 |
+| [Disappear](https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:25 | 2026-02-13 |  |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2025-03-07 |
 | [Divinize](https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:03 | 2025-11-07 | 2025-11-28 |
 | [Dolce Vita](https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Dolce Vita](https://open.spotify.com/album/7BM07pyAYIypULRmLOgGdo) | 3:31 | 2025-07-24 | 2025-08-15 |
@@ -314,6 +315,7 @@
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-21 | 2025-03-29 |
 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 | 2025-03-21 | 2025-05-02 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-15 | 2025-01-31 |
+| [I Like You Better Than Me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Like You Better Than Me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 | 2026-02-13 |  |
 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 | 2025-09-11 | 2025-12-05 |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-10 | 2024-10-26 |
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-09-05 | 2025-10-31 |
@@ -667,13 +669,12 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-09-21 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 | 2025-06-24 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-14 |
-| [Track 16](https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Trouble](https://open.spotify.com/track/0CjaxtWJXDPxuIc2vF28jd) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Trouble](https://open.spotify.com/album/78d7vHOKAddR9gJf9sAMkI) | 3:01 | 2024-08-23 | 2024-12-21 |
 | [True Colours](https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [True Colours](https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3) | 3:51 | 2024-06-28 | 2024-08-03 |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-06-28 | 2024-07-06 |
 | [Turn Me Up](https://open.spotify.com/track/2WIykpFBlqQ0m7EfAKoev1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/1ldMaOBeKQNU3cpGCsN6hq) | 4:11 | 2025-07-24 | 2025-08-22 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-06-06 |
-| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [](https://open.spotify.com/album/null) | 3:52 | 2026-02-13 |  |
+| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-13 |  |
 | [Two Years](https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Two Years](https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn) | 2:52 | 2025-09-25 | 2025-10-24 |
 | [u don't have to tell me](https://open.spotify.com/track/6U5AgSYUubKMrMDEazfSsF) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [eat me alive / u don't have to tell me](https://open.spotify.com/album/3mxQzFNEhn2XAr2UvCt2bI) | 2:15 | 2025-08-28 | 2025-09-26 |
 | [Unconditional](https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Unconditional](https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj) | 3:32 | 2025-09-11 | 2025-10-24 |

@@ -8134,6 +8134,28 @@
     {
       "album": {
         "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/5xhtKAwzlpmRIyQAla6upK"
+      },
+      "artists": [
+        {
+          "name": "blaank",
+          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
         "url": "https://open.spotify.com/album/2bBd0JDFKOoy55VRnr5Lmm"
       },
       "artists": [
@@ -14555,6 +14577,28 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/0gzKamW6wx1kKKtDCB2QpE"
+      },
+      "artists": [
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "Tide Lane",
+          "url": "https://open.spotify.com/artist/6JyyVA8tmbFYQs0MlHPg9B"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1pAYSBLvnHzfKHxIJr6unO"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/2r98xBStXKjrt8lnfn96GS"
       },
@@ -16830,6 +16874,24 @@
       "duration_ms": 214956,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/0qSq3cOECG9x2xGDAXs4n2"
+    },
+    {
+      "album": {
+        "name": "no time to waste",
+        "url": "https://open.spotify.com/album/6qC6HrCOgjXrBjkb2J54Dv"
+      },
+      "artists": [
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123272,
+      "name": "no time to waste",
+      "url": "https://open.spotify.com/track/3iSn86sZiwvEWCXp9tmXWz"
     },
     {
       "album": {

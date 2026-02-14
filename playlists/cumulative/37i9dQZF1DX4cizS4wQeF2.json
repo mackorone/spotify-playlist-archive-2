@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-01",
-  "description": "\ud83e\ude77 Dawson forever \ud83e\ude77",
+  "description": "I couldn't help but fall in love again",
   "name": "Romcom",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 153666,
       "name": "Castle in Hollywood",
       "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196451,
+      "name": "City",
+      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
+    },
+    {
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 274160,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 320026,
       "name": "I Don't Want to Wait",
       "url": "https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL"
@@ -1347,7 +1365,7 @@
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 258483,
+      "duration_ms": 258826,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     },
@@ -1512,6 +1530,24 @@
       "duration_ms": 153600,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
       "album": {
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 223853,
       "name": "Stop And Stare",
       "url": "https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M"
@@ -2028,6 +2064,24 @@
       "duration_ms": 227741,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
+    },
+    {
+      "album": {
+        "name": "That's My Girl",
+        "url": "https://open.spotify.com/album/0E2xTVpLqdXz4xyVYXKwBs"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "That's My Girl",
+      "url": "https://open.spotify.com/track/6oM46RZxmCvcaaHP3n5TXX"
     },
     {
       "album": {
@@ -2536,7 +2590,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"

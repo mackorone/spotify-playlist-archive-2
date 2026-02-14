@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAIlAK2vuLO42Bcd8Pv97I1Uw9IZ5gI",
+  "snapshot_id": "AAAIl7mrB1huNVUg4IBF2jmhjAARcMDd",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11203,6 +11203,42 @@
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2026-02-13 14:13:43",
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 195278,
+      "name": "House featuring John Cale",
+      "url": "https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p"
+    },
+    {
+      "added_at": "2026-02-13 17:51:49",
+      "album": {
+        "name": "In Search of a Revival",
+        "url": "https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        }
+      ],
+      "duration_ms": 51426,
+      "name": "In Search of a Revival Part 1",
+      "url": "https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8"
     }
   ],
   "unique_name": "Zacklog",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 283291,
+  "num_followers": 283388,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
     },
     {
       "added_at": "2025-12-19 16:17:24",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
-      },
-      "artists": [
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
-        },
-        {
-          "name": "Freedom Williams",
-          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
-        }
-      ],
-      "duration_ms": 244093,
-      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
-      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
         "name": "Hypnotica (Benny Benassi Presents The Biz)",
         "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 285570,
       "name": "Satisfaction - Isak Original Extended",
       "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
     },
     {
       "added_at": "2025-12-19 16:17:24",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
         "name": "Schubert Dip",
         "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 209813,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
     },
     {
       "added_at": "2025-12-19 16:17:24",

@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-191 songs - 9 hr 25 min
+192 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Forever \(71943509\)](https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Forever \(71943509\)](https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt) | 3:08 | 2025-05-09 | 2026-02-02 |
 | [Games](https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Games](https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG) | 2:50 | 2026-01-09 |  |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2023-08-07 |  |
+| [getting money still sad too](https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA) | [getting money still sad too](https://open.spotify.com/album/06590fcGOrc0hgvDHcDiaH) | 2:37 | 2026-02-13 |  |
 | [GHOST](https://open.spotify.com/track/6a0JNVksUWTzdQ2H0r9nBd) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY) | [NEVERS ROAD](https://open.spotify.com/album/3kIUmStYlCKTlM9eZmN1Nb) | 3:44 | 2024-02-23 |  |
 | [Ghost of Me \(Rxseboy Remix\)](https://open.spotify.com/track/38Qa2olyD7rAB6JhaIQdeq) | [Lxst Boy](https://open.spotify.com/artist/6cH101iUjGOYOZy3vGJjrd), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Ghost of Me \(Rxseboy Remix\)](https://open.spotify.com/album/1Nxl2i2z6UrWwYHCbnAOmN) | 3:02 | 2025-03-28 | 2025-04-26 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2023-08-07 |  |
@@ -167,7 +168,7 @@
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-08-07 | 2025-11-08 |
 | [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 | 2025-11-18 |  |
 | [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 | 2023-08-18 | 2024-04-19 |
-| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2023-08-07 |  |
+| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2023-08-07 | 2026-02-14 |
 | [Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 2:48 | 2024-02-23 | 2026-01-15 |
 | [Still](https://open.spotify.com/track/33M4V1Ns4DWrp2eop2Ubzg) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Dark](https://open.spotify.com/album/5QGv6b6i7tIOksucTpcUau) | 3:16 | 2025-08-22 |  |
 | [Streetcar](https://open.spotify.com/track/7Cu2COdH93MnuireuKNiS3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/4uP43hIpmEEDuW7aOfiU2C) | 4:06 | 2024-02-23 |  |

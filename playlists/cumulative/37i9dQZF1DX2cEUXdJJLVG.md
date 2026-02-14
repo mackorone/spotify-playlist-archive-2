@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-460 songs - 1 day 3 hr 25 min
+461 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [New Love](https://open.spotify.com/track/6O4IrYYhx5YFcneT5Oxtd6) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Sunflower](https://open.spotify.com/album/6JWuJhE6y7PR9WoNiEvM4s) | 4:00 | 2022-09-09 | 2022-09-16 |
 | [New View](https://open.spotify.com/track/5ovfNHvYoSkgotc30bn8uL) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN) | [New View](https://open.spotify.com/album/4SLW1wlhfhuYnikmMFhumC) | 3:27 | 2023-08-15 | 2025-05-20 |
 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 | 2025-06-19 |  |
-| [Nirvana](https://open.spotify.com/track/3XqZ6qWdX7pKa4sbLZaFDk) | [Cezaire](https://open.spotify.com/artist/6BqtukFFVB3LgyyOIH8t1z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Nirvana](https://open.spotify.com/album/5IKPyU8dOpvPFQXxE9aekm) | 3:40 | 2024-07-04 |  |
+| [Nirvana](https://open.spotify.com/track/3XqZ6qWdX7pKa4sbLZaFDk) | [Cezaire](https://open.spotify.com/artist/6BqtukFFVB3LgyyOIH8t1z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Nirvana](https://open.spotify.com/album/5IKPyU8dOpvPFQXxE9aekm) | 3:40 | 2024-07-04 | 2026-02-14 |
 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 | 2022-09-22 | 2024-09-27 |
 | [No Pressure](https://open.spotify.com/track/30YcRhbM8ChTRp9ocwxCQh) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [No Pressure](https://open.spotify.com/album/0lHku96pxwHcs2PMQhVrUK) | 3:21 | 2022-09-09 | 2024-02-02 |
 | [No Soul Fo Sale](https://open.spotify.com/track/0k0FKfVLDEdQKfyfgxbpWa) | [John Parm](https://open.spotify.com/artist/6sH4U1jng4pnJLkWPHsIY4), [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [No Soul Fo Sale](https://open.spotify.com/album/6FcJUwmI5QlRlppe9UA95K) | 3:39 | 2022-09-09 | 2022-10-15 |
@@ -311,6 +311,7 @@
 | [Pharoah's Lean Time](https://open.spotify.com/track/3mJcM9Jr0BuCcXrpYuzUBe) | [Bustin' Loose](https://open.spotify.com/artist/3HrT4BHXxvlPrfP8SVst0t) | [Pharoah's Lean Time](https://open.spotify.com/album/3UL8McXSHQRKs64ooxTrsJ) | 4:51 | 2025-05-29 |  |
 | [Phases \(feat\. dreamcastmoe\)](https://open.spotify.com/track/7DTA0Xwy0pEL75tur4XKXt) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Phases \(feat\. dreamcastmoe\)](https://open.spotify.com/album/7LPIzGmvdtNgLdGPlxHjKn) | 3:32 | 2023-02-23 | 2024-03-21 |
 | [philadelphia](https://open.spotify.com/track/7n1SLI92zzCUvAdBx6flyU) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [philadelphia](https://open.spotify.com/album/5P19jHuYj8fcWH9sc8HqPH) | 3:20 | 2022-09-09 | 2024-02-02 |
+| [Pick Me Up](https://open.spotify.com/track/5rToPiKURnz9tnXDK3w5ZX) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Pick Me Up](https://open.spotify.com/album/2IuJddZdkzPFTi3LGHSOGl) | 3:19 | 2026-02-13 |  |
 | [Picky \(Emperose Remix\)](https://open.spotify.com/track/7urTtB7cgpOpBdkCx4uqrO) | [A boy named ROSA.](https://open.spotify.com/artist/0yTFQZGr5jAeddtiWxXeSF), [Emperose](https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja) | [Picky: The Remixes](https://open.spotify.com/album/7bzD4imisxHfWLU9fuauBt) | 3:20 | 2023-12-14 | 2025-05-20 |
 | [Pills \- Single Version](https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Pills](https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw) | 2:58 | 2022-09-09 | 2024-05-10 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-10-12 | 2023-07-08 |

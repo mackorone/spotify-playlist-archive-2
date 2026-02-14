@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-485 songs - 1 day 5 hr 14 min
+487 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [El Perdón](https://open.spotify.com/track/6gPLVEwgM1b7ro9uZ0OD5r) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Por Eso Que Me Amas EP](https://open.spotify.com/album/63Nu1PeMnLSvmWGQrcPVlU) | 3:26 | 2023-04-23 | 2023-05-23 |
 | [Energy](https://open.spotify.com/track/68fHIJayqhaS5aQCNKKkA2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Energy](https://open.spotify.com/album/1jEg0Zcl5ydrt9EVXBP1w6) | 3:13 | 2023-03-31 | 2023-04-24 |
 | [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 | 2023-03-26 | 2023-04-17 |
+| [Equanimity](https://open.spotify.com/track/44oUkdfEIFooTA4jgUgsKw) | [Capitan Anderson](https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4) | [Liberty / Equanimity](https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4) | 5:24 | 2026-02-13 |  |
 | [Es una Loba](https://open.spotify.com/track/7LQRuiqjYxtK3T2HhVF9xL) | [DARCOS LIFE](https://open.spotify.com/artist/0C2us4WTI9QWkRCl7eGkFv) | [Es una Loba](https://open.spotify.com/album/2rvgeG7n0VwTJ0NWdUeTpz) | 4:53 | 2026-01-17 |  |
 | [Escape](https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Escape](https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG) | 3:12 | 2022-08-17 | 2023-03-18 |
 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 | 2023-07-16 | 2023-08-28 |
@@ -408,6 +409,7 @@
 | [Spectacular](https://open.spotify.com/track/0xIEDcRTdiBBPjvcelpp8L) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Spectacular](https://open.spotify.com/album/1KOpwNonQK0U80u3gAxb8O) | 3:41 | 2025-12-20 | 2026-01-03 |
 | [State Of Mind](https://open.spotify.com/track/7I6VWFNZoUo0gRDYiAcC4M) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [State Of Mind / Westside Trippin](https://open.spotify.com/album/65icEEAu7TwaePaVUzqcHZ) | 3:36 | 2023-03-05 | 2023-03-20 |
 | [Static Soul](https://open.spotify.com/track/0aiUkj8hqVWsU8CV5uqwMA) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z) | 2:15 | 2026-01-30 |  |
+| [Stay](https://open.spotify.com/track/65Ocj27t9rYgRuBgdjHITg) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Stay](https://open.spotify.com/album/6rv7y59UepgglmNayh3loz) | 4:12 | 2026-02-13 |  |
 | [Step Into It](https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Step Into It](https://open.spotify.com/album/3beTqABOznAfcdIZraOboj) | 3:15 | 2023-01-29 | 2023-03-06 |
 | [Still Pushin' \- Radio Edit](https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV) | [YOUniverse \(IT\)](https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Still Pushin'](https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W) | 3:12 | 2024-04-14 | 2024-07-08 |
 | [Stolen Dub](https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Stolen Dub](https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM) | 2:16 | 2024-03-10 | 2024-04-15 |

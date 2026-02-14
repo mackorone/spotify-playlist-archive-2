@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-259 songs - 13 hr 4 min
+260 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ain't Like Me](https://open.spotify.com/track/0cyNBS2zNhVijDM6WDsbPp) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Ain't Like Me](https://open.spotify.com/album/2AS8Kzr2SyuFqxSndz615Y) | 3:44 | 2025-02-14 | 2025-11-11 |
 | [Aise Des](https://open.spotify.com/track/5jxzK1xMJZwgFrSA8Jn1gk) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Aise Des](https://open.spotify.com/album/0brmFtDiy4DbpKZNzmqqiK) | 3:12 | 2026-01-23 |  |
 | [AKH](https://open.spotify.com/track/2XQK4hKhcSsloYMteu9RbZ) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [AKH](https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB) | 3:35 | 2024-09-09 | 2024-10-23 |
-| [Akh Kashni](https://open.spotify.com/track/2LN3oyAgxcSQf44Yn8T8bF) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Akh Kashni](https://open.spotify.com/album/0GyMIEnGd9HZW43GSdLdSW) | 2:27 | 2026-01-20 |  |
+| [Akh Kashni](https://open.spotify.com/track/2LN3oyAgxcSQf44Yn8T8bF) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Akh Kashni](https://open.spotify.com/album/0GyMIEnGd9HZW43GSdLdSW) | 2:27 | 2026-01-20 | 2026-02-14 |
 | [All About Me](https://open.spotify.com/track/5z0TMApul2gljzU7D5wdSe) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc) | [All About Me](https://open.spotify.com/album/7b0LyWJWBL5logHL9J00hL) | 2:16 | 2025-10-15 | 2026-01-29 |
 | [All Black](https://open.spotify.com/track/4kr7yzaL36BRmzPrVq2g6o) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Rxmbo](https://open.spotify.com/artist/7HWxXTkowZibw1PRWWEkqL) | [All Black](https://open.spotify.com/album/1vFe1kx7abbJlEeqFmKGf7) | 3:02 | 2025-11-17 |  |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2023-03-18 | 2023-11-21 |
@@ -214,6 +214,7 @@
 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 | 2023-04-19 | 2024-12-04 |
 | [RUMAL](https://open.spotify.com/track/1HSgJzdRzYE0nPbR0PlEyt) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [BAHAAR, Vol\. 1](https://open.spotify.com/album/3xLDF5zlnOPjIV3KG0Krv4) | 2:21 | 2025-04-20 | 2025-06-03 |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 | 2024-09-29 |
+| [Saiyyoni](https://open.spotify.com/track/7LDElWShranhWCQGEwbf8g) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Saiyyoni](https://open.spotify.com/album/3npfiDvrs0lPLsdhmosnq9) | 2:13 | 2026-02-13 |  |
 | [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 | 2024-11-21 | 2025-09-09 |
 | [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 | 2024-09-21 |
 | [Shak](https://open.spotify.com/track/2QxqjR9jxNFTAoz304jZfc) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Dhammi Gill](https://open.spotify.com/artist/7nznHLzR4wRBtXEJ4fxzkz) | [Still Shining](https://open.spotify.com/album/0u1xiXYdkR93Q4djzg5QO9) | 2:25 | 2025-07-25 | 2025-09-03 |

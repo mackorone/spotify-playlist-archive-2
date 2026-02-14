@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Buzz Kull
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,790 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,806 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 |
 | 2 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 |
-| 3 | [Black Gate](https://open.spotify.com/track/7t3wS6VktZqPhMWdTG9Wot) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [](https://open.spotify.com/album/null) | 4:32 |
+| 3 | [Black Gate](https://open.spotify.com/track/7t3wS6VktZqPhMWdTG9Wot) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Deep Hate](https://open.spotify.com/album/6KoVoaUipqvIM915NEeeA9) | 4:32 |
 | 4 | [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 |
 | 5 | [Daddy](https://open.spotify.com/track/4vgoFEyR2qkVLw2HwexUTZ) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Daddy](https://open.spotify.com/album/7uRe1IzYXF1sjlF9ttHZO1) | 3:19 |
 | 6 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |

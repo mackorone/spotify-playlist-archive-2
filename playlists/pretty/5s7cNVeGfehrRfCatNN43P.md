@@ -4,27 +4,22 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,864 likes - 18 songs - 59 min 3 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,866 likes - 13 songs - 44 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Hope You Don't Remember Me](https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [I Hope You Don't Remember Me](https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH) | 3:25 |
-| 2 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 |
-| 3 | [Confused](https://open.spotify.com/track/69NbKYZ45HX3FLQ4mbPrse) | [Laptop](https://open.spotify.com/artist/3gSWfRMa91c5EAOtR72Dco) | [Confused](https://open.spotify.com/album/4SQ74K448L9jriYvMlo4Fd) | 3:28 |
-| 4 | [Body Is On Fire](https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Body Is On Fire](https://open.spotify.com/album/5EzCcZlpoHWp4X3IJDRq7b) | 2:22 |
-| 5 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
-| 6 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
-| 7 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/0bX0GFeupnom6eHF7hJw62) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
-| 8 | [i wanna hate you \(feat\. Alice U\)](https://open.spotify.com/track/0zTjiDx7ANlsHPhvtoTSHD) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N), [Alice U](https://open.spotify.com/artist/3DwCWZ5Zgo2ePZZM5cC8lT) | [i wanna hate you \(feat\. Alice U\)](https://open.spotify.com/album/4OZQOLmpjv7wXSISHcgpL3) | 2:51 |
-| 9 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [What Could Possibly Go Wrong?](https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO) | 3:27 |
-| 10 | [The Nightmare](https://open.spotify.com/track/0tHopCSHUlzvni2x7NhjgA) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [The Nightmare](https://open.spotify.com/album/3OrloT39YEeutOFc0thors) | 3:35 |
-| 11 | [Away With The Fairies](https://open.spotify.com/track/7avTegY5ObMuQM5N32kPxz) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Away With The Fairies](https://open.spotify.com/album/0jAsC2f7Ek6DtMJbPmmRB3) | 2:28 |
-| 12 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 |
-| 13 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
-| 14 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 |
-| 15 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 |
-| 16 | [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 |
-| 17 | [Water in the Room](https://open.spotify.com/track/6jD8X49YmTeMryIv14P1il) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Closer to Happy](https://open.spotify.com/album/51q86EwerebVjrzJrS6rRS) | 3:09 |
-| 18 | [Ah Ya](https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Ah Ya](https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG) | 4:13 |
+| 1 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
+| 2 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
+| 3 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
+| 4 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
+| 5 | [ANXIOUS TO LOVE YOU](https://open.spotify.com/track/7nCKE7GbXitx9sLjc7jmqV) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [ANXIOUS TO LOVE YOU](https://open.spotify.com/album/0ZZRL43AgpJAna8uDH1b0w) | 2:55 |
+| 6 | [Adagio](https://open.spotify.com/track/1DIufDXVYrsEbQgXcnZ7Ni) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Adagio](https://open.spotify.com/album/4B53KasBEHhAav1q9Ner4y) | 3:05 |
+| 7 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
+| 8 | [Everywhere Isn't Texas](https://open.spotify.com/track/20eJY9bryFWgVNUlZBUgGN) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Everywhere Isn't Texas](https://open.spotify.com/album/75jUCkcDcLD25FR9AlQJik) | 3:12 |
+| 9 | [BACKWARDS, INTO U](https://open.spotify.com/track/7cUQQ8eWY2RBBnU4N3DaG7) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [The Elephant](https://open.spotify.com/album/1fML3Ns0a3fXw8A4Y7CPiK) | 3:28 |
+| 10 | [Lonely Girl](https://open.spotify.com/track/5U2dCXTHbm8wvd33ihOS0G) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1), [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Lonely Girl](https://open.spotify.com/album/5cCvZrMBGyH09LxQ2GfmIV) | 3:26 |
+| 11 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
+| 12 | [Woman In Love](https://open.spotify.com/track/1RJCrqZSR2j7blHTMErbq3) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Woman In Love](https://open.spotify.com/album/7iRIV5983f4RqBEPDFpe0a) | 2:43 |
+| 13 | [SAD GIRL](https://open.spotify.com/track/0A3O0FdlWF1ECLjfGzIdpv) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [SAD GIRL](https://open.spotify.com/album/2qDB21KqdOaMf7cSSLadKE) | 2:51 |
 
-Snapshot ID: `AAALpZdMEZuUXQ9NACAdJdYYWM2WCOxM`
+Snapshot ID: `AAALp44sqqfSxe6KU5SAjPyycFG4DbrE`

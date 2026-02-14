@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Sof\u00eda Thompson",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: TIM\u00d8",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -4831,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "CUCARACHEO",
+        "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Jay Kabalan",
+          "url": "https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153903,
+      "name": "CUCARACHEO",
+      "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
+    },
+    {
+      "album": {
         "name": "CUERPO",
         "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
       },
@@ -6984,6 +7006,24 @@
       "duration_ms": 168398,
       "name": "Es Tan Corta la Vida",
       "url": "https://open.spotify.com/track/7gySsUqpWJhn76VDeAAV3Y"
+    },
+    {
+      "album": {
+        "name": "Es tan f\u00e1cil",
+        "url": "https://open.spotify.com/album/12Mokzh0sFscRg9U7YHvUm"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198144,
+      "name": "Es tan f\u00e1cil",
+      "url": "https://open.spotify.com/track/6Cwx6t3sU1Lk9l2oo3CKbT"
     },
     {
       "album": {
@@ -14892,6 +14932,24 @@
       "duration_ms": 178701,
       "name": "PAENAMORAR",
       "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
+    },
+    {
+      "album": {
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182231,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ"
     },
     {
       "album": {

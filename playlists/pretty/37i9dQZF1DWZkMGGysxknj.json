@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 830603,
+  "num_followers": 830529,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Pumped Up Kicks (Acoustic Version)",
         "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 174793,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Warping Youth",
-        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 311680,
-      "name": "People Wither",
-      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "There's Nothing Holdin Me Back",
         "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 199419,
       "name": "There's Nothing Holdin Me Back",
       "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Warping Youth",
+        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 311680,
+      "name": "People Wither",
+      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "I Like Me Better",
         "url": "https://open.spotify.com/album/4iNcyb5KYzejr9t5OROcFw"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
       },
       "artists": [
         {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
         }
       ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1007,22 +1023,6 @@
       "duration_ms": 198712,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Downtown (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
-      },
-      "artists": [
-        {
-          "name": "Mechi Pieretti",
-          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
-        }
-      ],
-      "duration_ms": 204452,
-      "name": "Downtown - Acoustic Version",
-      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Downtown (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
+      },
+      "artists": [
+        {
+          "name": "Mechi Pieretti",
+          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+        }
+      ],
+      "duration_ms": 204452,
+      "name": "Downtown - Acoustic Version",
+      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
-      },
-      "artists": [
-        {
-          "name": "Nari",
-          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Shape Of My Heart (Acoustic Version)",
         "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Acoustic Visions",
-        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
       },
       "artists": [
         {
-          "name": "Veil",
-          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
+          "name": "Nari",
+          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
         }
       ],
-      "duration_ms": 228922,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
+      "duration_ms": 170571,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1687,6 +1671,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Acoustic Visions",
+        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
+      },
+      "artists": [
+        {
+          "name": "Veil",
+          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
+        "name": "Voices In The Sky",
+        "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
       },
       "artists": [
         {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
         }
       ],
-      "duration_ms": 210580,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
+      "duration_ms": 206584,
+      "name": "Never My Love",
+      "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Voices In The Sky",
-        "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
       },
       "artists": [
         {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
         }
       ],
-      "duration_ms": 206584,
-      "name": "Never My Love",
-      "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
+      "duration_ms": 210580,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Field Notes",
-        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Arueira Mata",
-      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 178143,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Field Notes",
+        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Arueira Mata",
+      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Reencontrarnos",
-        "url": "https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5"
-      },
-      "artists": [
-        {
-          "name": "Marr\u00f3n",
-          "url": "https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5"
-        }
-      ],
-      "duration_ms": 257002,
-      "name": "Reencontrarnos",
-      "url": "https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Don\u2019t You Look At Me That Way",
         "url": "https://open.spotify.com/album/5GGnarWGlNGFEGOo5ztQH2"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 200686,
       "name": "Don\u2019t You Look At Me That Way",
       "url": "https://open.spotify.com/track/0lAyS09c8EUBC9hJgjBM1U"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Reencontrarnos",
+        "url": "https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5"
+      },
+      "artists": [
+        {
+          "name": "Marr\u00f3n",
+          "url": "https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5"
+        }
+      ],
+      "duration_ms": 257002,
+      "name": "Reencontrarnos",
+      "url": "https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

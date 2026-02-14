@@ -2,9 +2,9 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Bad Bunny
+> The hottest 50\. Cover: Sombr
 
-1,336 songs - 2 day 23 hr 36 min
+1,337 songs - 2 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,7 +908,7 @@
 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-06-26 | 2024-02-12 |
 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 | 2023-06-30 |
 | [positions](https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [positions](https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi) | 2:52 | 2020-10-23 | 2021-04-10 |
-| [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 | 2026-01-30 |  |
+| [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 | 2026-01-30 | 2026-02-14 |
 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 | 2019-06-20 | 2019-10-26 |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-27 | 2022-08-13 |
 | [pov](https://open.spotify.com/track/1bj8x3ERN9gSc2NfJIpc76) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y) | 3:21 | 2020-11-13 | 2021-01-23 |
@@ -1222,6 +1222,7 @@
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2025-01-03 | 2025-05-10 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-14 | 2025-03-15 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-07-05 |
+| [Two Six](https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:16 | 2026-02-13 |  |
 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 | 2020-10-30 | 2020-12-18 |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-22 | 2024-04-13 |
 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 | 2020-07-24 | 2020-11-06 |

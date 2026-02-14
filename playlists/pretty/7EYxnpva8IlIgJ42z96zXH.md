@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,280 likes - 91 songs - 4 hr 47 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,277 likes - 91 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 21 | [Insomnia \- Disclosure's 2025 Edit](https://open.spotify.com/track/4cgoqLcfYRBesDEmSVR1Ek) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Insomnia \(Disclosure's 2025 Edit\)](https://open.spotify.com/album/4YfEXbb3DjWKLFiW67pDqx) | 4:20 |
 | 22 | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/track/0MS7sUW9VxvXjuDg9VZZIS) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/album/1gqpG7x5cMQuVCCo7iy7yL) | 2:12 |
 | 23 | [Midnight Sun](https://open.spotify.com/track/6q2YSturdfEzMpoUR5gq0R) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Midnight Sun](https://open.spotify.com/album/4JXdBmsjMFifrVQK8pu2rw) | 3:46 |
-| 24 | [I Need A Rhythm \(feat\. ROZZZQWEEN\)](https://open.spotify.com/track/4EI4xZXYjLXV2wsnAMLZID) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [I Need A Rhythm \(feat\. ROZZZQWEEN\)](https://open.spotify.com/album/4G6Pne4osYMwMBoQQVNgxi) | 2:56 |
+| 24 | [I NEED A RHYTHM \(feat\. ROZZZQWEEN\)](https://open.spotify.com/track/4EI4xZXYjLXV2wsnAMLZID) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [I NEED A RHYTHM \(feat\. ROZZZQWEEN\)](https://open.spotify.com/album/4G6Pne4osYMwMBoQQVNgxi) | 2:56 |
 | 25 | [Hello](https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hello](https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk) | 2:54 |
 | 26 | [Guardian Angel](https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Guardian Angel](https://open.spotify.com/album/5NO5T8NwwbpFCBpL8rFU81) | 3:43 |
 | 27 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 |

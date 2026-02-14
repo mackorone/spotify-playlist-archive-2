@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Capo Plaza in cover della playlist urban più grande d'Italia 🤝🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,974 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,950 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 42 | [LE PAROLE CHE NON TI HO DETTO](https://open.spotify.com/track/4lFkZOGYndTJt4uwThq3se) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [LE PAROLE CHE NON TI HO DETTO](https://open.spotify.com/album/15xgyu9TDje9YVbKwvillq) | 2:12 |
 | 43 | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY) | 3:15 |
 | 44 | [Ancora Tra \(feat\. Baby Gang, Shiva\)](https://open.spotify.com/track/6poqCgwxy9FV1GZ0SVi0rN) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:46 |
-| 45 | [Art Attack](https://open.spotify.com/track/786Ix4kzThar3zwk8vx6xj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Art Attack](https://open.spotify.com/album/42OhbFUoE1r4I2ltGbKsG3) | 2:12 |
+| 45 | [Art Attack](https://open.spotify.com/track/786Ix4kzThar3zwk8vx6xj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Art Attack](https://open.spotify.com/album/42OhbFUoE1r4I2ltGbKsG3) | 2:12 |
 | 46 | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 |
 | 47 | [BASTA](https://open.spotify.com/track/1mBo5wxBPceNVvIu9TzLrt) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BASTA](https://open.spotify.com/album/0bRbYs6orDKrJ2prSY31ZL) | 1:59 |
 | 48 | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/track/6aJgQaUFTLYYW3uYdhYn9P) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/album/2XXP6qcJeqgSVKXaYHD4y3) | 2:25 |

@@ -642,10 +642,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 135906,
       "name": "Memories Are Made Of This",
       "url": "https://open.spotify.com/track/4GaO5sWxTHCvLrOsLkvE8Q"
+    },
+    {
+      "album": {
+        "name": "Dean Martin Best Ever Collection!",
+        "url": "https://open.spotify.com/album/6rjv4jQEQ7Y16WVEEYL6Da"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137800,
+      "name": "Memories Are Made of This",
+      "url": "https://open.spotify.com/track/0nAhw6BxYnZPZYg13jUnPX"
     },
     {
       "album": {
@@ -1020,10 +1038,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 156893,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/2JwJqDEqC5IPl5bN3klNHD"
+    },
+    {
+      "album": {
+        "name": "Old Classic Christmas Songs (Remastered)",
+        "url": "https://open.spotify.com/album/11wSR3IfNrsnaINIqVdodt"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147497,
+      "name": "Silent Night - Remastered",
+      "url": "https://open.spotify.com/track/1gjBcw4TFnVl2GyLoAD8q8"
     },
     {
       "album": {

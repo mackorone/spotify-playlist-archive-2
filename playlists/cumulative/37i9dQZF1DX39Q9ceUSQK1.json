@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: POM",
+  "description": "Nieuwe alternative & rock releases. Cover: The Haunted Youth",
   "name": "New Alternative",
   "tracks": [
     {
@@ -2359,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Cold Sun",
+        "url": "https://open.spotify.com/album/6jOOUBJxY1DY6s0oWZoc9T"
+      },
+      "artists": [
+        {
+          "name": "The Hickey Underworld",
+          "url": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203060,
+      "name": "Cold Sun",
+      "url": "https://open.spotify.com/track/0R03DkSad23jyYw6lecBsG"
+    },
+    {
+      "album": {
         "name": "Comic Trip",
         "url": "https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi"
       },
@@ -2817,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "deathwish",
+        "url": "https://open.spotify.com/album/4vJsrxUvCVS8m7QKUoDe9h"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        },
+        {
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207338,
+      "name": "deathwish",
+      "url": "https://open.spotify.com/track/5oiJoBwi1dV8NfZTPYbqGz"
+    },
+    {
+      "album": {
         "name": "INFINITE HIGHS, END OF TIMES",
         "url": "https://open.spotify.com/album/1rPssyCdLdC9UwGVLB5f6j"
       },
@@ -2944,6 +2984,24 @@
       "duration_ms": 233093,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG"
+    },
+    {
+      "album": {
+        "name": "Do It again",
+        "url": "https://open.spotify.com/album/2fGqOJjYVgjJdj545TjNRQ"
+      },
+      "artists": [
+        {
+          "name": "Yerra Yerra",
+          "url": "https://open.spotify.com/artist/51GH8wFX58ibqqQ8OGbqxv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164913,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/5yIw0En27egoFDElyJULwH"
     },
     {
       "album": {
@@ -3996,7 +4054,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 235934,
       "name": "Fuck Everything Up",
       "url": "https://open.spotify.com/track/7niEycC20mzMNSA0qq4VTf"
@@ -4595,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/44usXXhuy4dXtgoHgyrwb8"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9zard",
+          "url": "https://open.spotify.com/artist/71OpeN8Riy5gGtmqlSYfVH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132621,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/5QKcL7RswXActSPNhFn899"
+    },
+    {
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb"
       },
@@ -4660,7 +4736,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 185262,
       "name": "Heaven Now",
       "url": "https://open.spotify.com/track/6Nntk8wxOfW76lpyKkIx54"
@@ -4966,7 +5042,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 224532,
       "name": "Hole In The Ground",
       "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
@@ -5298,6 +5374,24 @@
       "duration_ms": 221373,
       "name": "I do",
       "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
+    },
+    {
+      "album": {
+        "name": "My Heart Is A Room With No Cameras In It",
+        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235429,
+      "name": "I got god",
+      "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
     },
     {
       "album": {
@@ -6000,6 +6094,24 @@
       "duration_ms": 196613,
       "name": "Ivory Tower",
       "url": "https://open.spotify.com/track/1ZboPmpBtCxdDot3g8M8sp"
+    },
+    {
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225017,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
     },
     {
       "album": {
@@ -6963,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "Magnificent Seven",
+        "url": "https://open.spotify.com/album/5sHMsGf22ASJYjV7XC9mO8"
+      },
+      "artists": [
+        {
+          "name": "The Clockworks",
+          "url": "https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "Magnificent Seven",
+      "url": "https://open.spotify.com/track/0RUvT91RC8FCmueE2xTYxj"
+    },
+    {
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv"
       },
@@ -7388,7 +7518,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 190153,
       "name": "Miss Parfaite",
       "url": "https://open.spotify.com/track/7zCFZ8DzmxVwEhAGdeCJZt"
@@ -8044,7 +8174,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219400,
       "name": "Nothing's Right",
       "url": "https://open.spotify.com/track/0OMw1vsXODqI7Gt7RU5k8l"
@@ -8466,6 +8596,24 @@
       "duration_ms": 197506,
       "name": "Outrun",
       "url": "https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc"
+    },
+    {
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/70dEVP39iGRnGHXpPfHSZL"
+      },
+      "artists": [
+        {
+          "name": "dEUS",
+          "url": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210213,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/6mOl6NqrhLWZz4pVfkgHLQ"
     },
     {
       "album": {
@@ -10224,7 +10372,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148240,
       "name": "Stay Along/Sail On",
       "url": "https://open.spotify.com/track/4msV5jT47oAgVnHfX9ZTSQ"
@@ -10638,7 +10786,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 268886,
       "name": "Sympathy Magic",
       "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
@@ -10966,7 +11114,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
@@ -11164,7 +11312,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207900,
       "name": "The Future Is Cancelled",
       "url": "https://open.spotify.com/track/63RRBZLduS3iKJkzzlHnp0"
@@ -11748,7 +11896,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
@@ -12058,6 +12206,24 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "album": {
+        "name": "Ugly White Balloon",
+        "url": "https://open.spotify.com/album/1vhRChTfFAlk8CEY0noxHF"
+      },
+      "artists": [
+        {
+          "name": "Steve French",
+          "url": "https://open.spotify.com/artist/47Sk6sHHksjzDyH3tUaw64"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239527,
+      "name": "Ugly White Balloon",
+      "url": "https://open.spotify.com/track/4zw3UVqjJshOq2jzOuiBJ6"
     },
     {
       "album": {
@@ -13016,6 +13182,24 @@
       "duration_ms": 310266,
       "name": "Year of the Snake",
       "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
+    },
+    {
+      "album": {
+        "name": "you and forever",
+        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234971,
+      "name": "you and forever",
+      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
     },
     {
       "album": {

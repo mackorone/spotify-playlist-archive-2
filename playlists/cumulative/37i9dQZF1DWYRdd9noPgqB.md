@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-447 songs - 1 day 0 hr 32 min
+448 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [In My Room](https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:13 | 2023-11-23 | 2024-01-05 |
 | [In Real Life](https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/album/2yImgiwCG9KZnxzgulVthl) | 2:57 | 2025-03-13 | 2025-05-02 |
 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 | 2025-10-02 |  |
-| [In Yer Eyes](https://open.spotify.com/track/653CiFgNM4q48b8F0Chrfs) | [Roger Sellers](https://open.spotify.com/artist/4StOjWLB3i8HMqZwbCKv29), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [In Yer Eyes](https://open.spotify.com/album/5AcTqM5Yz8NCuXuFo1cDRm) | 2:18 | 2025-06-27 |  |
+| [In Yer Eyes](https://open.spotify.com/track/653CiFgNM4q48b8F0Chrfs) | [Roger Sellers](https://open.spotify.com/artist/4StOjWLB3i8HMqZwbCKv29), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [In Yer Eyes](https://open.spotify.com/album/5AcTqM5Yz8NCuXuFo1cDRm) | 2:18 | 2025-06-27 | 2026-02-14 |
 | [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 | 2024-10-24 | 2025-03-28 |
 | [Internet](https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:04 | 2024-01-25 | 2024-04-19 |
 | [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:33 | 2025-07-10 |  |
@@ -231,6 +231,7 @@
 | [Lover](https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lover](https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy) | 3:40 | 2025-05-22 | 2025-09-26 |
 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 | 2024-06-27 | 2024-10-04 |
 | [Lovers War](https://open.spotify.com/track/5A10nmW6Fn1nzMenzsWdvK) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Lovers War](https://open.spotify.com/album/6UzLQZ0vwpMiffYTreVDfs) | 3:10 | 2024-02-01 | 2024-04-12 |
+| [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-12 |  |
 | [Macaroni Moon](https://open.spotify.com/track/5hxbl4ZGUPlYZU0wa5v2B3) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Macaroni Moon](https://open.spotify.com/album/3Q6c9lHhxltpuoN65lP33w) | 3:14 | 2024-06-20 | 2024-09-20 |
 | [MAGIC](https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [MAGIC](https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ) | 2:57 | 2024-02-08 | 2024-03-15 |
 | [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 | 2025-06-06 |  |

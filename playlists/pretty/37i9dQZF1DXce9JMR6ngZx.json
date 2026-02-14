@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 246833,
+  "num_followers": 246882,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 244586,
       "name": "There Is a Light That Never Goes Out - 2011 Remaster",
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Just Like Heaven - Remastered 2006",
-      "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Just Like Heaven - Remastered 2006",
+      "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Discography - Complete Singles Collection",
-        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Domino Dancing",
-      "url": "https://open.spotify.com/track/4mVLzFbc3gaCoWCEENLouc"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Discography - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Domino Dancing",
+      "url": "https://open.spotify.com/track/4mVLzFbc3gaCoWCEENLouc"
     },
     {
       "added_at": "2024-07-09 20:48:06",

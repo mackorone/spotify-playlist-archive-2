@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-313 songs - 17 hr 56 min
+314 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 | 2024-05-24 |  |
 | [La Cura](https://open.spotify.com/track/0k5uE9yV9IXNXrNkPcWCfW) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [La Cura](https://open.spotify.com/album/1Uxqbryd9wcCJw0s38EuVU) | 3:34 | 2025-02-14 | 2025-06-12 |
 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 | 2021-12-06 | 2023-03-18 |
-| [La Mujer Perfecta](https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX) | 3:37 | 2021-12-06 |  |
+| [La Mujer Perfecta](https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX) | 3:37 | 2021-12-06 | 2026-02-14 |
 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 | 2023-07-07 | 2025-05-24 |
 | [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 | 2021-12-06 | 2025-02-11 |
 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 | 2025-02-10 |  |
@@ -290,6 +290,7 @@
 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 | 2021-12-06 | 2023-03-18 |
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2023-01-06 | 2023-10-14 |
 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 | 2021-12-06 | 2023-10-14 |
+| [Tú y Yo X Siempre](https://open.spotify.com/track/0tRu6JVcrxamSl49SbOVe1) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tú y Yo X Siempre](https://open.spotify.com/album/1pa5BFb6W8qJRukSRku5bg) | 3:04 | 2026-02-13 |  |
 | [Un Amor de Verdad](https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:32 | 2021-12-06 | 2023-10-14 |
 | [Un Amor Eterno \- Versión Balada](https://open.spotify.com/track/3TuXuyfd6XjIShhPQAo21I) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Un Amor Eterno \(Versión Balada\)](https://open.spotify.com/album/4LdWCO8V7kGiDR7FKOEhVw) | 3:11 | 2021-12-06 | 2023-01-07 |
 | [Un Amor Tan Grande](https://open.spotify.com/track/3TACJUjqwWdVyQhaNW2kKP) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Quítate las Gafas](https://open.spotify.com/album/72w6yDcGkl4i5eW5TxJJla) | 4:45 | 2022-04-01 | 2022-07-13 |

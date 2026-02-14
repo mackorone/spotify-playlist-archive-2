@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,695 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,742 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 26 | [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 |
 | 27 | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/track/5InVe6JzeFjGaKOW9ggU7J) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Can't Find The Brakes](https://open.spotify.com/album/3FyROXteyMjOunh3L3gEly) | 3:14 |
 | 28 | [Waves](https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different](https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt) | 4:01 |
-| 29 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
-| 30 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
+| 29 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
+| 30 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 31 | [Backbone](https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 3:52 |
 | 32 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 |
 | 33 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 47 | [Supernatural \- Acoustic](https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM) | 3:06 |
 | 48 | [The Funeral \- Acoustic](https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer) | 3:33 |
 | 49 | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH) | 2:27 |
-| 50 | [abcdefu \(chill\)](https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(chill\)](https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0) | 2:56 |
-| 51 | [Come As You Are](https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 4:18 |
+| 50 | [Come As You Are](https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 4:18 |
+| 51 | [abcdefu \(chill\)](https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(chill\)](https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0) | 2:56 |
 | 52 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
 | 53 | [Hard To Be Alone](https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14) | 3:02 |
 | 54 | [Look At Us Now \(Honeycomb\) \- Acoustic Demo](https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\) \[Acoustic Demo\]](https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9) | 3:51 |

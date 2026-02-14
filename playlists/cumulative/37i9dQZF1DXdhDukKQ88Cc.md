@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥 cover: Artigeardit
 
-501 songs - 21 hr 23 min
+502 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Den Sidste](https://open.spotify.com/track/07X1mqPPTSMdtdN03rxMyu) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Den Sidste](https://open.spotify.com/album/3qsX0mf6RmJssERtAQSwua) | 2:25 | 2023-10-12 | 2023-11-11 |
 | [Denim](https://open.spotify.com/track/4MLmlw78j3ZHSE21lOKhPs) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 3:43 | 2024-06-20 | 2024-09-13 |
 | [Der Ik' Noget Imorgen](https://open.spotify.com/track/3II4mrde41VDBEBVJf2SaO) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Der Ik' Noget Imorgen](https://open.spotify.com/album/0lTI7nGxveTSafMpoEm0Lu) | 2:12 | 2025-04-24 |  |
+| [Der Kommer En Dag](https://open.spotify.com/track/0FdCmsOZQmExwEUda6WvNI) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Der Kommer En Dag](https://open.spotify.com/album/2qWaptQGTODsiCzrYt3QmS) | 2:38 | 2026-02-13 |  |
 | [Diablo](https://open.spotify.com/track/0249I01Duk9gfIa4EHn6cA) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Diablo](https://open.spotify.com/album/2z8UheCV1yM8NExgzNJPPA) | 2:47 | 2025-06-12 | 2025-07-11 |
 | [Differente](https://open.spotify.com/track/3tZIAsrTBOkslSFJyMZxes) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:20 | 2023-11-10 | 2024-09-13 |
 | [DIG & MIG](https://open.spotify.com/track/41zsakuQrxAym3jzKWGgFO) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [DIG & MIG](https://open.spotify.com/album/16izLjfgq0Mwb9U08yaOIG) | 2:56 | 2026-02-12 |  |

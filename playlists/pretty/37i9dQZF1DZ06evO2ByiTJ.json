@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15692,
+  "num_followers": 15690,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADzxXEz03rmXogdwzknPOgn",
+  "snapshot_id": "aY0YAAAAAADqBVf4lOtWUuNe/dt5amfT",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 323361,
-      "name": "Tempo de Deus",
-      "url": "https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 247246,
       "name": "Lindo Presente",
       "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 323361,
+      "name": "Tempo de Deus",
+      "url": "https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumpra o Seu Chamado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 266007,
+      "name": "Cumpra o Seu Chamado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samba Adorador (Ao Vivo)",
         "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 217640,
       "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
       "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumpra o Seu Chamado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 266007,
-      "name": "Cumpra o Seu Chamado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 249786,
-      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e1gina em Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 309243,
       "name": "P\u00e1gina em Branco (Ao Vivo)",
       "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 249786,
+      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 247756,
+      "name": "O Melhor da Festa",
+      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 258670,
       "name": "O Reino (Ao Vivo)",
       "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "O Melhor da Festa",
-      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
     },
     {
       "added_at": null,

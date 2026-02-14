@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,253 likes - 170 songs - 9 hr 36 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,254 likes - 172 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,5 +178,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 168 | [Every Day](https://open.spotify.com/track/77Xpq8jioOWIqKWaJyT71E) | [Cristobal Junta](https://open.spotify.com/artist/4qfd9D2EeXvlUrQr6RO1U1) | [Let Yourself Know](https://open.spotify.com/album/1NtUyx79SG97sPCa16Iq0g) | 5:20 |
 | 169 | [High School](https://open.spotify.com/track/7DgcWqSXv7MylHKtZmNvMk) | [Neal Rosner\-Mcluhan](https://open.spotify.com/artist/0fVp8aLkJCdv0ILZ0skBs7) | [High School](https://open.spotify.com/album/6D7ppbIew8fvIP8aMBYqxh) | 4:14 |
 | 170 | [Indecisa Paixão](https://open.spotify.com/track/4JUfXNviaf7gAdOOEuRJha) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Indecisa Paixão](https://open.spotify.com/album/4q3DW5vcJpbum9LdU0tFST) | 3:18 |
+| 171 | [Эдем](https://open.spotify.com/track/4kyoAnYQxbqymB1xoeaGdR) | [Алекс Рипли](https://open.spotify.com/artist/1BRBBmrzBFq2gPxP1FkByB) | [Эдем](https://open.spotify.com/album/1I2vdv0zR2gGZc4ANH8hcY) | 2:32 |
+| 172 | [HOPE \(MOM\)](https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH) | [IAMBOKI](https://open.spotify.com/artist/4X6awOXdDYyq4DJqi6XGoF), [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [HOPE \(MOM\)](https://open.spotify.com/album/5PJIzgVMw4kBLsn9v6GjWu) | 3:41 |
 
-Snapshot ID: `AAAQXhON5TryzaGeychBeqrgolERWTA5`
+Snapshot ID: `AAAQYAHFDoKTZdwt7V/ErjyAs+XNKQhy`

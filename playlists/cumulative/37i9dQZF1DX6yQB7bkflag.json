@@ -175,8 +175,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A Love For Strangers",
+        "url": "https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc"
       },
       "artists": [
         {
@@ -2203,8 +2203,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -3591,7 +3591,7 @@
         },
         {
           "name": "RYO",
-          "url": "https://open.spotify.com/artist/4Dgyc5PJLTM2GyfZGT2uzF"
+          "url": "https://open.spotify.com/artist/3nfCxDVevITHrnUT4YouD0"
         }
       ],
       "date_added": "2026-02-13",
@@ -9369,8 +9369,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
       },
       "artists": [
         {
@@ -19310,6 +19310,24 @@
       "duration_ms": 180500,
       "name": "i like that you like it",
       "url": "https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9"
+    },
+    {
+      "album": {
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
     },
     {
       "album": {
@@ -35134,7 +35152,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 200553,
       "name": "Puspa",
       "url": "https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd"

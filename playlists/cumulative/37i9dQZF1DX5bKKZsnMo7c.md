@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: MEEK
 
-545 songs - 1 day 5 hr 38 min
+546 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Goodbye](https://open.spotify.com/track/6tfPsgvkgbGHWGwq2PpzCI) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 4:09 | 2022-05-17 | 2022-07-29 |
 | [gravity](https://open.spotify.com/track/2hFqVkrBelXGVLaaTKHrjY) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [gravity](https://open.spotify.com/album/6xjOlvvlcBxUGiCWWGNeBv) | 3:52 | 2022-08-05 | 2022-12-10 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-25 |
+| [Greed](https://open.spotify.com/track/6sPBgWvvJXebIn0fj7Shte) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Greed](https://open.spotify.com/album/0IhfnMkCpFd7ZrNHHWoLqt) | 1:59 | 2026-02-13 |  |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2022-05-17 | 2022-08-09 |
 | [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 | 2025-01-10 | 2025-05-03 |
 | [Habits](https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 2:14 | 2023-04-17 | 2023-06-21 |
@@ -275,7 +276,7 @@
 | [Jenna](https://open.spotify.com/track/4OuS6CcTr3kofsSYpDyrTB) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Jenna](https://open.spotify.com/album/20FpfGh5Cftua64aroaT1k) | 3:11 | 2023-09-22 | 2023-11-11 |
 | [JOHNNYSCOTT](https://open.spotify.com/track/3HITeUoRtYdS6Ne7QP7nfl) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [JOHNNYSCOTT](https://open.spotify.com/album/2paVRUpTK7DeVBBfExvTG4) | 2:32 | 2025-03-14 | 2025-05-23 |
 | [Josephine](https://open.spotify.com/track/14ZMcrAWGFB0ltAxgrtH5U) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Josephine](https://open.spotify.com/album/1smFBTxb71pr5K3rVjc1Yt) | 4:37 | 2025-03-07 | 2025-04-19 |
-| [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-09 |  |
+| [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-09 | 2026-02-14 |
 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2023-05-26 | 2024-06-15 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-09 | 2025-01-25 |
 | [just last week](https://open.spotify.com/track/6ZaONgEsATQp3q0fxJ8inz) | [Ethan Jewell](https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD) | [stuck in a bad place](https://open.spotify.com/album/5ZaLbGUiBmH6ru5JYzr6vL) | 3:44 | 2023-06-02 | 2024-01-27 |

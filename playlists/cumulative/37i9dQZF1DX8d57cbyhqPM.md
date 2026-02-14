@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tantine Theodora.
+> Du Congo, au monde 🌍 avec Tontons Serge Ibaka, L2B et Dany Synthé..\. keba, keba, keba!
 
-708 songs - 1 day 15 hr 47 min
+710 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [+971](https://open.spotify.com/track/4GJfmVzb1ji60wAbRPauz1) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [+971](https://open.spotify.com/album/5lforRYyhZm0hYg5Uyl132) | 3:21 | 2025-11-28 | 2025-12-20 |
 | [100](https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [100](https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb) | 2:37 | 2022-06-30 | 2022-08-27 |
 | [100 Pas](https://open.spotify.com/track/1CgxZZtNdoDI3MZkDFtecn) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [100 Pas](https://open.spotify.com/album/6zQbsSlWHgeJBk0UVp1akz) | 2:31 | 2025-02-21 | 2025-05-17 |
-| [100TIMENTS](https://open.spotify.com/track/2gtmeOF8dyOss6uzNZjXmR) | [REA](https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ) | [100TIMENTS](https://open.spotify.com/album/6rbuXRd3gBgYLv4bgyRFlA) | 2:00 | 2025-11-28 |  |
+| [100TIMENTS](https://open.spotify.com/track/2gtmeOF8dyOss6uzNZjXmR) | [REA](https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ) | [100TIMENTS](https://open.spotify.com/album/6rbuXRd3gBgYLv4bgyRFlA) | 2:00 | 2025-11-28 | 2026-02-14 |
 | [10h30\. Le Soleil Donne](https://open.spotify.com/track/1BQ1XGyL1s6iXlkbafsDYK) | [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [MPLI](https://open.spotify.com/artist/30ABSMFhYN2HZHLdSt4D2w) | [MOYI](https://open.spotify.com/album/1WJXqSZBf4OLQ9gqdPp2HZ) | 3:46 | 2023-04-14 | 2023-04-29 |
 | [207](https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [René Soso Pembe](https://open.spotify.com/artist/4VbRAkOhCxEkuNK4EeVFIM) | [207](https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG) | 8:30 | 2024-07-26 | 2025-10-25 |
 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-09 | 2023-07-01 |
@@ -478,7 +478,7 @@
 | [Nalingi ye](https://open.spotify.com/track/5mEnRGML6tztiuKBigJIQQ) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Nalingi ye](https://open.spotify.com/album/6FM6rbjMIjVaxH5cQ6g5S9) | 3:02 | 2022-09-02 | 2023-03-18 |
 | [Nanani](https://open.spotify.com/track/12ETuEC0kPFjRuQokNZRjr) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:30 | 2025-05-23 | 2026-01-31 |
 | [Nani](https://open.spotify.com/track/7hOpOQGiOrt5Ba2mwy5IU2) | [Danyka](https://open.spotify.com/artist/2tnbUoKzRBCMVMV2ZYVqry) | [Nani](https://open.spotify.com/album/0UNtUQKkDVPwhFi6MbEq9Y) | 2:49 | 2024-07-26 | 2024-09-28 |
-| [NAO BANGO TE](https://open.spotify.com/track/4wOkYDN5Jv0RUtAXyDz5Lo) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l), [Dogga Dogga](https://open.spotify.com/artist/00m0nroiqxIcjFmhXtYObr) | [NAO BANGO TE](https://open.spotify.com/album/5QLox2xu6PEnqzxnTrV2FT) | 2:43 | 2026-01-16 |  |
+| [NAO BANGO TE](https://open.spotify.com/track/4wOkYDN5Jv0RUtAXyDz5Lo) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l), [Dogga Dogga](https://open.spotify.com/artist/00m0nroiqxIcjFmhXtYObr) | [NAO BANGO TE](https://open.spotify.com/album/5QLox2xu6PEnqzxnTrV2FT) | 2:43 | 2026-01-16 | 2026-02-14 |
 | [Napesi](https://open.spotify.com/track/5YHN0JC9DIJW3UtNOlVJJz) | [Makoma](https://open.spotify.com/artist/4b05CA03ut3sJbMVXeEKMD) | [History](https://open.spotify.com/album/3FUIw0addqmbvRuM00QECL) | 4:44 | 2022-06-30 | 2023-03-18 |
 | [Nawe](https://open.spotify.com/track/1eP4rDdU5UohUBzfksBzOX) | [Percy](https://open.spotify.com/artist/49Jl2qfrGf6cNyZknXuMXJ), [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Alesh](https://open.spotify.com/artist/1eoHFjFKLn2lr7FpLNSWdT) | [Nawe](https://open.spotify.com/album/6WgcT5ZDMaV10p0NdVwfKt) | 3:21 | 2022-06-30 | 2023-02-04 |
 | [NDOKI](https://open.spotify.com/track/4NlVu9lP2OrRZ0f80mD5YN) | [Leaux Reese](https://open.spotify.com/artist/07QiVx7zAb0JwxrVkZSi2O) | [AFRO MUSE](https://open.spotify.com/album/32fxI9uwjGZFVzEoJt9Ceu) | 2:02 | 2024-03-15 | 2024-04-13 |
@@ -494,6 +494,7 @@
 | [NO LIMIT](https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe) | [BDLM VOL.1](https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y) | 3:14 | 2024-10-18 | 2025-07-05 |
 | [No No](https://open.spotify.com/track/1Frpb7u9lv3F12FoSlCoad) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [No No](https://open.spotify.com/album/7a0U6MdaIRecUdfwy749GX) | 3:54 | 2023-02-24 | 2023-09-16 |
 | [No stress](https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 2:35 | 2024-10-04 | 2024-11-30 |
+| [Noche](https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Noche](https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax) | 2:18 | 2026-02-13 |  |
 | [Nostalgie](https://open.spotify.com/track/59P7LifAtqA1rgmeztU6cU) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 3:16 | 2023-10-27 | 2024-01-13 |
 | [Nostalgie](https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Nostalgie](https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt) | 3:16 | 2023-08-04 | 2023-11-02 |
 | [Nous Deux](https://open.spotify.com/track/4SKamIlowPlWqUYwc0M31W) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Nous Deux](https://open.spotify.com/album/70kLp4rJ4DEQTcewmFw16p) | 2:14 | 2024-09-13 | 2025-02-01 |
@@ -573,6 +574,7 @@
 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-05-10 | 2024-06-22 |
 | [RATATA](https://open.spotify.com/track/4tGZCW0Ik3wASPyZXVjZQo) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [RATATA](https://open.spotify.com/album/22dlDdmFV7p4UaFso2PhHo) | 3:04 | 2025-11-21 |  |
 | [RDMV](https://open.spotify.com/track/4QVsBN1976xZ9SKg87Y0g7) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [RDMV](https://open.spotify.com/album/2pJJ5RSEmFb7rl0Q9KzmA5) | 2:25 | 2024-09-27 | 2024-10-26 |
+| [Remise En Question](https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [Remise En Question](https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3) | 3:03 | 2026-02-13 |  |
 | [Rien à dire](https://open.spotify.com/track/5qPX7itFieCjayio8QzCY8) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Rien à dire](https://open.spotify.com/album/1ccqlPqQA2Jx0BxRR5Lb51) | 2:55 | 2023-12-22 | 2024-01-05 |
 | [ROH MUBAYA](https://open.spotify.com/track/1BJ43ygIzGfCTAcfZ4tLoV) | [Dj Hans Awe](https://open.spotify.com/artist/3V4dAtSB5eFiWPL5Jzg6SN), [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [KissBeatz](https://open.spotify.com/artist/1JsMUlVAuMujNThwU7KnRb) | [ROH MUBAYA](https://open.spotify.com/album/4e3VdCdY3JMwPNFvVKzSH9) | 3:01 | 2024-12-20 | 2025-11-22 |
 | [Rond point](https://open.spotify.com/track/36V9liFzimANeSyaowyOA1) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Quartier Latin](https://open.spotify.com/artist/34XQ0y2Kni5E4SDlFaAcG5) | [Droit de véto](https://open.spotify.com/album/0XRgQBLcvYIJH3AH9GrlRc) | 7:52 | 2022-10-28 | 2023-04-01 |

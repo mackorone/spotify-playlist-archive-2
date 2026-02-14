@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: SIENNA SPIRO
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: LITTLE JOHN
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,515 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,524 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 1 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
 | 2 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
 | 3 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
-| 4 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 5 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
+| 4 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 |
+| 5 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
 | 6 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
 | 7 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
 | 8 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 |
 | 9 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
 | 10 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
 | 11 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 12 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
-| 13 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 |
-| 14 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
-| 15 | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H) | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/album/3ebPLvyB2Xtpkbw4dyg1qy) | 3:48 |
-| 16 | [สาธุ \(Sathu\) \[feat\. ปลาย กนกพร\]](https://open.spotify.com/track/0pa70WIyVyI3DY4bcL2vZo) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz), [ปลาย กนกพร](https://open.spotify.com/artist/5UtsnPxhjHtOM6cyv8iqVN) | [DEEPMIND](https://open.spotify.com/album/6E2hWewCYErAbNZjz8eiCF) | 3:38 |
-| 17 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 |
+| 12 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
+| 13 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
+| 14 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 |
+| 15 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
+| 16 | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H) | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/album/3ebPLvyB2Xtpkbw4dyg1qy) | 3:48 |
+| 17 | [สาธุ \(Sathu\) \[feat\. ปลาย กนกพร\]](https://open.spotify.com/track/0pa70WIyVyI3DY4bcL2vZo) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz), [ปลาย กนกพร](https://open.spotify.com/artist/5UtsnPxhjHtOM6cyv8iqVN) | [DEEPMIND](https://open.spotify.com/album/6E2hWewCYErAbNZjz8eiCF) | 3:38 |
 | 18 | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/track/11ZywXk23xC8T7VOpKAbKI) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [PEEMWASU OF BUS](https://open.spotify.com/artist/5Iol3bIHuguW8mLb3KwHvE) | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/album/26P69L852w82osraPlizaB) | 3:08 |
 | 19 | [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 |
 | 20 | [ดอกกระเจียวบาน](https://open.spotify.com/track/2GwkhYxTMUNoA82crG078s) | [Kong Huayrai](https://open.spotify.com/artist/0QStHUbJoIoaNtvHVaBMGK) | [ดอกกระเจียวบาน](https://open.spotify.com/album/37ODDShfTap0k59FHaQR4F) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 50 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 |
 
-Snapshot ID: `AAAAALIpvkBHVb3WgC1KThzZxozCxgQX`
+Snapshot ID: `AAAAAA3K0xU6TnTkTwB1Mt8YTYlTu2Gq`

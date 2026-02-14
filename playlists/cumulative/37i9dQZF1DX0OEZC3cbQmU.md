@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Get Worship
 
-203 songs - 21 hr 13 min
+204 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L) | [ALEXANDRE APOSAN](https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J) | 5:42 | 2022-09-02 | 2024-08-17 |
 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 | 2022-09-02 | 2023-04-29 |
 | [Autor da Vida](https://open.spotify.com/track/2iCrDCZRIiqXkoRY6eDviQ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Autor da Vida](https://open.spotify.com/album/4gHZbXybaO7k9sQducvAeN) | 4:55 | 2022-09-02 | 2023-06-03 |
+| [Auê \(A Fé Ganhou\)](https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro) | [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a), [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4) | [O Grande Banquete](https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw) | 5:15 | 2026-02-13 |  |
 | [Avenida do Arrependimento](https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Avenida do Arrependimento](https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs) | 6:30 | 2025-05-02 |  |
 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:32 | 2024-08-30 | 2025-09-30 |
 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-02 |  |
@@ -151,7 +152,7 @@
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-28 |  |
 | [Paz Sem Fim \(Nada Quebrado\) \- Ao Vivo](https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj) | 5:48 | 2025-05-23 |  |
 | [Pertinho \- Live](https://open.spotify.com/track/1Y5QN2S9gOZpDBkbOeA6fB) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Pertinho \(Live\)](https://open.spotify.com/album/5FgS1rPdfvF2i3Dox9moXO) | 3:54 | 2022-09-02 | 2023-03-18 |
-| [Pode Morar Aqui](https://open.spotify.com/track/3SSb1jUojmZLbml3S3f9bN) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui](https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI) | 9:26 | 2023-06-23 |  |
+| [Pode Morar Aqui](https://open.spotify.com/track/3SSb1jUojmZLbml3S3f9bN) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui](https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI) | 9:26 | 2023-06-23 | 2026-02-14 |
 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 | 2023-01-20 |  |
 | [Porque Ele Vive](https://open.spotify.com/track/2W9PRczUyBnRi8t4wzpwwq) | [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Porque Ele Vive](https://open.spotify.com/album/2GvTMDNnh6WJfkeL0VDNkC) | 6:52 | 2024-01-05 | 2024-12-14 |
 | [Porque Ele Vive \- Ao Vivo](https://open.spotify.com/track/5vf2Pm7OtecvE7qEU6BIwX) | [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Porque Ele Vive \(Ao Vivo\)](https://open.spotify.com/album/3X085WzabzRlHOkk66f3vX) | 6:52 | 2022-09-02 | 2024-04-19 |

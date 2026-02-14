@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 466,
+  "num_followers": 467,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAABBsMUtibyiN6fooC2Zej5",
+  "snapshot_id": "aY0YAAAAAAAnyZ9fd98PDGjj0/YViFAj",
   "tracks": [
     {
       "added_at": null,
@@ -135,30 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Future Odyssey",
-        "url": "https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Albin Myers",
-          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
-        }
-      ],
-      "duration_ms": 201210,
-      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
-      "url": "https://open.spotify.com/track/1bUqaX8ucv4VTMtKlAd8mW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selfish High Heels",
         "url": "https://open.spotify.com/album/181GktSNgR8gA0ql8LLlEa"
       },
@@ -179,6 +155,30 @@
       "duration_ms": 226500,
       "name": "Selfish High Heels",
       "url": "https://open.spotify.com/track/4jkQZNP7o8T7xuTs9EQu7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Future Odyssey",
+        "url": "https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Albin Myers",
+          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+        }
+      ],
+      "duration_ms": 201210,
+      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
+      "url": "https://open.spotify.com/track/1bUqaX8ucv4VTMtKlAd8mW"
     },
     {
       "added_at": null,
@@ -503,42 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Collage",
-      "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 175464,
-      "name": "Atmosphere (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -555,46 +519,6 @@
       "duration_ms": 215741,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Above the Waters",
-        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 103301,
-      "name": "Big Waves",
-      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "She's Strong (feat. Maddee)",
-      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
     },
     {
       "added_at": null,
@@ -619,6 +543,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Collage",
+      "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Above the Waters",
+        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 103301,
+      "name": "Big Waves",
+      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -628,9 +588,49 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 175464,
+      "name": "Atmosphere (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "She's Strong (feat. Maddee)",
+      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
     },
     {
       "added_at": null,
@@ -655,6 +655,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 93437,
+      "name": "In The Dark (Interlude)",
+      "url": "https://open.spotify.com/track/0i7YGVzXLSH2jyEWuIiufc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
@@ -675,38 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Next Blue",
-      "url": "https://open.spotify.com/track/6DmJLgV5oEEPwvWPq7R5XS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 219069,
       "name": "Once Upon A Time",
       "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Ashe Maree",
-      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 194000,
       "name": "So Far From Home",
       "url": "https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Ashe Maree",
+      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
     },
     {
       "added_at": null,

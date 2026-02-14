@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Annasofia, Andr\u00e9s Cepeda",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: TIM\u00d8",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180546,
       "name": "506",
       "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 150419,
       "name": "Aviones de Papel",
       "url": "https://open.spotify.com/track/4hNdUb1jgKQ2lytl0Z17dN"
@@ -984,6 +984,28 @@
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
+    },
+    {
+      "album": {
+        "name": "CUCARACHEO",
+        "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Jay Kabalan",
+          "url": "https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153903,
+      "name": "CUCARACHEO",
+      "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
     },
     {
       "album": {
@@ -2020,7 +2042,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 155652,
       "name": "Flor de Loto",
       "url": "https://open.spotify.com/track/5alaBHAJt05jkDLmML9sYM"
@@ -2758,7 +2780,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 215961,
       "name": "Locos Dementes",
       "url": "https://open.spotify.com/track/1avccdZyIOpCisznKwu47H"
@@ -3464,7 +3486,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 155074,
       "name": "No Hay Que Llorar",
       "url": "https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3"
@@ -3725,6 +3747,28 @@
     },
     {
       "album": {
+        "name": "Ozono",
+        "url": "https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "maikol el insoportable",
+          "url": "https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244713,
+      "name": "Ozono",
+      "url": "https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC"
+    },
+    {
+      "album": {
         "name": "Pa Olvidarte (feat. Manuel Turizo) [Remix]",
         "url": "https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0"
       },
@@ -3752,6 +3796,42 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
+    },
+    {
+      "album": {
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182231,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ"
+    },
+    {
+      "album": {
+        "name": "Elsa y Elmar (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177719,
+      "name": "palacio - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5Zu8zZJhmEyu2yg1GBo7dK"
     },
     {
       "album": {
@@ -4976,6 +5056,24 @@
       "duration_ms": 213952,
       "name": "Te Lo Advert\u00ed - Desde Abbey Road",
       "url": "https://open.spotify.com/track/4KwR77O9Yld5rHkkv2nbib"
+    },
+    {
+      "album": {
+        "name": "Te Odio",
+        "url": "https://open.spotify.com/album/3BLBFxZLciXu7N9cF8itlG"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144537,
+      "name": "Te Odio",
+      "url": "https://open.spotify.com/track/397jDbGxYWYuRewhhDGZyN"
     },
     {
       "album": {

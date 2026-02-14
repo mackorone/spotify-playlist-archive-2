@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Dakota",
+        "url": "https://open.spotify.com/album/2T7jF9GrVXcaKGOhp3kfLd"
+      },
+      "artists": [
+        {
+          "name": "Richard Watts",
+          "url": "https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208627,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/6UAtC9L1KsEzW1DzaBOKFe"
+    },
+    {
+      "album": {
         "name": "Dance The Night",
         "url": "https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS"
       },
@@ -3516,7 +3534,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 120452,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/0nrgRYApN2iNRQ3FTZILer"
@@ -3762,6 +3780,24 @@
       "duration_ms": 209844,
       "name": "Pointless - Acoustic",
       "url": "https://open.spotify.com/track/6Lv2VsZijTj0x6BmMk30CR"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/6KUsfLkrv2n1qZd6ojmgIT"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201031,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/691sWxifVUICpiHe4jbZev"
     },
     {
       "album": {
@@ -4350,6 +4386,24 @@
     {
       "album": {
         "name": "Sweet Dreams (Are Made of This) [Acoustic]",
+        "url": "https://open.spotify.com/album/7IcHMcOmoxYOxxXPoJakNM"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Sweet Dreams (Are Made of This) - Acoustic",
+      "url": "https://open.spotify.com/track/0dIH2PTEvCAoqiLZz4oVsX"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (Are Made of This) [Acoustic]",
         "url": "https://open.spotify.com/album/1hAOKALlbJeuanzRCMTcBE"
       },
       "artists": [
@@ -4638,7 +4692,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 266278,
       "name": "Thinking Out Loud - Acoustic",
       "url": "https://open.spotify.com/track/5g8icmRtCprCAYeSVtJufd"

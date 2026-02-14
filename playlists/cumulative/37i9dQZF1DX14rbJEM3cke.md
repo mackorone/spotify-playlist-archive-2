@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current\. Cover: Master Peace
 
-362 songs - 18 hr 38 min
+364 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [dayz gone](https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [dayz gone / black lodge breakfast burrito \(limited time only\)](https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS) | 3:11 | 2024-06-17 |  |
 | [Death By Entertainment](https://open.spotify.com/track/18Cw4ObhnZl13oRVbWBHkh) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY) | 3:31 | 2025-01-31 | 2025-07-19 |
 | [Definition \(ft\. Jason Aalon Of Fever 333\)](https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Mohawks & Durags](https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt) | 2:56 | 2022-02-12 | 2022-08-27 |
+| [DEMOLITION MAN](https://open.spotify.com/track/4jgt5xF9YT7hIKyQ0QGkZA) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 3:20 | 2026-02-13 |  |
 | [Demon Child](https://open.spotify.com/track/1RaVC8vuMq3HfrdIKmBUJ3) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Demon Child](https://open.spotify.com/album/1UmT3WDoH3f6RP9qHX6hoI) | 2:49 | 2022-02-12 | 2022-02-26 |
 | [DIE OUT HERE \(FEAT\. POORSTACY\)](https://open.spotify.com/track/0iAgTXl1wWqfFMh5Ci12Ew) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:14 | 2022-12-02 | 2023-02-02 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-15 | 2023-02-02 |
@@ -105,6 +106,7 @@
 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 | 2025-01-31 |  |
 | [dumb with you](https://open.spotify.com/track/0nJbXArCCbkRflshkWQUJM) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 2:59 | 2024-05-31 |  |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-02-12 | 2022-07-23 |
+| [dysphoria](https://open.spotify.com/track/4SoZGGmT1dr8m4plCxBMkV) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [VOL\. 3](https://open.spotify.com/album/1t2vmgSDDzA7xrngcZvxUL) | 2:19 | 2026-02-13 |  |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-17 | 2023-06-21 |
 | [Elephant](https://open.spotify.com/track/31E2QPxSDBf0PxfRClagj6) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Destroyer](https://open.spotify.com/album/0iVXfI7KbWDPcenBT2PUyC) | 3:41 | 2024-02-01 | 2024-12-19 |
 | [ELVIRA](https://open.spotify.com/track/5Zzylb0t4kLOGzYw1LDHOg) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [ELVIRA](https://open.spotify.com/album/1TaTRenPe1g6acHgv4gX3q) | 1:51 | 2023-06-02 | 2024-06-01 |
@@ -163,7 +165,7 @@
 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 | 2026-02-03 |  |
 | [I Don't Know How To Love](https://open.spotify.com/track/0MapHAOWC5xN9kypG84DUn) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en) | 3:22 | 2022-07-22 | 2022-08-27 |
 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 | 2022-06-03 | 2022-12-03 |
-| [I hate your face](https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [I hate your face](https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7) | 2:18 | 2025-01-31 |  |
+| [I hate your face](https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [I hate your face](https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7) | 2:18 | 2025-01-31 | 2026-02-14 |
 | [I Need More Than This](https://open.spotify.com/track/5ApakVfvVz1GbRtVMdCSE2) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 4:24 | 2025-05-30 |  |
 | [I See Walking Caskets](https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [I See Walking Caskets](https://open.spotify.com/album/1vvaWC0ov1lC4jwNTJJm99) | 2:01 | 2023-04-07 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2026-02-03 |  |
@@ -329,7 +331,7 @@
 | [Till The World's Awake](https://open.spotify.com/track/3QHSudHjKsjzWIUrIc3Pya) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 3:28 | 2022-12-02 | 2023-02-02 |
 | [To the Moon](https://open.spotify.com/track/3R5MJ4C0YJ95KxdMrXa3W8) | [Quinton Brock](https://open.spotify.com/artist/1abW5Py6b6FSSpirm5Fkqq) | [To the Moon](https://open.spotify.com/album/7kWRuBFm2lqz75qXXZzAiK) | 2:34 | 2022-02-12 | 2022-07-23 |
 | [TOO DEPRESSED 4 SEX](https://open.spotify.com/track/3fPQOhFj62RkiviJMZ7d0G) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [SURF](https://open.spotify.com/album/4tqKTPbidKIGn9UIZe5I73) | 2:49 | 2022-07-22 | 2022-08-27 |
-| [Too Much](https://open.spotify.com/track/4pRyxHjXhAuEGE4CITYMGS) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:34 | 2025-07-18 |  |
+| [Too Much](https://open.spotify.com/track/4pRyxHjXhAuEGE4CITYMGS) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:34 | 2025-07-18 | 2026-02-14 |
 | [Trouble](https://open.spotify.com/track/5nCWfBPzdbgXstg99AUTEb) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Before The Sun Goes Down](https://open.spotify.com/album/0LW7Gi4WOcZ1KaEWY0fY7M) | 3:23 | 2022-02-12 | 2022-03-18 |
 | [try again](https://open.spotify.com/track/1MyG8JxwY3hosoRPgpuWJ1) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 4:14 | 2023-04-07 |  |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-04-07 | 2025-02-01 |

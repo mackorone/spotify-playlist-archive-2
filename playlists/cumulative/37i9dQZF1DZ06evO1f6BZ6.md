@@ -4,13 +4,14 @@
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 56 min
+69 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Less Talk And A Lot More Action](https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 2:50 | 2024-02-07 |  |
 | [A Little Too Late](https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 4:06 | 2024-11-01 |  |
 | [A Little Too Late](https://open.spotify.com/track/5djhyxT7ZIzM1rP2XE2ygb) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 4:08 | 2024-02-14 | 2024-09-04 |
+| [Ain't No Thang](https://open.spotify.com/track/0rRXZvjL2ZHqq3OX3Dp62q) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:27 | 2026-02-14 |  |
 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 | 2024-02-07 |  |
 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 | 2024-02-07 |  |
 | [As Good As I Once Was](https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:47 | 2024-02-07 |  |
@@ -36,7 +37,7 @@
 | [Hey Good Lookin'](https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [License to Chill](https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg) | 3:03 | 2024-02-07 |  |
 | [Honkytonk U](https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:34 | 2024-05-11 |  |
 | [How Do You Like Me Now?!](https://open.spotify.com/track/7rDcULv8vV16vetBjPJhuE) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 3:29 | 2024-02-07 |  |
-| [Huckleberry](https://open.spotify.com/track/6xTr7I1TPZwJHid5dG0VNJ) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:28 | 2026-01-15 |  |
+| [Huckleberry](https://open.spotify.com/track/6xTr7I1TPZwJHid5dG0VNJ) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:28 | 2026-01-15 | 2026-02-14 |
 | [I Like Girls That Drink Beer](https://open.spotify.com/track/1BrCXPoH8NrQpa4qRhpn2x) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Hope on the Rocks](https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs) | 2:47 | 2024-02-07 | 2025-01-16 |
 | [I Love This Bar](https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 5:35 | 2024-02-07 |  |
 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 | 2024-02-07 |  |

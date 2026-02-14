@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,041 likes - 130 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,043 likes - 130 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 36 | [Call on Me](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me \(Remixes\)](https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs) | 7:34 |
 | 37 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 38 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 |
-| 39 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
-| 40 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
+| 39 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
+| 40 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
 | 41 | [Please Don’t Touch](https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Please Don’t Touch](https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk) | 3:38 |
 | 42 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 |
 | 43 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 53 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
 | 54 | [Follow The White Rabbit](https://open.spotify.com/track/2Txj791OlOaNSMpps0gz5K) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 2:59 |
 | 55 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
-| 56 | [Breathing](https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:24 |
-| 57 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/6f7SVoKbc1zFE5Lg2Qo9P4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:35 |
+| 56 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/6f7SVoKbc1zFE5Lg2Qo9P4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:35 |
+| 57 | [Breathing](https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:24 |
 | 58 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 |
 | 59 | [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 |
 | 60 | [Friends](https://open.spotify.com/track/34KTVmypyKLAFJc8CpfI5P) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Friends](https://open.spotify.com/album/5WmYE9Qy49qZ9brCCZ9h79) | 3:24 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 129 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 130 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `AcJgNgAAAAAvS6hIrUE84cIJbOIyyre8`
+Snapshot ID: `AcJlzAAAAACOT52ubhdiNIxqGD3mUgHw`

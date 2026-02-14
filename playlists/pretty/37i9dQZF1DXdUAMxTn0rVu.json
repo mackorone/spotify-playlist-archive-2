@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, 2000s underground hip-hop scene. Cover: J Dilla",
-  "num_followers": 632083,
+  "num_followers": 632273,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-02-07 18:12:32",
       "album": {
+        "name": "Nia",
+        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
+      },
+      "artists": [
+        {
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
+    },
+    {
+      "added_at": "2026-02-07 18:12:32",
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 202106,
       "name": "The Red",
       "url": "https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA"
-    },
-    {
-      "added_at": "2026-02-07 18:12:32",
-      "album": {
-        "name": "Nia",
-        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
-      },
-      "artists": [
-        {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
     },
     {
       "added_at": "2026-02-07 18:12:32",

@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-539 songs - 1 day 12 hr 0 min
+541 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Joy](https://open.spotify.com/track/393nJe8YyZXrx7uJDmlGT5) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Joy](https://open.spotify.com/album/4t0XROk7L1wPmWdjSX0LrP) | 2:26 | 2025-08-15 | 2025-11-28 |
 | [Joy](https://open.spotify.com/track/71aXJUkCNSqw16oRGJerni) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Joy](https://open.spotify.com/album/7bPr9NFMAeBKcUXrNhM1nN) | 8:23 | 2025-11-28 |  |
 | [JOY](https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [JOY](https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol) | 3:02 | 2025-09-05 | 2025-11-07 |
+| [Joy](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:26 | 2026-02-13 |  |
 | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/track/1DAUHWoF0BRWT0wyES0I9W) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/album/6ugfSSCMX9r5cesyyAxw9l) | 2:57 | 2024-10-18 | 2025-02-07 |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2024-09-27 | 2025-02-28 |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-07-25 |
@@ -310,6 +311,8 @@
 | [Love Got Me](https://open.spotify.com/track/29J6IeHDZpilQSJM9YGifd) | [Nnâmdi](https://open.spotify.com/artist/6Y7ODpu4UEAApsm6iSz9xP), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Love Got Me](https://open.spotify.com/album/1vOfJYdzGOgVDXvtzjdrCT) | 2:46 | 2025-07-11 | 2025-08-16 |
 | [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-24 | 2025-02-28 |
 | [Love Like You](https://open.spotify.com/track/71UaCkbKCihfAmUxI9hcNK) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Love Like You](https://open.spotify.com/album/7d1MX2xd84TTPT6eE08ln3) | 2:26 | 2024-10-18 | 2025-02-07 |
+| [Love Me](https://open.spotify.com/track/60Qbxkui6XGLsKtJUISv15) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [YATO](https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE) | 3:01 | 2026-02-13 |  |
+| [Love Me Endlessly](https://open.spotify.com/track/5gJ2EAd37L67lCLwMxHP6x) | [Rose Oye](https://open.spotify.com/artist/2WZF7q1UIV9ERGtEoUrhyr) | [Love Me Endlessly](https://open.spotify.com/album/6qnempinCv6qCSselntiJC) | 2:53 | 2026-02-13 |  |
 | [Lovin Me](https://open.spotify.com/track/1QMGcsjPnpGdBOoZOqhjVn) | [nedrich](https://open.spotify.com/artist/4sB1pk30amMaMVQhAkxACL), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Lovin Me](https://open.spotify.com/album/3E87vxwvab2TqEzZ9JWT7W) | 2:59 | 2025-12-05 |  |
 | [LOWKEY](https://open.spotify.com/track/54hrmRT9vulv7CMjSgjgwi) | [SovT Music](https://open.spotify.com/artist/29eB4DKTb6yyUJ0G6vZC6e) | [LOWKEY](https://open.spotify.com/album/1Cn2peeuFGQh6BDXkD5u3f) | 3:11 | 2024-10-25 | 2025-01-31 |
 | [LOYAL](https://open.spotify.com/track/1I79Vh70gIi03MiRTlxGAZ) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [LOYAL](https://open.spotify.com/album/6obUWrzn7Ap39jKbhb54kr) | 2:34 | 2025-12-12 |  |
@@ -485,7 +488,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 |  |
-| [Track 5](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Trust in You](https://open.spotify.com/track/1M9UdMIo63boWoCf4bJwo6) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Steady Worship](https://open.spotify.com/artist/17ni7x7OVAYDsxQyKUp1DJ) | [Trust in You](https://open.spotify.com/album/6hTxgKcqFko2RnxpX30Xhi) | 3:32 | 2025-09-05 | 2025-11-14 |
 | [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 | 2025-08-02 | 2025-11-07 |
 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 | 2024-09-27 | 2025-02-28 |

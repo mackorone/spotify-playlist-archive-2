@@ -4,7 +4,7 @@
 
 > 
 
-441 songs - 1 day 5 hr 25 min
+443 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Happiness Over Everything \(H.O.E.\) \(feat\. Future & Miguel\)](https://open.spotify.com/track/2yUy5eFAFWAichjrySJWA2) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:08 | 2021-12-16 |  |
 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 | 2021-12-16 |  |
 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 | 2023-11-08 |  |
+| [have to.](https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:27 | 2026-02-13 |  |
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2022-07-10 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-16 |  |
 | [Heartbreaker](https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 4:22 | 2021-12-16 |  |
@@ -294,6 +295,7 @@
 | [NOTHING LESS](https://open.spotify.com/track/7aGpxzqEndzz82BfUiPOu8) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:28 | 2021-12-16 |  |
 | [One In A Million](https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:30 | 2021-12-16 |  |
 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 | 2021-12-16 |  |
+| [other side.](https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:15 | 2026-02-13 |  |
 | [Our First Time](https://open.spotify.com/track/5BmKRyAjCnvkko7Ms00YtA) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 4:03 | 2022-05-15 |  |
 | [Outside](https://open.spotify.com/track/2eeZvByHPfohwq9YU3Sj0d) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [6pc Hot EP](https://open.spotify.com/album/37O0Syq7Db1kydzUH8TbwB) | 3:09 | 2021-12-16 |  |
 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2022-11-29 |  |

@@ -34623,6 +34623,24 @@
     },
     {
       "album": {
+        "name": "King of Sadtown",
+        "url": "https://open.spotify.com/album/3JYPXy9wUuPHw1tkU6GiWR"
+      },
+      "artists": [
+        {
+          "name": "Peej",
+          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "King of Sadtown",
+      "url": "https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT"
+    },
+    {
+      "album": {
         "name": "AnZietyDepression",
         "url": "https://open.spotify.com/album/1ME0JcIEqEc7Vj6XmXhWSl"
       },
@@ -69404,24 +69422,6 @@
       "duration_ms": 234253,
       "name": "Toyo",
       "url": "https://open.spotify.com/track/3swCmgkJL1LtMGMQPlGUK0"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Peej",
-          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
-        }
-      ],
-      "date_added": "2026-02-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT"
     },
     {
       "album": {

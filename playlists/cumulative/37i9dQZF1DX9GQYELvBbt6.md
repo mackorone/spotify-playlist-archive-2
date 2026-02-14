@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-219 songs - 14 hr 19 min
+220 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [ALONE](https://open.spotify.com/track/2445JyDGRHYTKR9z80bAK6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [ALONE](https://open.spotify.com/album/42F5ZokDngGpz1CA5xGfkS) | 2:40 | 2025-11-05 | 2025-12-10 |
 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 | 2023-11-21 | 2024-04-19 |
 | [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 | 2024-02-06 | 2024-04-19 |
-| [Answer](https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Answer](https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B) | 4:06 | 2023-11-21 |  |
+| [Answer](https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Answer](https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B) | 4:06 | 2023-11-21 | 2026-02-14 |
 | [As the World Caves In](https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH) | 2:41 | 2023-11-21 | 2024-04-19 |
 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 | 2024-01-09 |  |
 | [bouquet](https://open.spotify.com/track/5BHYY8UdVH3KG3pAZTaCpn) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Sihou Shugi](https://open.spotify.com/album/0UyPeLjutyAuchVinYwjvz) | 4:24 | 2025-11-05 | 2025-12-10 |
@@ -63,6 +63,7 @@
 | [lonely night](https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [lonely night](https://open.spotify.com/album/0stQuNmMAxDmrffku01ZZ0) | 2:59 | 2025-01-15 | 2025-05-28 |
 | [LOSER](https://open.spotify.com/track/7AqUE5AY514dbzeOAfJRa0) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:03 | 2023-11-21 |  |
 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 | 2023-11-21 |  |
+| [mabataki](https://open.spotify.com/track/5y1N9zfII6NnDRzNPmMPJv) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:06 | 2026-02-04 |  |
 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 | 2025-01-29 | 2025-03-05 |
 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 | 2025-04-30 | 2025-10-19 |
 | [Message](https://open.spotify.com/track/7zcxUs7fDG2YPyYmbVDQlO) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Message](https://open.spotify.com/album/46CtRn5cgpV5xkTQ7xIb5u) | 4:05 | 2025-04-30 | 2026-02-05 |

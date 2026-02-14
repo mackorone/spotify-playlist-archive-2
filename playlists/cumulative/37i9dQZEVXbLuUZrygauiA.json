@@ -15340,7 +15340,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 152416,
       "name": "Cuerno Azulado",
       "url": "https://open.spotify.com/track/4wOHvjzXto0aN5CMaJFsbq"
@@ -39080,7 +39080,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 226000,
       "name": "Me Borro Del Mapa",
       "url": "https://open.spotify.com/track/7skTfduO3pXCDJR0qTQAcf"
@@ -44500,7 +44500,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 213512,
       "name": "ni\u00f1a de CASA",
       "url": "https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu"
@@ -46268,7 +46268,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -48405,6 +48405,28 @@
     },
     {
       "album": {
+        "name": "Paleta Dame Paleta",
+        "url": "https://open.spotify.com/album/6MqD2XJdZDx7ceRKR6dgnV"
+      },
+      "artists": [
+        {
+          "name": "El Rey Del Mixtape",
+          "url": "https://open.spotify.com/artist/4V3NCsxrUxKdMrnsMD3P0Y"
+        },
+        {
+          "name": "Dj Jhonatan Per\u00fa",
+          "url": "https://open.spotify.com/artist/3ajec2RtAQFQCH7UOgyAzC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90143,
+      "name": "Paleta Dame Paleta",
+      "url": "https://open.spotify.com/track/5t2mApzdkw3lxMBfMmXZJV"
+    },
+    {
+      "album": {
         "name": "Palmeras en el jard\u00edn",
         "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
       },
@@ -49426,7 +49448,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187826,
       "name": "PATRULLANDO",
       "url": "https://open.spotify.com/track/3Nm8TAAsLs8GQCQQ1E8AI3"
@@ -59242,7 +59264,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -61508,6 +61530,24 @@
       "duration_ms": 143182,
       "name": "supercogelona",
       "url": "https://open.spotify.com/track/35NXhkGu4SlvUm5XMycvCj"
+    },
+    {
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "album": {

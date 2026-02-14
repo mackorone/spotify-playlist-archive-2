@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring madra salach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,659 likes - 85 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,651 likes - 85 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 84 | [Larchmont](https://open.spotify.com/track/2gt7W8PIq4Ya9FJwi628dy) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Larchmont](https://open.spotify.com/album/0A1YDOuxKoUjVGNjdDSDLz) | 4:50 |
 | 85 | [Number One Fan](https://open.spotify.com/track/0JxmOHLNDZMy6m0vKUMgUh) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [R is for Rocket](https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG) | 3:51 |
 
-Snapshot ID: `AAAAAIwRyGiK58HXby6mAhPGO8u5PWEd`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

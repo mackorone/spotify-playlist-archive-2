@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: Julieta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,290 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,295 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 26 | [M'oblido d'oblidar\-te](https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [M'oblido d'oblidar\-te](https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2) | 2:50 |
 | 27 | [PACMAN](https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN](https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao) | 2:06 |
 | 28 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 |
-| 29 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
+| 29 | [El farsante](https://open.spotify.com/track/0jKWDwrSaTH6HVRUfmNc5U) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [El farsante](https://open.spotify.com/album/3I5A4arFhQMeiSA5FZKfJY) | 3:02 |
 | 30 | [LA TARARA](https://open.spotify.com/track/0Xli6E8WChnb7cx6N4JFPa) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LA TARARA](https://open.spotify.com/album/1l4fWb6gcSRLz93BdMi4sU) | 2:20 |
 | 31 | [Cari](https://open.spotify.com/track/51YXhOh8taqRam8XVga4uc) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cari](https://open.spotify.com/album/2ALeu54Vl6DOORM3v0lbZx) | 2:10 |
 | 32 | [LA INNOMBRABLE](https://open.spotify.com/track/09JbAO5vwgChXJPQiISWIJ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [LA INNOMBRABLE](https://open.spotify.com/album/1kT6w4Zv616edhEXtGFq6F) | 2:33 |
 | 33 | [Chocolate Axe](https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Chocolate Axe](https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim) | 2:47 |
-| 34 | [El farsante](https://open.spotify.com/track/0jKWDwrSaTH6HVRUfmNc5U) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [El farsante](https://open.spotify.com/album/3I5A4arFhQMeiSA5FZKfJY) | 3:02 |
+| 34 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
 | 35 | [PRESIDENTE](https://open.spotify.com/track/1VaeZwjaf10EFRm7hssFr2) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [PRESIDENTE](https://open.spotify.com/album/77I5lp1UwURnhQzOalJrj8) | 2:26 |
 | 36 | [En mi coche](https://open.spotify.com/track/6uoHyBdpRD1VLQ4tZCqQ21) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.I : CARI](https://open.spotify.com/album/6PCPA1Y2prtnQ4v3sZ4NOp) | 2:04 |
 | 37 | [SÉPTIMO SENTIDO](https://open.spotify.com/track/2C0pKSrGBCP4CZHzzAYDIk) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [SÉPTIMO SENTIDO](https://open.spotify.com/album/1DWJoDN8uLJ2wkKAKn99EC) | 2:37 |

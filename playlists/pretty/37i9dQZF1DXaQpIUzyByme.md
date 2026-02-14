@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,358 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,379 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 54 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
 | 55 | [Op Fietse](https://open.spotify.com/track/0C8H9i00fPS3fJkjQ2eTOF) | [Skik](https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc) | [Niks Is Zoas 't Lek](https://open.spotify.com/album/6NMjDUpZ4HlJpW4A6OZjWL) | 4:50 |
 | 56 | [Verliefd Zijn](https://open.spotify.com/track/2wLPPLc2mNOskEOtpwgqX8) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:30 |
-| 57 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |
+| 57 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW) | 3:55 |
 | 58 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
-| 59 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW) | 3:55 |
+| 59 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |
 | 60 | [Daar Gaat Ze](https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 3:47 |
 | 61 | [Zo Ver Weg](https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:34 |
 | 62 | [Ome Jan](https://open.spotify.com/track/6UWOJvPjoFA4NoCbLw8wzI) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:31 |

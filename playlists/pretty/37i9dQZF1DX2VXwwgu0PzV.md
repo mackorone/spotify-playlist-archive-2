@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,109 likes - 139 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,203 likes - 139 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 |
 | 2 | [Unending Joy](https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Unending Joy](https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr) | 9:45 |
-| 3 | [Track 5](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Joy](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:26 |
 | 4 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 |
 | 5 | [Heavenly Father](https://open.spotify.com/track/7B2vqZT7RLKh48sCkIeQLn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Heavenly Father](https://open.spotify.com/album/51vnd3o8uR5q0Ae22DpCFK) | 3:26 |
 | 6 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |

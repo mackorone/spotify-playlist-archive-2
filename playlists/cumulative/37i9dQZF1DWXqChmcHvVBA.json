@@ -544,7 +544,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 178695,
       "name": "Armate el Bolso",
       "url": "https://open.spotify.com/track/4GroIaUffsKbTO0PybhGey"
@@ -1345,6 +1345,40 @@
     },
     {
       "album": {
+        "name": "Contra La Pared (Remix)",
+        "url": "https://open.spotify.com/album/1WC4GkBBrtCaaXHgCoOuA9"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Owin",
+          "url": "https://open.spotify.com/artist/7fS9WTnNbc7ST9gm77HH14"
+        },
+        {
+          "name": "mamiyosoyelth",
+          "url": "https://open.spotify.com/artist/0WeYfeSY8u5DBuDSu1f7s5"
+        },
+        {
+          "name": "VAINY",
+          "url": "https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194857,
+      "name": "Contra La Pared - Remix",
+      "url": "https://open.spotify.com/track/1A93UTdNPrVaql91Ik3aB7"
+    },
+    {
+      "album": {
         "name": "Coronado",
         "url": "https://open.spotify.com/album/1DuftnjBpkPqcGdIDvCAY9"
       },
@@ -2132,7 +2166,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 161764,
       "name": "F\u00d3RMULA 1 RKT",
       "url": "https://open.spotify.com/track/35Tz5jiNw7gg0SKFEznYtH"
@@ -2363,6 +2397,28 @@
     },
     {
       "album": {
+        "name": "MEGA CALLEJERO FINO RKT 2",
+        "url": "https://open.spotify.com/album/2bRlrx3pm1XGG13WnMWsbm"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Martin Vegas",
+          "url": "https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136593,
+      "name": "JINETE RKT",
+      "url": "https://open.spotify.com/track/0WeJx4ct4VORWWfqp6iIZO"
+    },
+    {
+      "album": {
         "name": "KALEB DI MASI | DJ TAO Turreo Sessions #5",
         "url": "https://open.spotify.com/album/6o3eo5zVgIzvhS53BrToO0"
       },
@@ -2558,7 +2614,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 135716,
       "name": "LA PRE$iON \u5371 Vol \u2022 1",
       "url": "https://open.spotify.com/track/6rurdBnoekyRMavGpweEkI"
@@ -2580,7 +2636,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 167470,
       "name": "LA PRE$iON \u5371 Vol \u2022 2",
       "url": "https://open.spotify.com/track/1SRAcUEcRkCzXxGdvGSUNg"
@@ -3240,7 +3296,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 133013,
       "name": "Mi santo - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6rKOEyg05nKSRRErDmBWjy"
@@ -3276,10 +3332,36 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 126352,
       "name": "MONOBLOCK",
       "url": "https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l"
+    },
+    {
+      "album": {
+        "name": "MEGA CALLEJERO FINO RKT 2",
+        "url": "https://open.spotify.com/album/2bRlrx3pm1XGG13WnMWsbm"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Martin Vegas",
+          "url": "https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "MOVIENDO LA COLA",
+      "url": "https://open.spotify.com/track/3bSFOuNxhr7Sh4Nn72qZtB"
     },
     {
       "album": {
@@ -3406,7 +3488,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187252,
       "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
       "url": "https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R"
@@ -4032,7 +4114,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 134123,
       "name": "Perreo Cacheton",
       "url": "https://open.spotify.com/track/1GVe6rHBYbLPDlA3bMceFa"
@@ -4054,7 +4136,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 124285,
       "name": "Perreo Fannel 2",
       "url": "https://open.spotify.com/track/4IQI1LgCTuwppfbzr3ehjh"
@@ -5536,7 +5618,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 163800,
       "name": "SUELTA",
       "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
@@ -5832,7 +5914,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 217826,
       "name": "Te Escapas De Mis Brazos - Remix",
       "url": "https://open.spotify.com/track/3ZACqxHGSK9WQsuwhBNART"
@@ -6154,7 +6236,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 131901,
       "name": "Totona",
       "url": "https://open.spotify.com/track/55NV9nn3Cnasa6FGoWVZ5o"
@@ -6522,7 +6604,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 153850,
       "name": "Ubicacion 5 Saquense la Ropa",
       "url": "https://open.spotify.com/track/4EssJyOx8862eIHQxn6XS1"
@@ -6748,7 +6830,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199484,
       "name": "Una Wacha Piola - REMIX",
       "url": "https://open.spotify.com/track/76GhnOdyvGQdD00x1qKasL"

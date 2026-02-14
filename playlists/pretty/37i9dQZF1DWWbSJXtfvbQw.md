@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 
 > The biggest songs in Latin America in 2016\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,664 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,727 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 | 24 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 |
 | 25 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 |
 | 26 | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [DUELE EL CORAZON \(feat\. Wisin\)](https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ) | 3:19 |
-| 27 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 |
-| 28 | [Bobo](https://open.spotify.com/track/5kdTuoKeqdnblCop75wMuX) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:29 |
+| 27 | [Bobo](https://open.spotify.com/track/5kdTuoKeqdnblCop75wMuX) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:29 |
+| 28 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 |
 | 29 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
 | 30 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
 | 31 | [Deja Que Te Bese](https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deja Que Te Bese](https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4) | 4:04 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 | 42 | [Qué Gano Olvidándote](https://open.spotify.com/track/7iXRsjttPa62GpOcqsx1aE) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:27 |
 | 43 | [Mil Tormentas](https://open.spotify.com/track/3dtdmf6pvv11KNJWxKlT07) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:53 |
 | 44 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 |
-| 45 | [Cuando Se Pone a Bailar](https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Cuando Se Pone a Bailar](https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX) | 3:15 |
-| 46 | [No Quiere Enamorarse \- Remix](https://open.spotify.com/track/0XC9N5n8osww4bfsPuNMpS) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [No Quiere Enamorase \(Remix\)](https://open.spotify.com/album/2DkcvSeo7QRxupA0YQneEF) | 3:59 |
+| 45 | [No Quiere Enamorarse \- Remix](https://open.spotify.com/track/0XC9N5n8osww4bfsPuNMpS) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [No Quiere Enamorase \(Remix\)](https://open.spotify.com/album/2DkcvSeo7QRxupA0YQneEF) | 3:59 |
+| 46 | [Cuando Se Pone a Bailar](https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Cuando Se Pone a Bailar](https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX) | 3:15 |
 | 47 | [Quisiera](https://open.spotify.com/track/4iPV0gcc8keTFl6qxqP73M) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:05 |
 | 48 | [Embriágame \(feat\. Don Omar\) \- Remix](https://open.spotify.com/track/1WOJTQfNUEkLlsinPP95VM) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:50 |
 | 49 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 |

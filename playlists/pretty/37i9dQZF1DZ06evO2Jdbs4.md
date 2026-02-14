@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,247 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,251 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 16 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 |
 | 17 | [Móntame](https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Montame](https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE) | 3:24 |
 | 18 | [Algún Día](https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Días de Ayer](https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j) | 3:19 |
-| 19 | [Eclipse](https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM) | [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Juntos](https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm) | 3:37 |
-| 20 | [Cantarle a Ella](https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk) | 2:54 |
+| 19 | [Cantarle a Ella](https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk) | 2:54 |
+| 20 | [Eclipse](https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM) | [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Juntos](https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm) | 3:37 |
 | 21 | [Perdóname \- Cumbia](https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Montame](https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE) | 3:45 |
 | 22 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde Las Vegas](https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB) | 6:40 |
 | 23 | [Zona de Peligro](https://open.spotify.com/track/3sHx52OKWUEymHdfQ4PPNf) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Zona De Peligro](https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL) | 3:38 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 40 | [Dígale \- En Vivo](https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:58 |
 | 41 | [Me Derrito \(feat\. Bobby Pulido\)](https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Los Ángeles Existen](https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs) | 2:50 |
 | 42 | [Abrázame Y Bésame \- En Vivo](https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Jennifer Peña](https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf) | [Abrázame Y Bésame \(En Vivo\)](https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs) | 3:38 |
-| 43 | [Y Te Lo Pido \- En Vivo](https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Y Te Lo Pido \(En Vivo\)](https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8) | 4:47 |
+| 43 | [Mujer Maravilla](https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Fénix](https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD) | 2:15 |
 | 44 | [Separarnos \- En Vivo](https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:14 |
-| 45 | [Mujer Maravilla](https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Fénix](https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD) | 2:15 |
+| 45 | [Y Te Lo Pido \- En Vivo](https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Y Te Lo Pido \(En Vivo\)](https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8) | 4:47 |
 | 46 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 |
 | 47 | [Cuando Me Dejes De Amar](https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:26 |
 | 48 | [Cumbia Vallenata \- En Vivo](https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Cumbia Vallenata \(En Vivo\)](https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH) | 3:37 |
 | 49 | [Sergio El Bailador \- En Vivo](https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:02 |
 | 50 | [Desnúdame Con La Boca](https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enfermo De Amor](https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH) | 3:44 |
 
-Snapshot ID: `aYvGgAAAAAB+rLcT4OjE6U6YaBvZQFGw`
+Snapshot ID: `aY0YAAAAAABGMtLQCHtfOkrBiVb5J72Q`

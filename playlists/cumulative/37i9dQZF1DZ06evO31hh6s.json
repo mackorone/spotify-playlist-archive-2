@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197086,
       "name": "Alone",
       "url": "https://open.spotify.com/track/2djI4NaLOiIv6EaWHPGwqI"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 182331,
       "name": "Angels Sing",
       "url": "https://open.spotify.com/track/3XFL6ehChtKBCM157ciccZ"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 217773,
       "name": "Can U But That?",
       "url": "https://open.spotify.com/track/798nkL7ySAWVByZMEjJtPY"
@@ -1016,10 +1016,32 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
+    },
+    {
+      "album": {
+        "name": "Crazy 80's Babies",
+        "url": "https://open.spotify.com/album/0PgmVjfYHFnQ2CyRwCoVPN"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Dirty Bert",
+          "url": "https://open.spotify.com/artist/2bz7u4I8vesATLV8haM7Dh"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290722,
+      "name": "Foo Fambino",
+      "url": "https://open.spotify.com/track/5nv2npB23rED5Vihxj3wPg"
     },
     {
       "album": {
@@ -3110,7 +3132,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 157127,
       "name": "T.R.U.",
       "url": "https://open.spotify.com/track/052nU8WXmBxzhNhyonBJPA"

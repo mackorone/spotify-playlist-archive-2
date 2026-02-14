@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Chick Flick",
+        "url": "https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi"
+      },
+      "artists": [
+        {
+          "name": "Salmon Cat",
+          "url": "https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Chick Flick",
+      "url": "https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs"
+    },
+    {
+      "album": {
         "name": "Chin Up",
         "url": "https://open.spotify.com/album/1IQ0R84y6EchzVRyp7IrPq"
       },
@@ -4251,8 +4269,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Everywhere Isn't Texas",
+        "url": "https://open.spotify.com/album/75jUCkcDcLD25FR9AlQJik"
       },
       "artists": [
         {
@@ -13845,24 +13863,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
-    },
-    {
-      "album": {
         "name": "trans",
         "url": "https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2"
       },
@@ -14110,6 +14110,24 @@
       "duration_ms": 213534,
       "name": "Two's On A Cigarette",
       "url": "https://open.spotify.com/track/1X2vc5OwPV6wFq6Gp3pVyO"
+    },
+    {
+      "album": {
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "album": {

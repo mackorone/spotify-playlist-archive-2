@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 125926,
       "name": "Behind The Moon",
       "url": "https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 119390,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5eNqOyXiW0tcaPpdvBtICA"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 105488,
       "name": "cozed",
       "url": "https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd"
@@ -3315,6 +3315,28 @@
     },
     {
       "album": {
+        "name": "Downstairs",
+        "url": "https://open.spotify.com/album/7euS7Hlr85arpFEjud3Bvy"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        },
+        {
+          "name": "Eli Theo",
+          "url": "https://open.spotify.com/artist/65kuBz0eVcX6ihOIPdwqGe"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Downstairs",
+      "url": "https://open.spotify.com/track/62W8LAP58Qlh21HK95e6OP"
+    },
+    {
+      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -3452,7 +3474,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 117500,
       "name": "Dusk till Dawn",
       "url": "https://open.spotify.com/track/1kb6efbzTHHoatxufVUnaP"
@@ -3648,7 +3670,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 141363,
       "name": "Elixier",
       "url": "https://open.spotify.com/track/6GeYp27nYXMNkhzJoqZM8F"
@@ -4642,7 +4664,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 121904,
       "name": "Free Flowing",
       "url": "https://open.spotify.com/track/0QIvzyV00cdv3UIWldwDtt"
@@ -4952,7 +4974,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 155059,
       "name": "Go Hug Yourself",
       "url": "https://open.spotify.com/track/7KYRLuzQTWgOcrC4oztiIp"
@@ -4992,7 +5014,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 92690,
       "name": "Going Along With It",
       "url": "https://open.spotify.com/track/4KgJmpIxPEnwagCpEgAuYc"
@@ -5484,7 +5506,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 134814,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/4fUH332jseQ3vdrEu4FsZk"
@@ -9210,7 +9232,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 158000,
       "name": "Niigata",
       "url": "https://open.spotify.com/track/5yBsxiaKvNiI7sbqVlqC5A"
@@ -9648,7 +9670,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 142222,
       "name": "On The Rocks",
       "url": "https://open.spotify.com/track/24vuwWVdXOLweulimpx3av"
@@ -10160,7 +10182,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "Parc Mercier",
       "url": "https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY"
@@ -10674,7 +10696,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 128780,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/5fEQg559m7sLKw78foaoWF"
@@ -11948,7 +11970,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 143414,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/45dCxZ1b32IMjK5FVNI38a"
@@ -12346,7 +12368,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 144000,
       "name": "Soul Garden",
       "url": "https://open.spotify.com/track/0FsVyKGM2epSKXiEd5wtAe"
@@ -12874,7 +12896,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "sugar",
       "url": "https://open.spotify.com/track/3Xn9tjmpfJtOYTv5B2fbs4"
@@ -13542,7 +13564,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 107333,
       "name": "Sycamore",
       "url": "https://open.spotify.com/track/4Q6kcMuzi2X60hl37hVWQd"
@@ -14475,6 +14497,28 @@
     },
     {
       "album": {
+        "name": "Time Warp",
+        "url": "https://open.spotify.com/album/3mzrVg4jOniW5Z2Wz4q78x"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/2VsZlYtIcFXeWced64RZCe"
+    },
+    {
+      "album": {
         "name": "Foundations",
         "url": "https://open.spotify.com/album/0ZFovHBhbcyjt2YKG1eWLG"
       },
@@ -14486,7 +14530,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 105600,
       "name": "Timeless Love",
       "url": "https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2"
@@ -14718,7 +14762,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "Twice",
       "url": "https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY"
@@ -15606,7 +15650,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 130746,
       "name": "Washed in Vermillion",
       "url": "https://open.spotify.com/track/2iVDPydX7QsgR7IY3PSQBD"

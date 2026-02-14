@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Dream Drowning",
+        "url": "https://open.spotify.com/album/6m1m6TgRI1yJe4Ntjewm4X"
+      },
+      "artists": [
+        {
+          "name": "TRAITRS",
+          "url": "https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348642,
+      "name": "Dream Drowning",
+      "url": "https://open.spotify.com/track/0P9EkYlfknFPm5StsE9wZV"
+    },
+    {
+      "album": {
         "name": "As One Aflame Laid Bare By Desire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28RYjaEUybwEqOwmK8VPi5"
       },
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243066,
       "name": "Muscoviet Mosquito",
       "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"

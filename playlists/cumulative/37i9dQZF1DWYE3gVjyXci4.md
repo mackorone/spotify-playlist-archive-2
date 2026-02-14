@@ -4,12 +4,13 @@
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-73 songs - 4 hr 26 min
+75 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4EVER](https://open.spotify.com/track/26yohWYLPKCCP7X7rwKedJ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:39 | 2025-08-18 |  |
 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 | 2025-08-18 |  |
+| [American Teenage Prophecy](https://open.spotify.com/track/3fGewiHyMYBWH3aGciSDJo) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [American Teenage Prophecy](https://open.spotify.com/album/480qaahln1j5C4hbuTvl2b) | 3:40 | 2026-02-13 |  |
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2025-08-18 |  |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-08-18 |  |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2025-08-18 |  |
@@ -27,6 +28,7 @@
 | [First Love / Late Spring](https://open.spotify.com/track/1Ac5BDsGUMQ3tsW2vnc52x) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/472GvzwE3EZ0i2EEaly5mX) | 4:38 | 2025-08-18 | 2025-11-29 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2025-08-18 |  |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2025-08-18 |  |
+| [Girls Just Wanna](https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Girlhood](https://open.spotify.com/album/05KNazpljahHfx1ElDNujj) | 2:16 | 2026-02-13 |  |
 | [Give A Little](https://open.spotify.com/track/3D4uUFRoYDFHbkQlTKL2Om) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:46 | 2025-08-18 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2025-08-18 |  |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2025-08-18 | 2025-09-20 |

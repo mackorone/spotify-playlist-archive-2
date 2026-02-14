@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Kuba Karaś
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,701 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,719 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OBEJMIJ MNIE](https://open.spotify.com/track/7ii4ALWWkeu51XArlxB9LP) | [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [OBEJMIJ MNIE](https://open.spotify.com/album/6GEiEU87XLNvFL0Nyh9qMa) | 3:24 |
 | 2 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
-| 3 | [Walczyk](https://open.spotify.com/track/29edwTF4pFcJWpmCDAkJiV) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [](https://open.spotify.com/album/null) | 3:50 |
+| 3 | [Walczyk](https://open.spotify.com/track/29edwTF4pFcJWpmCDAkJiV) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Chciałbym umrzeć z miłości](https://open.spotify.com/album/7MWO1mWEBvoFtxsIlncWmN) | 3:50 |
 | 4 | [Anioły \(Pojedynek\)](https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Anioły \(Pojedynek\)](https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST) | 4:42 |
 | 5 | [Ania](https://open.spotify.com/track/0VCF9pfUVC5dsP8MkVkaQx) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ania](https://open.spotify.com/album/2f8jxVtiBGmS8oAFsMwLNG) | 5:27 |
 | 6 | [Pokoje Ta Druga na Bis](https://open.spotify.com/track/1MECqA3gqjqJh9HFTynhKx) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Pokoje Ta Druga na Bis](https://open.spotify.com/album/3MBFKv4w1n4e7INgy7v2N6) | 4:22 |

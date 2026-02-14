@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4076725,
+  "num_followers": 4076971,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 212226,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Diesel And Dust",
-        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Beds Are Burning - Remastered",
-      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 218960,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Diesel And Dust",
+        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
+      },
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Beds Are Burning - Remastered",
+      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
       "added_at": "2024-09-13 16:58:23",

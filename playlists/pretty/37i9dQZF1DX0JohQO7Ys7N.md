@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,026 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,082 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 |
 | 2 | [Reasons](https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Off My Chest](https://open.spotify.com/album/3UkjFytj440El2a712oDX9) | 4:24 |
 | 3 | [Feel You](https://open.spotify.com/track/4iCzpvKmAqnQEoH1lxZBnQ) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy) | [Feel You](https://open.spotify.com/album/64PIMvFZqwZyo20UPLniYN) | 3:43 |
-| 4 | [Niwewe](https://open.spotify.com/track/6EQ7pGilvbOhMNwo9UbN3J) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Niwewe](https://open.spotify.com/album/4hsuH36mKQFWr0d1gIePEM) | 2:34 |
+| 4 | [Ni Wewe](https://open.spotify.com/track/6EQ7pGilvbOhMNwo9UbN3J) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Ni Wewe](https://open.spotify.com/album/4hsuH36mKQFWr0d1gIePEM) | 2:34 |
 | 5 | [Dilly Darling](https://open.spotify.com/track/5KXvjxNDjDMqw3yzs3Hdm4) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Dilly Darling](https://open.spotify.com/album/5ev4H9jy1ftkDODd5HXiKN) | 3:47 |
 | 6 | [Feel The Love](https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Boy Lover](https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb) | 2:49 |
 | 7 | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0) | 3:16 |

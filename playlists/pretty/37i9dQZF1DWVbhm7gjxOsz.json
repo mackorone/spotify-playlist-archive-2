@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 127870,
+  "num_followers": 127925,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Yes I'm Ready",
-        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Yes, I'm Ready",
-      "url": "https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 214973,
       "name": "Whatcha See Is Whatcha Get",
       "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Yes I'm Ready",
+        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Yes, I'm Ready",
+      "url": "https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -660,13 +660,13 @@
       },
       "artists": [
         {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
         }
       ],
-      "duration_ms": 282480,
-      "name": "Computer Love",
-      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
+      "duration_ms": 249866,
+      "name": "I Want to Be Your Man",
+      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -676,13 +676,13 @@
       },
       "artists": [
         {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
         }
       ],
-      "duration_ms": 249866,
-      "name": "I Want to Be Your Man",
-      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
+      "duration_ms": 282480,
+      "name": "Computer Love",
+      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Best Of Dee Dee Sharp 1962-1966",
         "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 168773,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Dreams Of Contentment (Special Deluxe Collection)",
-        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Oh What A Nite",
-      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Two Lovers",
         "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 170439,
       "name": "Laughing Boy",
       "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Dreams Of Contentment (Special Deluxe Collection)",
+        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Oh What A Nite",
+      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Looking Back 1961-1964",
         "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 177333,
       "name": "What Love Has Joined Together - Single Version",
       "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Takin' All My Lovin'",
+        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Takin' All My Lovin'",
+      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Blue Eyes Crying In the Rain",
         "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
       },
@@ -1743,46 +1763,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Takin' All My Lovin'",
-        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
-      },
-      "artists": [
-        {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Takin' All My Lovin'",
-      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Songs from La Mission (Original Motion Soundtrack)",
-        "url": "https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ"
-      },
-      "artists": [
-        {
-          "name": "La Mission",
-          "url": "https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG"
-        },
-        {
-          "name": "Orlando Torriente",
-          "url": "https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno"
-        }
-      ],
-      "duration_ms": 251964,
-      "name": "Porque Te Quiero",
-      "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Maybe It's Time",
         "url": "https://open.spotify.com/album/4VzG7pkJyHbjnz5mTWyrKS"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 211865,
       "name": "Maybe It's Time",
       "url": "https://open.spotify.com/track/4Gy2mnEllofZbpi9ITuWpV"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Songs from La Mission (Original Motion Soundtrack)",
+        "url": "https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ"
+      },
+      "artists": [
+        {
+          "name": "La Mission",
+          "url": "https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG"
+        },
+        {
+          "name": "Orlando Torriente",
+          "url": "https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno"
+        }
+      ],
+      "duration_ms": 251964,
+      "name": "Porque Te Quiero",
+      "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Irons In The Fire",
         "url": "https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 329146,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Heatwave's Greatest Hits",
-        "url": "https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Always and Forever - Edit",
-      "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Sisters of Soul; the Sweeter Voices of Soul",
         "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 184634,
       "name": "I Love You for All Seasons",
       "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Heatwave's Greatest Hits",
+        "url": "https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Always and Forever - Edit",
+      "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
     },
     {
       "added_at": "2025-05-23 07:54:59",

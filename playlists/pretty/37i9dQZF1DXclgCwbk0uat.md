@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Katteyes & SINAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008,138 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008,255 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 15 | [Me Mareo](https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 2:48 |
 | 16 | [Comando Estelar](https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N) | [Germanini](https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [JhonAlex](https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Comando Estelar](https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH) | 3:40 |
 | 17 | [COMO TÚ](https://open.spotify.com/track/3Frf311vkzSQtLUrtRFgba) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye) | [COMO TÚ](https://open.spotify.com/album/4rV6GgBgdXu1q9r6Etr4NH) | 2:45 |
-| 18 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:07 |
+| 18 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:09 |
 | 19 | [Somos Diferentes \(Remix\)](https://open.spotify.com/track/6Ne8CMowcnP2t9WeL9pai9) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Somos Diferentes](https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J) | 3:59 |
 | 20 | [Pensando Brigido](https://open.spotify.com/track/5hTAltMXPzPf2tLKZiBLKM) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Reelian](https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw) | [LAS FILTRADAS](https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq) | 3:46 |
 | 21 | [Dime Si Te Acuerdas](https://open.spotify.com/track/08rPC6uXVwFDrTZxTGNuU3) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [Dime Si Te Acuerdas](https://open.spotify.com/album/55Oc5PWWdXAZJmJtPPiSC6) | 2:48 |

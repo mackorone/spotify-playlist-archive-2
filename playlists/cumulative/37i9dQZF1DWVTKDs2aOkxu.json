@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Chick Flick",
+        "url": "https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi"
+      },
+      "artists": [
+        {
+          "name": "Salmon Cat",
+          "url": "https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Chick Flick",
+      "url": "https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs"
+    },
+    {
+      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o"
       },
@@ -11267,7 +11285,7 @@
     },
     {
       "album": {
-        "name": "Sisters (feat. Ninajirachi)",
+        "name": "Sisters",
         "url": "https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi"
       },
       "artists": [
@@ -11284,7 +11302,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224000,
-      "name": "Sisters (feat. Ninajirachi)",
+      "name": "Sisters",
       "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
     },
     {

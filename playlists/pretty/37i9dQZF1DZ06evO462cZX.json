@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44936,
+  "num_followers": 44945,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACiWSYRMJvS3x0q5HMu7F/n",
+  "snapshot_id": "aY0YAAAAAABGJX7/2knW5FlCvrOdVOK4",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Young Eiby",
+          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Que Es Eso (feat. Young Eiby)",
+      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Front To Back",
         "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
       },
@@ -775,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Young Eiby",
-          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Que Es Eso (feat. Young Eiby)",
-      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
+      "duration_ms": 206228,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
     },
     {
       "added_at": null,
@@ -819,18 +835,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 206228,
-      "name": "Rise and Shine",
-      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
+      "duration_ms": 229411,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
     },
     {
       "added_at": null,
@@ -859,46 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 229411,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -919,22 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
       },
       "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -959,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn Out",
         "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
       },
@@ -971,26 +971,6 @@
       "duration_ms": 172115,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
-      },
-      "artists": [
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
     },
     {
       "added_at": null,
@@ -1067,6 +1047,26 @@
       "duration_ms": 178666,
       "name": "Ushua\u00efa",
       "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
+      },
+      "artists": [
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
     }
   ],
   "unique_name": "This Is Deorro",

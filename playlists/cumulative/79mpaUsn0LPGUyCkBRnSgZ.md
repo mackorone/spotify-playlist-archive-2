@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,056 songs - 2 day 21 hr 1 min
+1,058 songs - 2 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 | 2024-01-02 |
 | [Hot Tent Blues](https://open.spotify.com/track/71Vlx8pCp21bmgNx9PZsx5) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 1:15 | 2024-06-08 | 2024-06-12 |
 | [Hours Were the Birds](https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:11 | 2024-10-14 | 2024-12-03 |
+| [House featuring John Cale](https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:15 | 2026-02-13 |  |
 | [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 | 2025-08-23 |  |
 | [How the Shadow Is Clear \- Remastered](https://open.spotify.com/track/4dJV7QQkkqE8o6UrWp6poO) | [Oidopuaa Vladimir Oiun](https://open.spotify.com/artist/11D12wFV7ZA7kc83fO23Fv) | [Divine Music from Jail](https://open.spotify.com/album/1EfMnzM9K8lIXG394evveZ) | 2:06 | 2026-01-28 |  |
 | [Howling At The Moon](https://open.spotify.com/track/4dXNZHMLQSg1slX92JGjA1) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 4:36 | 2024-07-19 |  |
@@ -441,6 +442,7 @@
 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2023-08-17 |  |
 | [In Heaven](https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:50 | 2023-11-19 | 2025-07-25 |
 | [in My Garden...](https://open.spotify.com/track/40xfJg6ZZXr3jRJkxJJZ0O) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 0:25 | 2024-01-29 |  |
+| [In Search of a Revival Part 1](https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [In Search of a Revival](https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM) | 0:51 | 2026-02-13 |  |
 | [In the Darkness](https://open.spotify.com/track/2HO68dkF74HHG99eOmE4cP) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 2:01 | 2022-06-15 |  |
 | [In The End](https://open.spotify.com/track/5lDPr9m2SCnDCrCPX6o0xz) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 2:47 | 2023-03-31 | 2024-01-06 |
 | [In the Flesh?](https://open.spotify.com/track/24YmWQgunJGAU8El3ndkyn) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:18 | 2024-01-15 |  |

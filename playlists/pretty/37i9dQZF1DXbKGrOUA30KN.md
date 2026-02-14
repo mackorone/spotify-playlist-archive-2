@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Lune
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,917 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,885 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 22 | [Nasser Asphalt](https://open.spotify.com/track/6UZhlIQvEUaCuonBy1Nqbh) | [Tuana](https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv) | [Nasser Asphalt](https://open.spotify.com/album/2lOqQM0TNxtwuP3PMNJvP9) | 3:15 |
 | 23 | [JULIA](https://open.spotify.com/track/5qmbdSOs0g9QGYObVGbmFo) | [Julia Steen](https://open.spotify.com/artist/7zGxTpEbNGFj6NxWUKLVhr) | [JULIA](https://open.spotify.com/album/7wOvSekyeIlbvK9yBOMGUL) | 2:59 |
 | 24 | [Was immer du willst!](https://open.spotify.com/track/185cvCZ59Gv7CYa23IBRTo) | [Mo\-Torres](https://open.spotify.com/artist/0A8ObGbFDJOFc7SLwBqO3o) | [Was immer du willst!](https://open.spotify.com/album/7tC85wpSMHOmPmMkvJInv9) | 2:59 |
-| 25 | [Valentine](https://open.spotify.com/track/19rgyUBShlb3SOuxvLkZzK) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [](https://open.spotify.com/album/null) | 2:24 |
+| 25 | [Valentine](https://open.spotify.com/track/19rgyUBShlb3SOuxvLkZzK) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Lost & Found](https://open.spotify.com/album/2jQgajFlj5okka8zk86aK8) | 2:24 |
 | 26 | [GROSSE WORTE](https://open.spotify.com/track/5MluGZSQSkblJesI4CnqDE) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [GROSSE WORTE](https://open.spotify.com/album/5DlO8YR0dwLXOI8upesqVY) | 2:07 |
 | 27 | [Lila](https://open.spotify.com/track/2Mx3CTtLVNgkf1dwSrDllV) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Lila](https://open.spotify.com/album/4zvS17jxXI5VXNaGRZLhpe) | 2:46 |
 | 28 | [Herz über Kopf](https://open.spotify.com/track/4Lpps50Ott94n1tN80qfuQ) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Herz über Kopf](https://open.spotify.com/album/7znwSVvZI4KMZwMbbym5Ew) | 2:38 |

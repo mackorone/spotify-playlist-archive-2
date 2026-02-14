@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Les Votives in cover
 
-1,851 songs - 4 day 7 hr 38 min
+1,852 songs - 4 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1319,6 +1319,7 @@
 | [Practical Magic](https://open.spotify.com/track/7oHOCMEmkntfn5HKuM7b4h) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [Practical Magic](https://open.spotify.com/album/6akTNWvMrw3wHr9mO6kpt7) | 2:53 | 2024-01-18 | 2024-03-22 |
 | [Precipitiamo di sicuro / Inc\. \(feat\. Kalpa\)](https://open.spotify.com/track/2rSHmQt2qiAbQbPTAO50ET) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2), [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [Precipitiamo di sicuro](https://open.spotify.com/album/7tFZgqCqjEWIJPyzsbRnQq) | 5:46 | 2025-08-28 | 2025-10-17 |
 | [Preda](https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u) | [Solaris](https://open.spotify.com/artist/3RFeodZEt6cNZo0DPQMd4S) | [Preda](https://open.spotify.com/album/6WmM7P2msBOZaXLMtUpu1A) | 5:28 | 2023-03-02 | 2023-05-10 |
+| [Prendere Fuoco](https://open.spotify.com/track/5sbMMLR3YYFUYrTltD1Thp) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Perché Non Si Sa Mai](https://open.spotify.com/album/6RwsMookpjspDygtfXxGhK) | 3:48 | 2026-02-12 |  |
 | [Prendersi Cura](https://open.spotify.com/track/3bhZr2G5pFb6cGXPhPGHMM) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ) | [Prendersi Cura](https://open.spotify.com/album/2ZhbjoC4zcBdaQ6cnj1maP) | 4:30 | 2024-05-16 | 2024-08-09 |
 | [Prendi fiato](https://open.spotify.com/track/1c1WcyaR6YXifL2XxHX1xV) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Prendi fiato](https://open.spotify.com/album/5cSk1qshG0piAAa6AV8dfh) | 3:39 | 2023-01-19 | 2023-03-10 |
 | [Prenditi bene](https://open.spotify.com/track/0DwrTodYap34euWW8QqNo2) | [LINFA](https://open.spotify.com/artist/4THhk8iVbIKWgz2iWqpc0l) | [Prenditi bene](https://open.spotify.com/album/1UChclAZEJGZ9z8NSVwDKn) | 4:22 | 2025-07-10 | 2025-09-05 |
@@ -1676,7 +1677,6 @@
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
 | [TRACCIA](https://open.spotify.com/track/7kYc1qVVzaQU9biiYaMzMY) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [TRACCIA](https://open.spotify.com/album/65vl4mvwYTCSV8QiTpQZrK) | 3:38 | 2023-10-12 | 2023-11-03 |
 | [TRACCIA 0](https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [TRACCIA 0](https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea) | 2:08 | 2022-11-24 | 2022-12-24 |
-| [Track 6](https://open.spotify.com/track/5sbMMLR3YYFUYrTltD1Thp) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [traffico](https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q) | [Nostalgia/Futuro](https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n) | [traffico](https://open.spotify.com/album/4DhmacndeoSITFKELZ5JG8) | 3:21 | 2026-01-15 |  |
 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 | 2023-01-26 | 2023-05-12 |
 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 | 2025-12-04 |  |
@@ -1811,6 +1811,7 @@
 | [Vortice](https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3) | [Raniss](https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V) | [Credere Di Pensare](https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q) | 3:40 | 2022-05-09 | 2022-05-27 |
 | [Voyager](https://open.spotify.com/track/4rYYY9DPDLDr2NWwxLSh1k) | [BRX!T](https://open.spotify.com/artist/6kBpa0gW1AJobWbaKOoi6Z) | [Voyager](https://open.spotify.com/album/77HX95KM7WtzjkeIEnRbJL) | 3:22 | 2025-06-26 | 2025-08-22 |
 | [Vuoto](https://open.spotify.com/track/596f5WmG7Q611WheySvHHW) | [Cosmetic](https://open.spotify.com/artist/4C6fXZ7soCX4ycsXguZ1zE) | [Vuoto / Gemella](https://open.spotify.com/album/1IJphTGTETt5bgiSb967Gh) | 3:05 | 2024-09-19 | 2024-11-22 |
+| [Wake Me Up](https://open.spotify.com/track/5B0dtsuE5aQP89cZgrAnXs) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Wake Me Up](https://open.spotify.com/album/77ctho2YcZjt0LYwHvC9sw) | 3:25 | 2026-02-12 |  |
 | [Wake Up](https://open.spotify.com/track/396qudK4x9iiOU6MdXKXIi) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Wake Up](https://open.spotify.com/album/694veyemi5wiq7zya4DZiz) | 2:20 | 2025-09-25 | 2025-11-07 |
 | [Wandervogel](https://open.spotify.com/track/3eMGmtjbJhJR3Fy1zMpuge) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Wandervogel](https://open.spotify.com/album/4hcE4y0a8mOyjPXoqInVrG) | 2:57 | 2024-05-23 | 2024-06-28 |
 | [Wanna Be Enough](https://open.spotify.com/track/5KlXGcFG9ZaZgHC3gh9pmS) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Wanna Be Enough](https://open.spotify.com/album/4lKFZ6qfOa4Qe6YT823IZY) | 3:48 | 2026-01-29 |  |

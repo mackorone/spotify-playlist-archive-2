@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23954,
+  "num_followers": 23958,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Flawed (feat. Gunna)",
-        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 204455,
-      "name": "Flawed (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Flawed (feat. Gunna)",
+        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 204455,
+      "name": "Flawed (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -927,18 +927,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Ok Cool",
-        "url": "https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom"
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/3NNLR5rt9WpUqbRJqpV5zH"
       },
       "artists": [
         {
-          "name": "CEO Trayle",
-          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 177648,
-      "name": "Ok Cool",
-      "url": "https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ"
+      "duration_ms": 190458,
+      "name": "Richer (feat. Polo G)",
+      "url": "https://open.spotify.com/track/7HsjuVBM93Z2RoxjpWLgTT"
     }
   ],
   "unique_name": "Funny Marco's Taste",

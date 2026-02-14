@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 207913,
+  "num_followers": 207944,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Silence Yourself",
-        "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
+        "name": "Rhythm and Paranoia: The Best of Bush Tetras",
+        "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
       },
       "artists": [
         {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
+          "name": "Bush Tetras",
+          "url": "https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb"
         }
       ],
-      "duration_ms": 170133,
-      "name": "Husbands",
-      "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
+      "duration_ms": 243186,
+      "name": "Too Many Creeps",
+      "url": "https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Rhythm and Paranoia: The Best of Bush Tetras",
-        "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
+        "name": "Silence Yourself",
+        "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
       },
       "artists": [
         {
-          "name": "Bush Tetras",
-          "url": "https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb"
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
         }
       ],
-      "duration_ms": 243186,
-      "name": "Too Many Creeps",
-      "url": "https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI"
+      "duration_ms": 170133,
+      "name": "Husbands",
+      "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "All at Once",
         "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 224000,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Soda Pop * Rip Off",
-        "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
-      },
-      "artists": [
-        {
-          "name": "Slant 6",
-          "url": "https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY"
-        }
-      ],
-      "duration_ms": 123240,
-      "name": "What Kind of Monster Are You?",
-      "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+        "name": "Soda Pop * Rip Off",
+        "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
       },
       "artists": [
         {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+          "name": "Slant 6",
+          "url": "https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY"
         }
       ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
+      "duration_ms": 123240,
+      "name": "What Kind of Monster Are You?",
+      "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
     },
     {
       "added_at": "2024-10-07 20:36:39",

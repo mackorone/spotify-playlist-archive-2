@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-570 songs - 1 day 8 hr 21 min
+571 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,8 +169,9 @@
 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 | 2022-09-08 |  |
 | [Final Song](https://open.spotify.com/track/2abRWWHiHaA1ewYKFLDwSG) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song \(Official Video\)](https://open.spotify.com/album/6hLOPCCiTe0KOfG96fL3yv) | 4:11 | 2023-12-15 | 2024-01-27 |
 | [Finally](https://open.spotify.com/track/3L2YVdNHcxmyLE5WKPKGU1) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/2VpeSVALHIUSTNiNAOdK9F) | 4:03 | 2023-12-14 | 2024-02-02 |
-| [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2022-12-15 |  |
+| [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2022-12-15 | 2026-02-14 |
 | [Finally \(Cannot Hide It\)](https://open.spotify.com/track/24gGzXklm7S16b9rcYUpGm) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally \(Cannot Hide It\)](https://open.spotify.com/album/4W1lA9h8HeDNOLdDxupSHl) | 3:24 | 2022-09-08 | 2022-12-16 |
+| [Finally \- 7" Mix Without Rap](https://open.spotify.com/track/5CclTLa2xkTNej1mFqKBjH) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally / We Got A Love Thang: Remix Collection](https://open.spotify.com/album/7v1mLSoiCZ1tOluZQXzRtK) | 4:08 | 2026-02-13 |  |
 | [Find A Place \(ft\. MNEK\)](https://open.spotify.com/track/04dqOCvtYqZiCyroSmC8AG) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:43 | 2022-09-08 |  |
 | [Fingertips](https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5AuoX8sA4NWGHO20Y47Fr3) | 4:15 | 2022-09-08 | 2022-10-20 |
 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 | 2022-10-19 |  |
@@ -304,7 +305,7 @@
 | [Lovesong](https://open.spotify.com/track/3bfQWFqQp1EnRvizKH3Les) | [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Lovesong](https://open.spotify.com/album/38jZRdlpcnYzBvHydBoKx0) | 3:40 | 2025-01-09 | 2025-04-12 |
 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 | 2022-09-08 |  |
 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 | 2022-09-08 |  |
-| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-09-28 | 2026-02-13 |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-09-28 |  |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-16 | 2025-09-29 |
 | [Midnight Sun](https://open.spotify.com/track/6q2YSturdfEzMpoUR5gq0R) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Midnight Sun](https://open.spotify.com/album/4JXdBmsjMFifrVQK8pu2rw) | 3:46 | 2025-12-04 |  |
 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 | 2022-11-18 |  |

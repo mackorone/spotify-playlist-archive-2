@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5703,
+  "num_followers": 5706,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
-      },
-      "artists": [
-        {
-          "name": "Sandra & Andres",
-          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Als Het Om De Liefde Gaat",
-      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "80",
         "url": "https://open.spotify.com/album/3ISffmPs7HEqXFUi9gXDXy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 166946,
       "name": "Jennifer Jennings",
       "url": "https://open.spotify.com/track/4nZ516wquSpoubxkqQ4ban"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
+      },
+      "artists": [
+        {
+          "name": "Sandra & Andres",
+          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Als Het Om De Liefde Gaat",
+      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Angelique",
-        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
-      },
-      "artists": [
-        {
-          "name": "Dario Campeotto",
-          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Angelique",
-      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "How Do You Do?",
         "url": "https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 176026,
       "name": "I See A Star",
       "url": "https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Angelique",
+        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
+      },
+      "artists": [
+        {
+          "name": "Dario Campeotto",
+          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Angelique",
+      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Greatest 70's Hits Best Ever",
-        "url": "https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc"
-      },
-      "artists": [
-        {
-          "name": "Brotherhood of Man",
-          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
-        }
-      ],
-      "duration_ms": 182139,
-      "name": "Save Your Kisses For Me",
-      "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Er steht im Tor - Ihre grossen Erfolge",
         "url": "https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 151986,
       "name": "Ein Hoch der Liebe",
       "url": "https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Greatest 70's Hits Best Ever",
+        "url": "https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "duration_ms": 182139,
+      "name": "Save Your Kisses For Me",
+      "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "L'essentiel",
-        "url": "https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd"
-      },
-      "artists": [
-        {
-          "name": "Pierre Rapsat",
-          "url": "https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Judy et cie",
-      "url": "https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Collection: Sergio Endrigo",
         "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 190080,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "L'essentiel",
+        "url": "https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd"
+      },
+      "artists": [
+        {
+          "name": "Pierre Rapsat",
+          "url": "https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Judy et cie",
+      "url": "https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Golden Girls",
-        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
-      },
-      "artists": [
-        {
-          "name": "Silver Convention",
-          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Festivalfavoriter 1",
         "url": "https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 166186,
       "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mej",
       "url": "https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Golden Girls",
+        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
+      },
+      "artists": [
+        {
+          "name": "Silver Convention",
+          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Primaballerina",
-        "url": "https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy"
-      },
-      "artists": [
-        {
-          "name": "Siw Malmkvist",
-          "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
-        }
-      ],
-      "duration_ms": 162748,
-      "name": "Primaballerina - tysk Version",
-      "url": "https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Tsarli Tsaplin",
         "url": "https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 171000,
       "name": "Tsarly Tsaplin",
       "url": "https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Primaballerina",
+        "url": "https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy"
+      },
+      "artists": [
+        {
+          "name": "Siw Malmkvist",
+          "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "Primaballerina - tysk Version",
+      "url": "https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc"
     }
   ],
   "unique_name": "Eurovision Gold",

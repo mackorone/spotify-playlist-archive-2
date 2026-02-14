@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 
 ### [T1 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0BcvW2psHDx)
 
-> T1 오피셜 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
+> T1 ‘치어플리 챌린지’ 당첨 작품입니다\. ‘강효은’님 축하합니다!<br/><br/>T1 공식 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,443 likes - 200 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,450 likes - 200 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 | 64 | [Yeah Yeah](https://open.spotify.com/track/3cYTnUooCbwikxo74eKc5Q) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Yeah Yeah](https://open.spotify.com/album/2p9GM8iVsMDpgDk2dQSPoK) | 3:24 |
 | 65 | [Sexy Money](https://open.spotify.com/track/3V86nh7BVSfSU2v306NRph) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Sexy Money](https://open.spotify.com/album/1ntjYo3rw4Jy7vLbNVr4yT) | 2:27 |
 | 66 | [If We Left This Earth](https://open.spotify.com/track/6BTJGi9INUVneKz9JVey4T) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [If We Left This Earth](https://open.spotify.com/album/7d1MBR5cQmYi6MVpzKDKaT) | 3:25 |
-| 67 | [Secret Handshake](https://open.spotify.com/track/0e3DfObupAg2qjezKKxoAa) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm), [Submotive](https://open.spotify.com/artist/5wlb3CuXIKwGZj2qSmNFUU) | [Alpha Omega](https://open.spotify.com/album/4RqkoyzwiQiTiemmchAR96) | 4:53 |
+| 67 | [Secret Handshake](https://open.spotify.com/track/0e3DfObupAg2qjezKKxoAa) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm), [Submotive](https://open.spotify.com/artist/18IDmJ9TpGsEp3mQqixaUE) | [Alpha Omega](https://open.spotify.com/album/4RqkoyzwiQiTiemmchAR96) | 4:53 |
 | 68 | [Heartstrings](https://open.spotify.com/track/0ykfRQb9qAxg25exPzDx6M) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Heartstrings](https://open.spotify.com/album/2i88oYbYJvIkVJR2qY0xIY) | 2:42 |
 | 69 | [Beautiful Thing](https://open.spotify.com/track/1D4zxWM1PXcEjpIaXPBh4G) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx), [CMD/CTRL](https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox) | [Beautiful Thing](https://open.spotify.com/album/4HVcbVjZDksAOEv8ml2QJV) | 3:08 |
 | 70 | [Sound of You](https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Sound of You](https://open.spotify.com/album/6J4wHgqUO4f0mqp0Cfy3mG) | 3:24 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 | 199 | [I Just Want You](https://open.spotify.com/track/5qXDIXIS2yajFz72i5qezZ) | [Yorii](https://open.spotify.com/artist/6vR0K4MDsrtz81V3ikI49k) | [I Just Want You](https://open.spotify.com/album/52zqJK28lzUBSxxQIM7EvD) | 2:59 |
 | 200 | [the stars](https://open.spotify.com/track/0KsqP2MSfLsbGmuUsRVEb8) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [signals](https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC) | 2:55 |
 
-Snapshot ID: `AAAAABhmFxWpq7lV2NdHi2oNYdPNAc0C`
+Snapshot ID: `AAAAAIX1J7XbsO2urHlS59gXfQCKBkp1`

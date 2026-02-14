@@ -4,7 +4,7 @@
 
 > These are the talented women of Latin music\. Cover: Gloria Estefan & KAROL G
 
-411 songs - 21 hr 45 min
+412 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Chapón](https://open.spotify.com/track/1cGV0rlZNYereLO600ldK2) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Chapón](https://open.spotify.com/album/54NAVfZaIPHieSe2UHeonK) | 2:33 | 2023-04-14 | 2023-06-10 |
 | [CHILL](https://open.spotify.com/track/4nj7NcgKbJk4yLfQvWwVhG) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [CHILL](https://open.spotify.com/album/27NpFm9IMURWBKYNChlELH) | 2:50 | 2022-03-14 | 2023-02-16 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-07-28 |  |
+| [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 | 2026-02-13 |  |
 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 | 2024-05-31 | 2024-07-17 |
 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 | 2022-03-14 | 2023-02-16 |
 | [Como Así \(feat\. CNCO\)](https://open.spotify.com/track/5hoIOyMDt2cQx6DU0UyiBj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Como Así \(feat\. CNCO\)](https://open.spotify.com/album/6LYy00ZQOKwxjCDGQY442J) | 3:04 | 2022-03-14 | 2023-02-16 |
@@ -388,7 +389,7 @@
 | [Tártaro](https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP II](https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5) | 3:43 | 2022-03-14 | 2023-02-16 |
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-03-14 | 2023-02-16 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2022-03-14 | 2023-02-16 |
-| [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 | 2023-04-14 |  |
+| [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 | 2023-04-14 | 2026-02-14 |
 | [Un Baile Mas](https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Un Baile Mas](https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5) | 3:43 | 2022-03-14 | 2023-02-16 |
 | [UN BETA](https://open.spotify.com/track/7mzrz5yyLv4r8vQRyVEWE7) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [AL MANDO](https://open.spotify.com/album/04Y8XPdbxJJv7usOlkgYmW) | 2:40 | 2024-03-01 | 2024-05-19 |
 | [Un Clásico](https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un Clásico](https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0) | 2:52 | 2023-02-16 | 2023-04-15 |

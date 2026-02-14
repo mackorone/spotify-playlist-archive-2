@@ -4,7 +4,7 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-124 songs - 5 hr 58 min
+125 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Mi Matamoros Querido](https://open.spotify.com/track/5nZpxQ5za8QNYALVpcBZip) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:44 | 2022-08-29 | 2024-03-05 |
 | [Miraron Llorar un Hombre](https://open.spotify.com/track/1obDcJ0spfjy2y44aj9BFq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 3:07 | 2022-06-01 |  |
 | [Mojado Acuadalado \- Con Mariachi](https://open.spotify.com/track/33ErFBfLtqA4nbgvmJKUZV) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mariachi y Banda](https://open.spotify.com/album/4zUkt7O3RBbFdXGN14konK) | 2:48 | 2024-08-20 | 2024-09-18 |
+| [No Que No](https://open.spotify.com/track/0UEUwCarcQk88KX1zxrwx6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:35 | 2026-02-14 |  |
 | [No Voy a Llorar](https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:46 | 2022-06-02 |  |
 | [Noches Eternas](https://open.spotify.com/track/0hjeEnYSntYGl9yQysqBv4) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:35 | 2022-11-21 | 2023-07-09 |
 | [Oh Que Gusto de Volverte a Ver](https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:29 | 2022-11-21 |  |
@@ -127,7 +128,7 @@
 | [Tampico Hermoso San Luis Potosi](https://open.spotify.com/track/32yy8yQftpKs6nI0nlmnfp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:16 | 2023-11-10 | 2024-08-30 |
 | [Tampoco Fuiste Tu](https://open.spotify.com/track/7s55UVbLT4Oux0Fw9jZZs3) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:32 | 2025-04-18 | 2025-04-19 |
 | [Te Quejas Pero Te Dejas \- Con Mariachi](https://open.spotify.com/track/7DJ9i5qw5Lvo2lTFqe5Y5n) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mariachi y Banda](https://open.spotify.com/album/4zUkt7O3RBbFdXGN14konK) | 2:42 | 2024-10-20 | 2024-12-03 |
-| [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 | 2022-06-01 |  |
+| [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 | 2022-06-01 | 2026-02-14 |
 | [Tres Dias](https://open.spotify.com/track/5qFQiVm3edDW7mE4FtcPpw) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Tamborazos Zacatecanos , Vol\. 1](https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX) | 2:33 | 2024-01-19 | 2024-01-21 |
 | [Vamos a la Playa](https://open.spotify.com/track/72oywVmmUrqh1uZeY032YA) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 3:57 | 2022-06-01 |  |
 | [Vive](https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:51 | 2025-07-03 |  |

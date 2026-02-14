@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Ledisi",
+  "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
   "name": "Vocal Jazz",
   "tracks": [
     {
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 223674,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/0mxe3mKTKOK1MLyQluRsHh"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 233208,
       "name": "Carinhoso",
       "url": "https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s"
@@ -7691,6 +7691,36 @@
     },
     {
       "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/6R4Yqh25YPvah5y411Nc7a"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349228,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/2EsvJgqybdGiwFdViEvPgr"
+    },
+    {
+      "album": {
         "name": "In the Wee Small Hours of the Morning",
         "url": "https://open.spotify.com/album/6QxYtpGQeOnOpD99IWH0vQ"
       },
@@ -7794,7 +7824,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 258900,
       "name": "Inside and Out",
       "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
@@ -8734,6 +8764,24 @@
       "duration_ms": 415242,
       "name": "La chanson des vieux amants",
       "url": "https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3"
+    },
+    {
+      "album": {
+        "name": "La Javanaise",
+        "url": "https://open.spotify.com/album/6fORZEa1FLJDyK6E8H5Nes"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214583,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/7v7iwf9k5sI8go8rjlkIL2"
     },
     {
       "album": {
@@ -10948,7 +10996,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 531662,
       "name": "My Very Own Ride",
       "url": "https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ"
@@ -11116,6 +11164,24 @@
       "duration_ms": 206590,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
+    },
+    {
+      "album": {
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/20X6mss4u5tBjh8W2lquK6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181280,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/0rChXlI7M5KqjzQ2rgs8S0"
     },
     {
       "album": {
@@ -12390,6 +12456,24 @@
       "duration_ms": 213213,
       "name": "Pretty Girl Hi Reimagined",
       "url": "https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "album": {
@@ -15989,6 +16073,28 @@
     },
     {
       "album": {
+        "name": "In The Brass Palace",
+        "url": "https://open.spotify.com/album/724NffDLMHiaQkmHh6jt3o"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491638,
+      "name": "They Speak No Evil",
+      "url": "https://open.spotify.com/track/14EugpqQJyjh1q414fjXhL"
+    },
+    {
+      "album": {
         "name": "Think of Me Softly",
         "url": "https://open.spotify.com/album/2J7DlkkwNSEmjTG4PgbKbs"
       },
@@ -17552,7 +17658,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 259271,
       "name": "What Is This Thing Called Love?",
       "url": "https://open.spotify.com/track/0yrcMGiv3VbMXqykxMjkbg"

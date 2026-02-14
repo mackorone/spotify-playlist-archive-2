@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,069 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,078 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 3 | [Heavy Crown](https://open.spotify.com/track/5v2ByxOB3Q9p5DsAndtuO2) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Trixie Mattel: Moving Parts \(The Acoustic Soundtrack\)](https://open.spotify.com/album/5Vcfkp2blCZRjJ7sjuVe1r) | 2:19 |
 | 4 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 |
 | 5 | [Native Love \(Step By Step\)](https://open.spotify.com/track/08z4YUOPIc6nS0nAUC5uDU) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [My First Album](https://open.spotify.com/album/5O6UW3T8pR37aosytoTLcC) | 4:01 |
-| 6 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 |
-| 7 | [I'm That Bitch](https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I'm That Bitch](https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b) | 4:10 |
+| 6 | [I'm That Bitch](https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I'm That Bitch](https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b) | 4:10 |
+| 7 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 |
 | 8 | [Lucky](https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 13](https://open.spotify.com/artist/4hBZXuGcH9E94jD3A0Bn3r) | [Lucky](https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q) | 3:44 |
 | 9 | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK) | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS) | 3:49 |
 | 10 | [Your Makeup Is Terrible](https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Anus](https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1) | 3:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 40 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
 | 41 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
 | 42 | [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 |
-| 43 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
-| 44 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
+| 43 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
+| 44 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
 | 45 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |
 | 46 | [Burn Rubber](https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0) | [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Burn Rubber](https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5) | 2:53 |
 | 47 | [Loving Me Like That](https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Loving Me Like That](https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY) | 3:06 |

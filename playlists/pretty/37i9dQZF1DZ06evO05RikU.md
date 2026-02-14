@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,519 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,520 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 18 | [Guaro con Ron](https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Guaro con Ron](https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2) | 2:28 |
 | 19 | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z) | 2:03 |
 | 20 | [De To'](https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:08 |
-| 21 | [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 |
-| 22 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 |
+| 21 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 |
+| 22 | [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 |
 | 23 | [El Wey](https://open.spotify.com/track/6CIXdlrPdBpP0ejW5jUFAr) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/59gTwaPF89m9W3WcPasQaK) | 3:17 |
 | 24 | [Si Me Ven Llorando](https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:13 |
 | 25 | [Siempre Llegas Tarde](https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 49 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 |
 | 50 | [Solo Yo](https://open.spotify.com/track/4DWTVpNexbmJIVc2AmNEZc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 4:08 |
 
-Snapshot ID: `aYvGgAAAAAB4JJDD/NnLCGMx2ktLLEar`
+Snapshot ID: `aY0YAAAAAABXr4WG3gUCHF17eESGbREP`

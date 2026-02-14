@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 321291,
+  "num_followers": 321424,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 183746,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/3P9ykpmg0veqHJ0gJ6zG1i"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
+      },
+      "artists": [
+        {
+          "name": "Luca Mundaca",
+          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Day by day",
+      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 304826,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
-        "name": "day by day",
-        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
-      },
-      "artists": [
-        {
-          "name": "Luca Mundaca",
-          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Day by day",
-      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Liljeholmsviken",
-        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 262408,
-      "name": "Liljeholmsviken",
-      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 133193,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Liljeholmsviken",
+        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 262408,
+      "name": "Liljeholmsviken",
+      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 207339,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "duration_ms": 160847,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
-      },
-      "artists": [
-        {
-          "name": "Xavier Mendoza",
-          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
-        }
-      ],
-      "duration_ms": 160847,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "Maneiro",
         "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 243751,
       "name": "Maneiro",
       "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "I Mean To Say",
         "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
       },
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
       "artists": [
         {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
         }
       ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
+      "duration_ms": 181951,
+      "name": "\u00c1guas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 262887,
-      "name": "Half The Perfect World",
-      "url": "https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "O Pato",
         "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 193253,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 262887,
+      "name": "Half The Perfect World",
+      "url": "https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs"
     },
     {
       "added_at": "2026-02-06 08:55:34",

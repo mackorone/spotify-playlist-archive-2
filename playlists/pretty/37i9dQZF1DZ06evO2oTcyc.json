@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 228113,
+  "num_followers": 228140,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAA/z98LZafJnLsJMKf4kkTT",
+  "snapshot_id": "aY0YAAAAAAABGDa7v5+E2Kez9EBBgLWT",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIELD TRIP",
         "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
       },
@@ -423,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
       "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 202840,
-      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
-      "url": "https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W"
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
       "duration_ms": 276835,
       "name": "Sufro",
       "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240274,
-      "name": "Purp",
-      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
     },
     {
       "added_at": null,
@@ -686,15 +686,11 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 229861,
-      "name": "Who You Seeing Tonight (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/02hwmwDf2tWe6sM9Ms9Hlr"
+      "duration_ms": 176158,
+      "name": "Time To Be Free",
+      "url": "https://open.spotify.com/track/24n0qB5aWEqRztvfh4SVWE"
     },
     {
       "added_at": null,
@@ -731,22 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 264531,
-      "name": "Codeine Dreaming (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
+      "duration_ms": 174837,
+      "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
     },
     {
       "added_at": null,
@@ -758,11 +754,15 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 176158,
-      "name": "Time To Be Free",
-      "url": "https://open.spotify.com/track/24n0qB5aWEqRztvfh4SVWE"
+      "duration_ms": 229861,
+      "name": "Who You Seeing Tonight (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/02hwmwDf2tWe6sM9Ms9Hlr"
     },
     {
       "added_at": null,
@@ -783,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LYFESTYLE",
-        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 174837,
-      "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
-      "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
+      "duration_ms": 264531,
+      "name": "Codeine Dreaming (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
     },
     {
       "added_at": null,

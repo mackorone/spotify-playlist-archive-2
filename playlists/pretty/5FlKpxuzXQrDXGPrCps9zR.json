@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABbyqhA02XL549NYn2zmjJFzXDrE0X",
+  "snapshot_id": "AAABcafC/fPwpqOS0x0nZuDeiXXW2KAX",
   "tracks": [
     {
       "added_at": "2025-08-29 18:35:19",
@@ -387,6 +387,38 @@
       "duration_ms": 201600,
       "name": "Really Don't Care",
       "url": "https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5"
+    },
+    {
+      "added_at": "2026-02-13 21:44:40",
+      "album": {
+        "name": "Get In Girl",
+        "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
+    },
+    {
+      "added_at": "2026-02-13 21:46:54",
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "My Reminder",
+      "url": "https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM"
     }
   ],
   "unique_name": "THE playlist",

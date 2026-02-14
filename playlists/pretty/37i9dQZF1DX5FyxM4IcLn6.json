@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166249,
+  "num_followers": 166370,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 201567,
+      "name": "VIBES DON'T LIE",
+      "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 243906,
       "name": "Chains & Whips",
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 201567,
-      "name": "VIBES DON'T LIE",
-      "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 318121,
       "name": "Overqualified",
       "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 408690,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "SINF\u00d3NICO (En Vivo)",
         "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 189000,
       "name": "Encantadora - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/06BMQ0taPFJjI4IDDkjZ00"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Middle",
-        "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        }
-      ],
-      "duration_ms": 215236,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "CORITOS Vol. 1",
         "url": "https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 576916,
       "name": "Coritos de Fuego",
       "url": "https://open.spotify.com/track/5lwcDrXrC1npHBasWkeQT6"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 215236,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2287,18 +2287,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Why Not More? (MORE!)",
-        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
+        "name": "BLXXD & FYAH",
+        "url": "https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Keznamdi",
+          "url": "https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60"
         }
       ],
-      "duration_ms": 215492,
-      "name": "Here We Go (Uh Oh)",
-      "url": "https://open.spotify.com/track/0PNPU7o1069BGhOeWyQUas"
+      "duration_ms": 139906,
+      "name": "Serious Times",
+      "url": "https://open.spotify.com/track/7it0fDiLEGPQYJwZoLgA7U"
     }
   ],
   "unique_name": "The GRAMMYs Official Playlist",

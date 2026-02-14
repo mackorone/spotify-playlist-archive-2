@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,862 songs - 5 day 6 hr 32 min
+1,863 songs - 5 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Allt Stod Still \(Outro\)](https://open.spotify.com/track/0ltExShibkTvrUP0oxMREJ) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 1:50 | 2020-03-25 | 2020-07-03 |
 | [Ally of the Good](https://open.spotify.com/track/6lJUX58cCiVEw4T4H7jj3i) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Ally of the Good](https://open.spotify.com/album/2cXubQqUPpCIZKzhVgExfy) | 3:45 | 2022-12-28 | 2023-01-06 |
 | [Alléenoire \- Rauschhaus Remix](https://open.spotify.com/track/3FRXRr2NcDjsRgze79RjBg) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Alléenoire \(Rauschhaus Remix\)](https://open.spotify.com/album/1Kxd5SRSYiS7SJuYDpNa1w) | 7:01 | 2021-11-26 | 2022-04-21 |
+| [alone](https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [alone](https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL) | 4:25 | 2026-02-13 |  |
 | [Alone](https://open.spotify.com/track/71QzpNzL1Q6KPOV5ilyBVW) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Unity](https://open.spotify.com/album/0HrDrQPhOBR04RKmY7DCJj) | 5:33 | 2020-05-18 | 2020-10-09 |
 | [Alone](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh) | 2:57 | 2024-06-21 |  |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2022-10-28 | 2023-04-29 |
@@ -490,7 +491,7 @@
 | [Fall \- 6AM Mix](https://open.spotify.com/track/63dG0sIaqOYLFZ0S94XF89) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Fall \(KC Lights Remixes\)](https://open.spotify.com/album/7amjEc3T8lTIJuOFFjbORO) | 3:17 | 2022-03-25 | 2022-12-29 |
 | [Fall Apart](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Fall Apart](https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2) | 3:08 | 2025-01-24 |  |
 | [Fall in Deep](https://open.spotify.com/track/4pgOyxhTFOuNZJndYQJkKk) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fall in Deep](https://open.spotify.com/album/0ro9l9lDWGBP8liktBsJOZ) | 3:37 | 2020-05-18 | 2021-01-11 |
-| [Fall To You](https://open.spotify.com/track/563UGSS5oMHKG2Xx2mPivC) | [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fall To You](https://open.spotify.com/album/4nzE5FiBuMwS3n5TQaGJbl) | 4:07 | 2026-01-16 |  |
+| [Fall To You](https://open.spotify.com/track/563UGSS5oMHKG2Xx2mPivC) | [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fall To You](https://open.spotify.com/album/4nzE5FiBuMwS3n5TQaGJbl) | 4:07 | 2026-01-16 | 2026-02-14 |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-09 | 2022-12-29 |
 | [Falling](https://open.spotify.com/track/2B7o7cBAno5SaZLljqlPVc) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/2u45jCKKoRA20flSf7Ry2r) | 3:22 | 2022-07-01 | 2022-09-26 |
 | [Falling](https://open.spotify.com/track/6bdfM4I40ywx2gOtZjQ7Z6) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/3PkOQ5jhbCAavcVUT8TgPf) | 3:22 | 2020-11-13 | 2022-07-17 |

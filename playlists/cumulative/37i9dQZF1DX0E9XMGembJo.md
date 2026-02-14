@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-745 songs - 1 day 16 hr 37 min
+746 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-12-02 | 2024-04-10 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-11 | 2023-05-31 |
 | [5 Years Time](https://open.spotify.com/track/5VaPx8jYNENRGmOOhScbW1) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/5AuoAfjnUUnH6b6kkpyk6F) | 3:34 | 2022-03-28 | 2022-04-20 |
-| [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2021-12-29 | 2026-02-06 |
+| [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2021-12-29 |  |
 | [About Damn Time](https://open.spotify.com/track/4A2CyJ3VhCxiQCYXlV6zRL) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/5dJGQftJX0fQ14t9tT7nX6) | 3:11 | 2022-05-13 | 2022-07-21 |
 | [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 | 2022-11-01 | 2022-11-15 |
 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 | 2023-01-06 | 2023-02-12 |
@@ -381,7 +381,7 @@
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-12-29 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-12-29 | 2023-06-01 |
 | [L.O.V.E.](https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [L.O.V.E.](https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L) | 3:56 | 2025-02-14 | 2025-02-26 |
-| [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-01-16 |  |
+| [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-01-16 | 2026-02-14 |
 | [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-13 | 2022-07-29 |
 | [Last Dance](https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i) | [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Last Dance](https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII) | 2:45 | 2022-12-09 | 2023-01-21 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2023-05-30 | 2024-06-02 |
@@ -430,6 +430,7 @@
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2024-12-27 | 2025-06-21 |
 | [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2022-04-01 | 2022-04-18 |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-28 | 2024-07-19 |
+| [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-13 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-27 |  |
 | [Magic \- Edit](https://open.spotify.com/track/6Sy5ie6qrZxdrdfSArtOTH) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Magic \(Edit\)](https://open.spotify.com/album/4KEE7Km8IOsfkYwQRLcqEh) | 2:49 | 2022-03-28 | 2022-04-17 |
 | [Magic City](https://open.spotify.com/track/1hcnJLodHsEN0wx2p1bO1y) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/6VgBx6zo2xxSWtRf2r8v4u) | 2:24 | 2022-05-20 | 2022-05-25 |
@@ -476,7 +477,7 @@
 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 | 2022-03-25 | 2022-04-18 |
 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 | 2023-08-11 | 2023-08-19 |
 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 | 2025-04-04 |  |
-| [My Home Is Not In This World](https://open.spotify.com/track/37xTLJJuchzGGjAPUnli2I) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [My Home Is Not In This World](https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp) | 3:13 | 2026-01-05 |  |
+| [My Home Is Not In This World](https://open.spotify.com/track/37xTLJJuchzGGjAPUnli2I) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [My Home Is Not In This World](https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp) | 3:13 | 2026-01-05 | 2026-02-14 |
 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-06-13 | 2025-06-28 |
 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2025-10-24 | 2025-12-18 |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-04-01 | 2024-08-10 |

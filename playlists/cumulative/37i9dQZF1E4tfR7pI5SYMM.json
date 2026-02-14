@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Dystopian X Vision and more",
+  "description": "With Die Oberherren, AlligatorX, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 190545,
       "name": "'Til They Clean Me From the Side of the Road",
       "url": "https://open.spotify.com/track/4Pdv0IgOCgFHfbVhCVBUcJ"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -366,6 +366,24 @@
       "duration_ms": 178190,
       "name": "Bara mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/0tBXwBmJl2wOIzSsnXrFOa"
+    },
+    {
+      "album": {
+        "name": "D\u0103 Mai Tare",
+        "url": "https://open.spotify.com/album/5pTjaoL3v19LE6bQ8a0SNO"
+      },
+      "artists": [
+        {
+          "name": "Paraskyva",
+          "url": "https://open.spotify.com/artist/6Oh1w3PjeNcML95ALlQ4x5"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188082,
+      "name": "Beat The Stone",
+      "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
     },
     {
       "album": {
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
@@ -1122,10 +1140,28 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
+    },
+    {
+      "album": {
+        "name": "Dead End Pyre",
+        "url": "https://open.spotify.com/album/3xIRl67HwUpIFLBnHRGZs9"
+      },
+      "artists": [
+        {
+          "name": "Corvin",
+          "url": "https://open.spotify.com/artist/6bWo4QGM39QU8Nb1LCBU5K"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283025,
+      "name": "Dead End Pyre",
+      "url": "https://open.spotify.com/track/6JmweRkqaOhVFrNoQOeM3n"
     },
     {
       "album": {
@@ -1548,7 +1584,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 387600,
       "name": "Dukkha (Good Old Wine)",
       "url": "https://open.spotify.com/track/0Pl1Celco5onaXWQ4SjioI"
@@ -1919,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/7iOGedWGAMY7nZJWlCPdQq"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225655,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/0bcWXKEhlE9AqGkH76w7x6"
+    },
+    {
+      "album": {
         "name": "Fake News",
         "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
       },
@@ -2002,7 +2056,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 254166,
       "name": "Feeding the Fear",
       "url": "https://open.spotify.com/track/6nnzCIGfHbrWlqIwy4xNOX"
@@ -2182,7 +2236,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2222,7 +2276,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -2651,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/7bkNPHOMe3mYzMm5eDZx7C"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267391,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
+    },
+    {
+      "album": {
         "name": "I Ora Tou Stuff",
         "url": "https://open.spotify.com/album/1EDwCfym8xDGhmz1aBc1Sm"
       },
@@ -2842,7 +2914,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6xFjDwRy50q7CoWgXLWvDV"
@@ -2972,7 +3044,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 312096,
       "name": "Kas Mes?",
       "url": "https://open.spotify.com/track/55eUd1ieePkJ3aPmSDud1i"
@@ -3138,7 +3210,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243760,
       "name": "Leiche Im Schrank",
       "url": "https://open.spotify.com/track/6behqJXs0jrhHAGBKOUOmj"
@@ -3759,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "MIK's Spirits",
+        "url": "https://open.spotify.com/album/2xOeZVOAnHQUQa2tAvKIeO"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252335,
+      "name": "Motorised Life",
+      "url": "https://open.spotify.com/track/3Rgtp6vTf4KR7XHGd0k6XN"
+    },
+    {
+      "album": {
         "name": "Mr. Record Man",
         "url": "https://open.spotify.com/album/0YMnBDoskXpZGHVk8RXr51"
       },
@@ -3900,7 +3990,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 325440,
       "name": "Nattmennesker",
       "url": "https://open.spotify.com/track/7kEKr1EmbBupbIUgxMaZB5"
@@ -4448,7 +4538,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -5754,7 +5844,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 269520,
       "name": "The Break Up Song",
       "url": "https://open.spotify.com/track/79KYP1BhYzgTeWPP4fmQ22"
@@ -6031,6 +6121,24 @@
     },
     {
       "album": {
+        "name": "12 Degrees of Saturation",
+        "url": "https://open.spotify.com/album/3or8YTuOYi7jNBvnodtbQ0"
+      },
+      "artists": [
+        {
+          "name": "12 Degrees of Saturation",
+          "url": "https://open.spotify.com/artist/3UN8a0VkN84BAWiLkkiypm"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86192,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/0RgJgXJvGufFqvqOfVjzdQ"
+    },
+    {
+      "album": {
         "name": "Predatory Trails of the Spirit",
         "url": "https://open.spotify.com/album/6s7vYnwCt4E0n4yPIUzx9U"
       },
@@ -6042,7 +6150,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -6158,7 +6266,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -6634,7 +6742,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -6811,6 +6919,24 @@
     },
     {
       "album": {
+        "name": "Am I Losing My Mind?",
+        "url": "https://open.spotify.com/album/0kPifFE0sbJVJZ1h7DQwr0"
+      },
+      "artists": [
+        {
+          "name": "Manosaurus",
+          "url": "https://open.spotify.com/artist/1buvYn3YtrQbxpIcCA6uWb"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160812,
+      "name": "We're All Pretending",
+      "url": "https://open.spotify.com/track/01YMRsDaqFwzL0crgns9ug"
+    },
+    {
+      "album": {
         "name": "Werewolf",
         "url": "https://open.spotify.com/album/7uGxneWfrgzGxo9m65T2wI"
       },
@@ -6970,10 +7096,28 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
+    },
+    {
+      "album": {
+        "name": "Der Wahn Als Methode",
+        "url": "https://open.spotify.com/album/6gHoLJnRgtRf4NUeiKPzn9"
+      },
+      "artists": [
+        {
+          "name": "photophor",
+          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215204,
+      "name": "Worte",
+      "url": "https://open.spotify.com/track/0h4W1Ap0luEobA7I8DhMzQ"
     },
     {
       "album": {
@@ -7292,7 +7436,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"
@@ -7328,7 +7472,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243428,
       "name": "\u0422\u0435\u043b\u043e",
       "url": "https://open.spotify.com/track/5lpHBpxEjbM9HV4fOvRZa1"

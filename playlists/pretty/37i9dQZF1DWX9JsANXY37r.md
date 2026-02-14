@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > drinks em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,465 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,469 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 40 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
 | 41 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 42 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 |
-| 43 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |
-| 44 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
+| 43 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
+| 44 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |
 | 45 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 46 | [Sur Une Chanson En Français](https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Couleurs Primaires](https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9) | 5:14 |
 | 47 | [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 |

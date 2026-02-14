@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43557,
+  "num_followers": 43554,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAal4kaah2dELBxzumBe5O2ZKGa2299",
+  "snapshot_id": "AAAamIid1jGdnKNHBPyDaZ+rfc8POgjo",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:24",
+      "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/2uzZP3UoZZBS7XTCdkvWxw"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        }
+      ],
+      "duration_ms": 184477,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/39F0YpJTd8CEIQum0q2qav"
+    },
     {
       "added_at": "2026-02-06 05:00:25",
       "album": {

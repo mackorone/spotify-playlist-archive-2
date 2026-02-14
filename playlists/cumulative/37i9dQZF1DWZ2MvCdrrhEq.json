@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/6SCV1DAF0OhDKfJtaLxkEU"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167884,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o"
+    },
+    {
+      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
@@ -670,7 +688,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 203600,
       "name": "I'm a Slave 4 U",
       "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
@@ -789,6 +807,24 @@
     },
     {
       "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/5CbejhKUD9skksKHfdq9GT"
       },
@@ -890,7 +926,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
@@ -908,7 +944,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 251986,
       "name": "RIIVERDANCE",
       "url": "https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4"

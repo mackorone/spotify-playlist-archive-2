@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: ILLENIUM",
+  "description": "The world's biggest dance & electronic hits. Cover: Mau P",
   "name": "mint",
   "tracks": [
     {
@@ -4924,6 +4924,28 @@
       "duration_ms": 169108,
       "name": "Come Around Again",
       "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
+    },
+    {
+      "album": {
+        "name": "Come Back 2 Me",
+        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193564,
+      "name": "Come Back 2 Me",
+      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
     },
     {
       "album": {
@@ -12360,7 +12382,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 493667,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
@@ -14420,6 +14442,28 @@
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "album": {
@@ -20689,6 +20733,24 @@
     },
     {
       "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -21952,7 +22014,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221333,
       "name": "Pumpin Jumpin",
       "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
@@ -25408,7 +25470,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180020,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu"
@@ -28823,6 +28885,28 @@
     },
     {
       "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+    },
+    {
+      "album": {
         "name": "TYPE SH*T",
         "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
       },
@@ -31482,7 +31566,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 166595,
       "name": "You Go I Go",
       "url": "https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV"

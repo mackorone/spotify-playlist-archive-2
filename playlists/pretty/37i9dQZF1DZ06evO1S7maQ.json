@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 661864,
+  "num_followers": 661893,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACeJaCp4B5y+49m7qqepRIV",
+  "snapshot_id": "aY0YAAAAAAC9qnvURZW6wWDdcj6feiRF",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streets of Minneapolis",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 275831,
-      "name": "Streets of Minneapolis",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+      "duration_ms": 269932,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Streets of Minneapolis (Bob Clearmountain Radio Mix)",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 269932,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Bob Clearmountain Radio Mix",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Youngstown",
-      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 270248,
       "name": "Darkness On the Edge of Town",
       "url": "https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Youngstown",
+      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild, the Innocent & The E Street Shuffle",
-        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 424079,
-      "name": "Rosalita (Come Out Tonight)",
-      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 240226,
       "name": "Prove It All Night",
       "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild, the Innocent & The E Street Shuffle",
+        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 424079,
+      "name": "Rosalita (Come Out Tonight)",
+      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
     },
     {
       "added_at": null,

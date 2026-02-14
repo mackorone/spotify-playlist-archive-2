@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 
 > This is PinkPantheress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,918 likes - 45 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,990 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 4 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 5 | [Attracted to You](https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Attracted To You](https://open.spotify.com/album/3tY6ZOPhcl9B5HVVhs7GkC) | 1:07 |
 | 6 | [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 |
-| 7 | [I Must Apologise](https://open.spotify.com/track/2rrq3SGYxk90xLx5fMmPhZ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:48 |
+| 7 | [Break It Off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 |
 | 8 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 |
 | 9 | [Snap My Finger \(feat\. PinkPantheress\)](https://open.spotify.com/track/5LyKocU0lhUBlXrFKDxbBO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:21 |
 | 10 | [Mosquito](https://open.spotify.com/track/3DrkYwyu8QqZQ05r2gGqHi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:26 |
-| 11 | [Break It Off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 |
+| 11 | [I Must Apologise](https://open.spotify.com/track/2rrq3SGYxk90xLx5fMmPhZ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:48 |
 | 12 | [Tonight](https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:54 |
 | 13 | [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 14 | [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:45 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 44 | [Girl Like Me + Kaytranada](https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 4:53 |
 | 45 | [Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:28 |
 
-Snapshot ID: `aYvGgAAAAABI/OKIaazrgp42Qc2zToOY`
+Snapshot ID: `aY0YAAAAAABVR8Y0FyPfymswncD4yCfC`

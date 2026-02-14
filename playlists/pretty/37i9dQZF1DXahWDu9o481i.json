@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: waterbaby",
-  "num_followers": 67234,
+  "num_followers": 68554,
   "original_name": "Editors' Picks: Best Songs of January",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF+jDh55uiJ7tShbJYmsI+yd9VrM",
+  "snapshot_id": "AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r",
   "tracks": [
     {
       "added_at": "2026-02-04 14:20:34",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Empty Hands",
-        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Into My Life (feat. Joyce Sims)",
         "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 131299,
       "name": "Into My Life (feat. Joyce Sims)",
       "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Who Coppin'",
-        "url": "https://open.spotify.com/album/307LIDS6NyJ4gvU3U8hACU"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Who Coppin'",
-      "url": "https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "BACKWARD",
         "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 166687,
       "name": "THEMSELVES",
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Who Coppin'",
+        "url": "https://open.spotify.com/album/307LIDS6NyJ4gvU3U8hACU"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Who Coppin'",
+      "url": "https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Honey Water",
-        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Ants In My Room",
         "url": "https://open.spotify.com/album/6I5iKc3l7io2v55H7Ho0NZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 168919,
       "name": "Ants In My Room",
       "url": "https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/1i5xNjqIuXAx1LDQiM3HZH"
       },
@@ -707,6 +691,38 @@
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/4jkYkvbjEuckbJs6Ts60Hk"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -743,18 +759,18 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "5words",
-        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+        "name": "Clinton County",
+        "url": "https://open.spotify.com/album/1hLcwNP4GJ3gLUbOjbf8qU"
       },
       "artists": [
         {
-          "name": "RIP Magic",
-          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+          "name": "Colton Bowlin",
+          "url": "https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C"
         }
       ],
-      "duration_ms": 317613,
-      "name": "5words",
-      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
+      "duration_ms": 289000,
+      "name": "Clinton County",
+      "url": "https://open.spotify.com/track/3asVZ8UVuR7iw0WLSZOxpZ"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -771,22 +787,6 @@
       "duration_ms": 293601,
       "name": "The River",
       "url": "https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
-        "name": "Clinton County",
-        "url": "https://open.spotify.com/album/1hLcwNP4GJ3gLUbOjbf8qU"
-      },
-      "artists": [
-        {
-          "name": "Colton Bowlin",
-          "url": "https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Clinton County",
-      "url": "https://open.spotify.com/track/3asVZ8UVuR7iw0WLSZOxpZ"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "tenk(e)i",
-        "url": "https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
-        },
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 296403,
-      "name": "tenk(e)i",
-      "url": "https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Kiss&Tell",
         "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
       },
@@ -871,22 +851,6 @@
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -907,6 +871,42 @@
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "tenk(e)i",
+        "url": "https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 296403,
+      "name": "tenk(e)i",
+      "url": "https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Lean",
-        "url": "https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 233486,
-      "name": "Lean",
-      "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "WHO BIGGER",
         "url": "https://open.spotify.com/album/2MtJgdYiYtezJYn2IE60NJ"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 144300,
       "name": "WHO BIGGER",
       "url": "https://open.spotify.com/track/7vOanjJViklqgEMFmCWoWU"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 233486,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
     },
     {
       "added_at": "2026-02-04 14:20:34",

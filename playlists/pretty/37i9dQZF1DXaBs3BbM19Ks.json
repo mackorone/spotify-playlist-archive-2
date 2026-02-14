@@ -1,6 +1,6 @@
 {
   "description": "Una noche en el Patio con Daniela, Lupita, Dulce y Yuri \ud83c\udf78",
-  "num_followers": 955553,
+  "num_followers": 955543,
   "original_name": "Modo Mentiras",
   "owner": {
     "name": "Spotify",
@@ -463,38 +463,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -511,6 +479,22 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
         "name": "Las baladas (Los singles vol II)",
         "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 225080,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 269440,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Pimpinela",
         "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185800,
       "name": "Olv\u00eddame y Pega la Vuelta",
       "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 269440,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "Bazar",
-      "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Bazar",
+      "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
         "name": "Los Besos No Se Dan En La Camisa",
         "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 261293,
       "name": "Como Me Haces Falta",
       "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "\u00bfY Qui\u00e9n Puede Ser?",
+      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -883,22 +899,6 @@
       "duration_ms": 125470,
       "name": "Castillos (feat. Regina Bland\u00f3n)",
       "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "\u00bfY Qui\u00e9n Puede Ser?",
-      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 250146,
       "name": "Remolino",
       "url": "https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/2Bbvlv1uslztpJbGgEsckH"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 231200,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/2Bbvlv1uslztpJbGgEsckH"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Celebrando La Voz De Yuri",
-        "url": "https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Es Ella M\u00e1s Que Yo",
-      "url": "https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n (CD1)",
         "url": "https://open.spotify.com/album/04YABmDMSBXSYQuFitSdUJ"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Daniela Romo",
-        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+        "name": "Celebrando La Voz De Yuri",
+        "url": "https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p"
       },
       "artists": [
         {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+      "duration_ms": 228413,
+      "name": "Es Ella M\u00e1s Que Yo",
+      "url": "https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -1235,6 +1219,22 @@
       "duration_ms": 254200,
       "name": "El Peor De Mis Fracasos",
       "url": "https://open.spotify.com/track/0oTtqBAfTxeawxx1saJQSh"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Daniela Romo",
+        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
     },
     {
       "added_at": "2025-06-20 20:01:19",

@@ -3160,10 +3160,28 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 147819,
       "name": "Mourning",
       "url": "https://open.spotify.com/track/1SbhGBqvszQ9h0P7bOM79z"
+    },
+    {
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV"
     },
     {
       "album": {
@@ -3624,10 +3642,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 147679,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3i39cUiIMr2INWE5152wUt"
+    },
+    {
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4"
     },
     {
       "album": {

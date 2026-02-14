@@ -4,7 +4,7 @@
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Junior H y Gael Valenzuela.
 
-922 songs - 2 day 0 hr 20 min
+923 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 | 2022-03-11 | 2022-10-21 |
 | [Música De Fondo](https://open.spotify.com/track/2YGb43UDbmBjq3aq8JXEJ4) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:03 | 2023-07-21 | 2023-08-23 |
 | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/track/2OWyDDiLOC6PACqh7Xac8y) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Grupo Restaurado](https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc) | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/album/2gzPNct7gehdFkAgPn9n2y) | 2:23 | 2025-07-11 | 2025-08-02 |
+| [Nada Más](https://open.spotify.com/track/5SbJOHQKed2mBiFeRveHTT) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Nada Más](https://open.spotify.com/album/59cp7gmABdOgcsZWhsSbTO) | 2:19 | 2026-02-13 |  |
 | [NADIE](https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [NADIE](https://open.spotify.com/album/2op3VYOlPBj8PhFxLEQ0Ol) | 3:17 | 2024-11-22 | 2025-05-09 |
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-17 | 2022-07-16 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-07-19 |

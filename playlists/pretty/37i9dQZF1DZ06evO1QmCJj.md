@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,329 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,333 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 42 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 |
 | 43 | [✪ Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [✪ Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 |
 | 44 | [Mamisuki](https://open.spotify.com/track/2Br42Z1UoDdGLJNVEdkipn) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 2:12 |
-| 45 | [YO TENGO UN NOVIO](https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 |
-| 46 | [cómo te va?](https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [cómo te va?](https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD) | 3:38 |
+| 45 | [cómo te va?](https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [cómo te va?](https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD) | 3:38 |
+| 46 | [YO TENGO UN NOVIO](https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 |
 | 47 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
 | 48 | [KILLA \(ring ring\)](https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:32 |
 | 49 | [CASANOVA \- Live](https://open.spotify.com/track/2osfDvbxISFiLJgBdGh4XX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [LA BRUJA, LA NIÑA Y EL DRAGÓN](https://open.spotify.com/album/6cmOLNiylju3S0GhKG4s72) | 2:39 |
-| 50 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/6Z2I6OWXwGEFFuYBlBd9Ux) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
+| 50 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 |
 
-Snapshot ID: `aYvGgAAAAADdn2im8QsLBVyp1e2caD8y`
+Snapshot ID: `aY0YAAAAAACKhIFl6rIMdrCFGXBjiJEW`

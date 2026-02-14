@@ -1,48 +1,76 @@
 {
-  "description": "heartbreak feels good in a place like sad hour, with Sydney Rose & Tom Odell",
-  "num_followers": 2394355,
+  "description": "heartbreak feels good in a place like sad hour, with Will Swinton",
+  "num_followers": 2394254,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEv4jUvKplv/HUJPJCbiq2ZN+cwD",
+  "snapshot_id": "AAAAAAJNVaHcY1OlAcfRSwfy6uK4ReDv",
   "tracks": [
     {
-      "added_at": "2026-01-16 05:00:45",
+      "added_at": "2026-02-13 05:00:48",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
         }
       ],
-      "duration_ms": 229346,
-      "name": "Over (feat. Tom Odell)",
-      "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
+      "duration_ms": 231724,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
     },
     {
-      "added_at": "2026-01-16 05:00:45",
+      "added_at": "2026-02-13 05:26:33",
       "album": {
-        "name": "locket",
-        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+        "name": "double edged sword",
+        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
         }
       ],
-      "duration_ms": 209409,
-      "name": "you're still everything",
-      "url": "https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp"
+      "duration_ms": 208023,
+      "name": "double edged sword",
+      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Loving You Almost Killed Me",
+        "url": "https://open.spotify.com/album/23v4JXHe58xhzELEipGkgK"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "The Cycle",
+      "url": "https://open.spotify.com/track/7Gpy68Fv4rO62Q8S0zCcR3"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
       "added_at": "2026-02-06 05:54:18",
@@ -77,36 +105,20 @@
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
-      "added_at": "2026-01-23 05:58:48",
+      "added_at": "2026-02-13 05:00:48",
       "album": {
-        "name": "PAPERCUT",
-        "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
+        "name": "Not Even Gone",
+        "url": "https://open.spotify.com/album/5uAJEBWK6rxWAKa87d66Hn"
       },
       "artists": [
         {
-          "name": "Britton",
-          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
         }
       ],
-      "duration_ms": 194028,
-      "name": "PAPERCUT",
-      "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
-    },
-    {
-      "added_at": "2025-11-17 16:26:20",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Let Alone The One You Love",
-      "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
+      "duration_ms": 226284,
+      "name": "Not Even Gone",
+      "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -125,22 +137,6 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2026-01-23 05:58:48",
-      "album": {
-        "name": "Love To Hate Me",
-        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Love To Hate Me",
-      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
-    },
-    {
       "added_at": "2025-02-04 01:32:59",
       "album": {
         "name": "back to friends",
@@ -155,6 +151,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2026-01-23 05:58:48",
+      "album": {
+        "name": "Love To Hate Me",
+        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Love To Hate Me",
+      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -187,6 +199,22 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "added_at": "2025-11-17 16:26:20",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Let Alone The One You Love",
+      "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -235,22 +263,6 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2026-01-23 05:58:48",
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 194474,
-      "name": "29",
-      "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -649,22 +661,6 @@
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
-      "added_at": "2025-09-29 15:49:30",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Easy On Me",
@@ -681,6 +677,22 @@
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
+      "added_at": "2025-09-29 15:49:30",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
+    },
+    {
       "added_at": "2025-08-18 14:23:42",
       "album": {
         "name": "Guitar Songs",
@@ -695,6 +707,22 @@
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2025-01-10 05:00:11",
@@ -715,22 +743,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -743,6 +755,22 @@
       "duration_ms": 163586,
       "name": "1 step forward, 3 steps back",
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 209409,
+      "name": "you're still everything",
+      "url": "https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -761,22 +789,6 @@
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
-      "added_at": "2025-08-08 04:00:48",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
       "added_at": "2025-06-27 22:18:01",
       "album": {
         "name": "Virgin",
@@ -791,6 +803,22 @@
       "duration_ms": 204988,
       "name": "David",
       "url": "https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9"
+    },
+    {
+      "added_at": "2025-08-08 04:00:48",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1037,22 +1065,6 @@
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
-      "added_at": "2025-07-30 06:17:37",
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 241291,
-      "name": "The Man That Came Back",
-      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
-    },
-    {
       "added_at": "2025-04-28 13:19:28",
       "album": {
         "name": "Back To Me",
@@ -1067,6 +1079,22 @@
       "duration_ms": 215200,
       "name": "Nobody New",
       "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+    },
+    {
+      "added_at": "2025-07-30 06:17:37",
+      "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 241291,
+      "name": "The Man That Came Back",
+      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
     },
     {
       "added_at": "2025-11-18 20:55:44",
@@ -1429,6 +1457,26 @@
       "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
     },
     {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Over (feat. Tom Odell)",
+      "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
+    },
+    {
       "added_at": "2025-08-15 04:00:29",
       "album": {
         "name": "Wishbone",
@@ -1465,22 +1513,6 @@
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
-    },
-    {
       "added_at": "2025-08-01 04:00:33",
       "album": {
         "name": "Parking Lot",
@@ -1495,6 +1527,22 @@
       "duration_ms": 212092,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
     },
     {
       "added_at": "2025-10-10 04:00:28",
@@ -1613,6 +1661,22 @@
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
+      "added_at": "2026-01-23 05:58:48",
+      "album": {
+        "name": "PAPERCUT",
+        "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 194028,
+      "name": "PAPERCUT",
+      "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
+    },
+    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Loser",
@@ -1693,22 +1757,6 @@
       "url": "https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV"
     },
     {
-      "added_at": "2025-10-03 04:00:31",
-      "album": {
-        "name": "Melodies (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 157054,
-      "name": "Melodies - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
-    },
-    {
       "added_at": "2025-09-05 04:53:51",
       "album": {
         "name": "The Knife In My Back",
@@ -1723,6 +1771,22 @@
       "duration_ms": 169320,
       "name": "The Knife In My Back",
       "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
+    },
+    {
+      "added_at": "2025-10-03 04:00:31",
+      "album": {
+        "name": "Melodies (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 157054,
+      "name": "Melodies - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
     },
     {
       "added_at": "2025-07-25 04:10:49",
@@ -2131,6 +2195,22 @@
     {
       "added_at": "2026-01-23 05:58:48",
       "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "29",
+      "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
+    },
+    {
+      "added_at": "2026-01-23 05:58:48",
+      "album": {
         "name": "Tainted",
         "url": "https://open.spotify.com/album/1RLsN47hAGZn9ab3diH7MM"
       },
@@ -2177,22 +2257,6 @@
       "url": "https://open.spotify.com/track/3OxTk4NL6r8bAOxuSbYeSp"
     },
     {
-      "added_at": "2025-10-10 04:00:28",
-      "album": {
-        "name": "Move On First",
-        "url": "https://open.spotify.com/album/1Yjy7hqO89PtRtISnah1T1"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 156786,
-      "name": "Move On First",
-      "url": "https://open.spotify.com/track/1aAoYRxr0r6sWSEsWfL1GU"
-    },
-    {
       "added_at": "2025-07-25 04:10:49",
       "album": {
         "name": "easy",
@@ -2213,20 +2277,20 @@
       "url": "https://open.spotify.com/track/12kvkByLJthKaIhk819aNA"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2025-10-10 04:00:28",
       "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+        "name": "Move On First",
+        "url": "https://open.spotify.com/album/1Yjy7hqO89PtRtISnah1T1"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
         }
       ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
+      "duration_ms": 156786,
+      "name": "Move On First",
+      "url": "https://open.spotify.com/track/1aAoYRxr0r6sWSEsWfL1GU"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -2245,6 +2309,22 @@
       "url": "https://open.spotify.com/track/1PF77rPYFoBNbWseo9utyS"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
+    },
+    {
       "added_at": "2026-01-23 05:58:48",
       "album": {
         "name": "how the f*** does everybody else manage?",
@@ -2259,22 +2339,6 @@
       "duration_ms": 210222,
       "name": "how the f*** does everybody else manage?",
       "url": "https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN"
-    },
-    {
-      "added_at": "2026-01-09 05:00:49",
-      "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 208412,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
     },
     {
       "added_at": "2025-08-29 04:00:39",
@@ -2295,6 +2359,22 @@
       "duration_ms": 191122,
       "name": "Forever Start",
       "url": "https://open.spotify.com/track/3ToN8ReI58rQwfuOtX5tew"
+    },
+    {
+      "added_at": "2026-01-09 05:00:49",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 208412,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
     },
     {
       "added_at": "2025-07-18 04:02:26",
@@ -2395,86 +2475,6 @@
       "duration_ms": 217770,
       "name": "Last Drive",
       "url": "https://open.spotify.com/track/157KFG8lqxLxejMIwDsBl4"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "You Don't Look At Me The Same",
-        "url": "https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 163850,
-      "name": "You Don't Look At Me The Same",
-      "url": "https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN"
-    },
-    {
-      "added_at": "2025-09-12 04:17:16",
-      "album": {
-        "name": "Just Like Us",
-        "url": "https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 195154,
-      "name": "Just Like Us",
-      "url": "https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk"
-    },
-    {
-      "added_at": "2025-12-05 06:29:53",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD"
-      },
-      "artists": [
-        {
-          "name": "Maeve",
-          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr"
-    },
-    {
-      "added_at": "2025-10-31 04:00:43",
-      "album": {
-        "name": "$82 at Erewhon",
-        "url": "https://open.spotify.com/album/59unleOrwrllljDVxIfZ9i"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 227423,
-      "name": "$82 at Erewhon",
-      "url": "https://open.spotify.com/track/4DfOEg7MBodW1fxXkP5ViL"
-    },
-    {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "Glad We Met",
-        "url": "https://open.spotify.com/album/7kQ4DFN3bluZbWJ6LK75I6"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "I'm Glad We Met",
-      "url": "https://open.spotify.com/track/48NwJQW8Lu6ZG9icZ35Pjh"
     }
   ],
   "unique_name": "sad hour",

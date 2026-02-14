@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Eugene Racaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,418 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,455 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 6](https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [King of Sadtown](https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [King of Sadtown](https://open.spotify.com/album/3JYPXy9wUuPHw1tkU6GiWR) | 3:16 |
 | 2 | [Paulit\-ulit](https://open.spotify.com/track/7lg6aEg93D0YCTBccmaHWW) | [Eugene Racaza](https://open.spotify.com/artist/0MEMAnDrUgKIohS0JqGLnz) | [Paulit\-ulit](https://open.spotify.com/album/5btUBlxTKDCBMemGYdwhpl) | 4:07 |
 | 3 | [GMRBA \(Gusto mo rin ba ako?\)](https://open.spotify.com/track/0Ia6msdPU2hk9U4nf8u2X8) | [Joshyyd](https://open.spotify.com/artist/6oU3T0uXJT1FJn8jj4Zl2l) | [GMRBA \(Gusto mo rin ba ako?\)](https://open.spotify.com/album/1d3RAa6d03ZteH8ZGXJAHA) | 3:44 |
 | 4 | [Walang Hanggan](https://open.spotify.com/track/027GEmfIKNBJNzR1Z8HY7g) | [IÚNO](https://open.spotify.com/artist/6uEXkEzKa24LALqupzd8eI), [Shine Valentine](https://open.spotify.com/artist/0yWy82qmLM3FybLtjSiOC5) | [Walang Hanggan](https://open.spotify.com/album/14Ce4ccKX5xx9UGDuHULIQ) | 3:44 |

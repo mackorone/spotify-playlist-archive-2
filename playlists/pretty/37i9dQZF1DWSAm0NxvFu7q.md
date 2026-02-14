@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 
 > recent trending tracks in rock, alt, metal, and punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,794 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,824 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 | 49 | [Dreaming](https://open.spotify.com/track/4bzv1DvQF2kCESPeKBhXNO) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Home](https://open.spotify.com/album/2ZMGAQ1QyWmirdMQ1KET8o) | 3:45 |
 | 50 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 |
 
-Snapshot ID: `AAAAAN1wYeDEiXlko8LKL5fvNixgzJd7`
+Snapshot ID: `AAAAAP/B/BMhQab/hACR5T1Hjy80ufnI`

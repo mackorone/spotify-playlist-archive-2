@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Loving Kills.",
+        "url": "https://open.spotify.com/album/3uNj9VcF0CVAcKHFPP6Dml"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140799,
+      "name": "burnt",
+      "url": "https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H"
+    },
+    {
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/1NZStWVb3AXdxG0AKEaK2L"
       },
@@ -1577,6 +1595,28 @@
     },
     {
       "album": {
+        "name": "We Live.",
+        "url": "https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "RACKS.",
+      "url": "https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0"
+    },
+    {
+      "album": {
         "name": "rectangles",
         "url": "https://open.spotify.com/album/6J3ygrQ3WnVyiQEb6hcQKm"
       },
@@ -2188,42 +2228,6 @@
       "duration_ms": 159322,
       "name": "Touch me (feat. Ya Levis)",
       "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "AntsLive",
-          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0"
     },
     {
       "album": {

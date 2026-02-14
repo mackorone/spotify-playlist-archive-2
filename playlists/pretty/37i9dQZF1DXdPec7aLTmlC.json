@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6343946,
+  "num_followers": 6343978,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "I Forgot That You Existed",
-      "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "I Forgot That You Existed",
+      "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 211294,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "31 Minutes to Takeoff",
         "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 196813,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 211294,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "What's Love Got to Do with It",
-        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 208156,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "What's Love Got to Do with It",
+        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 208156,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
     },
     {
       "added_at": "2024-06-13 22:00:00",

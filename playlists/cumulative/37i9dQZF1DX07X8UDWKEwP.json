@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Daniela Darcourt",
+  "description": "Lo nuevo del mundo tropical. Cover: Quevedo",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 200112,
       "name": "A CABALLO",
       "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
@@ -1441,6 +1441,40 @@
     },
     {
       "album": {
+        "name": "Az\u00facar (feat. Arturo Sandoval)",
+        "url": "https://open.spotify.com/album/75WV3Y5nWfQxSa40fixkPl"
+      },
+      "artists": [
+        {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+        },
+        {
+          "name": "Mimy Succar",
+          "url": "https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv"
+        },
+        {
+          "name": "Kenyi",
+          "url": "https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287906,
+      "name": "Az\u00facar (feat. Arturo Sandoval)",
+      "url": "https://open.spotify.com/track/4PMkN6hqPNlvEXSKxqEUSB"
+    },
+    {
+      "album": {
         "name": "BACANO",
         "url": "https://open.spotify.com/album/6EdNPd2hYgS4AkTk1BNsS0"
       },
@@ -1548,7 +1582,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 194565,
       "name": "bachata m\u00eda",
       "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
@@ -2608,7 +2642,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 202457,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ"
@@ -3664,6 +3698,24 @@
       "duration_ms": 229795,
       "name": "Dando y Dando",
       "url": "https://open.spotify.com/track/6F6gqKjGUrKFuvNyOATO1R"
+    },
+    {
+      "album": {
+        "name": "Dario",
+        "url": "https://open.spotify.com/album/3ZKapj48pN5cFTydeCFYEV"
+      },
+      "artists": [
+        {
+          "name": "Los Sufridos",
+          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "Dario",
+      "url": "https://open.spotify.com/track/7GMwZxNtYYteLnPgZPHR5d"
     },
     {
       "album": {
@@ -6301,6 +6353,28 @@
     },
     {
       "album": {
+        "name": "Elsa y Elmar (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287328,
+      "name": "Grecia - Spotify Sessions",
+      "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
+    },
+    {
+      "album": {
         "name": "HASTA EL FONDO",
         "url": "https://open.spotify.com/album/0e9KO4wTLHP9sjA3zkCot9"
       },
@@ -8365,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Cucombia",
+        "url": "https://open.spotify.com/album/3JWWWYhb5qiRqLewY7hXUs"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203921,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/6hXTP9qeoTlFcQI47v5aJB"
+    },
+    {
+      "album": {
         "name": "Llorar Bonito",
         "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
       },
@@ -9194,7 +9286,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 126847,
       "name": "Me Cont\u00f3 Un Pajarito",
       "url": "https://open.spotify.com/track/1BtekUrJrdyP26Vdv9jFUS"
@@ -9779,6 +9871,28 @@
     },
     {
       "album": {
+        "name": "Mi Nuevo Trauma",
+        "url": "https://open.spotify.com/album/3YFCM81SwJA6FLrLTXjjH9"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Mi Nuevo Trauma",
+      "url": "https://open.spotify.com/track/4Lvn7E4uWfF39IVWDqKZ7Z"
+    },
+    {
+      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM"
       },
@@ -10312,6 +10426,24 @@
       "duration_ms": 212211,
       "name": "Negro Cora",
       "url": "https://open.spotify.com/track/5clrCbKHTQwzXkkrKaMqs9"
+    },
+    {
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "album": {
@@ -11428,6 +11560,24 @@
       "duration_ms": 245989,
       "name": "Padre e Hijo",
       "url": "https://open.spotify.com/track/3wA1lKqQ67q0UGS7PnYHCg"
+    },
+    {
+      "album": {
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182231,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ"
     },
     {
       "album": {
@@ -13462,7 +13612,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 169474,
       "name": "Se Te Olvida",
       "url": "https://open.spotify.com/track/2xy1gJyrM5Jt34cFmB4k5y"
@@ -14190,7 +14340,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176097,
       "name": "Sin Gravedad",
       "url": "https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF"
@@ -16416,7 +16566,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197765,
       "name": "YA NO EST\u00c1S SOLA",
       "url": "https://open.spotify.com/track/7bTLME3Z0vRWAUuDeZYObf"

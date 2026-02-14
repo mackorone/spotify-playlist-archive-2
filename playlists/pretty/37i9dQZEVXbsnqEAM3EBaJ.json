@@ -6,13 +6,93 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYVZMAAAAABC3SDRcC+sG58eLJ6SP2o4",
+  "snapshot_id": "aY6TsAAAAAB8+GhbpxK7GQpGWCt+HRFp",
   "tracks": [
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "My Earth Guide",
-        "url": "https://open.spotify.com/album/3YG1cFWQ8XROvX83v19gUG"
+        "name": "Kimerap",
+        "url": "https://open.spotify.com/album/7MDdRy3b6KUWmlr48YW6VX"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Gloria Allel",
+          "url": "https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX"
+        },
+        {
+          "name": "Matu Cosmelli",
+          "url": "https://open.spotify.com/artist/3dyImRirr2cNkiQr3MVhaN"
+        }
+      ],
+      "duration_ms": 248927,
+      "name": "Kimerap",
+      "url": "https://open.spotify.com/track/6E4IprUX0TtcDFBPQLbkwa"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
+        "name": "This Would Make Me Happy / Yeh Uh Huh",
+        "url": "https://open.spotify.com/album/42uOZWRaCpv2njGaUUOIOJ"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Poor Little Fool (feat. Tina Turner)",
+      "url": "https://open.spotify.com/track/0QT2Ioz0iNaery2BcdOwLL"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/5O1MuPPnMtJWEIG32pmczn"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 196150,
+      "name": "Sugarcane",
+      "url": "https://open.spotify.com/track/0I9DqPIzEHl9vNW6ccuX6y"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
+        "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+        "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 195008,
+      "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+      "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
+        "name": "Love Notes",
+        "url": "https://open.spotify.com/album/6G3vQf1sKR8pvvPkDR7L1a"
       },
       "artists": [
         {
@@ -20,15 +100,15 @@
           "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
         }
       ],
-      "duration_ms": 182049,
-      "name": "My Earth Guide",
-      "url": "https://open.spotify.com/track/1oXlZn9xxy5cgFboQaGXqy"
+      "duration_ms": 154879,
+      "name": "Love Notes",
+      "url": "https://open.spotify.com/track/10v85PAXbGQ0Wfi3I9cFDb"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "No End",
-        "url": "https://open.spotify.com/album/5xPpOOXhOPknBhtolacnki"
+        "name": "Crown of empty space",
+        "url": "https://open.spotify.com/album/5N0On1ZUu28G6MoXpkp4g1"
       },
       "artists": [
         {
@@ -40,72 +120,72 @@
           "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
         }
       ],
-      "duration_ms": 68560,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/1DZwTo9w7OJ677WKeDlbPE"
+      "duration_ms": 64120,
+      "name": "Isotropic Ruin",
+      "url": "https://open.spotify.com/track/45tUdzSjgw0PGuUb4uxwW0"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+        "name": "Al Otro Lado Del Sol",
+        "url": "https://open.spotify.com/album/6Ah6hHRCTUopsL8a5PojtQ"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
         },
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Robert Aragones",
+          "url": "https://open.spotify.com/artist/6KGDcGSw3VzhkXx78FxM5r"
         }
       ],
-      "duration_ms": 305706,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
+      "duration_ms": 323718,
+      "name": "Al Otro Lado Del Sol",
+      "url": "https://open.spotify.com/track/5Y3zVZDmxrcHfYN4VtWu9W"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "Armada - An Orchestral Voyage",
-        "url": "https://open.spotify.com/album/2eHfRzQJWKguLwjVTKiHHA"
+        "name": "God\u2019s Lonely Man",
+        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
       },
       "artists": [
         {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 246766,
-      "name": "Magic of the Night - Orchestral Version",
-      "url": "https://open.spotify.com/track/1CXP4Vy6j2zMFFGpymBl2E"
+      "duration_ms": 163120,
+      "name": "God's Lonely Man",
+      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "FADE",
-        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
+        "name": "Thrice | Audiotree from Nothing",
+        "url": "https://open.spotify.com/album/3IiAxL0O9RW4zLRWTJkrGL"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
         },
         {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
         }
       ],
-      "duration_ms": 178205,
-      "name": "FADE",
-      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
+      "duration_ms": 344160,
+      "name": "Vesper Light - Audiotree Version",
+      "url": "https://open.spotify.com/track/7I2J48BFLe4BLbkDapquMD"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Satisfaction Skank (High Contrast Remix)",
         "url": "https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb"
@@ -129,7 +209,7 @@
       "url": "https://open.spotify.com/track/61Z0yfhBej1doIseuLpo2d"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Megadeth",
         "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
@@ -145,7 +225,7 @@
       "url": "https://open.spotify.com/track/1ID9SzJR4OFRwinOqYlJf4"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "JANE DOE (from \"Chainsaw Man\") [Spanish Version]",
         "url": "https://open.spotify.com/album/3WfRtbyKdiJ4fiU4UXvxaW"
@@ -165,7 +245,7 @@
       "url": "https://open.spotify.com/track/5LIJ14j7IDOcnSRk8lYdgW"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Set The Dark On Fire",
         "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
@@ -181,7 +261,7 @@
       "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Mama Kin (2024 Mix)",
         "url": "https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy"
@@ -197,7 +277,7 @@
       "url": "https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
@@ -213,7 +293,7 @@
       "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Ki Chororo",
         "url": "https://open.spotify.com/album/1gbEmEIUZTR9teDGCuD0JQ"
@@ -233,9 +313,9 @@
       "url": "https://open.spotify.com/track/0C97btEEwC56pQYBU5U8GG"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "Streets of Minneapolis",
+        "name": "Streets of Minneapolis (Bob Clearmountain Radio Mix)",
         "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
       "artists": [
@@ -244,12 +324,12 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 275831,
-      "name": "Streets of Minneapolis",
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Bob Clearmountain Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Sweet Palm Wine",
         "url": "https://open.spotify.com/album/2h3Qyy2nF36atsBcrPbcYB"
@@ -269,7 +349,7 @@
       "url": "https://open.spotify.com/track/7cKn7oqphz5lz4kGz3kMbq"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Hagamos Que",
         "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
@@ -285,7 +365,47 @@
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 305706,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
+        "name": "Armada - An Orchestral Voyage",
+        "url": "https://open.spotify.com/album/2eHfRzQJWKguLwjVTKiHHA"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 246766,
+      "name": "Magic of the Night - Orchestral Version",
+      "url": "https://open.spotify.com/track/1CXP4Vy6j2zMFFGpymBl2E"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/0I32UEEK6d7siI5VGDN82G"
@@ -305,7 +425,7 @@
       "url": "https://open.spotify.com/track/4slORGAF6oIF5yom2sERgO"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
         "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
@@ -321,7 +441,27 @@
       "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
+        "name": "FADE",
+        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "FADE",
+      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/27yKFHvVPXsZC6IBjY5alh"
@@ -349,7 +489,7 @@
       "url": "https://open.spotify.com/track/02UzydXZzZoYzY1lRKpVcj"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "THE SPELL",
         "url": "https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF"
@@ -369,7 +509,7 @@
       "url": "https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Minnesota Nazis",
         "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
@@ -385,7 +525,7 @@
       "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
@@ -405,7 +545,7 @@
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
-      "added_at": "2026-02-06 03:00:00",
+      "added_at": "2026-02-13 03:00:00",
       "album": {
         "name": "CAMPILATION",
         "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"

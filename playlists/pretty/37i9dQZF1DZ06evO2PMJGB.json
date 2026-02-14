@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265195,
+  "num_followers": 265196,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACf7rZ+2T2MttquhfO7adRv",
+  "snapshot_id": "aY0YAAAAAAC/yX988lt3PjWEII9apGgg",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caro",
-        "url": "https://open.spotify.com/album/56TOlNuqJ05wDBJGfrjIjV"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 221857,
-      "name": "Hotel Caro",
-      "url": "https://open.spotify.com/track/13cC8N59S63EOeSNMhskEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 135111,
       "name": "ATEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caro",
+        "url": "https://open.spotify.com/album/56TOlNuqJ05wDBJGfrjIjV"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 221857,
+      "name": "Hotel Caro",
+      "url": "https://open.spotify.com/track/13cC8N59S63EOeSNMhskEO"
     },
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT \u00dc",
         "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 139322,
       "name": "NOT \u00dc",
       "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": null,

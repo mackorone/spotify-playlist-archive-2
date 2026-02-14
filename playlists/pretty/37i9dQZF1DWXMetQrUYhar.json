@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111254,
+  "num_followers": 111256,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
-      "added_at": "2025-01-27 20:00:12",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Coyote, My Little Brother - Spotify Singles",
-      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
-    },
-    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -155,6 +139,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2025-01-27 20:00:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2025-01-27 20:00:12",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "Gates to the Sun (POLLEN Singles)",
+        "url": "https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 135748,
+      "name": "Gates to the Sun (POLLEN Singles)",
+      "url": "https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Gates to the Sun (POLLEN Singles)",
-        "url": "https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
         {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 135748,
-      "name": "Gates to the Sun (POLLEN Singles)",
-      "url": "https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP"
+      "duration_ms": 206079,
+      "name": "Motivation - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -339,22 +355,6 @@
       "duration_ms": 173641,
       "name": "California Dreamin' - Spotify Singles",
       "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 206079,
-      "name": "Motivation - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -412,6 +412,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 252240,
+      "name": "Movement - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
       },
       "artists": [
@@ -425,20 +441,20 @@
       "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
     },
     {
-      "added_at": "2023-01-11 22:54:33",
+      "added_at": "2025-01-27 20:00:12",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+        "name": "flower boy - Spotify Singles",
+        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
         }
       ],
-      "duration_ms": 252240,
-      "name": "Movement - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
+      "duration_ms": 174630,
+      "name": "flower boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -503,22 +519,6 @@
       "duration_ms": 246701,
       "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
-    },
-    {
-      "added_at": "2025-01-27 20:00:12",
-      "album": {
-        "name": "flower boy - Spotify Singles",
-        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 174630,
-      "name": "flower boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -732,22 +732,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 315953,
-      "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
-      "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -759,6 +743,22 @@
       "duration_ms": 251498,
       "name": "Stayaway - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 315953,
+      "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
+      "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1116,22 +1116,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 311320,
-      "name": "This Life - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1143,6 +1127,22 @@
       "duration_ms": 320156,
       "name": "Mind Games - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "This Life - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1504,22 +1504,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Headlock - Spotify Singles",
-      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
       "artists": [
@@ -1531,6 +1515,22 @@
       "duration_ms": 173023,
       "name": "Telepat\u00eda - Spotify Singles",
       "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
     },
     {
       "added_at": "2023-01-11 22:54:33",

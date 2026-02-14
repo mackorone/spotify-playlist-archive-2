@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-118 songs - 6 hr 2 min
+121 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-07-04 |  |
 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 | 2026-02-06 |  |
 | [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 | 2025-07-25 |  |
+| [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 | 2026-02-13 |  |
 | [ego](https://open.spotify.com/track/5PBTKRzy7645Er3nPxTWWK) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [ego](https://open.spotify.com/album/3EQlX84VGFJcYuV4g9frFm) | 2:42 | 2025-10-24 |  |
 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 | 2025-07-04 |  |
 | [End Of Summer](https://open.spotify.com/track/5R4P7dPtVQalJ7DrRwLVXv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 7:12 | 2025-10-10 |  |
@@ -53,6 +54,7 @@
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2025-07-04 |  |
 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-05 |  |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-07-14 |  |
+| [Higher Love](https://open.spotify.com/track/2TFwKzcRtRJ6B4RVmQCvXG) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Higher Love](https://open.spotify.com/album/0Ez6wWM4SrNa6IdcIw92Eg) | 2:37 | 2026-02-13 |  |
 | [Human Now \(feat\. Luke Steele\)](https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Luke Steele](https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:10 | 2025-07-04 |  |
 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 | 2025-09-12 |  |
 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-07-04 |  |
@@ -105,6 +107,7 @@
 | [Starlight \(The Fame\)](https://open.spotify.com/track/2Rr9a2sxcTIe9xhfaEmFTL) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Starlight \(The Fame\)](https://open.spotify.com/album/6GNKUJR0OQtwR9xUK6OVE4) | 3:02 | 2025-07-04 |  |
 | [Summer Love](https://open.spotify.com/track/0YjXevB90M9K34TOx4q02S) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summer Love](https://open.spotify.com/album/4VDwEXL99iyW8h5irzXg8S) | 2:35 | 2025-07-04 | 2025-07-26 |
 | [Supergirl](https://open.spotify.com/track/6N542bNlsteL28mkXZW3Nl) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Supergirl](https://open.spotify.com/album/3jUkvDHe7qlkQJXgEzOwbi) | 2:32 | 2025-07-25 | 2025-08-15 |
+| [Supernova](https://open.spotify.com/track/2Fgrs0WuPgru74Ttu5le2M) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Axelino](https://open.spotify.com/artist/2aIMraliygvDVxMsLnAHwX) | [Supernova](https://open.spotify.com/album/6HruX2IYagiVbR7SP96sAd) | 4:18 | 2026-02-13 |  |
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2025-07-04 |  |
 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-07-04 |  |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-07-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,133 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,134 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 29 | [Wish You Would](https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 4:18 |
 | 30 | [Bed on Fire \(feat\. Ingrid Andress\)](https://open.spotify.com/track/06IC4v8Smdm5fVQuMAOxe2) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [songs for sad eyes](https://open.spotify.com/album/6NS3kVO5BUMDdWlIOvOk65) | 3:48 |
 
-Snapshot ID: `aYvGgAAAAAAp+ztDnzHEOKqUYdNRq5Of`
+Snapshot ID: `aY0YAAAAAABupEvsqOYN30mObuoUqSdA`

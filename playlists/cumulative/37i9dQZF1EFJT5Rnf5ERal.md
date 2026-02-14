@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-324 songs - 15 hr 35 min
+325 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [From the Jump \(feat\. Tay Keith\)](https://open.spotify.com/track/2CGjYkr9fe9I6cJ7nHDDa7) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Big Grim Reaper](https://open.spotify.com/album/3p89sh1IV385sHS85PHe8w) | 2:08 | 2024-06-11 |  |
 | [Fuck Everybody Else](https://open.spotify.com/track/3S4p3bekXdLUpno8QK74WD) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [223](https://open.spotify.com/album/3wXTjWYl5lWpPBC3QAxhIO) | 2:59 | 2024-06-11 |  |
 | [Gang Gang](https://open.spotify.com/track/3FJRvlunxuqpLzekp4YGgc) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [2 Federal](https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn) | 3:12 | 2024-06-11 |  |
-| [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 | 2024-06-11 |  |
+| [Genius](https://open.spotify.com/track/7gtWNCnfCQLDp39Ghbj4ys) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 3:28 | 2026-02-13 |  |
+| [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 | 2024-06-11 | 2026-02-14 |
 | [Get It Sexyy](https://open.spotify.com/track/6UmKnXmG7VmYqFnmSPOfRj) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:28 | 2025-05-31 |  |
 | [Go Far](https://open.spotify.com/track/4ziqCMZUfb5DmP8RbUG1aj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:42 | 2025-05-26 |  |
 | [Go Far \(with Tay Keith & Hunxho\)](https://open.spotify.com/track/6eymUYP5hyXy4y8n2iM32Y) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:42 | 2024-06-11 | 2025-05-27 |

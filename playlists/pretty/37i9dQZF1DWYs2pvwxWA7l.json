@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  small god, joshua baraka, sarkodie ",
-  "num_followers": 635867,
+  "num_followers": 635904,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMT6jbumasgSsctZnbjihr6e5kiE",
+  "snapshot_id": "AAAAAIUOEW2ApMlWmggxHgE0dqYm3Htg",
   "tracks": [
     {
       "added_at": "2026-02-13 00:01:38",
@@ -289,10 +289,10 @@
       "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
-      "added_at": "2026-02-13 00:01:38",
+      "added_at": "2026-02-13 08:52:11",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+        "name": "Morocco (Remix)",
+        "url": "https://open.spotify.com/album/2GXg4xtgD1GvFRatolULXX"
       },
       "artists": [
         {
@@ -302,11 +302,15 @@
         {
           "name": "Axon",
           "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 161938,
-      "name": "\u2060Morocco",
-      "url": "https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta"
+      "duration_ms": 158500,
+      "name": "Morocco - Remix",
+      "url": "https://open.spotify.com/track/6K0yyDL8HIakuunhcTAttS"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -615,22 +619,18 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -755,18 +759,22 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
-        "name": "Muhammad Ali (Can't Relate)",
-        "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 159183,
-      "name": "Muhammad Ali (Can't Relate)",
-      "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -787,22 +795,18 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "Muhammad Ali (Can't Relate)",
+        "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+      "duration_ms": 159183,
+      "name": "Muhammad Ali (Can't Relate)",
+      "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -943,6 +947,22 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "added_at": "2026-02-13 00:01:38",
+      "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
       },
@@ -963,22 +983,6 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
-    },
-    {
-      "added_at": "2026-02-13 00:01:38",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
@@ -991,26 +995,6 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2026-02-13 00:01:38",
-      "album": {
-        "name": "Afroculture",
-        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Pansa Pansa",
-      "url": "https://open.spotify.com/track/3Nk1kjAFGSl4zEesuPckHR"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -1031,6 +1015,26 @@
       "duration_ms": 148297,
       "name": "My Dealer",
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+    },
+    {
+      "added_at": "2026-02-13 00:01:38",
+      "album": {
+        "name": "Afroculture",
+        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Pansa Pansa",
+      "url": "https://open.spotify.com/track/3Nk1kjAFGSl4zEesuPckHR"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -1075,46 +1079,6 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
-    },
-    {
-      "added_at": "2026-02-13 00:01:38",
-      "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2026-02-13 00:01:38",
-      "album": {
         "name": "alone (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
       },
@@ -1135,6 +1099,26 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2026-02-13 00:01:38",
+      "album": {
         "name": "Where You Dey",
         "url": "https://open.spotify.com/album/3UwvuwtlVtrmnpb8jPubXf"
       },
@@ -1151,6 +1135,26 @@
       "duration_ms": 186000,
       "name": "Where You Dey",
       "url": "https://open.spotify.com/track/7IgIgtb2tud3KGvik0M5uG"
+    },
+    {
+      "added_at": "2026-02-13 00:01:38",
+      "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
     },
     {
       "added_at": "2026-02-13 00:01:38",
@@ -1319,22 +1323,22 @@
     {
       "added_at": "2026-02-13 00:01:38",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     }
   ],
   "unique_name": "Afropop",

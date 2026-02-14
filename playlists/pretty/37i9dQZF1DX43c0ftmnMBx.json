@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 267082,
+  "num_followers": 267130,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Tonto Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 284706,
+      "name": "La Pared",
+      "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Devu\u00e9lveme Mi Libertad",
         "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Tonto Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 284706,
-      "name": "La Pared",
-      "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
     },
     {
       "added_at": "2024-08-23 04:59:00",

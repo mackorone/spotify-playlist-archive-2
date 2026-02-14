@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130819,
+  "num_followers": 130828,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u5de6\u908a\u7684\u4eba",
-        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
-        }
-      ],
-      "duration_ms": 216585,
-      "name": "\u5de6\u908a\u7684\u4eba",
-      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Sent",
         "url": "https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 241893,
       "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
       "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u5de6\u908a\u7684\u4eba",
+        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "\u5de6\u908a\u7684\u4eba",
+      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
-        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/6EbUoTFRqZrM3Eq9EsDNFU"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        },
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+          "name": "JC \u9673\u8a60\u6850",
+          "url": "https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g"
         }
       ],
-      "duration_ms": 236239,
-      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
-      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+      "duration_ms": 213215,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5XGJDP8nliwD9nnG29LsCy"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -539,18 +535,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "!!!!",
-        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
+        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
       "artists": [
         {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
         }
       ],
-      "duration_ms": 216689,
-      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
-      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+      "duration_ms": 236239,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
+      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -567,6 +567,22 @@
       "duration_ms": 349541,
       "name": "\u82ac\u862d\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "!!!!",
+        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
+      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -615,22 +631,6 @@
       "duration_ms": 187369,
       "name": "If Only...",
       "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/6EbUoTFRqZrM3Eq9EsDNFU"
-      },
-      "artists": [
-        {
-          "name": "JC \u9673\u8a60\u6850",
-          "url": "https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g"
-        }
-      ],
-      "duration_ms": 213215,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5XGJDP8nliwD9nnG29LsCy"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4e0d\u4f54\u5730\u65b9",
-        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 279444,
-      "name": "\u4e0d\u4f54\u5730\u65b9",
-      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 233949,
       "name": "\u5074\u81c9",
       "url": "https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u4e0d\u4f54\u5730\u65b9",
+        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 279444,
+      "name": "\u4e0d\u4f54\u5730\u65b9",
+      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
     },
     {
       "added_at": "2026-02-12 16:00:30",

@@ -9672,7 +9672,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 253480,
       "name": "Brillas muy bonito",
       "url": "https://open.spotify.com/track/0dznVyYhGhitZFRAJIZw5P"
@@ -14020,7 +14020,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 167664,
       "name": "Confiesaselo (feat. Kbp)",
       "url": "https://open.spotify.com/track/3qJwuExs27hIYLkwUX1BF9"
@@ -15528,7 +15528,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 152416,
       "name": "Cuerno Azulado",
       "url": "https://open.spotify.com/track/4wOHvjzXto0aN5CMaJFsbq"
@@ -25410,7 +25410,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 143850,
       "name": "FRUTOS VERDADEROS",
       "url": "https://open.spotify.com/track/17ru6UkYGvamsH1hnnbFGL"
@@ -28418,7 +28418,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/5IXk34xSm6rxNgXkCveC3r"
@@ -28436,7 +28436,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
@@ -37348,7 +37348,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -38878,7 +38878,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -49597,6 +49597,32 @@
     },
     {
       "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
+    },
+    {
+      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -53316,6 +53342,24 @@
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
+    },
+    {
+      "album": {
+        "name": "PUES QUE LE HAGO ?",
+        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
     },
     {
       "album": {
@@ -65314,6 +65358,28 @@
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "album": {
+        "name": "The Flow's Son Black!",
+        "url": "https://open.spotify.com/album/4OwKwkMhZTD58rPbQ4MNOo"
+      },
+      "artists": [
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Kobby",
+          "url": "https://open.spotify.com/artist/4l1Vi4ltsN6cXCVHABQNxR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132608,
+      "name": "The Flow's Son Black!",
+      "url": "https://open.spotify.com/track/6uLcqYE347zlvXD6rhiM4J"
     },
     {
       "album": {

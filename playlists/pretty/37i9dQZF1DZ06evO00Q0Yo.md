@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,958 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,961 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flo Jackson](https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Flo Jackson](https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS) | 2:23 |
-| 2 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/0XrZkuSgrDEI14kRHqdz77), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
+| 2 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
 | 3 | [bloodonmyhands \(feat\. Flo Milli\)](https://open.spotify.com/track/5XEiB0fnWSZpBhE2t7sumF) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:42 |
 | 4 | [Roc Steady \(feat\. Flo Milli\)](https://open.spotify.com/track/4jCKLCyhHjrzz6be6NDhrd) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:19 |
 | 5 | [Never Lose Me](https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:05 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 41 | [Roaring 20s](https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Roaring 20s](https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af) | 2:09 |
 | 42 | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ) | 2:05 |
 | 43 | [Like That Bitch](https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:23 |
-| 44 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 |
-| 45 | [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 |
+| 44 | [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 |
+| 45 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 |
 | 46 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 |
 | 47 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:33 |
 | 48 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
 | 49 | [Chocolate Rain](https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Chocolate Rain](https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL) | 2:42 |
 | 50 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 |
 
-Snapshot ID: `aYvGgAAAAADgb6gdg2nOhMxFVgY/S9+v`
+Snapshot ID: `aY0YAAAAAACwloBuzYQl3mf26f+PfQSI`

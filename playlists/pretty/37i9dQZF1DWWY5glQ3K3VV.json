@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 113409,
+  "num_followers": 113427,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "WAO",
-        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 149464,
-      "name": "WAO",
-      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
@@ -959,22 +939,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+        "name": "WAO",
+        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
         }
       ],
-      "duration_ms": 119217,
-      "name": "BIKINI (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+      "duration_ms": 149464,
+      "name": "WAO",
+      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -999,6 +979,26 @@
       "duration_ms": 204668,
       "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
       "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 119217,
+      "name": "BIKINI (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "THE BIGGEST SBLAO",
-        "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
-      },
-      "artists": [
-        {
-          "name": "Low-Red",
-          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        }
-      ],
-      "duration_ms": 157795,
-      "name": "BISEX (feat. Yung Snapp)",
-      "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 143500,
       "name": "TAXI SULLA LUNA",
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "THE BIGGEST SBLAO",
+        "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
+      },
+      "artists": [
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "duration_ms": 157795,
+      "name": "BISEX (feat. Yung Snapp)",
+      "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "PLC tape 1",
         "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, Juli)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "added_at": "2026-02-12 23:01:39",

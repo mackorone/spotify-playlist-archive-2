@@ -4,7 +4,7 @@
 
 > Bien Argento 📸 Oney1
 
-428 songs - 21 hr 16 min
+429 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [HONEY](https://open.spotify.com/track/5l6dRaGzi21yzNlbl6jBjO) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [HONEY](https://open.spotify.com/album/70QGUkXDclTwinj3d82xq6) | 2:50 | 2025-04-18 |  |
 | [HOOP HOOP](https://open.spotify.com/track/3dD1H5ick5Txfngx7hje7X) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-05-12 | 2023-10-21 |
 | [HORAS EXTRAS](https://open.spotify.com/track/527EqWFnLQBSFozXNF9aPF) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [HORAS EXTRAS](https://open.spotify.com/album/4ZSdLAEwyl3psz69BYK0gN) | 4:15 | 2022-11-11 | 2024-06-22 |
+| [Horóscopo \- 21:00](https://open.spotify.com/track/6PvgO4pyoIVEwjaW2E0K2x) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [14 de FEBRERO](https://open.spotify.com/album/6nCJn4xe5G7snMEG2ihBS1) | 3:21 | 2026-02-13 |  |
 | [Humilde Pero Cotizado \(feat\. Fili Wey & Dimelo Ismael\)](https://open.spotify.com/track/0UWWGuJfxceRlIeiMZyk8S) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Nattanael](https://open.spotify.com/artist/2lXbybPKnWM62D10ckOdco), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [Dimelo Ismael](https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor) | [Humilde Pero Cotizado \(feat\. Fili Wey & Dimelo Ismael\)](https://open.spotify.com/album/1jdFkyLyFLiLaaDIsfkKia) | 3:50 | 2025-02-28 | 2025-03-26 |
 | [I'm Blessd](https://open.spotify.com/track/5ToZKR67BcLZOTMn38zMdm) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:28 | 2024-07-05 | 2025-05-07 |
 | [I'm Sexy](https://open.spotify.com/track/6EehCI47rrOjaDHwrpTO7q) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [I'm Sexy](https://open.spotify.com/album/1IawKxLc0kQANfv3T7Wgbs) | 3:13 | 2022-06-10 | 2023-09-30 |
@@ -424,7 +425,7 @@
 | [Viernes 16 B](https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Galaxy Supreme](https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB) | [Viernes 16 B](https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt) | 2:25 | 2024-02-16 | 2024-03-30 |
 | [Vueltas en el barrio](https://open.spotify.com/track/1mVSPOifn1tlbmRpjcTpzs) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Vueltas en el barrio](https://open.spotify.com/album/1BrVfD9HJ9HFyHCccK4BmP) | 2:34 | 2022-02-18 | 2023-03-03 |
 | [Wachita](https://open.spotify.com/track/1GNq3jJMQZmtmXnjDEkiU3) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Wachita](https://open.spotify.com/album/52xzKPPlZ8IjvjtNqoATwU) | 2:23 | 2024-04-19 | 2024-06-29 |
-| [Wapo Traketero](https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Wapo Traketero](https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ) | 3:01 | 2021-11-26 |  |
+| [Wapo Traketero](https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Wapo Traketero](https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ) | 3:01 | 2021-11-26 | 2026-02-14 |
 | [WE CAN FLY](https://open.spotify.com/track/6NbLP8E8fov0n1MRYkVDXb) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D) | [WE CAN FLY](https://open.spotify.com/album/3XhlSa50mLibS63AeR0IRz) | 2:00 | 2024-06-21 | 2024-11-09 |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-04-07 | 2024-05-18 |
 | [XL](https://open.spotify.com/track/0cb9ckfF5AZQynYVTKg06v) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L) | [XL](https://open.spotify.com/album/5DGbD9cul3TZcq8NPzhhbe) | 2:54 | 2023-03-03 | 2023-07-22 |

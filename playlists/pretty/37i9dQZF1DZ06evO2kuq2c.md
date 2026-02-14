@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,054 likes - 44 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,076 likes - 44 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 43 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 |
 | 44 | [Even If You Win, You're Still A Rat](https://open.spotify.com/track/1YSmJJ1RRy9pOGgZHwyvhW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:12 |
 
-Snapshot ID: `aYvGgAAAAAAgsxFwFvDtpytQHZPsVaU1`
+Snapshot ID: `aY0YAAAAAABE3Ga/X3PWencXqVPNCsbU`

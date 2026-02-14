@@ -1,13 +1,29 @@
 {
-  "description": "on repeat for a reason. cover: Freya Skye",
-  "num_followers": 1557950,
+  "description": "on repeat for a reason. cover: Tiffany Stringer",
+  "num_followers": 1557849,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABVffboxsVqUyrPEp20QlirtL93m",
+  "snapshot_id": "AAAAACksFidQjLmVLTRMFHjKKpnJuOaH",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/6SCV1DAF0OhDKfJtaLxkEU"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "duration_ms": 167884,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o"
+    },
     {
       "added_at": "2026-02-06 05:00:47",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 197098,
       "name": "golden boy",
       "url": "https://open.spotify.com/track/2RlNVAciIcppSI1Iu10RDh"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "City",
+      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
     },
     {
       "added_at": "2026-01-16 05:00:42",
@@ -57,6 +89,70 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "Fabulous",
+        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
+    },
+    {
+      "added_at": "2026-01-23 05:34:57",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+    },
+    {
+      "added_at": "2026-02-13 18:02:30",
+      "album": {
+        "name": "I've Never Met Her",
+        "url": "https://open.spotify.com/album/2hy0Ft7jAKtWtiqMDC59Za"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 187254,
+      "name": "I've Never Met Her",
+      "url": "https://open.spotify.com/track/0fWLWBuDo8v6GnAwHOFQyY"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
+    {
       "added_at": "2026-01-30 05:00:51",
       "album": {
         "name": "I Hope You Don't Remember Me",
@@ -73,20 +169,40 @@
       "url": "https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
+      "added_at": "2025-06-20 04:00:44",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 263228,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
       "added_at": "2026-02-06 05:00:47",
@@ -105,20 +221,20 @@
       "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
     },
     {
-      "added_at": "2026-01-23 05:34:57",
+      "added_at": "2026-01-30 05:00:51",
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+      "duration_ms": 263228,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
       "added_at": "2026-01-02 05:00:14",
@@ -153,6 +269,22 @@
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
+      "added_at": "2026-02-13 20:08:25",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq"
+      },
+      "artists": [
+        {
+          "name": "Lara Buchanan",
+          "url": "https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg"
+    },
+    {
       "added_at": "2026-01-23 05:34:57",
       "album": {
         "name": "BUTTERF-LIES",
@@ -185,20 +317,20 @@
       "url": "https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2"
     },
     {
-      "added_at": "2026-02-06 05:00:47",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
-        "name": "Fabulous",
-        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
       },
       "artists": [
         {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 153351,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -263,6 +395,22 @@
       "duration_ms": 167440,
       "name": "A Man Written by a Woman",
       "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "added_at": "2026-02-06 05:00:47",
@@ -599,22 +747,6 @@
       "duration_ms": 177421,
       "name": "Catch & Release",
       "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
-    },
-    {
-      "added_at": "2026-01-23 05:34:57",
-      "album": {
-        "name": "Lucky Day",
-        "url": "https://open.spotify.com/album/1vK8WFZRsDlyx2ZWJo4sV6"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/4XAOqOH1fmm8COSqWqzhYH"
     },
     {
       "added_at": "2025-12-12 05:00:48",
@@ -1225,22 +1357,6 @@
       "url": "https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R"
     },
     {
-      "added_at": "2025-11-28 05:00:48",
-      "album": {
-        "name": "if you don't love me",
-        "url": "https://open.spotify.com/album/0T4jDRsLvx2ZSsquuuvyUS"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "if you don't love me",
-      "url": "https://open.spotify.com/track/2YfFvs79Ho9JpW4zKkUglB"
-    },
-    {
       "added_at": "2025-11-21 05:00:30",
       "album": {
         "name": "Think About U Lots",
@@ -1255,22 +1371,6 @@
       "duration_ms": 214763,
       "name": "Think About U Lots",
       "url": "https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU"
-    },
-    {
-      "added_at": "2025-12-05 05:25:05",
-      "album": {
-        "name": "20teens",
-        "url": "https://open.spotify.com/album/72fuMXmu5lrxWmMytH7gKE"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 191020,
-      "name": "20teens",
-      "url": "https://open.spotify.com/track/5F6Rxh3fkwU2NIdVttFUlY"
     },
     {
       "added_at": "2025-11-07 05:00:58",
@@ -1369,22 +1469,6 @@
       "url": "https://open.spotify.com/track/5ibIBcjKPYgAQjAwjSZYci"
     },
     {
-      "added_at": "2025-10-10 04:00:10",
-      "album": {
-        "name": "Your Manhattan",
-        "url": "https://open.spotify.com/album/4gejdxnslRCSyswCA3fHdu"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bochner",
-          "url": "https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz"
-        }
-      ],
-      "duration_ms": 183595,
-      "name": "Your Manhattan",
-      "url": "https://open.spotify.com/track/3r5Z0AegZ0AY0HfKFWs3dz"
-    },
-    {
       "added_at": "2025-10-03 04:00:48",
       "album": {
         "name": "mood swings",
@@ -1431,22 +1515,6 @@
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "The Things",
-        "url": "https://open.spotify.com/album/0EvpoCMbZ3T79uChGfcfNd"
-      },
-      "artists": [
-        {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
-        }
-      ],
-      "duration_ms": 206075,
-      "name": "The Things",
-      "url": "https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM"
     },
     {
       "added_at": "2025-09-19 04:00:31",
@@ -1499,42 +1567,6 @@
     {
       "added_at": "2025-09-19 04:00:31",
       "album": {
-        "name": "Herified",
-        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
-      },
-      "artists": [
-        {
-          "name": "mags",
-          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
-    },
-    {
-      "added_at": "2025-06-20 04:00:44",
-      "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
         "name": "I\u2019m Only F**king Myself",
         "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
       },
@@ -1547,22 +1579,6 @@
       "duration_ms": 261959,
       "name": "Post Sex Clarity",
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
-    },
-    {
-      "added_at": "2025-09-12 04:00:25",
-      "album": {
-        "name": "East of the Sun...",
-        "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 175339,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
     },
     {
       "added_at": "2025-08-29 04:01:51",
@@ -1595,22 +1611,6 @@
       "duration_ms": 143298,
       "name": "I Think I Like You Better When You\u2019re Gone",
       "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
-      "added_at": "2025-06-20 04:00:44",
-      "album": {
-        "name": "The Texas Primadonna",
-        "url": "https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Stringer",
-          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Texas Primadonna",
-      "url": "https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO"
     }
   ],
   "unique_name": "young & free",

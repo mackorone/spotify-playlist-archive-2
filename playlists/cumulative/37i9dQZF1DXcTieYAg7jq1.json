@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229087,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B"
+    },
+    {
+      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -2751,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Get In Girl",
+        "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
+    },
+    {
+      "album": {
         "name": "Getting Older",
         "url": "https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl"
       },
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187000,
       "name": "Hello Love - Edit",
       "url": "https://open.spotify.com/track/1tpcELwRo7bxRfCr0xspqy"
@@ -4406,6 +4442,24 @@
       "duration_ms": 205438,
       "name": "Infinite Love",
       "url": "https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u"
+    },
+    {
+      "album": {
+        "name": "Is This Love??",
+        "url": "https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Is This Love??",
+      "url": "https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M"
     },
     {
       "album": {
@@ -7256,7 +7310,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180335,
       "name": "Sleeptalking",
       "url": "https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir"
@@ -7658,7 +7712,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 166916,
       "name": "Spinnin",
       "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"

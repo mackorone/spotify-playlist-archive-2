@@ -67,26 +67,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Fazer Falta",
-        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Fazer Falta",
-      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 213988,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Fazer Falta",
+        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Fazer Falta",
+      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "ATEN\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "ATEN\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Senta braba",
+        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 149615,
+      "name": "Senta braba",
+      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "LARISSA",
         "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 125304,
       "name": "LARISSA",
       "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Senta braba",
-        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        }
-      ],
-      "duration_ms": 149615,
-      "name": "Senta braba",
-      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Chama Ela (feat. Pedro Sampaio)",
         "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 120200,
       "name": "Chama Ela (feat. Pedro Sampaio)",
       "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Sapequinha",
+        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "duration_ms": 134106,
+      "name": "Sapequinha",
+      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Tudo Ok",
         "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 178500,
       "name": "Tudo Ok",
       "url": "https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Sapequinha",
-        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 134106,
-      "name": "Sapequinha",
-      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "LEXA",
+        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Para n\u00e3o",
         "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 164800,
       "name": "Para n\u00e3o",
       "url": "https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "LEXA",
-        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
-      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
       },
       "artists": [
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1843,22 +1847,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
       },
       "artists": [
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
     },
     {
       "added_at": "2023-06-26 14:06:50",

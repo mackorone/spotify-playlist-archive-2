@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Chloe Saavedra\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,905 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,930 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

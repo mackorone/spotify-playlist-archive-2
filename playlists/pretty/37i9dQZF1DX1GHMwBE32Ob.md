@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Shoday
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,169 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,310 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 31 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 |
 | 32 | [Rover](https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Rover](https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha) | 2:34 |
 | 33 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 |
-| 34 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 |
-| 35 | [Forex Boys](https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Forex Boys](https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg) | 2:17 |
+| 34 | [Forex Boys](https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Forex Boys](https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg) | 2:17 |
+| 35 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 |
 | 36 | [Hot Hot](https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Hot Hot](https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8) | 2:23 |
 | 37 | [Kaizen's Intro](https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:54 |
 | 38 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 55 | [Introduction](https://open.spotify.com/track/18Dqu7gVORIPeijXiugQnk) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Introduction](https://open.spotify.com/album/3rhPZe2525Jd9SO1A4FIFR) | 2:25 |
 | 56 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
 | 57 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
-| 58 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 |
-| 59 | [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 |
-| 60 | [World Best](https://open.spotify.com/track/3r1xguZdjdgl8W0LO4ZtBF) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [World Best](https://open.spotify.com/album/2frIDgjKHf4bkkPo19wQ6Y) | 2:17 |
+| 58 | [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 |
+| 59 | [World Best](https://open.spotify.com/track/3r1xguZdjdgl8W0LO4ZtBF) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [World Best](https://open.spotify.com/album/2frIDgjKHf4bkkPo19wQ6Y) | 2:17 |
+| 60 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 |
 
 Snapshot ID: `AAAAAJPdjENA3Dlkgc7GK1ckv/S/dyj+`

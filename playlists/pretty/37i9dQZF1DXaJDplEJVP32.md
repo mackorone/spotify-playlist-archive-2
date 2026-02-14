@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,629 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,651 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 21 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
 | 22 | [Multiplied](https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Rivers in the Wasteland](https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw) | 4:35 |
 | 23 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 |
-| 24 | [Just Be Held](https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 3:41 |
-| 25 | [Good Good Father](https://open.spotify.com/track/5go3zDh6wyW7DPwO2lWtmL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:52 |
+| 24 | [Good Good Father](https://open.spotify.com/track/5go3zDh6wyW7DPwO2lWtmL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:52 |
+| 25 | [Just Be Held](https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 3:41 |
 | 26 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 27 | [I Smile](https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:07 |
 | 28 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 42 | [The Best In Me](https://open.spotify.com/track/1B5NWdLAt8GC4WKTPUCrLM) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Here I Am](https://open.spotify.com/album/2IIxW2mUKDpa3X6YC0NPlf) | 8:34 |
 | 43 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
 | 44 | [I Need A Miracle](https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Miracle](https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3) | 3:42 |
-| 45 | [Won't He Do It](https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Greenleaf Soundtrack \- Season 2](https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt) | 3:29 |
-| 46 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
+| 45 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
+| 46 | [Won't He Do It](https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Greenleaf Soundtrack \- Season 2](https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt) | 3:29 |
 | 47 | [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 |
 | 48 | [Blessings](https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Blessings](https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc) | 4:58 |
 | 49 | [Nobody Greater](https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Triumphant](https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y) | 6:09 |

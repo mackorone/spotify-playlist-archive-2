@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,640 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,623 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 48 | [Ice Cream](https://open.spotify.com/track/7aVlNa4f1VxG6D1gEEQ6CY) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Ice Cream](https://open.spotify.com/album/20cPAOECyiHnN342S6Q56L) | 2:19 |
 | 49 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
 | 50 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
-| 51 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 |
+| 51 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:36 |
 | 52 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 |
 | 53 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 |
 | 54 | [When The Party Ends](https://open.spotify.com/track/0N254dOqqdCm5hviUV2kR9) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [When The Party Ends](https://open.spotify.com/album/5AF73l0OfFySgn23wMaacp) | 2:35 |

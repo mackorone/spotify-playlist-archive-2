@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "BIENVENIDA",
+        "url": "https://open.spotify.com/album/0ESp6bF0Ur4LEREJqihybn"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105625,
+      "name": "BIENVENIDA",
+      "url": "https://open.spotify.com/track/3LQigrdxIRn7KD4GaRzGRR"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 290106,
       "name": "Burden In My Hand",
       "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231016,
       "name": "Con Otra",
       "url": "https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt"
@@ -5082,7 +5100,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 163831,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
@@ -10367,6 +10385,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -11514,7 +11550,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"

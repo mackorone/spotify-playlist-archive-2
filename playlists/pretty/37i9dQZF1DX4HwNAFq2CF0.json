@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Foo Fighters",
-  "num_followers": 76289,
+  "num_followers": 76300,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 228360,
-      "name": "Centuries",
-      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+      "duration_ms": 231400,
+      "name": "Animal I Have Become",
+      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
     },
     {
       "added_at": "2025-09-04 22:32:47",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 231400,
-      "name": "Animal I Have Become",
-      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
+      "duration_ms": 228360,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
     },
     {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
-        "name": "Inside (Deluxe)",
-        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Hayloft II",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
-    },
-    {
       "added_at": "2025-09-04 22:32:47",
       "album": {
         "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
@@ -463,6 +447,22 @@
       "duration_ms": 249960,
       "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Inside (Deluxe)",
+        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Hayloft II",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 188639,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2025-09-04 22:32:47",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Mint",
-        "url": "https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "No Roots",
-      "url": "https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "No Roots",
+      "url": "https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Fully Completely",
-        "url": "https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Wheat Kings",
-      "url": "https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 189706,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Fully Completely",
+        "url": "https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Wheat Kings",
+      "url": "https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo"
     },
     {
       "added_at": "2025-05-01 22:00:00",

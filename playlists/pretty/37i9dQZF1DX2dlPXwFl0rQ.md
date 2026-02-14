@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Carolina Ross en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,356 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,384 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 42 | [Pago Por Ver](https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pago Por Ver](https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc) | 3:02 |
 | 43 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
 | 44 | [Amémonos de Nuevo](https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Amémonos de Nuevo](https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ) | 2:51 |
-| 45 | [LA PENSIÓN](https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI) | [Mariana Ochoa](https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9) | [LA PENSIÓN](https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0) | 2:42 |
-| 46 | [Que Siga Pasando](https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Que Siga Pasando](https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p) | 3:10 |
+| 45 | [Que Siga Pasando](https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Que Siga Pasando](https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p) | 3:10 |
+| 46 | [LA PENSIÓN](https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI) | [Mariana Ochoa](https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9) | [LA PENSIÓN](https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0) | 2:42 |
 | 47 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 48 | [Tu Orgullo](https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Orgullo](https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV) | 3:32 |
 | 49 | [Las Ferragamo](https://open.spotify.com/track/2MDHHS0pQ1HN8m6o56VTwa) | [Karly B](https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr) | [Las Ferragamo](https://open.spotify.com/album/7cej4aBlC3miNI8B6xHvnK) | 2:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 76 | [Ilesa](https://open.spotify.com/track/3kiUuHVGQznTwWeU3UfBBP) | [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Ilesa](https://open.spotify.com/album/6CJqZByDZgyJ4tjevMEH79) | 3:37 |
 | 77 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
 | 78 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |
-| 79 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |
-| 80 | [La Loca](https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [La Loca](https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96) | 3:47 |
+| 79 | [La Loca](https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [La Loca](https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96) | 3:47 |
+| 80 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |
 | 81 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
 | 82 | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge) | 8:49 |
 | 83 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 97 | [Se Dice Facil](https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Se Dice Facil](https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm) | 2:35 |
 | 98 | [NADIE TE NECESITA](https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [NADIE TE NECESITA](https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx) | 2:57 |
 | 99 | [Más Libre Que En Casa](https://open.spotify.com/track/1MNeTjwMOALVRqapVrBgFj) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Más Libre Que En Casa](https://open.spotify.com/album/3wICFJzDXLNbHpcaYXSiRf) | 2:41 |
-| 100 | [Ayer Pedí](https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ayer Pedí](https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m) | 2:58 |
+| 100 | [Cada Vez Que Te Vas](https://open.spotify.com/track/7juj65bKOGyq509uWUlzB3) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Cada Vez Que Te Vas](https://open.spotify.com/album/2wem1eLJ81Xt1zWScHJ5o2) | 2:48 |
 
 Snapshot ID: `AAAAAP7N6P/ugzUKvBYUGSrEOHWk2Wx7`

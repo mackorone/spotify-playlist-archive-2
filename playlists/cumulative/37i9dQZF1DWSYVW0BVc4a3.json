@@ -15239,6 +15239,28 @@
     },
     {
       "album": {
+        "name": "Luigi (Adrian Lux Remix)",
+        "url": "https://open.spotify.com/album/2S9ctSioXWVbalXzev18p7"
+      },
+      "artists": [
+        {
+          "name": "Anna-My",
+          "url": "https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9"
+        },
+        {
+          "name": "Adrian Lux",
+          "url": "https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280413,
+      "name": "Luigi - Adrian Lux Remix",
+      "url": "https://open.spotify.com/track/1MZNgovvRNWxQ7xplEwsGX"
+    },
+    {
+      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/4WkNU8w47Cl7slbsZZPpKT"
       },
@@ -24519,8 +24541,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Tamagucci",
+        "url": "https://open.spotify.com/album/5jXQ5K43Mzh4lq9VWPJar2"
       },
       "artists": [
         {

@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 288367,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182400,
       "name": "Angustias",
       "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
@@ -870,6 +870,28 @@
       "duration_ms": 111007,
       "name": "Camouflage",
       "url": "https://open.spotify.com/track/2OZNlqxznOv0Cd1bcpw0Sy"
+    },
+    {
+      "album": {
+        "name": "CASI T\u00da",
+        "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "CASI T\u00da",
+      "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
     },
     {
       "album": {
@@ -1097,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "Corre, mi vida",
+        "url": "https://open.spotify.com/album/1eTi9JHapHWRTSmWrjRaOG"
+      },
+      "artists": [
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215531,
+      "name": "Corre, mi vida",
+      "url": "https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9"
+    },
+    {
+      "album": {
         "name": "Crashing (with Kali Uchis)",
         "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
       },
@@ -1152,6 +1196,24 @@
       "duration_ms": 166677,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e1nta Raz\u00f3n",
+        "url": "https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185246,
+      "name": "Cu\u00e1nta Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
     },
     {
       "album": {
@@ -2902,7 +2964,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210541,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
@@ -3205,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179459,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw"
+    },
+    {
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -3295,6 +3375,28 @@
     },
     {
       "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191507,
+      "name": "MI$ LLAMADA$",
+      "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -3310,6 +3412,24 @@
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492434,
+      "name": "MURALLAS",
+      "url": "https://open.spotify.com/track/6vAdKhF0MrtHo32J0rRySQ"
     },
     {
       "album": {
@@ -3400,7 +3520,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 195060,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
@@ -3534,7 +3654,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 224829,
       "name": "No Te Vayas Sin Saber",
       "url": "https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl"
@@ -4230,7 +4350,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 194062,
       "name": "Que Pedo",
       "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
@@ -4550,6 +4670,24 @@
       "duration_ms": 247959,
       "name": "Sabr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
+    },
+    {
+      "album": {
+        "name": "salvavidas",
+        "url": "https://open.spotify.com/album/3dNrwdem0cXHokFlOnRKvY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "salvavidas",
+      "url": "https://open.spotify.com/track/5ZdzVtea7j66bFQSPmEKAN"
     },
     {
       "album": {
@@ -5500,7 +5638,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
@@ -6018,7 +6156,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 200707,
       "name": "YO NO TE OLVIDO",
       "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"

@@ -9189,6 +9189,32 @@
     },
     {
       "album": {
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/17WQneMS2G9Dv9aGO6d0ji"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "SAYMYNAME",
+          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
+        },
+        {
+          "name": "XAE",
+          "url": "https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "GTFU",
+      "url": "https://open.spotify.com/track/201b8a3HSC9WHc5tNOeRex"
+    },
+    {
+      "album": {
         "name": "Guesses",
         "url": "https://open.spotify.com/album/2jWPkteLzjDBXLJMbmiaI6"
       },

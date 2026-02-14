@@ -5764,7 +5764,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 89600,
       "name": "HOWMUCHFORADAYWITHSOMEONETHATISDEAD?",
       "url": "https://open.spotify.com/track/1JOBEqK5UXzUA3iN7vf2mT"
@@ -6896,7 +6896,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199225,
       "name": "Las Palabras",
       "url": "https://open.spotify.com/track/2xKCYRoW2BNxciBwUzSz08"
@@ -7844,6 +7844,24 @@
       "duration_ms": 294874,
       "name": "Mar\u00eda Juana",
       "url": "https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy"
+    },
+    {
+      "album": {
+        "name": "MASVALE",
+        "url": "https://open.spotify.com/album/4xUNeZ0BzI8kf9Y5FZhjWP"
+      },
+      "artists": [
+        {
+          "name": "San Venus",
+          "url": "https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "MASVALE",
+      "url": "https://open.spotify.com/track/2e7AwTwRiOTScNX0N8zjbU"
     },
     {
       "album": {
@@ -9588,6 +9606,28 @@
     {
       "album": {
         "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
+      },
+      "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
+    },
+    {
+      "album": {
+        "name": "No Puedo M\u00e1s",
         "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
       },
       "artists": [
@@ -10906,7 +10946,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187605,
       "name": "Quieres Autodestruirte Conmigo?",
       "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
@@ -12874,6 +12914,28 @@
       "duration_ms": 161160,
       "name": "Todo Acaba Mal",
       "url": "https://open.spotify.com/track/2r9Qk7BnAFVEhESJU5J4wz"
+    },
+    {
+      "album": {
+        "name": "Todo Bien (Mentira)",
+        "url": "https://open.spotify.com/album/5L64RkRKhqGYpWd15tePV9"
+      },
+      "artists": [
+        {
+          "name": "Todo Arde En Silencio",
+          "url": "https://open.spotify.com/artist/1D7PyEtL78gKjto4erdkd8"
+        },
+        {
+          "name": "Samuek",
+          "url": "https://open.spotify.com/artist/1z4ITYjGrpAuU7cPXTZxvc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142245,
+      "name": "Todo Bien (Mentira)",
+      "url": "https://open.spotify.com/track/7pUXmxfXKq7wBNOFiij5lB"
     },
     {
       "album": {

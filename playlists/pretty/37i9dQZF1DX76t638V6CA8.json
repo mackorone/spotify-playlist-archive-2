@@ -1,6 +1,6 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2553402,
+  "num_followers": 2553794,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,26 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -263,26 +267,22 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 267706,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "Motley Crew",
+        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Motley Crew",
+      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "Collision Course",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 205280,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "Motley Crew",
-        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Motley Crew",
-      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "ART (feat. Latto)",
         "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 108800,
       "name": "ART (feat. Latto)",
       "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1679,30 +1679,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Or What",
-        "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
-        }
-      ],
-      "duration_ms": 199165,
-      "name": "Or What",
-      "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "Cash In Cash Out",
         "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
       },
@@ -1723,6 +1699,30 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "Or What",
+        "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "duration_ms": 199165,
+      "name": "Or What",
+      "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
     },
     {
       "added_at": "2025-11-04 12:39:57",

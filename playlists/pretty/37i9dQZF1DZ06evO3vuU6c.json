@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435575,
+  "num_followers": 1435599,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADH8aNGSBA6bKsbuKT8bVSW",
+  "snapshot_id": "aY0YAAAAAAC8R6Ba1nxJFh0n+bZ+kIc4",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Elastic Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -439,42 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Elastic Heart - Piano Version",
-      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drinking From The Sun",
-        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drinking From The Sun",
+        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
     },
     {
       "added_at": null,

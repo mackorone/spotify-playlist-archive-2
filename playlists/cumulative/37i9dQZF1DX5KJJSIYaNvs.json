@@ -1621,6 +1621,32 @@
     },
     {
       "album": {
+        "name": "Behtar",
+        "url": "https://open.spotify.com/album/2pK7DPxzdkF0LMpVpiYxTm"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172405,
+      "name": "Behtar",
+      "url": "https://open.spotify.com/track/5dibYPxeDw00ClnPUpmlVS"
+    },
+    {
+      "album": {
         "name": "Beparwah",
         "url": "https://open.spotify.com/album/7pr9Qp1pOb6Aas7qjjNJ7d"
       },
@@ -11440,7 +11466,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 193846,
       "name": "Sabar",
       "url": "https://open.spotify.com/track/5xpO1KGOZO6utAsvUih0WK"
@@ -12370,7 +12396,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 186872,
       "name": "Swapna Geet",
       "url": "https://open.spotify.com/track/79UtWqOJy6AATpe1WlcCvh"
@@ -13776,6 +13802,32 @@
       "duration_ms": 253833,
       "name": "Uyi Amma - From \"Azaad\"",
       "url": "https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp"
+    },
+    {
+      "album": {
+        "name": "O' Romeo",
+        "url": "https://open.spotify.com/album/5VZxcrOq8sNpqFufVF0TiU"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Ananya Wadkar",
+          "url": "https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301207,
+      "name": "Vaada Hai",
+      "url": "https://open.spotify.com/track/5NTdWOWF2UVxOYVoj1KAga"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, blazingfairis, Alia Syntax and more",
+  "description": "With Die Mannequin, blazingfairis, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 79879,
       "name": "Asphalt Heart",
       "url": "https://open.spotify.com/track/7onWhvLus9aSDVMV8GeIpb"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 188784,
       "name": "Automatic Confidence",
       "url": "https://open.spotify.com/track/75vxwf0g2pxpQNbQTz6D5i"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -560,6 +560,24 @@
       "duration_ms": 185333,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/2HDo9PLQ66EOVESfVjydro"
+    },
+    {
+      "album": {
+        "name": "I Want The World",
+        "url": "https://open.spotify.com/album/7xdF1q7JPdNHgPgSPJ2yFb"
+      },
+      "artists": [
+        {
+          "name": "Hands Off Gretel",
+          "url": "https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Blame Myself",
+      "url": "https://open.spotify.com/track/011cR0KrGQqu7xyLDGNBav"
     },
     {
       "album": {
@@ -722,6 +740,24 @@
       "duration_ms": 127278,
       "name": "Bus Crush",
       "url": "https://open.spotify.com/track/7nttmGKTkbrXH1nvGqCO9d"
+    },
+    {
+      "album": {
+        "name": "Manic Depression",
+        "url": "https://open.spotify.com/album/3VBABXyFIvDz6KVMcSL7t0"
+      },
+      "artists": [
+        {
+          "name": "kriszappa",
+          "url": "https://open.spotify.com/artist/6FCXSbZqHjr0hQcKgkCaK8"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166408,
+      "name": "Butterfly Effects",
+      "url": "https://open.spotify.com/track/1WnSOC34hodkQA5XNHNfyX"
     },
     {
       "album": {
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176229,
       "name": "DON'T TELL BOMBSHELL",
       "url": "https://open.spotify.com/track/758jBrA6BmGdCv0jFlTRZw"
@@ -1698,7 +1734,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171279,
       "name": "Full of Hate",
       "url": "https://open.spotify.com/track/784dUX0QsFOPg9gNI1U3E2"
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -1882,6 +1918,24 @@
       "duration_ms": 214759,
       "name": "Halloween Boogie",
       "url": "https://open.spotify.com/track/7lCS8qx8J8syVgYZN63BAi"
+    },
+    {
+      "album": {
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "Have You No Pride",
+      "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
     },
     {
       "album": {
@@ -2278,7 +2332,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 102319,
       "name": "I Just Wanna Fuck",
       "url": "https://open.spotify.com/track/4oU0Yvy5C13aRzJZr9hvRn"
@@ -2466,7 +2520,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -2574,7 +2628,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 186159,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/1y8k2DMk5IX9WoIQ69Snoa"
@@ -3154,7 +3208,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -3262,7 +3316,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -3356,6 +3410,24 @@
       "duration_ms": 211599,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/2EbRxELUPwAwsXtOJXa5tF"
+    },
+    {
+      "album": {
+        "name": "Pavement Talk",
+        "url": "https://open.spotify.com/album/3yFdXbhZaI0lGUGjtLYEUM"
+      },
+      "artists": [
+        {
+          "name": "Millie Phillips",
+          "url": "https://open.spotify.com/artist/3SmZkXMqPjgm7VEtwKmLFD"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "Nowhere Stop",
+      "url": "https://open.spotify.com/track/0dhvV449Lur9kKnyM4GX6F"
     },
     {
       "album": {
@@ -3550,7 +3622,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 125447,
       "name": "Paper Hearts",
       "url": "https://open.spotify.com/track/61YKvyGlDZ88m3HItDDolZ"
@@ -3640,7 +3712,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 225440,
       "name": "Phase Transition",
       "url": "https://open.spotify.com/track/5126Zi3wuCY7NwZW8dsJIm"
@@ -3712,7 +3784,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 132919,
       "name": "Por Qu\u00e9 Demoras",
       "url": "https://open.spotify.com/track/1KlDR4QHGK8TW5LOvoLCBH"
@@ -4036,7 +4108,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -4198,7 +4270,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 130519,
       "name": "Static Tongue",
       "url": "https://open.spotify.com/track/3r5IFbPHHkeTnMmHSBeJ90"
@@ -4216,7 +4288,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -4328,6 +4400,24 @@
       "duration_ms": 182786,
       "name": "Sugarbaby",
       "url": "https://open.spotify.com/track/61hpwV8EiNGOHCgkSL3cxc"
+    },
+    {
+      "album": {
+        "name": "All the Way",
+        "url": "https://open.spotify.com/album/6zGusxQGuldxWKtrIhW9qZ"
+      },
+      "artists": [
+        {
+          "name": "Skin On Flesh",
+          "url": "https://open.spotify.com/artist/3Pndr3kAkUKT2aFV7VlhEm"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214941,
+      "name": "Sunburn Road",
+      "url": "https://open.spotify.com/track/1e9lwaLhdTSnFOpboQMESQ"
     },
     {
       "album": {
@@ -4674,7 +4764,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 159433,
       "name": "Turborage Flow",
       "url": "https://open.spotify.com/track/1EwdEzlPkrK7P8TQccZWzh"
@@ -4692,7 +4782,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 183530,
       "name": "Ugly Lights",
       "url": "https://open.spotify.com/track/01Dh4x0x0zcKfVuTdLmToe"
@@ -4908,7 +4998,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 181913,
       "name": "What Will Santa Bring For You?",
       "url": "https://open.spotify.com/track/7jlM3SxpNeBr5IuCfSPbZD"

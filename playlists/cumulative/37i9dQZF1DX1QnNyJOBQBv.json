@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring nic.",
+  "description": "Pop on the rise you should know, featuring Maluma & Kany Garc\u00eda.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -3871,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "CUCARACHEO",
+        "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Jay Kabalan",
+          "url": "https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153903,
+      "name": "CUCARACHEO",
+      "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -6336,7 +6358,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171293,
       "name": "Hablamos Ma\u00f1ana",
       "url": "https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI"
@@ -6394,6 +6416,28 @@
       "duration_ms": 192897,
       "name": "HARRY STAMPER",
       "url": "https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15"
+    },
+    {
+      "album": {
+        "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+        "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+      "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
     },
     {
       "album": {
@@ -6552,7 +6596,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
@@ -10048,7 +10092,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 350488,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
@@ -10287,6 +10331,24 @@
     },
     {
       "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+    },
+    {
+      "album": {
         "name": "Alta Fidelidad: El Mixtape",
         "url": "https://open.spotify.com/album/42o7ybB55bGnKbfv9nLuhb"
       },
@@ -10396,7 +10458,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 155074,
       "name": "No Hay Que Llorar",
       "url": "https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3"
@@ -11336,6 +11398,24 @@
       "duration_ms": 172373,
       "name": "Pa Quererte",
       "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
+    },
+    {
+      "album": {
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182231,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ"
     },
     {
       "album": {

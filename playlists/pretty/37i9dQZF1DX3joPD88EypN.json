@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 94193,
+  "num_followers": 94225,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "When Lights Are Low",
-        "url": "https://open.spotify.com/album/5gjMAq8dbUNkt4k7Fq7CLo"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 269614,
-      "name": "When Lights Are Low",
-      "url": "https://open.spotify.com/track/6S6Rv75zSFtcWgLr1XLQLe"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Shades of Leaving",
         "url": "https://open.spotify.com/album/3myikID3DobiPwPZna4FEt"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 279920,
       "name": "Shades of Leaving",
       "url": "https://open.spotify.com/track/3dMfc52VrXrDij1apLF0Nw"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "When Lights Are Low",
+        "url": "https://open.spotify.com/album/5gjMAq8dbUNkt4k7Fq7CLo"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        }
+      ],
+      "duration_ms": 269614,
+      "name": "When Lights Are Low",
+      "url": "https://open.spotify.com/track/6S6Rv75zSFtcWgLr1XLQLe"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/7CtOqcN4ZlDrynEUrdVflA"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 442308,
-      "name": "Midnight Sun Upon Saltv\u00e6rs\u00f8ya",
-      "url": "https://open.spotify.com/track/4LU1Nh6sh3c4vxQLr3Riu3"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "No Cure",
         "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 263971,
       "name": "No Cure",
       "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/7CtOqcN4ZlDrynEUrdVflA"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 442308,
+      "name": "Midnight Sun Upon Saltv\u00e6rs\u00f8ya",
+      "url": "https://open.spotify.com/track/4LU1Nh6sh3c4vxQLr3Riu3"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Illegal Hit",
-        "url": "https://open.spotify.com/album/2oGkhIUyrcsJrLN9A7kxgD"
-      },
-      "artists": [
-        {
-          "name": "Yttling Jazz",
-          "url": "https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG"
-        }
-      ],
-      "duration_ms": 238903,
-      "name": "Illegal Hit",
-      "url": "https://open.spotify.com/track/5KB9sxu9umqrgFypIgwivj"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "A Letter to Eje Thelin",
         "url": "https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 221000,
       "name": "Jumnien",
       "url": "https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Illegal Hit",
+        "url": "https://open.spotify.com/album/2oGkhIUyrcsJrLN9A7kxgD"
+      },
+      "artists": [
+        {
+          "name": "Yttling Jazz",
+          "url": "https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG"
+        }
+      ],
+      "duration_ms": 238903,
+      "name": "Illegal Hit",
+      "url": "https://open.spotify.com/track/5KB9sxu9umqrgFypIgwivj"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Up in the Sky",
-        "url": "https://open.spotify.com/album/0B9LlcC7hecto7aL1xAqyL"
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Up in the Sky",
-      "url": "https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv"
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+        "name": "Up in the Sky",
+        "url": "https://open.spotify.com/album/0B9LlcC7hecto7aL1xAqyL"
       },
       "artists": [
         {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 71160,
-      "name": "Divining",
-      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
+      "duration_ms": 273600,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Innr\u00f8nt",
-        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        },
-        {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Innr\u00f8nt",
-      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 281855,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Innr\u00f8nt",
+        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Erland Dahlen",
+          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Innr\u00f8nt",
+      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 498112,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 487053,
       "name": "Cinematic",
       "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 498112,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Lycka till med musiken",
         "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 544093,
       "name": "9",
       "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+      },
+      "artists": [
+        {
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+        }
+      ],
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "We Seem to Be Drifting Apart",
         "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 251964,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
-      },
-      "artists": [
-        {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
-        }
-      ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
     },
     {
       "added_at": "2026-01-30 09:24:24",

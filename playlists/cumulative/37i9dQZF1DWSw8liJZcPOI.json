@@ -5118,7 +5118,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221933,
       "name": "Hanover Birds",
       "url": "https://open.spotify.com/track/668NjVxsRvOOZ8LGsVAuYs"
@@ -8217,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "pApillons",
+        "url": "https://open.spotify.com/album/4aMdemqLQMn0Te2kL5DYD5"
+      },
+      "artists": [
+        {
+          "name": "Vulax",
+          "url": "https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198963,
+      "name": "pApillons",
+      "url": "https://open.spotify.com/track/4GQ26HG3SXHVn6otsD63hD"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/5lAF4HjQ8v00c1M7PjFpG8"
       },
@@ -8896,7 +8914,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 228904,
       "name": "Refrost",
       "url": "https://open.spotify.com/track/05MRIEoiBKTtnTT70KkDdX"
@@ -11172,6 +11190,24 @@
       "duration_ms": 214862,
       "name": "The Open",
       "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
+    },
+    {
+      "album": {
+        "name": "Infinite Ache",
+        "url": "https://open.spotify.com/album/2tniyfK8PgyUMw62N9B3UA"
+      },
+      "artists": [
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267506,
+      "name": "The Pain Is Gone The Scar Will Stay",
+      "url": "https://open.spotify.com/track/4uic9zfDIQ2ye0JVx1Ri4X"
     },
     {
       "album": {

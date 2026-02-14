@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,324 likes - 200 songs - 15 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,417 likes - 200 songs - 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 84 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 |
 | 85 | [Spread Love](https://open.spotify.com/track/0N7yfvd5tfP3kschFBfhss) | [Riot Jazz Brass Band](https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP) | [Riot Jazz Makes People Happy](https://open.spotify.com/album/7z61j8SPcOgzo6R8D2m6Tn) | 4:38 |
 | 86 | [Ode To Benny Liku](https://open.spotify.com/track/1cQgDYOqOj7wgvUO7tOPHm) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/15anBA9frAP9DxIFbskhFe) | 6:20 |
-| 87 | [Joyous](https://open.spotify.com/track/1PLbAq2vbYJTAP9pbEoGmY) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [Joyous](https://open.spotify.com/album/2Cwbiyc7pUytYiWP7AtcND) | 6:29 |
+| 87 | [Joyous \- Remastered 2023](https://open.spotify.com/track/1PLbAq2vbYJTAP9pbEoGmY) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [Joyous](https://open.spotify.com/album/2Cwbiyc7pUytYiWP7AtcND) | 6:29 |
 | 88 | [Pace](https://open.spotify.com/track/1RdLaq5tDG4k22fGRr9a6L) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Pace](https://open.spotify.com/album/3lD5NKDqVxqs2zedgYt9mS) | 3:17 |
 | 89 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 90 | [Them Changes](https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Center Stage](https://open.spotify.com/album/0OKzNFL2vAPb0qJJhv8sqR) | 5:41 |

@@ -1,13 +1,29 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Nick Jonas",
-  "num_followers": 1802176,
+  "description": "Sit back and relax to the chillest pop.  Cover: Olivia Dean",
+  "num_followers": 1802040,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKrjOfIg5XrOryO1M5Yx93uEK76C",
+  "snapshot_id": "AAAAAHSFkLrYw9yYX8RDXjI9iqXty2UU",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
     {
       "added_at": "2026-02-06 05:00:49",
       "album": {
@@ -57,6 +73,54 @@
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/4vacitZKKjz1PBOtTwWkp2"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/2deosh9uwwwECK6Z20YOCK"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 193012,
+      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
+    },
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
       "added_at": "2026-02-06 05:00:49",
       "album": {
         "name": "Cry",
@@ -77,6 +141,22 @@
       "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
     },
     {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "pocket knife",
+        "url": "https://open.spotify.com/album/0TQmZAfuXMYWYLF9UUUDHq"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "duration_ms": 208575,
+      "name": "pocket knife",
+      "url": "https://open.spotify.com/track/3zw5VNP6TiCdjTsPdWaUuu"
+    },
+    {
       "added_at": "2026-01-16 05:00:28",
       "album": {
         "name": "KISS ME",
@@ -91,54 +171,6 @@
       "duration_ms": 183431,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
-        "name": "bubble",
-        "url": "https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "bubble",
-      "url": "https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8"
-    },
-    {
-      "added_at": "2026-01-16 05:00:28",
-      "album": {
-        "name": "High On Heaven",
-        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "High On Heaven",
-      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
     },
     {
       "added_at": "2026-01-09 05:00:49",
@@ -157,36 +189,20 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
-      "added_at": "2026-02-06 05:00:49",
+      "added_at": "2026-02-13 05:00:47",
       "album": {
-        "name": "Normal Feelings",
-        "url": "https://open.spotify.com/album/5iXuIAOSa7ywKEmsSyQeYa"
+        "name": "Is This Love??",
+        "url": "https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW"
       },
       "artists": [
         {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Normal Feelings",
-      "url": "https://open.spotify.com/track/6sMPcbrBEdc8ZxSmidIkzy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/2a5MsRZUtPXQoDG2Cl7hJ3"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 248624,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/0tywJeGs2psw0knvSJdHZS"
+      "duration_ms": 189800,
+      "name": "Is This Love??",
+      "url": "https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M"
     },
     {
       "added_at": "2025-12-05 05:05:38",
@@ -209,20 +225,164 @@
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
     },
     {
-      "added_at": "2026-02-06 05:00:49",
+      "added_at": "2026-02-13 05:00:47",
       "album": {
-        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
-        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
       },
       "artists": [
         {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
         }
       ],
-      "duration_ms": 193012,
-      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
-      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
+    },
+    {
+      "added_at": "2025-11-08 16:45:50",
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
+    {
+      "added_at": "2025-11-08 16:45:50",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "up above",
+        "url": "https://open.spotify.com/album/36Xjwbo8Q9AeaUWdegEh0L"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 282453,
+      "name": "birds & the bees",
+      "url": "https://open.spotify.com/track/2aJtzhr5WgCoeUEHTNkA8C"
+    },
+    {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/2a5MsRZUtPXQoDG2Cl7hJ3"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 248624,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0tywJeGs2psw0knvSJdHZS"
+    },
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "Loving You Almost Killed Me",
+        "url": "https://open.spotify.com/album/23v4JXHe58xhzELEipGkgK"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "The Cycle",
+      "url": "https://open.spotify.com/track/7Gpy68Fv4rO62Q8S0zCcR3"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "High On Heaven",
+        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "High On Heaven",
+      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "bubble",
+        "url": "https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "bubble",
+      "url": "https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/71LN5sgNOqcRkIk2Kbi6jR"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 152720,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/1F5G0Au0xfNSYnX7NCDnqC"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "Normal Feelings",
+        "url": "https://open.spotify.com/album/5iXuIAOSa7ywKEmsSyQeYa"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Normal Feelings",
+      "url": "https://open.spotify.com/track/6sMPcbrBEdc8ZxSmidIkzy"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -617,20 +777,20 @@
       "url": "https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ"
     },
     {
-      "added_at": "2025-11-08 16:45:50",
+      "added_at": "2026-02-13 05:00:47",
       "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+      "duration_ms": 229087,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B"
     },
     {
       "added_at": "2025-12-12 05:00:48",
@@ -759,22 +919,6 @@
       "duration_ms": 303698,
       "name": "Sugar Water",
       "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
-    },
-    {
-      "added_at": "2026-01-09 05:00:49",
-      "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 208412,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
     },
     {
       "added_at": "2025-11-28 05:00:25",
@@ -1001,22 +1145,6 @@
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
     },
     {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Just 15",
-        "url": "https://open.spotify.com/album/5LBXud41nbrah1k83EYgs7"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 211683,
-      "name": "Just 15",
-      "url": "https://open.spotify.com/track/0noBpncaaAp2DM6hy01VLg"
-    },
-    {
       "added_at": "2025-12-05 05:05:38",
       "album": {
         "name": "Sirens",
@@ -1101,46 +1229,6 @@
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "avoidant little b <3",
-        "url": "https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 148017,
-      "name": "avoidant little b <3",
-      "url": "https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Dress & Tie",
-        "url": "https://open.spotify.com/album/6EXHxlhcgrHoTNKOJZjjfb"
-      },
-      "artists": [
-        {
-          "name": "Dress & Tie",
-          "url": "https://open.spotify.com/artist/2Wm8x8bHxzCPLzp6k7IsLs"
-        },
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Devi",
-          "url": "https://open.spotify.com/artist/3ss4ci0OS4gPCPbopqVid3"
-        }
-      ],
-      "duration_ms": 202508,
-      "name": "What Did I Do?",
-      "url": "https://open.spotify.com/track/41OSuepFz0K80l8cJ6GEEt"
-    },
-    {
       "added_at": "2025-11-28 05:00:25",
       "album": {
         "name": "Changing",
@@ -1173,22 +1261,6 @@
       "url": "https://open.spotify.com/track/4bTfq4Ndn69gwhtqC3Kfgl"
     },
     {
-      "added_at": "2025-11-14 21:24:15",
-      "album": {
-        "name": "Somersault Queen",
-        "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 260831,
-      "name": "Follow The Dolphins",
-      "url": "https://open.spotify.com/track/4SLkSXVVD9BdC4Bg8IvLDo"
-    },
-    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "Favorite Place",
@@ -1219,22 +1291,6 @@
       "duration_ms": 190522,
       "name": "Real To Me",
       "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
-    },
-    {
-      "added_at": "2025-12-05 05:05:38",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/7qriKDMX6nnYJnkME3xEBq"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 227136,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/3YL8hiQBkFGD7RuBWfdHgV"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1349,22 +1405,6 @@
       "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
     },
     {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Letters From The Day",
-        "url": "https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 259073,
-      "name": "Letters From The Day",
-      "url": "https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz"
-    },
-    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
@@ -1383,26 +1423,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "The Flood",
-        "url": "https://open.spotify.com/album/51oPichyQMEloL4vmfFi36"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        },
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 181660,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/6mE8xGsznYSnsKA33FbHUu"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2025-11-08 16:45:50",
       "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/2XAnvwXanYt2hCQYVPMcfN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Creti",
-          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/243NHDpKPqm0VqS1cxctbl"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7qBpyVM9uE6l43uhjDBgLl"
       },
@@ -1459,22 +1463,6 @@
       "duration_ms": 227027,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0LJ1jj9Sya8yg9zbTFwjhu"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "SILVER LINING",
-        "url": "https://open.spotify.com/album/3XQzMHPE51lwMmL2GRLAYP"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 204152,
-      "name": "SILVER LINING",
-      "url": "https://open.spotify.com/track/0aUJSGeETI4EFV5HNSujuY"
     },
     {
       "added_at": "2025-11-08 16:45:50",

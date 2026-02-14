@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 233045,
+  "num_followers": 233027,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzyv2k4wTH8rqdhTf4dsZ4GLqs9",
+  "snapshot_id": "AAAAABi7+oGxcNbDFGqesQ54/fezctZU",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/1T5GXnXeQ0JfmbDNUODBw0"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/27aGbTgglRqGBtfm6hksIU"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 195015,
+      "name": "other side.",
+      "url": "https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ"
+    },
     {
       "added_at": "2026-01-23 05:00:22",
       "album": {
@@ -1729,22 +1761,6 @@
       "url": "https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu"
     },
     {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Love Is The New Money",
-        "url": "https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 150704,
-      "name": "Love Is The New Money",
-      "url": "https://open.spotify.com/track/6SQzw4ZppE6ahHRAtkLvU4"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "No More Lies",
@@ -1763,22 +1779,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Dance With You (The Comeback)",
-        "url": "https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp"
-      },
-      "artists": [
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 164493,
-      "name": "Dance With You (The Comeback)",
-      "url": "https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B"
     },
     {
       "added_at": "2022-08-19 04:02:00",

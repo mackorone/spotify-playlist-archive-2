@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Fred again.\. & Jamie T
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,656 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,621 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 7 | [Lean](https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD) | 3:53 |
 | 8 | [Outdone](https://open.spotify.com/track/5hVSEP4ifL3mhb3IFugwqB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/6hJIRm2IhV6AEPRuLxYpE0) | 3:35 |
 | 9 | [Coal Dust](https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Coal Dust](https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z) | 3:27 |
-| 10 | [Track 7](https://open.spotify.com/track/68MVhCraIUdjnZcaGUxz9q) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [More](https://open.spotify.com/track/68MVhCraIUdjnZcaGUxz9q) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Capital Fiction](https://open.spotify.com/album/4GTImPrNHiyT4bRKMfMiZk) | 2:16 |
 | 11 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
 | 12 | [White Rabbit](https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [White Rabbit](https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N) | 3:05 |
 | 13 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |

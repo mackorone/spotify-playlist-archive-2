@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
-  "num_followers": 55160,
+  "num_followers": 55191,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJik5SAD9AVKzgw9RFxTDOPfKfe",
+  "snapshot_id": "AAAAAC8xgnByxO6eWHFuWpkcWmFZ79g/",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -53,6 +53,22 @@
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
+      "added_at": "2025-07-18 00:01:14",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "What A Beautiful Name",
@@ -71,22 +87,6 @@
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
-    },
-    {
-      "added_at": "2025-07-18 00:01:14",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
     },
     {
       "added_at": "2026-02-06 00:01:25",
@@ -261,24 +261,20 @@
       "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
     },
     {
-      "added_at": "2025-11-21 00:01:21",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Seen",
-        "url": "https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV"
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
       "artists": [
         {
-          "name": "Lola Ade",
-          "url": "https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 226285,
-      "name": "Seen",
-      "url": "https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe"
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2025-11-07 00:01:42",
@@ -317,20 +313,20 @@
       "url": "https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH"
     },
     {
-      "added_at": "2025-12-19 09:15:54",
+      "added_at": "2026-02-13 11:12:38",
       "album": {
-        "name": "Faithful to the End",
-        "url": "https://open.spotify.com/album/1oQV9eAK1MvtlwqDZnWtaD"
+        "name": "Love Me Endlessly",
+        "url": "https://open.spotify.com/album/6qnempinCv6qCSselntiJC"
       },
       "artists": [
         {
-          "name": "FHP",
-          "url": "https://open.spotify.com/artist/5Scr9fUfWVlS8JmT9delI1"
+          "name": "Rose Oye",
+          "url": "https://open.spotify.com/artist/2WZF7q1UIV9ERGtEoUrhyr"
         }
       ],
-      "duration_ms": 300500,
-      "name": "Faithful to the End",
-      "url": "https://open.spotify.com/track/2GRAmuah73qex9gdtIXzPS"
+      "duration_ms": 173385,
+      "name": "Love Me Endlessly",
+      "url": "https://open.spotify.com/track/5gJ2EAd37L67lCLwMxHP6x"
     },
     {
       "added_at": "2025-12-26 00:01:41",
@@ -461,20 +457,24 @@
       "url": "https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
+      "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -509,42 +509,6 @@
       "url": "https://open.spotify.com/track/2QbgofsZEpfnFtEEis9TIN"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Look Now",
-        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
-      },
-      "artists": [
-        {
-          "name": "SONOJ ONOJA",
-          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
-        }
-      ],
-      "duration_ms": 299154,
-      "name": "Look Now",
-      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
-    },
-    {
       "added_at": "2025-07-18 00:01:14",
       "album": {
         "name": "Peace",
@@ -563,6 +527,22 @@
       "duration_ms": 455007,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Look Now",
+        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
+      },
+      "artists": [
+        {
+          "name": "SONOJ ONOJA",
+          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
+        }
+      ],
+      "duration_ms": 299154,
+      "name": "Look Now",
+      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -761,22 +741,6 @@
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Race To Peace",
-        "url": "https://open.spotify.com/album/7AHEMgcR2t54t4jeXe1nwr"
-      },
-      "artists": [
-        {
-          "name": "Uniteey",
-          "url": "https://open.spotify.com/artist/4tUY1rXQMqx0XM120mQB2E"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Follow Your Lead",
-      "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "CAN YOU IMAGINE?",
@@ -795,6 +759,22 @@
       "duration_ms": 354885,
       "name": "Jehovah (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Race To Peace",
+        "url": "https://open.spotify.com/album/7AHEMgcR2t54t4jeXe1nwr"
+      },
+      "artists": [
+        {
+          "name": "Uniteey",
+          "url": "https://open.spotify.com/artist/4tUY1rXQMqx0XM120mQB2E"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Follow Your Lead",
+      "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -953,6 +933,22 @@
       "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "I Believe It (The Life of Jesus)",
+        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 225941,
+      "name": "I Believe It (The Life of Jesus)",
+      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "This God Is Too Good",
@@ -975,18 +971,18 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "I Believe It (The Life of Jesus)",
-        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 225941,
-      "name": "I Believe It (The Life of Jesus)",
-      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     }
   ],
   "unique_name": "Testify",

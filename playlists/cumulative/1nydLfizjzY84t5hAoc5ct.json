@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Who Died?",
+        "url": "https://open.spotify.com/album/2UPO5C3Z2wTEQvuB9B6Ws3"
+      },
+      "artists": [
+        {
+          "name": "Sean By Mercy",
+          "url": "https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288262,
+      "name": "Who Died?",
+      "url": "https://open.spotify.com/track/2RsppsDbLFjkmBodREdLqE"
+    },
+    {
+      "album": {
         "name": "Wisdom Teeth",
         "url": "https://open.spotify.com/album/3cpbQaJUmGN90jlRFsXQBt"
       },

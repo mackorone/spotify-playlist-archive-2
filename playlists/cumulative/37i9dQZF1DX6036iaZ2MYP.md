@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover:  ODUMODUBLVCK
 
-1,106 songs - 2 day 3 hr 51 min
+1,107 songs - 2 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [Mauvais choix](https://open.spotify.com/track/6fZlsJQubW1EkVRdn3PUKN) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Mauvais choix](https://open.spotify.com/album/3nem9uxRb5gTgxFi5KvmML) | 3:00 | 2024-01-18 | 2024-04-05 |
 | [Mauvais Djo](https://open.spotify.com/track/6rgsWk1OwhExnV1JrV7jV4) | [ARISTOT](https://open.spotify.com/artist/3zVU2fD2B9G6o2N6vB0qbH) | [Mauvais Djo](https://open.spotify.com/album/3pud1qqRIED4b35kwGbvpp) | 2:06 | 2025-05-22 | 2025-05-30 |
 | [Mauvais djo](https://open.spotify.com/track/7mTdrJxuSmO4P3sfa2T0FU) | [H Magnum](https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw) | [Mauvais djo](https://open.spotify.com/album/3pf7ULOyHuQAcCozHCfDJ5) | 3:21 | 2024-05-23 | 2024-06-21 |
+| [Maweja](https://open.spotify.com/track/1FG6GOqADBVlIbkpOkctj5) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Maweja](https://open.spotify.com/album/1tDuNTKmTQXYjARrKyhMHC) | 3:43 | 2026-02-12 |  |
 | [Meant to Be](https://open.spotify.com/track/6hiFUJiH4SLMc1dtQIO1sD) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Meant to Be](https://open.spotify.com/album/6U98UaUr6dUDInzHw4jXPP) | 2:42 | 2025-05-29 | 2025-07-04 |
 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 | 2022-11-17 | 2023-04-13 |
 | [Meet n Greet](https://open.spotify.com/track/3J7RkeIFz6iQLJFlS6211K) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Meet n Greet](https://open.spotify.com/album/1BPV5OiXx8rL8xIDO0a8iz) | 2:25 | 2023-09-07 | 2023-12-08 |
@@ -792,7 +793,7 @@
 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 | 2024-06-13 | 2024-07-12 |
 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 2:19 | 2025-12-04 |  |
 | [Opposés](https://open.spotify.com/track/10cXtrKUCAqtqKYWJOLR7b) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8), [Alicia.](https://open.spotify.com/artist/497jP4B8qjwywlQShLt7TU) | [Afroland : Bleu Nuit](https://open.spotify.com/album/1fmvqeOzCZji4DcGVFZtLa) | 2:35 | 2023-10-19 | 2023-12-15 |
-| [OPPS](https://open.spotify.com/track/4F4uhw5w3awax9gr6oiw37) | [Miedjia](https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [](https://open.spotify.com/album/null) | 2:20 | 2026-02-12 |  |
+| [OPPS](https://open.spotify.com/track/4F4uhw5w3awax9gr6oiw37) | [Miedjia](https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [FAI$ RENTRER !](https://open.spotify.com/album/7BwqCQwhmNNiuZb5LbWXEL) | 2:20 | 2026-02-12 |  |
 | [Options](https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Options](https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn) | 2:18 | 2025-02-13 | 2025-03-07 |
 | [Order](https://open.spotify.com/track/7I6n8YzpPmbpVwElH9fi5Q) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Order](https://open.spotify.com/album/2WhW4lp7iEyEymuwpsPG39) | 2:49 | 2024-11-07 | 2025-03-07 |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-13 | 2023-03-25 |

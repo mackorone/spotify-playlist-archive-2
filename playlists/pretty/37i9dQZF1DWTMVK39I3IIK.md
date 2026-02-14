@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Von Quar
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,053 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,048 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 2 | [hot but depressive](https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd) | [hot but depressive](https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU) | 2:44 |
 | 3 | [Rewind](https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:45 |
 | 4 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 |
-| 5 | [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 |
-| 6 | [Skyklapper](https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Skyklapper](https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz) | 2:53 |
+| 5 | [Skyklapper](https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Skyklapper](https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz) | 2:53 |
+| 6 | [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 |
 | 7 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 |
 | 8 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 |
 | 9 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 48 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 |
 | 49 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
 | 50 | [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 |
-| 51 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
+| 51 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 |
 | 52 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 |
-| 53 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 |
-| 54 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
+| 53 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
+| 54 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 |
 | 55 | [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 |
 | 56 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
-| 57 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 |
+| 57 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 58 | [SIDDER FAST](https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK) | [BLÅ](https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N) | [SIDDER FAST](https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe) | 2:51 |
 | 59 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
 | 60 | [affirmations](https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [affirmations](https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I) | 3:20 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 63 | [Holder mig vågen](https://open.spotify.com/track/1EIba7fWI4mec9i8J7YMId) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Holder mig vågen](https://open.spotify.com/album/3ZlHpSNsQTqcWBhNsUEzTS) | 3:21 |
 | 64 | [februar](https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [februar](https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j) | 3:28 |
 | 65 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
-| 66 | [Stuck in Traffic](https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Stuck in Traffic](https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F) | 3:15 |
-| 67 | [North](https://open.spotify.com/track/1NGusiS2w1O7tmJPgBfDTi) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [shortcuts](https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371) | 2:52 |
+| 66 | [North](https://open.spotify.com/track/1NGusiS2w1O7tmJPgBfDTi) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [shortcuts](https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371) | 2:52 |
+| 67 | [Stuck in Traffic](https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Stuck in Traffic](https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F) | 3:15 |
 | 68 | [Kys før fald](https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kys før fald](https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx) | 3:14 |
 | 69 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
 | 70 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
 
-Snapshot ID: `AAAAALwsUdF0TIdHJwlLRlI5lOpgAEzC`
+Snapshot ID: `AAAAAAQz7gxyMz4gxf/8qeJ67LxldvHJ`

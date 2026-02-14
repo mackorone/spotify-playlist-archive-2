@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,903 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,901 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 62 | [Praia do Futuro](https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [O Mundo Dá Voltas](https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp) | 5:21 |
 | 63 | [Profecia](https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Ida e Volta](https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7) | 3:13 |
 | 64 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
-| 65 | [Bolinha Azul](https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA) | [Antonio Caramelo](https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Malibu Kids](https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7) | [Aventuras de Caramelo](https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q) | 2:34 |
-| 66 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
+| 65 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
+| 66 | [Bolinha Azul](https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA) | [Antonio Caramelo](https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Malibu Kids](https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7) | [Aventuras de Caramelo](https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q) | 2:34 |
 | 67 | [Queixa das almas jovens censuradas \- Ao Vivo](https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo) | [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Camané Ao Vivo No CCB \- Homenagem a José Mário Branco](https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074) | 5:14 |
 | 68 | [Suíte Ameríndia](https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Martín Sued & Orquestra Assintomática](https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx), [Orquestra Assintomática](https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Saga](https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv) | 14:01 |
 | 69 | [A Melhor Saída](https://open.spotify.com/track/6nnQ6idUNylK6LBckW9hyO) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/60w2pJCJwfeHzIKYQxue37) | 4:03 |

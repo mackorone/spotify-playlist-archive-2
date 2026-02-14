@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Cat Clyde",
+  "description": "Where roots meet what\u2019s next. Cover: Charley Crockett",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 284417,
       "name": "A Way It Goes",
       "url": "https://open.spotify.com/track/4NhEqHd97xOEusHuTFsU8x"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 177935,
       "name": "All Around Cowboy",
       "url": "https://open.spotify.com/track/4bgXtfU50hzMoPlA6kBl2S"
@@ -897,6 +897,32 @@
     },
     {
       "album": {
+        "name": "America's Daughter",
+        "url": "https://open.spotify.com/album/7HtgcbZ7u0M71V7wNLgU93"
+      },
+      "artists": [
+        {
+          "name": "May Erlewine",
+          "url": "https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW"
+        },
+        {
+          "name": "10 Good Songs",
+          "url": "https://open.spotify.com/artist/0ZHYWjY4CjSi7BHBiuw3QN"
+        },
+        {
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246515,
+      "name": "America's Daughter",
+      "url": "https://open.spotify.com/track/5knIkFse6eUfGi4YoVE58t"
+    },
+    {
+      "album": {
         "name": "American Dreaming",
         "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
       },
@@ -1068,7 +1094,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219725,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
@@ -1310,7 +1336,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 212207,
       "name": "Beattyville",
       "url": "https://open.spotify.com/track/4smgGTWaZfO5AcxqBjkIKa"
@@ -1610,7 +1636,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176800,
       "name": "Bitin' List",
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
@@ -3863,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "BIG MONEY",
+        "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206931,
+      "name": "DO IT ALL AGAIN",
+      "url": "https://open.spotify.com/track/4xnWNcSDeYkOeN90KDKKka"
+    },
+    {
+      "album": {
         "name": "Dogs Run On",
         "url": "https://open.spotify.com/album/0XxzYBvtUBUdoqw6VrqhvK"
       },
@@ -4288,7 +4332,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 242080,
       "name": "Dyslexic Palindrome",
       "url": "https://open.spotify.com/track/0yuc3D0SWBZE2jhS1wJ5FG"
@@ -7676,7 +7720,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 271318,
       "name": "I Think I Preferred The Question",
       "url": "https://open.spotify.com/track/3x5y20gf4hrQ1gHS3KrWns"
@@ -7764,6 +7808,24 @@
       "duration_ms": 181269,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo"
+    },
+    {
+      "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/3Ap6R86CaITPtwGPw5xAyo"
+      },
+      "artists": [
+        {
+          "name": "Dan Reeder",
+          "url": "https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150639,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/1ole2uJWvoT39yzKw6mXgp"
     },
     {
       "album": {
@@ -7974,6 +8036,24 @@
       "duration_ms": 173946,
       "name": "In Memory (Of When I Cared)",
       "url": "https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc"
+    },
+    {
+      "album": {
+        "name": "In the Middle of It",
+        "url": "https://open.spotify.com/album/1SEeyd8Bnl8AwFCMTpZGIw"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193888,
+      "name": "In the Middle of It",
+      "url": "https://open.spotify.com/track/7hZUlbdkawpMvh54ZMyFGF"
     },
     {
       "album": {
@@ -8555,6 +8635,24 @@
     },
     {
       "album": {
+        "name": "Kentucky Too Long",
+        "url": "https://open.spotify.com/album/4Z8FQO3TmpkD6COopQTTxE"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218816,
+      "name": "Kentucky Too Long",
+      "url": "https://open.spotify.com/track/6dPMvMqLD2sfmDWYfGLgHa"
+    },
+    {
+      "album": {
         "name": "Kid",
         "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
       },
@@ -8592,6 +8690,24 @@
       "duration_ms": 167437,
       "name": "Killing Me (feat. Hillary Lindsey)",
       "url": "https://open.spotify.com/track/3fAZ38PiyZaozDD6zZcNyN"
+    },
+    {
+      "album": {
+        "name": "Kindness Isn\u2019t Common Sense",
+        "url": "https://open.spotify.com/album/0i3JskQQzO3K8aO3ja2Eab"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235448,
+      "name": "Kindness Isn't Common Sense",
+      "url": "https://open.spotify.com/track/0ZJXnr1jOYENd4lrW4MKNu"
     },
     {
       "album": {
@@ -9213,6 +9329,24 @@
     },
     {
       "album": {
+        "name": "Look Who's Back",
+        "url": "https://open.spotify.com/album/46VxArVIVJrpSJrHD3P2ji"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199156,
+      "name": "Love is Electric",
+      "url": "https://open.spotify.com/track/1iIXB01AHT5ulo896r09JW"
+    },
+    {
+      "album": {
         "name": "Love Is Selfish",
         "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
       },
@@ -9524,6 +9658,24 @@
       "duration_ms": 163095,
       "name": "Man's Gotta Eat",
       "url": "https://open.spotify.com/track/2USfmX6vhiEofB8i1I5HoA"
+    },
+    {
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "album": {
@@ -10378,7 +10530,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 186227,
       "name": "Night Goes Black",
       "url": "https://open.spotify.com/track/36f0JsOZG01FYJMzzvyHRY"
@@ -13069,6 +13221,24 @@
     },
     {
       "album": {
+        "name": "See It While You Can (National Parks Song)",
+        "url": "https://open.spotify.com/album/5xZjvQoMqwuEcAB12Z0PQW"
+      },
+      "artists": [
+        {
+          "name": "Mason Via",
+          "url": "https://open.spotify.com/artist/23Q1PNqXqh9dzm8op1vOHi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "See It While You Can (National Parks Song)",
+      "url": "https://open.spotify.com/track/15d7oy5OgyfIHYdVZlU7yv"
+    },
+    {
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB"
       },
@@ -13254,7 +13424,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 283419,
       "name": "Should I Go Missing",
       "url": "https://open.spotify.com/track/1AoSjGn4UxOoUnoDIfrq9V"
@@ -13876,6 +14046,24 @@
       "duration_ms": 270514,
       "name": "Standing on the Fault Line",
       "url": "https://open.spotify.com/track/12UtH4jVi8yLXmGtaCdq56"
+    },
+    {
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1r9PfO7MRfT8iHb32ZFbYC"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234672,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/5ZrdwjbvmSuz79vQhnVRCO"
     },
     {
       "album": {
@@ -14574,7 +14762,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231653,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE"
@@ -15856,7 +16044,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 145006,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/2GoYeeSPyR97ttstqu5R0m"
@@ -16088,7 +16276,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 266204,
       "name": "True Black",
       "url": "https://open.spotify.com/track/6c72isaNfo7TSCM0RcuyXN"
@@ -16483,6 +16671,24 @@
     },
     {
       "album": {
+        "name": "We Almost Made It",
+        "url": "https://open.spotify.com/album/5ilLnbQwkdGtXmXtsujPbG"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260995,
+      "name": "We Almost Made It",
+      "url": "https://open.spotify.com/track/0tRDMVjiYuq0CbPDHVNVKz"
+    },
+    {
+      "album": {
         "name": "And Now, Let's Turn to Page\u2026",
         "url": "https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA"
       },
@@ -16712,6 +16918,24 @@
       "duration_ms": 166500,
       "name": "When It Snows In Texas",
       "url": "https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx"
+    },
+    {
+      "album": {
+        "name": "When the Love Is New",
+        "url": "https://open.spotify.com/album/11LYMGT0owxMNQwnZ5ipHm"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244659,
+      "name": "When the Love Is New",
+      "url": "https://open.spotify.com/track/0M7ReoGtrZMZsfyOuPCVwU"
     },
     {
       "album": {

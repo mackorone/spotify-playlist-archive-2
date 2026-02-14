@@ -4,7 +4,7 @@
 
 > I didn’t do my makeup just to cry!<br/>chloe moriondo on the cover.
 
-609 songs - 1 day 10 hr 6 min
+610 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Don't Turn Around](https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:50 | 2019-07-28 | 2019-08-08 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/5Nq19qQnIBvcYbz7UNJTCW) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Don’t Say You Love Me](https://open.spotify.com/album/42bDaVoeDvdS0yfF34Gqq4) | 2:54 | 2021-10-04 | 2022-07-13 |
 | [Don’t Wanna Cry](https://open.spotify.com/track/4s1jXpACCXFDNYTKWKH3tq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:27 | 2025-03-24 |  |
+| [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 | 2026-02-13 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-07-28 | 2022-09-26 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-01-08 | 2022-07-29 |
 | [Drop Dead](https://open.spotify.com/track/4Ms82sYhimBer12aieJDmJ) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Drop Dead](https://open.spotify.com/album/7FizCLR1TgCRilxzEgoqEi) | 2:41 | 2025-05-27 | 2025-10-11 |
@@ -459,7 +460,7 @@
 | [Secret](https://open.spotify.com/track/77Gfhrr1Uh9Pv57MUUmVuY) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 3:12 | 2021-12-08 | 2021-12-11 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-30 | 2025-07-08 |
 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 | 2025-08-08 |  |
-| [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 | 2024-08-23 |  |
+| [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 | 2024-08-23 | 2026-02-14 |
 | [She Gets the Flowers](https://open.spotify.com/track/19AiJfAtRiccvSU1EWcttT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She Gets the Flowers](https://open.spotify.com/album/6TbdDx8Y1shssfaSAtEt1o) | 3:39 | 2021-04-06 | 2021-10-02 |
 | [Shimmering Light](https://open.spotify.com/track/5yQWWCxnqpcUbo8ZWs6zBG) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Shimmering Light](https://open.spotify.com/album/3ConlAUtJ0XsJs44WxqkxY) | 2:35 | 2024-03-29 | 2024-04-16 |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-15 |  |

@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Kadhalum Bodhai Kolla",
+        "url": "https://open.spotify.com/album/64WSscs63dkQWJa2JixFk7"
+      },
+      "artists": [
+        {
+          "name": "Rejoy",
+          "url": "https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "Kadhalum Bodhai Kolla",
+      "url": "https://open.spotify.com/track/4Ij9ribfzrfZoTkggDuTgC"
+    },
+    {
+      "album": {
         "name": "Kadikaram",
         "url": "https://open.spotify.com/album/6Ju9c2cy7jX3WIOVupornL"
       },

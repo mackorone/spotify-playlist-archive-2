@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Marnz Malone
 
-2,253 songs - 4 day 15 hr 26 min
+2,253 songs - 4 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Burna](https://open.spotify.com/track/303ZztbyTQ7jd9jTq9UuOe) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [Burna](https://open.spotify.com/album/77EmNquPKgy3FEakxhsY7N) | 2:27 | 2025-06-26 | 2025-10-10 |
 | [Burner on Deck \(feat\. Pop Smoke & Young Adz\)](https://open.spotify.com/track/65vHYhe2AprpDBHBTpOBaE) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:07 | 2021-01-29 | 2021-06-26 |
 | [Burning \(feat\. M Huncho & Dutchavelli\)](https://open.spotify.com/track/3fAa5d2KhtXJ1gxB1wobQz) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [GRM 10](https://open.spotify.com/album/01hcMlcR5FUjoSAKxlVPxK) | 2:49 | 2020-06-19 | 2020-09-05 |
+| [burnt](https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Loving Kills.](https://open.spotify.com/album/3uNj9VcF0CVAcKHFPP6Dml) | 2:20 | 2026-02-13 |  |
 | [Bussdown](https://open.spotify.com/track/2wg36GYXZ7OuiVVO7w1SFk) | [UKNWN](https://open.spotify.com/artist/5CwMzhQzGNdjTgjI88nDGk) | [Bussdown](https://open.spotify.com/album/30wUfa7FkrDWVBNcdF1qPW) | 3:10 | 2020-05-22\* | 2020-06-13 |
 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 | 2023-03-08 | 2023-03-09 |
 | [BUSY](https://open.spotify.com/track/1peSW56EXaVDkzbHeU6TBZ) | [JugJug](https://open.spotify.com/artist/0TQrCbghgGxsHKZGkNqdyx), [Marlow P](https://open.spotify.com/artist/7g8NLtQXt19NjYo6qrkbyh) | [BUSY](https://open.spotify.com/album/1NZStWVb3AXdxG0AKEaK2L) | 4:16 | 2025-09-05 | 2025-12-12 |
@@ -1633,6 +1634,7 @@
 | [QUESTIONS](https://open.spotify.com/track/4CWaEaABWXb3tDG1bSrLzg) | [KAY2B](https://open.spotify.com/artist/32gStHcKBZIC9LzcgrvVWb) | [QUESTIONS](https://open.spotify.com/album/2xPpv5wLj0fgJjD8hulaY4) | 2:30 | 2023-11-24 | 2024-02-02 |
 | [Quiet Kid](https://open.spotify.com/track/3L77EvaCkfwavHByDVZQiq) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Quiet Kid](https://open.spotify.com/album/4CnSejFeVA15KpgCFNuST4) | 2:54 | 2023-03-30 | 2023-05-19 |
 | [R&P](https://open.spotify.com/track/5DiJbyNap6gmHX6Bp6iEGm) | [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [R&P](https://open.spotify.com/album/1TD8vJ8fo1V9RO35oJXz6w) | 2:58 | 2025-06-12 | 2025-09-19 |
+| [RACKS.](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 2:28 | 2026-02-13 |  |
 | [Rah](https://open.spotify.com/track/7qC86Z9uvPyDiTlO8Kubd3) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Community Service](https://open.spotify.com/album/0I5RObKA3W5XHTzoEBh5v3) | 2:54 | 2023-06-08 | 2023-06-30 |
 | [Rain](https://open.spotify.com/track/0810SV4GkoxVdwagH5VcIF) | [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Rain](https://open.spotify.com/album/6r5hTnWswsrvSdhB6uTJEn) | 2:45 | 2020-06-19 | 2020-07-18 |
 | [Rain](https://open.spotify.com/track/4aP39ZfU094VjJf8UEMcnW) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Rain](https://open.spotify.com/album/4FbUZTEYGMGup4HwYUyl9P) | 3:02 | 2024-12-13 | 2025-02-28 |
@@ -2048,8 +2050,6 @@
 | [Toxic \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/track/5igGT00gBoAj8FieNnUkjL) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Crop Circle 3](https://open.spotify.com/album/6SUtgIpgq9qxA3VfjzS0rq) | 2:58 | 2023-10-05 | 2023-11-17 |
 | [Toxic Minds \(feat\. AntsLive & joe unknown\)](https://open.spotify.com/track/5P9DssMSmpLDksnMsxdOXH) | [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Toxic Minds \(feat\. AntsLive & joe unknown\)](https://open.spotify.com/album/3rvXGITfqU8JBeEUxirgpf) | 3:04 | 2024-05-10 | 2024-06-14 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-22 | 2023-10-06 |
-| [Track 1](https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
-| [Track 4](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Training Day](https://open.spotify.com/track/5D5gxoqeVLsX0KN10FSEH8) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Training Day](https://open.spotify.com/album/3QyY7JuRAUb9TPTRL26ccs) | 3:06 | 2020-06-19 | 2020-07-18 |
 | [Trapway](https://open.spotify.com/track/2m6MzHbANhE3KlgJ2hKRwI) | [M'Way](https://open.spotify.com/artist/4a9smiC3FdklrSyh5akDHP) | [Trapway](https://open.spotify.com/album/2beCuZXvc2UM7ACFSRyiIw) | 3:46 | 2020-09-18 | 2020-10-16 |
 | [Traumatised](https://open.spotify.com/track/2L717z38Qgcs4XvmXXxjHL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Traumatised](https://open.spotify.com/album/2ruzEAmfk6jx6hpcqJVna6) | 2:57 | 2023-01-06 | 2023-03-31 |

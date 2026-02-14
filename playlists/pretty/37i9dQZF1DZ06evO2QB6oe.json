@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70327,
+  "num_followers": 70339,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAByqQiUC7GatGWmg38AtuLN",
+  "snapshot_id": "aY0YAAAAAABBc7cNC9sn9RNNqp+h3eJt",
   "tracks": [
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 205959,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
+      "duration_ms": 205959,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
     },
     {
       "added_at": null,
@@ -947,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
-        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
+        "name": "\u00bfDe qu\u00e9 vamos a hablar?",
+        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
       },
       "artists": [
         {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 263640,
-      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
-      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
+      "duration_ms": 185690,
+      "name": "\u00bfDe qu\u00e9 vamos a hablar?",
+      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
     },
     {
       "added_at": null,
@@ -983,22 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDe qu\u00e9 vamos a hablar?",
-        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
+        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
+        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
       },
       "artists": [
         {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 185690,
-      "name": "\u00bfDe qu\u00e9 vamos a hablar?",
-      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
+      "duration_ms": 263640,
+      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
+      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
     },
     {
       "added_at": null,

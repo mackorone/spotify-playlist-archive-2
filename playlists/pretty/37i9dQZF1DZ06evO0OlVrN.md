@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,092 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,093 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 40 | [Allá en el Baile Grande](https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:14 |
 | 41 | [Quiero besarte a la noche](https://open.spotify.com/track/5peQlcnDpOFw2INz1lYA82) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos de los Relámpagos del Norte](https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF) | 2:48 |
 | 42 | [Capullito de Rosa](https://open.spotify.com/track/0kZORMFZARYAScvlFfkz3h) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramón Ayala y Cornelio Reyna](https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq) | 3:04 |
-| 43 | [Tengo Miedo](https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:49 |
-| 44 | [Estamos en Algo](https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Estamos en Algo](https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3) | 2:53 |
+| 43 | [Estamos en Algo](https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Estamos en Algo](https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3) | 2:53 |
+| 44 | [Tengo Miedo](https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:49 |
 | 45 | [Mujer de Cabaret](https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 2:53 |
 
-Snapshot ID: `aYvGgAAAAACgMVk3iwY8AtT+uxKtgFPa`
+Snapshot ID: `aY0YAAAAAAA/1+U7gnkt0lIr2xROIIcX`

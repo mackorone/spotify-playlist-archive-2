@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Olga Myko✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,617 likes - 150 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,688 likes - 150 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 14 | [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 |
 | 15 | [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 |
 | 16 | [Play The Part](https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/1056qytYUijsTICJ4VIItC) | 2:50 |
-| 17 | [Sisters \(feat\. Ninajirachi\)](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters \(feat\. Ninajirachi\)](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 |
-| 18 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [](https://open.spotify.com/album/null) | 3:03 |
+| 17 | [Sisters](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 |
+| 18 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 |
 | 19 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 | 20 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 21 | [Sunrise](https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Sunrise](https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf) | 2:23 |

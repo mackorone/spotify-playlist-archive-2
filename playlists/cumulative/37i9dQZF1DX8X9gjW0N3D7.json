@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Mort Rose",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Lysandre",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 219924,
       "name": "All The Words",
       "url": "https://open.spotify.com/track/1f70KgujX0VZN0wBy6Atys"
+    },
+    {
+      "album": {
+        "name": "Allure",
+        "url": "https://open.spotify.com/album/34OzKbiCPt1UikUERQHxha"
+      },
+      "artists": [
+        {
+          "name": "Erwan",
+          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Allure",
+      "url": "https://open.spotify.com/track/0XOHv0RgZbmc93LSetKj83"
     },
     {
       "album": {
@@ -1183,6 +1201,28 @@
     },
     {
       "album": {
+        "name": "Coule douce",
+        "url": "https://open.spotify.com/album/3pkNmEiDoIErguYqeBJ7jf"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        },
+        {
+          "name": "Pilou",
+          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190871,
+      "name": "Coule douce",
+      "url": "https://open.spotify.com/track/1ixXxv3cM3N1fj0dlMdePT"
+    },
+    {
+      "album": {
         "name": "Coup de poing",
         "url": "https://open.spotify.com/album/0xc3PJIrmlTk8WHEkM7Agf"
       },
@@ -1474,7 +1514,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 163374,
       "name": "Demain \u00e7a ira",
       "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 189418,
       "name": "Fi\u00e8vre des Andes",
       "url": "https://open.spotify.com/track/3vwjb717aoICPvirwgcvTQ"
@@ -2174,7 +2214,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 288346,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
@@ -3019,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "L'odeur de la pluie",
+        "url": "https://open.spotify.com/album/4efmNHS0hUTnvB7ZfCPQEJ"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234853,
+      "name": "L'odeur de la pluie",
+      "url": "https://open.spotify.com/track/4gEDXhCMj0H3u8CPJ84UXW"
+    },
+    {
+      "album": {
         "name": "La cour des grands",
         "url": "https://open.spotify.com/album/1uKOZ7jO4iq5dwPL3iuBbH"
       },
@@ -3398,7 +3456,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 193000,
       "name": "Le bon bord du vent",
       "url": "https://open.spotify.com/track/6lL2L2gGdYTN9L6cpyIz1N"
@@ -4430,7 +4488,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243164,
       "name": "Moucherons",
       "url": "https://open.spotify.com/track/7MKcEo1tspRup4Ci2uDK2k"
@@ -4709,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "Oiseaux de Paradis",
+        "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124214,
+      "name": "Oiseaux de Paradis",
+      "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
+    },
+    {
+      "album": {
         "name": "Termin\u00e9 le fun / Om mani padme hum",
         "url": "https://open.spotify.com/album/7a1qtGOWMcTifGDI0YxhMR"
       },
@@ -4724,6 +4800,24 @@
       "duration_ms": 169348,
       "name": "Om mani padme hum",
       "url": "https://open.spotify.com/track/2kUNztaJC86QR8FVsxov9J"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4WREdL8RikGhcfRdCs7iP9"
+      },
+      "artists": [
+        {
+          "name": "Amber Days",
+          "url": "https://open.spotify.com/artist/2jNpmcKcRtfzxxKgaMsOmb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214906,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4UNJNgzUePpE8ph0r10Dbg"
     },
     {
       "album": {
@@ -4796,6 +4890,24 @@
       "duration_ms": 191193,
       "name": "One More Story",
       "url": "https://open.spotify.com/track/4ngdhEZrLazNDat5EEpptb"
+    },
+    {
+      "album": {
+        "name": "Oublier encore",
+        "url": "https://open.spotify.com/album/7iBfcEwa9oigXuvMn06Gsd"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Oublier encore",
+      "url": "https://open.spotify.com/track/5EQ6C8Vsf07tLViGKvZ4nK"
     },
     {
       "album": {
@@ -4998,7 +5110,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 151621,
       "name": "Plus pr\u00e8s",
       "url": "https://open.spotify.com/track/0yxjVkM1Ux3uCcYv4pnyqr"
@@ -5100,6 +5212,24 @@
       "duration_ms": 168804,
       "name": "Pris mes jambes \u00e0 mon cou",
       "url": "https://open.spotify.com/track/5eOVmRGm4DERbVGt5Gxy0k"
+    },
+    {
+      "album": {
+        "name": "ce qui reste",
+        "url": "https://open.spotify.com/album/1W3E9Z5umohYwytlCirEox"
+      },
+      "artists": [
+        {
+          "name": "d'homme",
+          "url": "https://open.spotify.com/artist/3BSbZO22zrjhRpu7ZeBH6f"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144888,
+      "name": "propri\u00e9terre",
+      "url": "https://open.spotify.com/track/40jF4QZrA6OHgxZNVejrFw"
     },
     {
       "album": {
@@ -5252,6 +5382,24 @@
       "duration_ms": 158778,
       "name": "Qu\u00e9bec Blues",
       "url": "https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h"
+    },
+    {
+      "album": {
+        "name": "Racine",
+        "url": "https://open.spotify.com/album/3GpriLtoRZDm1s3qRvGuMt"
+      },
+      "artists": [
+        {
+          "name": "Ketsmy",
+          "url": "https://open.spotify.com/artist/6W0Vi7ClhV276Sv3HwvzpP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "Racine",
+      "url": "https://open.spotify.com/track/38VMrEW609ZQSqJWBBObUE"
     },
     {
       "album": {
@@ -5558,7 +5706,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 144000,
       "name": "Serre-moi dans tes bras",
       "url": "https://open.spotify.com/track/7LBIluuLdCFUHWadBxxoWH"
@@ -6588,7 +6736,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 165017,
       "name": "Walk Away Wishing",
       "url": "https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH"
@@ -6658,10 +6806,32 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207318,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
+    },
+    {
+      "album": {
+        "name": "Y va toujours y avoir",
+        "url": "https://open.spotify.com/album/0A9hXXs7BkAyQ3Qcw8S3K7"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        },
+        {
+          "name": "H\u00e9ron",
+          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Y va toujours y avoir",
+      "url": "https://open.spotify.com/track/4D4PvKrKfdiwUdraQWj5db"
     },
     {
       "album": {

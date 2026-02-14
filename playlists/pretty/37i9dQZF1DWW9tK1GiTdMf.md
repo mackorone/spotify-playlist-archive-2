@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un inverno non proprio felice \(nicotina aka irbis e brokenkidzz in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,994 likes - 125 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,042 likes - 125 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 9 | [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry) | 3:36 |
 | 10 | [Pillole](https://open.spotify.com/track/02awCaNU1SgRt1ol80wRDP) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 3:16 |
 | 11 | [Rock 'N Roll Queen](https://open.spotify.com/track/1EunUYSnYIL2Td0rZmzh7w) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/17v3aLjI654A1gpSp5Uf4D) | 2:26 |
-| 12 | [MORIRE D'ESTATE](https://open.spotify.com/track/7i5RvWoqahcwocr81TYKkY) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [](https://open.spotify.com/album/null) | 2:32 |
+| 12 | [MORIRE D'ESTATE](https://open.spotify.com/track/7i5RvWoqahcwocr81TYKkY) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [VERMI](https://open.spotify.com/album/3aKdQiCwEo862vJU0j3Pio) | 2:32 |
 | 13 | [LEI](https://open.spotify.com/track/5AJzeQyIOiPnHkojKzYIv8) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [LEI](https://open.spotify.com/album/7LD1dwR6RnMlZwG5JAXvRz) | 2:01 |
 | 14 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 |
 | 15 | [Eii](https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Eii](https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw) | 2:20 |

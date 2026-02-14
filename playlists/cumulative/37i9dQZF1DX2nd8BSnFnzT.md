@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Detonautas
 
-597 songs - 1 day 9 hr 26 min
+598 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 | 2023-12-08 | 2025-11-15 |
 | [Depois de Ver \- Ao Vivo](https://open.spotify.com/track/23BfTfhdUBjjV8g9uhsRXx) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [BONUS LIVE \(Ao Vivo\)](https://open.spotify.com/album/3OMNvKQ04zUJXEksCqmE71) | 3:58 | 2022-12-30 | 2023-10-21 |
 | [Depois Que a Guerra Terminou](https://open.spotify.com/track/7HusYomLBNS718cT4jpDNG) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Depois Que a Guerra Terminou](https://open.spotify.com/album/5ql0LSgUlMUCRAqxt6yLA7) | 2:04 | 2022-04-01 | 2022-04-09 |
+| [Depressão](https://open.spotify.com/track/6AaKac4QzY8yUrhTnwRuhU) | [Fiuk](https://open.spotify.com/artist/0SVSq6V4n9dDVeIZifohqN) | [Depressão](https://open.spotify.com/album/5d3U5QA6sXsTNwx9rleJva) | 3:08 | 2026-02-13 |  |
 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 | 2022-03-04 | 2022-04-16 |
 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 | 2023-04-14 | 2023-07-01 |
 | [Desde Que Eu Morri](https://open.spotify.com/track/485DVlRqkWddYmWvXW3HaS) | [Ludovic](https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU) | [Desde Que Eu Morri](https://open.spotify.com/album/7tCz7eqMGfd8tbf5f2JVVZ) | 3:35 | 2026-02-06 |  |

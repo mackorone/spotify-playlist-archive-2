@@ -2,9 +2,9 @@
 
 ### [Reinas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DXdC7eRcOJUCw)
 
-> ¡Las mujeres de la Música Mexicana! Yuridia en portada 🌹
+> ¡Las mujeres de la Música Mexicana! Rosalia León en portada 🌹
 
-253 songs - 13 hr 42 min
+254 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cucurrucucu Paloma](https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 3:51 | 2021-11-26 |  |
 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 | 2022-06-08 | 2024-04-19 |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/10WbMX4C7efbMqgffLr4tC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cucurrucucú Paloma](https://open.spotify.com/album/2PiT6mwkpUXGuzNgczDg5e) | 4:18 | 2021-11-26 | 2023-07-29 |
+| [Cómo Te Quiero Lolita](https://open.spotify.com/track/5FTinvF54i5JsCqp7C3clY) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [Cómo Te Quiero Lolita](https://open.spotify.com/album/2zw11GJcMT3pSQMRcdNyUp) | 2:46 | 2026-02-13 |  |
 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 | 2022-06-08 | 2025-09-13 |
 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 | 2023-07-28 |  |
 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 | 2022-06-08 |  |
@@ -173,7 +174,7 @@
 | [POR EL CONTRARIO \(with Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:05 | 2023-11-10 | 2025-05-17 |
 | [Por Salud Mental](https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:32 | 2022-11-11 |  |
 | [Por Si Me Olvidas](https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A José Alfredo Jiménez](https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo) | 2:25 | 2022-06-08 | 2024-04-19 |
-| [Por Si Me Olvidas](https://open.spotify.com/track/2Kibj5KtMqbXDgtrN3Oqmw) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A Jose Alfredo Jimenez](https://open.spotify.com/album/08sekdK1Y2funzXBqM2bNz) | 2:25 | 2021-11-26 |  |
+| [Por Si Me Olvidas](https://open.spotify.com/track/2Kibj5KtMqbXDgtrN3Oqmw) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A Jose Alfredo Jimenez](https://open.spotify.com/album/08sekdK1Y2funzXBqM2bNz) | 2:25 | 2021-11-26 | 2026-02-14 |
 | [Potpourrí ranchero \(Copitas de mezcal, La tequilera, La charreada\)](https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:44 | 2021-11-26 |  |
 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 | 2023-07-28 | 2023-11-11 |
 | [Que Hare Sin Ti](https://open.spotify.com/track/7senB1xXn6ii7Q2TmadqOT) | [Mirla Avila](https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd) | [Que Hare Sin Ti](https://open.spotify.com/album/4VFA5nTJcmgbXQPOPrCSVn) | 2:47 | 2025-09-12 |  |

@@ -4191,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "14 de FEBRERO",
+        "url": "https://open.spotify.com/album/6nCJn4xe5G7snMEG2ihBS1"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        },
+        {
+          "name": "TOBIKA",
+          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Hor\u00f3scopo - 21:00",
+      "url": "https://open.spotify.com/track/6PvgO4pyoIVEwjaW2E0K2x"
+    },
+    {
+      "album": {
         "name": "Humilde Pero Cotizado (feat. Fili Wey & Dimelo Ismael)",
         "url": "https://open.spotify.com/album/1jdFkyLyFLiLaaDIsfkKia"
       },
@@ -8928,7 +8950,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 181000,
       "name": "Wapo Traketero",
       "url": "https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0"

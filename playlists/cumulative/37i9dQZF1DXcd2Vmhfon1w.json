@@ -7007,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "Jazz Do It 2.0",
+        "url": "https://open.spotify.com/album/3fLjGDYqcg9NzihB7p6XU9"
+      },
+      "artists": [
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Jazz Do It 2.0",
+      "url": "https://open.spotify.com/track/3HYdvzAV006nT6JH8zHYJ9"
+    },
+    {
+      "album": {
         "name": "SHOWTIME",
         "url": "https://open.spotify.com/album/5Zp2IHPFco7Aeg4jlLQeWs"
       },

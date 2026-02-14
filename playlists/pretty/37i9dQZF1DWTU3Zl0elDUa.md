@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 ### [90s House Classics](https://open.spotify.com/playlist/37i9dQZF1DWTU3Zl0elDUa)
 
-> Essential club anthems from the golden era of house music\. Cover: Crystal Waters
+> Essential club anthems from the golden era of house music\. Cover: Junior Jack
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,761 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,100 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 43 | [Rich in Paradise \(Going Back to My Roots\) \- Vocal Remix](https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Rich in Paradise \(Going Back to My Roots\)](https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8) | 5:51 |
 | 44 | [Sweet Sticky](https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 7:15 |
 | 45 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:50 |
-| 46 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
-| 47 | [Anthem \- The Mafia Mix](https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs), [Mafia Productions](https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO) | [Anthem \(The Mafia Mix\)](https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq) | 4:49 |
+| 46 | [Anthem \- The Mafia Mix](https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs), [Mafia Productions](https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO) | [Anthem \(The Mafia Mix\)](https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq) | 4:49 |
+| 47 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 | 48 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
 | 49 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/2VHfPcIjhqDGtynhFU3eSH) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
 | 50 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |

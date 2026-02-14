@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > Escucha DEPR💔$$ED MFKZ de Junior H y Gael Valenzuela 😭💔❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,999 likes - 93 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,069 likes - 93 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 10 | [DEMENCIA](https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:41 |
 | 11 | [NO TE DOLIO](https://open.spotify.com/track/73LIS0YJiH62EX3iv15KNU) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:37 |
 | 12 | [PINK CAKE](https://open.spotify.com/track/0UGRkoUZo8v00SnLSGuIrV) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:23 |
-| 13 | [LA CAMA](https://open.spotify.com/track/7vwGhA7pSjcEeXVy5A9wil) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:59 |
-| 14 | [BOTELLA$ VACÍA$](https://open.spotify.com/track/5GNiaPy1duQbTZecMdLI5R) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:47 |
+| 13 | [LA CAMA](https://open.spotify.com/track/7vwGhA7pSjcEeXVy5A9wil) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:59 |
+| 14 | [BOTELLA$ VACÍA$](https://open.spotify.com/track/5GNiaPy1duQbTZecMdLI5R) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:47 |
 | 15 | [M3&M4](https://open.spotify.com/track/4R0vb2yUQFQnDFlBRJAcFs) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:07 |
 | 16 | [Sin Fin](https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Sin Fin](https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk) | 2:52 |
 | 17 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 |

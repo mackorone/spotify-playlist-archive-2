@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116861,
+  "num_followers": 116867,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -279,42 +279,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Vi trenger ikke preke om det",
-        "url": "https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 140240,
-      "name": "Vi trenger ikke preke om det",
-      "url": "https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
@@ -327,6 +291,42 @@
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Sommernatta",
+        "url": "https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Sommernatta",
+      "url": "https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -367,46 +367,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Sommernatta",
-        "url": "https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Sommernatta",
-      "url": "https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
@@ -423,6 +383,46 @@
       "duration_ms": 157833,
       "name": "En d\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Vi trenger ikke preke om det",
+        "url": "https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 140240,
+      "name": "Vi trenger ikke preke om det",
+      "url": "https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -459,22 +459,6 @@
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Campingstol",
-        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Campingstol",
-      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -527,6 +511,22 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
+        "name": "Campingstol",
+        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Campingstol",
+      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
         "name": "Jeg har v\u00e6rt en idiot",
         "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Kunna vorre v\u00e6r",
         "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 142620,
       "name": "Singel til jeg d\u00f8r",
       "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -659,6 +659,26 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
+        "name": "Ryker p\u00e5'a igjen",
+        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 145111,
+      "name": "Ryker p\u00e5'a igjen",
+      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 192282,
       "name": "Viddas Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Ryker p\u00e5'a igjen",
-        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 145111,
-      "name": "Ryker p\u00e5'a igjen",
-      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 138454,
       "name": "Hytta Mi",
       "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+      },
+      "artists": [
+        {
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
-      },
-      "artists": [
-        {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
-        }
-      ],
-      "duration_ms": 145645,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Heidi",
         "url": "https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 124137,
       "name": "Heidi",
       "url": "https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+      },
+      "artists": [
+        {
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        }
+      ],
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
-        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        },
-        {
-          "name": "N!NE",
-          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
-      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
+        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
+      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
     },
     {
       "added_at": "2026-02-12 23:00:31",

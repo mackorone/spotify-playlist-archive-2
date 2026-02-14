@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27789,
+  "num_followers": 27788,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAt8yzGvc1068ocTYfua0eR",
+  "snapshot_id": "aY0YAAAAAABELl1gQ5HhiJ511gGy1/ww",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 307546,
-      "name": "ETERNAL BLAZE",
-      "url": "https://open.spotify.com/track/6FghEVkOL58IWEkRFqfKks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE MUSEUM \u2162",
         "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 267293,
       "name": "Synchrogazer",
       "url": "https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 307546,
+      "name": "ETERNAL BLAZE",
+      "url": "https://open.spotify.com/track/6FghEVkOL58IWEkRFqfKks"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMASHING ANTHEMS",
-        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Exterminate",
-      "url": "https://open.spotify.com/track/784dXexnlIhAJyZ4M5F7yp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE MUSEUM \u2162",
         "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
       },
@@ -131,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
       },
       "artists": [
         {
@@ -140,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 190520,
-      "name": "\u62cd\u52d5",
-      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
+      "duration_ms": 242906,
+      "name": "Exterminate",
+      "url": "https://open.spotify.com/track/784dXexnlIhAJyZ4M5F7yp"
     },
     {
       "added_at": null,
@@ -163,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM \u2163",
-        "url": "https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4"
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
       },
       "artists": [
         {
@@ -172,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 309906,
-      "name": "innocent starter -MUSEUM STYLE-",
-      "url": "https://open.spotify.com/track/5oF2YjRC7u2V0aPY4USGRQ"
+      "duration_ms": 190520,
+      "name": "\u62cd\u52d5",
+      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
     },
     {
       "added_at": null,
@@ -195,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM \u2163",
+        "url": "https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 309906,
+      "name": "innocent starter -MUSEUM STYLE-",
+      "url": "https://open.spotify.com/track/5oF2YjRC7u2V0aPY4USGRQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WILD EYES",
         "url": "https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv"
       },
@@ -207,22 +207,6 @@
       "duration_ms": 299413,
       "name": "\u30d2\u30e1\u30e0\u30e9\u30b5\u30ad",
       "url": "https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Moment of Truth",
-      "url": "https://open.spotify.com/track/3LZ1HFWfnqhWfZxqdVxQ8Q"
     },
     {
       "added_at": null,
@@ -255,6 +239,22 @@
       "duration_ms": 265986,
       "name": "\u7981\u65ad\u306e\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Moment of Truth",
+      "url": "https://open.spotify.com/track/3LZ1HFWfnqhWfZxqdVxQ8Q"
     },
     {
       "added_at": null,
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 224040,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/3d3eZn4cR6QBC5SaeLb1td"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GREAT ACTIVITY",
-        "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 328746,
-      "name": "Orchestral Fantasia",
-      "url": "https://open.spotify.com/track/2N4pNfbPpgDbejcKlFOb3C"
+      "duration_ms": 254760,
+      "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/1py3RFQLg5uoI79r6vsvL2"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 262403,
       "name": "FINAL COMMANDER",
       "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREAT ACTIVITY",
+        "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Orchestral Fantasia",
+      "url": "https://open.spotify.com/track/2N4pNfbPpgDbejcKlFOb3C"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 254760,
-      "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/1py3RFQLg5uoI79r6vsvL2"
+      "duration_ms": 224040,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/3d3eZn4cR6QBC5SaeLb1td"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justice to Believe/\u30a2\u30aa\u30a4\u30a4\u30ed",
-        "url": "https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 302239,
-      "name": "Justice to Believe",
-      "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALIVE&KICKING",
         "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
       },
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+        "name": "Justice to Believe/\u30a2\u30aa\u30a4\u30a4\u30ed",
+        "url": "https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av"
       },
       "artists": [
         {
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/6MBV1gIZyMLlhREr5MAJVx"
+      "duration_ms": 302239,
+      "name": "Justice to Believe",
+      "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 272640,
       "name": "Dancing in the velvet moon",
       "url": "https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/3P3dmJxsLEEB3Gy8vNCelw"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM \u2163",
-        "url": "https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4"
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 287893,
-      "name": "REBELLION",
-      "url": "https://open.spotify.com/track/0HQFZ3qAD2ATk9vz4ckWmG"
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+        "name": "THE MUSEUM \u2163",
+        "url": "https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239000,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
+      "duration_ms": 232826,
+      "name": "WHAT YOU WANT",
+      "url": "https://open.spotify.com/track/50ppXoZZbRjr3GNgdLtoF2"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
       "duration_ms": 304840,
       "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
       "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE MUSEUM \u2163",
-        "url": "https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "WHAT YOU WANT",
-      "url": "https://open.spotify.com/track/50ppXoZZbRjr3GNgdLtoF2"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 331686,
       "name": "METANOIA -Aufwachen Form-",
       "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM \u2163",
+        "url": "https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 287893,
+      "name": "REBELLION",
+      "url": "https://open.spotify.com/track/0HQFZ3qAD2ATk9vz4ckWmG"
     }
   ],
   "unique_name": "This Is Nana Mizuki",

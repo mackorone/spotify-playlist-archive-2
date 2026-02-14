@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 442805,
+  "num_followers": 442801,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Eso Que Me Das",
-        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 227658,
-      "name": "Eso Que Me Das",
-      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Promesas de Origami",
         "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 146086,
       "name": "Promesas De Origami",
       "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Eso Que Me Das",
+        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 227658,
+      "name": "Eso Que Me Das",
+      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "inigualable",
         "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -919,6 +919,26 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "Hasta M\u00e1laga",
         "url": "https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx"
       },
@@ -951,26 +971,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
-        },
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -987,30 +987,6 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "Acto de Fe (A & B Remix)",
-        "url": "https://open.spotify.com/album/2flR1deOgoalwj3x8wJuwM"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        },
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        },
-        {
-          "name": "Bob Crous",
-          "url": "https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE"
-        }
-      ],
-      "duration_ms": 167726,
-      "name": "Acto de Fe - A & B Remix",
-      "url": "https://open.spotify.com/track/7qd8tiws4kLMsxfSNXiiUk"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1047,6 +1023,30 @@
       "duration_ms": 222634,
       "name": "Levitando Lento",
       "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Acto de Fe (A & B Remix)",
+        "url": "https://open.spotify.com/album/2flR1deOgoalwj3x8wJuwM"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "Bob Crous",
+          "url": "https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE"
+        }
+      ],
+      "duration_ms": 167726,
+      "name": "Acto de Fe - A & B Remix",
+      "url": "https://open.spotify.com/track/7qd8tiws4kLMsxfSNXiiUk"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
-      },
-      "artists": [
-        {
-          "name": "Planeta Tres",
-          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
-        }
-      ],
-      "duration_ms": 204166,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "La Piscina",
         "url": "https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Quemar La Casa",
-        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
       "artists": [
         {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
         }
       ],
-      "duration_ms": 243356,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
+      "duration_ms": 204166,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1375,6 +1359,22 @@
       "duration_ms": 212195,
       "name": "Amor",
       "url": "https://open.spotify.com/track/42yT9HHlX3XBz7hn4RR0O0"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Quemar La Casa",
+        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 243356,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "Claro",
         "url": "https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 243245,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Si Nos Vamos",
-      "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 208240,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Si Nos Vamos",
+      "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "No Hard Feelings",
-        "url": "https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 166757,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
     }
   ],
   "unique_name": "indie feliz",

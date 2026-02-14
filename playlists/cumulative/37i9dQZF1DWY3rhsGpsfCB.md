@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-886 songs - 1 day 21 hr 42 min
+887 songs - 1 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Clout Chaser](https://open.spotify.com/track/753lMBAbrX5fgX0N8ZcDAA) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Jojo SK](https://open.spotify.com/artist/3keXwyX1v81VvVXzBZIcvq) | [Clout Chaser](https://open.spotify.com/album/3QEYT46N9Wr5tlLp9Fx7s4) | 3:26 | 2022-09-19 | 2023-03-04 |
 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 | 2023-05-04 | 2023-09-15 |
 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 | 2023-11-24 | 2024-01-29 |
+| [Coconut Cream](https://open.spotify.com/track/7kR5jVONjEK3MOlf0RV6AH) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Coconut Cream](https://open.spotify.com/album/7i1yZ6WL8S8ORA1MqVmm0e) | 3:08 | 2026-02-13 |  |
 | [Collide \(Solo Version\)](https://open.spotify.com/track/6FscsacxYI5HCHPOv2KtBG) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:22 | 2023-02-03 | 2023-02-24 |
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-04 | 2023-02-11 |
 | [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 | 2022-11-21 |
@@ -567,7 +568,7 @@
 | [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 | 2024-02-09 | 2024-03-22 |
 | [Ordinary People \(feat\. Tems\) \- Man\-Man Remix](https://open.spotify.com/track/7Jd170HODQ9BFWsFGXj8Wr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Eugene "Man\-Man" Roberts](https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM) | [Get Lifted \(20th Anniversary\)](https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ) | 4:49 | 2024-11-22 | 2025-02-22 |
 | [Other Side Of Love \(Remix\) \[feat\. Alicia Keys\]](https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:12 | 2025-08-15 | 2025-09-05 |
-| [other side.](https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [](https://open.spotify.com/album/null) | 3:15 | 2026-02-13 |  |
+| [other side.](https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:15 | 2026-02-13 |  |
 | [Our Souls Cry \(feat\. Obongjayar\)](https://open.spotify.com/track/7cnlFOceSNmLDJVsIffrGd) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 3:50 | 2023-05-04 | 2023-05-27 |
 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 | 2025-04-04 | 2025-09-05 |
 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2025-11-07 |  |
@@ -580,7 +581,7 @@
 | [Owe To You \- A COLORS SHOW](https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Owe To You \- A COLORS SHOW](https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372) | 3:54 | 2024-10-04 | 2025-03-07 |
 | [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 | 2022-07-07 | 2022-12-02 |
 | [Pain](https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:33 | 2022-07-07 | 2023-02-11 |
-| [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 | 2025-02-19 |  |
+| [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 | 2025-02-19 | 2026-02-14 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-04 | 2025-03-07 |
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-25 | 2025-03-07 |
 | [Pardon](https://open.spotify.com/track/4GHlt0rLK8dOC13iVAk1kO) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:53 | 2025-07-11 |  |

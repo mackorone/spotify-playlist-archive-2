@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,564 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,565 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 67 | [Vencedores Vencidos](https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Un Baión para el Ojo Idiota](https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5) | 3:28 |
 | 68 | [Demoliendo Hoteles](https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL) | 2:15 |
 | 69 | [Ruta 66](https://open.spotify.com/track/4gN4cSdHUbd6eLzkWL1vdI) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 8: Caso Cerrado](https://open.spotify.com/album/3tMA4MFLKNJUDJuvQAoPpk) | 3:06 |
-| 70 | [En el país de la libertad](https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco \(LP\)](https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs) | 3:09 |
+| 70 | [Lament](https://open.spotify.com/track/5XGWakb6O2GIQem0pIBMxH) | [Luca Prodan](https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI) | [Time Fate Love \(Remastered 2019\)](https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM) | 4:17 |
 
 Snapshot ID: `AAAAAEAfZMx1zQF9vJuJNNmOSxc+EQPB`

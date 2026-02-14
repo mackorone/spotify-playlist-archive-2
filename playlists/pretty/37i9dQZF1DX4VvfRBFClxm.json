@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1466869,
+  "num_followers": 1466823,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 259040,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "This Town",
-        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -767,38 +767,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 236733,
       "name": "Shouldn't Matter but It Does",
       "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "S.O.S.: Save Our Soul",
-        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 278146,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "New Rules (Acoustic)",
         "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 213436,
       "name": "New Rules - Acoustic",
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "S.O.S.: Save Our Soul",
+        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 278146,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Meet The Moonlight",
         "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify, London)",
         "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "GREY",
-        "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Morning Breeze",
-      "url": "https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "GREY",
+        "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Morning Breeze",
+      "url": "https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Por Favor",
-        "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Cassidy",
-      "url": "https://open.spotify.com/track/2JR7RCUN6pZIoyNzaqxdUa"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Once In a While (Acoustic)",
         "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 231582,
       "name": "Once In a While - Acoustic",
       "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Por Favor",
+        "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Cassidy",
+      "url": "https://open.spotify.com/track/2JR7RCUN6pZIoyNzaqxdUa"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Craving (Acoustic)",
-        "url": "https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO"
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Craving - Acoustic Version",
-      "url": "https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl"
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+        "name": "Craving (Acoustic)",
+        "url": "https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
+      "duration_ms": 226240,
+      "name": "Craving - Acoustic Version",
+      "url": "https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl"
     },
     {
       "added_at": "2024-07-12 04:00:00",

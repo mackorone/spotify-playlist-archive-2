@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Léa Mendonça
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Valesca Mayssa
 
-306 songs - 1 day 3 hr 52 min
+307 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 | 2024-04-19 |  |
 | [Teu Amor por Mim](https://open.spotify.com/track/39ztz5FRKpfp8UneRY89Nr) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Teu Amor por Mim](https://open.spotify.com/album/4ayM0Dc1uN7H5esAhfF87i) | 8:19 | 2022-09-09 | 2023-01-14 |
 | [Teu Falar \- Ao Vivo](https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU) | [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi) | 6:20 | 2022-09-09 | 2024-06-15 |
+| [Tinta de Sangue \- Ao Vivo](https://open.spotify.com/track/4uScqisKtC90tHXg6lNq5I) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tinta de Sangue \(Ao Vivo\)](https://open.spotify.com/album/2ZWneGI8ohbeRsv3NrvLyp) | 6:23 | 2026-02-13 |  |
 | [Toda Terra \- Ao Vivo](https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Toda Terra \(Ao Vivo\)](https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt) | 8:39 | 2024-06-14 |  |
 | [Toma o Teu Lugar \- Make Room](https://open.spotify.com/track/6MTHuIDVGeSt5xEuwItVpM) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Toma o Teu Lugar \(Make Room\)](https://open.spotify.com/album/5ptH6CRcskhNs8i5iEIrBO) | 5:51 | 2022-09-09 | 2023-03-04 |
 | [Totalmente Santo](https://open.spotify.com/track/4q5ySZjEV1vtEOKux4uX1j) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Totalmente Santo](https://open.spotify.com/album/7cThFhPZX8qG4Sfi5OkLBr) | 4:39 | 2023-03-03 | 2023-05-06 |
@@ -307,7 +308,7 @@
 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 | 2023-01-20 | 2023-09-26 |
 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 | 2022-09-09 | 2023-01-14 |
 | [Voltando à Essência \(Ao Vivo\)](https://open.spotify.com/track/1MXdyw32HqhBilEZ2nw3jg) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [De Volta à Essência \(Ao Vivo\)](https://open.spotify.com/album/0YeBNLuTCGUITUZNxINJWI) | 7:19 | 2023-02-10 | 2023-05-13 |
-| [Voltemos ao Início + O Bálsamo de Gileade](https://open.spotify.com/track/4bLQAk7MqLB3tMeYm4USNe) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [As Minhas Orações Cantadas \- Vol 1](https://open.spotify.com/album/11NNFMy26D8SgEFuHZJml0) | 10:12 | 2025-07-19 |  |
+| [Voltemos ao Início + O Bálsamo de Gileade](https://open.spotify.com/track/4bLQAk7MqLB3tMeYm4USNe) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [As Minhas Orações Cantadas \- Vol 1](https://open.spotify.com/album/11NNFMy26D8SgEFuHZJml0) | 10:12 | 2025-07-19 | 2026-02-14 |
 | [Vou Me Humilhar](https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB) | 3:56 | 2022-10-14 | 2023-09-09 |
 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 | 2023-04-15 | 2025-10-07 |
 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 | 2022-09-09 | 2023-07-15 |

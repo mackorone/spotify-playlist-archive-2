@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-824 songs - 1 day 17 hr 3 min
+825 songs - 1 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Code](https://open.spotify.com/track/1hg8pF09mkmaLzVWKiyhvw) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Code](https://open.spotify.com/album/21VWyeXDxoL9up6VuCLshi) | 2:29 | 2024-04-02 | 2024-09-29 |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 | 2023-04-28 |
 | [Comet](https://open.spotify.com/track/0klFHFJRTKtNQ8uX9tgs0Q) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Keepsake](https://open.spotify.com/artist/3TNyKBo7OPi8zuGJostZXS) | [Comet](https://open.spotify.com/album/2PnjRKPTRBz128x4sHSPqt) | 3:50 | 2024-05-23 | 2024-12-09 |
+| [Coming Back](https://open.spotify.com/track/0Qn5NOtqOrIvnOdZ3Rsxav) | [The Uncommon](https://open.spotify.com/artist/6fV0T8hhZJgKewDsuQ2Pm1), [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5) | [Coming Back](https://open.spotify.com/album/6nExZI8i4u5qzL8tAseZdL) | 2:14 | 2026-02-13 |  |
 | [CONNECTION](https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [CONNECTION](https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6) | 1:48 | 2023-04-04 | 2023-08-10 |
 | [Consume Me](https://open.spotify.com/track/2eBajT1oKY0ugtD1Lc5zaq) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Consume Me](https://open.spotify.com/album/4Z5cARDkDPUcU2i5ona0GH) | 5:12 | 2023-01-13 | 2023-04-28 |
 | [Control](https://open.spotify.com/track/46MUbxLye12SKBN7xHg3CF) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Control](https://open.spotify.com/album/3WEPzTQTjVJSCVv0lKEKq0) | 2:46 | 2023-08-08 | 2024-03-13 |

@@ -3559,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "bamboo",
+        "url": "https://open.spotify.com/album/6sz8MRA9amMmf2xPcESqVo"
+      },
+      "artists": [
+        {
+          "name": "raindrop delay",
+          "url": "https://open.spotify.com/artist/34oewuGdY10tJVQxjq202Q"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/3o9ao7MVy70akFMeOLLRFG"
+    },
+    {
+      "album": {
         "name": "Banana Muffin",
         "url": "https://open.spotify.com/album/5udXLXdM2wXM2BDraw9JhI"
       },
@@ -13768,7 +13786,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148000,
       "name": "fireflies",
       "url": "https://open.spotify.com/track/6cvlgYk6lSou46r0oyBs8f"
@@ -21163,6 +21181,28 @@
     },
     {
       "album": {
+        "name": "late dusk",
+        "url": "https://open.spotify.com/album/7t3jqx4FpamMRb3asFRHDX"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "cloud cover",
+          "url": "https://open.spotify.com/artist/1y9I7fJdrExfvwiY8SYtB6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111044,
+      "name": "late dusk",
+      "url": "https://open.spotify.com/track/35xHtH12lTSko40xnOGI2F"
+    },
+    {
+      "album": {
         "name": "Late Night Call",
         "url": "https://open.spotify.com/album/5li4QSdvxWxkes4fRqDR3t"
       },
@@ -23954,7 +23994,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 169704,
       "name": "Luxurious Soul",
       "url": "https://open.spotify.com/track/4OkB2CMeDP0QHXU3xVQPdc"
@@ -26864,7 +26904,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 126346,
       "name": "My Own Treehouse",
       "url": "https://open.spotify.com/track/4E5qIdwfC0ooQTbSAgK5hY"
@@ -34809,6 +34849,24 @@
     },
     {
       "album": {
+        "name": "Sentries",
+        "url": "https://open.spotify.com/album/2ldsTM5QliroRYExZtZE1Y"
+      },
+      "artists": [
+        {
+          "name": "Half Blue",
+          "url": "https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87272,
+      "name": "Sentries",
+      "url": "https://open.spotify.com/track/1glqyfGgl5ocubAauA2nQV"
+    },
+    {
+      "album": {
         "name": "separate ways",
         "url": "https://open.spotify.com/album/5jsuVua8jgHydjorTJqqrC"
       },
@@ -39689,6 +39747,24 @@
     },
     {
       "album": {
+        "name": "Suspend",
+        "url": "https://open.spotify.com/album/1xpRdVtHK4Ta4TQqxIn6Fp"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Suspend",
+      "url": "https://open.spotify.com/track/0PgYYfszbmzXle8d1todf9"
+    },
+    {
+      "album": {
         "name": "Swamplands",
         "url": "https://open.spotify.com/album/1yElHsea4IcNG4pTlgWu9S"
       },
@@ -39870,6 +39946,24 @@
       "duration_ms": 118356,
       "name": "Swirl it please",
       "url": "https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL"
+    },
+    {
+      "album": {
+        "name": "swirlpool",
+        "url": "https://open.spotify.com/album/7M480EFLSQ6gZSzbNBDeDk"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120105,
+      "name": "swirlpool",
+      "url": "https://open.spotify.com/track/1V677jdefDvaL7ftteMlxo"
     },
     {
       "album": {
@@ -42442,7 +42536,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 128470,
       "name": "Triplo",
       "url": "https://open.spotify.com/track/5RpukHbnGDArxAsBV6Uk4W"
@@ -43382,7 +43476,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 145862,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/4INlGADt1s5LuKaqbU9UKH"

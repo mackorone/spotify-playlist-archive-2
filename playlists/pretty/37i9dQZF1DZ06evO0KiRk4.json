@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 578774,
+  "num_followers": 578841,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADj3SE4UBWLsj5h31BC2sv8",
+  "snapshot_id": "aY0YAAAAAADq9TKszfJ4c626rUDDEcBN",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You've Got The Love (Jamie xx Rework)",
         "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 342990,
       "name": "You've Got The Love - Jamie xx Rework",
       "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274853,
-      "name": "No Light, No Light",
-      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb"
+      "duration_ms": 274853,
+      "name": "No Light, No Light",
+      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Seven Devils",
-      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 293468,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Seven Devils",
+      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 307347,
       "name": "Queen Of Peace",
       "url": "https://open.spotify.com/track/6WRjufZUoxjaUNKOJ6QhWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Sky Full Of Song",
-      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 241490,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/3AiXzUyFAFZVBGVAADPN5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Sky Full Of Song",
+      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
     },
     {
       "added_at": null,

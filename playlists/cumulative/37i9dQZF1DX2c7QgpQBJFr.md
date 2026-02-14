@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 💔  cover: Carla Hero
 
-1,128 songs - 2 day 5 hr 37 min
+1,130 songs - 2 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-12 | 2025-01-10 |
 | [NESSUNO](https://open.spotify.com/track/6nqD9le3Pu9pNgU1ZiAACs) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF) | [NESSUNO](https://open.spotify.com/album/0UdRODelO4kTJ6KhoyEJjP) | 2:31 | 2024-06-27 | 2024-07-05 |
 | [nessuno mi conosce come mi conosci tu](https://open.spotify.com/track/67rC2YKJGDuiE4FAtkyZgv) | [Why, the Moon](https://open.spotify.com/artist/0ealn2IOVIzlIY9G1wIUzq) | [Armonia](https://open.spotify.com/album/4kXSJZLyrlYRlM8vJgtXOR) | 2:29 | 2024-11-21 | 2025-01-17 |
+| [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 | 2026-02-13 |  |
 | [Nevermind](https://open.spotify.com/track/0AyoK0LiaCVV32vmzqBkG8) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Questa casa è un albergo](https://open.spotify.com/album/5muiXBIZxmYvjgyq85pgtz) | 3:09 | 2025-03-06 | 2025-04-11 |
 | [nevischio su ande](https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp) | [tinai](https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP) | [girammo tutto in una macchina](https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq) | 2:49 | 2024-10-17 | 2024-12-06 |
 | [New York](https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [New York](https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4) | 2:42 | 2024-10-24 | 2024-12-13 |
@@ -1025,6 +1026,7 @@
 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 | 2025-04-03 | 2025-08-01 |
 | [Ti Penso \- Sam Ruffillo Version](https://open.spotify.com/track/6ZqMMXKF7o84CZL43RBVoV) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ti Penso \(Sam Ruffillo Version\)](https://open.spotify.com/album/6QrNWPk0r8ppTd9rMaoLdp) | 3:06 | 2025-12-11 | 2025-12-30 |
 | [Ti perdono di tutto \(a la playa\)](https://open.spotify.com/track/1rFJWfWeR3m6aOPM6ECFGC) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt) | [Ti perdono di tutto \(a la playa\)](https://open.spotify.com/album/5wXlXpwoMuddCegQ5MPqpE) | 3:01 | 2024-06-27 | 2024-07-05 |
+| [ti prego non piangere](https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [ti prego non piangere](https://open.spotify.com/album/4hUpEROffCaxLIy3C201Pw) | 3:19 | 2026-02-13 |  |
 | [Ti ricorderai di noi](https://open.spotify.com/track/26BQgK82HfjraWwtEuaguL) | [Tommy Indaco](https://open.spotify.com/artist/7k5IhSViCRasY6a7LWhgx5) | [Ti ricorderai di noi](https://open.spotify.com/album/0b2D5zLJ3bwDxsNs01pJ6C) | 3:01 | 2025-02-27 | 2025-04-11 |
 | [Ti scorderai di me](https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [Ti scorderai di me](https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy) | 2:56 | 2024-12-05 | 2025-02-14 |
 | [TI SENTI FRAGILE](https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [TI SENTI FRAGILE](https://open.spotify.com/album/1A3ePSh47IMFqZwmpeVNI3) | 2:04 | 2025-02-06 | 2025-04-11 |

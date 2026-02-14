@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンを一つのプレイリストに。cover: Lauren Spencer Smith
 
-745 songs - 1 day 14 hr 23 min
+746 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-19 | 2025-07-04 |
 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 | 2024-03-05 | 2024-04-27 |
 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-04-20 | 2023-06-28 |
-| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [](https://open.spotify.com/album/null) | 3:03 | 2026-02-12 |  |
+| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-02-12 |  |
 | [american jesus](https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [american jesus](https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW) | 2:48 | 2023-04-27 | 2023-05-12 |
 | [Amigos \(with Becky G\)](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Amigos \(with Becky G\)](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) | 2:31 | 2023-11-16 | 2023-12-15 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-18 | 2024-10-28 |
@@ -298,6 +298,7 @@
 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 | 2024-08-22 | 2024-09-06 |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-27 | 2025-07-01 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-06-23 |
+| [I Like You Better Than Me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Like You Better Than Me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 | 2026-02-12 |  |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-28 | 2024-07-23 |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-10 | 2024-10-18 |
 | [I Pray](https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P) | 3:22 | 2024-01-11 | 2024-01-26 |
@@ -565,7 +566,7 @@
 | [Some Type Of Skin](https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin](https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5) | 3:12 | 2024-04-11 | 2024-05-17 |
 | [Some Type Of Skin](https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin](https://open.spotify.com/album/4kfH7Wzr6p646dTIulVQQS) | 3:12 | 2024-03-21 | 2024-04-19 |
 | [Some Type Of Skin \(Ft\. ATARASHII GAKKO!\)](https://open.spotify.com/track/0XosFVK1iMaeVKSRoUWTVK) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Some Type Of Skin \(Ft\. ATARASHII GAKKO!\)](https://open.spotify.com/album/5ssnfj7TGiqSmgGbUMfroM) | 3:36 | 2025-02-13 | 2025-03-14 |
-| [somebody you're supposed to love](https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [](https://open.spotify.com/album/null) | 3:10 | 2026-02-12 |  |
+| [somebody you're supposed to love](https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 3:10 | 2026-02-12 |  |
 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 | 2024-03-21 | 2024-04-05 |
 | [Someone For Me](https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:34 | 2024-10-17 | 2024-11-01 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-25 | 2024-11-01 |

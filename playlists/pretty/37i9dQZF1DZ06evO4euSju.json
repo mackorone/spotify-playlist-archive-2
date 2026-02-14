@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAA13UvZbSef9oBypDcBbj3S",
+  "snapshot_id": "aY0YAAAAAAA77iqIIw8iuFWljrl6rAhH",
   "tracks": [
     {
       "added_at": null,
@@ -394,31 +394,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dazed (2025 Remaster)",
-        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 302376,
-      "name": "Summer (Remastered)",
-      "url": "https://open.spotify.com/track/5Sjjk1pNHyIewQUAzQtcYZ"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
@@ -439,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+        "name": "Dazed (2025 Remaster)",
+        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
       },
       "artists": [
         {
@@ -448,9 +428,29 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 302376,
+      "name": "Summer (Remastered)",
+      "url": "https://open.spotify.com/track/5Sjjk1pNHyIewQUAzQtcYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,

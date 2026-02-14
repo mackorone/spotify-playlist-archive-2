@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 
 > marrakech season
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,963 likes - 90 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,199 likes - 90 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 | 35 | [Jovens Dias](https://open.spotify.com/track/415R1PHUQ1nwK9PrEN3bi5) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Jovens Dias](https://open.spotify.com/album/4WatONlKBPEem3P27oICCN) | 2:42 |
 | 36 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
 | 37 | [Liar](https://open.spotify.com/track/7vCoetC4HiuJZXAIjZvSjK) | [L82DP](https://open.spotify.com/artist/7app6LMbW8wfiWXnG1139H), [Enywayz](https://open.spotify.com/artist/6vWpQ1I6ePA43Gts5xtWTj), [Noirrr](https://open.spotify.com/artist/3POw3UXpybqwAUr8KXsC0G), [L8](https://open.spotify.com/artist/3vykWFPEAnYMEV9MUsiBdN), [Izi](https://open.spotify.com/artist/2um0XvS2tEsA2jSXF6JUYW), [El Comoriano](https://open.spotify.com/artist/4UYPJ9iyLaZbZr6SAThiEL) | [Liar](https://open.spotify.com/album/4DliwjibKXQ9sZsP03WSYP) | 2:56 |
-| 38 | [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 |
+| 38 | [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 |
 | 39 | [See That](https://open.spotify.com/track/4wYwe4DGpBdyDNf2xTCPar) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [See That](https://open.spotify.com/album/6qpLGCyg0Jxbjk2xLTBbZa) | 6:55 |
 | 40 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
 | 41 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |

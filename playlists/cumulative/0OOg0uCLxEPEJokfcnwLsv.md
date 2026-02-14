@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-298 songs - 18 hr 32 min
+305 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Affection](https://open.spotify.com/track/1MbXQOK884LNMc6DzIyn4h) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed](https://open.spotify.com/album/2fe1lqChqutX3RlqZB5rqN) | 4:27 | 2025-11-04 | 2025-12-12 |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2026-01-03 | 2026-01-21 |
 | [Ain't no story of love](https://open.spotify.com/track/3f0iRjjbwR4gBSqlSjAOwe) | [Fredrik Bernhardtz](https://open.spotify.com/artist/1KhYjWBOtFNMf0VaIyWnK9) | [Ain't no story of love](https://open.spotify.com/album/5P8mY5mb96uTL53ThfjKfQ) | 5:46 | 2026-01-29 |  |
+| [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 | 2026-02-13 |  |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-23 | 2026-01-21 |
 | [All I Know \- 2025 Remaster](https://open.spotify.com/track/2FZPTSFBfhy9rPtSDhtBDb) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [All I Know \(2025 Remaster\)](https://open.spotify.com/album/5HecYSQaBgRpgTfjsVGMal) | 5:02 | 2026-01-31 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-05 | 2025-12-28 |
@@ -35,6 +36,7 @@
 | [Ashes in the wind](https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL) | [Ashes in the wind](https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz) | 3:07 | 2025-12-22 | 2026-01-21 |
 | [Audio Garden](https://open.spotify.com/track/0Eht5ezV1mVtrpiBlOgblJ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:07 | 2025-11-11 | 2025-12-12 |
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
+| [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-02-13 |  |
 | [Back on the Chain Gang](https://open.spotify.com/track/780AZOfAaKecd83UUEYqVW) | [Gigi Scott](https://open.spotify.com/artist/333VviZLcrBgqyvaX9Tab8) | [Back on the Chain Gang](https://open.spotify.com/album/1TtpRhlOogrGGRaf1Zr2wV) | 4:09 | 2025-12-29 | 2026-01-21 |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-26 | 2026-01-05 |
 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 | 2026-01-28 |  |
@@ -167,6 +169,7 @@
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 | 2026-01-05 |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2026-01-29 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-11-29 | 2025-12-28 |
+| [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-02-13 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2025-12-28 | 2026-01-21 |
 | [My Love is an Exploding Star](https://open.spotify.com/track/5eETbpiCV3FHMjEVVkHEiI) | [Zachary Friederich](https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk) | [SONGBOOK BURNING](https://open.spotify.com/album/0HUMF75Y8H7ImKHHtODjS8) | 3:39 | 2026-01-06 | 2026-02-02 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |
@@ -199,6 +202,7 @@
 | [Psycho](https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd) | [Weyward](https://open.spotify.com/artist/3qzChsvBEIPi9PBvoAnbr8) | [Psycho](https://open.spotify.com/album/4QpIxk7YqFvN7x7ieymSWy) | 3:31 | 2025-11-06 | 2025-12-12 |
 | [Purple Wings](https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Purple Wings](https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52) | 5:41 | 2026-02-09 |  |
 | [Reactor Startup](https://open.spotify.com/track/2q57gWobR1INudWdwk5V6Y) | [The Naives](https://open.spotify.com/artist/05VhSO0dsvH5xk905U9fdo) | [Reactor Startup](https://open.spotify.com/album/5YDkIYrHq4EGq96ThcWq28) | 2:43 | 2025-09-04 | 2026-01-21 |
+| [Reason We All Share](https://open.spotify.com/track/5jvrlhTDejDARcAQfAmWT8) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Reason We All Share](https://open.spotify.com/album/7IN9coSLqiMdGcPZocsTft) | 3:12 | 2026-02-13 |  |
 | [Rebranding](https://open.spotify.com/track/6Z3N2meIvmsTtnBnRD1yS1) | [Parademaker](https://open.spotify.com/artist/3N32APzSN5fVzl3v2MEMnx) | [Angel Baby](https://open.spotify.com/album/2Q3NJa2ORmUIPbZWkDjIZu) | 3:39 | 2026-01-24 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-10-30 |  |
 | [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 | 2026-01-29 |  |
@@ -206,6 +210,7 @@
 | [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:05 | 2025-10-27 | 2025-11-22 |
 | [Rights Down 50](https://open.spotify.com/track/1vPHGl7R7Zycn2nxg6iNxZ) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:33 | 2025-11-08 | 2025-12-12 |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2025-10-06 |  |
+| [Rock it to the Moon](https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 2:41 | 2026-02-13 |  |
 | [Rocking Gnossienne'25](https://open.spotify.com/track/1uj9DhkyZSGnYDljWAjWnS) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Gary Hayward](https://open.spotify.com/artist/71W5r0ihrkAoHc19RcmPNW) | [Rocking Gnossienne'25](https://open.spotify.com/album/2uLL5xhvVZXdYaNEJemWl6) | 3:05 | 2025-12-01 | 2025-12-28 |
 | [Rose Tinted Eyes](https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Rose Tinted Eyes](https://open.spotify.com/album/6Vfc9B57eWm1cfzCijhMhI) | 2:47 | 2025-12-13 | 2026-01-05 |
 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 | 2026-01-07 | 2026-02-02 |
@@ -221,6 +226,7 @@
 | [Shallow Woman](https://open.spotify.com/track/16rXPUm2ZLmfw4awRZajCp) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:28 | 2026-01-15 |  |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-12-12 | 2026-01-05 |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-22 |  |
+| [Shine Your Shoes](https://open.spotify.com/track/6Ro4y2BWJt4KlUZfXxfokk) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Donatello Soul](https://open.spotify.com/album/2sdIfhH5l2fGNsX2fHHqe8) | 3:20 | 2026-02-13 |  |
 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 | 2026-02-09 |  |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-30 | 2025-11-22 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2026-01-22 |  |
@@ -246,6 +252,7 @@
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 | 2026-02-04 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-11-22 |
 | [The Bee](https://open.spotify.com/track/6tT2Oh2O2pAgnlbu02DpOv) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy) | [Daisyland](https://open.spotify.com/album/7jDAk7n5r1qHQFNIFXGtM2) | 4:21 | 2026-01-07 | 2026-02-02 |
+| [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-02-13 |  |
 | [The Day I'm Gone](https://open.spotify.com/track/6fOJUO7CRNIgSACqSZRIAa) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:05 | 2025-12-31 | 2026-01-21 |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-02 | 2026-01-21 |
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-13 | 2026-01-05 |

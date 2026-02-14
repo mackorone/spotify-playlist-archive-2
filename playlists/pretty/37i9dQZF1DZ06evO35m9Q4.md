@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,339 likes - 47 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,356 likes - 47 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 16 | [Chitlins Con Carne](https://open.spotify.com/track/6IveFdcW71nooBQRl12dYy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 3:56 |
 | 17 | [Love Struck Baby](https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:21 |
 | 18 | [The Sky Is Crying \- 1984 Version](https://open.spotify.com/track/0rXcAvuQdrQakSPhIOZ6f8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 4:10 |
-| 19 | [First We Take Manhattan \- Digitally Remastered](https://open.spotify.com/track/6IRkoSxV526waQU14HQ3cE) | [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Famous Blue Raincoat: 20th Anniversary Edition \(Digitally Remastered\)](https://open.spotify.com/album/3658N94yX3heWmnz4BToOA) | 3:46 |
-| 20 | [Leave My Girl Alone](https://open.spotify.com/track/6Xq8b6nBZNs744j0MhE5a3) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 4:16 |
+| 19 | [Leave My Girl Alone](https://open.spotify.com/track/6Xq8b6nBZNs744j0MhE5a3) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 4:16 |
+| 20 | [First We Take Manhattan \- Digitally Remastered](https://open.spotify.com/track/6IRkoSxV526waQU14HQ3cE) | [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Famous Blue Raincoat: 20th Anniversary Edition \(Digitally Remastered\)](https://open.spotify.com/album/3658N94yX3heWmnz4BToOA) | 3:46 |
 | 21 | [I'm Cryin'](https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:43 |
 | 22 | [Scuttle Buttin'](https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 1:51 |
 | 23 | [Pride And Joy \- Remastered 2024](https://open.spotify.com/track/5QuJllZAhhDbFTlUp2q4Nw) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 6:00 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 46 | [Letter to My Girlfriend \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 3:08 |
 | 47 | [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 |
 
-Snapshot ID: `aYvGgAAAAACy/xSyPrIXFI7mhAh33iwV`
+Snapshot ID: `aY0YAAAAAADJrLJ74OuoH6CmspKUN0v1`

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,361 songs - 3 day 1 hr 58 min
+1,362 songs - 3 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,7 +795,7 @@
 | [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 | 2020-11-03 | 2021-09-18 |
 | [Nobody \(R3HAB Remix\)](https://open.spotify.com/track/2Z0Ie1NJJLkp14ClmTx5P5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Nobody \(R3HAB Remix\)](https://open.spotify.com/album/3B64IR7UJccjEtcIPQsvDk) | 2:14 | 2021-05-15 | 2021-09-18 |
 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 | 2021-05-15 | 2021-09-18 |
-| [Nomacita](https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Carl Bee](https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv) | [Nomacita](https://open.spotify.com/album/4gJo8k21SMNJsfPxp3Bhyi) | 2:50 | 2025-01-24 |  |
+| [Nomacita](https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Carl Bee](https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv) | [Nomacita](https://open.spotify.com/album/4gJo8k21SMNJsfPxp3Bhyi) | 2:50 | 2025-01-24 | 2026-02-14 |
 | [NOPUS](https://open.spotify.com/track/02dPa4nXABwnFzjZosKxsk) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [NOPUS](https://open.spotify.com/album/4DG7qAkQDjtPzqMUe6zXcA) | 3:20 | 2021-01-08 | 2021-09-18 |
 | [Nostalgia](https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Nostalgia](https://open.spotify.com/album/1CWPPkC70qyU1sf2PopYEf) | 3:30 | 2025-04-25 |  |
 | [Nostalgia Drive](https://open.spotify.com/track/4VW0j6n5ve0hkkaVJRStbJ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Game Over](https://open.spotify.com/album/5MyJi199OGruB5b7MprSJb) | 7:52 | 2020-09-21\* | 2020-10-10 |
@@ -1019,6 +1019,7 @@
 | [Set You Free](https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Set You Free](https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB) | 2:49 | 2022-01-28 | 2022-11-12 |
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-01-21 | 2022-05-03 |
 | [Shadows](https://open.spotify.com/track/3UTnoLehZjISbFueAmhGvY) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy), [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT) | [Shadows](https://open.spotify.com/album/4TEmyBI34m3wkoLNvy95aZ) | 3:06 | 2021-07-10 | 2021-09-18 |
+| [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:22 | 2026-02-13 |  |
 | [Shadows](https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Shadows](https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4) | 3:45 | 2023-05-26 | 2023-09-09 |
 | [Shake & Pop \- John Summit Remix](https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Shake & Pop \(John Summit Remix\)](https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx) | 3:37 | 2024-10-25 | 2025-02-01 |
 | [Shake It](https://open.spotify.com/track/1Eh1KT8TVoRISpnphcMG5W) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Shake It](https://open.spotify.com/album/0glqj5fGTpYXiAibo9MP9s) | 3:04 | 2020-09-21\* | 2021-01-23 |

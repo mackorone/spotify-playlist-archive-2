@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,515 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,562 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Başrol Sensin \- 1\. Yıl Özel](https://open.spotify.com/track/7JOZ88jJbmx9TIzpPJBCqi) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Başrol Sensin \(1\. Yıl Özel\)](https://open.spotify.com/album/3kEYSSRV5y9ErZ8qwEmVLI) | 3:13 |
 | 2 | [Zor](https://open.spotify.com/track/3x4VM1rt9bXvDZYqPbbpjf) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zor](https://open.spotify.com/album/3y7xkd3xhPtBjo8KRL7qd4) | 2:48 |
-| 3 | [Bir Büyülü Gece \- Live At The Royal Albert Hall](https://open.spotify.com/track/4aI9mRo7AVthqabn6Y6yf3) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [](https://open.spotify.com/album/null) | 4:33 |
+| 3 | [Bir Büyülü Gece \- Live At The Royal Albert Hall](https://open.spotify.com/track/4aI9mRo7AVthqabn6Y6yf3) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Live at the Royal Albert Hall](https://open.spotify.com/album/1SZva1sGttpR8wiqCcdYzX) | 4:33 |
 | 4 | [Bi' Bilsen](https://open.spotify.com/track/1eq3J4tjs8hC5ig2WCL2pq) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Bi' Bilsen](https://open.spotify.com/album/4g9Ygza847MB663rOZjebX) | 2:31 |
 | 5 | [Oyuncak Gibi](https://open.spotify.com/track/3Gztrg1zwgCP68j7QC3n4l) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Oyuncak Gibi](https://open.spotify.com/album/00bUeXgfSpvvzZxSuWuYGK) | 3:03 |
 | 6 | [Boylu Boyunca](https://open.spotify.com/track/6SynzXtPlIgHSzsMcUqsUf) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boylu Boyunca](https://open.spotify.com/album/2viQLad3zOvhA6id6akhWO) | 3:08 |

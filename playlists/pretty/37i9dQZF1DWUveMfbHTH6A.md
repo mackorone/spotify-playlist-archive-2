@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,588 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,594 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 23 | [How To Bip](https://open.spotify.com/track/1nriEvBZcTxN212SbHrfq2) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc) | [How To Bip](https://open.spotify.com/album/0NKTZbwoJNJAe3qaIQoHy7) | 1:53 |
 | 24 | [Pa q me escribes?](https://open.spotify.com/track/59UT3zWpFwROD3DmsIIZz7) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Pa q me escribes?](https://open.spotify.com/album/4tvRbe0cAMnn0rm4tUoofk) | 2:00 |
 | 25 | [Creature Skin](https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Map // Creature Skin](https://open.spotify.com/album/5QbJqqzsFQV2B7JW8ZHwHr) | 3:10 |
-| 26 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
-| 27 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
+| 26 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
+| 27 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
 | 28 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 29 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 30 | [Em Không Cần](https://open.spotify.com/track/3M8XPtbFW7xWyz2JmuDcce) | [Hannie](https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs) | [Em Không Cần](https://open.spotify.com/album/4b319VI4xcHsxbXZVQmRgy) | 4:10 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 38 | [Lukisan](https://open.spotify.com/track/4JCCxTFPJVyKScKv7AwZcl) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5) | [Lukisan](https://open.spotify.com/album/3qxSIjuljZrg7LEQ8RVema) | 4:15 |
 | 39 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
 | 40 | [System](https://open.spotify.com/track/3kPWyMLOMqigwl4p4aJZWa) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:54 |
-| 41 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
-| 42 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
+| 41 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
+| 42 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
 | 43 | [East Coast Summers](https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [East Coast Summers](https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX) | 3:41 |
 | 44 | [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 |
 | 45 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 65 | [Nkosi's Fantasia](https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ) | [Miki Ikhifa](https://open.spotify.com/artist/1U99EbW3KOGlztHeHqSjfo), [Nubalix](https://open.spotify.com/artist/6VdWeYimGqEwBMc0PQ1E5A) | [Nkosi's Fantasia: Chapter One](https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v) | 4:16 |
 | 66 | [Even if it's a Lie \(I Don't Mind\)](https://open.spotify.com/track/6rua8r6OWbwBisNEsXtyRW) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO) | 4:01 |
 | 67 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 |
-| 68 | [Selective](https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Selective](https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3) | 2:52 |
-| 69 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
+| 68 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
+| 69 | [Selective](https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Selective](https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3) | 2:52 |
 | 70 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
 | 71 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [Open Up Your Senses](https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako) | 4:15 |
 | 72 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 |

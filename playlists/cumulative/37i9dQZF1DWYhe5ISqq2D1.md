@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: Jeremy Quartus
 
-1,183 songs - 3 day 2 hr 33 min
+1,184 songs - 3 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [YETI](https://open.spotify.com/track/4TFJVIYjTBFAkQKMsPAEUi) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [YETI](https://open.spotify.com/album/3AYPP1RzPIXUuOG0EN6fAt) | 4:33 | 2024-07-09 | 2024-07-17 |
 | [Yomigaeri \- with 槇原敬之 & 絢香](https://open.spotify.com/track/4TZXfiwGLqW6UMPwda1uAD) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d), [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM), [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Knightclub](https://open.spotify.com/album/5ybZQ4G0UTWCYkFJOM1Ozw) | 3:13 | 2024-08-27 | 2024-09-11 |
 | [Yoru ni Sugatte](https://open.spotify.com/track/4g9sdO5Gst3mwW70UV1C36) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Yoru ni Sugatte](https://open.spotify.com/album/1UGtM5acyccUmrgr0uLceN) | 3:16 | 2025-02-25 | 2025-03-05 |
+| [yorube](https://open.spotify.com/track/1xv2o6xibUtBOXtAD6D3Sj) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [泡沫](https://open.spotify.com/album/0qSEOrPQzE6dgOPpRD5BNF) | 5:18 | 2026-02-11 |  |
 | [YOU](https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [YOU](https://open.spotify.com/album/69rpY1f8pKvaHgFqIXSJdi) | 3:45 | 2026-01-14 |  |
 | [you](https://open.spotify.com/track/74vKTeU9SYikaMZZAAfmXj) | [林 和希](https://open.spotify.com/artist/2QT3HyGIWurcFoP3sbtK6E) | [to](https://open.spotify.com/album/0SqBA1TfurxYxshpTlHVLe) | 5:17 | 2025-11-11 | 2026-02-12 |
 | [You and me](https://open.spotify.com/track/6QFK5ZzaoLau7y8x2pDALP) | [Sundayカミデ](https://open.spotify.com/artist/68gwW3maybvvPRmjHufvgy) | [You and me](https://open.spotify.com/album/0vKY131ELrZ5mj13RVsz4m) | 3:18 | 2025-07-22 | 2025-07-30 |
@@ -676,7 +677,7 @@
 | [アイモライモ \- Aimoraimo](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ \- Aimoraimo](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 | 2024-11-26 | 2025-10-22 |
 | [アイワナ](https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [アイワナ](https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM) | 3:50 | 2024-07-02 | 2024-10-31 |
 | [アクション](https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [アクション](https://open.spotify.com/album/40d2UkPaT4bv8edR0RFiSx) | 2:53 | 2026-02-03 |  |
-| [アズール](https://open.spotify.com/track/7HvOrjNpfqJWH2kDzmPFfy) | [Tomoyuki Nagasawa](https://open.spotify.com/artist/7mlYR5bDCOrTeiTN6J9rnk) | [RAW](https://open.spotify.com/album/4PvVXLfuuyxuQJzWRyBxU6) | 4:55 | 2026-02-11 |  |
+| [アズール](https://open.spotify.com/track/7HvOrjNpfqJWH2kDzmPFfy) | [Tomoyuki Nagasawa](https://open.spotify.com/artist/7mlYR5bDCOrTeiTN6J9rnk) | [RAW](https://open.spotify.com/album/4PvVXLfuuyxuQJzWRyBxU6) | 4:55 | 2026-02-11 | 2026-02-14 |
 | [アットマーク](https://open.spotify.com/track/2d0etH4i903Fg9V2q3SJni) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [アットマーク](https://open.spotify.com/album/6YUOQDhOOqouokTBwFw3hF) | 5:03 | 2025-01-21 | 2025-01-29 |
 | [アニムスヘイブン](https://open.spotify.com/track/7cKoafWOIHW3R3CG7eXWm7) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [アニムスヘイブン](https://open.spotify.com/album/77ycLnkh7FjoJ2k43b4Ybt) | 3:06 | 2026-02-11 |  |
 | [アネモネ](https://open.spotify.com/track/0SB9l1vbYG5A44AJFlmc7J) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [アネモネ](https://open.spotify.com/album/4ZmyxpMBVaajJWiyhweSUv) | 3:17 | 2025-02-25 | 2025-04-23 |

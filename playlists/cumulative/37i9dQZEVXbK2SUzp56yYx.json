@@ -876,7 +876,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 216880,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -10942,7 +10942,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -10978,7 +10978,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/6uZm4IvkJPbETKFOjRhr1c"
@@ -12728,6 +12728,24 @@
       "duration_ms": 154285,
       "name": "left to right",
       "url": "https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ"
+    },
+    {
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/3fZervxrJI13IbbJDp5Gci"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
     },
     {
       "album": {
@@ -16402,7 +16420,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -16420,7 +16438,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -23626,6 +23644,24 @@
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "album": {

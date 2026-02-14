@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,336 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,350 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 19 | [Gale](https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Gale](https://open.spotify.com/album/3EhSBVM5HLJO37J0QRvLsS) | 3:28 |
 | 20 | [George Jones \(ft\. Angela Autumn\)](https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo), [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [George Jones \(ft\. Angela Autumn\)](https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1) | 3:35 |
 | 21 | [loose ends](https://open.spotify.com/track/67OFZ9ebvekdwrNEjdfk9G) | [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [loose ends](https://open.spotify.com/album/4lMssTCGOIWLKD8leuKxgi) | 3:19 |
-| 22 | [\(Me Tomorrow\)](https://open.spotify.com/track/6pGt3J3K2IkAibPJqipCkF) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [\(Me Tomorrow\)](https://open.spotify.com/album/6vWe2PHNscc7llWzzb2FIZ) | 3:16 |
+| 22 | [\(Me Tomorrow\)](https://open.spotify.com/track/6pGt3J3K2IkAibPJqipCkF) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [\(Me Tomorrow\)](https://open.spotify.com/album/6vWe2PHNscc7llWzzb2FIZ) | 3:18 |
 | 23 | [Evergreen In Your Mind](https://open.spotify.com/track/3QjTA3vO39iKdAWk8Igo2Y) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Evergreen In Your Mind](https://open.spotify.com/album/5BvX4R2kpp1PZW8m7zLYe2) | 3:30 |
 | 24 | [the Blade](https://open.spotify.com/track/3xt9FMbT8XKaaz53AaRgXS) | [earth 2 tiffany](https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi) | [the Blade](https://open.spotify.com/album/4rDsRmHSnMeSo8NbRWKR9l) | 2:47 |
 | 25 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 |

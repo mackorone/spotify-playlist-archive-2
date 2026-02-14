@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 439153,
+  "num_followers": 439098,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Pegada Que Desgrama",
+        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        }
+      ],
+      "duration_ms": 182368,
+      "name": "Pegada Que Desgrama",
+      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Pegada Que Desgrama",
-        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 182368,
-      "name": "Pegada Que Desgrama",
-      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Ep do Esticado",
+        "url": "https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG"
+      },
+      "artists": [
+        {
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Contr\u00e1rio",
+      "url": "https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
         "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 191161,
       "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
       "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Ep do Esticado",
-        "url": "https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG"
-      },
-      "artists": [
-        {
-          "name": "Jonas Esticado",
-          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Contr\u00e1rio",
-      "url": "https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2"
     },
     {
       "added_at": "2026-01-16 03:03:24",

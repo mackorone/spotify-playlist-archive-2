@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 54872,
+  "num_followers": 54884,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Fragment",
-        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Winds of Haryana",
         "url": "https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 176106,
       "name": "The Tower of Embellion",
       "url": "https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Fragment",
+        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Traces",
-        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 128333,
-      "name": "Onthou",
-      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 179191,
       "name": "Dawn Dusk Divinity",
       "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Traces",
+        "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 128333,
+      "name": "Onthou",
+      "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Light of The Moon",
-        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
       "artists": [
         {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
         }
       ],
-      "duration_ms": 249818,
-      "name": "Sunrise Glory",
-      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -595,6 +579,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Light of The Moon",
+        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
+      },
+      "artists": [
+        {
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+        }
+      ],
+      "duration_ms": 249818,
+      "name": "Sunrise Glory",
+      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Night Walk",
         "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 140585,
       "name": "Night Walk",
       "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
+      },
+      "artists": [
+        {
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -659,22 +675,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
-      },
-      "artists": [
-        {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
-      },
-      "artists": [
-        {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
-        }
-      ],
-      "duration_ms": 127892,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "More than Close",
         "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 162478,
       "name": "More than Close",
       "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
+      },
+      "artists": [
+        {
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
+        }
+      ],
+      "duration_ms": 127892,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 219716,
-      "name": "Bloom Bliss",
-      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 205000,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 219716,
+      "name": "Bloom Bliss",
+      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
     },
     {
       "added_at": "2021-06-24 10:58:44",

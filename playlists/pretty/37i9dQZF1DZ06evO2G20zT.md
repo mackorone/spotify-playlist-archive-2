@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,786 likes - 48 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,827 likes - 48 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 21 | [Emo \(Remix\)](https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:36 |
 | 22 | [UNIVERSE](https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:22 |
 | 23 | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \- Remix](https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \[Remix\]](https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf) | 3:35 |
-| 24 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
-| 25 | [Hushpuppi](https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:42 |
+| 24 | [Hushpuppi](https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:42 |
+| 25 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
 | 26 | [Superstar](https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NSNV](https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk) | 1:46 |
 | 27 | [Today](https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:37 |
 | 28 | [Different Conversation Live 4](https://open.spotify.com/track/1jPCWBlCOv5ltcQ9NvzoGJ) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Rafat](https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X) | 2:00 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 47 | [All The Time](https://open.spotify.com/track/1dneFQ8dsIs1qqNLZeN7gq) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:23 |
 | 48 | [BD Baby](https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:12 |
 
-Snapshot ID: `aYvGgAAAAAAQcNrI5VBELSASBJQD1GFZ`
+Snapshot ID: `aY0YAAAAAABGzESnIQLu6tij/m04wsQr`

@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212063,
+      "name": "Already Won (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
+    },
+    {
+      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },

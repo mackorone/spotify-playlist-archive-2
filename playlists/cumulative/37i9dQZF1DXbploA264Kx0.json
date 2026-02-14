@@ -4801,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "MONEY RULES 3EVA",
+        "url": "https://open.spotify.com/album/0itH0yBHu2Ezq4VVyIuND4"
+      },
+      "artists": [
+        {
+          "name": "SiNNER MOON",
+          "url": "https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "MONEY RULES 3EVA",
+      "url": "https://open.spotify.com/track/75TjVsnekD1AKqFSYUoxkD"
+    },
+    {
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/436lTIgKHUJdevC1IwFcZa"
       },

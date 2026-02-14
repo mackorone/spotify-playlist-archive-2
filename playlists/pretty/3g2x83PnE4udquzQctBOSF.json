@@ -1,13 +1,45 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2686,
+  "num_followers": 2689,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARXYDBrjgsipj0HiT9k2jzCbG0rbPV",
+  "snapshot_id": "AAARX49pMn7Zjh3XZ5a0kqDuSCLJtTa+",
   "tracks": [
+    {
+      "added_at": "2026-02-13 23:16:06",
+      "album": {
+        "name": "Liberty / Equanimity",
+        "url": "https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4"
+      },
+      "artists": [
+        {
+          "name": "Capitan Anderson",
+          "url": "https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4"
+        }
+      ],
+      "duration_ms": 324375,
+      "name": "Equanimity",
+      "url": "https://open.spotify.com/track/44oUkdfEIFooTA4jgUgsKw"
+    },
+    {
+      "added_at": "2026-02-13 10:06:40",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6rv7y59UepgglmNayh3loz"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        }
+      ],
+      "duration_ms": 252904,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/65Ocj27t9rYgRuBgdjHITg"
+    },
     {
       "added_at": "2026-02-11 10:08:57",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 498105,
+  "num_followers": 498112,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,30 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
       },
@@ -191,30 +215,6 @@
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "COMO UN BEB\u00c9",
-      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "LATINA FOREVA",
         "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 159452,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "DYNAMITE",
         "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 177011,
       "name": "DYNAMITE",
       "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Baddies",
         "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
       },
@@ -1583,18 +1599,22 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3jPPxi0ijDeVLGFwoTn3R2"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
         }
       ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+      "duration_ms": 123822,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1679,42 +1699,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Sal Gason",
-        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
-      },
-      "artists": [
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 138897,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3jPPxi0ijDeVLGFwoTn3R2"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        }
-      ],
-      "duration_ms": 123822,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "B. D\u2019OR (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Sal Gason",
+        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
+      },
+      "artists": [
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 138897,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1807,22 +1807,18 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Basshall Party",
-        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc"
       },
       "artists": [
         {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 123647,
-      "name": "Basshall Party",
-      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
+      "duration_ms": 151498,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1843,18 +1839,22 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc"
+        "name": "Basshall Party",
+        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
         }
       ],
-      "duration_ms": 151498,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt"
+      "duration_ms": 123647,
+      "name": "Basshall Party",
+      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Tigini (Remix)",
-        "url": "https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp"
-      },
-      "artists": [
-        {
-          "name": "Kikimoteleba",
-          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 196033,
-      "name": "Tigini - Remix",
-      "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "So Distant (feat. Tayc)",
         "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 174059,
       "name": "So Distant (feat. Tayc)",
       "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Tigini (Remix)",
+        "url": "https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp"
+      },
+      "artists": [
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 196033,
+      "name": "Tigini - Remix",
+      "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Vitamine",
         "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
       },
@@ -2779,6 +2763,22 @@
       "duration_ms": 154772,
       "name": "Vitamine (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
     },
     {
       "added_at": "2026-02-12 23:00:35",

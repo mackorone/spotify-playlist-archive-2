@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Tyla
 
-1,390 songs - 3 day 0 hr 2 min
+1,391 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD) | 3:13 | 2024-11-22 | 2026-01-15 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-01-20 | 2023-06-10 |
 | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) | 2:55 | 2020-10-13\* | 2020-11-13 |
-| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-21 |  |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-21 | 2026-02-14 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2022-12-09 | 2023-09-09 |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-20 | 2025-05-31 |
 | [Bad Bitch](https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Bad Bitch](https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ) | 2:57 | 2023-09-15 | 2023-10-24 |
@@ -553,6 +553,7 @@
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-17 | 2023-03-04 |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2021-01-12 | 2021-03-19 |
 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 | 2023-03-10 | 2023-04-09 |
+| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-13 |  |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 | 2022-05-20 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-03 | 2024-04-06 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib) | 3:47 | 2024-05-31 | 2024-12-07 |

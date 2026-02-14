@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Pat Metheny
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,745 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,752 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 11 | [Soul Kiss](https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu), [Vincent Segal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Nuit parisienne à La Havane](https://open.spotify.com/album/2SBHQRGi2rN8FysbZX5ijA) | 4:10 |
 | 12 | [Gun Shy](https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0) | [The James Hunter Six](https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp) | [Off The Fence](https://open.spotify.com/album/3pnF8uSu69bKR2CJ5irJNG) | 2:54 |
 | 13 | [You Love Her \- Solo Version](https://open.spotify.com/track/2PUYcjSQxY21GOhjR3H2GF) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [PHENOMENAL WOMEN \(DELUXE EDITION\)](https://open.spotify.com/album/5JTcLjG8jpk8bW2WY3pUaD) | 4:23 |
-| 14 | [Lost in the Stars](https://open.spotify.com/track/239or9BOCzbRCPI9pJFqFo) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS) | [](https://open.spotify.com/album/null) | 7:09 |
+| 14 | [Lost in the Stars](https://open.spotify.com/track/239or9BOCzbRCPI9pJFqFo) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS) | [Love of My Life](https://open.spotify.com/album/7t9fTxixMaoq4lVPI12m8R) | 7:09 |
 | 15 | [One Wonders Why \- deluxe bonus track](https://open.spotify.com/track/1dhHKhItoJoBPe4ewDdTjj) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [West of Broadway \(Deluxe Edition\)](https://open.spotify.com/album/3Pu7oGvOi4CoTnSUQqLlrZ) | 3:23 |
 | 16 | [AMISTAD](https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC) | [VEEKO](https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [HOUSE OF BIRDS](https://open.spotify.com/album/62OfSUbBm4t5ootwPrYHQI) | 3:05 |
 | 17 | [Jam](https://open.spotify.com/track/5ZhePA1oduKtO16Klcp8AU) | [Adrien Soleiman](https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e) | [BelleJazzClub \(Vol\. 2\)](https://open.spotify.com/album/13sp1OTugkv3S0ofb1B7X6) | 5:29 |

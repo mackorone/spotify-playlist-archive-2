@@ -4,7 +4,7 @@
 
 > Release the bats..\. The Cure on cover.
 
-305 songs - 22 hr 49 min
+306 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 | 2021-10-15 |  |
 | [Don't Cling To Life](https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t) | 2:26 | 2024-10-24 |  |
 | [Double Dare](https://open.spotify.com/track/5p2cYrF8OIGKfFNbybJDyn) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 4:54 | 2021-10-15 | 2022-07-29 |
+| [Dream Drowning](https://open.spotify.com/track/0P9EkYlfknFPm5StsE9wZV) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Dream Drowning](https://open.spotify.com/album/6m1m6TgRI1yJe4Ntjewm4X) | 5:48 | 2026-02-13 |  |
 | [Dulcinea](https://open.spotify.com/track/7rEwtTHRyIab2G7vzGXWg5) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [As One Aflame Laid Bare By Desire \(Deluxe Edition\)](https://open.spotify.com/album/28RYjaEUybwEqOwmK8VPi5) | 6:15 | 2021-10-15 | 2022-07-27 |
 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 | 2021-10-15 | 2024-04-19 |
 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 | 2021-10-15 | 2023-09-02 |
@@ -181,7 +182,7 @@
 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 | 2021-10-15 | 2024-04-19 |
 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 | 2021-10-15 |  |
 | [Mr Clarinet](https://open.spotify.com/track/2zNjck6Vtrfn6rLqlSjVij) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Hee Haw](https://open.spotify.com/album/6ospyfDSkoyS7wrBIpzN38) | 3:43 | 2021-10-15 | 2022-07-29 |
-| [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 | 2022-08-09 |  |
+| [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 | 2022-08-09 | 2026-02-14 |
 | [Nag, Nag, Nag](https://open.spotify.com/track/5KwcUvb8PYj690XQ5K06ld) | [Cabaret Voltaire](https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe) | [The Living Legends](https://open.spotify.com/album/2GStT6GQ5HtjeZcCQJWdYh) | 4:41 | 2021-10-15 | 2022-04-17 |
 | [New Liberty](https://open.spotify.com/track/1aPmHyd7NDfugpIzgZ3Opx) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Fuse](https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw) | 3:08 | 2024-08-19 | 2024-11-13 |
 | [Nick The Stripper](https://open.spotify.com/track/5Oxdn1XWn1Gvreq0aTLNh8) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 3:54 | 2021-10-15 | 2022-04-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con La Obsesi\u00f3n Factory.",
+  "description": "Perreando toda la noche con Capo, Gabito Ballesteros y Esteban Gonz\u00e1lez.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -2289,6 +2289,32 @@
     },
     {
       "album": {
+        "name": "BAYAM\u00d3N",
+        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Esteban Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "BAYAM\u00d3N",
+      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
+    },
+    {
+      "album": {
         "name": "Bbsita",
         "url": "https://open.spotify.com/album/5okTnA5DUdqOZJYXN3jfh6"
       },
@@ -4079,6 +4105,28 @@
     },
     {
       "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199456,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
+    },
+    {
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -5460,7 +5508,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 183494,
       "name": "D U R O",
       "url": "https://open.spotify.com/track/713U89JR8j30nXdf1q0WaG"
@@ -8052,7 +8100,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 193636,
       "name": "FELINASS",
       "url": "https://open.spotify.com/track/7m1Q6d6wr5NACufqR3Zuvz"
@@ -10344,6 +10392,24 @@
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
+    },
+    {
+      "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/7sIyqmQbQvxbaxwCnVmyxc"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179961,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/4Ugoqo1LPBfnLeQ46QLYTt"
     },
     {
       "album": {
@@ -14901,6 +14967,32 @@
     },
     {
       "album": {
+        "name": "No Pa La Tele",
+        "url": "https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "No Pa La Tele",
+      "url": "https://open.spotify.com/track/2eEkKJCR24ixf0fuzOLGtY"
+    },
+    {
+      "album": {
         "name": "NO PARE",
         "url": "https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8"
       },
@@ -16394,7 +16486,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 189456,
       "name": "Parcerita",
       "url": "https://open.spotify.com/track/2olKPRAI0tMpD3ybzzq0YO"
@@ -19528,7 +19620,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 128707,
       "name": "RIKISHI (feat. DJ Acres)",
       "url": "https://open.spotify.com/track/2KfxS54dSBHFvm7vo9OvMN"

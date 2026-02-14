@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: FOLA
 
-199 songs - 10 hr 15 min
+200 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 | 2024-10-21 |  |
 | [RMF](https://open.spotify.com/track/4HRjfapwFUga07NJr0Q4l6) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:58 | 2024-10-21 | 2025-03-15 |
 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 | 2025-04-29 | 2026-01-15 |
+| [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 | 2026-02-13 |  |
 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-06-09 |  |
 | [Shaken](https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Shaken](https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF) | 3:33 | 2024-10-21 | 2025-03-15 |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-03-14 |  |

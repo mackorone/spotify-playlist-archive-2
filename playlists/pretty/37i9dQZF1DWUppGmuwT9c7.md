@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,399 likes - 102 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,526 likes - 102 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 7 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 |
 | 8 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 |
 | 9 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 |
-| 10 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
-| 11 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 |
-| 12 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
-| 13 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 |
-| 14 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 |
-| 15 | [Zin In Jou](https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zin In Jou](https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37) | 3:58 |
+| 10 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
+| 11 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
+| 12 | [Zin In Jou](https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zin In Jou](https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37) | 3:58 |
+| 13 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 |
+| 14 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 |
+| 15 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 |
 | 16 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 |
 | 17 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 |
 | 18 | [Zij komt van het kamp](https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zij komt van het kamp](https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5) | 2:28 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 101 | [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 |
 | 102 | [Drink Rode Wijn \- Feestmix](https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn \(Feestmix\)](https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9) | 2:54 |
 
-Snapshot ID: `AAAAAPfSji4DbHR5f2en9Ly8mp3d08hw`
+Snapshot ID: `AAAAAHxvotS2LCQkQ0Zytg6+fRoAFqKb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,738 likes - 46 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,742 likes - 46 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 20 | [Cabeza de Escorpión](https://open.spotify.com/track/480xl7fiKixUIIoKAxm8cJ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:15 |
 | 21 | [Piedras de fuego](https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:47 |
 | 22 | [Para Siempre](https://open.spotify.com/track/4JraKl6IxiWgaGvTl8K7uK) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 4:18 |
-| 23 | [Partido en Dos](https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 4:22 |
+| 23 | [Adios](https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:53 |
 | 24 | [Esperar](https://open.spotify.com/track/1Wa76EGZZgRuCV2tnDJ01B) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:16 |
 | 25 | [Cuando la vida se vuelve real](https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:04 |
 | 26 | [Perdóname](https://open.spotify.com/track/7MdMyVXQ3FVprk7htpv11E) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:47 |
-| 27 | [Adios](https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:53 |
+| 27 | [Partido en Dos](https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 4:22 |
 | 28 | [Mar de nubes](https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:04 |
 | 29 | [Sufriendo de más](https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:53 |
 | 30 | [Yo Lloraré Por Ti](https://open.spotify.com/track/4n01Y1FkuhXPRFnbP9YOjV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:50 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 45 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w) | 4:00 |
 | 46 | [Respeta el Flow](https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn), [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Respeta el Flow](https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw) | 2:41 |
 
-Snapshot ID: `aYvGgAAAAAAZICXLwS26DugfVswSDjHp`
+Snapshot ID: `aY0YAAAAAADEWQ4pzzBrL4Yg57+I8Ld6`

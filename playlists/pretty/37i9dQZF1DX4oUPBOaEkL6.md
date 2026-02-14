@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 > The hottest Latin hits in the US! Cover: Rawayana, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,655,410 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,655,298 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 | 35 | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/2ickiFDq9U1MKG94SSg30n) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [KARBeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/album/7c6vZUg8HMdXnAtBHUFLT4) | 3:33 |
 | 36 | [ESCONDIDAS](https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ESCONDIDAS](https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0) | 2:53 |
 | 37 | [SIN TI](https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [SIN TI](https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4) | 2:40 |
-| 38 | [Modelo V](https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Modelo V](https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd) | 3:10 |
+| 38 | [MODELO V](https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [MODELO V](https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd) | 3:10 |
 | 39 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 40 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
 | 41 | [CONTRABANDO](https://open.spotify.com/track/62FtHEBSGUQ5U1rYZEIbmt) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [CONTRABANDO](https://open.spotify.com/album/7jGeYwKqf00jKdTeYNj4So) | 2:55 |

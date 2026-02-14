@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 228593,
       "name": "8TEEN",
       "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
@@ -7086,7 +7086,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -8018,6 +8018,24 @@
       "duration_ms": 202573,
       "name": "Lucid Girl",
       "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
+    },
+    {
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "album": {
@@ -8960,7 +8978,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 193376,
       "name": "My Home Is Not In This World",
       "url": "https://open.spotify.com/track/37xTLJJuchzGGjAPUnli2I"

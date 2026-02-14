@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Ratboys",
+  "description": "A new shade of Country. Cover: Boy Golden",
   "name": "Indigo",
   "tracks": [
     {
@@ -898,7 +898,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 253800,
       "name": "American Made",
       "url": "https://open.spotify.com/track/1G86JArfdkMYDeDybfCAdH"
@@ -1224,6 +1224,24 @@
       "duration_ms": 237600,
       "name": "Beneath Oak Trees",
       "url": "https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW"
+    },
+    {
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     },
     {
       "album": {
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 285466,
       "name": "Eatin' Big Time",
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
@@ -5253,6 +5271,24 @@
     },
     {
       "album": {
+        "name": "Hell Without the Flames",
+        "url": "https://open.spotify.com/album/3CHqTfghJ5CAjEPUBtsIDx"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153695,
+      "name": "Hell Without the Flames",
+      "url": "https://open.spotify.com/track/72GVljzrfY9QON2StU9onh"
+    },
+    {
+      "album": {
         "name": "The Light Saw Me",
         "url": "https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE"
       },
@@ -6757,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "Keep My Mind Off You (Acoustic)",
+        "url": "https://open.spotify.com/album/5dEqgctyd3S8sQuYnRYOfy"
+      },
+      "artists": [
+        {
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "Keep My Mind Off You - Acoustic",
+      "url": "https://open.spotify.com/track/7aN2uLp7ZAcKfUEfj5VgzZ"
+    },
+    {
+      "album": {
         "name": "And You Are Me",
         "url": "https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo"
       },
@@ -6952,6 +7006,24 @@
       "duration_ms": 232226,
       "name": "Leave Those Memories Alone",
       "url": "https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg"
+    },
+    {
+      "album": {
+        "name": "Sin & Squalor",
+        "url": "https://open.spotify.com/album/2VN26a6OZ8bIDacwlpkq5S"
+      },
+      "artists": [
+        {
+          "name": "Clay Street Unit",
+          "url": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235146,
+      "name": "Left Unsaid",
+      "url": "https://open.spotify.com/track/2wmFhfdhECfZlbZQiA4YHm"
     },
     {
       "album": {
@@ -9768,7 +9840,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 247240,
       "name": "Rollin\u2019",
       "url": "https://open.spotify.com/track/14nX8eq04Sghl4GmQMhjQm"
@@ -10711,6 +10783,24 @@
     },
     {
       "album": {
+        "name": "State Lines",
+        "url": "https://open.spotify.com/album/5h1EVL0GyA8RtBciygKxeI"
+      },
+      "artists": [
+        {
+          "name": "Colton Bowlin",
+          "url": "https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "State Lines",
+      "url": "https://open.spotify.com/track/5nXkAFX0MLY14tNqc5qxMA"
+    },
+    {
+      "album": {
         "name": "State Of Mind (feat. Margo Price)",
         "url": "https://open.spotify.com/album/2SPR1ILQhgDjoSw1j92uMo"
       },
@@ -11334,7 +11424,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 334133,
       "name": "That's My DJ",
       "url": "https://open.spotify.com/track/5UYrXqoasfJSq2lpuDK5Qp"
@@ -13460,7 +13550,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 215280,
       "name": "Yearnin\u2019 For You",
       "url": "https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC"

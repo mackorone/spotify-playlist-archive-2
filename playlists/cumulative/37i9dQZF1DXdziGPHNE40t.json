@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 220009,
       "name": "Did you dream too",
       "url": "https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq"
@@ -9376,7 +9376,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221313,
       "name": "She Will See",
       "url": "https://open.spotify.com/track/0s0AhYDW4jPHJJhDRAtFEx"
@@ -10210,6 +10210,24 @@
       "duration_ms": 190558,
       "name": "Spring Feelings",
       "url": "https://open.spotify.com/track/2ljRjL6yNdeBPVityJweAU"
+    },
+    {
+      "album": {
+        "name": "Spring Into Summer",
+        "url": "https://open.spotify.com/album/0BwYFXtc4ZJrDkSN3PCqcS"
+      },
+      "artists": [
+        {
+          "name": "The Soft Geometry",
+          "url": "https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162991,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/7GNH7oxM6xq3WljPf92P9U"
     },
     {
       "album": {
@@ -11074,6 +11092,24 @@
       "duration_ms": 215000,
       "name": "The Lights",
       "url": "https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa"
+    },
+    {
+      "album": {
+        "name": "The Look She Gave",
+        "url": "https://open.spotify.com/album/5emyD7WQU8robNP8DwcPdE"
+      },
+      "artists": [
+        {
+          "name": "Jorge Brown",
+          "url": "https://open.spotify.com/artist/1llGWDEtaKOvifVQUCgpG4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253961,
+      "name": "The Look She Gave",
+      "url": "https://open.spotify.com/track/2bgTQy0c8wsPIEdynbayN8"
     },
     {
       "album": {

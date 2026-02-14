@@ -12685,6 +12685,24 @@
     },
     {
       "album": {
+        "name": "Nessuno qui \u00e9 chi dovrebbe essere",
+        "url": "https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160745,
+      "name": "Nessuno qui \u00e9 chi dovrebbe essere",
+      "url": "https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW"
+    },
+    {
+      "album": {
         "name": "Questa casa \u00e8 un albergo",
         "url": "https://open.spotify.com/album/5muiXBIZxmYvjgyq85pgtz"
       },
@@ -19596,6 +19614,28 @@
       "duration_ms": 181500,
       "name": "Ti perdono di tutto (a la playa)",
       "url": "https://open.spotify.com/track/1rFJWfWeR3m6aOPM6ECFGC"
+    },
+    {
+      "album": {
+        "name": "ti prego non piangere",
+        "url": "https://open.spotify.com/album/4hUpEROffCaxLIy3C201Pw"
+      },
+      "artists": [
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "ti prego non piangere",
+      "url": "https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB"
     },
     {
       "album": {

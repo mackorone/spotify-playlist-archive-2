@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Coco K\)
 
-287 songs - 16 hr 17 min
+288 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Lose You](https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Lose You](https://open.spotify.com/album/7JA5UFGSEQVPlU9yXnZwWw) | 2:37 | 2024-04-05 | 2024-09-25 |
 | [Love](https://open.spotify.com/track/4gnZKUQtXzldlD9DrsobBu) | [DUE](https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m) | [Love](https://open.spotify.com/album/3vxt1CGDkDtZOgSkfPqkw4) | 2:20 | 2024-06-28 | 2024-09-22 |
 | [Love Eternally \(feat\. JUNNY\)](https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe) | [Advanced](https://open.spotify.com/artist/4tux3ya8LhUBgGoXfXsocl), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Love Eternally \(feat\. JUNNY\)](https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH) | 3:57 | 2025-10-23 |  |
+| [Lowkey \(feat\. Lee Ba Da\)](https://open.spotify.com/track/0WSTRuSHlqji3GItjWDOeN) | [Klozer](https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lowkey \(feat\. Lee Ba Da\)](https://open.spotify.com/album/6Zixfi2chqy7t0VhRwmQpv) | 2:38 | 2026-02-13 |  |
 | [Lucky Star](https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Lucky Star](https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR) | 2:42 | 2025-10-29 |  |
 | [Make A Wish \(Birthday Song\) \- Wuki Remix](https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 3:14 | 2024-04-05 |  |
 | [Matrix](https://open.spotify.com/track/0pq1uP0bcw4LjkHIVUGpQD) | [CHOIYUDAM](https://open.spotify.com/artist/5ZxJkaRLQ6nN49PpNNxpbQ) | [NEO](https://open.spotify.com/album/0lKlR6X16nIC1oN2Auuk9g) | 2:11 | 2024-05-23 | 2024-06-29 |
@@ -217,7 +218,7 @@
 | [Queendom \- Demicat Remix](https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.11 : Queendom Remix](https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw) | 3:14 | 2024-04-05 |  |
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2024-04-05 |  |
 | [Re: searchlight](https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Re: searchlight](https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ) | 5:10 | 2024-06-28 |  |
-| [Red Flavor \- Mar Vista Remix](https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [MAR VISTA](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.25 : Red Flavor Remix](https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn) | 3:36 | 2024-04-05 |  |
+| [Red Flavor \- Mar Vista Remix](https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [MAR VISTA](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.25 : Red Flavor Remix](https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn) | 3:36 | 2024-04-05 | 2026-02-14 |
 | [Rich Man \- Yellow Claw Remix](https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Rich Man \(Remixes\)](https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk) | 3:10 | 2025-09-22 |  |
 | [Ridin' \- IMLAY Remix](https://open.spotify.com/track/2oQmOWx2DCkYm8uKuk5iVG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:34 | 2024-04-05 | 2024-06-29 |
 | [Ridin' \- Will Not Fear Remix](https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:00 | 2024-04-05 | 2025-09-23 |
@@ -294,6 +295,6 @@
 | [Your Face](https://open.spotify.com/track/4I0iEpmX812wvEbv2l0q96) | [Forest Music](https://open.spotify.com/artist/7JDHEXYj47HQeeH2ziOPt8) | [Your Face](https://open.spotify.com/album/5yM1envtfaw7hfcIj8gLjT) | 2:39 | 2024-08-10 | 2024-08-15 |
 | [가시권 \(Heart Raider\) \(Inst.\)](https://open.spotify.com/track/5biUKJ4FpDlaFaUBffcX5T) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [4study4work4inst Vol.2](https://open.spotify.com/album/5bLmEt6fMUTRAZGfZDtmzu) | 2:59 | 2025-02-11 | 2025-10-15 |
 | [넘버 원 // NUMMER ETT Part 2 \- Effie & Eurohead Remix](https://open.spotify.com/track/217pG31hswPFS8zFo2KONE) | [Dj Billybool](https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [넘버 원 // NUMMER ETT Part 2 \(Effie & Eurohead Remix\)](https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN) | 3:06 | 2026-01-23 |  |
-| [희 \(love type shit\)](https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [audiogothh](https://open.spotify.com/artist/1WJKWpQ5iEZoCZAKVTZjMM) | [희 / 노 / 애 / 락](https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf) | 2:30 | 2026-01-23 |  |
+| [희 \(love type shit\)](https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [audiogothh](https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR) | [희 / 노 / 애 / 락](https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf) | 2:30 | 2026-01-23 |  |
 
 \*This playlist was first scraped on 2024-04-06. Prior content cannot be recovered.

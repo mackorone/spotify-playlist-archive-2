@@ -4,7 +4,7 @@
 
 > The latest of R&B rising in the UK\. Cover: Tia Gordon
 
-550 songs - 1 day 4 hr 36 min
+551 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2022-07-17 | 2023-07-22 |
 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2023-08-18 | 2023-11-25 |
 | [S2BU](https://open.spotify.com/track/57rmJYWKMa75EM57RE4MlH) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [S2BU](https://open.spotify.com/album/5v5sBtBn1ouX6trgMmuXh3) | 2:47 | 2023-05-15 | 2023-06-02 |
+| [SAFE](https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [SAFE](https://open.spotify.com/album/0Xg7mjikHBTIdeaH8Te4OV) | 3:33 | 2026-02-13 |  |
 | [same ole](https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [kintsugi](https://open.spotify.com/album/2COdDiiRXsmxJ1L3dOANd0) | 2:37 | 2025-09-25 |  |
 | [sauna](https://open.spotify.com/track/1IzaYVea9wm69Tby8ekGSD) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 1:54 | 2025-04-25 |  |
 | [Saving All My Love](https://open.spotify.com/track/5vijUtaUAzI4vIl2ZrIBAN) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Saving All My Love](https://open.spotify.com/album/6yLqRQrxvAfVqiwC0ltBrq) | 2:24 | 2024-09-20 | 2024-10-01 |

@@ -4,7 +4,7 @@
 
 > A softer space.
 
-107 songs - 6 hr 30 min
+108 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 | 2024-05-31 |  |
 | [JUPiTER](https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 4:00 | 2024-10-10 |  |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-08-29 |  |
-| [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 | 2024-05-31 |  |
+| [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 | 2024-05-31 | 2026-02-14 |
 | [Loneliness on the run](https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:39 | 2024-05-31 |  |
 | [Love Me In Chapters](https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Love Me In Chapters](https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF) | 3:36 | 2024-05-31 |  |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2024-05-31 |  |
@@ -82,6 +82,7 @@
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-10-10 |  |
 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2024-05-31 |  |
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2024-05-31 |  |
+| [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 | 2024-10-10 |  |
 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 | 2024-05-31 |  |
 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 | 2024-05-31 |  |
 | [Shiver](https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To](https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h) | 3:53 | 2024-05-31 |  |

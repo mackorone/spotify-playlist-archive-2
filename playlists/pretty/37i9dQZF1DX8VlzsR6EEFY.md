@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Mala Maña y Valen en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,658 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,675 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 8 | [Déjame Entender](https://open.spotify.com/track/3RGpIuoduzZvJRK1N60wVV) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Déjame Entender](https://open.spotify.com/album/0JAELe9FSSHY3olbrlKZCW) | 3:52 |
 | 9 | [Dejame Dormir](https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Dejame Dormir](https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh) | 2:40 |
 | 10 | [Vamos Empezando](https://open.spotify.com/track/2oHLFiokInTqoT9eNHdJXK) | [Osscar Torres](https://open.spotify.com/artist/5On5rfwAI9b3Xzn7Pta4Kw) | [Next Level](https://open.spotify.com/album/1vcNKNHsOB8BOvoie4mhdw) | 2:07 |
-| 11 | [Se Nos Hizo Tarde](https://open.spotify.com/track/1WnkxaxenrjtWci0F7PrmR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Se Nos Hizo Tarde](https://open.spotify.com/album/0aEI9TCs8ouWNEnkuqZ4YH) | 3:20 |
+| 11 | [SE NOS HIZO TARDE](https://open.spotify.com/track/1WnkxaxenrjtWci0F7PrmR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [SE NOS HIZO TARDE](https://open.spotify.com/album/0aEI9TCs8ouWNEnkuqZ4YH) | 3:20 |
 | 12 | [A Una Almohada](https://open.spotify.com/track/0RuWcGYtKhFKsitbe7skfq) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [A Una Almohada](https://open.spotify.com/album/0diCMyncFGPDDkqq9zbWAV) | 2:54 |
 | 13 | [TODO PENDEJO](https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [TODO PENDEJO](https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK) | 3:10 |
 | 14 | [La Que Me Bateaba](https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Que Me Bateaba](https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn) | 2:04 |

@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 330673,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 104000,
       "name": "Earth Loop",
       "url": "https://open.spotify.com/track/2JSld8pCWOocc1SHrIzH2F"
@@ -5174,6 +5174,28 @@
       "duration_ms": 253022,
       "name": "I Gave Up My Body",
       "url": "https://open.spotify.com/track/4DfJTBAiRDEdO0gUq34hn7"
+    },
+    {
+      "album": {
+        "name": "i hope this is love",
+        "url": "https://open.spotify.com/album/1ffF9Y7f8t7SbQvMcIgjCG"
+      },
+      "artists": [
+        {
+          "name": "Swaya",
+          "url": "https://open.spotify.com/artist/5Su7Ukl74hlC322uKc59zB"
+        },
+        {
+          "name": "Jetty",
+          "url": "https://open.spotify.com/artist/5RlHGBLFMYVAF5P87KTx2f"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "i hope this is love",
+      "url": "https://open.spotify.com/track/3OFyCqT6cr3PTCpVAIasgh"
     },
     {
       "album": {
@@ -10408,6 +10430,24 @@
       "duration_ms": 221199,
       "name": "Trying",
       "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
+    },
+    {
+      "album": {
+        "name": "Cardware",
+        "url": "https://open.spotify.com/album/2TEF8MO0nA2HKJNsRQJz2j"
+      },
+      "artists": [
+        {
+          "name": "Mofw",
+          "url": "https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184922,
+      "name": "Un pomeriggio di sole mi sono accorto che stavo correndo",
+      "url": "https://open.spotify.com/track/6G53tWdq2h3EMVjNuGXRz8"
     },
     {
       "album": {

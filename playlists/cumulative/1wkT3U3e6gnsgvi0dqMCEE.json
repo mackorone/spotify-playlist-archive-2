@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Out Of The Woods",
+        "url": "https://open.spotify.com/album/5zlHDoL8vOhQcWogBIdi1j"
+      },
+      "artists": [
+        {
+          "name": "David Wilcox",
+          "url": "https://open.spotify.com/artist/7fgfsHZN3MNBU7Bwp3VHkM"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "Do The Bearcat",
+      "url": "https://open.spotify.com/track/3W7mpR6e7bBp0T9F6AzyiN"
+    },
+    {
+      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -4929,6 +4947,36 @@
     },
     {
       "album": {
+        "name": "Sex Machine (Remixes)",
+        "url": "https://open.spotify.com/album/1HAiGubsCZAHqVvyFRwsZK"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Redux Saints",
+          "url": "https://open.spotify.com/artist/55RaZUiEA2LgfoBxw1a7f0"
+        },
+        {
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/4h4g0t6p3LHIcskJDkw5WJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Sex Machine - Laidback Luke Remix",
+      "url": "https://open.spotify.com/track/49Ojfcgba5xyfArKsM0TcZ"
+    },
+    {
+      "album": {
         "name": "Shades Of A Blue Orphanage (Acoustic Version)",
         "url": "https://open.spotify.com/album/6wfmN0WUcwBZjj7r7qtzW8"
       },
@@ -5186,6 +5234,28 @@
       "duration_ms": 463968,
       "name": "Someone Saved My Life Tonight - Captain Fantastic Live / 2005",
       "url": "https://open.spotify.com/track/0AZOzB8mMGS2Gsu6CMn7Hw"
+    },
+    {
+      "album": {
+        "name": "Somethin\u2019 Stupid (with Josh Homme) (From \"Norah Jones is Playing Along\" Podcast)",
+        "url": "https://open.spotify.com/album/3KR1M0yTMLF1bcTSkx3dbF"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Josh Homme",
+          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180070,
+      "name": "Somethin\u2019 Stupid (with Josh Homme) (From \"Norah Jones is Playing Along\" Podcast)",
+      "url": "https://open.spotify.com/track/2FGI98076FYdiO7AnBTbQQ"
     },
     {
       "album": {

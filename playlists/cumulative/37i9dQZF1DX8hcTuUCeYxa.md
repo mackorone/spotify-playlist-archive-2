@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: James Blake
 
-2,473 songs - 5 day 21 hr 57 min
+2,473 songs - 5 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 | 2024-10-31 | 2024-11-29 |
 | [Amor](https://open.spotify.com/track/7CYZzojVucOPfDfzzp6iRk) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Amor](https://open.spotify.com/album/56NewKeTEZ6zG9DJAvYGbe) | 3:01 | 2025-08-07 | 2025-08-22 |
 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 | 2025-01-10 |
+| [Amsterdam \- After Hours](https://open.spotify.com/track/41T7ARBtuDURVTOVuQosBV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Incidental Contact \(After Hours\)](https://open.spotify.com/album/73i6AGPMHzWXJy85ECNTNk) | 3:48 | 2026-02-12 |  |
 | [Amy](https://open.spotify.com/track/6gsNzOD2RFhY7VQwJvqg9c) | [The Usual Boys](https://open.spotify.com/artist/1KXoXFPP4th1jgFXBccCff) | [Amy](https://open.spotify.com/album/4k8E305Pl2N93pgJCik0kl) | 3:56 | 2025-03-13 | 2025-03-21 |
 | [An Act of Romance](https://open.spotify.com/track/091nBhM9bW04UsOnanXucd) | [Anna Wydra](https://open.spotify.com/artist/1KPslttsLzdof3L6ud4prw) | [An Act of Romance](https://open.spotify.com/album/7yozMM8un5rvsHqfXl8MNH) | 4:16 | 2025-07-10 | 2025-08-09 |
 | [An einem Kirschbaum in einem Sommer](https://open.spotify.com/track/0KNEl7ujXbahZgni0sSSDB) | [Das Paradies](https://open.spotify.com/artist/5wYcbpyGZGlUOiNpbLWZTo) | [An einem Kirschbaum in einem Sommer](https://open.spotify.com/album/7mk5zb0RKt3JWnAD29244H) | 3:08 | 2025-05-15 | 2025-06-06 |
@@ -224,7 +225,7 @@
 | [Be Like A Spider \- She Said](https://open.spotify.com/track/5MfsyPzZkcWHKTiPMSw1b5) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [TO ALL THE LOST SOULS](https://open.spotify.com/album/1rtS4ZXUT58JHbA3ekCEFS) | 6:06 | 2024-11-28 | 2024-12-06 |
 | [Be Like the Water](https://open.spotify.com/track/24BJoWF10bBVsZe0nCq2nj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Be Like the Water](https://open.spotify.com/album/3Ui1DGq4U950bwjj6tR1kv) | 3:28 | 2025-07-10 | 2025-08-09 |
 | [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 | 2025-02-27 | 2025-03-28 |
-| [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [](https://open.spotify.com/album/null) | 5:33 | 2026-02-12 |  |
+| [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 | 2026-02-12 |  |
 | [Be The Way You Are](https://open.spotify.com/track/1Tfkilg8y7RAG8vS6OPBOF) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Temps de Flors](https://open.spotify.com/album/0iFD8mQOP0wJAiyWfEy9cZ) | 2:52 | 2024-09-05 | 2024-09-20 |
 | [beach in january](https://open.spotify.com/track/7jxMTtsjYY7qBWc935LxXn) | [DOTE](https://open.spotify.com/artist/0OxUICX98hef3SYXRXZUNi) | [beach in january](https://open.spotify.com/album/2p3gN4oTFnLNliPBtxzCo4) | 2:52 | 2025-04-17 | 2025-05-09 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2024-09-06 |
@@ -287,6 +288,7 @@
 | [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 | 2026-01-08 | 2026-02-06 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-09-20 |
 | [bloom](https://open.spotify.com/track/1e7ljT2FBvsNxUPH3t5IR2) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [bloom](https://open.spotify.com/album/4lRYuKkhM2FWlfCCN7BQ8e) | 2:36 | 2024-08-15 | 2024-09-13 |
+| [Bloom](https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Pale Bloom](https://open.spotify.com/album/3UdhGs2R7AyEuzwrLBc0Mb) | 4:20 | 2026-02-12 |  |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-15 | 2025-06-13 |
 | [Blu\-ray Land](https://open.spotify.com/track/3pN0xDYNTRyNzV00aZstIW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Blu\-ray Land](https://open.spotify.com/album/7evtKKnP2phvxaGZexd596) | 3:56 | 2025-03-06 | 2025-03-21 |
 | [Blue](https://open.spotify.com/track/5PeCgekYWQeA6hFOuYVqOb) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Blue](https://open.spotify.com/album/41mwNLaJzgyV7D81K6hQhO) | 3:10 | 2024-11-28 | 2025-01-10 |
@@ -1955,7 +1957,7 @@
 | [spring](https://open.spotify.com/track/7FJP6mlhCqObXC3Tel4kjk) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [spring](https://open.spotify.com/album/26lL4PeAXe9s4agTyBIb6s) | 2:42 | 2025-07-03 | 2025-08-01 |
 | [Square One](https://open.spotify.com/track/4Z2PgAbOS261znlbkp6M4T) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Square One](https://open.spotify.com/album/2gpplpkQfk4si2JdU4TGUI) | 3:00 | 2025-11-13 | 2025-12-19 |
 | [Squish](https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish](https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R) | 3:00 | 2026-01-29 | 2026-02-13 |
-| [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [](https://open.spotify.com/album/null) | 2:09 | 2026-02-12 |  |
+| [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 | 2026-02-12 |  |
 | [STACK UP THE REASONS](https://open.spotify.com/track/4WcGDz2rLPLzkHSy66T7LZ) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [STACK UP THE REASONS](https://open.spotify.com/album/3OEKR9OpwMN7lLdxEzSSxP) | 3:31 | 2026-01-22 | 2026-02-06 |
 | [Stand Near Your Fire](https://open.spotify.com/track/14ykCMSdp2YvTubevC8r9C) | [Albertine Sarges](https://open.spotify.com/artist/1bo2PjIgDEptAlEzxyOIuX) | [Stand Near Your Fire](https://open.spotify.com/album/6GbImHklmcF9Up7RgrpjOD) | 2:23 | 2024-09-05 | 2024-09-13 |
 | [STAND\-UP COMEDY](https://open.spotify.com/track/4VMGXeSR6N1JVyXlK0xWKK) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [STAND\-UP COMEDY](https://open.spotify.com/album/6AXvCc3sqja2vgaR4KQFuv) | 3:55 | 2025-01-16 | 2025-01-31 |
@@ -2233,8 +2235,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 1](https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
-| [Track 2](https://open.spotify.com/track/41T7ARBtuDURVTOVuQosBV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-06-06 |

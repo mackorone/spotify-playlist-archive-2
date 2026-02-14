@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Don Toliver",
-  "num_followers": 506145,
+  "num_followers": 506157,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-10 17:44:32",
       "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2026-02-10 17:44:32",
-      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2026-02-10 17:44:32",
       "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
         }
       ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "added_at": "2026-02-10 17:44:32",
@@ -1035,6 +1019,22 @@
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
+    {
+      "added_at": "2026-02-10 17:44:32",
+      "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2026-02-10 17:44:32",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-02-10 17:44:32",
       "album": {
+        "name": "Insecurities",
+        "url": "https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 127154,
+      "name": "Insecurities",
+      "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
+    },
+    {
+      "added_at": "2026-02-10 17:44:32",
+      "album": {
         "name": "Timeless (Remix)",
         "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 228000,
       "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
       "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
-    },
-    {
-      "added_at": "2026-02-10 17:44:32",
-      "album": {
-        "name": "Insecurities",
-        "url": "https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 127154,
-      "name": "Insecurities",
-      "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
     },
     {
       "added_at": "2026-02-10 17:44:32",
@@ -1755,42 +1755,6 @@
     {
       "added_at": "2026-02-10 17:44:32",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": "2026-02-10 17:44:32",
-      "album": {
-        "name": "Texas Technician",
-        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 126465,
-      "name": "Twisting Fingers (with Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
-    },
-    {
-      "added_at": "2026-02-10 17:44:32",
-      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -1811,6 +1775,22 @@
     {
       "added_at": "2026-02-10 17:44:32",
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": "2026-02-10 17:44:32",
+      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2026-02-10 17:44:32",
+      "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
     },
     {
       "added_at": "2026-02-10 17:44:32",

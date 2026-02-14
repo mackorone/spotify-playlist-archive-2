@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,923 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,025 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 |
 | 2 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 |
 | 3 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 |
-| 4 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea](https://open.spotify.com/artist/4jUG2n9MXExizho5Bz09oN) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 |
+| 4 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 |
 | 5 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4) | 3:38 |
 | 6 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 |
 | 7 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 94 | [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 |
 | 95 | [Take On Me](https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Take On Me](https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw) | 2:26 |
 
-Snapshot ID: `AAAAAGEUYVTUarii9/JXJSSPBwCUqPGf`
+Snapshot ID: `AAAAAHvhoEiuYeqHBcT7wrjvrMDqsMWU`

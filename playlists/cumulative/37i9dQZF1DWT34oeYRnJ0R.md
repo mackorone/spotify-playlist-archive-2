@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Yandel, LATIN MAFIA
 
-748 songs - 1 day 14 hr 52 min
+749 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,8 +430,9 @@
 | [Mentiras](https://open.spotify.com/track/0tHdL4Gvf3Vt4F1gB2PK04) | [Yuma](https://open.spotify.com/artist/0Bsuh3pep7ZxBGmLvX1BoD) | [Mentiras](https://open.spotify.com/album/5tX2lLCnl9ePXI87nd06VY) | 3:21 | 2025-06-13 |  |
 | [Merry Remix](https://open.spotify.com/track/5fEL5j5BeLYP3gmKCH5RoP) | [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Merry Remix](https://open.spotify.com/album/0Lg66u1y0YsFw4O6GkAVzg) | 4:42 | 2024-01-12 | 2025-07-19 |
 | [MI CHIMBITA](https://open.spotify.com/track/0Vx3Z5Lrr7smPKUwrok9xh) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [Private Suite \(Vol\. 4\)](https://open.spotify.com/album/1XSQ56Y0zCG0Aht3EvSHj4) | 6:22 | 2026-01-19 |  |
+| [Mi Corazoncito](https://open.spotify.com/track/5SYelYX3bpSjEiSdDuIap4) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [Mi Corazoncito](https://open.spotify.com/album/2gseYGRzPfiChyHIw8JAmv) | 2:53 | 2026-02-13 |  |
 | [Mi Fanatica](https://open.spotify.com/track/0WrRjLCLiX3ZaTZjyT3KbA) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Foreplay](https://open.spotify.com/album/0Zyin6wtlQoUC3ZSqMbAtT) | 4:04 | 2022-09-06 | 2023-02-25 |
-| [Mi KAMA](https://open.spotify.com/track/1SVTas8nbWcLvz0D8uHvBk) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Mi KAMA](https://open.spotify.com/album/08NlLGUI4aV6yOYfBAk75W) | 3:08 | 2024-12-06 |  |
+| [Mi KAMA](https://open.spotify.com/track/1SVTas8nbWcLvz0D8uHvBk) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Mi KAMA](https://open.spotify.com/album/08NlLGUI4aV6yOYfBAk75W) | 3:08 | 2024-12-06 | 2026-02-14 |
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-04-09 | 2025-03-22 |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-06 |  |
 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 | 2025-04-11 | 2025-09-27 |

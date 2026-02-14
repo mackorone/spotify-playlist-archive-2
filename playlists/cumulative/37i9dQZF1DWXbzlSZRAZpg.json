@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237986,
+      "name": "Hypersonic Missiles",
+      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
+    },
+    {
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"

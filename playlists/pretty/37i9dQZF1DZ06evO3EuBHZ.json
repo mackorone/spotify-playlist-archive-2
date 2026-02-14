@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 16536,
+  "num_followers": 16543,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACheZ2iInVJAG4yc58u5AtO",
+  "snapshot_id": "aY0YAAAAAAC7/gOSUD2C1z5xHyn7VYKs",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Tell Me Baby - Live",
-      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 154373,
       "name": "How Come",
       "url": "https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Tell Me Baby - Live",
+      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Cool Cat",
-        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 160543,
-      "name": "Laugh, Laugh, Laugh",
-      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 169333,
       "name": "Just Like A Dog, Barking Up The Wrong Tree",
       "url": "https://open.spotify.com/track/5kprualteHZKW9pEwrA03O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Cool Cat",
+        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Laugh, Laugh, Laugh",
+      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 181066,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
     },
     {
       "added_at": null,

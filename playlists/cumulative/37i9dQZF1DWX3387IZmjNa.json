@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "a love song for u",
+        "url": "https://open.spotify.com/album/0jFvOV5J2eQhjt68fmBKzy"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100645,
+      "name": "a love song for u",
+      "url": "https://open.spotify.com/track/0qBw4RrX1AajcdVauDv2ED"
+    },
+    {
+      "album": {
         "name": "About Us (with Tay Keith)",
         "url": "https://open.spotify.com/album/4EdovbtOPvKcPOkuk0VZFB"
       },
@@ -758,10 +776,32 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 211758,
       "name": "Acts of Service",
       "url": "https://open.spotify.com/track/0t3Q46Af4syvp0k2pVFIRK"
+    },
+    {
+      "album": {
+        "name": "Addict",
+        "url": "https://open.spotify.com/album/2aUtlGvt2w8EYmOb9zOVJm"
+      },
+      "artists": [
+        {
+          "name": "Lil Twist",
+          "url": "https://open.spotify.com/artist/564gvOqSRcQoYAhaBpTiK2"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213394,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/1zzenAtdKuh6VsRfwzACGf"
     },
     {
       "album": {
@@ -2177,6 +2217,32 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s"
+    },
+    {
+      "album": {
         "name": "Let Me Fly",
         "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
       },
@@ -3120,6 +3186,24 @@
       "duration_ms": 132538,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T"
+    },
+    {
+      "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190986,
+      "name": "Dead to Me",
+      "url": "https://open.spotify.com/track/7e5ViOVPA6LHk6CYSEdg2k"
     },
     {
       "album": {
@@ -5355,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "Sincerely, M Row 2",
+        "url": "https://open.spotify.com/album/0sILxbKQacj05EKT5qAMGO"
+      },
+      "artists": [
+        {
+          "name": "M Row",
+          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117932,
+      "name": "Hanging Up My Jersey",
+      "url": "https://open.spotify.com/track/10AtMm6HRAj1yH3DB1XObo"
+    },
+    {
+      "album": {
         "name": "Superghetto",
         "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
       },
@@ -6768,7 +6870,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 179746,
       "name": "Invest (feat. N3WYRKLA)",
       "url": "https://open.spotify.com/track/0gSJgKcwk0eMUczw6sfdbY"
@@ -6964,7 +7066,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 120972,
       "name": "Just Wanna Talk",
       "url": "https://open.spotify.com/track/7dnDXXvHxVrtVPo0HPWZuv"
@@ -8049,6 +8151,32 @@
     },
     {
       "album": {
+        "name": "Puppy Love 2",
+        "url": "https://open.spotify.com/album/1TRsDUFPrkEkYSUBrgmrK2"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Kingrikox",
+          "url": "https://open.spotify.com/artist/7GQL1SzA8xiUCGR15Evwag"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Love (feat. Kingrikox & Steelz)",
+      "url": "https://open.spotify.com/track/7k5OoA1NpiwBEsbti04AXk"
+    },
+    {
+      "album": {
         "name": "Help Is On The Way (Deluxe)",
         "url": "https://open.spotify.com/album/6AB9OOUQJaPhZWADvpu5ab"
       },
@@ -9089,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "My Boo",
+        "url": "https://open.spotify.com/album/05b2GB7apMtFf3OMgRrsKz"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139810,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/7wePrxULsFmxrynGvzftVT"
+    },
+    {
+      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -9162,7 +9308,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 149760,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/3RykE1WGHbM6eeJe0srVOO"
@@ -10200,7 +10346,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 160461,
       "name": "Options",
       "url": "https://open.spotify.com/track/6v9mfppMGeusTxuauQ4r2P"
@@ -11156,7 +11302,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180000,
       "name": "READY TO LOVE (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1KYTZhmQEXnwzp5TC3jWmQ"
@@ -12393,6 +12539,24 @@
     },
     {
       "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Show Me Something Real",
+      "url": "https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae"
+    },
+    {
+      "album": {
         "name": "Saaheem (A Lu Bit More)",
         "url": "https://open.spotify.com/album/3LALBNNkDv4cEwnUuciMkS"
       },
@@ -13162,6 +13326,28 @@
       "duration_ms": 198891,
       "name": "Stay Beside Me",
       "url": "https://open.spotify.com/track/64EkyDdWDH5AlxMGeIkKmf"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346093,
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
       "album": {
@@ -14022,7 +14208,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182304,
       "name": "tony soprano.",
       "url": "https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs"
@@ -15728,7 +15914,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 152210,
       "name": "Why",
       "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
@@ -15856,7 +16042,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 255866,
       "name": "Wifin' You",
       "url": "https://open.spotify.com/track/5ebn5s4XLubAkFSEFxFXtO"
@@ -16212,7 +16398,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 201028,
       "name": "wyd (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6BeBTdd0bE2rim6FGePOdC"
@@ -16476,6 +16662,24 @@
       "duration_ms": 155881,
       "name": "You know My body (feat. Capella Grey)",
       "url": "https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI"
+    },
+    {
+      "album": {
+        "name": "you special.",
+        "url": "https://open.spotify.com/album/2Z5GBrX3fUMiV5qSHXo3Rt"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128339,
+      "name": "you special.",
+      "url": "https://open.spotify.com/track/1cS3ZLfiJvfZTmnBXO4T9f"
     },
     {
       "album": {

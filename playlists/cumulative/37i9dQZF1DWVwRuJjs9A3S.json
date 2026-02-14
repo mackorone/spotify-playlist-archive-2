@@ -1933,8 +1933,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Klunk",
+        "url": "https://open.spotify.com/album/3UHqvrisWMiefwr9OjnmPM"
       },
       "artists": [
         {
@@ -3098,6 +3098,24 @@
       "duration_ms": 237086,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg"
+    },
+    {
+      "album": {
+        "name": "Chick Flick",
+        "url": "https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi"
+      },
+      "artists": [
+        {
+          "name": "Salmon Cat",
+          "url": "https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Chick Flick",
+      "url": "https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs"
     },
     {
       "album": {

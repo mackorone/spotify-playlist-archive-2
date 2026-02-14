@@ -1,6 +1,6 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111894,
+  "num_followers": 111892,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Bodega",
+        "url": "https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI"
+      },
+      "artists": [
+        {
+          "name": "Guidolain beats",
+          "url": "https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP"
+        },
+        {
+          "name": "m\u00e4dm\u00e4x",
+          "url": "https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Bodega",
+      "url": "https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 148604,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Bodega",
-        "url": "https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI"
-      },
-      "artists": [
-        {
-          "name": "Guidolain beats",
-          "url": "https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP"
-        },
-        {
-          "name": "m\u00e4dm\u00e4x",
-          "url": "https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Bodega",
-      "url": "https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
+      },
+      "artists": [
+        {
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
+        }
+      ],
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "St. Clements",
         "url": "https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 77519,
       "name": "St. Clements",
       "url": "https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
-      },
-      "artists": [
-        {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
-        }
-      ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Surp",
-        "url": "https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83"
-      },
-      "artists": [
-        {
-          "name": "Wavy Naps",
-          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "Surp",
-      "url": "https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 108800,
       "name": "Into the Forest",
       "url": "https://open.spotify.com/track/0iZfjegO4FcdmzhMvk92gA"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Surp",
+        "url": "https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83"
+      },
+      "artists": [
+        {
+          "name": "Wavy Naps",
+          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "Surp",
+      "url": "https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Time Brings Change",
-        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
-      },
-      "artists": [
-        {
-          "name": "C4C",
-          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Lofi Smoke and Pass Out",
-        "url": "https://open.spotify.com/album/5nyNkedLe5CAEED8c2nDyt"
+        "name": "Time Brings Change",
+        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
       },
       "artists": [
         {
-          "name": "Single Friend",
-          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
         }
       ],
-      "duration_ms": 233846,
-      "name": "Lofi Smoke and Pass Out",
-      "url": "https://open.spotify.com/track/6cK2p8SINJhAtZWjljXzqg"
+      "duration_ms": 110000,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1043,6 +1027,22 @@
       "duration_ms": 161041,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Lofi Smoke and Pass Out",
+        "url": "https://open.spotify.com/album/5nyNkedLe5CAEED8c2nDyt"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Lofi Smoke and Pass Out",
+      "url": "https://open.spotify.com/track/6cK2p8SINJhAtZWjljXzqg"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Cerveza",
-        "url": "https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Kamae",
-          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Cerveza",
-      "url": "https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Jacaranda",
         "url": "https://open.spotify.com/album/11KVHT49O592ahjmQ0yjL4"
       },
@@ -1259,6 +1243,26 @@
       "duration_ms": 167489,
       "name": "Jacaranda",
       "url": "https://open.spotify.com/track/6V8p59npenZZ2HaryaII9r"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Spotify Singles (Recorded at Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu"
+      },
+      "artists": [
+        {
+          "name": "Sam Barsh",
+          "url": "https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER"
+        },
+        {
+          "name": "The Deli",
+          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Misty - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT"
     }
   ],
   "unique_name": "Sunset Chill",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 281795,
+  "num_followers": 281860,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Provocame",
-        "url": "https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ"
-      },
-      "artists": [
-        {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Provocame",
-      "url": "https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Provocame",
+        "url": "https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ"
+      },
+      "artists": [
+        {
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Provocame",
+      "url": "https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "Micaela/ El Agua Lulco/ Camaron Pelao - En Vivo",
-      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 178293,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "Micaela/ El Agua Lulco/ Camaron Pelao - En Vivo",
+      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "El wiri wiri",
-        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
-      },
-      "artists": [
-        {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
-        }
-      ],
-      "duration_ms": 158165,
-      "name": "El wiri wiri",
-      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Te Sigo Amando",
         "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 215200,
       "name": "No Hay Problema",
       "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "El wiri wiri",
+        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
+      },
+      "artists": [
+        {
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+        }
+      ],
+      "duration_ms": 158165,
+      "name": "El wiri wiri",
+      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 173378,
       "name": "Es Parte Del Show",
       "url": "https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Peque\u00f1a Y Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Comenzando Nuestra Historia",
         "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 208378,
       "name": "El Mariachi",
       "url": "https://open.spotify.com/track/3WQC9J9dG9gljMpKXacCLL"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Peque\u00f1a Y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 169471,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Con Sangre Ranchera",
         "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
       "artists": [
         {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
         }
       ],
-      "duration_ms": 230471,
-      "name": "La Cuichi",
-      "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1643,6 +1627,22 @@
       "duration_ms": 204337,
       "name": "CARALUNA",
       "url": "https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 230471,
+      "name": "La Cuichi",
+      "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1959,8 +1959,8 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "A Bailar De Caballito",
+        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
       },
       "artists": [
         {
@@ -1968,9 +1968,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+      "duration_ms": 241382,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "El Son Del Tlacololero",
         "url": "https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 289691,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "A Bailar De Caballito",
-        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 241382,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
     },
     {
       "added_at": "2024-11-28 22:59:11",

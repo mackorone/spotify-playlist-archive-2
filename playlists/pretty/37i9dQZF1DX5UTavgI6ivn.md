@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' recordar a Yeison Jimenez 🕊️ Made in Colombia\. Foto: Yeison Jimenez y Maluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,006 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,049 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

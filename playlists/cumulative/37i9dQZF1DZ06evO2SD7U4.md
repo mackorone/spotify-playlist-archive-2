@@ -4,7 +4,7 @@
 
 > This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 46 min
+80 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Caite Cadáver](https://open.spotify.com/track/0L1btFPdhszdNSH00pILro) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 2:23 | 2023-01-14 |  |
 | [Cancion Para Un Armaño](https://open.spotify.com/track/1BaFuldYAV0jxVdWFPaCIO) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 2:27 | 2023-01-14 |  |
 | [Carefoca´s Swing](https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 0:40 | 2023-01-14 |  |
-| [Charrock And Roll](https://open.spotify.com/track/3HmqRXlhhobsLaw3Bj1uIR) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:40 | 2023-01-14 |  |
+| [Charrock And Roll](https://open.spotify.com/track/3HmqRXlhhobsLaw3Bj1uIR) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:40 | 2023-01-14 | 2026-02-14 |
+| [Charrock and Roll](https://open.spotify.com/track/1aFBXBCourhP0530aShTzU) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 2:56 | 2026-02-14 |  |
 | [Chichis Pa la Banda](https://open.spotify.com/track/7pJfggsvXBnvvtPHyhDy8O) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 1:31 | 2023-01-14 | 2025-12-05 |
 | [De Tripas Cuajo Y Corazon](https://open.spotify.com/track/5G6yMRyuN38MnnHgeD0ayZ) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 2:48 | 2023-01-14 |  |
 | [Despiértame](https://open.spotify.com/track/6lNWVEVR0Y38q9OE8gxLbo) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Busca Amor](https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7) | 4:03 | 2023-02-22 | 2025-10-20 |
@@ -52,7 +53,7 @@
 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 | 2023-01-14 |  |
 | [Hoy \(No Te Me Achicopales\)](https://open.spotify.com/track/4QX8894KgvjtyYBxnOKML4) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:57 | 2025-01-11 | 2025-01-18 |
 | [Jefe De Jefes](https://open.spotify.com/track/6ZVpMSjOgWVn8DYWnt4qTr) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 4:24 | 2023-01-14 |  |
-| [La Balona de la Conquista](https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 7:38 | 2023-10-10 |  |
+| [La Balona de la Conquista](https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 7:38 | 2023-10-10 | 2026-02-14 |
 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 | 2023-01-14 |  |
 | [La Sorpresa](https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:54 | 2023-02-04 |  |
 | [La Taza De Café](https://open.spotify.com/track/2TkaeVAbduLh9wcd2gfKob) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 2:26 | 2024-07-04 | 2025-03-09 |
@@ -70,7 +71,7 @@
 | [Quiero Darte un Besito](https://open.spotify.com/track/64BB90XDb9huZMQyPheP2o) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido \- la Verdadera Historia de Botellita de Jerez\-](https://open.spotify.com/album/1DAANDDHtedCRolsi8k3A7) | 1:04 | 2023-01-14 | 2024-05-26 |
 | [Ropavejero](https://open.spotify.com/track/0dOKreLKmUtYQvsdzcwXZL) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Rock En Español \- Lo Mejor De Botellita De Jerez](https://open.spotify.com/album/70fvCgWSkOQRABSSJP6xAg) | 4:25 | 2023-01-14 | 2024-03-14 |
 | [Ropavejero](https://open.spotify.com/track/3mmGGzpcDHkQ3xNFGy29Qr) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 4:25 | 2024-03-13 |  |
-| [Saca!](https://open.spotify.com/track/0z2I0JSmWDzPDTexaXv1kn) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 4:15 | 2025-03-28 | 2026-01-15 |
+| [Saca!](https://open.spotify.com/track/0z2I0JSmWDzPDTexaXv1kn) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 4:15 | 2025-03-28 |  |
 | [San Jorge Y El Dragon](https://open.spotify.com/track/5aPJSGuxgdVqXjUNs2dX4n) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 3:39 | 2023-01-14 |  |
 | [Saque De Meta Y Pique](https://open.spotify.com/track/0bouySilq8xVbD0MWlGM0m) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 3:16 | 2024-01-04 | 2025-10-13 |
 | [Saque De Meta Y Pique](https://open.spotify.com/track/2wIsOeYMl9ie4MLObWvypH) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Singles](https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF) | 3:16 | 2023-01-14 | 2023-03-18 |

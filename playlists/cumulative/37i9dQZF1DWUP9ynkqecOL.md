@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-125 songs - 9 hr 16 min
+126 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Antiguos Dueños de las Flechas](https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Tonolec](https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc) | 4:24 | 2023-08-11 |  |
 | [Antikuna Anqa](https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO) | [Nintu](https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5), [Mauricio Arratia](https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai), [Pao Pamaki](https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz) | [Antikuna Anqa](https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD) | 7:36 | 2023-08-11 |  |
 | [Antídoto](https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Huestes](https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a) | 3:43 | 2023-08-11 |  |
+| [ARETÉ](https://open.spotify.com/track/0CKFGmTCl9te6IfiOPfPP5) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [ARETÉ](https://open.spotify.com/album/1JZc46RSBVuW3VretA0spr) | 3:07 | 2026-02-13 |  |
 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 | 2023-08-11 |  |
 | [Atahualpa](https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 4:05 | 2023-08-11 |  |
 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 | 2023-08-11 |  |
@@ -101,7 +102,7 @@
 | [Que Bailen](https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Que Bailen](https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP) | 5:14 | 2024-03-29 |  |
 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 | 2024-03-29 |  |
 | [Recién He Llegado Vidita \(Recopilación Leda Valladares\)](https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:47 | 2023-08-11 | 2025-11-20 |
-| [Reverdecer \(Remix\)](https://open.spotify.com/track/6MGbYcHtQy0z25zyZz1og5) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Reverdecer \(Remix\)](https://open.spotify.com/album/6r1rUXbAI3jQiDEUGLHVrj) | 3:01 | 2024-07-19 |  |
+| [Reverdecer \(Remix\)](https://open.spotify.com/track/6MGbYcHtQy0z25zyZz1og5) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Reverdecer \(Remix\)](https://open.spotify.com/album/6r1rUXbAI3jQiDEUGLHVrj) | 3:01 | 2024-07-19 | 2026-02-14 |
 | [Reverdecer \- Remix](https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Reverdecer \(Remix\)](https://open.spotify.com/album/5Jdbh1vxLk6vy5D8Uj8yQG) | 3:01 | 2023-08-11 | 2024-04-19 |
 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 | 2023-08-11 |  |
 | [Se que no Vas a Volver](https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 4:09 | 2024-03-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: JustmineNika
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,978 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,984 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 39 | [FAV BOY](https://open.spotify.com/track/792Fa04HJgFTBjzjfHVtXW) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [FAV BOY](https://open.spotify.com/album/1iq7EDyeZeWVtUbdoJlIps) | 2:30 |
 | 40 | [อยากเรียกที่รัก \- Call Me Darling](https://open.spotify.com/track/17N14RFP5SjGXZiMhzteXE) | [Stang Tari](https://open.spotify.com/artist/1RD2dMRHorpiSrhVeRTlj1) | [อยากเรียกที่รัก \(Call Me Darling\)](https://open.spotify.com/album/3eBYflx6hlnHntMbL6vChi) | 3:16 |
 | 41 | [McDreamy](https://open.spotify.com/track/2B4F5wlsQkuIclBSykgyG2) | [Ployé](https://open.spotify.com/artist/0zPfjHRfLOlqXABqNNJyZh) | [McDreamy](https://open.spotify.com/album/5YzPEIQeEkKG48sI0LRCkD) | 3:04 |
-| 42 | [ว่า \(How should I feel?\)](https://open.spotify.com/track/5U7JkJZ8tX19ctOC3tYBd7) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [ว่า \(How should I feel?\)](https://open.spotify.com/album/0WvY455OQn0TFaNcMr3tgD) | 4:09 |
+| 42 | [ว่า \(How should I feel?\)](https://open.spotify.com/track/5U7JkJZ8tX19ctOC3tYBd7) | [MITEENNN](https://open.spotify.com/artist/0OIbwhpOQ6irFFAFeeBCRc) | [ว่า \(How should I feel?\)](https://open.spotify.com/album/0WvY455OQn0TFaNcMr3tgD) | 4:09 |
 | 43 | [ไม่รักก็แค่ไม่รัก \(NO STATUS\) \- FROM CLUB FRIDAY THE SERIES "LOVE STATUS" ORIGINAL SOUND TRACK](https://open.spotify.com/track/6RRBGUH4hzUesEEFDpMCUF) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ไม่รักก็แค่ไม่รัก \(NO STATUS\) \[FROM CLUB FRIDAY THE SERIES "LOVE STATUS" ORIGINAL SOUND TRACK\]](https://open.spotify.com/album/5Po4lnpJLAO8a6q9WXT3ek) | 4:11 |
 | 44 | [ดีกว่าต้องลืมเธอไป \(Wooden House\)](https://open.spotify.com/track/2V1iCbjGIKxUxAbfcHDlPe) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ดีกว่าต้องลืมเธอไป \(Wooden House\)](https://open.spotify.com/album/7j282OUx0ZtfMYsb1LLRxj) | 4:16 |
 | 45 | [กี่ครั้ง](https://open.spotify.com/track/7oS8o4l8HqTinlJKOwEhG4) | [KNOMJEAN](https://open.spotify.com/artist/7AV6Ugsnsm9WXDVQWVcg1F) | [กี่ครั้ง](https://open.spotify.com/album/58RBnFeP5ShmbUWmSiiu4b) | 3:35 |

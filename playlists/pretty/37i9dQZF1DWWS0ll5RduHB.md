@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,383 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,385 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 49 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
 | 50 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
 
-Snapshot ID: `AAAAAOiCZcJhkqCkdamtrJsb1ugY7wrV`
+Snapshot ID: `AAAAAGnlDfQbaZD+cAqmtun9V01zPnIL`

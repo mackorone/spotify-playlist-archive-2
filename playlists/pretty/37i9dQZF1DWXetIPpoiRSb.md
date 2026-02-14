@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > now and next level pop 🧪 cover: charlotte plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,201 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,190 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [crybby blue](https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [crybby blue](https://open.spotify.com/album/7FoWtdR8NB2OlD0kQpTrpu) | 2:36 |
-| 2 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [](https://open.spotify.com/album/null) | 3:52 |
+| 2 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
 | 3 | [rager](https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [rager](https://open.spotify.com/album/50DZmSygoelBizezheVskd) | 2:48 |
-| 4 | [HANDS](https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [](https://open.spotify.com/album/null) | 2:36 |
+| 4 | [HANDS](https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [E2E](https://open.spotify.com/album/31tmdkhoxjChUpoe6x4wsd) | 2:36 |
 | 5 | [Holding On](https://open.spotify.com/track/1phzOXrX7HAmvarQTpc6qk) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Holding On](https://open.spotify.com/album/3mWrSIKxxUzfTeIRWmcL4B) | 3:16 |
 | 6 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
 | 7 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |

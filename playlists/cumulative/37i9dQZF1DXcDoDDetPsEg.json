@@ -7669,6 +7669,24 @@
     },
     {
       "album": {
+        "name": "November Scorpio",
+        "url": "https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195107,
+      "name": "desire.",
+      "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
+    },
+    {
+      "album": {
         "name": "Detergent",
         "url": "https://open.spotify.com/album/0LDayYskVMFSEosSz1rNdP"
       },
@@ -31271,6 +31289,28 @@
     },
     {
       "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
+    },
+    {
+      "album": {
         "name": "Tobey (feat. Big Sean and BabyTron)",
         "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
       },
@@ -31712,42 +31752,6 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 16",
-      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
     },
     {
       "album": {

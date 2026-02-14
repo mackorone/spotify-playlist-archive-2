@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,697 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,806 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 36 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
 | 37 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
 | 38 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
-| 39 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 |
-| 40 | [Shackles \(Praise You\)](https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Shackles \(Praise You\)](https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m) | 2:38 |
+| 39 | [Shackles \(Praise You\)](https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Shackles \(Praise You\)](https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m) | 2:38 |
+| 40 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 |
 | 41 | [I Still Believe](https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [I Still Believe](https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub) | 3:12 |
 | 42 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 |
 | 43 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 67 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
 | 68 | [We Could Run Away](https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Heat](https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU) | 4:08 |
 | 69 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 |
-| 70 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
+| 70 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
 | 71 | [grand prix!](https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [grand prix!](https://open.spotify.com/album/5520zwKEHMsKQE08B2Vhhe) | 1:47 |
-| 72 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
+| 72 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
 | 73 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
 | 74 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
 | 75 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |

@@ -8718,7 +8718,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 208534,
       "name": "Lift Me High",
       "url": "https://open.spotify.com/track/4m0F3I0T7y2tkSSZ1Ha80B"
@@ -14991,6 +14991,24 @@
     },
     {
       "album": {
+        "name": "Techno Rocker",
+        "url": "https://open.spotify.com/album/6epLEDtolN7ai7YYceHdXS"
+      },
+      "artists": [
+        {
+          "name": "LYNSY",
+          "url": "https://open.spotify.com/artist/5BMrgT9eEWEWWambA5iFjn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Techno Rocker",
+      "url": "https://open.spotify.com/track/1qEdy4SngOIHrZIwt0vgKQ"
+    },
+    {
+      "album": {
         "name": "TECHY MF",
         "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
       },
@@ -15869,8 +15887,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
       "artists": [
         {

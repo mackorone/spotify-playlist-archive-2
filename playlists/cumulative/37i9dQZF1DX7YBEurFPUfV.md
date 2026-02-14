@@ -2,9 +2,9 @@
 
 ### [RapTounsi](https://open.spotify.com/playlist/37i9dQZF1DX7YBEurFPUfV)
 
-> Les sons les plus frais du Rap Tunisien sont ici\. Cover : EMP1RE
+> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Kaso
 
-171 songs - 9 hr 55 min
+172 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Aayech Maak](https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Aayech Maak](https://open.spotify.com/album/6eUDSon2TBhuHzS2RWootc) | 3:45 | 2024-10-03 |  |
 | [Afyoun](https://open.spotify.com/track/66tu0r6bkZtGx6INuZTNG2) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Afyoun](https://open.spotify.com/album/7z1mJ0SuGHJOvdu7A280me) | 3:11 | 2024-05-29 | 2025-09-13 |
 | [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 | 2024-05-03 | 2024-07-23 |
-| [AIRMAX](https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1) | [DACHI](https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [AIRMAX](https://open.spotify.com/album/1krq5NT4YvlfvgCVbxKio7) | 2:57 | 2024-09-18 |  |
+| [AIRMAX](https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1) | [DACHI](https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [AIRMAX](https://open.spotify.com/album/1krq5NT4YvlfvgCVbxKio7) | 2:57 | 2024-09-18 | 2026-02-14 |
 | [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 | 2024-11-21 | 2025-08-08 |
 | [Amach](https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC) | [KA7LA](https://open.spotify.com/artist/3P1ICbu02JQld1VFBoQCLA), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Amach](https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6) | 2:41 | 2024-05-02 | 2024-08-02 |
 | [Amir Al Bihar](https://open.spotify.com/track/4eDl7rpLj1JCSLaqbIQ6h5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Amir Al Bihar](https://open.spotify.com/album/3ZzxEG1zKE7kq372gxXgyG) | 3:02 | 2026-01-15 |  |
@@ -134,6 +134,7 @@
 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 | 2024-11-07 |  |
 | [Ntir B3id](https://open.spotify.com/track/5LxeJ3R89aHSDzRBIwfUtE) | [DefAtiJam](https://open.spotify.com/artist/404Fvjzc9WqsFnsYmIznPn) | [Ntir B3id](https://open.spotify.com/album/2YnfqCqmIYoIpfkYQRez3g) | 3:10 | 2025-12-18 | 2026-01-15 |
 | [OKHTOOBOOT](https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:53 | 2026-01-15 |  |
+| [OMMA](https://open.spotify.com/track/6xWO3A8vPPOfEqqWeGWeaM) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [ZÉRO UN](https://open.spotify.com/album/0mj9I5TGwP77NT2rFhemlB) | 3:02 | 2026-02-13 |  |
 | [Oumouri](https://open.spotify.com/track/27KxDtFcRXU1fcnRk7nnPz) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Oumouri](https://open.spotify.com/album/1EqoJhmcKMFw1VeB1Ols5k) | 3:37 | 2024-04-25 | 2024-05-25 |
 | [Psy](https://open.spotify.com/track/5w6jlBMMvZEi50lmC451u5) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Psy](https://open.spotify.com/album/2SaMbc7y7haixHL94kpWqX) | 2:46 | 2024-06-14 | 2024-07-05 |
 | [Qadari](https://open.spotify.com/track/2CAcbeMxfMSCPwCIy4MN8r) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Qadari](https://open.spotify.com/album/0rYTstfJALiKY0TGfGDG4x) | 4:00 | 2025-09-12 |  |

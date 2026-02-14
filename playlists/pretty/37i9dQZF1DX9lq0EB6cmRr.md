@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen to the latest Korean classical & new\-age music here! \(Cover: 임윤찬 \(Yunchan Lim\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,406 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,413 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 49 | [Scènes d’enfants: No\. 5, Jeunes filles au Jardin \- Live](https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Yunchan Lim](https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz) | [Beethoven, Isang Yun, Barber \(Live\)](https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX) | 2:58 |
 | 50 | [Stanley Myers : Cavatina](https://open.spotify.com/track/01GZqoFssNsVDz9CRzLNJ3) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Park Kyuhee](https://open.spotify.com/artist/1cPB46hHAuY8A2U1XzkREc) | [Letters](https://open.spotify.com/album/65u4wYlCAV0WsfJ5k8lhHn) | 4:59 |
 
-Snapshot ID: `AAAAAEL+szya0PuexZW36+q9MeSIGiC/`
+Snapshot ID: `AAAAAMtSAi4ebqYjP3haxh/psAxnnmo0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,247 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,266 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 32 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
 | 33 | [The Road](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:15 |
 | 34 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 |
-| 35 | [I’m Still Into You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Would You Marry Me?, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw) | 3:25 |
-| 36 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 35 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 36 | [I’m Still Into You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Would You Marry Me?, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw) | 3:25 |
 | 37 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
-| 38 | [When the First Snow Falls](https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [When the First Snow Falls](https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF) | 3:42 |
-| 39 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
+| 38 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
+| 39 | [When the First Snow Falls](https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [When the First Snow Falls](https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF) | 3:42 |
 | 40 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 |
 | 41 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |
 | 42 | [가득 빈 마음에](https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [제30회 유재하 음악경연대회](https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO) | 2:57 |

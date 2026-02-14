@@ -1,33 +1,13 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Cam Stockman",
-  "num_followers": 72737,
+  "num_followers": 72790,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHqoDNiO7QQTOOOu50AlCg9cQ2k",
+  "snapshot_id": "AAAAAHTRWOKQ0iHQM1sMmUuqW655o/wI",
   "tracks": [
-    {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "Into My Life (feat. Joyce Sims)",
-        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        },
-        {
-          "name": "Joyce Sims",
-          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
-        }
-      ],
-      "duration_ms": 131299,
-      "name": "Into My Life (feat. Joyce Sims)",
-      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
-    },
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
@@ -49,36 +29,40 @@
       "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
     },
     {
-      "added_at": "2025-11-07 05:00:38",
+      "added_at": "2026-01-23 05:00:22",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
       },
       "artists": [
         {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
     },
     {
-      "added_at": "2026-02-06 05:00:30",
+      "added_at": "2026-02-13 05:00:30",
       "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/0FNX04BMYj2bBxJno6sWxo"
+        "name": "Make it Happen",
+        "url": "https://open.spotify.com/album/5NFhXzwZvMwWnAIhshJnqe"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/12tSrqvAnzM62NyJAS4c6L"
+      "duration_ms": 356747,
+      "name": "Make it Happen",
+      "url": "https://open.spotify.com/track/57YktgWA7RTGfHykrG7KJr"
     },
     {
       "added_at": "2026-01-27 20:44:33",
@@ -95,6 +79,22 @@
       "duration_ms": 184000,
       "name": "Lightless Dream",
       "url": "https://open.spotify.com/track/5OiFqjhqNsTfXsFSifbsDI"
+    },
+    {
+      "added_at": "2025-11-07 05:00:38",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -115,6 +115,38 @@
       "duration_ms": 190534,
       "name": "Look Good (Franky Rizardo Remix)",
       "url": "https://open.spotify.com/track/5k6H7X2I9CumI73lMbGKkE"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/0FNX04BMYj2bBxJno6sWxo"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/12tSrqvAnzM62NyJAS4c6L"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "In Tha Club",
+        "url": "https://open.spotify.com/album/4pjoPbZFwdGTUeVsDDFA7E"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "In Tha Club",
+      "url": "https://open.spotify.com/track/59j5yzNkQicfTmayf80bQi"
     },
     {
       "added_at": "2026-01-30 05:00:42",
@@ -177,6 +209,22 @@
       "url": "https://open.spotify.com/track/1veEHr0b99P7eXBcfUMPWp"
     },
     {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Elements : Kolter",
+        "url": "https://open.spotify.com/album/47KfagV11sJ9auhhkxLgiE"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 225198,
+      "name": "Mind Twister - Radio-Edit",
+      "url": "https://open.spotify.com/track/0FucJWMN8HdpiGubQ89QuL"
+    },
+    {
       "added_at": "2026-01-16 05:00:33",
       "album": {
         "name": "The Fix",
@@ -191,6 +239,22 @@
       "duration_ms": 180057,
       "name": "The Fix",
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
+    },
+    {
+      "added_at": "2026-02-06 17:43:48",
+      "album": {
+        "name": "ENDZ062",
+        "url": "https://open.spotify.com/album/4HlNIzzVqMG0OF1FWy2kHI"
+      },
+      "artists": [
+        {
+          "name": "Di Chiara Brothers",
+          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Be Back",
+      "url": "https://open.spotify.com/track/0MlssTGVIJzcZ67R2yEc3B"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -211,6 +275,22 @@
       "duration_ms": 184879,
       "name": "Pumpin Jumpin - Emily Nash Remix",
       "url": "https://open.spotify.com/track/3VzGInVLq99OqUFH92fS1X"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Ma Money",
+        "url": "https://open.spotify.com/album/5UBlij9gS5MoBic5vD5UfP"
+      },
+      "artists": [
+        {
+          "name": "ESCE",
+          "url": "https://open.spotify.com/artist/3xVvJGFXPlg9vcRkNB6BGk"
+        }
+      ],
+      "duration_ms": 192923,
+      "name": "Ma Money",
+      "url": "https://open.spotify.com/track/0eIY2Oq4VtWMEj3f3RuNVq"
     },
     {
       "added_at": "2026-01-12 16:33:49",
@@ -273,22 +353,6 @@
       "url": "https://open.spotify.com/track/0nZaTW2iHqCZmuwoSErJUp"
     },
     {
-      "added_at": "2026-02-06 17:43:48",
-      "album": {
-        "name": "ENDZ062",
-        "url": "https://open.spotify.com/album/4HlNIzzVqMG0OF1FWy2kHI"
-      },
-      "artists": [
-        {
-          "name": "Di Chiara Brothers",
-          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Be Back",
-      "url": "https://open.spotify.com/track/0MlssTGVIJzcZ67R2yEc3B"
-    },
-    {
       "added_at": "2026-01-30 05:00:42",
       "album": {
         "name": "LOUDY'S TOOLZ",
@@ -335,6 +399,22 @@
       "duration_ms": 152840,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/65xDnHGrbUPYDcVZxr8swb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Joint Enterprise EP",
+        "url": "https://open.spotify.com/album/4ByxN2eswU5s55tfKiUoV3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Steel",
+          "url": "https://open.spotify.com/artist/7JXAPYJeay3HUBxua5Uo6K"
+        }
+      ],
+      "duration_ms": 146793,
+      "name": "Joint Enterprise",
+      "url": "https://open.spotify.com/track/66whG5JgiFSP4YJai6v5IE"
     },
     {
       "added_at": "2026-01-30 05:00:42",
@@ -391,6 +471,22 @@
       "duration_ms": 171162,
       "name": "Does Ya Momma Know?",
       "url": "https://open.spotify.com/track/2Q6j60VeDs9gY3O2m67CAu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Push The Feeling EP",
+        "url": "https://open.spotify.com/album/3NgjnJP23I6F2tDKkWlqya"
+      },
+      "artists": [
+        {
+          "name": "Foynez",
+          "url": "https://open.spotify.com/artist/1ROTd6m7x93EQaicWZmcmL"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Push The Feeling",
+      "url": "https://open.spotify.com/track/13wZII1Xmergka2m0trPYR"
     },
     {
       "added_at": "2026-01-30 05:00:42",
@@ -1009,22 +1105,6 @@
       "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
     },
     {
-      "added_at": "2025-12-29 01:46:49",
-      "album": {
-        "name": "Ready?",
-        "url": "https://open.spotify.com/album/2DF8uNJXjro2f88roGFqJ3"
-      },
-      "artists": [
-        {
-          "name": "Collier",
-          "url": "https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Ready?",
-      "url": "https://open.spotify.com/track/40iqeLCTXWvQwOVgd7IZVS"
-    },
-    {
       "added_at": "2025-12-19 05:00:31",
       "album": {
         "name": "Time & Place EP",
@@ -1091,22 +1171,6 @@
       "duration_ms": 225480,
       "name": "Get On",
       "url": "https://open.spotify.com/track/1DvYu6XVwHts5kNArH8c7O"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "The Continue",
-        "url": "https://open.spotify.com/album/4GJmRFolKHUrlj1wE5q1wK"
-      },
-      "artists": [
-        {
-          "name": "D Stone",
-          "url": "https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9"
-        }
-      ],
-      "duration_ms": 268750,
-      "name": "The Continue",
-      "url": "https://open.spotify.com/track/1qHbbNX9tGjlqcVpkU5DQO"
     },
     {
       "added_at": "2025-12-29 01:46:49",
@@ -1219,22 +1283,6 @@
       "duration_ms": 168091,
       "name": "Bizniss",
       "url": "https://open.spotify.com/track/2HzuD7rDoOZSssMmtrDc7x"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Take It Back EP",
-        "url": "https://open.spotify.com/album/0q5t0VjN1hEOEjF0dz87g1"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 213664,
-      "name": "Take It Back (To The Old School)",
-      "url": "https://open.spotify.com/track/63ECwoYcmpAiY57qTZGLtO"
     },
     {
       "added_at": "2025-11-21 05:00:30",
@@ -1451,22 +1499,6 @@
       "duration_ms": 148181,
       "name": "Straight From The Underground",
       "url": "https://open.spotify.com/track/7KLb3Ztja5ytGqMEKXUYnz"
-    },
-    {
-      "added_at": "2025-10-31 04:00:41",
-      "album": {
-        "name": "Freak In Me",
-        "url": "https://open.spotify.com/album/6B4TEWBDPC5OmkJucBNFIC"
-      },
-      "artists": [
-        {
-          "name": "Philip George",
-          "url": "https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Freak In Me",
-      "url": "https://open.spotify.com/track/7IC2BKn5D1gFXKPkW23s4K"
     },
     {
       "added_at": "2025-11-11 01:56:18",
@@ -1753,22 +1785,6 @@
       "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
     },
     {
-      "added_at": "2025-07-25 14:46:47",
-      "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/062McMAxpbBJTau6TMHoid"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Don't You Want My Love",
-      "url": "https://open.spotify.com/track/0Sg6SK3UzA5qG5htc8QPvR"
-    },
-    {
       "added_at": "2025-08-12 14:53:00",
       "album": {
         "name": "Liquor Store (feat. Nate Dogg)",
@@ -1891,26 +1907,6 @@
       "duration_ms": 214564,
       "name": "Bass Jump",
       "url": "https://open.spotify.com/track/4yeL38PURk2TrKQw2WC1Zo"
-    },
-    {
-      "added_at": "2025-07-18 13:56:37",
-      "album": {
-        "name": "ICY EP",
-        "url": "https://open.spotify.com/album/7lGcBAyldVN1AlmOjOboTx"
-      },
-      "artists": [
-        {
-          "name": "Justin Rabin",
-          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
-        },
-        {
-          "name": "Rello",
-          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "ICY",
-      "url": "https://open.spotify.com/track/1qaaFy5sfatOAocriMqmEd"
     },
     {
       "added_at": "2025-04-25 20:33:11",

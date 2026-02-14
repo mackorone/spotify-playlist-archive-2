@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Max Styler
 
-1,734 songs - 3 day 19 hr 51 min
+1,736 songs - 3 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [5 Mins Of Acid](https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j) | 5:00 | 2024-05-30 | 2024-10-19 |
 | [5AM Jungle Jam](https://open.spotify.com/track/2ljQPAKv12MUERYURTVuPm) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [SOMMERS \(UK\)](https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv) | [5AM Jungle Jam](https://open.spotify.com/album/212wqDkXbjhIKwHQiHsEPD) | 3:31 | 2025-02-27 |  |
 | [90s Memories](https://open.spotify.com/track/02G2O8L8R4yQvwzq4YsfsY) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [90s Memories](https://open.spotify.com/album/610Ry2yUCsM9lgpZVcDPIA) | 2:26 | 2024-05-30 | 2024-10-19 |
+| [9MM](https://open.spotify.com/track/7sQTkCylwGsTFAGIVfEOr2) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [9MM](https://open.spotify.com/album/3DAqfzikjSlXG0cz3mQNf7) | 3:25 | 2026-02-13 |  |
 | [A&S](https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/7HmhPt7zhLiokEArwbMSJL) | 3:20 | 2023-12-07 | 2024-06-08 |
 | [ABCD](https://open.spotify.com/track/6anCwyjY5vijE3AVBPiC3h) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9), [Bomber](https://open.spotify.com/artist/3PbIzHuNB1r5G01ZRPvfVa), [Ale Zuber](https://open.spotify.com/artist/7FEaPc2JZbJLMu1aDItr8S) | [ABCD](https://open.spotify.com/album/0yw8VFXJja3gI8H5tA2Sf6) | 2:13 | 2024-08-15 | 2025-04-04 |
 | [About The Weekend](https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Sakhile Moleshe](https://open.spotify.com/artist/6pldHWtyWbWZUi5lBqrZpB) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:00 | 2023-12-07 | 2024-04-05 |
@@ -871,6 +872,7 @@
 | [Living In A Dream \- Sam Divine Remix](https://open.spotify.com/track/6nsbeYgK4UM6x3ZX6jA8P3) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ) | [We All Move Together \- Remixes](https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb) | 3:30 | 2024-05-02 | 2024-09-06 |
 | [Living in Color](https://open.spotify.com/track/2lsNq7K3vPA9ONx4wVOdql) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jeoff Harris](https://open.spotify.com/artist/434nBUvWgd5pcPv2bmyKy4) | [Living in Color](https://open.spotify.com/album/2mXd7GKfRyX2LyXMCmZKeE) | 2:52 | 2024-08-01 | 2025-04-04 |
 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 | 2023-12-07 | 2024-08-31 |
+| [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 | 2026-02-13 |  |
 | [Loco Papi](https://open.spotify.com/track/5EuVplVa6I5vbAUBuCRnvS) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Loco Papi](https://open.spotify.com/album/7ehHSfldPNGr0rRbdxffcs) | 2:58 | 2022-06-09 | 2022-09-16 |
 | [Lonely With You](https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Lonely With You](https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv) | 3:25 | 2022-10-06 | 2023-05-19 |
 | [Lonely2](https://open.spotify.com/track/7GiqX6dVETzZRaChNazWaL) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Lonely2](https://open.spotify.com/album/5mBI8Lz5oNnJDaAwnGQvhe) | 3:41 | 2024-05-17 | 2024-10-19 |

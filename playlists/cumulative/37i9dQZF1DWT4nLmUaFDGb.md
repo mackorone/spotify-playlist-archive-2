@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-294 songs - 19 hr 9 min
+295 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2021-12-21 |  |
 | [Lucky](https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Lucky](https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy) | 2:40 | 2021-12-21 |  |
 | [Lumiére](https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U) | [Emily Sage](https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL) | [Lumiére](https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82) | 3:16 | 2021-12-21 |  |
-| [Magnus](https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Magnus Thompson](https://open.spotify.com/artist/4f07yMPEAu1vRJYb4yOrda), [Thaddeus Thompson](https://open.spotify.com/artist/1p1XxO4sy31SKZNSWEzFt9), [Ashley Thompson](https://open.spotify.com/artist/21Uy8s7LmNc3uVZBcWCV4c) | [Flor](https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa) | 4:10 | 2021-12-21 |  |
+| [Magnus](https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Magnus Thompson](https://open.spotify.com/artist/4f07yMPEAu1vRJYb4yOrda), [Thaddeus Thompson](https://open.spotify.com/artist/1p1XxO4sy31SKZNSWEzFt9), [Ashley Thompson](https://open.spotify.com/artist/21Uy8s7LmNc3uVZBcWCV4c) | [Flor](https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa) | 4:10 | 2021-12-21 | 2026-02-14 |
 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Make It Another Old Fashioned, Please](https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4) | 2:52 | 2025-04-25 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reawakened](https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW) | 3:32 | 2024-04-12 |  |
 | [Moon River](https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2021-12-21 |  |
@@ -207,6 +207,7 @@
 | [Pennies From Heaven \(with Michael Bublé\)](https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Duets](https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC) | 4:10 | 2021-12-21 | 2025-09-06 |
 | [Philodendron](https://open.spotify.com/track/1lUNJmZi4S01kQsyAcXITZ) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Philodendron](https://open.spotify.com/album/2kiAk3G0whz02YuAGVnrPz) | 4:45 | 2025-03-14 | 2025-09-06 |
 | [Place To Hide](https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Soul Eyes](https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9) | 3:44 | 2022-09-08 |  |
+| [Prisoner of Love](https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Prisoner of Love](https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF) | 2:23 | 2026-02-13 |  |
 | [Red](https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb) | [Cassidy Place](https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54) | [As You Wish](https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG) | 1:45 | 2022-05-05 | 2023-08-19 |
 | [Save Your Love for Me](https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT), [Christian von Kaphengst](https://open.spotify.com/artist/658B4A00zdwgZcmLelmlMp) | [On Vacation](https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY) | 5:26 | 2021-12-21 |  |
 | [Say You'll Be There](https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk) | [LIVING ROOM 2](https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy) | 3:37 | 2021-12-21 |  |

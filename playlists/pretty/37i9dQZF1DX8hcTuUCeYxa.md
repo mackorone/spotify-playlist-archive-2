@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,770 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,820 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 4 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 |
 | 5 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 6 | [The Sun of the World](https://open.spotify.com/track/2UGE0G5vNV9RfQ64wrdUpD) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [The Sun of the World](https://open.spotify.com/album/11iVvTi6Yz8WXhD9Nal2bN) | 4:20 |
-| 7 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [](https://open.spotify.com/album/null) | 5:33 |
+| 7 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 |
 | 8 | [I love being sad](https://open.spotify.com/track/5Mcj19iLQqbwAf1uun8Td7) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I love being sad](https://open.spotify.com/album/2iAOojxL36gOF93qPbn36B) | 2:35 |
 | 9 | [God's Lonely Man](https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [God’s Lonely Man](https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7) | 2:43 |
 | 10 | [Push My Luck](https://open.spotify.com/track/6oOuk5ooJK2s6yTv6uJLrM) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Push My Luck / All I Ever Need](https://open.spotify.com/album/0cLXxNkMhEa614yKA6bVLS) | 2:44 |
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 13 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 |
 | 14 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
 | 15 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 |
-| 16 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [](https://open.spotify.com/album/null) | 2:09 |
+| 16 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 |
 | 17 | [Flags](https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Flags](https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH) | 5:06 |
 | 18 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 19 | [Pray](https://open.spotify.com/track/5RkkIgguCgmvsgLUJaqSZC) | [The Leaving](https://open.spotify.com/artist/4qeKaY5cnmwDjMHStrQyI3) | [Pray](https://open.spotify.com/album/0hm7cuNDB8m12qg8B75clp) | 4:16 |
-| 20 | [Track 2](https://open.spotify.com/track/41T7ARBtuDURVTOVuQosBV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [Amsterdam \- After Hours](https://open.spotify.com/track/41T7ARBtuDURVTOVuQosBV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Incidental Contact \(After Hours\)](https://open.spotify.com/album/73i6AGPMHzWXJy85ECNTNk) | 3:48 |
 | 21 | [Projectors](https://open.spotify.com/track/6ndNhNpPvowtCtjHkMVAgi) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Projectors](https://open.spotify.com/album/1JRMJvDDZCvmNzyfX7mZql) | 4:09 |
 | 22 | [Peach & Honey](https://open.spotify.com/track/0i1c87y1poIlUDFHCXs1lr) | [JYN](https://open.spotify.com/artist/0AX2jZaUfUfEDzZnl6QCxG) | [Peach & Honey](https://open.spotify.com/album/47OPwirRhjlBuALDkBkQBr) | 1:56 |
 | 23 | [For The Record](https://open.spotify.com/track/6JdhOvTsXyb1gRYlXI1M87) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [For The Record](https://open.spotify.com/album/3JYLBW3at70BCe6vxjg15w) | 4:24 |
 | 24 | [Beam Me Into Space](https://open.spotify.com/track/0RMwWrMMPtlmj9xBBxCjCb) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [Beam Me Into Space](https://open.spotify.com/album/5Gul9K3NSV4KvQgEnDDzw3) | 4:37 |
-| 25 | [Track 1](https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [](https://open.spotify.com/album/null) | 0:00 |
+| 25 | [Bloom](https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Pale Bloom](https://open.spotify.com/album/3UdhGs2R7AyEuzwrLBc0Mb) | 4:20 |
 | 26 | [Foxtrap](https://open.spotify.com/track/7oBXofppxSrXALXG0Agcnv) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Foxtrap](https://open.spotify.com/album/01mswWCdsOBOKGQHcPVjC2) | 3:04 |
 | 27 | [You Made It Easy to Let Go](https://open.spotify.com/track/0ePA3ZPD4hQW9w0GIjwyQg) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [You Made It Easy to Let Go](https://open.spotify.com/album/3xDL92kCHBGvP6NSrowybz) | 3:01 |
 | 28 | [Lucidity](https://open.spotify.com/track/0y6MhmGw45TNC9crJqZsCd) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Lucidity](https://open.spotify.com/album/6ailra1YamTmzRyWsJkyLn) | 2:28 |

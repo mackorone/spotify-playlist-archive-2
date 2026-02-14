@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Cover: Suki Low
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,049 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,050 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 4 | [Binasa \- From "Sujud Terakhir En\. Norman"](https://open.spotify.com/track/13QkMUVoVWDZkjTJ6mqFi0) | [Amylea](https://open.spotify.com/artist/0wKBxTlgjMQvntR1t7JhZR) | [Binasa \(From "Sujud Terakhir En\. Norman"\)](https://open.spotify.com/album/08Yj9TZCHsrNdWjnVjlXeo) | 2:58 |
 | 5 | [節約用愛](https://open.spotify.com/track/5ZOwYh8V6YIYeklb3TUPB2) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [節約用愛](https://open.spotify.com/album/1e19rU3OJ7pKuhLzIwSvuK) | 4:05 |
 | 6 | [想問](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 |
-| 7 | [Penipu](https://open.spotify.com/track/7jk190JYJh2oBzGhVZIY5i) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [Penipu](https://open.spotify.com/album/2lNsVwcH09D4VIqvyXv4j8) | 2:57 |
+| 7 | [Penipu \- From “Di Sebalik Jubah”](https://open.spotify.com/track/7jk190JYJh2oBzGhVZIY5i) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [Penipu \(From “Di Sebalik Jubah”\)](https://open.spotify.com/album/2lNsVwcH09D4VIqvyXv4j8) | 2:57 |
 | 8 | [Nagpalinlang](https://open.spotify.com/track/4lUKOt3hFKC2xBT7UCNrB8) | [Yazmin Aziz](https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG) | [Nagpalinlang](https://open.spotify.com/album/79LWQ1kyyvKeHRqZgd4pxd) | 4:13 |
 | 9 | [Eclipse](https://open.spotify.com/track/29J9ZL6bj20BOvJJsjrBE2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Eclipse](https://open.spotify.com/album/3dMBBRvltr8Z1KBzQcJuQS) | 3:56 |
 | 10 | [Retak](https://open.spotify.com/track/5jzHabTs2xYX8GM5OTujQq) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Ilham Bicara](https://open.spotify.com/album/5qRYMn7faMeHBnwiwUvE9k) | 5:16 |

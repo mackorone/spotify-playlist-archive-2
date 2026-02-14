@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11344885,
+  "num_followers": 11349470,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKDp1EGollehSwPrkLq6kzWa990",
+  "snapshot_id": "AAAAAPgvnIjzHITuF2m+WMjiuWzqRV6D",
   "tracks": [
     {
       "added_at": "2025-11-17 15:48:56",
@@ -27,6 +27,38 @@
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        }
+      ],
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
+    },
+    {
+      "added_at": "2025-08-29 15:35:59",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "added_at": "2025-05-30 16:13:27",
@@ -51,58 +83,6 @@
       "duration_ms": 75461,
       "name": "DIA DEL\u00cdCIA",
       "url": "https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A"
-    },
-    {
-      "added_at": "2025-08-29 15:35:59",
-      "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
-      "added_at": "2026-02-06 17:42:53",
-      "album": {
-        "name": "TIKI TIKI",
-        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
-      },
-      "artists": [
-        {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
-        }
-      ],
-      "duration_ms": 121739,
-      "name": "TIKI TIKI - Slowed",
-      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
-    },
-    {
-      "added_at": "2025-08-22 16:56:16",
-      "album": {
-        "name": "ACELERADA",
-        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        },
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 61269,
-      "name": "ACELERADA",
-      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
     },
     {
       "added_at": "2025-08-01 17:05:50",
@@ -171,6 +151,26 @@
       "duration_ms": 73480,
       "name": "MONTAGEM COMA",
       "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
+    },
+    {
+      "added_at": "2025-08-22 16:56:16",
+      "album": {
+        "name": "ACELERADA",
+        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        },
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "duration_ms": 61269,
+      "name": "ACELERADA",
+      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
     },
     {
       "added_at": "2026-01-07 15:55:13",
@@ -319,18 +319,62 @@
     {
       "added_at": "2025-02-28 15:27:21",
       "album": {
-        "name": "PASSO BEM SOLTO",
-        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+        "name": "Funk de Beleza",
+        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
       },
       "artists": [
         {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "MC MAYAH",
+          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
         }
       ],
-      "duration_ms": 116072,
-      "name": "PASSO BEM SOLTO - Slowed",
-      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+      "duration_ms": 145115,
+      "name": "Funk de Beleza - Slowed",
+      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "REVENGE !",
+        "url": "https://open.spotify.com/album/1N1ScAffPK3WNEQrHPOzAf"
+      },
+      "artists": [
+        {
+          "name": "1HXSX",
+          "url": "https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY"
+        },
+        {
+          "name": "wnorg17",
+          "url": "https://open.spotify.com/artist/65cjg9X9Ie37SCH9Gz5ddq"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "REVENGE - Super Slowed",
+      "url": "https://open.spotify.com/track/3ZEUbnmVPwGRhLm28QzXkI"
+    },
+    {
+      "added_at": "2025-09-26 14:24:18",
+      "album": {
+        "name": "envy",
+        "url": "https://open.spotify.com/album/4KtkPcD2WUXZUW7ibEI25d"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 126401,
+      "name": "envy - slowed",
+      "url": "https://open.spotify.com/track/57Ju5lrvYBZJvmxKFrtzSt"
     },
     {
       "added_at": "2024-07-05 13:50:01",
@@ -347,30 +391,6 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
-    },
-    {
-      "added_at": "2025-07-25 18:46:04",
-      "album": {
-        "name": "CANTO DE LUNA",
-        "url": "https://open.spotify.com/album/4KfNJxpu5wfMuGktR9l9LB"
-      },
-      "artists": [
-        {
-          "name": "h6itam",
-          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
-        },
-        {
-          "name": "DYSMANE",
-          "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
-        },
-        {
-          "name": "ICEDMANE",
-          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
-        }
-      ],
-      "duration_ms": 109333,
-      "name": "CANTO DE LUNA - SUPER SLOWED",
-      "url": "https://open.spotify.com/track/0Bb3JNNt7wi7PnsAyOD7v6"
     },
     {
       "added_at": "2024-10-04 13:19:49",
@@ -437,96 +457,44 @@
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2026-02-13 15:58:36",
       "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+        "name": "MONTAGEM ALQUIMIA",
+        "url": "https://open.spotify.com/album/0N6Xm4YHBgSx1NGUCs4L7X"
       },
       "artists": [
         {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+          "name": "h6itam",
+          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
+        },
+        {
+          "name": "n7san7os",
+          "url": "https://open.spotify.com/artist/3cvsBiWPwn1oVpKCeGBev9"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+      "duration_ms": 96004,
+      "name": "MONTAGEM ALQUIMIA",
+      "url": "https://open.spotify.com/track/0Wms5IftbzNzmrAyXx4A33"
     },
     {
       "added_at": "2025-02-28 15:27:21",
       "album": {
-        "name": "Funk de Beleza",
-        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
       },
       "artists": [
         {
-          "name": "Nateki",
-          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "MC MAYAH",
-          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
         }
       ],
-      "duration_ms": 145115,
-      "name": "Funk de Beleza - Slowed",
-      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
-    },
-    {
-      "added_at": "2026-02-06 17:42:53",
-      "album": {
-        "name": "REVENGE !",
-        "url": "https://open.spotify.com/album/1N1ScAffPK3WNEQrHPOzAf"
-      },
-      "artists": [
-        {
-          "name": "1HXSX",
-          "url": "https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY"
-        },
-        {
-          "name": "wnorg17",
-          "url": "https://open.spotify.com/artist/65cjg9X9Ie37SCH9Gz5ddq"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "REVENGE - Super Slowed",
-      "url": "https://open.spotify.com/track/3ZEUbnmVPwGRhLm28QzXkI"
-    },
-    {
-      "added_at": "2025-09-26 14:24:18",
-      "album": {
-        "name": "envy",
-        "url": "https://open.spotify.com/album/4KtkPcD2WUXZUW7ibEI25d"
-      },
-      "artists": [
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 126401,
-      "name": "envy - slowed",
-      "url": "https://open.spotify.com/track/57Ju5lrvYBZJvmxKFrtzSt"
-    },
-    {
-      "added_at": "2024-03-29 15:57:27",
-      "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
       "added_at": "2025-08-11 21:16:02",
@@ -567,22 +535,6 @@
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2022-05-20 10:12:52",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -635,26 +587,6 @@
       "duration_ms": 96545,
       "name": "MONTAGEM BUDA - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5Ls7xSu1mqG13LRrXBHD8q"
-    },
-    {
-      "added_at": "2025-09-26 14:24:18",
-      "album": {
-        "name": "DYSTOPIA",
-        "url": "https://open.spotify.com/album/7q0apDCjqhsTvu0i3zbmhJ"
-      },
-      "artists": [
-        {
-          "name": "DudePlaya",
-          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
-        },
-        {
-          "name": "N!GHTvisi\u00f8n",
-          "url": "https://open.spotify.com/artist/069iCiM0s1UEgnn7jJorJ4"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "DYSTOPIA - SLOWED",
-      "url": "https://open.spotify.com/track/5fqKGpnhBVKy2ymIkqS6k0"
     },
     {
       "added_at": "2025-03-21 14:02:34",
@@ -755,6 +687,26 @@
       "duration_ms": 106422,
       "name": "Dia De Fiesta - Slowed",
       "url": "https://open.spotify.com/track/2OHcq36FHgNz7WmZeEA7OV"
+    },
+    {
+      "added_at": "2025-09-26 14:24:18",
+      "album": {
+        "name": "DYSTOPIA",
+        "url": "https://open.spotify.com/album/7q0apDCjqhsTvu0i3zbmhJ"
+      },
+      "artists": [
+        {
+          "name": "DudePlaya",
+          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
+        },
+        {
+          "name": "N!GHTvisi\u00f8n",
+          "url": "https://open.spotify.com/artist/069iCiM0s1UEgnn7jJorJ4"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "DYSTOPIA - SLOWED",
+      "url": "https://open.spotify.com/track/5fqKGpnhBVKy2ymIkqS6k0"
     },
     {
       "added_at": "2025-05-23 14:25:30",
@@ -975,6 +927,30 @@
       "duration_ms": 90351,
       "name": "VAI VAI TRAIR",
       "url": "https://open.spotify.com/track/2ve1Mb0G8NcaiSiWJQl7JK"
+    },
+    {
+      "added_at": "2025-07-25 18:46:04",
+      "album": {
+        "name": "CANTO DE LUNA",
+        "url": "https://open.spotify.com/album/4KfNJxpu5wfMuGktR9l9LB"
+      },
+      "artists": [
+        {
+          "name": "h6itam",
+          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
+        },
+        {
+          "name": "DYSMANE",
+          "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
+        },
+        {
+          "name": "ICEDMANE",
+          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
+        }
+      ],
+      "duration_ms": 109333,
+      "name": "CANTO DE LUNA - SUPER SLOWED",
+      "url": "https://open.spotify.com/track/0Bb3JNNt7wi7PnsAyOD7v6"
     },
     {
       "added_at": "2025-10-17 14:00:21",
@@ -1329,24 +1305,36 @@
       "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
-      "added_at": "2025-02-28 15:27:21",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "TRALALERO TRALALA FUNK",
-        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
       "artists": [
         {
-          "name": "DJ Raulipues",
-          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
-        },
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 117901,
-      "name": "TRALALERO TRALALA FUNK",
-      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2024-03-29 15:57:27",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1517,22 +1505,6 @@
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
     },
     {
-      "added_at": "2025-06-30 15:54:16",
-      "album": {
-        "name": "FUNK SIGILO",
-        "url": "https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i"
-      },
-      "artists": [
-        {
-          "name": "h6itam",
-          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
-        }
-      ],
-      "duration_ms": 103587,
-      "name": "FUNK SIGILO - SLOWED",
-      "url": "https://open.spotify.com/track/1ZPszVMluDbqsEx9MJTjJd"
-    },
-    {
       "added_at": "2024-08-30 14:16:34",
       "album": {
         "name": "FUNK UNIVERSO",
@@ -1547,6 +1519,22 @@
       "duration_ms": 127500,
       "name": "FUNK UNIVERSO",
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
+    },
+    {
+      "added_at": "2022-05-20 10:12:52",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2023-10-06 14:17:07",
@@ -2055,6 +2043,26 @@
       "duration_ms": 101089,
       "name": "EI DO SENSACIO!",
       "url": "https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm"
+    },
+    {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "TRALALERO TRALALA FUNK",
+        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+      },
+      "artists": [
+        {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "duration_ms": 117901,
+      "name": "TRALALERO TRALALA FUNK",
+      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
     }
   ],
   "unique_name": "phonk",

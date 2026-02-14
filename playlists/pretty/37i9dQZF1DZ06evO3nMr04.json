@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1443862,
+  "num_followers": 1444324,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABIV73hqMegKcB36EkM8oZa",
+  "snapshot_id": "aY0YAAAAAACSXUvDRXlJ2t6OilOBXAbV",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 156091,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 156091,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 181592,
       "name": "PREACHER MAN",
       "url": "https://open.spotify.com/track/24rgAXRpEipfaxJNElCXPE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
       "added_at": null,

@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 127500,
       "name": "Linda",
       "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
@@ -4482,6 +4482,36 @@
       "duration_ms": 150743,
       "name": "S N P B",
       "url": "https://open.spotify.com/track/2ZILRHM8AfMlXY8FshGkgy"
+    },
+    {
+      "album": {
+        "name": "Sagacidade",
+        "url": "https://open.spotify.com/album/6ZSSbu8VScMaHUaylyiy3z"
+      },
+      "artists": [
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        },
+        {
+          "name": "LYONS PROD.",
+          "url": "https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Sagacidade",
+      "url": "https://open.spotify.com/track/2Mi4qS9zwNxEOl73MiVmtX"
     },
     {
       "album": {

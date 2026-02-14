@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 37923,
+  "num_followers": 37927,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "17171771",
+      "url": "https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Y",
         "url": "https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj"
+        "name": "For Everlasting",
+        "url": "https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW"
       },
       "artists": [
         {
-          "name": "JAURIM",
-          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+          "name": "\uc77c\uae30\uc608\ubcf4",
+          "url": "https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi"
         }
       ],
-      "duration_ms": 182693,
-      "name": "17171771",
-      "url": "https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z"
+      "duration_ms": 255973,
+      "name": "\uc778\ud615\uc758 \uafc8",
+      "url": "https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1427,22 +1443,6 @@
       "duration_ms": 265534,
       "name": "\uc7a0\uc2dc \uae38\uc744 \uc783\ub2e4",
       "url": "https://open.spotify.com/track/3GyOvpjHY0fm3nQJcLPDbD"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "For Everlasting",
-        "url": "https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW"
-      },
-      "artists": [
-        {
-          "name": "\uc77c\uae30\uc608\ubcf4",
-          "url": "https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi"
-        }
-      ],
-      "duration_ms": 255973,
-      "name": "\uc778\ud615\uc758 \uafc8",
-      "url": "https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "So Sniper",
-        "url": "https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk"
+        "name": "Hexagonal",
+        "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
       },
       "artists": [
         {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+          "name": "Leessang",
+          "url": "https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI"
+        },
+        {
+          "name": "Enzo B",
+          "url": "https://open.spotify.com/artist/1dbfrp275Od1GgYsnjMcyn"
         }
       ],
-      "duration_ms": 263485,
-      "name": "Bk Love",
-      "url": "https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t"
+      "duration_ms": 283866,
+      "name": "\ub0b4 \ubab8\uc740 \ub108\ub97c \uc9c0\uc6e0\ub2e4 My Body Erased You (feat. Enzo.B)",
+      "url": "https://open.spotify.com/track/5yOBgJcP9lt9l8daa7pwC4"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

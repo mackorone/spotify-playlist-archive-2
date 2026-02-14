@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 79 | [nightmare](https://open.spotify.com/track/68j2zb5LZl9s47SdTMNiPx) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [nightmare](https://open.spotify.com/album/4pvj0sWSy21TRkopzh29JT) | 3:29 |
 | 80 | [Born, Die](https://open.spotify.com/track/6LVS9am9Jcfl8U2InwLIyg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz) | [Born, Die](https://open.spotify.com/album/21NPtkiukEIdTbTW9FnzMe) | 3:00 |
 
-Snapshot ID: `AAAAAHd7D24IjIxAQXSWRFJrrzubPrJz`
+Snapshot ID: `AAAAAGNmouy8BhfnZc1sOu8i0VHVvPWC`

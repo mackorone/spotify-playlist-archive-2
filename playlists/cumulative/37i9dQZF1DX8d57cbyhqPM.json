@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tantine Theodora.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons Serge Ibaka, L2B et Dany Synth\u00e9... keba, keba, keba! ",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 120999,
       "name": "100TIMENTS",
       "url": "https://open.spotify.com/track/2gtmeOF8dyOss6uzNZjXmR"
@@ -9588,7 +9588,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 163823,
       "name": "NAO BANGO TE",
       "url": "https://open.spotify.com/track/4wOkYDN5Jv0RUtAXyDz5Lo"
@@ -9894,6 +9894,24 @@
       "duration_ms": 155368,
       "name": "No stress",
       "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+    },
+    {
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138247,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
     },
     {
       "album": {
@@ -11540,6 +11558,32 @@
       "duration_ms": 145568,
       "name": "RDMV",
       "url": "https://open.spotify.com/track/4QVsBN1976xZ9SKg87Y0g7"
+    },
+    {
+      "album": {
+        "name": "Remise En Question",
+        "url": "https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Dany Synth\u00e9",
+          "url": "https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183132,
+      "name": "Remise En Question",
+      "url": "https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J"
     },
     {
       "album": {

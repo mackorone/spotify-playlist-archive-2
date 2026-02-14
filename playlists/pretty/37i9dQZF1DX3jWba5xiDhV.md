@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,911 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,097 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 28 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
 | 29 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 |
 | 30 | [La Notte Infinita](https://open.spotify.com/track/6JZEpNCioYdAeWOyAgni3d) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Kapote presents Italomania Vol\. 3](https://open.spotify.com/album/5ZD6dHZ3XudQGMhFDrKFrY) | 3:54 |
-| 31 | [Another Life \- Original](https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Another Life \(LP\)](https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw) | 7:12 |
-| 32 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
+| 31 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
+| 32 | [Another Life \- Original](https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Another Life \(LP\)](https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw) | 7:12 |
 | 33 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 |
 | 34 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 |
 | 35 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 71 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
 | 72 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
 | 73 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
-| 74 | [From Here to Eternity \- Bonus Track \- Single Version \- Remastered](https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [From Here to Eternity \(Remastered\)](https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv) | 3:53 |
+| 74 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 | 75 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
 
 Snapshot ID: `AAAAAEkEAqCO0RkBIdcXJVQvfS2/GKHa`

@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-967 songs - 1 day 19 hr 47 min
+968 songs - 1 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Genesis](https://open.spotify.com/track/34LzJ0pKASl3mmMprZPZuS) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [.ZIP](https://open.spotify.com/album/5jwI06RORdt3bZ6AgOftHP) | 1:48 | 2024-02-27 |  |
 | [get me high](https://open.spotify.com/track/3Ae3B51HUn4dRiJCFhNJFk) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [+++](https://open.spotify.com/album/5NtmpPD3P9PqsxfmpZLxmW) | 1:45 | 2023-09-01 | 2023-10-14 |
 | [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 | 2023-09-11 |
+| [getting money still sad too](https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA) | [getting money still sad too](https://open.spotify.com/album/06590fcGOrc0hgvDHcDiaH) | 2:37 | 2026-02-13 |  |
 | [ghost in the flesh](https://open.spotify.com/track/46eaJ7saGguB0WfBJS04D9) | [conscience](https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC) | [ghost in the flesh](https://open.spotify.com/album/0SMJ11BJlIFC7KBjwNaRqr) | 2:56 | 2024-09-30 |  |
 | [Ghost Rider](https://open.spotify.com/track/3xXkIxNwHu4aP6VUtGKJc0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Ghost Rider](https://open.spotify.com/album/2X9G26ucxdZzrpVOj72rtO) | 4:00 | 2021-06-12 | 2022-03-02 |
 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt), [Watchmen Pro](https://open.spotify.com/artist/1U9ynOVbcth6s4fzInM285) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 | 2023-03-17 |  |
@@ -911,7 +912,7 @@
 | [When I Was a Baby](https://open.spotify.com/track/5fzWEuPs5masn1HKiG3xpI) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [RONALD.](https://open.spotify.com/album/0ZNJ1Bk6Dj5M62qEdoZsCh) | 3:06 | 2021-03-14 | 2021-05-15 |
 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 | 2021-03-19 | 2023-05-24 |
 | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/track/5qwfWcdl8h0EhhSVTTH8gN) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/album/2U0vmDrXqf3yzxJUniy7uZ) | 2:33 | 2020-12-13\* | 2021-05-29 |
-| [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 | 2022-05-23 |  |
+| [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 | 2022-05-23 | 2026-02-14 |
 | [Where Am I?](https://open.spotify.com/track/02eaXkFgymQiEOXUSbPXKO) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [Where Am I?](https://open.spotify.com/album/66VkDNLzrLayhSA5U61gGb) | 1:47 | 2020-12-13\* | 2021-02-25 |
 | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 | 2023-04-25 |  |
 | [whilesupplieslast](https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [thishouseisnotahome](https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2) | 1:20 | 2023-04-12 |  |

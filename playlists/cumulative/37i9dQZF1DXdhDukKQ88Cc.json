@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Der Kommer En Dag",
+        "url": "https://open.spotify.com/album/2qWaptQGTODsiCzrYt3QmS"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158960,
+      "name": "Der Kommer En Dag",
+      "url": "https://open.spotify.com/track/0FdCmsOZQmExwEUda6WvNI"
+    },
+    {
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/2z8UheCV1yM8NExgzNJPPA"
       },

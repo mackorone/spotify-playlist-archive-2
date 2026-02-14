@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,900 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,898 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 17 | [My Head & My Heart \- Jonas Blue Remix](https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Head & My Heart \(Jonas Blue Remix\)](https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe) | 2:59 |
 | 18 | [By Your Side](https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:21 |
 | 19 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
-| 20 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
-| 21 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
+| 20 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
+| 21 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
 | 22 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
 | 23 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW) | 3:11 |
 | 24 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Now or Never](https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:05 |
 | 50 | [Billboard](https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [Billboard](https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr) | 2:52 |
 
-Snapshot ID: `aYvGgAAAAABfu8/Ov+oFm8FPaH8sx25d`
+Snapshot ID: `aY0YAAAAAADktuNrYMx051j9kc65kMce`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,393 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,397 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 32 | [The Prince That Was Promised](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 |
 | 33 | [Finale](https://open.spotify.com/track/3Z0QYWxOndrwwtiUyybjSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:31 |
 | 34 | [Heir to Winterfell](https://open.spotify.com/track/6hL134phTqx5bNFcVtbSyq) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:14 |
-| 35 | [Dance of Dragons](https://open.spotify.com/track/6YTc18izaUvCS2XD7rK9Am) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ) | 3:08 |
-| 36 | [Blood of My Blood](https://open.spotify.com/track/7kMr7gQm5lzvwlc5VZHgMO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:35 |
+| 35 | [Blood of My Blood](https://open.spotify.com/track/7kMr7gQm5lzvwlc5VZHgMO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:35 |
+| 36 | [Dance of Dragons](https://open.spotify.com/track/6YTc18izaUvCS2XD7rK9Am) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ) | 3:08 |
 | 37 | [Two Swords](https://open.spotify.com/track/2tTL5i8WbAHjytktA4NTHR) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 1:49 |
 | 38 | [Reign of the Targaryens](https://open.spotify.com/track/3XcPY110hQ07HNWqDZIZgU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:31 |
-| 39 | [I Have to Go North](https://open.spotify.com/track/7zHgw57kui6pUeG4ITslMX) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 1:23 |
-| 40 | [Mother Of Dragons](https://open.spotify.com/track/3czgLTPcYPQlkcnMeVxziP) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:35 |
+| 39 | [Mother Of Dragons](https://open.spotify.com/track/3czgLTPcYPQlkcnMeVxziP) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:35 |
+| 40 | [I Have to Go North](https://open.spotify.com/track/7zHgw57kui6pUeG4ITslMX) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 1:23 |
 | 41 | [Breaker of Chains](https://open.spotify.com/track/4Lk1qSykuFO6mW926IVZJj) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 4:05 |
 | 42 | [The Crown of Jaehaerys](https://open.spotify.com/track/0W8XFThbr9Kbg6sh7Pm12k) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 3:19 |
 | 43 | [Maester](https://open.spotify.com/track/2Ift6YpqOCINgVYvGx8nVW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 49 | [The Real North](https://open.spotify.com/track/1JsmZOIUKKX0urCbjXuYBt) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:03 |
 | 50 | [Blood of the Dragon](https://open.spotify.com/track/3As7Ugnc8VMp1Xf54VwwLW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ) | 1:33 |
 
-Snapshot ID: `aYvGgAAAAAAHtoCTOXMDhkQIBNVFjbQi`
+Snapshot ID: `aY0YAAAAAAAJrntoJH01LrGHqHF3Xyl6`

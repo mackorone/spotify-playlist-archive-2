@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,042 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,043 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [My Heart's Been Waiting for You \- feat\. Duvall](https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:24 |
 | 50 | [Your Way](https://open.spotify.com/track/2g7uNji2ayan37eqJEemka) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 2:58 |
 
-Snapshot ID: `aYvGgAAAAADLW8PpxlVl498t/0DI7IvT`
+Snapshot ID: `aY0YAAAAAAD55XFSHM3wOjdQinMgntFq`

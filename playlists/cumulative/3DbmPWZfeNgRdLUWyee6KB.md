@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-626 songs - 1 day 13 hr 4 min
+628 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Holidays \(On My Way\)](https://open.spotify.com/track/4aPN4TKpYy5CZ8P6ObzXab) | [December Fades](https://open.spotify.com/artist/2HDGyFz7k2ZtvHMeWOlsdi) | [Holidays \(On My Way\)](https://open.spotify.com/album/5L36ZToFRhAACWuRFGHwt2) | 4:03 | 2025-12-19 | 2026-01-15 |
 | [Hollow Days \(Stay Strong\)](https://open.spotify.com/track/0uZKF2peoPdsw2xz1b0CT9) | [Saguru](https://open.spotify.com/artist/61qZ7es6fFlppv6I1r32V8) | [Hollow Days \(Stay Strong\)](https://open.spotify.com/album/2vnTOWTxiWasF7U9STtcfT) | 3:22 | 2025-10-21 | 2025-11-29 |
 | [Hollow Point](https://open.spotify.com/track/3OY0szrjv0mSzDIyaSs8bM) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Bruno Zoia](https://open.spotify.com/artist/7ttBJe2rfmfXHctvB887kD), [Roberto Pentassuglia](https://open.spotify.com/artist/0s4A17TXOJbIEmrg1jtI6t), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [Hollow Point](https://open.spotify.com/album/1bg6X4pPtDDNVpGU6m6MS0) | 5:14 | 2023-11-09 | 2025-11-29 |
+| [HOPE \(MOM\)](https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH) | [IAMBOKI](https://open.spotify.com/artist/4X6awOXdDYyq4DJqi6XGoF), [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [HOPE \(MOM\)](https://open.spotify.com/album/5PJIzgVMw4kBLsn9v6GjWu) | 3:41 | 2026-02-13 |  |
 | [How It Ends](https://open.spotify.com/track/4gauRBwNouMVSuhhULs53J) | [Amber Sawyer](https://open.spotify.com/artist/1SerujJXOuAslvtCc80X3c) | [How It Ends](https://open.spotify.com/album/1Jh9zDw8HvJINyIFQgh4w1) | 3:17 | 2026-01-08 | 2026-02-03 |
 | [How'd You Get Here](https://open.spotify.com/track/06YPAAkCdIDHTs3rA1oPjZ) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/album/30hSDxBhr4JnFry1yPCHZm) | 3:20 | 2025-12-15 | 2026-01-15 |
 | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/track/6zQelbgxGQjsPbn6eaPRNG) | [JUAN HUMO](https://open.spotify.com/artist/3WXP65ZKIX6dfhOhrFOHsS), [maui](https://open.spotify.com/artist/00dQ9WiJc29XUzvWXvCXlG) | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/album/18YVHuUzk7MftUfUX3LCcB) | 4:33 | 2025-12-15 | 2026-01-15 |
@@ -629,6 +630,7 @@
 | [Yours](https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Yours](https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H) | 3:10 | 2025-11-26 | 2026-01-05 |
 | [¡Sálvese quien pueda!](https://open.spotify.com/track/3N2kTdJIK0inDmclvAnXGk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¡Sálvese quien pueda!](https://open.spotify.com/album/3ca7xs9oyiaoYsXWdBVN4G) | 3:38 | 2025-11-25 | 2026-01-05 |
 | [Θα χαθείς με τη βροχή](https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ) | [Vasilis Konstantinakos](https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh), [Maria Michalaka](https://open.spotify.com/artist/4rboAqEBfIBnyA0xiiNZi2) | [Θα χαθείς με τη βροχή](https://open.spotify.com/album/4wBzl4GQclHbCliJEgSWeM) | 4:54 | 2025-12-25 | 2026-01-24 |
+| [Эдем](https://open.spotify.com/track/4kyoAnYQxbqymB1xoeaGdR) | [Алекс Рипли](https://open.spotify.com/artist/1BRBBmrzBFq2gPxP1FkByB) | [Эдем](https://open.spotify.com/album/1I2vdv0zR2gGZc4ANH8hcY) | 2:32 | 2026-02-13 |  |
 | [ひとり](https://open.spotify.com/track/7xLu5dgYm4EhCnkNG3d4li) | [MONDA](https://open.spotify.com/artist/2lAZUpLD2ZwUSnXvKU2bPi) | [ひとり](https://open.spotify.com/album/14ZLH4GxrkSMUJqqPbPbbv) | 3:57 | 2026-01-17 |  |
 | [また来年も](https://open.spotify.com/track/024OgPIO0sH8bIrovLEv0f) | [Moonlight Chorizo](https://open.spotify.com/artist/0cCNixvpASdvsL7l1678xt) | [またこの季節に](https://open.spotify.com/album/5rdjdGluOTlJ17xPHYOoY1) | 3:11 | 2025-12-23 | 2026-01-24 |
 | [你眼中的伤痕 • The Scars in Your Eyes](https://open.spotify.com/track/5kGIPlGN99k3tUXKSjrirF) | [彭俐客](https://open.spotify.com/artist/3h1LgXnjamZJ2YBk36REGe) | [献给 AI 的思考 • Thoughts for AI](https://open.spotify.com/album/4K4lChy5piyec9S6EN9gLj) | 3:46 | 2026-01-30 |  |

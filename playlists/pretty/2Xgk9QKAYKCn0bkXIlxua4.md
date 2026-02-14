@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain]
 
 > 
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 415 songs - 1 day 3 hr 32 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 417 songs - 1 day 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -423,5 +423,7 @@ pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain]
 | 413 | [Valerie](https://open.spotify.com/track/5JaqApg5415jtjdyjY3wa9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/2XGEyGU76kj55OdHWynX0S) | 4:46 |
 | 414 | [Fire In My Heart](https://open.spotify.com/track/5B5RSDLm2EEh9YtmIhMDqi) | [Escape from New York](https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9) | [Tales of Jura](https://open.spotify.com/album/3mKfJrYbLrK4W3wnByXpzb) | 5:13 |
 | 415 | [202 \- English Version](https://open.spotify.com/track/7tbGerLE15sFab0bnDW9En) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(English Version\)](https://open.spotify.com/album/2UocyBQu8IFe0MoilropqI) | 2:50 |
+| 416 | [have to.](https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:27 |
+| 417 | [other side.](https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:15 |
 
-Snapshot ID: `AAACBY9sdq/XjZ2rDdFI7n011dVu7LFi`
+Snapshot ID: `AAACByTQtV0s1J+bcsxhhE/X7OafKA3s`

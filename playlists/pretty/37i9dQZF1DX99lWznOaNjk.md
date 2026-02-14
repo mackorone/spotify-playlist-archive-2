@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99lWznOaNjk.md) - [plain]
 
 > Today's biggest and most exciting videos\. Music videos available only on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99lWznOaNjk.md) - [plain]
 | 24 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
 | 25 | [I Got Better](https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:24 |
 
-Snapshot ID: `AAAAAI12LPU1jmvBZW8OKmvxiJ24Jipp`
+Snapshot ID: `AAAAAKIaajey5wD+nUYdteUiP3mJS0L6`

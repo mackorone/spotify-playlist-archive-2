@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 731873,
+  "num_followers": 731859,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,26 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "If U Need It",
-        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+        "name": "Can't Decide",
+        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
         }
       ],
-      "duration_ms": 179999,
-      "name": "If U Need It",
-      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
+      "duration_ms": 175384,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -543,26 +551,18 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Can't Decide",
-        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
       },
       "artists": [
         {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Can't Decide",
-      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "NOW IT'S GONE",
-        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        }
-      ],
-      "duration_ms": 143184,
-      "name": "NOW IT'S GONE",
-      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 148155,
       "name": "Rave Out",
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "DNA (Loving You) [feat. Hannah Boleyn]",
         "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
       },
@@ -1215,6 +1199,42 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Beat Is Jumping",
+        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 139436,
+      "name": "Beat Is Jumping",
+      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1259,26 +1279,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Beat Is Jumping",
-        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 139436,
-      "name": "Beat Is Jumping",
-      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Slow Burner",
         "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
       },
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Satisfaction Skank",
-        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 199488,
-      "name": "Satisfaction Skank",
-      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "2 RUFF, Vol. 1",
         "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 189693,
       "name": "Selecta (feat. Stefflon Don)",
       "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 233666,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1831,22 +1831,26 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7zRVJ1xwyE3udvxmPKhV3T"
+        "name": "0800 HEAVEN",
+        "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         },
         {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
+      "duration_ms": 159316,
+      "name": "0800 HEAVEN",
+      "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1871,26 +1875,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "0800 HEAVEN",
-        "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7zRVJ1xwyE3udvxmPKhV3T"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         },
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 159316,
-      "name": "0800 HEAVEN",
-      "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
     },
     {
       "added_at": "2026-01-23 00:00:40",

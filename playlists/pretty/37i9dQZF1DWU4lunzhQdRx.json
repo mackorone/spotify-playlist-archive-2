@@ -1,12 +1,12 @@
 {
   "description": "I sit in parks, it breaks my heart \ud83d\udc94",
-  "num_followers": 211991,
+  "num_followers": 212054,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGYJaaGUqeyeEOBVlH3ovFEoaLd",
+  "snapshot_id": "AAAAAAgo9CbnldYc/f6LMeuI8acf0JtX",
   "tracks": [
     {
       "added_at": "2026-02-06 05:00:32",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-02-06 05:00:32",
       "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
+    },
+    {
+      "added_at": "2026-02-06 05:00:32",
+      "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 242840,
       "name": "You and Tequila (feat. Grace Potter)",
       "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
-    },
-    {
-      "added_at": "2026-02-06 05:00:32",
-      "album": {
-        "name": "Every Little Thing",
-        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
     },
     {
       "added_at": "2026-02-06 05:00:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Daphni",
+  "description": "The best of today's dance hits. Cover: Danny L Harle & Dua Lipa",
   "name": "mint Canada",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207223,
       "name": "A New Day (feat. Celine Dion)",
       "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
@@ -4366,7 +4366,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243692,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/7wCt4CbJlsOH2QVB9mxsZv"
@@ -6016,6 +6016,28 @@
       "duration_ms": 169108,
       "name": "Come Around Again",
       "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
+    },
+    {
+      "album": {
+        "name": "Come Back 2 Me",
+        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193564,
+      "name": "Come Back 2 Me",
+      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
     },
     {
       "album": {
@@ -18951,6 +18973,28 @@
     },
     {
       "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
+    },
+    {
+      "album": {
         "name": "Just Wanna Dance",
         "url": "https://open.spotify.com/album/1j9KV6qpaHPNeMODL0Vx80"
       },
@@ -23482,7 +23526,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219692,
       "name": "Mind Dimension - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
@@ -27281,6 +27325,24 @@
     },
     {
       "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
+      "album": {
         "name": "Out of Time (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/3bYjmOOhtkMfjqfKdvhCjm"
       },
@@ -28814,7 +28876,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171162,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
@@ -38384,6 +38446,28 @@
       "duration_ms": 135212,
       "name": "two",
       "url": "https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK"
+    },
+    {
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "album": {

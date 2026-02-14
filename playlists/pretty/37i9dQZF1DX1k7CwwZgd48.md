@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 
 > Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,171 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,234 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 | 33 | [Dueña De Mis Besos](https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tesoro](https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna) | 2:31 |
 | 34 | [Te Regalo](https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Regalo](https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd) | 2:33 |
 | 35 | [Alégale Al Umpire](https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:28 |
-| 36 | [Modelo V](https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Modelo V](https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd) | 3:10 |
+| 36 | [MODELO V](https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [MODELO V](https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd) | 3:10 |
 | 37 | [Supercargada](https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Supercargada](https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1) | 2:55 |
 | 38 | [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 |
 | 39 | [Rigo Campos](https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Rigo Campos](https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb) | 3:47 |

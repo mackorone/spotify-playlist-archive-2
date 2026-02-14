@@ -4,14 +4,14 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-221 songs - 13 hr 10 min
+222 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1001 NOITES IS OVER](https://open.spotify.com/track/45Wthdf5BJg0ZFSWIuPrHD) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 5:14 | 2025-05-16 | 2025-10-10 |
 | [3 Eternidades](https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [3 Eternidades](https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h) | 2:34 | 2024-06-28 | 2024-09-14 |
 | [4AM](https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [4AM](https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX) | 2:57 | 2024-04-05 | 2025-10-25 |
-| [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 | 2025-05-30 |  |
+| [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 | 2025-05-30 | 2026-02-14 |
 | [A Cidade Sumiu](https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [A Cidade Sumiu](https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ) | 2:57 | 2024-07-19 | 2025-09-27 |
 | [A Gente Sabe Se Amar](https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:44 | 2023-07-21 | 2025-02-15 |
 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-23 | 2025-09-20 |
@@ -96,6 +96,7 @@
 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 | 2024-04-12 |  |
 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 | 2024-02-23 |  |
 | [Ir Embora](https://open.spotify.com/track/3rzfDmDuPJ8AJhB3K4QAkK) | [Banda de UM](https://open.spotify.com/artist/1144o8ABGaronlide0iQeq) | [Jovem Senhor](https://open.spotify.com/album/4oDCz3Cm91wAPkqLnOemQh) | 3:22 | 2024-07-19 | 2024-09-14 |
+| [Janeiro 26](https://open.spotify.com/track/5JWbcr5k7qpmM59vHzE8x2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Janeiro 26](https://open.spotify.com/album/6vXksyfbtWY2TDeHKjfQ5K) | 3:13 | 2026-02-13 |  |
 | [Jogados na Areia](https://open.spotify.com/track/3rdcayLAinZ31kWyREpWwJ) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Jogados na Areia](https://open.spotify.com/album/62Zg61iFQXcItuCuSYdTlH) | 3:12 | 2023-07-21 | 2024-04-06 |
 | [Lanterna Dos Afogados](https://open.spotify.com/track/2ooYFhMEWlxsvkGVw6QMlM) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 3:09 | 2023-07-21 | 2024-04-19 |
 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 | 2024-04-19 | 2025-11-01 |

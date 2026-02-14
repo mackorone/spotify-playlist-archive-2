@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 78 | [Glasheen Road](https://open.spotify.com/track/50Y6DDQlOLdVOFHIktJBgw) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Maybe It Was All For This](https://open.spotify.com/album/64nxWU5wIxftHZFIqqb3Ui) | 3:20 |
 | 79 | [Slow Motion](https://open.spotify.com/track/0BFlm17OcFErnis6lOAqGu) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion](https://open.spotify.com/album/3C1eTUna7iyd8fYVonF2pR) | 3:01 |
 | 80 | [Coffee](https://open.spotify.com/track/13d5kDTQqKGkx5n4uGWumz) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Coffee](https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t) | 2:55 |
-| 81 | [Out Of Breath](https://open.spotify.com/track/16hiFD7T158Mi0Zqnr9d7C) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/6I6mMDNoDoWePzEhnbzDSs) | 3:12 |
-| 82 | [Time Will Make It Better](https://open.spotify.com/track/5noBsSN3xvlS8uR6UfMKT0) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Time Will Make It Better](https://open.spotify.com/album/3KScPmp6OltdnhV3WBEzHS) | 4:00 |
+| 81 | [Time Will Make It Better](https://open.spotify.com/track/5noBsSN3xvlS8uR6UfMKT0) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Time Will Make It Better](https://open.spotify.com/album/3KScPmp6OltdnhV3WBEzHS) | 4:00 |
+| 82 | [Out Of Breath](https://open.spotify.com/track/16hiFD7T158Mi0Zqnr9d7C) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/6I6mMDNoDoWePzEhnbzDSs) | 3:12 |
 | 83 | [Fall So Easy](https://open.spotify.com/track/0luP4uMdiFgBaOEBNC8cEl) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elkin](https://open.spotify.com/artist/4emwUTOdG3XWavS57kZhgn) | [Fall So Easy](https://open.spotify.com/album/0URTcjVa6Fdohlq4NaAxMs) | 3:22 |
 | 84 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 85 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AcJgNgAAAACP725oTG4ADAvLbw7KnnfJ`
+Snapshot ID: `AcJlzAAAAAAgO4npTvHZe4ss+ZHxHckq`

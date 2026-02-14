@@ -1,76 +1,28 @@
 {
   "description": "a serotonin forward glow ",
-  "num_followers": 1684923,
+  "num_followers": 1685138,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGQ3s7fnYAZDsNb2zNvSlgjNFlPw",
+  "snapshot_id": "AAAAAD7V8OSn3f1TeqhKerNhm3+8Yh7z",
   "tracks": [
     {
-      "added_at": "2025-09-26 18:55:37",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
-    },
-    {
-      "added_at": "2025-11-25 22:27:42",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2025-07-18 04:00:21",
-      "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "malibU",
-      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
-    },
-    {
-      "added_at": "2026-01-16 16:53:47",
-      "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -89,20 +41,20 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2025-11-25 22:27:42",
+      "added_at": "2025-10-10 04:00:48",
       "album": {
-        "name": "Paradise Now & Forever",
-        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 215531,
-      "name": "Lipdance",
-      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -121,6 +73,38 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "malibU",
+      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "added_at": "2025-11-25 22:27:42",
+      "album": {
+        "name": "Paradise Now & Forever",
+        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 215531,
+      "name": "Lipdance",
+      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Submarine",
@@ -135,22 +119,6 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
-    },
-    {
-      "added_at": "2026-01-05 17:26:15",
-      "album": {
-        "name": "My Home Is Not In This World",
-        "url": "https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Bergman",
-          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
-        }
-      ],
-      "duration_ms": 193376,
-      "name": "My Home Is Not In This World",
-      "url": "https://open.spotify.com/track/37xTLJJuchzGGjAPUnli2I"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -173,6 +141,22 @@
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
     },
     {
+      "added_at": "2025-11-25 22:27:42",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Good Luck, Babe!",
@@ -187,42 +171,6 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2025-12-05 15:20:39",
-      "album": {
-        "name": "Sorted",
-        "url": "https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        },
-        {
-          "name": "Banshee The Great",
-          "url": "https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p"
-        }
-      ],
-      "duration_ms": 227652,
-      "name": "Sorted",
-      "url": "https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP"
-    },
-    {
-      "added_at": "2025-10-10 04:00:48",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2024-12-27 17:14:21",
@@ -243,6 +191,26 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2025-12-05 15:20:39",
+      "album": {
+        "name": "Sorted",
+        "url": "https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        },
+        {
+          "name": "Banshee The Great",
+          "url": "https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p"
+        }
+      ],
+      "duration_ms": 227652,
+      "name": "Sorted",
+      "url": "https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -281,22 +249,6 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-10-24 04:00:12",
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206003,
-      "name": "Doing It Too",
-      "url": "https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
@@ -329,20 +281,20 @@
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
-      "added_at": "2025-12-05 15:20:39",
+      "added_at": "2025-10-24 04:00:12",
       "album": {
-        "name": "You're Fine, You're High",
-        "url": "https://open.spotify.com/album/2oOvCfDTv5vvyzHEPZYvjk"
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
       "artists": [
         {
-          "name": "KuleeAngee",
-          "url": "https://open.spotify.com/artist/7u56IQStytIQ51gm5haOeM"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 206204,
-      "name": "You're Fine, You're High",
-      "url": "https://open.spotify.com/track/55O0VAC8CtARQO7qfjibVD"
+      "duration_ms": 206003,
+      "name": "Doing It Too",
+      "url": "https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -375,6 +327,22 @@
       "duration_ms": 173991,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2025-12-05 15:20:39",
+      "album": {
+        "name": "You're Fine, You're High",
+        "url": "https://open.spotify.com/album/2oOvCfDTv5vvyzHEPZYvjk"
+      },
+      "artists": [
+        {
+          "name": "KuleeAngee",
+          "url": "https://open.spotify.com/artist/7u56IQStytIQ51gm5haOeM"
+        }
+      ],
+      "duration_ms": 206204,
+      "name": "You're Fine, You're High",
+      "url": "https://open.spotify.com/track/55O0VAC8CtARQO7qfjibVD"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -521,6 +489,22 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
+      "added_at": "2026-01-16 16:53:47",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
       "added_at": "2024-12-27 17:14:21",
       "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
@@ -539,22 +523,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2026-01-16 16:53:47",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -587,6 +555,22 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2025-09-26 18:55:37",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2025-04-04 04:00:27",
@@ -687,22 +671,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Shame, Shame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Where'd All the Time Go?",
-      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -715,6 +683,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Shame, Shame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Where'd All the Time Go?",
+      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -733,22 +717,6 @@
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Picture Show",
@@ -763,6 +731,22 @@
       "duration_ms": 177280,
       "name": "Everybody Talks",
       "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -1035,6 +1003,22 @@
       "duration_ms": 280586,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2025-09-12 04:00:21",
@@ -1113,26 +1097,6 @@
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "Sweet Disposition (a moment, a love)",
-        "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 212209,
-      "name": "Sweet Disposition (a moment, a love)",
-      "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Euphories",
@@ -1155,6 +1119,26 @@
       "duration_ms": 226026,
       "name": "Amour plastique",
       "url": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
+    },
+    {
+      "added_at": "2025-05-30 04:00:35",
+      "album": {
+        "name": "Sweet Disposition (a moment, a love)",
+        "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 212209,
+      "name": "Sweet Disposition (a moment, a love)",
+      "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1371,6 +1355,22 @@
       "duration_ms": 192160,
       "name": "Love$ick (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228593,
+      "name": "8TEEN",
+      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
     }
   ],
   "unique_name": "DOPAMINE",

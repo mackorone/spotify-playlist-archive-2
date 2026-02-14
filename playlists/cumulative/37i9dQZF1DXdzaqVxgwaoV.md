@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-376 songs - 22 hr 50 min
+377 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 | 2023-11-09 | 2025-10-04 |
 | [Alma de Mujer](https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Reminiscencias](https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP) | 2:26 | 2023-02-03 | 2024-09-02 |
 | [Amaneciendo](https://open.spotify.com/track/6Zxog7v7iLtLGPO0p5LLst) | [Adolfo Echeverria](https://open.spotify.com/artist/3msRUQeJsvGGEmaZOfrtFh) | [Música Tropical de Colombia: 16 Grandes Éxitos \(Vol\. 1\)](https://open.spotify.com/album/0lWMkUyk1Wyz530J96NTF4) | 3:50 | 2025-09-09 | 2025-10-04 |
-| [Amapola](https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Amapola](https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW) | 3:12 | 2024-09-01 |  |
+| [Amapola](https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Amapola](https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW) | 3:12 | 2024-09-01 | 2026-02-14 |
 | [Amargo Y Dulce](https://open.spotify.com/track/5qpLb0kL7Z8NRAlN6EWjXN) | [Doris Salas con la Tremenda](https://open.spotify.com/artist/4sRiK0tbwYoalygZ3WgDFF) | [Gran Festival De Porros Y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 4:26 | 2025-11-20 |  |
 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 | 2023-02-03 | 2024-09-02 |
 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [Juan Carlos Hurtado](https://open.spotify.com/artist/7oI4D3DpyX9jscPFPh44Yf) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 | 2023-02-03 | 2024-09-02 |
@@ -186,6 +186,7 @@
 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 | 2023-02-03 | 2024-09-02 |
 | [La Matica](https://open.spotify.com/track/37TH0D7WqEAjnKKjSWVCCa) | [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [Banda Los Hijos De La Niña Luz](https://open.spotify.com/album/5RGfBz5Vn70danDfxPRNry) | 3:58 | 2023-12-05 | 2025-10-04 |
 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 | 2023-02-03 | 2024-09-02 |
+| [La Molinera](https://open.spotify.com/track/7s2vffYrqcDb6ota0NbzdQ) | [Bovea Y Sus Vallenatos](https://open.spotify.com/artist/64OlwPCoVudxb3laVVxqvV), [Alberto Fernandez](https://open.spotify.com/artist/3Pp4UuZvKfW8dfnwYeQeic) | [Los Cantos Vallenatos de Escalona \- 18 Éxitos](https://open.spotify.com/album/2aDc695vrjmfMiZ1a1L0P6) | 3:02 | 2025-12-17 |  |
 | [La Noche](https://open.spotify.com/track/15DUcGdD7BnGEJW6cZmtbd) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 4:23 | 2024-09-01 | 2024-10-18 |
 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 | 2023-02-03 |  |
 | [La Paloma Guarumera](https://open.spotify.com/track/16bOQUi9cs6bb08VWDoH7U) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [Mis Mejores Éxitos](https://open.spotify.com/album/3mXNuSz9Z5piZOVIHsfB4D) | 2:56 | 2023-12-20 | 2024-05-23 |

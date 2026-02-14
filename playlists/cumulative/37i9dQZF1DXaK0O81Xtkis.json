@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Whitney Whitney",
+  "description": "a little indie, a little pop, soda featuring Knox",
   "name": "soda",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210885,
       "name": "6 Feet Under",
       "url": "https://open.spotify.com/track/41n5NNDfMFv9nhSutXMXPX"
@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 211964,
       "name": "Break the Girl",
       "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
@@ -5384,7 +5384,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 162313,
       "name": "COULDA NOT",
       "url": "https://open.spotify.com/track/4ZCiBayQ8AFbOW3kQuXn9y"
@@ -6041,6 +6041,24 @@
     },
     {
       "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
+    },
+    {
+      "album": {
         "name": "Dangerous Game",
         "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
       },
@@ -6496,7 +6514,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 183076,
       "name": "Different, Worse Versions",
       "url": "https://open.spotify.com/track/6e3kXGh5HwuKZNMSi46qCU"
@@ -7738,7 +7756,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 195229,
       "name": "Everyone\u2019s A Star!",
       "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
@@ -9137,6 +9155,24 @@
     },
     {
       "album": {
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/05KNazpljahHfx1ElDNujj"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136225,
+      "name": "Girls Just Wanna",
+      "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
+    },
+    {
+      "album": {
         "name": "Girls Just Wanna Be Famous",
         "url": "https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt"
       },
@@ -9336,6 +9372,24 @@
       "duration_ms": 219612,
       "name": "Go Fast Go Slow",
       "url": "https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz"
+    },
+    {
+      "album": {
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
       "album": {
@@ -11698,7 +11752,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 238951,
       "name": "I Don't Blame You",
       "url": "https://open.spotify.com/track/2q4OrVl17enVQwEP3FqICn"
@@ -15242,7 +15296,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 181737,
       "name": "lost",
       "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
@@ -15912,7 +15966,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168580,
       "name": "me with no shirt on",
       "url": "https://open.spotify.com/track/4kfbeIjJ5jgiAqgKlRIuUs"
@@ -16565,6 +16619,24 @@
     },
     {
       "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/71LN5sgNOqcRkIk2Kbi6jR"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152720,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/1F5G0Au0xfNSYnX7NCDnqC"
+    },
+    {
+      "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
       },
@@ -16666,7 +16738,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 125786,
       "name": "mood swings",
       "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
@@ -17522,7 +17594,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 237423,
       "name": "nobody matters but You",
       "url": "https://open.spotify.com/track/418GRtVIC4w7aN26ADRMPO"
@@ -18626,7 +18698,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 195982,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/5YtYSUSeKI6jgNlY9Dprmr"
@@ -19250,7 +19322,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 198693,
       "name": "pollen",
       "url": "https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp"
@@ -20880,7 +20952,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 183173,
       "name": "She Goes",
       "url": "https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD"
@@ -22862,7 +22934,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 203395,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/6lT1D6MI2NUpDUlrRVFL7g"
@@ -23512,7 +23584,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164911,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/1Y9ewybegCoWaDE1wDcsxX"
@@ -25590,7 +25662,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 206628,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
@@ -26164,7 +26236,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
@@ -26182,7 +26254,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 132637,
       "name": "wannabe!",
       "url": "https://open.spotify.com/track/1GRm70qZVH8GAjyPIZcpV4"
@@ -27022,7 +27094,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 206600,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/5vtgw0pMPr8eue3CLcfeQC"

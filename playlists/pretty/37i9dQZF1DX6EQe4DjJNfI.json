@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 185577,
+  "num_followers": 185607,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Montanha Russa (Would you be mine?)",
         "url": "https://open.spotify.com/album/7LaAeCU06NznWBVefPRG7e"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Ci\u00fame",
         "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 200522,
       "name": "Ci\u00fame",
       "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -491,22 +507,6 @@
       "duration_ms": 145078,
       "name": "Sai do Meu Radar",
       "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Poema Sujo",
         "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 187733,
       "name": "Falar De Amor - Remix",
       "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -675,22 +675,18 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -719,42 +715,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 201264,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -795,22 +771,26 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+      "duration_ms": 201264,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -835,26 +815,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Sem Barulho, Pt. II",
-        "url": "https://open.spotify.com/album/1NQkBNd8oP0o36bd2ZoLcm"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
       "artists": [
         {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
         }
       ],
-      "duration_ms": 171408,
-      "name": "Sem Barulho, Pt. II",
-      "url": "https://open.spotify.com/track/3hS3E6zdujHmyskjOLClX7"
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -875,6 +851,30 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Sem Barulho, Pt. II",
+        "url": "https://open.spotify.com/album/1NQkBNd8oP0o36bd2ZoLcm"
+      },
+      "artists": [
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "duration_ms": 171408,
+      "name": "Sem Barulho, Pt. II",
+      "url": "https://open.spotify.com/track/3hS3E6zdujHmyskjOLClX7"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2026-01-30 14:06:41",

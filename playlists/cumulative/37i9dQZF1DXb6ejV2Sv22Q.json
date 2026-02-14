@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Eliangel en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  008RACCA en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -528,6 +528,24 @@
       "duration_ms": 174000,
       "name": "ALV",
       "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
+    },
+    {
+      "album": {
+        "name": "AMANTES",
+        "url": "https://open.spotify.com/album/1RDicbxeFHWyoTzzV13xxk"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180144,
+      "name": "AMANTES",
+      "url": "https://open.spotify.com/track/5lqi80trHHTiGk2JYBG2JH"
     },
     {
       "album": {
@@ -1160,6 +1178,24 @@
       "duration_ms": 90783,
       "name": "BANDOLERA",
       "url": "https://open.spotify.com/track/2XnaKNAz1AtXCpnNqXvEDX"
+    },
+    {
+      "album": {
+        "name": "BAPE",
+        "url": "https://open.spotify.com/album/4THe82zIaQ9jPSpiT2de0c"
+      },
+      "artists": [
+        {
+          "name": "LYLY!",
+          "url": "https://open.spotify.com/artist/2hbrINwBSsd5qyvoC62yzB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "BAPE",
+      "url": "https://open.spotify.com/track/0IPy9vDKXFDrLrjyb1wyJm"
     },
     {
       "album": {
@@ -1867,6 +1903,28 @@
     },
     {
       "album": {
+        "name": "Corre, mi vida",
+        "url": "https://open.spotify.com/album/1eTi9JHapHWRTSmWrjRaOG"
+      },
+      "artists": [
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215531,
+      "name": "Corre, mi vida",
+      "url": "https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9"
+    },
+    {
+      "album": {
         "name": "COWBELL GOTH",
         "url": "https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM"
       },
@@ -1896,7 +1954,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164464,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/1gJY719LKn133JORcLSQDz"
@@ -2746,7 +2804,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 203996,
       "name": "encaje blanco",
       "url": "https://open.spotify.com/track/1wq11WBzNysSLjFKvl5a2F"
@@ -3484,7 +3542,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 173332,
       "name": "HERI2",
       "url": "https://open.spotify.com/track/7wFtnMgUCpPLrAW2uGkQ1Q"
@@ -3618,6 +3676,24 @@
       "duration_ms": 236000,
       "name": "Hoy No Estoy De Buen Humor",
       "url": "https://open.spotify.com/track/0regSIbiOVW47pJnGwaLMx"
+    },
+    {
+      "album": {
+        "name": "Hoy que despert\u00e9",
+        "url": "https://open.spotify.com/album/4C6Z4vSkd1Yuz26rTRMpUS"
+      },
+      "artists": [
+        {
+          "name": "Salven al Tigre",
+          "url": "https://open.spotify.com/artist/18aRELpJZRlfuqCbkcYJ2y"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Hoy que despert\u00e9",
+      "url": "https://open.spotify.com/track/64L2bg7emkxG1IYjmMbdbT"
     },
     {
       "album": {
@@ -4482,7 +4558,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199846,
       "name": "la vuelta",
       "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
@@ -4522,6 +4598,24 @@
       "duration_ms": 214500,
       "name": "Labios de Cereza",
       "url": "https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn"
+    },
+    {
+      "album": {
+        "name": "Labios Rojos",
+        "url": "https://open.spotify.com/album/6tjleHptgSouBlg023nOWk"
+      },
+      "artists": [
+        {
+          "name": "Luis Picazo",
+          "url": "https://open.spotify.com/artist/3RYd20OmBChTr6yk6KXq9P"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161045,
+      "name": "Labios Rojos",
+      "url": "https://open.spotify.com/track/57wwJv8AssuJGvFipw3YYq"
     },
     {
       "album": {
@@ -5014,7 +5108,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 157333,
       "name": "MALA",
       "url": "https://open.spotify.com/track/29tn0iKI3j6HgQmiFvNsg8"
@@ -6496,7 +6590,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 166000,
       "name": "otravezmepusemal",
       "url": "https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU"
@@ -8418,7 +8512,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219546,
       "name": "Sue\u00f1os y Vicios",
       "url": "https://open.spotify.com/track/3dDCTJzcbG1HbYRHHZh6zk"
@@ -8724,6 +8818,24 @@
       "duration_ms": 228459,
       "name": "The Bug Collector",
       "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
+    },
+    {
+      "album": {
+        "name": "THX Lately",
+        "url": "https://open.spotify.com/album/61TZDWF4z4Pu1XpnmzUrN1"
+      },
+      "artists": [
+        {
+          "name": "DOA",
+          "url": "https://open.spotify.com/artist/1LdIHhre9LlhogpCJsDvgv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107428,
+      "name": "THX Lately",
+      "url": "https://open.spotify.com/track/3dCM2TXiyYn2IIw3vb7f4L"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60642,
+  "num_followers": 60662,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Feelings You Don't Say Out Loud",
         "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Catch & Release",
         "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
       },
@@ -559,6 +559,26 @@
       "duration_ms": 177421,
       "name": "Catch & Release",
       "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "500 kr",
+        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
+      },
+      "artists": [
+        {
+          "name": "I$AK",
+          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "500 kr",
+      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -583,26 +603,6 @@
       "duration_ms": 179917,
       "name": "Sygeplejerske p\u00e5 nattevagt (feat. Molly Sand\u00e9n & Delara)",
       "url": "https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "500 kr",
-        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
-      },
-      "artists": [
-        {
-          "name": "I$AK",
-          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
-        },
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "500 kr",
-      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Hittat hem",
         "url": "https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
       },
@@ -807,34 +807,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Love is for Losers",
-        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
       },
       "artists": [
         {
-          "name": "LOVIS",
-          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
+          "name": "Bellvie",
+          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Love is for Losers",
-      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Two Years",
-        "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 172889,
-      "name": "Two Years",
-      "url": "https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG"
+      "duration_ms": 199285,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -859,18 +843,34 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
+        "name": "Two Years",
+        "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
       },
       "artists": [
         {
-          "name": "Bellvie",
-          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
         }
       ],
-      "duration_ms": 199285,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
+      "duration_ms": 172889,
+      "name": "Two Years",
+      "url": "https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Love is for Losers",
+        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
+      },
+      "artists": [
+        {
+          "name": "LOVIS",
+          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Love is for Losers",
+      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "WHAT\u2019S CUTE ABOUT HELL?",
-        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
-      },
-      "artists": [
-        {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Heart of Glass",
-      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "N\u00e4r solen g\u00e5r ner",
         "url": "https://open.spotify.com/album/00hvBlNmx8fqWKsR7L7AIQ"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "WHAT\u2019S CUTE ABOUT HELL?",
+        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
+      },
+      "artists": [
+        {
+          "name": "Wilma Vidal",
+          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Fartblind",
         "url": "https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 160384,
       "name": "Fartblind",
       "url": "https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -995,34 +1011,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4"
+        "name": "Same Old Dirt",
+        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 181386,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "om vi f\u00f6rsvann",
-        "url": "https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 163269,
-      "name": "om vi f\u00f6rsvann",
-      "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
+      "duration_ms": 186893,
+      "name": "Same Old Dirt",
+      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Same Old Dirt",
-        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
+        "name": "om vi f\u00f6rsvann",
+        "url": "https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ"
       },
       "artists": [
         {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
         }
       ],
-      "duration_ms": 186893,
-      "name": "Same Old Dirt",
-      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+      "duration_ms": 163269,
+      "name": "om vi f\u00f6rsvann",
+      "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1075,50 +1075,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
       "artists": [
         {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Damned",
-        "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
-      },
-      "artists": [
-        {
-          "name": "Nause",
-          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Damned",
-      "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Cutting Ties",
-        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 261854,
-      "name": "Cutting Ties",
-      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1139,18 +1107,50 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Katedral Syndrom",
-        "url": "https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD"
+        "name": "Damned",
+        "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Katedral Syndrom",
-      "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
+      "duration_ms": 154340,
+      "name": "Damned",
+      "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 261854,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1167,6 +1167,22 @@
       "duration_ms": 179368,
       "name": "l.o.v.e",
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Katedral Syndrom",
+        "url": "https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Katedral Syndrom",
+      "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1251,6 +1267,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Stockholms Stad",
+        "url": "https://open.spotify.com/album/0v4cbgao9WR32PilaEWexC"
+      },
+      "artists": [
+        {
+          "name": "Solo",
+          "url": "https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh"
+        }
+      ],
+      "duration_ms": 151220,
+      "name": "Stockholms Stad",
+      "url": "https://open.spotify.com/track/09neevIioQIMtAqGsbObkg"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "I want you to be happy",
         "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
       },
@@ -1295,22 +1327,6 @@
       "duration_ms": 167050,
       "name": "...fifteen",
       "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Stockholms Stad",
-        "url": "https://open.spotify.com/album/0v4cbgao9WR32PilaEWexC"
-      },
-      "artists": [
-        {
-          "name": "Solo",
-          "url": "https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh"
-        }
-      ],
-      "duration_ms": 151220,
-      "name": "Stockholms Stad",
-      "url": "https://open.spotify.com/track/09neevIioQIMtAqGsbObkg"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Dubbel-CD:n",
         "url": "https://open.spotify.com/album/7tI9qVfdtA4vHbTFeuqKHW"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 194250,
       "name": "Tunnelbanejesus",
       "url": "https://open.spotify.com/track/1amRC28M4vDzQXhzRQ2Uta"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1487,22 +1503,6 @@
       "duration_ms": 180632,
       "name": "Where It Hurts",
       "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Honor",
-        "url": "https://open.spotify.com/album/2fzhx6hqryu0YH1lLoWPPN"
-      },
-      "artists": [
-        {
-          "name": "Cimberly",
-          "url": "https://open.spotify.com/artist/3Hkf2U4n32v1n6o6MLVXCD"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Honor",
-      "url": "https://open.spotify.com/track/1o8aY6qCQY3IcvplR3lGW5"
     }
   ],
   "unique_name": "p\u00e5 repeat",

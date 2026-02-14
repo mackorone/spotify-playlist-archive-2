@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 533542,
+  "num_followers": 533583,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Special Forces",
-        "url": "https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Caught Up In You",
-      "url": "https://open.spotify.com/track/3jYRpwbctfqB77uU7T7K3U"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Million Mile Reflections",
         "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 215066,
       "name": "The Devil Went Down to Georgia",
       "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Special Forces",
+        "url": "https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Caught Up In You",
+      "url": "https://open.spotify.com/track/3jYRpwbctfqB77uU7T7K3U"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Outlaws",
-        "url": "https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp"
-      },
-      "artists": [
-        {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "There Goes Another Love Song",
-      "url": "https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Georgia Satellites",
         "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 177386,
       "name": "Battleship Chains",
       "url": "https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Outlaws",
+        "url": "https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp"
+      },
+      "artists": [
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "There Goes Another Love Song",
+      "url": "https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -719,18 +719,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+      "duration_ms": 317438,
+      "name": "Whipping Post",
+      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 317438,
-      "name": "Whipping Post",
-      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2025-06-20 04:06:02",

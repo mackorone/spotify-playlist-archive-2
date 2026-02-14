@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75145,
+  "num_followers": 75146,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACpBJ9HvQGAj+x0KrkQnL5R",
+  "snapshot_id": "aY0YAAAAAAARufG7fL5TipjBEYthZ13L",
   "tracks": [
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Than We Found It",
-        "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197215,
-      "name": "Better Than We Found It",
-      "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D R E A M S I C L E (deluxe)",
         "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 167253,
       "name": "because, of course",
       "url": "https://open.spotify.com/track/32D40ahBsZPCaGkkQcUWv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Than We Found It",
+        "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197215,
+      "name": "Better Than We Found It",
+      "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
     },
     {
       "added_at": null,

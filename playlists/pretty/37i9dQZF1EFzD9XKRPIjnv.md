@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369 likes - 157 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,368 likes - 157 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
-| 2 | [Stay](https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay +](https://open.spotify.com/album/5auUsyFbwRARoWkOFopQ12) | 3:30 |
+| 2 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 |
 | 3 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 4 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
 | 5 | [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Happy Now](https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb) | 3:27 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 14 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 |
 | 15 | [Jaded](https://open.spotify.com/track/0LbZLBBZI1NfaDgb4dx0UD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:05 |
 | 16 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 |
-| 17 | [Younger](https://open.spotify.com/track/2qXicQG06oT0ijKBznpgQv) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Younger](https://open.spotify.com/album/4rTW2Lgkp1nwYw0jNIK2sI) | 3:42 |
-| 18 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 |
+| 17 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 |
+| 18 | [Younger](https://open.spotify.com/track/2qXicQG06oT0ijKBznpgQv) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Younger](https://open.spotify.com/album/4rTW2Lgkp1nwYw0jNIK2sI) | 3:42 |
 | 19 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 20 | [Free Spirit](https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:02 |
 | 21 | [High \(& Dua Lipa\)](https://open.spotify.com/track/3dD9yyYTQ73SZvyOygyKva) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:16 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 43 | [Crown \(with Camila Cabello & Grey\)](https://open.spotify.com/track/7qrMWXNwE1aD1o1sBnyIAh) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Crown \(with Camila Cabello & Grey\) \[From Bright: The Album\]](https://open.spotify.com/album/3QB2VHZ40qHxyTHSEzqthX) | 3:21 |
 | 44 | [Say It to My Face](https://open.spotify.com/track/27TOMo26A8fEPKTIBf9SNR) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:09 |
 | 45 | [Mad at You \(with Gallant\)](https://open.spotify.com/track/4G4EoG2Dk7kjisJKv9DP5h) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Mad at You \(with Gallant\)](https://open.spotify.com/album/7dyE6UJ5D2dj2VStrMkRbI) | 3:46 |
-| 46 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
-| 47 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
+| 46 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
+| 47 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
 | 48 | [Alone](https://open.spotify.com/track/3Gj3CIHeZjds77ITl8XX7r) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:36 |
 | 49 | [Quit You](https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quit You](https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M) | 3:41 |
 | 50 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 156 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 157 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AcJgNgAAAACXQ1Bs6lH6amyfCwL+GjS3`
+Snapshot ID: `AcJmCAAAAACNKYWvB18HlRxAypup/7k9`

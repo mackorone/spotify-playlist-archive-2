@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "a love song for u",
+        "url": "https://open.spotify.com/album/0jFvOV5J2eQhjt68fmBKzy"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100645,
+      "name": "a love song for u",
+      "url": "https://open.spotify.com/track/0qBw4RrX1AajcdVauDv2ED"
+    },
+    {
+      "album": {
         "name": "A Tale of the Twin Flame / An Original Internet",
         "url": "https://open.spotify.com/album/30GPhM54zMZrNKKDw8J8Kg"
       },
@@ -5282,7 +5300,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231271,
       "name": "Chaos (feat. Isaiah Rashad)",
       "url": "https://open.spotify.com/track/75pWaQwRzbEL7e9Bgf59PX"
@@ -5946,7 +5964,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171426,
       "name": "Copycats",
       "url": "https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY"
@@ -9689,6 +9707,24 @@
     },
     {
       "album": {
+        "name": "For Myself",
+        "url": "https://open.spotify.com/album/3RXFhIMWoyY0OfLvPLQlS5"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127448,
+      "name": "For Myself",
+      "url": "https://open.spotify.com/track/3CFPCF3p8SaUE1zm1wgiby"
+    },
+    {
+      "album": {
         "name": "For The Squadron",
         "url": "https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI"
       },
@@ -12807,6 +12843,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be Your Dog Again",
+        "url": "https://open.spotify.com/album/2qDdMz4B1rDeXdhKj5txOd"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "I Wanna Be Your Dog Again",
+      "url": "https://open.spotify.com/track/3sFMNnMiceLkl3wKIGuD54"
+    },
+    {
+      "album": {
         "name": "I Was",
         "url": "https://open.spotify.com/album/0KnJpFqTym7M43ljIgVNOP"
       },
@@ -14864,7 +14918,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 98363,
       "name": "LEVEL UP",
       "url": "https://open.spotify.com/track/7DrJXZdKl1zdfeJSt1uGlR"
@@ -16316,7 +16370,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 121514,
       "name": "Memories",
       "url": "https://open.spotify.com/track/42ytOOWqePD1mGz6Zh2OwI"
@@ -19340,7 +19394,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 142374,
       "name": "Paul",
       "url": "https://open.spotify.com/track/4d0Iik325hU4ci3c5Lh3he"
@@ -21926,6 +21980,24 @@
       "duration_ms": 102397,
       "name": "ROUND HERE (PART ONE)",
       "url": "https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De"
+    },
+    {
+      "album": {
+        "name": "Round Me",
+        "url": "https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158797,
+      "name": "Round Me",
+      "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
     },
     {
       "album": {
@@ -25090,6 +25162,24 @@
       "duration_ms": 199390,
       "name": "TECH TECH TECH",
       "url": "https://open.spotify.com/track/1IHF4g6n8t4N7OoKQ3ElKk"
+    },
+    {
+      "album": {
+        "name": "Weekend Rockstar",
+        "url": "https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129985,
+      "name": "Teenage Famous",
+      "url": "https://open.spotify.com/track/4t8n6V5Lfl5ETENNmjqi9e"
     },
     {
       "album": {

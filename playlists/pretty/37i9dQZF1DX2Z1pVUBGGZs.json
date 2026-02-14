@@ -1,6 +1,6 @@
 {
   "description": "a playlist without boundaries \ud83c\udf19 cover: bella kay",
-  "num_followers": 276498,
+  "num_followers": 276474,
   "original_name": "Our Generation",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-02-13 00:00:16",
       "album": {
+        "name": "Chick Flick",
+        "url": "https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi"
+      },
+      "artists": [
+        {
+          "name": "Salmon Cat",
+          "url": "https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Chick Flick",
+      "url": "https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs"
+    },
+    {
+      "added_at": "2026-02-13 00:00:16",
+      "album": {
         "name": "Who's That Calling?",
         "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
       },
@@ -235,8 +251,8 @@
     {
       "added_at": "2026-02-13 00:00:16",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
       },
       "artists": [
         {
@@ -244,15 +260,15 @@
           "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
       "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "added_at": "2026-02-13 00:00:16",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Everywhere Isn't Texas",
+        "url": "https://open.spotify.com/album/75jUCkcDcLD25FR9AlQJik"
       },
       "artists": [
         {

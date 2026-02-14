@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "A Promise Remembered",
+        "url": "https://open.spotify.com/album/19HOgDENOojubzWW7p5MJL"
+      },
+      "artists": [
+        {
+          "name": "Carl Dwight",
+          "url": "https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150870,
+      "name": "A Promise Remembered",
+      "url": "https://open.spotify.com/track/5nzPUzWkY0tTNEPB56wcGk"
+    },
+    {
+      "album": {
         "name": "A Quiet Life",
         "url": "https://open.spotify.com/album/2yfnE5UVZ3RsksYfd0PQ7d"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 198848,
       "name": "A Quiet Night",
       "url": "https://open.spotify.com/track/1bSePteku09jMud4kzOAFU"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 161500,
       "name": "Days with you",
       "url": "https://open.spotify.com/track/0HHUZbkghNwoRBXF7JeZ95"
@@ -2720,6 +2738,24 @@
       "duration_ms": 251250,
       "name": "Delusions",
       "url": "https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH"
+    },
+    {
+      "album": {
+        "name": "Destined to Be Together",
+        "url": "https://open.spotify.com/album/2SUEJtT9C7ncmfNwt33x9G"
+      },
+      "artists": [
+        {
+          "name": "Grant Ellery",
+          "url": "https://open.spotify.com/artist/4DdsTxB7WLBe0AyRkAr2Fc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147173,
+      "name": "Destined to Be Together",
+      "url": "https://open.spotify.com/track/0Nla85y8KrdjleZn3hytLY"
     },
     {
       "album": {
@@ -3076,7 +3112,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 195600,
       "name": "Duero",
       "url": "https://open.spotify.com/track/1lH3KG2MVPqXp6QmSevMb2"
@@ -3206,6 +3242,24 @@
       "duration_ms": 202889,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9"
+    },
+    {
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/4OkJ59xSO4YCiQKkJuw53O"
+      },
+      "artists": [
+        {
+          "name": "Joshua Garland",
+          "url": "https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171350,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/3pKm80Q4BorCdIkUoGjn1q"
     },
     {
       "album": {
@@ -3530,6 +3584,24 @@
       "duration_ms": 178020,
       "name": "Falling In Love With Love",
       "url": "https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu"
+    },
+    {
+      "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/3OuUOW77QMKQtedW0viAhk"
+      },
+      "artists": [
+        {
+          "name": "Niels Henningsen",
+          "url": "https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/1xGwDCIrfctobxIOm6apQ4"
     },
     {
       "album": {
@@ -4624,7 +4696,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164032,
       "name": "Home for the Holidays",
       "url": "https://open.spotify.com/track/6pqL4DtLvzwleYwtyROl0g"
@@ -8260,7 +8332,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 167266,
       "name": "Nothing at All",
       "url": "https://open.spotify.com/track/7p770xH0e5lOhKQoU1EABy"
@@ -9596,7 +9668,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164351,
       "name": "Says Nothing",
       "url": "https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM"
@@ -10212,6 +10284,24 @@
       "duration_ms": 218140,
       "name": "Someday My Prince Will Come",
       "url": "https://open.spotify.com/track/78hP2pA1Y8DYCn5shq3f1b"
+    },
+    {
+      "album": {
+        "name": "Someone to Dream of",
+        "url": "https://open.spotify.com/album/0a5ULgX7QlqkckFSi8NZux"
+      },
+      "artists": [
+        {
+          "name": "Rhys Wells",
+          "url": "https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147327,
+      "name": "Someone to Dream of",
+      "url": "https://open.spotify.com/track/37LmPsOl2k2AYJWMg2Y0rP"
     },
     {
       "album": {
@@ -11000,7 +11090,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168374,
       "name": "Tender Moments",
       "url": "https://open.spotify.com/track/3kcML10JWRmtCovbUfiqvL"
@@ -11238,6 +11328,24 @@
       "duration_ms": 168359,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/6R1p1fumkttTWuMZqMLojv"
+    },
+    {
+      "album": {
+        "name": "The Hours Between",
+        "url": "https://open.spotify.com/album/5dYUzr3iUTjGWHTviDaWVa"
+      },
+      "artists": [
+        {
+          "name": "Nola Finch",
+          "url": "https://open.spotify.com/artist/4OlAO9Q7R6qESvjaIcoZ1R"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138077,
+      "name": "The Hours Between",
+      "url": "https://open.spotify.com/track/04986t9bxCoCPWV1k7stCU"
     },
     {
       "album": {
@@ -12087,6 +12195,24 @@
     },
     {
       "album": {
+        "name": "Time for You and Me",
+        "url": "https://open.spotify.com/album/2VQ99UuEBdR6zFlOkUvK2B"
+      },
+      "artists": [
+        {
+          "name": "Vera Nightingale",
+          "url": "https://open.spotify.com/artist/6dgvfOxu8nivAN0pQPLeEo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147354,
+      "name": "Time for You and Me",
+      "url": "https://open.spotify.com/track/6KYQho4HeJOb1Hsp4tYiey"
+    },
+    {
+      "album": {
         "name": "time remembered",
         "url": "https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY"
       },
@@ -12206,7 +12332,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 161379,
       "name": "Too Close for Comfort",
       "url": "https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG"
@@ -12699,6 +12825,24 @@
     },
     {
       "album": {
+        "name": "When the night was kind",
+        "url": "https://open.spotify.com/album/6e4ltPXfH6d6Xz3pzCXmP8"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "When the night was kind",
+      "url": "https://open.spotify.com/track/6DicT5IHrKFy5AA7QWY0ro"
+    },
+    {
+      "album": {
         "name": "When We Meet Again",
         "url": "https://open.spotify.com/album/6vOUy7BcO38Yzd8Sfepaqm"
       },
@@ -12728,7 +12872,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180124,
       "name": "When You Come Over",
       "url": "https://open.spotify.com/track/7LqhLEaSc6iREEYKWF3FRR"
@@ -12750,6 +12894,24 @@
       "duration_ms": 169956,
       "name": "Where Dreams Go to Sleep",
       "url": "https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94"
+    },
+    {
+      "album": {
+        "name": "Where Forever Starts",
+        "url": "https://open.spotify.com/album/41triyWsGFj1RGBMAd0FXh"
+      },
+      "artists": [
+        {
+          "name": "Degli Scalzi",
+          "url": "https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146077,
+      "name": "Where Forever Starts",
+      "url": "https://open.spotify.com/track/435mOmID4FlRSGQuzYdTu5"
     },
     {
       "album": {

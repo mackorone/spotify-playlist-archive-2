@@ -4,7 +4,7 @@
 
 > 🍾
 
-270 songs - 15 hr 26 min
+271 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bobby & Whitney \- Ashley Beedle No' West Edit](https://open.spotify.com/track/0wYNfsk8I5SXaXGmXU9KKa) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Ashley Beedle](https://open.spotify.com/artist/7gs54cZveSV3kraHmiGYDr) | [Bobby & Whitney \(Ashley Beedle Remixes\)](https://open.spotify.com/album/11Y7W8eajykFngFQV1uI9T) | 3:05 | 2023-12-01 | 2025-02-21 |
 | [Body Over Here](https://open.spotify.com/track/53apPgrnpFAtIsUwWTKbv3) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Body Over Here](https://open.spotify.com/album/1rjEOqtI2JV6Qm7AIrxLdZ) | 2:39 | 2025-09-18 | 2025-10-03 |
 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-24 |  |
+| [Breakfast](https://open.spotify.com/track/1wtAsFMFh1WY2gwz3ANbMI) | [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB) | [Breakfast](https://open.spotify.com/album/7vb0OK62Fyr6b0I7ZDybhM) | 2:47 | 2026-02-13 |  |
 | [Breathin](https://open.spotify.com/track/0CfX8IKYaD3jd774RRcZJJ) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Breathin](https://open.spotify.com/album/0eFJJh3m1gu97k5cSEWpbF) | 3:20 | 2022-12-08 | 2023-09-23 |
 | [By My Side](https://open.spotify.com/track/4s6Yv9iUvqQEUIanfZinaw) | [Sam Quealy](https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8), [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs) | [By My Side](https://open.spotify.com/album/0IXlTgFTZuN73vfQOxED6N) | 2:47 | 2026-01-09 | 2026-01-24 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2022-12-08 | 2023-09-23 |
@@ -220,7 +221,7 @@
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-12-08 | 2023-04-29 |
 | [Storm \(Edit\)](https://open.spotify.com/track/3EqtgULem9Ta7wEWBRgzOm) | [Sam Benaroya](https://open.spotify.com/artist/5QR1e164DAoLhJQkiNZcDi) | [Storm \(Edit\)](https://open.spotify.com/album/7gcMSD0odngjCS8u4Tz34y) | 5:21 | 2022-12-08 |  |
 | [Straight To The Morning \- Myd Remix](https://open.spotify.com/track/3KLXqJ0Syps75zQbMxE3xE) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Straight To The Morning \(Myd Remix\)](https://open.spotify.com/album/3twoTcse5NGocRQ1zcupQo) | 3:26 | 2022-12-08 | 2023-06-10 |
-| [Stylisme](https://open.spotify.com/track/5MyiXA0ZZ1SUdji7aBTbUN) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Stylisme](https://open.spotify.com/album/6VJb7dSMKyk7O3sc7UHBwY) | 2:23 | 2026-01-16 |  |
+| [Stylisme](https://open.spotify.com/track/5MyiXA0ZZ1SUdji7aBTbUN) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Stylisme](https://open.spotify.com/album/6VJb7dSMKyk7O3sc7UHBwY) | 2:23 | 2026-01-16 | 2026-02-14 |
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2023-03-24 | 2025-09-12 |
 | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La) | 3:35 | 2025-02-20 | 2025-10-11 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-04-25 |  |

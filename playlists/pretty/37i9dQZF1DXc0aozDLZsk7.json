@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 576618,
+  "num_followers": 576627,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
+        "name": "Yatta!",
+        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 271247,
+      "name": "In Search of Yang",
+      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
+    },
+    {
+      "added_at": "2026-02-12 23:01:36",
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 173200,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
-    },
-    {
-      "added_at": "2026-02-12 23:01:36",
-      "album": {
-        "name": "Yatta!",
-        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 271247,
-      "name": "In Search of Yang",
-      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
     },
     {
       "added_at": "2026-02-12 23:01:36",

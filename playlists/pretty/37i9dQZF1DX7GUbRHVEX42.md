@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Protoje, Damian Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,122 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,119 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 34 | [Til A Mawnin \(feat\. Sting\)](https://open.spotify.com/track/6A5NpmHIyU2WJ2nwgEhJrv) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Til A Mawnin \(feat\. Sting\)](https://open.spotify.com/album/3cl3ypsAyDFKiXzrVwhjIe) | 3:27 |
 | 35 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
 | 36 | [The Kalling](https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:33 |
-| 37 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
-| 38 | [One Gift](https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [One Gift](https://open.spotify.com/album/6L8qJyXZrmzunTMq03oHOo) | 3:00 |
+| 37 | [One Gift](https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [One Gift](https://open.spotify.com/album/6L8qJyXZrmzunTMq03oHOo) | 3:00 |
+| 38 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 39 | [Wisemen](https://open.spotify.com/track/2u3aTF3PxyJt7XQ5w0z04t) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Wisemen](https://open.spotify.com/album/4IgOYbYLa7t750vdIx2QRZ) | 3:48 |
 | 40 | [Diamonds and Gold](https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Diamonds and Gold](https://open.spotify.com/album/15muGQPID5opsEsRptvSDz) | 3:47 |
 | 41 | [Sativa](https://open.spotify.com/track/3fzVtpLMS24jWEVjkhGycj) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Sativa](https://open.spotify.com/album/2DBnGu5bloAoIDEVZm0F8n) | 2:50 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 50 | [Way You Make Me Feel](https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY) | [Kelissa](https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg) | [Way You Make Me Feel](https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc) | 3:59 |
 | 51 | [Pilates](https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Pilates](https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs) | 2:25 |
 | 52 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
-| 53 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
+| 53 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
 | 54 | [GOOD TIMES](https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [GOOD TIMES](https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7) | 2:55 |
-| 55 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
+| 55 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
 | 56 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
 | 57 | [Good Over Evil](https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:24 |
 | 58 | [Summertime](https://open.spotify.com/track/0qVi78o4X4gi3jHpDaLhED) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Summertime](https://open.spotify.com/album/5H8lZKP8gKPxdLVYDCXZmO) | 3:08 |

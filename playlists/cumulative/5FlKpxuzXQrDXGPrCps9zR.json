@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Get In Girl",
+        "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
+    },
+    {
+      "album": {
         "name": "M!ssundaztood (Expanded Edition)",
         "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
       },
@@ -1140,6 +1158,24 @@
       "duration_ms": 156155,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+    },
+    {
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213213,
+      "name": "My Reminder",
+      "url": "https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM"
     },
     {
       "album": {

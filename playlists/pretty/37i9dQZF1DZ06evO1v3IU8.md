@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,288 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,340 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [Acto Seguido](https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Acto Seguido](https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs) | 3:04 |
 | 50 | [Me Cansé](https://open.spotify.com/track/3m9Kp9oZxrCQYDeaqBfWsz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:43 |
 
-Snapshot ID: `aYvGgAAAAADlxqL4Z/nbKm5JOBg/7Bnv`
+Snapshot ID: `aY0YAAAAAACqTjJhboaLydUqu/vHcGUC`

@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "American Teenage Prophecy",
+        "url": "https://open.spotify.com/album/480qaahln1j5C4hbuTvl2b"
+      },
+      "artists": [
+        {
+          "name": "Kid Sistr",
+          "url": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220353,
+      "name": "American Teenage Prophecy",
+      "url": "https://open.spotify.com/track/3fGewiHyMYBWH3aGciSDJo"
+    },
+    {
+      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
@@ -11684,6 +11702,24 @@
       "duration_ms": 208271,
       "name": "toothache",
       "url": "https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c"
+    },
+    {
+      "album": {
+        "name": "This Is What You Get",
+        "url": "https://open.spotify.com/album/0wzt0G2IThMTsFeOSLIpJQ"
+      },
+      "artists": [
+        {
+          "name": "Kate Stephenson",
+          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160775,
+      "name": "Tracksuit",
+      "url": "https://open.spotify.com/track/2dwYgqWg56JlVCRSnD5dWU"
     },
     {
       "album": {

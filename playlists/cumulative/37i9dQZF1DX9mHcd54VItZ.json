@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/04im1rBRNLPrnbg8MICcP9"
+      },
+      "artists": [
+        {
+          "name": "Emile Gerber",
+          "url": "https://open.spotify.com/artist/7DxpMWgZjDeVs84HObL00o"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181406,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/1BF4oTxrDPU85NV9YwjovF"
+    },
+    {
+      "album": {
         "name": "Boots Off!",
         "url": "https://open.spotify.com/album/3gCtn0iKbsYQK4nmXwEdrv"
       },
@@ -2978,6 +2996,24 @@
       "duration_ms": 207564,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/6PH1ZiCGllwYsyj3ahwoXW"
+    },
+    {
+      "album": {
+        "name": "Cul-de-Sac",
+        "url": "https://open.spotify.com/album/10sfQVUwsOZQSsTav2r8AG"
+      },
+      "artists": [
+        {
+          "name": "The Delicious Monsters",
+          "url": "https://open.spotify.com/artist/5pXN2qOohc7jnPNiXWciyJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158994,
+      "name": "Cul-de-Sac",
+      "url": "https://open.spotify.com/track/3ZKCi1xpt4lhucJX0zFsjm"
     },
     {
       "album": {
@@ -5148,7 +5184,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 209834,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
@@ -5422,7 +5458,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
@@ -6931,6 +6967,24 @@
     },
     {
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/0oYdOY7ZhmNDODu4WI7kLy"
+      },
+      "artists": [
+        {
+          "name": "Morgan Visser",
+          "url": "https://open.spotify.com/artist/3sV1zoBgtTfGN8Y3PaWAKt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6mtr3n3If2PI2ekWyyxjm8"
+    },
+    {
+      "album": {
         "name": "I Don't Believe You",
         "url": "https://open.spotify.com/album/5bdsdYwIrF22kYUxopl97M"
       },
@@ -7732,7 +7786,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 204269,
       "name": "Kaya",
       "url": "https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38"
@@ -11286,7 +11340,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 236100,
       "name": "Put Me In Drive",
       "url": "https://open.spotify.com/track/5fw2DPgLzi7uT3pub77xto"
@@ -12590,7 +12644,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 155422,
       "name": "SLOW MOTION",
       "url": "https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE"
@@ -12626,7 +12680,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 177724,
       "name": "So Needy (Christmas Dinner)",
       "url": "https://open.spotify.com/track/7djRA1UCZ286rtfKzPk09Q"
@@ -12824,7 +12878,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207828,
       "name": "Something on the Loose",
       "url": "https://open.spotify.com/track/1e51WNgePm2XgVOf2DgSjt"
@@ -13816,6 +13870,24 @@
     {
       "album": {
         "name": "Te Laat",
+        "url": "https://open.spotify.com/album/2OyH2AUubvGnArOp3i7Kz6"
+      },
+      "artists": [
+        {
+          "name": "Perspektief",
+          "url": "https://open.spotify.com/artist/5OFcs9f57qE3pp12aTFKvS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200704,
+      "name": "Te Laat",
+      "url": "https://open.spotify.com/track/0vCl4unZggtG0YQEcTtzqF"
+    },
+    {
+      "album": {
+        "name": "Te Laat",
         "url": "https://open.spotify.com/album/3cFvXFR3e3UuAbfItgtuM9"
       },
       "artists": [
@@ -14080,6 +14152,28 @@
       "duration_ms": 179893,
       "name": "The Day I Gave My Sister Away",
       "url": "https://open.spotify.com/track/5xtq7iINMAphuyAaimsut7"
+    },
+    {
+      "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/4R4Pc3nwMzmveOiAedDal1"
+      },
+      "artists": [
+        {
+          "name": "Kayla The Crow",
+          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+        },
+        {
+          "name": "Sannie Fox",
+          "url": "https://open.spotify.com/artist/7D5bb69WMeC1jB8yP1uXnI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/6k9OTAIHa2qy7L8eXIR8Rr"
     },
     {
       "album": {
@@ -14951,6 +15045,24 @@
     },
     {
       "album": {
+        "name": "Vacillate",
+        "url": "https://open.spotify.com/album/2ih3RqSAYxoEyOibI6wsol"
+      },
+      "artists": [
+        {
+          "name": "Indie Dog",
+          "url": "https://open.spotify.com/artist/3RXbBpqUbS5sBzgyWgkotn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245277,
+      "name": "Vacillate",
+      "url": "https://open.spotify.com/track/76PlaHwjReExboeosTe7jm"
+    },
+    {
+      "album": {
         "name": "Vakansie Vir My Siel",
         "url": "https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk"
       },
@@ -15312,6 +15424,24 @@
       "duration_ms": 197876,
       "name": "Vriend",
       "url": "https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH"
+    },
+    {
+      "album": {
+        "name": "Vriende",
+        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235568,
+      "name": "Vriende",
+      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
     },
     {
       "album": {

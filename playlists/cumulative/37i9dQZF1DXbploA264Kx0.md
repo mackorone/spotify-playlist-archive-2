@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Elephant Gym \(大象體操\)
 
-602 songs - 1 day 12 hr 36 min
+603 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 | 2025-10-16 | 2025-11-21 |
 | [Millions of Years Apart](https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:36 | 2024-02-29 | 2024-11-29 |
 | [Monday Afternoon](https://open.spotify.com/track/0lKWF4xm3K7z0f0E4McFr8) | [DJ Didilong](https://open.spotify.com/artist/4VP44ZwK51R0y7ZbjJLHJR), [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [Monday Afternoon](https://open.spotify.com/album/1Za6HXnemIpRA7qFb23YZo) | 4:55 | 2025-08-28 |  |
+| [MONEY RULES 3EVA](https://open.spotify.com/track/75TjVsnekD1AKqFSYUoxkD) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [MONEY RULES 3EVA](https://open.spotify.com/album/0itH0yBHu2Ezq4VVyIuND4) | 2:43 | 2026-02-12 |  |
 | [Moon](https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Moon](https://open.spotify.com/album/436lTIgKHUJdevC1IwFcZa) | 5:35 | 2024-05-30 | 2024-07-05 |
 | [Moon River \(221007\)](https://open.spotify.com/track/0dqAX5qj7DeyYu3AYlMzVh) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hidden Card 藏招](https://open.spotify.com/album/5tGDjZXlNj85kXxlRPVg7A) | 2:47 | 2025-02-27 | 2025-03-14 |
 | [more about you](https://open.spotify.com/track/3PGX7THaDbTHSdoDijMNaV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [more about you](https://open.spotify.com/album/15jd1fNpq1MGOzssezx2uj) | 2:25 | 2024-08-08 | 2024-08-30 |

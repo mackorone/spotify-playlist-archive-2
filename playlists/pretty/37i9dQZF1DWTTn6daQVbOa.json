@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1009654,
+  "num_followers": 1009952,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Now & Then (Reissue)",
+        "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Yesterday Once More",
+      "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Now & Then (Reissue)",
-        "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Yesterday Once More",
-      "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -671,18 +687,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
         }
       ],
-      "duration_ms": 221426,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -715,22 +731,6 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 288266,
       "name": "I Don't Want to Talk About It - 2008 Remaster",
       "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 285797,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2022-10-03 06:40:05",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "The Michael Johnson Album",
+        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bluer Than Blue",
+      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Desperado (2013 Remaster)",
         "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Michael Johnson Album",
-        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
       },
       "artists": [
         {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Bluer Than Blue",
-      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+      "duration_ms": 256666,
+      "name": "Do That To Me One More Time",
+      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1083,22 +1099,6 @@
       "duration_ms": 283400,
       "name": "How Much I Feel",
       "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Do That To Me One More Time",
-      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 212013,
       "name": "My Eyes Adored You",
       "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Way We Were",
-        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 211174,
-      "name": "The Way We Were",
-      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Way We Were",
+        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 211174,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1909,22 +1909,6 @@
       "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
-      "added_at": "2023-03-13 08:18:56",
-      "album": {
-        "name": "Closing Time (Remastered)",
-        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "I Hope That I Don't Fall In Love With You",
-      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Destroyer",
@@ -1939,6 +1923,22 @@
       "duration_ms": 165666,
       "name": "Beth",
       "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "added_at": "2023-03-13 08:18:56",
+      "album": {
+        "name": "Closing Time (Remastered)",
+        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "I Hope That I Don't Fall In Love With You",
+      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0qp2BkreL7bxaFdc25VihQ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Let Me In Your Life",
         "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 208466,
       "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
       "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0qp2BkreL7bxaFdc25VihQ"
     },
     {
       "added_at": "2022-09-23 05:26:33",

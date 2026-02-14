@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,720 songs - 13 day 7 hr 44 min
+5,724 songs - 13 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2836,6 +2836,7 @@
 | [Life Of The Party](https://open.spotify.com/track/5Gbbz3ZOWpjBAQGaLohmZw) | [Brooke Daye](https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib) | [Life Of The Party](https://open.spotify.com/album/781W8ziYLBMjKZ7VjXFPew) | 2:46 | 2023-12-12 | 2023-12-21 |
 | [LIFE OF THE PARTY](https://open.spotify.com/track/4dWA9RHQ0BQuzRYL4UiY2W) | [Dc Millionz](https://open.spotify.com/artist/1TMrptWMoqTcstbuAD3EuG) | [LIFE OF THE PARTY](https://open.spotify.com/album/0CvbKXKBzp1MxOwxChRPiQ) | 3:03 | 2026-01-04 | 2026-01-15 |
 | [Life She Don't Lie](https://open.spotify.com/track/0yRX4OIvoWfzobLpTB4958) | [Waiting for Smith](https://open.spotify.com/artist/57oieIojgviKMyTtzG4kn2) | [Life She Don't Lie](https://open.spotify.com/album/2NkE0EbSOSxluLlF2dD1MC) | 3:24 | 2021-11-27 | 2021-12-12 |
+| [Life's a Dream](https://open.spotify.com/track/2xeB3JNbJFSiaA2vE2vSgE) | [Scribbles Who](https://open.spotify.com/artist/2MRE0EnE3kUdMOsOGeBSG3), [Briss Lee](https://open.spotify.com/artist/0bPdoTfxQDDdukSxAujYSi) | [Life's a Dream](https://open.spotify.com/album/1CaU5yVWIKm7rGqvmIATXc) | 2:52 | 2026-02-13 |  |
 | [Lifestyle](https://open.spotify.com/track/5f9J4trMV4wy1yDciKy9Zh) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Lifestyle](https://open.spotify.com/album/3JhQroYCsiQhmDU1n475kh) | 2:57 | 2023-07-15 | 2023-08-04 |
 | [Lifetime](https://open.spotify.com/track/7iOBFSH9HNbAGl2V3Zplcj) | [Tone Troy](https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31) | [Lifetime](https://open.spotify.com/album/0Tij8yIRjXKifzpcrLRIrR) | 3:25 | 2022-11-25 | 2022-12-17 |
 | [Lift](https://open.spotify.com/track/2QZev4jUPcdgvtzpmSJMPJ) | [Aaron Ridge](https://open.spotify.com/artist/4bWvbNOmiWoUo3TKap75z1) | [Lift](https://open.spotify.com/album/5Rj4W4eOAwDdPf27tXk904) | 3:00 | 2025-08-15 | 2025-09-22 |
@@ -2896,6 +2897,7 @@
 | [LIVING FOR THE LOVE](https://open.spotify.com/track/57ZfxwA7OVKLe8V3dr08VR) | [Tariq Gardner & the Evening Star](https://open.spotify.com/artist/2XALigW40uQEpGYttnAMGr), [Cole.Thefirst](https://open.spotify.com/artist/4V01r1HRvqzs0vlGT6llgd) | [GATEWAY DRUG](https://open.spotify.com/album/5DOWI4rFHBVYHFHsfiyIzJ) | 5:43 | 2024-01-04 | 2024-01-12 |
 | [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 | 2024-01-23 | 2024-02-04 |
 | [LIVING IN THE MOMENT](https://open.spotify.com/track/3Aaoe3zgY7N0dAdyryL71i) | [Carissa Summer Rose](https://open.spotify.com/artist/2rw8lgSVIjZOR62vd3slYB) | [LIVING IN THE MOMENT](https://open.spotify.com/album/3UDMPJFbfs47bqF9Jy0FbT) | 3:49 | 2024-08-02 | 2024-08-14 |
+| [Living On The Edge \(Of Town\)](https://open.spotify.com/track/2l24s1JXUrKSIG0MWgROoY) | [Robert Dimbleby](https://open.spotify.com/artist/7LLRhS6ZOWxGwDMNpi4jRe) | [Living On The Edge \(Of Town\)](https://open.spotify.com/album/3pufSvRjbFJQvUW4yo5TGg) | 3:26 | 2026-02-13 |  |
 | [LMAMW<3](https://open.spotify.com/track/5qXgnhqbs0jcteAy2pFwWH) | [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [Meliya](https://open.spotify.com/artist/5AftDm94ZPK8yoz4cnX4tq) | [LMAMW<3](https://open.spotify.com/album/77b35L9SgNMVK8GfQPlzZ3) | 3:13 | 2024-02-14 | 2024-02-26 |
 | [lmlml](https://open.spotify.com/track/6R0rcW1iqCCjLUDLSzYHtO) | [Sanja Ost](https://open.spotify.com/artist/2sY91sdrpjwRCl4omRqVXq) | [lmlml](https://open.spotify.com/album/5BzOOCqmzErU1wMFtXMPl5) | 3:13 | 2024-09-06 | 2024-09-15 |
 | [LNNS](https://open.spotify.com/track/3P4mCEXYtgauy4BDqgwMz5) | [Goca](https://open.spotify.com/artist/2wQl8Iv3h5Q0cwhMreVexO) | [LNNS](https://open.spotify.com/album/3R8p50QtQb7AVFOvJka17s) | 2:47 | 2023-07-12 | 2023-07-22 |
@@ -4104,6 +4106,7 @@
 | [Riverside](https://open.spotify.com/track/6Tgt0Ld0J5KjhuvHlLh6wr) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [SaraX](https://open.spotify.com/album/10udwv6HZRcCvJVVlCMqQj) | 2:54 | 2022-06-20 | 2022-07-07 |
 | [Road Less Traveled](https://open.spotify.com/track/6A5YyEdBe73QgESGVaLFMi) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Road Less Traveled](https://open.spotify.com/album/2XWhCiyztonDiuHFpapf2P) | 3:47 | 2021-04-30 | 2021-05-16 |
 | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN) | 3:40 | 2023-12-29 | 2024-03-08 |
+| [Road To Mandalay](https://open.spotify.com/track/10CFLoXxOLhLOgubMooobB) | [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL), [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb) | [Road to Mandalay](https://open.spotify.com/album/4azUNJAIGfMyAqKpYqVoQz) | 5:21 | 2026-02-13 |  |
 | [Roads](https://open.spotify.com/track/3WdvTrn7b7acuHMhvBETzn) | [Harry McInroy](https://open.spotify.com/artist/1SrlIeqR6FOC00CWd6pwue) | [Time](https://open.spotify.com/album/56BaU89XTvPLiHr0jDPem4) | 4:15 | 2022-04-07 | 2022-04-24 |
 | [Roads and railways](https://open.spotify.com/track/1bCe2GK7aMyKpF7tVY9NuW) | [Matilda Schyborger](https://open.spotify.com/artist/66d1qcpRRIIlHCWk3Ry8Mk) | [Roads and railways](https://open.spotify.com/album/1ClLGmmc8B5xyBdZ0h0GUb) | 3:21 | 2024-09-06 | 2024-09-18 |
 | [Roads Not Taken](https://open.spotify.com/track/77fwHgGNMB1ayLvQZNf24C) | [Jbryan](https://open.spotify.com/artist/7HOIVGeh9XA4JiY9YvHDdq) | [Roads Not Taken](https://open.spotify.com/album/4a6lBWs5dWXJRXLaxPkQzY) | 2:40 | 2025-07-29 | 2026-02-02 |
@@ -4523,6 +4526,7 @@
 | [Spanish Joint](https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:44 | 2022-07-26 | 2024-04-30 |
 | [Sparrow in the Wind](https://open.spotify.com/track/3lWZQw0SKLiM70hezK6Wx7) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Sparrow in the Wind](https://open.spotify.com/album/50R0NMpzPMybfbcSUkhurX) | 4:10 | 2025-08-19 | 2025-09-22 |
 | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/2w2nGYcTq7iP1Aj6AI8KIi) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/0Xkq8tR6m6ofrw7Tq6cPZ8) | 3:13 | 2021-07-11 | 2024-04-21 |
+| [Special One](https://open.spotify.com/track/7vrMs9Ss7CM3RluWgWrTwx) | [Jeff Kolhede](https://open.spotify.com/artist/2pGXM4KJdppryZixeWqqRs) | [Special One](https://open.spotify.com/album/1Kb93yVbLzhPLmoEgSigka) | 3:33 | 2026-02-13 |  |
 | [Speechless](https://open.spotify.com/track/1Tbt8OaAnOyIK9IJ189rNm) | [Barang](https://open.spotify.com/artist/7mZm5qBtyQLd3ykBSvB8Pe) | [Speechless](https://open.spotify.com/album/2VOlZvyo8c8Qj8LAVqwJEK) | 2:42 | 2024-01-19 | 2024-02-07 |
 | [Speed of Light](https://open.spotify.com/track/0YkfjEL12dlGB30PJHvLpi) | [Aaron Bleiweiss](https://open.spotify.com/artist/4wCUNgnbe2VSv6m8Nr51VS) | [Speed of Light](https://open.spotify.com/album/59hNDmMmSShYhMYI77MZCS) | 3:39 | 2024-08-23 | 2024-09-03 |
 | [Speed of Light](https://open.spotify.com/track/0Dl2nrGqxIEh2zmWnXn9Q3) | [Mahdi](https://open.spotify.com/artist/1OkLHAfHm0bWtdaYGCuARa) | [Speed of Light](https://open.spotify.com/album/0xd5uUnMCNy1TY5ToyL2Mu) | 2:45 | 2024-11-06 | 2024-11-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,133 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,152 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 16 | [We Zullen Doorgaan.](https://open.spotify.com/track/56HFxh3vBtdZOpxSshaXYR) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses '97](https://open.spotify.com/album/19o5Lq38UK1liTEUnA3WUX) | 5:11 |
 | 17 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
 | 18 | [Guus](https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf) | [Alexander Curly](https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN) | [Vette Jus En Boerenjongens](https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw) | 3:47 |
-| 19 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
-| 20 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |
-| 21 | [De Liefde Van De Man Gaat Door De Maag \(Worstjes Op M'n Borstjes\)](https://open.spotify.com/track/1qR1XT5nIXhdkxTsYsxO2c) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 3:20 |
+| 19 | [De Liefde Van De Man Gaat Door De Maag \(Worstjes Op M'n Borstjes\)](https://open.spotify.com/track/1qR1XT5nIXhdkxTsYsxO2c) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 3:20 |
+| 20 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
+| 21 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |
 | 22 | [Waarheen, Waarvoor](https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ) | [Mieke Telkamp](https://open.spotify.com/artist/7MapYRyHxqCY4JrujFIzfq) | [Waarheen, Waarvoor](https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X) | 3:47 |
 | 23 | [Teddybeer](https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Teddybeer](https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo) | 4:18 |
 | 24 | [Zou Het Erg Zijn, Lieve Opa](https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi), [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Wilma](https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq) | 4:02 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 56 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
 | 57 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |
 | 58 | [Vino \(Waar Blijft De Wijn\)](https://open.spotify.com/track/3AWIhm2aCaB2Nj6w4SH61W) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Lytse Hille Presenteert de 'Ik Kwam Je Tegen' tour](https://open.spotify.com/album/0huX9PWQ3GRT5PfpZhF6CZ) | 3:16 |
-| 59 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
-| 60 | [Dag Zuster Ursula](https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:30 |
+| 59 | [Dag Zuster Ursula](https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:30 |
+| 60 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
 
 Snapshot ID: `AAAAAKwMFLVtHO+A3+A3ChdFmIGPUQ97`

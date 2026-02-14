@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,164 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,163 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 17 | [Se Você Quiser](https://open.spotify.com/track/7h9BkPljkGtZ7I0zD5PEcY) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Se Você Quiser](https://open.spotify.com/album/7McFtJZ23IFeIlKFLLJJGx) | 2:34 |
 | 18 | [A Música da Mãe](https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [A Música da Mãe](https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp) | 3:38 |
 | 19 | [01 do R](https://open.spotify.com/track/77cFhEWBd4cdszQkRJ54kK) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:09 |
-| 20 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/0XrZkuSgrDEI14kRHqdz77), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
+| 20 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
 | 21 | [I Feel Vinho](https://open.spotify.com/track/76fuj0ast41YzXxc6uW2dN) | [Bonde do Vinho](https://open.spotify.com/artist/2K2G4HNVB71Iw86m90aJWS) | [Só Tem Moleque Bom](https://open.spotify.com/album/7q8Gno3GQ0RkzeK28LA7T5) | 2:51 |
 | 22 | [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 |
 | 23 | [Vagalumes](https://open.spotify.com/track/18zXw7VA97aovBwbxSpPqH) | [POLLO](https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23), [Ivo Mozart](https://open.spotify.com/artist/4yTuL3DV58ipi2dn3up6ny) | [Vim pra Dominar o Mundo](https://open.spotify.com/album/6Rw191EPH8xdpJM4tuQsj1) | 2:50 |

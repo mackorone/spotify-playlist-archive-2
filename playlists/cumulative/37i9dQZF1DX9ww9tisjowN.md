@@ -2,7 +2,7 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: ZUTOMAYO ずっと真夜中でいいのに。
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Mori Calliope
 
 1,056 songs - 2 day 12 hr 31 min
 

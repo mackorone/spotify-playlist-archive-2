@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : EMP1RE",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Kaso",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 177124,
       "name": "AIRMAX",
       "url": "https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1"
@@ -2490,6 +2490,24 @@
       "duration_ms": 173472,
       "name": "OKHTOOBOOT",
       "url": "https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ"
+    },
+    {
+      "album": {
+        "name": "Z\u00c9RO UN",
+        "url": "https://open.spotify.com/album/0mj9I5TGwP77NT2rFhemlB"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "OMMA",
+      "url": "https://open.spotify.com/track/6xWO3A8vPPOfEqqWeGWeaM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 967127,
+  "num_followers": 967262,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Tiempo de oto\u00f1o",
         "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 275066,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
     },
     {
-      "added_at": "2024-09-26 19:28:08",
-      "album": {
-        "name": "Ya No Pienso en Ti (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Ya No Pienso en Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
-    },
-    {
       "added_at": "2021-04-22 14:20:49",
       "album": {
         "name": "Serie De Oro",
@@ -1003,6 +987,22 @@
       "duration_ms": 174360,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
+    },
+    {
+      "added_at": "2024-09-26 19:28:08",
+      "album": {
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Bienvenido al Club",
         "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 241733,
       "name": "Por volverte a ver",
       "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "16 \u00c9xitos: Baladas",
-        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
       },
       "artists": [
         {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 200045,
-      "name": "El Pecador",
-      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+      "duration_ms": 278453,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1211,6 +1195,22 @@
       "duration_ms": 186400,
       "name": "Espejismo",
       "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
     },
     {
       "added_at": "2021-04-22 14:20:49",

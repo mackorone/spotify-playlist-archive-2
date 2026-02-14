@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/3UuHS1AHJzFeTX0ZG5Nx54"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 179653,
       "name": "L'onde am\u00e8re",
       "url": "https://open.spotify.com/track/6figNg1aCljy2HQcFG2KLZ"
@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Get Out of Town (Deluxe)",
+        "url": "https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316078,
+      "name": "L\u2019etang",
+      "url": "https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU"
+    },
+    {
+      "album": {
         "name": "Manquait Plus Qu'Ca",
         "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148880,
       "name": "Paris, Paris, Paris",
       "url": "https://open.spotify.com/track/24VjdZZYQJuj85eqCjZQBq"
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 203840,
       "name": "Plus bleu que tes yeux",
       "url": "https://open.spotify.com/track/1TzWvpsXhggO68d6FNmanm"
@@ -2886,7 +2904,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 212893,
       "name": "Samois A Moi",
       "url": "https://open.spotify.com/track/01PlkOByrDuSNkJEhaMnr3"
@@ -2966,6 +2984,24 @@
       "duration_ms": 199946,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/4jB7708yIKZBISPLw4RS6j"
+    },
+    {
+      "album": {
+        "name": "Sous le ciel de Paris",
+        "url": "https://open.spotify.com/album/4GExjXdEO3WjgQnWH7nLKe"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194863,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/5nG9avzwlv693nrs10GZXW"
     },
     {
       "album": {

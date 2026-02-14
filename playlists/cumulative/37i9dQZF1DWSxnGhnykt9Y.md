@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-213 songs - 10 hr 0 min
+214 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Mid Tempo](https://open.spotify.com/track/1z8yTKgKZA5kCbC8LsBPui) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Mid Tempo](https://open.spotify.com/album/30T55hfm5N2EBSq4xYtCJV) | 2:34 | 2025-05-16 |  |
 | [MiiYa](https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [MiiYa](https://open.spotify.com/album/6XU9fyoSPL0SbsMw32lDEf) | 4:17 | 2024-11-29 | 2025-07-18 |
 | [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-11-29 | 2025-05-30 |
-| [Most Wanted](https://open.spotify.com/track/5la9K68cIHIBkURlGiHAAs) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Most Wanted](https://open.spotify.com/album/0OpIDcA9XULn2Ws2aGWBrQ) | 2:51 | 2025-12-12 |  |
+| [Most Wanted](https://open.spotify.com/track/5la9K68cIHIBkURlGiHAAs) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Most Wanted](https://open.spotify.com/album/0OpIDcA9XULn2Ws2aGWBrQ) | 2:51 | 2025-12-12 | 2026-02-14 |
 | [MOVE](https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ) | [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOVE](https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla) | 3:06 | 2024-11-29 | 2025-07-05 |
 | [MOVE \- JEJELY](https://open.spotify.com/track/4kY4RxO6ipwXgzlhT51GPz) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [MOVE \(JEJELY\)](https://open.spotify.com/album/08dIQqGU3AI0CRBJ2D2rTd) | 2:35 | 2025-12-12 |  |
 | [Ms Spender](https://open.spotify.com/track/4IYOmlcwhmWMyFN5DE2Dio) | [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Ms Spender](https://open.spotify.com/album/67xLcdLseC4qphYx865KeB) | 1:54 | 2024-11-29 | 2025-01-18 |
@@ -221,5 +221,6 @@
 | [Your Number](https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:04 | 2025-06-27 | 2025-10-10 |
 | [Your Type](https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Your Type](https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k) | 2:36 | 2025-07-18 | 2025-11-29 |
 | [ZENZELE \(feat\. Royal MusiQ, Uncool MC, Xduppy, & CowBoii\)](https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [4 Da Ho's](https://open.spotify.com/album/3t6qF1HL758mQiMjVHi7m6) | 4:33 | 2025-05-16 |  |
+| [Ọlówọ Ọrìmí](https://open.spotify.com/track/0jnY0KM7DPfzQHuv6wheFd) | [Lodù](https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs) | [Ọlówọ Ọrìmí](https://open.spotify.com/album/6RAiSXqmTSMMcJlVDl7jLk) | 3:35 | 2026-02-13 |  |
 
 \*This playlist was first scraped on 2024-12-04. Prior content cannot be recovered.

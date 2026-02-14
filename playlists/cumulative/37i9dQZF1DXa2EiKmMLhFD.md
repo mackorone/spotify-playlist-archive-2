@@ -4,7 +4,7 @@
 
 > Hits terpanas dari SIENNA SPIRO, Anggis Devaki, Nadhif Basalamah serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-373 songs - 23 hr 6 min
+374 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-11 | 2025-09-12 |
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2024-01-17 | 2024-05-10 |
 | [Kasih Aba Aba](https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Kasih Aba Aba](https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM) | 2:56 | 2025-05-30 |  |
-| [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup) | 3:26 | 2026-01-16 |  |
+| [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup) | 3:26 | 2026-01-16 | 2026-02-14 |
 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 | 2024-04-26 |  |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2023-03-23 | 2024-01-18 |
 | [Kau Selalu Di Hati](https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Symphony From The Heart](https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL) | 4:11 | 2025-03-26 | 2025-06-28 |
@@ -298,6 +298,7 @@
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2025-01-24 | 2025-07-18 |
 | [Soulmate](https://open.spotify.com/track/1rwGbGLDE0AkaH1UgUbufL) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Soulmate](https://open.spotify.com/album/12UUzKlYnWUZtmlX41geSZ) | 3:31 | 2025-02-14 | 2025-03-22 |
 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 | 2025-09-05 | 2025-10-18 |
+| [SPONTAN \( tanpa \) UHUY!](https://open.spotify.com/track/1d5ZCpPVFKWsJOWUzrfiwj) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [SPONTAN \( tanpa \) UHUY!](https://open.spotify.com/album/1OH1yq8hp3a50rbeoU2t8m) | 4:00 | 2026-02-13 |  |
 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 | 2024-04-29 | 2024-07-05 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-09 | 2023-12-22 |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2023-09-22 | 2024-02-21 |

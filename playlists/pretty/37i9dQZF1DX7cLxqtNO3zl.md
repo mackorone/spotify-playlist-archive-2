@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,809 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,814 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 17 | [Mayya Mayya](https://open.spotify.com/track/1YyCkF4HECCrkMcNn1hKBm) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Mariam Toller](https://open.spotify.com/artist/1Uj4ZC05yoQLa2oDVJVSbw), [Keerthi Sagathia](https://open.spotify.com/artist/0ESWSdsAB8QDp2eA4ES2Er) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KUhs5DCSDhq6V1AcgjXab) | 6:02 |
 | 18 | [Paagal](https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paagal](https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW) | 2:51 |
 | 19 | [Crazy Habibi Vs Decent Munda \(From "Arjun Patiala"\)](https://open.spotify.com/track/7yy3HgKJEcwArL5k0v5rhF) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Crazy Habibi Vs Decent Munda \(From "Arjun Patiala"\)](https://open.spotify.com/album/5bmu1BwfMDK5uckWSVLZWZ) | 3:03 |
-| 20 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
-| 21 | [Ishqam](https://open.spotify.com/track/7FcQRdlqMvAKmQH1SXCk1s) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Ali Quli Mirza](https://open.spotify.com/artist/5tCVWAczftmj4Ca9p6RJmj) | [Ishqam](https://open.spotify.com/album/5cfRTFNk7GosgMcMyUzTJy) | 3:14 |
+| 20 | [Ishqam](https://open.spotify.com/track/7FcQRdlqMvAKmQH1SXCk1s) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Ali Quli Mirza](https://open.spotify.com/artist/5tCVWAczftmj4Ca9p6RJmj) | [Ishqam](https://open.spotify.com/album/5cfRTFNk7GosgMcMyUzTJy) | 3:14 |
+| 21 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
 | 22 | [Dil Bechara](https://open.spotify.com/track/4UJkUnfEEL8B2JZ1OQfYOO) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 2:43 |
 | 23 | [Ishq](https://open.spotify.com/track/0AKWRh7wMW7Pzz2xo7SXlV) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [shipra goyal](https://open.spotify.com/artist/2RYQVpBwHLxuqpDZtlM5BP), [Myles Castello](https://open.spotify.com/artist/7o91XC7guOffmKcTtc5UvS) | [Ishq](https://open.spotify.com/album/2eYD0f2Tp1n8GQbmDoVft3) | 3:41 |
 | 24 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 45 | [Urvashi](https://open.spotify.com/track/5w99VDAT9vFmcEiOGG2eYU) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Best Of Indian Pop 2018](https://open.spotify.com/album/2oJZbv4jn5rlVw6CNganYn) | 3:35 |
 | 46 | [Nasha](https://open.spotify.com/track/3YytmBvKHJ77tLC6N3pxO7) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Nasha](https://open.spotify.com/album/0skLeastcOZ0H6ZUmTfAiY) | 3:33 |
 | 47 | [You're Gold \(feat\. Grini\)](https://open.spotify.com/track/0IyBqp1dLXqn5tQPk7rAXv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [You're Gold \(feat\. Grini\)](https://open.spotify.com/album/49cjJDVqwheDN16PYjcdiq) | 3:13 |
-| 48 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 |
-| 49 | [شناي](https://open.spotify.com/track/0uxvn45OTk88sjlwrrHSCm) | [حنان.](https://open.spotify.com/artist/0XW0YQBRv6ISDEL85T69WR) | [شناي](https://open.spotify.com/album/5LvDEg7s31vpqkQbtWGZFV) | 3:39 |
+| 48 | [شناي](https://open.spotify.com/track/0uxvn45OTk88sjlwrrHSCm) | [حنان.](https://open.spotify.com/artist/0XW0YQBRv6ISDEL85T69WR) | [شناي](https://open.spotify.com/album/5LvDEg7s31vpqkQbtWGZFV) | 3:39 |
+| 49 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 |
 | 50 | [Aqbil Arwh Wayak](https://open.spotify.com/track/5Rk2fqUd9Be51v2RGCH4fP) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Aqbil Arwh Wayak](https://open.spotify.com/album/21cNclONW67PlEiEtMT81I) | 3:43 |
 
 Snapshot ID: `AAAAAOI2JuVFkjZ0CQvskQY+vVYHYto9`

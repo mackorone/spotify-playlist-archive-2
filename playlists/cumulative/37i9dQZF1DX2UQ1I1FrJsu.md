@@ -4,7 +4,7 @@
 
 > smooth, crisp, not too tannic.
 
-183 songs - 11 hr 11 min
+184 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 | 2024-01-08 |  |
 | [Melodies](https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Secular Music Vol\. 1](https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf) | 4:34 | 2025-11-18 |  |
 | [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 | 2024-01-08 | 2025-11-19 |
-| [Muse](https://open.spotify.com/track/2O9gA2GHoh83DbjwAbLkqB) | [Damar Davis](https://open.spotify.com/artist/5CKsV48Twn9YMP6jqIpfqH) | [Muse](https://open.spotify.com/album/37MYEQeiuDvLm9aDPj9wvB) | 1:40 | 2025-07-30 |  |
+| [Muse](https://open.spotify.com/track/2O9gA2GHoh83DbjwAbLkqB) | [Damar Davis](https://open.spotify.com/artist/5CKsV48Twn9YMP6jqIpfqH) | [Muse](https://open.spotify.com/album/37MYEQeiuDvLm9aDPj9wvB) | 1:40 | 2025-07-30 | 2026-02-14 |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-03 | 2024-06-04 |
 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-08 |  |
 | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 | 2024-01-08 |  |
@@ -168,6 +168,7 @@
 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-24 |  |
 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 | 2025-04-18 |  |
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2024-01-08 | 2025-05-07 |
+| [Sunrise](https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Sunrise](https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf) | 2:23 | 2026-02-13 |  |
 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 | 2025-03-14 |  |
 | [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 | 2024-01-08 |  |
 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 | 2024-01-08 | 2025-05-04 |

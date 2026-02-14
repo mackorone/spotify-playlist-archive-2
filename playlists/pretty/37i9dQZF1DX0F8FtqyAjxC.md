@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,414 likes - 69 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,425 likes - 69 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 13 | [I Got a Big Bee](https://open.spotify.com/track/3mX1ZBW9TXkfuVPhiGsxRM) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 7:48 |
 | 14 | [drive ME crazy!](https://open.spotify.com/track/3NhMjhxVby5rlXvjBhCbrU) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 3:49 |
 | 15 | [If There is No Question \(Soul Clap's Wild, but not Crazy Mix\)](https://open.spotify.com/track/3shj8YULEPp6yV3yQlaywQ) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 7:18 |
-| 16 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
+| 16 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:54 |
 | 17 | [Just Can't Get Enough \- Choo Choo's Main Vocal Mix](https://open.spotify.com/track/0Qf8nrEBqysJ34iBO0H0Z2) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Just Can't Get Enough](https://open.spotify.com/album/1WkPeDtN4FPZcz31I6ClBP) | 10:37 |
 | 18 | [The Faith](https://open.spotify.com/track/3ZpTzsU8K2ihP5XqAkC7Ko) | [Currents](https://open.spotify.com/artist/1YUukzHEnHvbUPsF5IuUFB) | [The Faith](https://open.spotify.com/album/0dNfsAqlos4VihctC64egi) | 5:37 |
 | 19 | [Moxy Edits 001](https://open.spotify.com/track/17ZXjB3BbIPjbTQB3PfAK6) | [Moxy Edits](https://open.spotify.com/artist/3SGhL82phnYh9XBuSp0Wew) | [Moxy Edits 001](https://open.spotify.com/album/0USti3mG1SjqqAo1pVO9JQ) | 6:24 |

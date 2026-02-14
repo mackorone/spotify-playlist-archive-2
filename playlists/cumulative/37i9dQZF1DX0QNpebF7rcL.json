@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 255010,
       "name": "Can't Fix The World",
       "url": "https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP"
@@ -6740,6 +6740,24 @@
       "duration_ms": 215666,
       "name": "Payback Time (ft. Billy Gibbons)",
       "url": "https://open.spotify.com/track/1S129VbPDmmyHxYwYuwPqz"
+    },
+    {
+      "album": {
+        "name": "Perfect Illusion",
+        "url": "https://open.spotify.com/album/0guLOURlqAn4TaBdAzGvhA"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254533,
+      "name": "Perfect Illusion",
+      "url": "https://open.spotify.com/track/3PQVdzi8AzhCezucKB1R3Q"
     },
     {
       "album": {

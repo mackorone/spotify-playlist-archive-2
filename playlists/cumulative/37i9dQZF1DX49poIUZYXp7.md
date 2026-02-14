@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Kelsea Ballerini and Lainey Wilson
+> The extraordinary women making great country music today\. Cover: Ingrid Andress
 
-411 songs - 22 hr 21 min
+412 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/5B5ToRmXjXYXdShfi8Yx0s) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY) | 2:41 | 2022-03-01 | 2022-07-29 |
 | [Not Your Girl](https://open.spotify.com/track/6FlDHz8m1LARwqKCuDfvmF) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NBmlHXj47hWNHIdneHCu5) | 3:20 | 2021-12-01 | 2022-07-23 |
 | [Nothin' I Don't Love About You](https://open.spotify.com/track/3bpUoxpGoJkEQIHmMaUYPl) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [The Demos](https://open.spotify.com/album/0u5178s4Tdo1FboVzXSQUl) | 2:46 | 2022-03-02 | 2022-04-20 |
+| [Now I Know](https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Now I Know](https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a) | 3:31 | 2026-02-13 |  |
 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 | 2022-07-22 | 2024-04-19 |
 | [One Night Standards](https://open.spotify.com/track/5JZ5lObvzCf8tGLz6PW5He) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Martha Divine](https://open.spotify.com/album/3SdwaIzeZU9eTtqU0bwrZn) | 3:10 | 2021-12-01 |  |
 | [Our Days Are Numbered](https://open.spotify.com/track/0tGseysazP8CoS6TbUwfyk) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Our Days Are Numbered](https://open.spotify.com/album/370Fhdm7RYd4R386MOhcjO) | 3:29 | 2022-03-25 | 2022-04-21 |

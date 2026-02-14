@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-350 songs - 1 day 7 hr 37 min
+351 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 4:13 | 2023-06-20 | 2024-04-19 |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 | 2020-10-09 | 2022-11-30 |
+| [Between the Devil and the Deep Blue Sea](https://open.spotify.com/track/4uSdYy5VAgEmkeBjrhjItu) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Between the Devil and the Deep Blue Sea](https://open.spotify.com/album/06LZlYpTt2NZrCRTzqwK4h) | 4:10 | 2026-02-13 |  |
 | [Blackberry Winter](https://open.spotify.com/track/13WAHJVd17J6hN64YWVhSN) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Blackberry Winter](https://open.spotify.com/album/0ZZvwmKr1BLxfveRtFucqt) | 4:51 | 2023-08-03 | 2025-12-13 |
 | [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 | 2022-06-30 | 2024-04-19 |
 | [Blame It on My Youth](https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Blame It on My Youth](https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl) | 8:06 | 2022-02-17 | 2024-11-30 |
@@ -228,7 +229,7 @@
 | [OD](https://open.spotify.com/track/41cORdbmswG9htvuswqSJP) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 6:58 | 2022-06-30 | 2024-04-19 |
 | [Old Folks](https://open.spotify.com/track/1d2GDKkf9zUtm3uVpht4iK) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Old Folks](https://open.spotify.com/album/6IN9pyVseQooCpSgOYO25O) | 4:51 | 2022-02-24 | 2022-07-29 |
 | [Old Folks](https://open.spotify.com/track/0g7bP8p2uoWlIQDwjmaIAo) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Friendship](https://open.spotify.com/album/76J9y1fOCLHKZ0lmwsP0vx) | 4:51 | 2023-11-24 | 2024-04-19 |
-| [Old Folks](https://open.spotify.com/track/41bXzDVMnCCqmeILLvcEby) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Old Folks](https://open.spotify.com/album/6YT9ySUntyPD7E8abxlRH6) | 4:51 | 2023-08-03 |  |
+| [Old Folks](https://open.spotify.com/track/41bXzDVMnCCqmeILLvcEby) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Old Folks](https://open.spotify.com/album/6YT9ySUntyPD7E8abxlRH6) | 4:51 | 2023-08-03 | 2026-02-14 |
 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 | 2022-06-30 | 2023-08-04 |
 | [Old Folks](https://open.spotify.com/track/4UhBGmqcApvAZFTq53ukh7) | [Xavier Davis](https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Dwayne Burno](https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT) | [Dance of Life](https://open.spotify.com/album/29eUcknOT3RFpp1N1UK1lS) | 8:02 | 2020-10-09 | 2022-12-21 |
 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 | 2020-10-09 | 2023-01-11 |

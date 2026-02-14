@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Getaway Car",
+        "url": "https://open.spotify.com/album/64uplmfT0JPURVHJp4r3eS"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155179,
+      "name": "Getaway Car",
+      "url": "https://open.spotify.com/track/5BWK5cxevhraRUxNtdnTNH"
+    },
+    {
+      "album": {
         "name": "Giddy Up!",
         "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACClFFxmyUrt6D2mXUlgd9s",
+  "snapshot_id": "aY0YAAAAAAAYFkCkQlwA4wiuZBbD4TeP",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retic\u00eancias",
+        "url": "https://open.spotify.com/album/4W1RbWJIHhZn101nz56IWK"
+      },
+      "artists": [
+        {
+          "name": "Caio Nunez",
+          "url": "https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Retic\u00eancias",
+      "url": "https://open.spotify.com/track/3qwT7fQN8TB1Gx0mFMUygy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Um Novo Tom",
         "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 290769,
       "name": "Um Novo Tom",
       "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retic\u00eancias",
-        "url": "https://open.spotify.com/album/4W1RbWJIHhZn101nz56IWK"
-      },
-      "artists": [
-        {
-          "name": "Caio Nunez",
-          "url": "https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Retic\u00eancias",
-      "url": "https://open.spotify.com/track/3qwT7fQN8TB1Gx0mFMUygy"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 226026,
       "name": "Pegapacap\u00e1",
       "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Coragem da Luz",
         "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 211301,
       "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
       "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
     },
     {
       "added_at": null,
@@ -1099,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        }
-      ],
-      "duration_ms": 304692,
-      "name": "Um Sonho S\u00f3",
-      "url": "https://open.spotify.com/track/46j8R60lIlLcilPzLj1rR1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Di\u00e1rio de Bordo 6",
         "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 265763,
       "name": "Di\u00e1rio de Bordo 6",
       "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "duration_ms": 304692,
+      "name": "Um Sonho S\u00f3",
+      "url": "https://open.spotify.com/track/46j8R60lIlLcilPzLj1rR1"
     }
   ],
   "unique_name": "This Is Rashid",

@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 114782,
       "name": "Cajeta",
       "url": "https://open.spotify.com/track/706LuA8OPYsRFwTYatLEjS"
@@ -3052,6 +3052,28 @@
       "duration_ms": 126105,
       "name": "El Narcisista",
       "url": "https://open.spotify.com/track/5mYuFIRQUyf0EacKSHKwes"
+    },
+    {
+      "album": {
+        "name": "El Santito",
+        "url": "https://open.spotify.com/album/4SadWrdWmSThbO5lP74Pyo"
+      },
+      "artists": [
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185710,
+      "name": "El Santito",
+      "url": "https://open.spotify.com/track/51oTxv5nExXxOpEec7QjDR"
     },
     {
       "album": {
@@ -5276,7 +5298,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 91005,
       "name": "LIGA2",
       "url": "https://open.spotify.com/track/6PwukqDxs1ulv7ugWmj3Ij"
@@ -6531,6 +6553,36 @@
     },
     {
       "album": {
+        "name": "NO LA SUBO",
+        "url": "https://open.spotify.com/album/5r42dIj9PFOq6WmYsCMbwp"
+      },
+      "artists": [
+        {
+          "name": "Pboy",
+          "url": "https://open.spotify.com/artist/2xWG1pID8wmrwejeRcTdtg"
+        },
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Vgomez",
+          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
+        },
+        {
+          "name": "AVIDA",
+          "url": "https://open.spotify.com/artist/0SaMMRxNxzFncj6IHV94px"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205894,
+      "name": "NO LA SUBO",
+      "url": "https://open.spotify.com/track/1xrLj9mAbBmmGbFJLz6hdK"
+    },
+    {
+      "album": {
         "name": "No Love (Freestyle)",
         "url": "https://open.spotify.com/album/1u14hquPePVWhEvgkAQW4R"
       },
@@ -6738,6 +6790,24 @@
       "duration_ms": 151792,
       "name": "No Wifi",
       "url": "https://open.spotify.com/track/5uxDbCFArvfMZhnjWhqr3e"
+    },
+    {
+      "album": {
+        "name": "Fuera de \u00d3rbita 2",
+        "url": "https://open.spotify.com/album/4TBH9MyDd2FIIi8oz6T99v"
+      },
+      "artists": [
+        {
+          "name": "Yusak",
+          "url": "https://open.spotify.com/artist/6zFSYJAZRwGBvxsSRT0vzl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204999,
+      "name": "Noches de Aventura",
+      "url": "https://open.spotify.com/track/08wKL8RtPBGBkYaR0CmNKh"
     },
     {
       "album": {
@@ -8070,7 +8140,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168000,
       "name": "Real",
       "url": "https://open.spotify.com/track/7EpMDBvdtzW3A6pBBc5n2K"
@@ -9269,6 +9339,24 @@
     },
     {
       "album": {
+        "name": "TOP",
+        "url": "https://open.spotify.com/album/4Z62XRdoB0JTWbysda4fva"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "TOP",
+      "url": "https://open.spotify.com/track/61jXBJE5foy95m4yKQW5Ve"
+    },
+    {
+      "album": {
         "name": "Tos",
         "url": "https://open.spotify.com/album/3aJCEDsNE3amBy7CVu0Shj"
       },
@@ -10178,7 +10266,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 170101,
       "name": "\u00bfQUI\u00c9N TE CREES?",
       "url": "https://open.spotify.com/track/2DQpFclVHmnBkL1TMuvYl7"

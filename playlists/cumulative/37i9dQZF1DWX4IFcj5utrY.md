@@ -2,9 +2,9 @@
 
 ### [mint Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in Africa\. Cover: Dwson
+> The best dance hits in Africa\. Cover: Sun\-El Musician
 
-1,445 songs - 5 day 8 hr 15 min
+1,446 songs - 5 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Afro Brotherz \(Santorini\)](https://open.spotify.com/track/3yGeEoZRkROSHk3nwm32or) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN) | [Santorini](https://open.spotify.com/album/3OdQh8jCAcKS608jwFBrOC) | 7:37 | 2022-08-05 | 2022-09-10 |
 | [Afro Brotherz \(Tufamo\)](https://open.spotify.com/track/1W3WTmHaIizhwoS71BOmRQ) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN) | [Afro Brotherz \(Tufamo\)](https://open.spotify.com/album/4cE4WAfo9K6pB4oKFpeCjH) | 6:21 | 2022-03-03 | 2022-04-23 |
 | [Afro Market \- Original Mix](https://open.spotify.com/track/10xTB6DjnA3yhHuJfahlML) | [Thab De Soul](https://open.spotify.com/artist/6rOQUGz2uvmVZ6EEjZfIew) | [Trauma](https://open.spotify.com/album/14CvBA6xxeUS2STS9Etpvb) | 6:30 | 2021-11-25 | 2022-01-07 |
-| [Agba Baller](https://open.spotify.com/track/2vdapk0XgqtUnMtTixBQMH) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Agba Baller](https://open.spotify.com/album/6Jkh4ZoUM19kxYEyJASq5z) | 2:28 | 2026-01-08 |  |
+| [Agba Baller](https://open.spotify.com/track/2vdapk0XgqtUnMtTixBQMH) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Agba Baller](https://open.spotify.com/album/6Jkh4ZoUM19kxYEyJASq5z) | 2:28 | 2026-01-08 | 2026-02-14 |
 | [Agenda \(Dan McKie Remix\)](https://open.spotify.com/track/4GslB5wLv6O6Yj1wHEyhIK) | [Tom De Neef](https://open.spotify.com/artist/6MvJgyx8yTXPo0objFNTqn), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Dan McKie](https://open.spotify.com/artist/5x6OZlUVGFX4F1QHJCgysn) | [Agenda \(Dan McKie Remix\)](https://open.spotify.com/album/3CmQTkQmxQDx5jwWFX5Bem) | 7:41 | 2022-04-22 | 2022-06-10 |
 | [Agolo \- Da Capo’s Touch](https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Agolo \(Da Capo's Touch\)](https://open.spotify.com/album/0PMhkcozXB0evBnUoZIgrY) | 6:10 | 2021-12-23 | 2022-01-28 |
 | [Agolo \- Shimza Remix](https://open.spotify.com/track/4A0PF9HheeAoVHlAqEQVaV) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Agolo \(Shimza Remix\)](https://open.spotify.com/album/630OKkty5BNUedtiQIAra5) | 5:43 | 2022-01-20 | 2022-07-15 |
@@ -624,6 +624,7 @@
 | [Iza Ngamandla](https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Iza Ngamandla](https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg) | 5:59 | 2024-06-06 | 2024-11-15 |
 | [Izandla \(feat\. PYY Log Drum King\)](https://open.spotify.com/track/7C7vBKi99ZC4QluPLgpSob) | [Londie London](https://open.spotify.com/artist/7oTFtzl1yykaf2gZvG9aRD), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP) | [Izandla \(feat\. PYY Log Drum King\)](https://open.spotify.com/album/0tqh9SAt7ZfoAKkntGlePv) | 3:46 | 2025-08-21 | 2026-01-15 |
 | [Izimangaliso \(feat\. Khanyisa\)](https://open.spotify.com/track/6b9VMCogXvoK6OfNUBQ8T9) | [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Zwayetoven](https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j), [Kailey Botman](https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc) | [Soul Buddies](https://open.spotify.com/album/5DCa75Mt6oWjnCid9E4hzc) | 7:25 | 2025-06-05 | 2025-09-13 |
+| [I’ll Be There \(For You\)](https://open.spotify.com/track/3XkJJI9V76H803dnf9PAaA) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Under The Sun](https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq) | 4:43 | 2026-02-13 |  |
 | [J'oublierai tout](https://open.spotify.com/track/78cTZ1y6VMYEQxZMpjPuaq) | [Streys De DJ](https://open.spotify.com/artist/1w5Xfcrnnu7EjXeVpD9RAw), [Afro Wizardz](https://open.spotify.com/artist/3h5Zmn53SiU7O81ZZBxJwq), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [J'oublierai tout](https://open.spotify.com/album/1N9oQv561k9x70SdhrHt2w) | 5:32 | 2024-09-26 | 2025-05-02 |
 | [Jabata](https://open.spotify.com/track/5O7BvzsPGsYmWQ905Jmqtz) | [Dammye](https://open.spotify.com/artist/14cgLDAWHeu4vnHl6p8drF), [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV) | [Jabata](https://open.spotify.com/album/0OaksK9H5Pg1DnLhk4h3q8) | 3:03 | 2026-01-08 |  |
 | [Jabula](https://open.spotify.com/track/73dW5ILYT7p6O1P3rQv6qq) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Dr Moruti](https://open.spotify.com/artist/32GwRymg4m0PVaxUUKdtOj), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL) | [Jabula](https://open.spotify.com/album/3PQYnwwg09T8t7GB07VB5T) | 5:40 | 2023-07-28 | 2023-11-24 |

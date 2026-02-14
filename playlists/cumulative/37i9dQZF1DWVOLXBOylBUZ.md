@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Eladio Carrion.
 
-1,360 songs - 2 day 22 hr 35 min
+1,362 songs - 2 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Cortesia](https://open.spotify.com/track/1YVLCvODfzVovErsxXSw3D) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Antes Que Sea Verano](https://open.spotify.com/album/0VE6kZ6BWTwRb8FFK9Ayjc) | 2:00 | 2024-11-15 | 2024-11-30 |
 | [Cosa De Locos](https://open.spotify.com/track/0X2S8zFvH2k84eQQCUPSeO) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 2:36 | 2024-08-09 | 2025-05-17 |
 | [Cosa Guapa](https://open.spotify.com/track/5o9NxjgOMpdGDYswuNv7yu) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 4:15 | 2022-01-07 | 2022-05-28 |
-| [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 | 2024-11-22 |  |
+| [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 | 2024-11-22 | 2026-02-14 |
 | [Cosi \(feat\. Cobuz y Bustta\)](https://open.spotify.com/track/5C9Si7sopFIiiUxCLuuEcc) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Robledo](https://open.spotify.com/artist/5VyXOfvTQljStUXx1coETY), [ELIZALDE](https://open.spotify.com/artist/0MqIfXyd1cxF5dUJwzaw9F), [Cobuz y Bustta](https://open.spotify.com/artist/1CSd1MkJtXFrcsFQYBKt4N) | [Cosi \(feat\. Cobuz y Bustta\)](https://open.spotify.com/album/4Uyg7ZooIF3xpiH8HS4Ntw) | 3:09 | 2022-08-12 | 2022-11-19 |
 | [Cositas Sucias](https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Cositas Sucias](https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj) | 2:21 | 2024-02-23 | 2024-03-09 |
 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-01-27 | 2023-05-13 |
@@ -465,6 +465,7 @@
 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 | 2022-02-25 | 2022-08-20 |
 | [Estrella](https://open.spotify.com/track/1qemIcMb4YrHfxtSmnQ4y9) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Estrella](https://open.spotify.com/album/5ZxTdt8ek2Mr5VyxIfhykS) | 3:29 | 2022-12-09 | 2023-04-20 |
 | [Estrella](https://open.spotify.com/track/3X3Cq9mu8g0rDRimOABTDA) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 2:22 | 2022-10-28 | 2023-02-25 |
+| [Estuve Ahí](https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Estuve Ahí](https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW) | 2:15 | 2026-02-13 |  |
 | [Europa](https://open.spotify.com/track/4C8KFz9tPZjIsMfFh9NnJ9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:14 | 2022-11-04 | 2023-03-04 |
 | [Europa](https://open.spotify.com/track/5DN2tYSlhn04NqAwmgl4s4) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Europa](https://open.spotify.com/album/42nZQTeozDdU1ReiwtysnD) | 2:51 | 2024-09-06 | 2024-10-05 |
 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 | 2023-08-18 | 2024-01-13 |
@@ -1235,6 +1236,7 @@
 | [TRAJECITO](https://open.spotify.com/track/2NGbCghWkDGTZtknazgEuf) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [TRAJECITO](https://open.spotify.com/album/22pfyMyN1fDcgnlSLNPGGo) | 3:14 | 2023-11-24 | 2024-06-22 |
 | [Traka](https://open.spotify.com/track/1FXTLPcQGGv5OE5Me9mxdG) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [Traka](https://open.spotify.com/album/0ptyTJDlh8CYs21xHvg1LE) | 2:19 | 2024-08-09 | 2024-10-05 |
 | [Trakata](https://open.spotify.com/track/5YQDQrhCQQqjG8nBqYMrPJ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Trakata](https://open.spotify.com/album/0tDnBrjWnAqAohPcU0wK0i) | 2:50 | 2024-12-20 | 2025-01-25 |
+| [Trampolin](https://open.spotify.com/track/3iJoVxuea0fJkh1sd8ikyl) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [NAGA](https://open.spotify.com/album/0nu0uNFoMYosxd02s35XyO) | 2:45 | 2026-02-13 |  |
 | [Tremenda](https://open.spotify.com/track/5Wxdk7jhKAgPIuUZ0CFjO6) | [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n) | [Tremenda](https://open.spotify.com/album/5ITVpjGfYE3N2KuHeilDBt) | 3:33 | 2024-08-02 | 2024-09-21 |
 | [TRIPLE P](https://open.spotify.com/track/6qsj7miSiFODBWWP3FR7Qe) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal) | [LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías](https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F) | 2:46 | 2024-10-04 | 2024-10-19 |
 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 | 2023-04-20 | 2023-07-22 |

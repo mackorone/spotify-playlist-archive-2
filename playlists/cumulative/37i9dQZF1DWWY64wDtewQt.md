@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-863 songs - 1 day 7 hr 12 min
+864 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [FUNK INFERNAL](https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y) | [DYGO](https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7), [Mxng0](https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3) | [FUNK INFERNAL](https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W) | 1:30 | 2024-12-13 |  |
 | [Funk of Galáctico](https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Galáctico](https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA) | 1:30 | 2024-04-26 |  |
 | [Funk of Suffering](https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Suffering](https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB) | 1:17 | 2023-12-08 | 2024-05-04 |
-| [FUNK SIGILO \- SLOWED](https://open.spotify.com/track/1ZPszVMluDbqsEx9MJTjJd) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 1:43 | 2025-06-30 |  |
+| [FUNK SIGILO \- SLOWED](https://open.spotify.com/track/1ZPszVMluDbqsEx9MJTjJd) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 1:43 | 2025-06-30 | 2026-02-14 |
 | [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 | 2025-07-25 |  |
 | [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 | 2024-08-30 |  |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-02-09 |  |
@@ -474,6 +474,7 @@
 | [MONTAGEM \- PAREDE](https://open.spotify.com/track/1Bf8wk84B42gGewriwJlT9) | [SAMUKA](https://open.spotify.com/artist/3wGtjtHSh7D31VZV9wPupB) | [MONTAGEM \- PAREDE](https://open.spotify.com/album/0JgTiCbeMx4rflI3BBINoB) | 1:01 | 2023-06-02 | 2023-09-12 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-06-02 | 2025-08-31 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-06-02 | 2024-04-19 |
+| [MONTAGEM ALQUIMIA](https://open.spotify.com/track/0Wms5IftbzNzmrAyXx4A33) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf), [n7san7os](https://open.spotify.com/artist/3cvsBiWPwn1oVpKCeGBev9), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM ALQUIMIA](https://open.spotify.com/album/0N6Xm4YHBgSx1NGUCs4L7X) | 1:36 | 2026-02-13 |  |
 | [MONTAGEM ALUCINANTE](https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF) | [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g) | [MONTAGEM ALUCINANTE](https://open.spotify.com/album/1ytbKNSOn7FALPHrmOqAdN) | 2:50 | 2025-05-16 |  |
 | [MONTAGEM AMOSTRA \- EDIT VERSION](https://open.spotify.com/track/0dCojVSsIPhUy4R1c9OOm5) | [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ), [zarzour](https://open.spotify.com/artist/6fWaIm6tgq3jfZTr9NMxUd), [DJ VIBER](https://open.spotify.com/artist/2AJGtiRmXalpq8FayihpD8), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO) | [MONTAGEM AMOSTRA](https://open.spotify.com/album/7Dx7Y0zQseVOjdgnPMYly8) | 1:39 | 2025-10-17 |  |
 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 | 2025-04-25 |  |

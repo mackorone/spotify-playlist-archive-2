@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 573340,
+  "num_followers": 573562,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 284626,
       "name": "Dime",
       "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Quavo #Mododiablo",
-        "url": "https://open.spotify.com/album/1wqjwWta01I0J17ThJeCca"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 237428,
-      "name": "Quavo #Mododiablo",
-      "url": "https://open.spotify.com/track/262lBp5MtK39jc7gQdYrVM"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -987,22 +963,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+        "name": "Quavo #Mododiablo",
+        "url": "https://open.spotify.com/album/1wqjwWta01I0J17ThJeCca"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         },
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
         }
       ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
+      "duration_ms": 237428,
+      "name": "Quavo #Mododiablo",
+      "url": "https://open.spotify.com/track/262lBp5MtK39jc7gQdYrVM"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1027,6 +1007,26 @@
       "duration_ms": 184405,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
-        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 198703,
-      "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
-      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "No Quiere Amor (feat. Farruko)",
         "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 268560,
       "name": "No Quiere Amor (feat. Farruko)",
       "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
+        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
+      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Si Te Vas",
         "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
       },
@@ -1215,22 +1195,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
         },
         {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 169448,
-      "name": "Singapur (feat. Yung Beef)",
-      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1255,6 +1235,26 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 169448,
+      "name": "Singapur (feat. Yung Beef)",
+      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1287,6 +1287,26 @@
       "duration_ms": 327999,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Me Llueven",
+        "url": "https://open.spotify.com/album/7pt7KWgOozxnMAZtHFd2sG"
+      },
+      "artists": [
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 165994,
+      "name": "Me Llueven",
+      "url": "https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1367,26 +1387,6 @@
       "duration_ms": 179383,
       "name": "Flexin'",
       "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Me Llueven",
-        "url": "https://open.spotify.com/album/7pt7KWgOozxnMAZtHFd2sG"
-      },
-      "artists": [
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165994,
-      "name": "Me Llueven",
-      "url": "https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA"
     },
     {
       "added_at": "2024-03-08 16:14:30",

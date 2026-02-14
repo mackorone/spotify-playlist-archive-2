@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140632,
+  "num_followers": 140633,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,26 @@
     {
       "added_at": "2026-02-12 23:00:26",
       "album": {
+        "name": "February Stories",
+        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "February Stories",
+      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
+    },
+    {
+      "added_at": "2026-02-12 23:00:26",
+      "album": {
         "name": "Trop parler",
         "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 154000,
       "name": "COMO TU",
       "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
-    },
-    {
-      "added_at": "2026-02-12 23:00:26",
-      "album": {
-        "name": "February Stories",
-        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 143346,
-      "name": "February Stories",
-      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
     },
     {
       "added_at": "2026-02-12 23:00:26",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-02-12 23:00:26",
       "album": {
+        "name": "PAPARAZZI",
+        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 147641,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+    },
+    {
+      "added_at": "2026-02-12 23:00:26",
+      "album": {
         "name": "Deim Van Je",
         "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 152000,
       "name": "Your Season",
       "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
-    },
-    {
-      "added_at": "2026-02-12 23:00:26",
-      "album": {
-        "name": "PAPARAZZI",
-        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 147641,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
     },
     {
       "added_at": "2026-02-12 23:00:26",

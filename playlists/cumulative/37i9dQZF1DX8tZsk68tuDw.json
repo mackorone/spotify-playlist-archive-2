@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Kaleena Zanders & Bipolar Sunshine",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with GRiZ & Levity",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -12130,7 +12130,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 205106,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
@@ -12374,7 +12374,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 120000,
       "name": "Caramelle",
       "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
@@ -14531,6 +14531,28 @@
     },
     {
       "album": {
+        "name": "Come Back 2 Me",
+        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193564,
+      "name": "Come Back 2 Me",
+      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
+    },
+    {
+      "album": {
         "name": "Come Back Around",
         "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
       },
@@ -14988,6 +15010,28 @@
       "duration_ms": 236129,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea"
+    },
+    {
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155210,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad"
     },
     {
       "album": {
@@ -15632,7 +15676,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171000,
       "name": "Craving What Ain't Mine - Radio Mix",
       "url": "https://open.spotify.com/track/2PMGzzwnjWbngTp0Xwuvpi"
@@ -30758,7 +30802,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 154405,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/4PzgYtLEcik1VGjbDDdqbA"
@@ -34317,6 +34361,28 @@
     },
     {
       "album": {
+        "name": "Moonglade Park",
+        "url": "https://open.spotify.com/album/4wkiD8YFP3BFJRiyAcFZut"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Sophie Marks",
+          "url": "https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339333,
+      "name": "I See A Fire",
+      "url": "https://open.spotify.com/track/0vDo2dD4qWyZ3ulNaydHLx"
+    },
+    {
+      "album": {
         "name": "I See Colors",
         "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
@@ -35964,6 +36030,24 @@
       "duration_ms": 217846,
       "name": "In My Head (Part I)",
       "url": "https://open.spotify.com/track/587w9pOR9UNvFJOwkW7NgD"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
     },
     {
       "album": {
@@ -41884,7 +41968,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 227757,
       "name": "Lime Tikka",
       "url": "https://open.spotify.com/track/64LhB2eoPkeY582Ys0D7eE"
@@ -42239,6 +42323,28 @@
     },
     {
       "album": {
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "album": {
         "name": "Locomotiva Ibiza 2099 I",
         "url": "https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm"
       },
@@ -42418,7 +42524,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 134095,
       "name": "Look Good",
       "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
@@ -43406,6 +43512,24 @@
       "duration_ms": 230344,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/4t9vOwy3LFYcre771GzHy4"
+      },
+      "artists": [
+        {
+          "name": "TWOFACED",
+          "url": "https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/2zGn6hwGCnANDoSsAxlnRx"
     },
     {
       "album": {
@@ -46030,7 +46154,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 232000,
       "name": "Midnight Control (feat. Emily Makis)",
       "url": "https://open.spotify.com/track/6nSTAGsQTciuqHFNwZ9INM"
@@ -49032,7 +49156,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219047,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
@@ -52577,6 +52701,28 @@
     },
     {
       "album": {
+        "name": "One More (feat. Ad-Apt)",
+        "url": "https://open.spotify.com/album/09sFieX0gGevzK0TWq27uZ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Ad-Apt",
+          "url": "https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185859,
+      "name": "One More (feat. Ad-Apt)",
+      "url": "https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs"
+    },
+    {
+      "album": {
         "name": "One More Day (with Chandler Leighton)",
         "url": "https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL"
       },
@@ -53450,6 +53596,24 @@
       "duration_ms": 138559,
       "name": "Out of Love",
       "url": "https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3"
+    },
+    {
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
       "album": {
@@ -55922,6 +56086,28 @@
       "duration_ms": 202380,
       "name": "Pondicherry",
       "url": "https://open.spotify.com/track/0IoJNiqfeORsU6nMY9zC85"
+    },
+    {
+      "album": {
+        "name": "Pop Off",
+        "url": "https://open.spotify.com/album/0q9oRJGUbgTD2H9Bvz9zbk"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "Pop Off",
+      "url": "https://open.spotify.com/track/4PolqZLqReEqc3yURJtzc4"
     },
     {
       "album": {
@@ -71740,7 +71926,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171428,
       "name": "THINKING ABOUT YOU",
       "url": "https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c"
@@ -74891,6 +75077,24 @@
     },
     {
       "album": {
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245273,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
+    },
+    {
+      "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
@@ -76070,7 +76274,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 181500,
       "name": "Wanna Party (feat. Dennis G)",
       "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"

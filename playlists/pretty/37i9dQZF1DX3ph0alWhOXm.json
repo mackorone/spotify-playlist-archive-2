@@ -203,22 +203,6 @@
     {
       "added_at": "2026-01-21 18:30:53",
       "album": {
-        "name": "What Not To",
-        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Brunette",
-      "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
-    },
-    {
-      "added_at": "2026-01-21 18:30:53",
-      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+      "added_at": "2026-01-21 18:30:53",
+      "album": {
+        "name": "What Not To",
+        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Brunette",
+      "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
     },
     {
       "added_at": "2026-01-21 18:30:53",
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-01-21 18:30:53",
       "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2026-01-21 18:30:53",
@@ -515,18 +515,18 @@
     {
       "added_at": "2026-01-21 18:30:53",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2026-01-21 18:30:53",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-01-21 18:30:53",
       "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "added_at": "2026-01-21 18:30:53",
+      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2026-01-21 18:30:53",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2026-01-21 18:30:53",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-01-21 18:30:53",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
-    },
-    {
-      "added_at": "2026-01-21 18:30:53",
-      "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 241533,
       "name": "It's A Great Day To Be Alive",
       "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+    },
+    {
+      "added_at": "2026-01-21 18:30:53",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2026-01-21 18:30:53",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-21 18:30:53",
       "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
-    },
-    {
-      "added_at": "2026-01-21 18:30:53",
-      "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 231920,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+    },
+    {
+      "added_at": "2026-01-21 18:30:53",
+      "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
     },
     {
       "added_at": "2026-01-21 18:30:53",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-01-21 18:30:53",
       "album": {
-        "name": "Not At This Party",
-        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 212437,
-      "name": "Not At This Party",
-      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
     },
     {
       "added_at": "2026-01-21 18:30:53",

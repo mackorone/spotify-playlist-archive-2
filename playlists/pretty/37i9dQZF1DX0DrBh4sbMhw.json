@@ -1,6 +1,6 @@
 {
   "description": "ang lalim",
-  "num_followers": 460082,
+  "num_followers": 460078,
   "original_name": "magmuni-muni",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,22 @@
     {
       "added_at": "2026-02-03 03:58:29",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2026-02-03 03:58:29",
@@ -159,22 +163,18 @@
     {
       "added_at": "2026-02-03 03:58:29",
       "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2026-02-03 03:58:29",
@@ -811,18 +811,22 @@
     {
       "added_at": "2026-02-03 03:58:29",
       "album": {
-        "name": "Sagip",
-        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5"
       },
       "artists": [
         {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        },
+        {
+          "name": "putri dahlia",
+          "url": "https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Sagip",
-      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
+      "duration_ms": 249382,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH"
     }
   ],
   "unique_name": "magmuni-muni",

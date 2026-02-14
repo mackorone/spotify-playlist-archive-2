@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,438 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,462 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 52 | [A Besitos](https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:27 |
 | 53 | [Ella Era Todo](https://open.spotify.com/track/1MldC2AUalcu3fYRFHalHS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:06 |
 | 54 | [En Carne Propia](https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL) | [Silvio Brito](https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg), [Osmel Meriño](https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU) | [Vallenato en Accion: Lo Más Grande del Vallenato](https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5) | 4:54 |
-| 55 | [Anhelos](https://open.spotify.com/track/0WeQDKg5LkQCn3LuplSjgH) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 2:58 |
+| 55 | [A Pesar de Todo](https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ) | [La Combinación Vallenata](https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO) | 4:32 |
 | 56 | [Tierra Mala](https://open.spotify.com/track/2t7Zu61LX9fvksVg3f6zfo) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:48 |
 | 57 | [Que No Me Faltes Tú](https://open.spotify.com/track/4FthWiJTjWOJWVQsJpq1YF) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Máxima Expresión](https://open.spotify.com/album/1J1sHCVFmSlGqtVUO54qUM) | 4:43 |
 | 58 | [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |
-| 59 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
-| 60 | [Dilo](https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o), [Herold Rivera](https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R), [Conexión Carito](https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN) | [Destellos de Amor](https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r) | 4:15 |
+| 59 | [Anhelos](https://open.spotify.com/track/0WeQDKg5LkQCn3LuplSjgH) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 2:58 |
+| 60 | [No Quiero Perderte](https://open.spotify.com/track/21KgSn2kl6BG6OQkrbpEO3) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 4:48 |
 
 Snapshot ID: `AAAAAK092wt67QwsI50uh1u3bwKJV0L8`

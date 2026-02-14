@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Kashus Culpepper
+> roots run deep with Flatland Cavalary
 
-430 songs - 1 day 1 hr 41 min
+431 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Fast Asleep](https://open.spotify.com/track/5s8DrAoxwPB846boyVOKHS) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fast Asleep](https://open.spotify.com/album/7dWMAoJMvXjPhb1XsDYMiA) | 4:32 | 2024-05-24 |  |
 | [Father in a Bible](https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D) | [Jonas Conner](https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv) | [Father in a Bible](https://open.spotify.com/album/26lP4nrMKZjuJlMOJUz9K8) | 2:38 | 2025-01-10 | 2025-03-15 |
 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Father’s Søn \(Acoustic\)](https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN) | 4:32 | 2024-09-13 | 2025-01-03 |
+| [Fear In God](https://open.spotify.com/track/4ukGwNs7VfYRsWk9bJWuf5) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Fear In God](https://open.spotify.com/album/0eqlCc74kIH0hnj1jK9EnX) | 2:58 | 2026-02-13 |  |
 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 | 2023-02-24 |  |
 | [February 28, 2016](https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:53 | 2023-02-24 | 2023-08-21 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-10 | 2023-12-09 |

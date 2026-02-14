@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,200 songs - 3 day 3 hr 13 min
+1,206 songs - 3 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Dimensional Bleed](https://open.spotify.com/track/5n53nDdWK0IYXmqfsSG8nS) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Dimensional Bleed](https://open.spotify.com/album/1x4xTsdwHVjMmUE5J9fipk) | 2:39 | 2022-07-15 | 2023-07-15 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-01-07 | 2023-07-15 |
 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 | 2025-09-26 |  |
+| [Dirt](https://open.spotify.com/track/31cgFmhvnwfj1r97FtpYeI) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [God Forgives](https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii) | 2:39 | 2026-02-13 |  |
 | [Dis\(re\)member](https://open.spotify.com/track/6itDwVEMBD9vzi1jYB4pyk) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Humdinger](https://open.spotify.com/album/6rmPiDiMBZvv3HFQ8gc4Kw) | 3:00 | 2024-03-08 | 2025-04-11 |
 | [dismay](https://open.spotify.com/track/3djKnhj3u5pS9imZ5fObvm) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [dismay](https://open.spotify.com/album/6NaNie2sVI39d9Ml39xzkp) | 3:07 | 2024-12-13 | 2025-04-11 |
 | [Disposal](https://open.spotify.com/track/0EO2VSzN4uYo1xnp5qYkLL) | [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [Seeking Chaos And Revenge After Betrayal](https://open.spotify.com/album/3y9S2qmboXsNIdjFb362QH) | 2:30 | 2023-11-10 | 2024-02-03 |
@@ -378,6 +379,7 @@
 | [Follow The Flies](https://open.spotify.com/track/4TJKHjgqY2zaBlIlNOEB2q) | [Simulakra](https://open.spotify.com/artist/2jWxOfUagc8h6PbDZgFoMp), [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Follow The Flies](https://open.spotify.com/album/1PxdUTbU6rWRyKnMQM3JVp) | 3:11 | 2022-05-13 | 2023-07-15 |
 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 | 2022-10-14 | 2023-07-15 |
 | [Forbidden Zone](https://open.spotify.com/track/2LGlWmhOPMCZD2m521OGbq) | [Dogma](https://open.spotify.com/artist/4R6XPuqGShFESRVkCePaxj) | [Forbidden Zone](https://open.spotify.com/album/3Lb0qwdMR6nMxLsLU1njT2) | 4:49 | 2023-09-01 | 2024-02-03 |
+| [Force Meets Presence](https://open.spotify.com/track/3QnlkM9avGDdHaxyydzElM) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm) | 2:17 | 2026-02-13 |  |
 | [Forced Collective Introspection](https://open.spotify.com/track/6m2DU1KELwVuOSRBVHeRz6) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Forced Collective Introspection](https://open.spotify.com/album/7og3aAs6LAsU1fWIfyyZLb) | 2:12 | 2022-09-09 | 2023-07-15 |
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-09-16 | 2023-07-15 |
 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-11-11 | 2023-07-15 |
@@ -449,6 +451,7 @@
 | [Heart Like a Slaughterhouse](https://open.spotify.com/track/4CdiP0imLWkvznQlSVgLCy) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Heart Like a Slaughterhouse](https://open.spotify.com/album/4oMHOfe3aZ3RgRbpspCsje) | 3:22 | 2023-02-24 | 2024-02-03 |
 | [Heart of Darkness](https://open.spotify.com/track/6qzoZnjgXpyBELRglVqRZ5) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [You'll Know It Was Me](https://open.spotify.com/album/3bFFAIHUILPJmF8l24oGhf) | 2:28 | 2025-02-14 |  |
 | [Heart Reformer](https://open.spotify.com/track/4bSTKeCvyLnXwsDc1Aw452) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Heart Reformer](https://open.spotify.com/album/04b6r0OaKUICdRbIacCRPa) | 3:26 | 2022-08-26 | 2023-07-15 |
+| [HEARTLESS](https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [HEARTLESS](https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe) | 4:26 | 2026-02-13 |  |
 | [Heaven Below Earth](https://open.spotify.com/track/0Dzw9RdDR7xCKCH4UWM9SG) | [Nailed Shut MA](https://open.spotify.com/artist/7pJWoMAf2uchps2h4Ut1zD) | [Heaven Below Earth](https://open.spotify.com/album/7aBuhYDInBEjomZTsZ0bcI) | 3:38 | 2026-02-06 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-27 | 2025-04-11 |
 | [Heavy, Why?](https://open.spotify.com/track/6QTpBulBNvADBWTakGfpPA) | [Blackwater Holylight](https://open.spotify.com/artist/2fqEhs5dZBrDLUqHvWRtBc) | [Heavy, Why?](https://open.spotify.com/album/6xZBRKCZPdxTAnZFQoZoXf) | 4:02 | 2025-11-14 |  |
@@ -462,6 +465,7 @@
 | [Hide Your Evil](https://open.spotify.com/track/0OliHsJwDWAnUlG0kaMhor) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Hide Your Evil](https://open.spotify.com/album/6I67EzTCCMBkSksDLclSGI) | 2:52 | 2025-08-22 |  |
 | [High Noon](https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Para Bellum](https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW) | 3:52 | 2025-10-10 |  |
 | [High Plains Drifter](https://open.spotify.com/track/4Eya9E3OOY9QCec2ssaG6T) | [Kirk Hammett](https://open.spotify.com/artist/2ePzbA0F0TD96Na0MEB2Cf) | [High Plains Drifter](https://open.spotify.com/album/26ZZ3Pr3U6OCzveywxauf2) | 4:45 | 2022-04-15 | 2023-07-15 |
+| [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg) | 3:26 | 2026-02-13 |  |
 | [Hole](https://open.spotify.com/track/5BJTWI5ppMqnQldCPawycd) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Hole](https://open.spotify.com/album/6W6uSAwCv3tC5btB7kd4GN) | 6:01 | 2025-07-25 |  |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-07-15 |
 | [Hollow Cry](https://open.spotify.com/track/1y7jsF2OeKTdZ1pDCk3ZNO) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 3:08 | 2023-09-29 | 2024-02-03 |
@@ -822,6 +826,7 @@
 | [Return To One](https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Return To One](https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs) | 3:35 | 2025-01-24 | 2026-01-24 |
 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-13 | 2024-02-03 |
 | [Righteous Man](https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Righteous Man](https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI) | 3:48 | 2024-08-23 | 2025-04-11 |
+| [Rip](https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Rip](https://open.spotify.com/album/64b596DrbceGFZ4pZQ3gp7) | 3:12 | 2026-02-13 |  |
 | [Rise & Fall](https://open.spotify.com/track/0Ip46hm5I2g29iHzbyEMHv) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [All That Follows](https://open.spotify.com/album/14jkNNtzXEMEYVe1NHE7G8) | 3:29 | 2025-10-31 |  |
 | [Rise from the Grave](https://open.spotify.com/track/3Uo3xhqUJG9EHTtdlBbEm4) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Rise from the Grave](https://open.spotify.com/album/4rTmT4RMbmdNHid4lgighZ) | 3:35 | 2022-01-21 | 2023-07-15 |
 | [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 | 2025-01-03 | 2026-01-24 |
@@ -877,6 +882,7 @@
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 | 2023-07-15 |
 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 | 2023-10-06 | 2024-02-03 |
 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-21 | 2024-02-03 |
+| [Silhouette](https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Silhouette](https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm) | 4:29 | 2026-02-13 |  |
 | [Silhouettes In Motion](https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Respite For A Tragic Tale / Silhouettes in Motion](https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa) | 2:47 | 2024-03-08 | 2025-04-11 |
 | [SILOS](https://open.spotify.com/track/5tdXeZOLP0dUVhJ5tTxCJW) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [SILOS](https://open.spotify.com/album/5SsKMrXgdXKZOOST3UHQ1P) | 4:20 | 2025-06-27 |  |
 | [Siren Song](https://open.spotify.com/track/0HCHJZ0inruYnyCDC0PtPN) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Siren Song](https://open.spotify.com/album/13eHcKjVc3pMv0LeMPZW03) | 3:33 | 2023-06-16 | 2024-02-03 |

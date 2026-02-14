@@ -4239,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "Bad Cherries",
+        "url": "https://open.spotify.com/album/3ZwhiueiZpJVMa4wtaVERe"
+      },
+      "artists": [
+        {
+          "name": "Muki",
+          "url": "https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159049,
+      "name": "Bad Cherries",
+      "url": "https://open.spotify.com/track/1OYbnkHajQqvBNbe1vYmR1"
+    },
+    {
+      "album": {
         "name": "bad game",
         "url": "https://open.spotify.com/album/6nC8B3PaTcSSduwuE7mA4Q"
       },
@@ -5588,7 +5606,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 120000,
       "name": "bite",
       "url": "https://open.spotify.com/track/14q8vUDFcdohBJGlvSh2Fq"
@@ -9974,7 +9992,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 175743,
       "name": "CRANK",
       "url": "https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G"
@@ -25662,7 +25680,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 102187,
       "name": "keeper",
       "url": "https://open.spotify.com/track/0IAzncI3XC3o2mrGMUZ7bA"
@@ -28378,7 +28396,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 217600,
       "name": "LUV IN AI <3",
       "url": "https://open.spotify.com/track/4xJSHMFHcppRSMvugndnII"
@@ -28718,6 +28736,24 @@
       "duration_ms": 133312,
       "name": "Magic Clock",
       "url": "https://open.spotify.com/track/1XzmDchjeqwC0VVjHuxKFz"
+    },
+    {
+      "album": {
+        "name": "Magic Misery",
+        "url": "https://open.spotify.com/album/6F2DiBoxALYQQGjlJ26OFG"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Magic Misery",
+      "url": "https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq"
     },
     {
       "album": {
@@ -35329,6 +35365,24 @@
     },
     {
       "album": {
+        "name": "Play that",
+        "url": "https://open.spotify.com/album/2hOwj6e9eW57LQHO0Iknpg"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97142,
+      "name": "Play that",
+      "url": "https://open.spotify.com/track/28JOX6h6wYoYTtj7Y6oIa1"
+    },
+    {
+      "album": {
         "name": "pls (\u2212_\u2212;)",
         "url": "https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx"
       },
@@ -40683,6 +40737,24 @@
     },
     {
       "album": {
+        "name": "Fake Denim / Shutting Up",
+        "url": "https://open.spotify.com/album/0iZPJncmI2J0XZ6wUuxEaL"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161502,
+      "name": "Shutting Up",
+      "url": "https://open.spotify.com/track/6Nv3YIAjAcakczsJafMv0C"
+    },
+    {
+      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/26TG9YhjDwqY4mr7cFTaq9"
       },
@@ -41229,6 +41301,28 @@
     },
     {
       "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
+    },
+    {
+      "album": {
         "name": "Six (umru Remix)",
         "url": "https://open.spotify.com/album/0csDYIVUlPdSVo1KKGC5Wl"
       },
@@ -41466,6 +41560,24 @@
       "duration_ms": 154022,
       "name": "Slug Song",
       "url": "https://open.spotify.com/track/5rg66yM2srFONrhJFFLpCk"
+    },
+    {
+      "album": {
+        "name": "slut for the dj",
+        "url": "https://open.spotify.com/album/4OwU91pl4OEW1k0hhYLM1K"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165117,
+      "name": "slut for the dj",
+      "url": "https://open.spotify.com/track/3TePjhnsBXPFpPZ7yqo0cl"
     },
     {
       "album": {
@@ -44840,7 +44952,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 212860,
       "name": "TAMAGOTCHI",
       "url": "https://open.spotify.com/track/6ZoPdqZghCqnTt7ES48hkC"
@@ -44950,7 +45062,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 142373,
       "name": "taste",
       "url": "https://open.spotify.com/track/4QXjQ3KdLWX7DnaZUilfRG"

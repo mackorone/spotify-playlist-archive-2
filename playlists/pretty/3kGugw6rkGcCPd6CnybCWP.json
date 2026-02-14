@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANRxkwJ3GlIkJZ3WjLob2IP9hHz6K/",
+  "snapshot_id": "AAANSBNTAsz86kRvLy3OJvdBz1g2gj8f",
   "tracks": [
     {
       "added_at": "2026-02-07 16:20:06",
@@ -1203,6 +1203,22 @@
       "duration_ms": 193474,
       "name": "Dreaming of you",
       "url": "https://open.spotify.com/track/470owFy9zXfoCVqXlWgOX4"
+    },
+    {
+      "added_at": "2026-02-13 13:00:43",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "duration_ms": 201982,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

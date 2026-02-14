@@ -1,47 +1,71 @@
 {
-  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Clovis Pinho",
-  "num_followers": 364597,
+  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Felipe Rodrigues, Marcus Salles",
+  "num_followers": 364860,
   "original_name": "Novidades Religiosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALs2XbKMLchDpWC/uCP1eRosczF/",
+  "snapshot_id": "AAAAAKKrqHkdola8iWYBtwyYnFyOhWcW",
   "tracks": [
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Pelo Sangue",
-        "url": "https://open.spotify.com/album/6enMdY93YN5gPVJ8mpe6xB"
+        "name": "Amo o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6HnK2XYw0bFz2jg4e6hj5j"
       },
       "artists": [
         {
-          "name": "Clovis Pinho",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 247850,
-      "name": "Pelo Sangue",
-      "url": "https://open.spotify.com/track/1x6f9Ib48fIWfoiXvglcLm"
+      "duration_ms": 340985,
+      "name": "Amo o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7jVgDVeZG40pOBCOGFCTnL"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Esse \u00e9 o Tempo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5FBDdFLbOshcxouxjCWfQ2"
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 331333,
-      "name": "Esse \u00e9 o Tempo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eIciWAwHfLIOtd8txVvGC"
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Tinta de Sangue (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZWneGI8ohbeRsv3NrvLyp"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 383378,
+      "name": "Tinta de Sangue - Ao Vivo",
+      "url": "https://open.spotify.com/track/4uScqisKtC90tHXg6lNq5I"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Por Causa Dele",
         "url": "https://open.spotify.com/album/70LPfNt8LvwFcdeLKxZsTw"
@@ -61,43 +85,7 @@
       "url": "https://open.spotify.com/track/5sStU7BHNKHhgkaLVUunCU"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Na Fenda da Rocha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 349217,
-      "name": "Na Fenda da Rocha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Efeito Atomiko (Ao Vivo no Gera\u00e7\u00e3o Atomika)",
-        "url": "https://open.spotify.com/album/3lyAH5QXEEbBb8apR6S4sg"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Minha Resposta (Ao Vivo no Gera\u00e7\u00e3o Atomika)",
-      "url": "https://open.spotify.com/track/68BBCMS2WOAAG9h4PpK9vf"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Fiel \u00e9 Deus",
         "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
@@ -121,159 +109,179 @@
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Probabilidades",
-        "url": "https://open.spotify.com/album/4PNy57osz5MbOGkxj1GpRX"
+        "name": "El Nombre De Jes\u00fas",
+        "url": "https://open.spotify.com/album/03Cx2YHp29O4yk6RvP9YY2"
       },
       "artists": [
         {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 282239,
-      "name": "Probabilidades",
-      "url": "https://open.spotify.com/track/1YlfchsVPgCZBkOUjfPC2N"
+      "duration_ms": 537650,
+      "name": "Que Jesus Seja O Nome",
+      "url": "https://open.spotify.com/track/1Huo6Vr9QSUCoo7TFMu81Z"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Irresist\u00edvel Amor",
-        "url": "https://open.spotify.com/album/5bxP8fNQnUmq4ZIoNR1VCT"
+        "name": "O C\u00e9u Te V\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yMfz7uZQXgi9x1EXht0x1"
       },
       "artists": [
         {
-          "name": "Vinicius Cruz",
-          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         },
         {
-          "name": "Get Global",
-          "url": "https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM"
+          "name": "Clayton Queiroz",
+          "url": "https://open.spotify.com/artist/225heaA0eolmtY4YIGdByA"
         }
       ],
-      "duration_ms": 287765,
-      "name": "Irresist\u00edvel Amor",
-      "url": "https://open.spotify.com/track/1GknxMRIFfKbOHokjRscPq"
+      "duration_ms": 409760,
+      "name": "O C\u00e9u Te V\u00ea (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3EBhN5RC9GnajWTxCFUnGt"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Eu Creio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
+        "name": "C\u00e9u na Terra (Os Anjos Passeiam Aqui) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3zuDaio4guPRc4bvjTdk9Z"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        }
+      ],
+      "duration_ms": 404104,
+      "name": "C\u00e9u na Terra (Os Anjos Passeiam Aqui) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Iemq0hBGpWaBiDkmeNoIO"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Seu Amor Me Deu Nova Vida",
+        "url": "https://open.spotify.com/album/2sd9DETjakEhP1hgAjeFXS"
+      },
+      "artists": [
+        {
+          "name": "Talitha Franco",
+          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
         },
+        {
+          "name": "Gideoni Donato",
+          "url": "https://open.spotify.com/artist/3cDwTYddgTfgOapZeCtppH"
+        },
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2lJWeO8o4Khn1VYEATXCGu"
+        }
+      ],
+      "duration_ms": 296307,
+      "name": "Seu Amor Me Deu Nova Vida",
+      "url": "https://open.spotify.com/track/2SOltVOlsYjgiUFqw3gt1X"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Ventre de Fogo",
+        "url": "https://open.spotify.com/album/2IfybppH43wraAoxliTTf2"
+      },
+      "artists": [
+        {
+          "name": "Gerados pela Imaculada",
+          "url": "https://open.spotify.com/artist/3r8g1RAaeYKY3ZtjrGhpjg"
+        }
+      ],
+      "duration_ms": 289148,
+      "name": "Ventre de Fogo",
+      "url": "https://open.spotify.com/track/3aoxK8K1hEt8YJWrqEt9Lf"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Esse \u00e9 o Tempo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5FBDdFLbOshcxouxjCWfQ2"
+      },
+      "artists": [
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 321574,
-      "name": "Eu Creio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
+      "duration_ms": 331333,
+      "name": "Esse \u00e9 o Tempo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eIciWAwHfLIOtd8txVvGC"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Obsess\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZbBh6U03nuO6LXljq9YRg"
+        "name": "Tempo de Deus",
+        "url": "https://open.spotify.com/album/3n2jVmvXLvk04laJ2KCs9r"
       },
       "artists": [
         {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+          "name": "Stephany Almeida",
+          "url": "https://open.spotify.com/artist/7Bk3X7kdB8nkmQb8OBrCmf"
         },
         {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
-        },
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        },
-        {
-          "name": "BRASAS",
-          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
-        },
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        },
-        {
-          "name": "Carol Braga",
-          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 368898,
-      "name": "Obsess\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/02Xlbxp0Fom1BcDYaYU5O5"
+      "duration_ms": 244885,
+      "name": "Tempo de Deus",
+      "url": "https://open.spotify.com/track/0GFyVmiAYtikA2uBoJli5Y"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Vinho Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/123XO5vKfaLXlo8Luv5kOM"
+        "name": "Me Ajude a Melhorar",
+        "url": "https://open.spotify.com/album/42oDwvHQE9M7glP1dnALT4"
       },
       "artists": [
         {
-          "name": "Esther Fiaux",
-          "url": "https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY"
+          "name": "Marcio Art",
+          "url": "https://open.spotify.com/artist/1O4nBXNCH4cIFjN3nDSjan"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Pagode Restaura",
+          "url": "https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C"
         }
       ],
-      "duration_ms": 307738,
-      "name": "Vinho Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eusWG53NCkSDXMg4kzmGy"
+      "duration_ms": 204583,
+      "name": "Me Ajude a Melhorar",
+      "url": "https://open.spotify.com/track/4jIBbNi2hUidYQAnt6EUXN"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "ALFA \u00d4MEGA - CRISTO CENTRO (Live in London)",
-        "url": "https://open.spotify.com/album/5bV76lvedTXnHlUpKgD7Uu"
+        "name": "Dele por Ele (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5RuxKWT3bkA8bsF8TUCzZX"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jr",
-          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
-        }
-      ],
-      "duration_ms": 335241,
-      "name": "Alfa \u00d4mega - Live in London",
-      "url": "https://open.spotify.com/track/5RzzocPaPvZg4cFQqw4bWR"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Rachel Malafaia",
+          "url": "https://open.spotify.com/artist/1xyrtLIDTu5kRTCvnHgIcJ"
         },
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
         }
       ],
-      "duration_ms": 496640,
-      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
+      "duration_ms": 439191,
+      "name": "Dele por Ele - Ao Vivo",
+      "url": "https://open.spotify.com/track/7pLh57LzLmYJk5EA21lDRH"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Santo \u00c9 o Teu Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Pg62tQVNUiat96xfdtYAT"
@@ -309,7 +317,147 @@
       "url": "https://open.spotify.com/track/4Q8EupN939WZPNQ8znGbVL"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Can\u00e7\u00e3o da Igreja (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5NgRpXlqnRvZmDNpgK15yq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Berg",
+          "url": "https://open.spotify.com/artist/6f6c5Sgxd8tgjl7Rm94gT3"
+        }
+      ],
+      "duration_ms": 481467,
+      "name": "Can\u00e7\u00e3o da Igreja - Ao Vivo",
+      "url": "https://open.spotify.com/track/3uhab3nELrQRuAzwqt4rf5"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Dia do Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5XTnFhORcJ3ymmLjpn4xmu"
+      },
+      "artists": [
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Wagner Mamed",
+          "url": "https://open.spotify.com/artist/1HgdKXzPnAuYwcoQ5w5mpB"
+        }
+      ],
+      "duration_ms": 312533,
+      "name": "Dia do Milagre - Ao Vivo",
+      "url": "https://open.spotify.com/track/3QDwAGui1PLKy3Zqdus7G8"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Cria do Gueto (Ferrari Roma)",
+        "url": "https://open.spotify.com/album/7n8JyXJfiZRG9Ejf854bzW"
+      },
+      "artists": [
+        {
+          "name": "MC RN do Cap\u00e3o",
+          "url": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB"
+        },
+        {
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        },
+        {
+          "name": "LYONS PROD.",
+          "url": "https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cria do Gueto (Ferrari Roma)",
+      "url": "https://open.spotify.com/track/7EovZm9GYJLNVCN8WCZpkA"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Shout To The Lord (All The Earth)",
+        "url": "https://open.spotify.com/album/2r5L56XGZ2fXPSBReEN0zl"
+      },
+      "artists": [
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 330536,
+      "name": "Shout To The Lord (All The Earth)",
+      "url": "https://open.spotify.com/track/7wg8imR5mCl949WZCaWKcw"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Cantai a Deus Com Alegria 2026",
+        "url": "https://open.spotify.com/album/12i7vYVMXJEg2VkOAPWQka"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Gabriela de S\u00e1",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Rios de \u00c1gua Viva",
+      "url": "https://open.spotify.com/track/4dbpy5OjHBsLk2kMqs4vFa"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Ambiente da Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/39rRgMZZekEgRzLE9UvxHA"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Zoe",
+          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
+        }
+      ],
+      "duration_ms": 263283,
+      "name": "Ambiente da Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/2tvYUqDZFSq0yadNpHWyOW"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4dKKLxDteUFQAwu8ygASe5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "A caminhada",
         "url": "https://open.spotify.com/album/4eBH9D4CL50qFS3MMHioI4"
@@ -329,7 +477,7 @@
       "url": "https://open.spotify.com/track/3qSdTeKAzykXObeqgiVxS5"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "F\u00e9 e Gratid\u00e3o",
         "url": "https://open.spotify.com/album/145sZxUBJPJPlRJxIrsZj6"
@@ -349,31 +497,7 @@
       "url": "https://open.spotify.com/track/13DENnPlKzXJDhN8ryRH4K"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Ide",
-        "url": "https://open.spotify.com/album/6oeeLUZUn7FiCVLmqYL8EC"
-      },
-      "artists": [
-        {
-          "name": "Waguinho",
-          "url": "https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq"
-        },
-        {
-          "name": "Marcados Pagode Gospel",
-          "url": "https://open.spotify.com/artist/1cyFEihCjqmV3ymkewYSAK"
-        },
-        {
-          "name": "Pagode Restaura",
-          "url": "https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C"
-        }
-      ],
-      "duration_ms": 229633,
-      "name": "Ide",
-      "url": "https://open.spotify.com/track/5cnlXQvX1VqWxbrEFZe11v"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
@@ -393,7 +517,7 @@
       "url": "https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Conhe\u00e7o Um Nome",
         "url": "https://open.spotify.com/album/3IqQTNDXf5CdXmUYD3jMuV"
@@ -413,103 +537,251 @@
       "url": "https://open.spotify.com/track/6cPsTx803qEYFN3rjtep2P"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Folha em Branco",
-        "url": "https://open.spotify.com/album/7yXAdF64otcKyWcVTDMFBh"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/0AE421LxwuJGmpUap3M5Yn"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "Mari Rocha",
+          "url": "https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6"
+        }
+      ],
+      "duration_ms": 394000,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/14qpdI5kn7F7ZDG5qTODWz"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Cura Me Jesus",
+        "url": "https://open.spotify.com/album/5trkemHMSkwdZRejlEzcX9"
+      },
+      "artists": [
+        {
+          "name": "David Rocha",
+          "url": "https://open.spotify.com/artist/7q5WXYx6mDs9rdC2MgmMIz"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Cura Me Jesus",
+      "url": "https://open.spotify.com/track/1EungDFexFCdhv8FNAdDyv"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Se Organize",
+        "url": "https://open.spotify.com/album/0co3qpvvXXhhpPq4m3w77j"
+      },
+      "artists": [
+        {
+          "name": "Clovis Pinho",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         },
         {
-          "name": "patetacodigo43",
-          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
+          "name": "Ahsa Music",
+          "url": "https://open.spotify.com/artist/7nNuXVPTn2tWwOjnUBkNWk"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Se Organize",
+      "url": "https://open.spotify.com/track/2UWe2OSUBpAqQPq7023uHT"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Chegando Com Vida",
+        "url": "https://open.spotify.com/album/6xnNahnj27cCkJeKB2r8G0"
+      },
+      "artists": [
+        {
+          "name": "Shirley Belarmino",
+          "url": "https://open.spotify.com/artist/4JLteilD2wKJgPJ6tipPlE"
         },
         {
-          "name": "Dj Samu AKA Suguiura",
-          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+          "name": "Vivace Music",
+          "url": "https://open.spotify.com/artist/2MTfVdhunAi8kbjOVZrmQs"
         }
       ],
-      "duration_ms": 259672,
-      "name": "Folha em Branco",
-      "url": "https://open.spotify.com/track/3CkZRDRAZN8QvHZrwfxf9c"
+      "duration_ms": 233608,
+      "name": "Chegando Com Vida",
+      "url": "https://open.spotify.com/track/5fUu378GlcOTHe8y835Ua0"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
-        "name": "Confiss\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0UumMqlfO7GAzoFUKRCVfT"
+        "name": "Grito da Alma",
+        "url": "https://open.spotify.com/album/6CN5BOoEOdMPzLrZHkdLxU"
       },
       "artists": [
         {
-          "name": "Projeto Sola",
-          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
-        }
-      ],
-      "duration_ms": 254657,
-      "name": "Confiss\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ig1lqMEfpz0uijnMP9dkt"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Se eu Somente Te Tocar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
-      },
-      "artists": [
-        {
-          "name": "Nilson Junior",
-          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
-        }
-      ],
-      "duration_ms": 295882,
-      "name": "Se eu Somente Te Tocar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Nos Bra\u00e7os do Pai",
-        "url": "https://open.spotify.com/album/7FWdxfkdDATONgr0JRUYXr"
-      },
-      "artists": [
-        {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        }
-      ],
-      "duration_ms": 663471,
-      "name": "Nos Bra\u00e7os do Pai",
-      "url": "https://open.spotify.com/track/2vnUjGq6PsHnUcRMTkX1DH"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/3C0tu5fQONjnsbXG2ba4Wg"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+          "name": "Evelyn Lima",
+          "url": "https://open.spotify.com/artist/25yNhch3FW3S5AKlMFDWb9"
         },
         {
-          "name": "Emanuelle Carvalho",
-          "url": "https://open.spotify.com/artist/0G8YT9P8cDAAB31Oqa9ctA"
-        },
-        {
-          "name": "TGV Music",
-          "url": "https://open.spotify.com/artist/1XAPGYx59c03KbWVadmqvH"
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
         }
       ],
-      "duration_ms": 585750,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/07MKT2Vgw2MPq3eUmgorc0"
+      "duration_ms": 252460,
+      "name": "Grito da Alma",
+      "url": "https://open.spotify.com/track/1aMB05HhMo17NRVCOKkpih"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Ora\u00e7\u00e3o pela Paz",
+        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
+      },
+      "artists": [
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "Ora\u00e7\u00e3o pela Paz",
+      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Firmeza na F\u00e9",
+        "url": "https://open.spotify.com/album/15OZTh37b7Yve14OGsyT1M"
+      },
+      "artists": [
+        {
+          "name": "J\u00f4natas Ambrozio",
+          "url": "https://open.spotify.com/artist/0zwdmhOrG4Kjvui4U38Ama"
+        },
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 237847,
+      "name": "Firmeza na F\u00e9",
+      "url": "https://open.spotify.com/track/55bPotns96tZQ9s1VhdyWA"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/3vV0XSBXxs3WuXHhdLP2y4"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 348175,
+      "name": "Preciso de Ti",
+      "url": "https://open.spotify.com/track/4mISR45YgUsawyCBEQewoe"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Me Ama",
+        "url": "https://open.spotify.com/album/5BagUdZ4ABM7waJHkLHeOy"
+      },
+      "artists": [
+        {
+          "name": "Elias Mello",
+          "url": "https://open.spotify.com/artist/0Duq0aTaSESZZ0W1luLgnP"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Me Ama",
+      "url": "https://open.spotify.com/track/2kuruCY4s8deea1DJj4LlL"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Meu Mellhor Amigo",
+        "url": "https://open.spotify.com/album/4zGznaP9V7AGygbuSXMtnp"
+      },
+      "artists": [
+        {
+          "name": "Giselli Cristina",
+          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 259263,
+      "name": "Meu Mellhor Amigo",
+      "url": "https://open.spotify.com/track/3tytbzzaaf4CIic8A00PB2"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Gba Stage, Vol. 35",
+        "url": "https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Um Peregrino",
+          "url": "https://open.spotify.com/artist/46ZuGsckiA4Pwvm3QUyUiR"
+        }
+      ],
+      "duration_ms": 319171,
+      "name": "A Barca",
+      "url": "https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Metade do Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Z8BEUValYjbut2GmhC4wC"
+      },
+      "artists": [
+        {
+          "name": "Carol Miranda",
+          "url": "https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g"
+        },
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "Metade do Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0bI0ggOso17BOsNbsVJ2Om"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
+      "album": {
+        "name": "Fogo de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xcnxMscoIX6h7KTf5tDKX"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Fogo de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2f8LxM9ZekWFQRwyb4djbJ"
+    },
+    {
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Pegadas na Areia",
         "url": "https://open.spotify.com/album/2ESl3U8BwEIiD5LCA1zsuM"
@@ -529,7 +801,7 @@
       "url": "https://open.spotify.com/track/5hlsD8tmlD6kXNJzzpSsWd"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Voc\u00ea Vai Cantar",
         "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
@@ -549,23 +821,7 @@
       "url": "https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Igreja (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5NgRpXlqnRvZmDNpgK15yq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Berg",
-          "url": "https://open.spotify.com/artist/6f6c5Sgxd8tgjl7Rm94gT3"
-        }
-      ],
-      "duration_ms": 481467,
-      "name": "Can\u00e7\u00e3o da Igreja - Ao Vivo",
-      "url": "https://open.spotify.com/track/3uhab3nELrQRuAzwqt4rf5"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Levarei a Minha Cruz (Ao Vivo)",
         "url": "https://open.spotify.com/album/5PFQ5bt8Gd5nuFnaW9NQRk"
@@ -585,7 +841,7 @@
       "url": "https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Sim \u00c9 Teu Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/15RU1iiVt9YqZnCPz8Z3Hv"
@@ -605,27 +861,7 @@
       "url": "https://open.spotify.com/track/5Z2CtDh4chrWbpBDhgPRoG"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Tempo de Deus",
-        "url": "https://open.spotify.com/album/3n2jVmvXLvk04laJ2KCs9r"
-      },
-      "artists": [
-        {
-          "name": "Stephany Almeida",
-          "url": "https://open.spotify.com/artist/7Bk3X7kdB8nkmQb8OBrCmf"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 244885,
-      "name": "Tempo de Deus",
-      "url": "https://open.spotify.com/track/0GFyVmiAYtikA2uBoJli5Y"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Am\u00e9m",
         "url": "https://open.spotify.com/album/48aSymFvYvcaH2hOwBCAjq"
@@ -653,7 +889,7 @@
       "url": "https://open.spotify.com/track/0qmjynexgxvFPBwxwCC2Ag"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
         "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
@@ -673,7 +909,7 @@
       "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "O Toque em Jesus",
         "url": "https://open.spotify.com/album/5lMzYI3ITDd0ttRWitr6X4"
@@ -689,7 +925,7 @@
       "url": "https://open.spotify.com/track/3EGnIr8ghcec6JU5viKAXQ"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Vejo Tudo",
         "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
@@ -709,47 +945,7 @@
       "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Dia do Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5XTnFhORcJ3ymmLjpn4xmu"
-      },
-      "artists": [
-        {
-          "name": "Alda C\u00e9lia",
-          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
-        },
-        {
-          "name": "Wagner Mamed",
-          "url": "https://open.spotify.com/artist/1HgdKXzPnAuYwcoQ5w5mpB"
-        }
-      ],
-      "duration_ms": 312533,
-      "name": "Dia do Milagre - Ao Vivo",
-      "url": "https://open.spotify.com/track/3QDwAGui1PLKy3Zqdus7G8"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "O C\u00e9u Te V\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yMfz7uZQXgi9x1EXht0x1"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
-        {
-          "name": "Clayton Queiroz",
-          "url": "https://open.spotify.com/artist/225heaA0eolmtY4YIGdByA"
-        }
-      ],
-      "duration_ms": 409760,
-      "name": "O C\u00e9u Te V\u00ea (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3EBhN5RC9GnajWTxCFUnGt"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Azeite de Reserva",
         "url": "https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA"
@@ -765,7 +961,7 @@
       "url": "https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Tudo que eu vivi",
         "url": "https://open.spotify.com/album/0q2eTITsM38w8N7Knqtne6"
@@ -781,211 +977,7 @@
       "url": "https://open.spotify.com/track/4x1l7WZX6yt1TH3FiQGy1t"
     },
     {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "C\u00e9u na Terra (Os Anjos Passeiam Aqui) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3zuDaio4guPRc4bvjTdk9Z"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        }
-      ],
-      "duration_ms": 404104,
-      "name": "C\u00e9u na Terra (Os Anjos Passeiam Aqui) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Iemq0hBGpWaBiDkmeNoIO"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "N\u00e3o Desanima",
-        "url": "https://open.spotify.com/album/528kx2jLJuXX19tlL9cfmf"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Tomadon",
-          "url": "https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl"
-        }
-      ],
-      "duration_ms": 260475,
-      "name": "N\u00e3o Desanima",
-      "url": "https://open.spotify.com/track/4TFwgvK6XtGteIKUsk2xsp"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Seu Amor Me Deu Nova Vida",
-        "url": "https://open.spotify.com/album/2sd9DETjakEhP1hgAjeFXS"
-      },
-      "artists": [
-        {
-          "name": "Talitha Franco",
-          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
-        },
-        {
-          "name": "Gideoni Donato",
-          "url": "https://open.spotify.com/artist/3cDwTYddgTfgOapZeCtppH"
-        },
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2lJWeO8o4Khn1VYEATXCGu"
-        }
-      ],
-      "duration_ms": 296307,
-      "name": "Seu Amor Me Deu Nova Vida",
-      "url": "https://open.spotify.com/track/2SOltVOlsYjgiUFqw3gt1X"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Ainda Aqui, Vol. 1",
-        "url": "https://open.spotify.com/album/3Lcq8cGQCLbbUecNo4fQNz"
-      },
-      "artists": [
-        {
-          "name": "Bela Luz",
-          "url": "https://open.spotify.com/artist/5BQFjzAJ22n8OxfArOpkOi"
-        }
-      ],
-      "duration_ms": 210839,
-      "name": "Ainda Aqui",
-      "url": "https://open.spotify.com/track/6841B0LIVntclPMurhlvEC"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "O Shofar Te Chama (Unindo Gera\u00e7\u00f5es)",
-        "url": "https://open.spotify.com/album/3LIFvcJUkhpcY3gSzUHtL3"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        },
-        {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
-        }
-      ],
-      "duration_ms": 310950,
-      "name": "O Shofar Te Chama (Unindo Gera\u00e7\u00f5es)",
-      "url": "https://open.spotify.com/track/4UPN3W4IicxcRnGbtEWdVL"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Glorioso Dia Em Que Ele Vem",
-        "url": "https://open.spotify.com/album/3HN59gOJvMR86DQyXgaSUH"
-      },
-      "artists": [
-        {
-          "name": "Rafael Bicudo",
-          "url": "https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC"
-        },
-        {
-          "name": "Emi Sousa",
-          "url": "https://open.spotify.com/artist/4ZqeWNTKf6ZdGXuhtEGzsv"
-        }
-      ],
-      "duration_ms": 431616,
-      "name": "Glorioso Dia Em Que Ele Vem",
-      "url": "https://open.spotify.com/track/2xCBHkgYXRT7xM8reRFPrE"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Quero Ser Livre",
-        "url": "https://open.spotify.com/album/3b7WDWZBgIOSz8EzWhh2yi"
-      },
-      "artists": [
-        {
-          "name": "Via Sete8",
-          "url": "https://open.spotify.com/artist/7xsKC6SgKsDs95FdAALqYj"
-        },
-        {
-          "name": "Can\u00e7\u00e3o Nova",
-          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Quero Ser Livre",
-      "url": "https://open.spotify.com/track/2jC8FSLhPuhPvzCnSwWzdY"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Nunca Me Deixar\u00e1",
-        "url": "https://open.spotify.com/album/19IdbI1NIlp5smohUGWq0X"
-      },
-      "artists": [
-        {
-          "name": "Kelly Benigno",
-          "url": "https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X"
-        },
-        {
-          "name": "Gra\u00e7a Music",
-          "url": "https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1"
-        }
-      ],
-      "duration_ms": 276923,
-      "name": "Nunca Me Deixar\u00e1",
-      "url": "https://open.spotify.com/track/0H364NyUklFzrdPriH5HPm"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "A Dor",
-        "url": "https://open.spotify.com/album/5FMy9Ty865EdGCM1unD0ZW"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 251791,
-      "name": "A Dor",
-      "url": "https://open.spotify.com/track/5RjvjZlyFuWHQT6zwn3B5T"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "O Noivo Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 295946,
-      "name": "O Noivo Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Encontro Em Samaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/61kBNH7GWdqGk6g7Cf2XMS"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 249880,
-      "name": "Encontro Em Samaria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2wBa0qSuC3njN2QYjkymUb"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
+      "added_at": "2026-02-13 03:01:38",
       "album": {
         "name": "Jesus T\u00e1 L\u00e1 (Cover)",
         "url": "https://open.spotify.com/album/6355CRbRVeaqeEQmmd10Bl"

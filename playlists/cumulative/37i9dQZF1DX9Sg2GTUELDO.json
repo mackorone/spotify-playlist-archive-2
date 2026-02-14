@@ -6087,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "\u56e0\u4e3a\u4f60\u4e16\u754c\u53c8\u591a\u4e00\u4efd\u5149\u4eae",
+        "url": "https://open.spotify.com/album/7ctDzanVDppGxTLyFQZZEp"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218604,
+      "name": "\u56e0\u4e3a\u4f60\u4e16\u754c\u53c8\u591a\u4e00\u4efd\u5149\u4eae",
+      "url": "https://open.spotify.com/track/4gXP06yT0TrjwM7izdamGe"
+    },
+    {
+      "album": {
         "name": "\u5728\u4e00\u8d77 (\u5287\u96c6\u300a\u4f01\u696d\u5f37\u4eba\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/5RHO7NydhLDSx2b1Bi2JU1"
       },

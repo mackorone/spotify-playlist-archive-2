@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAB8PnWnvfS9eWNNzp8H+kiA",
+  "snapshot_id": "aY0YAAAAAABm8uV7DUUsgZPZk5pgVywp",
   "tracks": [
     {
       "added_at": null,
@@ -583,30 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy Is Here (Live)",
-        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Gathering Place Worship Choir",
-          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
-        }
-      ],
-      "duration_ms": 499448,
-      "name": "We Adore You - Live",
-      "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Live Reunion: Washington, DC",
         "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 405333,
       "name": "Nothing Else - Live",
       "url": "https://open.spotify.com/track/5ao5JTrKR9K4kSHEUibcSy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "duration_ms": 499448,
+      "name": "We Adore You - Live",
+      "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
     },
     {
       "added_at": null,

@@ -210,7 +210,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 165640,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/2NQzZV9E14hnJRKaFBq29v"
@@ -2642,6 +2642,24 @@
       "duration_ms": 132336,
       "name": "Feels This Good",
       "url": "https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61"
+    },
+    {
+      "album": {
+        "name": "Filter",
+        "url": "https://open.spotify.com/album/3Leo9qjxyd7KxYYRLvfh8a"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/27x84waijAjKcpnlB79giI"
     },
     {
       "album": {

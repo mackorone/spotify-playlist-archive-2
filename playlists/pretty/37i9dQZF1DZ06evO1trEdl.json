@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6567,
+  "num_followers": 6568,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADaTmfU91n6moF7O1v8XQlR",
+  "snapshot_id": "aY0YAAAAAAAx3yvE26B9zKE5RdzIMDic",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
+        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "Gee Baby (I'm Sorry)",
+      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
-        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
+        "name": "The Heaven I Need",
+        "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 124200,
-      "name": "Gee Baby (I'm Sorry)",
-      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
+      "duration_ms": 197456,
+      "name": "The Heaven I Need (Backing Track)",
+      "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
     },
     {
       "added_at": null,
@@ -531,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -551,42 +587,6 @@
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Heaven I Need",
-        "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 197456,
-      "name": "The Heaven I Need (Backing Track)",
-      "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
-      },
-      "artists": [
-        {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 151786,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
     },
     {
       "added_at": null,
@@ -632,25 +632,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244253,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
+      "duration_ms": 234146,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 283066,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
     },
     {
       "added_at": null,
@@ -696,15 +696,15 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
+      "duration_ms": 244253,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Silvester 70er Hits",
-        "url": "https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej"
+        "name": "Uplifting Soul Classics",
+        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Love the One Your With",
-      "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"
+      "duration_ms": 159626,
+      "name": "There's So Much Love All Around Me",
+      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uplifting Soul Classics",
-        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+        "name": "Silvester 70er Hits",
+        "url": "https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 159626,
-      "name": "There's So Much Love All Around Me",
-      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+      "duration_ms": 230653,
+      "name": "Love the One Your With",
+      "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 196546,
-      "name": "I Do Take You",
-      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
+      "duration_ms": 204520,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4"
     },
     {
       "added_at": null,

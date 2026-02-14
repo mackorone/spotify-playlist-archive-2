@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "una guitarra y mucho sentimiento para cantar. Damaris Bojor en portada.",
+  "description": "una guitarra y mucho sentimiento para cantar. Macario Mart\u00ednez en portada.",
   "name": "Folk Mexicano",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 196800,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/7neyy61UqoctoI9ouUyFJd"
@@ -1000,6 +1000,28 @@
       "duration_ms": 248186,
       "name": "Corazon de Rubi",
       "url": "https://open.spotify.com/track/7FzuMjgbfNXdzpMvs3QkxL"
+    },
+    {
+      "album": {
+        "name": "Corre, mi vida",
+        "url": "https://open.spotify.com/album/1eTi9JHapHWRTSmWrjRaOG"
+      },
+      "artists": [
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215531,
+      "name": "Corre, mi vida",
+      "url": "https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9"
     },
     {
       "album": {
@@ -1994,6 +2016,24 @@
       "duration_ms": 163106,
       "name": "Igual No Debo",
       "url": "https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5"
+    },
+    {
+      "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
     },
     {
       "album": {
@@ -3694,6 +3734,24 @@
       "duration_ms": 278666,
       "name": "Rubidio 37",
       "url": "https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM"
+    },
+    {
+      "album": {
+        "name": "salvavidas",
+        "url": "https://open.spotify.com/album/3dNrwdem0cXHokFlOnRKvY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "salvavidas",
+      "url": "https://open.spotify.com/track/5ZdzVtea7j66bFQSPmEKAN"
     },
     {
       "album": {

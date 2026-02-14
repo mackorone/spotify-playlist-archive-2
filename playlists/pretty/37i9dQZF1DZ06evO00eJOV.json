@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37165,
+  "num_followers": 37168,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABCex2SpgZTILekxP8Kzw0y",
+  "snapshot_id": "aY0YAAAAAABS29StyCFL1dp+icFA2pH7",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 241973,
-      "name": "Hara Lebitla",
-      "url": "https://open.spotify.com/track/1KrgwYPtJTmQX9rxVqJZFa"
+      "duration_ms": 210697,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 210697,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
+      "duration_ms": 241973,
+      "name": "Hara Lebitla",
+      "url": "https://open.spotify.com/track/1KrgwYPtJTmQX9rxVqJZFa"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 288213,
-      "name": "Wewe (African Wedding)",
-      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
+      "duration_ms": 288213,
+      "name": "Wewe (African Wedding)",
+      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 296045,
+  "num_followers": 296026,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 256986,
+      "name": "Ya No Te Vuelvo a Ver",
+      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "Salida",
-        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 256986,
-      "name": "Ya No Te Vuelvo a Ver",
-      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Esa Estrella",
+        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 238232,
+      "name": "Esa Estrella",
+      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Esa Estrella",
-        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
+        "name": "qu\u00e9 pasar\u00eda",
+        "url": "https://open.spotify.com/album/13tIQlqfTIxaz1HSl0yUce"
       },
       "artists": [
         {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+          "name": "VRSTY",
+          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
         }
       ],
-      "duration_ms": 238232,
-      "name": "Esa Estrella",
-      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+      "duration_ms": 193142,
+      "name": "qu\u00e9 pasar\u00eda",
+      "url": "https://open.spotify.com/track/4d05KAL0QGo0ZpVuB4YOv8"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -779,22 +795,6 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "qu\u00e9 pasar\u00eda",
-        "url": "https://open.spotify.com/album/13tIQlqfTIxaz1HSl0yUce"
-      },
-      "artists": [
-        {
-          "name": "VRSTY",
-          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "qu\u00e9 pasar\u00eda",
-      "url": "https://open.spotify.com/track/4d05KAL0QGo0ZpVuB4YOv8"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Coraz\u00f3n de pollo",
+        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
+      },
+      "artists": [
+        {
+          "name": "Estamos Perdidos",
+          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Coraz\u00f3n de pollo",
+      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "Verano Todo El A\u00f1o",
         "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
       },
@@ -1203,34 +1219,18 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Coraz\u00f3n de pollo",
-        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
+        "name": "Las Flores Sangran",
+        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
       },
       "artists": [
         {
-          "name": "Estamos Perdidos",
-          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 203250,
-      "name": "Coraz\u00f3n de pollo",
-      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "Imit\u00e1ndote",
-        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 174123,
-      "name": "Imit\u00e1ndote",
-      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
+      "duration_ms": 198405,
+      "name": "Las Flores Sangran",
+      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Las Flores Sangran",
-        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
+        "name": "Imit\u00e1ndote",
+        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 198405,
-      "name": "Las Flores Sangran",
-      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
+      "duration_ms": 174123,
+      "name": "Imit\u00e1ndote",
+      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
     },
     {
       "added_at": "2026-02-11 16:04:08",

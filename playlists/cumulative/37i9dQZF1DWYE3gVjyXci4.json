@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "American Teenage Prophecy",
+        "url": "https://open.spotify.com/album/480qaahln1j5C4hbuTvl2b"
+      },
+      "artists": [
+        {
+          "name": "Kid Sistr",
+          "url": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220353,
+      "name": "American Teenage Prophecy",
+      "url": "https://open.spotify.com/track/3fGewiHyMYBWH3aGciSDJo"
+    },
+    {
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "album": {
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/05KNazpljahHfx1ElDNujj"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136225,
+      "name": "Girls Just Wanna",
+      "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: SIX60
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,662 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,817 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 2 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 |
-| 3 | [Endlessly](https://open.spotify.com/track/2IUofQb0gdiEzYL1YcbBtV) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [](https://open.spotify.com/album/null) | 3:23 |
+| 3 | [Endlessly](https://open.spotify.com/track/2IUofQb0gdiEzYL1YcbBtV) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Right Here Right Now](https://open.spotify.com/album/75IcHGzduBYDOgSKwXx2SH) | 3:23 |
 | 4 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
 | 5 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 6 | [Rain](https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6) | 3:28 |

@@ -1,13 +1,61 @@
 {
-  "description": "The home of Canadian country music. Cover: Josh Ross",
-  "num_followers": 83643,
+  "description": "The home of Canadian country music. Cover: Owen Riegling",
+  "num_followers": 83644,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBvlPdPfTi4KbdvfztK3kF6/Rck",
+  "snapshot_id": "AAAAAAeBsUaHovWdTrHwkuYshypXfnap",
   "tracks": [
+    {
+      "added_at": "2026-02-13 10:00:04",
+      "album": {
+        "name": "Love Hate Love",
+        "url": "https://open.spotify.com/album/646IYYLssCtXOuVrY8z3Kw"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Love Hate Love",
+      "url": "https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA"
+    },
+    {
+      "added_at": "2026-02-13 10:00:04",
+      "album": {
+        "name": "Growing Down",
+        "url": "https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 197388,
+      "name": "Growing Down",
+      "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
+    },
+    {
+      "added_at": "2026-02-13 10:00:04",
+      "album": {
+        "name": "If You Ain\u2019t In Love By Now",
+        "url": "https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "If You Ain\u2019t In Love By Now",
+      "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
+    },
     {
       "added_at": "2026-02-06 05:01:26",
       "album": {
@@ -57,6 +105,26 @@
       "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
     },
     {
+      "added_at": "2026-02-13 15:07:10",
+      "album": {
+        "name": "You and I Tonight",
+        "url": "https://open.spotify.com/album/3OqVsclCeHnuLUFIcX8exh"
+      },
+      "artists": [
+        {
+          "name": "Drew Taylor",
+          "url": "https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH"
+        },
+        {
+          "name": "Dave Faber",
+          "url": "https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8"
+        }
+      ],
+      "duration_ms": 229174,
+      "name": "You and I Tonight",
+      "url": "https://open.spotify.com/track/3whnvzF7IoyO9DICzAlhq9"
+    },
+    {
       "added_at": "2026-02-06 05:01:26",
       "album": {
         "name": "SHE'S SO SWEET",
@@ -73,22 +141,6 @@
       "url": "https://open.spotify.com/track/09XEPqzhscWgZ65uYKHvuJ"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Lonely For You",
-        "url": "https://open.spotify.com/album/7ytvXyIg9hfr1hymx0sBT5"
-      },
-      "artists": [
-        {
-          "name": "The Prairie States",
-          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "Lonely For You",
-      "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
-    },
-    {
       "added_at": "2026-01-23 05:01:13",
       "album": {
         "name": "Thought About You",
@@ -103,6 +155,22 @@
       "duration_ms": 204922,
       "name": "Thought About You",
       "url": "https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Lonely For You",
+        "url": "https://open.spotify.com/album/7ytvXyIg9hfr1hymx0sBT5"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "Lonely For You",
+      "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
     },
     {
       "added_at": "2026-01-23 05:01:13",
@@ -135,22 +203,6 @@
       "duration_ms": 176786,
       "name": "Foraine",
       "url": "https://open.spotify.com/track/1tBoPHs23Y9lYSpikSj3dq"
-    },
-    {
-      "added_at": "2026-01-09 05:01:23",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 211991,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
     },
     {
       "added_at": "2026-01-30 10:00:36",
@@ -863,6 +915,22 @@
       "duration_ms": 202506,
       "name": "Memories and Empties",
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
+    },
+    {
+      "added_at": "2026-01-09 05:01:23",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 211991,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
     },
     {
       "added_at": "2025-11-28 05:01:04",

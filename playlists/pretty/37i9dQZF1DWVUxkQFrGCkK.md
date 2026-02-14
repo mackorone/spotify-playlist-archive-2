@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: Sofia Kourtesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,298 likes - 391 songs - 1 day 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,316 likes - 391 songs - 1 day 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 15 | [Vogue](https://open.spotify.com/track/2TTuTRaf2ZVOfSBowia1uP) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Vogue](https://open.spotify.com/album/2ikbVGd2x1ThxxBMxyxyLz) | 3:09 |
 | 16 | [Somebody's Watching Me \- Luch Remix](https://open.spotify.com/track/0d07oLS2MzUTdde1YGcdpS) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp), [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me \(Luch Remix\)](https://open.spotify.com/album/71lbDx5EB2cyjkDPN7ivug) | 2:40 |
 | 17 | [Take My Loving](https://open.spotify.com/track/0skwsAt2nhficmOKDIcbKY) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK) | [Take My Loving](https://open.spotify.com/album/1Wfln5oGcTbq9VUazNpGSc) | 2:39 |
-| 18 | [DON'T KILL MY VIBE](https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86) | [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [DON'T KILL MY VIBE](https://open.spotify.com/album/1CDLzqcftlU7kj8HGyA2TZ) | 2:26 |
+| 18 | [DON'T KILL MY VIBE](https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86) | [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [DON'T KILL MY VIBE](https://open.spotify.com/album/1CDLzqcftlU7kj8HGyA2TZ) | 2:25 |
 | 19 | [Same Man \(DERON Rework\)](https://open.spotify.com/track/1zxKcztpxSMMZcNu8rcZZp) | [DERON](https://open.spotify.com/artist/7F8pPpfBuhZJF1F622KD5J), [DJ Delicious](https://open.spotify.com/artist/5Bwa0MY2tBdOAJg8K5PLSQ) | [Same Man \(DERON Rework\)](https://open.spotify.com/album/1rFU1rBwadBtdyya9B5jvc) | 2:43 |
 | 20 | [No Te Vayas](https://open.spotify.com/track/1THBkgdr9V8NIzVWF3YgZN) | [Anton Kling](https://open.spotify.com/artist/1rDWJP3cmXGDYMtxps03Og) | [No Te Vayas](https://open.spotify.com/album/7oSK5IEDIiIFG7vYWrf4Cu) | 2:59 |
 | 21 | [Save Me](https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Save Me](https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte) | 3:32 |

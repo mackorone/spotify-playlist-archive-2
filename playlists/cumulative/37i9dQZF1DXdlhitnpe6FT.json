@@ -459,28 +459,6 @@
     },
     {
       "album": {
-        "name": "Romantique",
-        "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
-      },
-      "artists": [
-        {
-          "name": "Paul de Senneville",
-          "url": "https://open.spotify.com/artist/48CaYZxxeOMzV4Kl5T2lHT"
-        },
-        {
-          "name": "Richard Clayderman",
-          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
-        }
-      ],
-      "date_added": "2020-12-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157986,
-      "name": "Ballade Pour Adeline",
-      "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
-    },
-    {
-      "album": {
         "name": "Tribute to Richard Clayderman: Collection",
         "url": "https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL"
       },
@@ -496,6 +474,24 @@
       "duration_ms": 144373,
       "name": "Ballade pour Adeline",
       "url": "https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT"
+    },
+    {
+      "album": {
+        "name": "Romantique",
+        "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157986,
+      "name": "Ballade Pour Adeline",
+      "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
     },
     {
       "album": {

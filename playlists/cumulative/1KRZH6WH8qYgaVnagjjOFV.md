@@ -2,9 +2,9 @@
 
 ### [Top Christian Hits 2026](https://open.spotify.com/playlist/1KRZH6WH8qYgaVnagjjOFV)
 
-> Top Christian Hits 2026 \| Latest and greatest Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
+> Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-172 songs - 11 hr 35 min
+175 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 | 2026-01-16 |  |
 | [Desperate](https://open.spotify.com/track/2SgAo2v2OpKKej78UruNXK) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:30 | 2026-01-23 |  |
 | [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 | 2025-07-11 | 2026-01-24 |
+| [Do It All Alone](https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Do It All Alone](https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy) | 2:52 | 2026-02-13 |  |
 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 | 2025-12-04 |  |
 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-06-20 | 2025-10-18 |
 | [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 | 2025-10-17 |  |
@@ -70,6 +71,7 @@
 | [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 | 2025-01-31 |  |
 | [Hark Now Hear](https://open.spotify.com/track/1p7m9S0Zq2vlQG60QrRGb5) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Present Jesu](https://open.spotify.com/album/4vF9ocadQvrYkq1kup6Hwv) | 2:53 | 2025-01-31 | 2025-09-20 |
 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 | 2026-02-06 |  |
+| [He Can](https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [He Can](https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar) | 3:09 | 2026-02-13 |  |
 | [Heaven Closes Doors](https://open.spotify.com/track/7yTYVKL2PQyihocreC32hJ) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/1CyZZmMFR02U96aEGgK0z6) | 3:56 | 2025-01-31 |  |
 | [Heaven On Earth](https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Heaven On Earth](https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5) | 3:19 | 2024-05-24 | 2025-09-20 |
 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 | 2025-04-04 |  |
@@ -168,6 +170,7 @@
 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 | 2025-08-22 |  |
 | [WELCOME TO THE CLUB](https://open.spotify.com/track/1Hhx6Ue9QblFzhEfsIt1YI) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [FINE BY ME](https://open.spotify.com/album/1mIZcEaoDUnHwQKrCMjMYX) | 1:31 | 2025-10-24 |  |
 | [Whatever It Takes](https://open.spotify.com/track/4EwaM0IOIzHAJqyoJd5nj6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 3:30 | 2025-01-31 |  |
+| [when i think about my jesus](https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [when i think about my jesus](https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW) | 3:30 | 2026-02-13 |  |
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2025-08-15 |  |
 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2025-01-31 |  |
 | [Who He Is](https://open.spotify.com/track/5kgJZIFXAb9I30RVTJZTCI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Who He Is](https://open.spotify.com/album/6zghmwpOhK3ybNRv7zZ87w) | 3:34 | 2025-03-21 |  |

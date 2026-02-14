@@ -4589,6 +4589,28 @@
     },
     {
       "album": {
+        "name": "GET RICH",
+        "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Mvt",
+          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139281,
+      "name": "GET RICH",
+      "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
+    },
+    {
+      "album": {
         "name": "Glamourosa",
         "url": "https://open.spotify.com/album/51r6acz5Y24A4J5JkKK6KA"
       },
@@ -6466,7 +6488,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 177830,
       "name": "Maldito Papel",
       "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"

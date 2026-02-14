@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,302 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,338 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 44 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 45 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
 | 46 | [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 |
-| 47 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
-| 48 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
+| 47 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
+| 48 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 49 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
 | 50 | [Desmond's Empire](https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 4:36 |
 | 51 | [Sunshower](https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq) | 4:05 |

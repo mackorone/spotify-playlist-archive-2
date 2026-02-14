@@ -4,7 +4,7 @@
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-182 songs - 9 hr 28 min
+183 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 | 2025-06-17 |  |
 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-03-28 |  |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-05-03 | 2025-06-18 |
-| [Cora Roto](https://open.spotify.com/track/7ftYb4y7GwiSmpbZizpZgZ) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Cora Roto](https://open.spotify.com/album/6UWjSwQgQyAhaWcHF6K1oj) | 3:17 | 2025-07-11 |  |
+| [Cora Roto](https://open.spotify.com/track/7ftYb4y7GwiSmpbZizpZgZ) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Cora Roto](https://open.spotify.com/album/6UWjSwQgQyAhaWcHF6K1oj) | 3:17 | 2025-07-11 | 2026-02-14 |
 | [Corazón Partío](https://open.spotify.com/track/2LPDdnXn13fw5JmIemG4VE) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG) | [Corazón Partío](https://open.spotify.com/album/5zFpjiEauzmd0quSZxEXpy) | 3:15 | 2024-12-28 |  |
 | [Coronada](https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Gabriel C](https://open.spotify.com/artist/5MXG4Q2qBDsT8AGcTX0nAj) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 3:18 | 2024-07-19 | 2024-09-21 |
 | [Cuando Fue \(feat\. Jay Wheeler\)](https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Cuando Fue \(feat\. Jay Wheeler\)](https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6) | 3:03 | 2024-08-12 | 2024-12-29 |
@@ -117,6 +117,7 @@
 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 | 2025-03-28 |  |
 | [Mírame Ahora \- Salud mi Reina](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora \(Salud mi Reina\)](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 | 2025-09-17 |  |
 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 | 2024-07-26 | 2024-09-21 |
+| [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 | 2026-02-13 |  |
 | [No Me Cansare](https://open.spotify.com/track/7syffZQA1dpkQelMckldEw) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [No Me Cansare](https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx) | 2:42 | 2024-10-31 | 2025-06-18 |
 | [No Pare](https://open.spotify.com/track/4E6M6muDadCiTQ72KUELbB) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Marco Tropeano](https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb) | [No Pare](https://open.spotify.com/album/37WQed4WJkMfzjvXYT0mxJ) | 3:08 | 2025-07-11 | 2025-09-18 |
 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 | 2024-07-19 | 2024-08-13 |

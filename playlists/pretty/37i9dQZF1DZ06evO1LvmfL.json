@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 460156,
+  "num_followers": 460283,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAD6RELs8y1/B5hV+5cTLJqe",
+  "snapshot_id": "aY0YAAAAAABXroADm8WfCmYnRYnlzhOv",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 141141,
-      "name": "What More Can I Say",
-      "url": "https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop Believin'",
         "url": "https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 248435,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 141141,
+      "name": "What More Can I Say",
+      "url": "https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 242317,
-      "name": "Some Things I'll Never Know",
-      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 242317,
+      "name": "Some Things I'll Never Know",
+      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lose Control (Alt. Versions)",
-        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Lose Control - Piano Version",
-      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 182724,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lose Control (Alt. Versions)",
+        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FACE MYSELF",
-        "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 227903,
-      "name": "FACE MYSELF",
-      "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/1koWKapUQc4aFyOt3KoAF9"
       },
@@ -711,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FACE MYSELF",
+        "url": "https://open.spotify.com/album/5Qkkzt6qV0bjsHDWI2xd0w"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 227903,
+      "name": "FACE MYSELF",
+      "url": "https://open.spotify.com/track/4O44AxJYAgZIP8aQzKvCMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Tried Everything But Therapy (Complete Edition)",
         "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 190124,
       "name": "Need You More",
       "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 177930,
+      "name": "Someone Who Loved You",
+      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "Someone Who Loved You",
-      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 215740,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 144660,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 144660,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ"
     },
     {
       "added_at": null,

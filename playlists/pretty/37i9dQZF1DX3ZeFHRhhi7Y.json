@@ -1,6 +1,6 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: IVE) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1321746,
+  "num_followers": 1321777,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 208495,
+      "name": "Moonwalkin'",
+      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
-        "name": "SHOT CALLERS",
-        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
-      },
-      "artists": [
-        {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
-        }
-      ],
-      "duration_ms": 208495,
-      "name": "Moonwalkin'",
-      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
         "name": "THE SIN : VANISH",
         "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
         "name": "TWS 4th Mini Album 'play hard'",
         "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 160000,
       "name": "OVERDRIVE",
       "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
-        "name": "IVE SECRET",
-        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 154000,
-      "name": "XOXZ",
-      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+        "name": "IVE SECRET",
+        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+      "duration_ms": 154000,
+      "name": "XOXZ",
+      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1227,22 +1227,6 @@
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 195259,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1367,6 +1351,22 @@
       "duration_ms": 175018,
       "name": "GOOD STUFF - KARINA Solo",
       "url": "https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
-        "name": "gonna love me, right?",
-        "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "body",
-      "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
+        "name": "gonna love me, right?",
+        "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "body",
+      "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 169073,
-      "name": "CLIK CLAK",
-      "url": "https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 197586,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 169073,
+      "name": "CLIK CLAK",
+      "url": "https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr"
     },
     {
       "added_at": "2026-02-12 05:51:04",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-02-12 05:51:04",
       "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
-    },
-    {
-      "added_at": "2026-02-12 05:51:04",
-      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2026-02-12 05:51:04",
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
     },
     {
       "added_at": "2026-02-12 05:51:04",

@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: RAAHiiM",
-  "num_followers": 58409,
+  "description": "R&B of the moment by the artists of the future. Cover: Isaia Huron",
+  "num_followers": 58422,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMJcnmj+hRqFvYaLfytsxUbBxTR",
+  "snapshot_id": "AAAAAM9Q43+K/96hqRwsw0fJ2BcK0YgU",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:19:20",
+      "album": {
+        "name": "W.T.A.",
+        "url": "https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 202564,
+      "name": "W.T.A.",
+      "url": "https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH"
+    },
     {
       "added_at": "2026-02-06 07:24:35",
       "album": {
@@ -89,20 +105,36 @@
       "url": "https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba"
     },
     {
-      "added_at": "2026-01-23 06:55:04",
+      "added_at": "2026-02-13 05:19:20",
       "album": {
-        "name": "Break Me In",
-        "url": "https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg"
+        "name": "November Scorpio",
+        "url": "https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV"
       },
       "artists": [
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
         }
       ],
-      "duration_ms": 172506,
-      "name": "Break Me In",
-      "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
+      "duration_ms": 195107,
+      "name": "desire.",
+      "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
+    },
+    {
+      "added_at": "2026-02-13 05:19:20",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/47wz4Jd9NtdNNStLsM7reV"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 193046,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0"
     },
     {
       "added_at": "2026-01-30 18:36:37",
@@ -137,6 +169,22 @@
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
+      "added_at": "2026-02-13 05:19:20",
+      "album": {
+        "name": "D'ANGELO'S JOINT",
+        "url": "https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "D'ANGELO'S JOINT",
+      "url": "https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ"
+    },
+    {
       "added_at": "2026-01-16 05:00:39",
       "album": {
         "name": "bad",
@@ -151,6 +199,22 @@
       "duration_ms": 164073,
       "name": "bad",
       "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
+    },
+    {
+      "added_at": "2026-01-23 06:55:04",
+      "album": {
+        "name": "Break Me In",
+        "url": "https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Break Me In",
+      "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -171,6 +235,22 @@
       "duration_ms": 212005,
       "name": "energy!",
       "url": "https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6"
+    },
+    {
+      "added_at": "2026-02-13 05:19:20",
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/0Xg7mjikHBTIdeaH8Te4OV"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "duration_ms": 213689,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko"
     },
     {
       "added_at": "2026-01-30 18:36:37",
@@ -209,6 +289,22 @@
       "url": "https://open.spotify.com/track/2jxhMpIYepmo5asrPxTOcQ"
     },
     {
+      "added_at": "2026-02-13 05:19:20",
+      "album": {
+        "name": "won't be the same",
+        "url": "https://open.spotify.com/album/7LuYCTsG8SKfUanUr88Yv2"
+      },
+      "artists": [
+        {
+          "name": "Mal London",
+          "url": "https://open.spotify.com/artist/3fDtug6dI80VyEWO3vcT0U"
+        }
+      ],
+      "duration_ms": 131794,
+      "name": "won't be the same",
+      "url": "https://open.spotify.com/track/4dHzG11qkHLZBWqZRE9vDn"
+    },
+    {
       "added_at": "2025-12-12 05:00:46",
       "album": {
         "name": "Come Thru",
@@ -223,6 +319,22 @@
       "duration_ms": 159130,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
+    },
+    {
+      "added_at": "2026-02-13 05:19:20",
+      "album": {
+        "name": "Down Payment",
+        "url": "https://open.spotify.com/album/45zDzQHqEbSfWUbWvMffiU"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "duration_ms": 181545,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/2voqA9EpioDoAWfkmFnYHu"
     },
     {
       "added_at": "2026-01-23 06:55:04",
@@ -2509,26 +2621,6 @@
       "url": "https://open.spotify.com/track/0ZyRqzVfrqqGt4XbTzKOVx"
     },
     {
-      "added_at": "2025-10-10 06:44:24",
-      "album": {
-        "name": "How I Feel",
-        "url": "https://open.spotify.com/album/3KKqCaSclRCPC94FaCywTD"
-      },
-      "artists": [
-        {
-          "name": "Kali Claire",
-          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
-        },
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "How I Feel",
-      "url": "https://open.spotify.com/track/1C4k35TYf3CZIClUno0w9z"
-    },
-    {
       "added_at": "2025-09-19 05:07:46",
       "album": {
         "name": "The Last Great American Summer",
@@ -2599,22 +2691,6 @@
       "duration_ms": 111844,
       "name": "all day",
       "url": "https://open.spotify.com/track/6mo4tHSZ4cI0TpAy7Pum7Y"
-    },
-    {
-      "added_at": "2025-10-10 06:44:24",
-      "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/7Iw45AFkhiak4wwyd5curC"
-      },
-      "artists": [
-        {
-          "name": "GIGI",
-          "url": "https://open.spotify.com/artist/2nUCb4O54MGkGUcGDEUF1h"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Exception",
-      "url": "https://open.spotify.com/track/4NUrMQXSappl4qB74yZygA"
     },
     {
       "added_at": "2025-10-03 04:26:01",

@@ -4,7 +4,7 @@
 
 > The voices shaping R&B\. Cover: Tiana Major9
 
-579 songs - 1 day 6 hr 42 min
+580 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 | 2025-10-16 |  |
 | [DELUSIONAL](https://open.spotify.com/track/6ADF4OFhbq6TGG6j45QQh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DELUSIONAL](https://open.spotify.com/album/74wQ27Cpf2EWBkkAVfEgtE) | 1:58 | 2025-03-21 | 2025-07-18 |
 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 | 2023-05-14 | 2023-11-17 |
+| [desire.](https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [November Scorpio](https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV) | 3:15 | 2026-02-13 |  |
 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 | 2025-06-12 | 2025-11-14 |
 | [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 | 2025-01-24 | 2025-07-25 |
 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 | 2025-10-02 |  |
@@ -493,6 +494,7 @@
 | [Sunsets](https://open.spotify.com/track/2XAH08LV6ejGOpRsErzSXs) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Sunsets](https://open.spotify.com/album/5hZJCqJK5bzGefjwWltJkA) | 3:00 | 2026-01-23 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-02-23 | 2023-05-15 |
 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-02-28 | 2025-08-15 |
+| [Sweetest Lullabye](https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Sweetest Lullabye](https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA) | 4:15 | 2026-02-13 |  |
 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 | 2024-04-25 | 2024-06-01 |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2024-05-31 | 2024-09-13 |
 | [SWITCH](https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SWITCH](https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW) | 1:44 | 2023-05-14 | 2024-03-19 |
@@ -526,11 +528,10 @@
 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 | 2023-05-24 | 2024-02-28 |
 | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-02-28 | 2024-04-26 |
 | [Tipsy](https://open.spotify.com/track/6GR5SRiuztfur96y7mBKxK) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Tipsy](https://open.spotify.com/album/4hxgmRczO2cTh9doxACWnm) | 2:12 | 2023-10-27 | 2024-05-11 |
+| [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 | 2026-02-13 |  |
 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-22 | 2025-09-06 |
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 | 2025-10-24 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2026-01-16 |
-| [Track 16](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
-| [Track 9](https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 | 2025-10-03 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-08-28 | 2026-01-23 |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-19 | 2025-01-31 |

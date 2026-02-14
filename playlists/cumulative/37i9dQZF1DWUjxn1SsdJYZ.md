@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: trials
 
-1,471 songs - 2 day 20 hr 27 min
+1,471 songs - 2 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1310,7 +1310,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 4](https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |
@@ -1358,6 +1357,7 @@
 | [Up & Stuck](https://open.spotify.com/track/3BcKy00Bn0Dg289aRxyaE2) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Up & Stuck](https://open.spotify.com/album/5OPVh7jvp6aLaJT2qx40vn) | 2:43 | 2025-10-09 |  |
 | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL) | 1:59 | 2025-02-13 | 2025-04-11 |
 | [Up The Score](https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Up The Score](https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi) | 2:04 | 2022-06-16 | 2022-11-25 |
+| [Up Up](https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Limerence](https://open.spotify.com/album/1doytOQGYrBOFUHi2Jtxq7) | 2:36 | 2026-02-12 |  |
 | [UPPERCUT \- BUTCHERED Pt.4](https://open.spotify.com/track/6uCUPPkHVGkYMTzSjXOWBe) | [Lil Wright](https://open.spotify.com/artist/7i03rpnL7xfaXDmCj72JVA) | [UPPERCUT \(BUTCHERED Pt.4\)](https://open.spotify.com/album/7iK7N162n6UzdLWlm7fE53) | 2:10 | 2025-07-17 | 2025-10-17 |
 | [Uzi \(Dialed In\)](https://open.spotify.com/track/2HpzccoOzvOLsY4NYVVJxr) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Uzi \(Dialed In\)](https://open.spotify.com/album/01anLPF4sRzrp33fdAe9n2) | 2:21 | 2024-11-21 | 2025-01-17 |
 | [Vacation](https://open.spotify.com/track/2rBM50RmI41WN02Zj1mCg8) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI) | [Vacation](https://open.spotify.com/album/5jp6e4EqYJZkOhCsWtPt10) | 2:59 | 2024-11-28 | 2025-01-17 |

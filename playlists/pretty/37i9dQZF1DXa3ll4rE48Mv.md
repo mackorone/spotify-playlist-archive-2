@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,187 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,182 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 47 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
 | 48 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
 | 49 | [Colors](https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z) | [The Groans](https://open.spotify.com/artist/4jhD0dxLgux1cB7BN16PlT) | [Earth Dweller](https://open.spotify.com/album/5jQdPuwpQCFCO0fltbBB63) | 3:49 |
-| 50 | [Jillian](https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc) | 2:39 |
-| 51 | [Down](https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp) | [Thelma and the Sleaze](https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57) | [Fuck, Marry, Kill](https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT) | 4:12 |
+| 50 | [Down](https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp) | [Thelma and the Sleaze](https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57) | [Fuck, Marry, Kill](https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT) | 4:12 |
+| 51 | [Jillian](https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc) | 2:39 |
 | 52 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
 | 53 | [Mackerel's Funky Mission](https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Mackerel's Funky Mission](https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV) | 3:44 |
 | 54 | [Dream Partner](https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3) | [Wolf Girl](https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX) | [Every Now and Then](https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt) | 2:34 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 60 | [Spaceman](https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7) | [Bitch Hunt](https://open.spotify.com/artist/1pRVOuiW4YsZD1vlVPIgbU) | [Space Armadillo](https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2) | 2:50 |
 | 61 | [Binary](https://open.spotify.com/track/612neH3gcy0ke7jLRRca53) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye) | 3:15 |
 | 62 | [Macaulay Sulkin'](https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY) | [90'sdreamboy](https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ) | [I <3 90's dreamboy](https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6) | 2:13 |
-| 63 | [Thick Skin](https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA) | [Limp Wrist](https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc) | [Facades](https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn) | 1:36 |
-| 64 | [Fake Great Britain](https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ) | [pink suits](https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL) | [Fake Great Britain](https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN) | 2:23 |
-| 65 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
-| 66 | [Peeling Off the Rind](https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi) | [Kermes](https://open.spotify.com/artist/6Hnr7L6eznEjLMxCsIlynH) | [Peeling Off the Rind // Terms](https://open.spotify.com/album/2GMkpNFzUeNcjteXnvlke9) | 2:14 |
+| 63 | [Fake Great Britain](https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ) | [pink suits](https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL) | [Fake Great Britain](https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN) | 2:23 |
+| 64 | [Thick Skin](https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA) | [Limp Wrist](https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc) | [Facades](https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn) | 1:36 |
+| 65 | [Peeling Off the Rind](https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi) | [Kermes](https://open.spotify.com/artist/6Hnr7L6eznEjLMxCsIlynH) | [Peeling Off the Rind // Terms](https://open.spotify.com/album/2GMkpNFzUeNcjteXnvlke9) | 2:14 |
+| 66 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
 | 67 | [Take Another](https://open.spotify.com/track/3S7KVKmwbxYbN41tltqZdT) | [Size Of Sadness](https://open.spotify.com/artist/2YuRANSZU5LahqGdk7cM5y) | [Little Trauma Things](https://open.spotify.com/album/37iLVqvAeUeTsXiDlYxKR5) | 3:00 |
 | 68 | [Fuck Shades](https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG) | [BRASHER](https://open.spotify.com/artist/4AOuRtMkFhZYXKARVdz3xt) | [Everything](https://open.spotify.com/album/6zYJ76uVjUQyJzhKiq9uBX) | 2:19 |
 | 69 | [Wet](https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,347 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,351 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 17 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
 | 18 | [Hold My Hand](https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:42 |
 | 19 | [Laugh It Off](https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Laugh It Off](https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85) | 3:38 |
-| 20 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 |
-| 21 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
+| 20 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
+| 21 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 |
 | 22 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 |
 | 23 | [Truth Of My Youth](https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:02 |
 | 24 | [Forget My Name](https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Greatest Of All Time](https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:57 |
 | 50 | [Truck Stop Blues](https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:14 |
 
-Snapshot ID: `aYvGgAAAAACwrQH5m6kx0tDTJg1In9Py`
+Snapshot ID: `aY0YAAAAAABXViTwoahT0nlPxgyDTgcP`

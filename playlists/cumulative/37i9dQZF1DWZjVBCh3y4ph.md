@@ -4,7 +4,7 @@
 
 > Les hits zouk & kompa du moment\. Photo : Kany
 
-371 songs - 19 hr 31 min
+372 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Hello](https://open.spotify.com/track/2ryQp2AEeS2lDyjlpA7SBE) | [Antonny Drew](https://open.spotify.com/artist/49wsVk3gEe6pOjZtbf0oFm) | [Rémission](https://open.spotify.com/album/6JEQUHAeDKyGBkmQp16Ps4) | 4:29 | 2025-09-25 | 2025-11-21 |
 | [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-11-30 | 2023-12-30 |
 | [HOLÀ](https://open.spotify.com/track/7tzmBnzoR8VrA3FiWLH5cz) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6) | [HOLÀ](https://open.spotify.com/album/4iv3V9QL9nefZUbD4jbX1T) | 2:39 | 2025-05-15 | 2025-06-13 |
+| [Homme Parfait](https://open.spotify.com/track/7I2eyMgDU5aTq0TyfylNJz) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [Homme Parfait](https://open.spotify.com/album/6vFTchlyI9121gnbXQQjhm) | 2:54 | 2026-02-12 |  |
 | [Honey](https://open.spotify.com/track/0qQmc7PbruJQ0zQN535nqL) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:56 | 2024-12-19 | 2025-02-14 |
 | [HORS DE PRIX](https://open.spotify.com/track/7BR3hRozwXq5T3YKRi9CUO) | [Warren](https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI), [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [HORS DE PRIX](https://open.spotify.com/album/7hUX3kp7X8mpeoCHzcGg3I) | 4:21 | 2025-05-22 | 2025-07-11 |
 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-08 | 2025-02-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,185,004 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,185,335 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 32 | [Simmerdown](https://open.spotify.com/track/7lbl1Ki2GqaXenJlM4zvGh) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [The Sleepwalking Society](https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4) | 3:27 |
 | 33 | [Babylon Too Rough](https://open.spotify.com/track/2CFxgaypHjxdYWgfGFoDs0) | [Gregory Isaacs](https://open.spotify.com/artist/4MRDjHgHTne2Ft2oA8JO2x) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:53 |
 | 34 | [Strong Me Strong](https://open.spotify.com/track/4xJqi0uHh629XvW7WlKRxZ) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:48 |
-| 35 | [Stop That Train](https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:14 |
-| 36 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
+| 35 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
+| 36 | [Stop That Train](https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:14 |
 | 37 | [Last War](https://open.spotify.com/track/3CATV9Xarrz4sK5Audiq6r) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:00 |
 | 38 | [The Upsetter](https://open.spotify.com/track/2oU3L7aXP2ohVQBWMN71H9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:05 |
 | 39 | [Eastern Standard Time](https://open.spotify.com/track/04cCYxaUC2LObYVTGlRYBX) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:43 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 48 | [Far East](https://open.spotify.com/track/1S0ByRYztydxw1l4FEv0H4) | [Barry Brown](https://open.spotify.com/artist/4RLadJjrl8Ygnmg4HoWH8v) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:57 |
 | 49 | [Forward Ever Backward Never](https://open.spotify.com/track/37UsDnU8CMBbZ1bV1WZAkz) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:05 |
 | 50 | [Return Of Django](https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:30 |
-| 51 | [Don't Stay Away](https://open.spotify.com/track/0TzactgkoJSMMRVddb8aRK) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:31 |
-| 52 | [Not Satisfied](https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:11 |
+| 51 | [Not Satisfied](https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:11 |
+| 52 | [Don't Stay Away](https://open.spotify.com/track/0TzactgkoJSMMRVddb8aRK) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:31 |
 | 53 | [Don De Lion](https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:25 |
 | 54 | [I Love King Selassie](https://open.spotify.com/track/1m8km5zdC0WDsdwKnCZ6sa) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:29 |
 | 55 | [Street Corner](https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 3:03 |

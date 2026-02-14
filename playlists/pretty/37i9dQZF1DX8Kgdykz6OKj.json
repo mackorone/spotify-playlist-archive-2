@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1562181,
+  "num_followers": 1562379,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -455,38 +455,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "ELSEWHERE",
-        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 209215,
-      "name": "Apatia",
-      "url": "https://open.spotify.com/track/5FKMhyyrQT3gbDh9KcjFIF"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Dont Wanna C Me Rich",
-        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 141172,
-      "name": "Dont Wanna C Me Rich",
-      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -511,6 +479,38 @@
       "duration_ms": 353346,
       "name": "Children Of The Internet - Ezra Collective Remix",
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Dont Wanna C Me Rich",
+        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 141172,
+      "name": "Dont Wanna C Me Rich",
+      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "ELSEWHERE",
+        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 209215,
+      "name": "Apatia",
+      "url": "https://open.spotify.com/track/5FKMhyyrQT3gbDh9KcjFIF"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "duration_ms": 131506,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
         "name": "Scarecrows",
         "url": "https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj"
       },
@@ -1223,26 +1239,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1259,6 +1255,46 @@
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Sweet Jazz Trio",
+          "url": "https://open.spotify.com/artist/63s4pUdKWU5oXYxKrM38gG"
+        }
+      ],
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1299,22 +1335,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "BLAH",
         "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
       },
@@ -1351,22 +1371,6 @@
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
-      },
-      "artists": [
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        }
-      ],
-      "duration_ms": 131506,
-      "name": "ICON",
-      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1891,6 +1895,26 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
+        "name": "Double Standards (feat. Sampha)",
+        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Double Standards (feat. Sampha)",
+      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/1cvwyrdzBEc042JfJPwSle"
       },
@@ -1915,26 +1939,6 @@
       "duration_ms": 205612,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Double Standards (feat. Sampha)",
-        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Double Standards (feat. Sampha)",
-      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -2003,18 +2007,22 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "THE FIFTH",
-        "url": "https://open.spotify.com/album/7w60iPNhta9fiKiQ61mulV"
+        "name": "We Do It Remixes",
+        "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
         }
       ],
-      "duration_ms": 200612,
-      "name": "RULAZ",
-      "url": "https://open.spotify.com/track/6MXbOpXo165jln2ukWqG9n"
+      "duration_ms": 187941,
+      "name": "We Do It (Jazz Spastiks Remix)",
+      "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
     }
   ],
   "unique_name": "Jazz Rap",

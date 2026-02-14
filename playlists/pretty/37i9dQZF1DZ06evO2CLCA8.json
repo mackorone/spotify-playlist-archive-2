@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 1097,
+  "num_followers": 1100,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAC5SM8sQcLzz8/SUzCXbPvB",
+  "snapshot_id": "aY0YAAAAAAAGgJoXsUysVkSqx2Tg+xGj",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 330306,
-      "name": "Swingin'",
-      "url": "https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're Gonna Get It!",
         "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 184960,
       "name": "Listen To Her Heart",
       "url": "https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 330306,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "A Woman In Love (It's Not Me)",
-      "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're Gonna Get It!",
         "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 144173,
       "name": "I Need To Know",
       "url": "https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "A Woman In Love (It's Not Me)",
+      "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 264453,
+      "name": "Shadow Of A Doubt (A Complex Kid)",
+      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last DJ",
         "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 264453,
-      "name": "Shadow Of A Doubt (A Complex Kid)",
-      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
       "duration_ms": 145201,
       "name": "Needles And Pins - Live At The The Forum/1981",
       "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,

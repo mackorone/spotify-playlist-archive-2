@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: COPAK
 
-1,614 songs - 3 day 19 hr 20 min
+1,616 songs - 3 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,6 +1055,7 @@
 | [Yard Bird](https://open.spotify.com/track/40SrLDs6gajmkbJKrfm9vt) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [BRIAN MADE](https://open.spotify.com/artist/2PoajTrdpBExuppZtg8u08) | [Yard Birds](https://open.spotify.com/album/3DdbAiDhIfNgwH1z09tX5q) | 2:24 | 2025-07-10 | 2025-11-21 |
 | [Yellow Scissors](https://open.spotify.com/track/4RP1PU6TT1alEhzm8zn6Cs) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [Yellow Scissors](https://open.spotify.com/album/1ODeNCAMlCOJKNbY9Ng4xq) | 3:29 | 2024-04-11 | 2024-11-15 |
 | [YES PLEASE](https://open.spotify.com/track/6g107zkNQJTU97EQl4zr3M) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [YES PLEASE](https://open.spotify.com/album/3P06y6CvlYMp5XqIgT5Cw2) | 2:53 | 2025-01-30 | 2025-04-25 |
+| [YOU](https://open.spotify.com/track/5UZdQdSdJ5l7xRSiKW24so) | [Elly C](https://open.spotify.com/artist/70BawCx2NZDdvo6BIv9Uda) | [YOU](https://open.spotify.com/album/6SZSArjw7j3ktFtKhH0sbs) | 4:09 | 2026-02-12 |  |
 | [You & I](https://open.spotify.com/track/6dz0VEbTi5Lmw969gkEvjb) | [Kogan](https://open.spotify.com/artist/7r0tvgUoMP9pvPqP5sJhgH) | [You & I](https://open.spotify.com/album/6TSMC1SUzRzCIuFVvS2q4Q) | 3:15 | 2025-02-14 | 2025-05-30 |
 | [You and I](https://open.spotify.com/track/5FWcHUJMy7wWD2SByZk8Hd) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [You and I](https://open.spotify.com/album/1leHwKjenNuvX4CmoUtRcl) | 4:20 | 2023-05-04 | 2023-09-01 |
 | [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 | 2024-09-20 | 2025-02-14 |
@@ -1248,6 +1249,7 @@
 | [好想瞓](https://open.spotify.com/track/5J55R1aAfqteDIqeuK5x65) | [Theo Chu Chun Yin](https://open.spotify.com/artist/6gRhpwFLDsVOo0VzrplL9A) | [好想瞓](https://open.spotify.com/album/3eadryqIELwgawYpj0nhtl) | 2:44 | 2023-08-17 | 2023-12-01 |
 | [妳好靚 \(feat\. RebelMan\)](https://open.spotify.com/track/0QPl6JsMOYKa61ThXXrzrW) | [J\-Hoon](https://open.spotify.com/artist/6A1r1biex5FKhLL1Hu3Kao), [RebelMan](https://open.spotify.com/artist/2kCaXiiwA6oRGqa5dqlXYp) | [妳好靚 \(feat\. RebelMan\)](https://open.spotify.com/album/73wlAgPUdpbBDdd2CdprSh) | 3:13 | 2023-07-27 | 2023-09-15 |
 | [婆娘PAULLEUNG](https://open.spotify.com/track/0vvONjfKPXhyzHCp5lH3Kt) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [小悲咒三週年EP](https://open.spotify.com/album/0Fv6m3KgDYPYGQlXOzHYAA) | 1:57 | 2023-08-31 | 2023-12-01 |
+| [學柔而修](https://open.spotify.com/track/4V1BVYXpUCSXkgdXED5PCc) | [ERN9](https://open.spotify.com/artist/0BEPNot13vK1o6U8Gcja3V), [BillyT](https://open.spotify.com/artist/66oBldKAMOv1vFqUwD4cUJ) | [學柔而修](https://open.spotify.com/album/6KY3XU9jHipWmpq5tVkRgK) | 2:35 | 2026-02-12 |  |
 | [守](https://open.spotify.com/track/4EOg9ajGad1pg7KKnaQgvA) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [守](https://open.spotify.com/album/5VO0nVaONkT3qsI1hougBX) | 2:20 | 2023-03-09 | 2023-07-14 |
 | [完美崩壞](https://open.spotify.com/track/5WflHLCFUifKpKF5mMxCY2) | [Cy Leo 何卓彥](https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [完美崩壞](https://open.spotify.com/album/7qLmka3ckaawwIE2lZxVpc) | 2:48 | 2023-05-04 | 2023-09-01 |
 | [寂寞時分 Think About U](https://open.spotify.com/track/38rCWwDEMhtnRAsnlZx1Cf) | [Daviouxx](https://open.spotify.com/artist/5eBm6xxkstcecWsTyT2A14), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [寂寞時分 Think About U](https://open.spotify.com/album/39vKvGetVVc9UspXsvQXIj) | 2:52 | 2023-07-27 | 2023-11-03 |

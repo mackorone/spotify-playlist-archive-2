@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Silvestre Dangond
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,729 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,755 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 11 | [Celebrar](https://open.spotify.com/track/0L9wmmuP6536NqFqWyMKGu) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Celebrar](https://open.spotify.com/album/6UqLI0gR4fjhHhvHrBYk2l) | 3:15 |
 | 12 | [La Ex de mi Amigo](https://open.spotify.com/track/5KrKP9vkwaOyqcHvNC0wZv) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [La Ex de mi Amigo](https://open.spotify.com/album/0ITOpoFKDvq8e0uiJphlwU) | 3:32 |
 | 13 | [Ay Me Enamoré](https://open.spotify.com/track/7DRlRTXgYF8lhyASJEXkIA) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [La Jerarquía](https://open.spotify.com/album/0rbgeaPpbLvETwqErcbvIU) | 4:15 |
-| 14 | [Diciembre](https://open.spotify.com/track/6W2DQrZKdw6jhTkw0eoJy4) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Diciembre](https://open.spotify.com/album/2Yeopcw7kSdjTKc6wEarpU) | 3:19 |
-| 15 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
+| 14 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
+| 15 | [El Trato \- Versión Trato Vallenato](https://open.spotify.com/track/2IXzNfWX6Z3hePGioxSd5i) | [Oscar Gamarra](https://open.spotify.com/artist/5ytyAQZRgrkqSeGiRgkSi1), [Camilo Carvajal](https://open.spotify.com/artist/42jbySe4fUtjS3JpprvmVK) | [El Trato \(Versión Trato Vallenato\)](https://open.spotify.com/album/00Vh40XvMHCBnADsXATz19) | 2:52 |
 | 16 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 |
 | 17 | [Modo Traga](https://open.spotify.com/track/1iqCrrCbEu0jLNKBFK7hZK) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Modo Traga](https://open.spotify.com/album/0I4HVD6onGHYB6Ecjihl0T) | 4:10 |
 | 18 | [Jamas Me Cansare de Ti \- Live](https://open.spotify.com/track/2kO2ifgfdcTG6idRLNnMts) | [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS), [Juank Ricardo](https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ) | [EL HEREDERO II \(LIVE\)](https://open.spotify.com/album/1EWgGJVlzJNn5xGe4AngCv) | 5:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `AAAAAM/S37Mex5mimhrDDwuMTzbN8ZBn`
+Snapshot ID: `AAAAAEzbKAw7AaYq2kVmNE9+9X1VOgVf`

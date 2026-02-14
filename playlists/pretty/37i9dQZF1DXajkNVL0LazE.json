@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 119821,
+  "num_followers": 119853,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "Distance and Time",
+        "url": "https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "This Is The Thing",
+      "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Distance and Time",
-        "url": "https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "This Is The Thing",
-      "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Dark Was The Night (Red Hot Compilation)",
-        "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
+        "name": "Where Shall You Take Me? (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
         }
       ],
-      "duration_ms": 222933,
-      "name": "So Far Around the Bend",
-      "url": "https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf"
+      "duration_ms": 146333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Where Shall You Take Me? (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs"
+        "name": "Dark Was The Night (Red Hot Compilation)",
+        "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
       },
       "artists": [
         {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7"
+      "duration_ms": 222933,
+      "name": "So Far Around the Bend",
+      "url": "https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "The Midnight Organ Fight",
-        "url": "https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "The Modern Leper",
-      "url": "https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "The Animal Years",
         "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 578742,
       "name": "Thin Blue Flame",
       "url": "https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "The Midnight Organ Fight",
+        "url": "https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "The Modern Leper",
+      "url": "https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv"
     },
     {
       "added_at": "2024-03-25 16:58:35",

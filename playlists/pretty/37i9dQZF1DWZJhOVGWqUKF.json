@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: DON BROCO, Nickelback",
-  "num_followers": 340207,
+  "num_followers": 340204,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -47,8 +47,8 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
       "artists": [
         {
@@ -283,6 +283,26 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
         "name": "Everything Burns (feat. Beartooth)",
         "url": "https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq"
       },
@@ -367,26 +387,6 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "Love To Be Loved",
-        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Love To Be Loved",
-      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
         "name": "We're Onto Something (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
       },
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
         "name": "In the Name of the Father",
         "url": "https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 227156,
       "name": "In the Name of the Father",
       "url": "https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
         "name": "CHASING SHADOWS",
         "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 222785,
       "name": "CHASING SHADOWS",
       "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
-        "name": "You Got to Lose",
-        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 197646,
-      "name": "You Got to Lose",
-      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "Let There Be Shred",
-        "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 238276,
-      "name": "Let There Be Shred",
-      "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 233562,
       "name": "As Alive As You Need Me To Be",
       "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
+        "name": "Let There Be Shred",
+        "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 238276,
+      "name": "Let There Be Shred",
+      "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "Sad Generation",
-        "url": "https://open.spotify.com/album/2uRvaixaz6XJp0f3c2ZTEh"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 152103,
-      "name": "Sad Generation",
-      "url": "https://open.spotify.com/track/7wR0zykN2dzYviTGcvV8BH"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
         "name": "Kill Me Fast",
         "url": "https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 197466,
       "name": "Kill Me Fast",
       "url": "https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
+        "name": "Sad Generation",
+        "url": "https://open.spotify.com/album/2uRvaixaz6XJp0f3c2ZTEh"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 152103,
+      "name": "Sad Generation",
+      "url": "https://open.spotify.com/track/7wR0zykN2dzYviTGcvV8BH"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6kBdFPbSCU3kfzV1a2tXEj"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 194370,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/2fhBazTvPdHa27az86vVui"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 186906,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/6kBdFPbSCU3kfzV1a2tXEj"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 194370,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/2fhBazTvPdHa27az86vVui"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "Crawl Back To My Coffin",
-        "url": "https://open.spotify.com/album/7JWTIDOEdhFeAA3ipvMEkI"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Crawl Back To My Coffin",
-      "url": "https://open.spotify.com/track/2p50qhRb0mnj9H8fLoQRf1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
         "name": "Is This The Real You",
         "url": "https://open.spotify.com/album/2Q1bLXsasqdgn864pu4B1l"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 226728,
       "name": "Is This The Real You",
       "url": "https://open.spotify.com/track/2F8KQC2xIsA9tdP7UJIH9h"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
+        "name": "Crawl Back To My Coffin",
+        "url": "https://open.spotify.com/album/7JWTIDOEdhFeAA3ipvMEkI"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Crawl Back To My Coffin",
+      "url": "https://open.spotify.com/track/2p50qhRb0mnj9H8fLoQRf1"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/6Hv27mfvRRJi1NMXkams3J"
-      },
-      "artists": [
-        {
-          "name": "LEAP",
-          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
-        }
-      ],
-      "duration_ms": 222829,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/6YRmlncEmfgAii4f7F6tAF"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
         "name": "Gasoline (All Rage Still Only Numb)",
         "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
       },
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "Beer and Blood Stains",
-        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Beer and Blood Stains",
-      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
         "name": "BRAINDEAD (feat. Toby Morse)",
         "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
       },
@@ -1411,6 +1379,38 @@
       "duration_ms": 175134,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
+        "name": "Beer and Blood Stains",
+        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199747,
+      "name": "Beer and Blood Stains",
+      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/6Hv27mfvRRJi1NMXkams3J"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "duration_ms": 222829,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/6YRmlncEmfgAii4f7F6tAF"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -1479,6 +1479,38 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
+        "name": "ANGELS CALLING",
+        "url": "https://open.spotify.com/album/04jzwcuicEAURi04bVSArG"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 179822,
+      "name": "Monsters In My Head",
+      "url": "https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A"
+    },
+    {
+      "added_at": "2026-02-12 23:00:48",
+      "album": {
         "name": "Box In The Basement",
         "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
       },
@@ -1511,34 +1543,22 @@
     {
       "added_at": "2026-02-12 23:00:48",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+        "name": "I'm A Diamond",
+        "url": "https://open.spotify.com/album/7sRd77dPb3aNRTKVBpWdOy"
       },
       "artists": [
         {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
-        "name": "ANGELS CALLING",
-        "url": "https://open.spotify.com/album/04jzwcuicEAURi04bVSArG"
-      },
-      "artists": [
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        },
         {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
         }
       ],
-      "duration_ms": 179822,
-      "name": "Monsters In My Head",
-      "url": "https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A"
+      "duration_ms": 208543,
+      "name": "I'm A Diamond",
+      "url": "https://open.spotify.com/track/3oVmmTiTkCDXDtBmxXqEGW"
     },
     {
       "added_at": "2026-02-12 23:00:48",
@@ -1575,26 +1595,6 @@
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
-    },
-    {
-      "added_at": "2026-02-12 23:00:48",
-      "album": {
-        "name": "I'm A Diamond",
-        "url": "https://open.spotify.com/album/7sRd77dPb3aNRTKVBpWdOy"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
-        },
-        {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
-        }
-      ],
-      "duration_ms": 208543,
-      "name": "I'm A Diamond",
-      "url": "https://open.spotify.com/track/3oVmmTiTkCDXDtBmxXqEGW"
     },
     {
       "added_at": "2026-02-12 23:00:48",

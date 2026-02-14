@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
+  "description": "Only the best rock in the world. Cover: Megadeth",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -804,7 +804,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 211964,
       "name": "Break the Girl",
       "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
@@ -4733,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4hRbLo7BrpBh462vErwNuk"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187319,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/6Ovon17zVIzfrM1yocYFCq"
+    },
+    {
+      "album": {
         "name": "Neon Noir",
         "url": "https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX"
       },
@@ -6313,6 +6331,28 @@
     },
     {
       "album": {
+        "name": "God\u2019s Lonely Man",
+        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "God's Lonely Man",
+      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
+    },
+    {
+      "album": {
         "name": "God, Allow Me (Please) to Play Music",
         "url": "https://open.spotify.com/album/1qygvf7I6wjQLPyBLfOlTi"
       },
@@ -7062,6 +7102,24 @@
       "duration_ms": 180978,
       "name": "Heartbreak Kid",
       "url": "https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp"
+    },
+    {
+      "album": {
+        "name": "HEARTLESS",
+        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266141,
+      "name": "HEARTLESS",
+      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
     },
     {
       "album": {
@@ -8988,6 +9046,24 @@
       "duration_ms": 175961,
       "name": "Landmines - Spotify Singles",
       "url": "https://open.spotify.com/track/4RMPZ1dyIw3852YiaE57ag"
+    },
+    {
+      "album": {
+        "name": "Online 24/7",
+        "url": "https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Lapdog",
+      "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
     },
     {
       "album": {
@@ -11159,6 +11235,28 @@
     },
     {
       "album": {
+        "name": "Nightmare Tripping (Feat. Nickelback)",
+        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321106,
+      "name": "Nightmare Tripping (Feat. Nickelback)",
+      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
+    },
+    {
+      "album": {
         "name": "no cell phones in rehab",
         "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
       },
@@ -11814,7 +11912,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
@@ -12610,7 +12708,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 191531,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
@@ -12826,7 +12924,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 280924,
       "name": "Puppet Parade",
       "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
@@ -13000,6 +13098,24 @@
       "duration_ms": 150479,
       "name": "Ready Set Go",
       "url": "https://open.spotify.com/track/5ayfXfjt4dGMGb3QWoJo5c"
+    },
+    {
+      "album": {
+        "name": "Rearranging Scars (From The Original Motion Picture \"Scream 7\")",
+        "url": "https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196361,
+      "name": "Rearranging Scars - From The Original Motion Picture \"Scream 7\"",
+      "url": "https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP"
     },
     {
       "album": {
@@ -14053,6 +14169,24 @@
     },
     {
       "album": {
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
+    },
+    {
+      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -14306,7 +14440,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 303832,
       "name": "Silent Divide",
       "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
@@ -16870,7 +17004,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207200,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"

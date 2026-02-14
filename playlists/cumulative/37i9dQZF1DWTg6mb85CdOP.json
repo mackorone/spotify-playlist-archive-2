@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "AMANTES",
+        "url": "https://open.spotify.com/album/1RDicbxeFHWyoTzzV13xxk"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180144,
+      "name": "AMANTES",
+      "url": "https://open.spotify.com/track/5lqi80trHHTiGk2JYBG2JH"
+    },
+    {
+      "album": {
         "name": "AMARILLO MI CORAZ\u00d3N",
         "url": "https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu"
       },
@@ -3481,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Helao",
+        "url": "https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Helao",
+      "url": "https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
@@ -5900,6 +5936,28 @@
       "duration_ms": 257450,
       "name": "Pasado y Olvido",
       "url": "https://open.spotify.com/track/0H9Mw9YefXVFZmezMzfGOT"
+    },
+    {
+      "album": {
+        "name": "pegameeeeento",
+        "url": "https://open.spotify.com/album/79n327Ncr8MdWDR03vwkJU"
+      },
+      "artists": [
+        {
+          "name": "LA VIRGENCITA",
+          "url": "https://open.spotify.com/artist/1Ez09hEUfJOWNBf0Q7d1qw"
+        },
+        {
+          "name": "Saga",
+          "url": "https://open.spotify.com/artist/7mY2ZD4zAsviFn1bZKClAA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "pegameeeeento",
+      "url": "https://open.spotify.com/track/6xOrgVwywtEb57A6hPTFSK"
     },
     {
       "album": {

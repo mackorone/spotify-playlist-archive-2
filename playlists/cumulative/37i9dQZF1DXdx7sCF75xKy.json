@@ -18715,24 +18715,6 @@
     },
     {
       "album": {
-        "name": "Penipu",
-        "url": "https://open.spotify.com/album/2lNsVwcH09D4VIqvyXv4j8"
-      },
-      "artists": [
-        {
-          "name": "Daiyan Trisha",
-          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
-        }
-      ],
-      "date_added": "2026-02-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177457,
-      "name": "Penipu",
-      "url": "https://open.spotify.com/track/7jk190JYJh2oBzGhVZIY5i"
-    },
-    {
-      "album": {
         "name": "Penipu (Chinese & Malay)",
         "url": "https://open.spotify.com/album/2T4wwlOlOobEriTJwxWWLZ"
       },
@@ -18748,6 +18730,24 @@
       "duration_ms": 229125,
       "name": "Penipu - Chinese & Malay",
       "url": "https://open.spotify.com/track/3IsahPjda1OszpEg8JStnp"
+    },
+    {
+      "album": {
+        "name": "Penipu (From \u201cDi Sebalik Jubah\u201d)",
+        "url": "https://open.spotify.com/album/2lNsVwcH09D4VIqvyXv4j8"
+      },
+      "artists": [
+        {
+          "name": "Daiyan Trisha",
+          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177457,
+      "name": "Penipu - From \u201cDi Sebalik Jubah\u201d",
+      "url": "https://open.spotify.com/track/7jk190JYJh2oBzGhVZIY5i"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 759464,
+  "num_followers": 759532,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "No Es una Novela",
-      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185333,
       "name": "Ad\u00f3nde Se Fue ?",
       "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "No Es una Novela",
+      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 266320,
-      "name": "Estrellitas y Duendes",
-      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
     },
     {
       "added_at": "2024-06-04 19:13:44",

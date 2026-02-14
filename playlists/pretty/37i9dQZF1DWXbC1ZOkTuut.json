@@ -1,15 +1,139 @@
 {
   "description": "Descubre los nuevos \u00e1lbumes de m\u00fasica mexicana del 2026. Hit shuffle for a mixed listening experience. Cover: Oscar Ortiz",
-  "num_followers": 23239,
+  "num_followers": 23247,
   "original_name": "New M\u00fasica Mexicana albums ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJMTWUp30ZuKBes3/KB2vLh/FEW",
+  "snapshot_id": "AAAAALTsrRd+eaEIwQeMhbnBxU77zDqi",
   "tracks": [
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "duration_ms": 191507,
+      "name": "MI$ LLAMADA$",
+      "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "duration_ms": 221414,
+      "name": "CHOLO",
+      "url": "https://open.spotify.com/track/76m8kXyUf41NgbpzCLfWgs"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 220467,
+      "name": "DROGA LETAL",
+      "url": "https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215517,
+      "name": "Soy As\u00ed",
+      "url": "https://open.spotify.com/track/1NgHAfShiAyDcedMHrP5iE"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 219775,
+      "name": "C\u00f3mo Me Duele",
+      "url": "https://open.spotify.com/track/0BwX6vtYY1iuiv7hkggmwD"
+    },
+    {
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "SILENCIO HABLA",
         "url": "https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS"
@@ -29,7 +153,7 @@
       "url": "https://open.spotify.com/track/06PE95tjZjDJEpk2I4nZJY"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "SILENCIO HABLA",
         "url": "https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS"
@@ -45,7 +169,7 @@
       "url": "https://open.spotify.com/track/5BKcvdTUSon9p2dNZ187jn"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "SILENCIO HABLA",
         "url": "https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS"
@@ -61,7 +185,7 @@
       "url": "https://open.spotify.com/track/3ApV2EqK706aKHyiaq8gLY"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Coronar Hasta Que Amanezca (En Vivo)",
         "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
@@ -81,7 +205,7 @@
       "url": "https://open.spotify.com/track/4MhD4VzewBeSxAFGUvzRyr"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Coronar Hasta Que Amanezca (En Vivo)",
         "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
@@ -101,7 +225,7 @@
       "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Coronar Hasta Que Amanezca (En Vivo)",
         "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
@@ -121,7 +245,7 @@
       "url": "https://open.spotify.com/track/4WIxdEjLGT0VgXCQ4h4Vsb"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
         "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
@@ -137,7 +261,7 @@
       "url": "https://open.spotify.com/track/2Ina8OxEQ3knMzWFRz9imx"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
         "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
@@ -153,7 +277,7 @@
       "url": "https://open.spotify.com/track/2TpHY4GhS21i2X9c14LuqD"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
         "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
@@ -169,7 +293,7 @@
       "url": "https://open.spotify.com/track/5z2vJfTUOgQQQpPFlmulIS"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Tristemente Enfiestado",
         "url": "https://open.spotify.com/album/49FrxkqvTn6Ocp4KfH3TTk"
@@ -185,7 +309,7 @@
       "url": "https://open.spotify.com/track/72qTvaoCbtWJb6Q6kMFN1b"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Tristemente Enfiestado",
         "url": "https://open.spotify.com/album/49FrxkqvTn6Ocp4KfH3TTk"
@@ -201,7 +325,7 @@
       "url": "https://open.spotify.com/track/70oU0SxrECwIhxQilKuaBs"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Tristemente Enfiestado",
         "url": "https://open.spotify.com/album/49FrxkqvTn6Ocp4KfH3TTk"
@@ -217,7 +341,7 @@
       "url": "https://open.spotify.com/track/5CiHQXi4eSTFJ7Q91QPsYb"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Pa' Las Morritas",
         "url": "https://open.spotify.com/album/75ezrNPDAYaMGRz3rGxrVb"
@@ -233,7 +357,7 @@
       "url": "https://open.spotify.com/track/7C5wfzce0T1omI6wx6umlE"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Pa' Las Morritas",
         "url": "https://open.spotify.com/album/75ezrNPDAYaMGRz3rGxrVb"
@@ -249,7 +373,7 @@
       "url": "https://open.spotify.com/track/3U389UbXUdc7gdTyhluhG0"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Pa' Las Morritas",
         "url": "https://open.spotify.com/album/75ezrNPDAYaMGRz3rGxrVb"
@@ -265,7 +389,7 @@
       "url": "https://open.spotify.com/track/7inUg3JRYeZEIcqM6e9u6i"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -285,7 +409,7 @@
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -305,7 +429,7 @@
       "url": "https://open.spotify.com/track/4lzo6zPM2paqyP8oBp3DOs"
     },
     {
-      "added_at": "2026-01-23 07:47:59",
+      "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"

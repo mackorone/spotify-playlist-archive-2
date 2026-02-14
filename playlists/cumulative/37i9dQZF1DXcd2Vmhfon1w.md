@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Faenna
 
-736 songs - 1 day 14 hr 16 min
+737 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [IV\. Redemption](https://open.spotify.com/track/5VGA63vObOCwnRDp0NkNGt) | [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P), [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [EL ROSARIO](https://open.spotify.com/album/2B48qDO5HLvKpzy1C1eVFh) | 2:34 | 2025-11-27 | 2025-12-19 |
 | [j Battle \- Fugitivo, Vol\. 26](https://open.spotify.com/track/3H6rDy0T4nuXRkFQHog3Mf) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [j Battle](https://open.spotify.com/artist/5uF777dYSnQDexEj3g3fcY) | [j Battle \- Fugitivo, Vol\. 26](https://open.spotify.com/album/6kTjb88WwnMXIFtvW7f75M) | 2:23 | 2024-10-03 | 2024-10-11 |
 | [Ja Morant](https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:13 | 2023-06-07 | 2023-10-24 |
+| [Jazz Do It 2.0](https://open.spotify.com/track/3HYdvzAV006nT6JH8zHYJ9) | [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [Jazz Do It 2.0](https://open.spotify.com/album/3fLjGDYqcg9NzihB7p6XU9) | 2:32 | 2026-02-12 |  |
 | [Jokic](https://open.spotify.com/track/5h7nQEwGns2pF1FmuFKgpo) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Kid Frankie](https://open.spotify.com/artist/5ckUquAW7M95vY15jEW1zQ), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [SHOWTIME](https://open.spotify.com/album/5Zp2IHPFco7Aeg4jlLQeWs) | 3:01 | 2024-09-26 | 2024-10-11 |
 | [Jove](https://open.spotify.com/track/4f4V6yEu8qBRpbunequTUp) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [Jove](https://open.spotify.com/album/1mPtqibOsDaDsFwEDNFup5) | 2:17 | 2024-04-11 | 2024-04-19 |
 | [Judas](https://open.spotify.com/track/1OyP7jh9oYJ9gxB2qPxqmj) | [Dante](https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX) | [Judas](https://open.spotify.com/album/4cc45IygzZ1itnOxnyFefA) | 3:08 | 2025-09-18 | 2025-10-10 |

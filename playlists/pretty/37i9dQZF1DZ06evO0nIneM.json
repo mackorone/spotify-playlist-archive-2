@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93276,
+  "num_followers": 93278,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABIzyPt7KU2HBnn9d4m1yKk",
+  "snapshot_id": "aY0YAAAAAACaLgA7PLGhbLPafHGxyL4v",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3\u00d8 - We Doen Wat We Kunnen",
-        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Holiday In Spain",
-      "url": "https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
         "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 238083,
       "name": "Laat Me Los",
       "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3\u00d8 - We Doen Wat We Kunnen",
+        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Holiday In Spain",
+      "url": "https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Dichterbij Dan Ooit",
-      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Later Als Ik Groter Ben",
         "url": "https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 204429,
       "name": "Later Als Ik Groter Ben",
       "url": "https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Dichterbij Dan Ooit",
+      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
     },
     {
       "added_at": null,

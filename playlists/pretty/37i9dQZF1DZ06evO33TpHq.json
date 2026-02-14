@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 61957,
+  "num_followers": 61991,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAFeAiXGCNw0aOc9JANPNMt",
+  "snapshot_id": "aY0YAAAAAAC5hJ1oGkFzSxxdMuRHLSIj",
   "tracks": [
     {
       "added_at": null,
@@ -256,13 +256,17 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         },
         {
+          "name": "Miri Mesika",
+          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
+        },
+        {
           "name": "Angel",
           "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 227448,
-      "name": "Psalm 8 (from the Angel Film DAVID)",
-      "url": "https://open.spotify.com/track/4gMXtvbTCGhvnMll5QR8F3"
+      "duration_ms": 208183,
+      "name": "Why God - My God",
+      "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
     },
     {
       "added_at": null,
@@ -328,17 +332,13 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         },
         {
-          "name": "Miri Mesika",
-          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
-        },
-        {
           "name": "Angel",
           "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 208183,
-      "name": "Why God - My God",
-      "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
+      "duration_ms": 227448,
+      "name": "Psalm 8 (from the Angel Film DAVID)",
+      "url": "https://open.spotify.com/track/4gMXtvbTCGhvnMll5QR8F3"
     },
     {
       "added_at": null,
@@ -883,18 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+        "name": "He Arose",
+        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
       },
       "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 255652,
-      "name": "Here with Me - Acoustic",
-      "url": "https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa"
+      "duration_ms": 289972,
+      "name": "He Arose",
+      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
     }
   ],
   "unique_name": "This Is Phil Wickham",

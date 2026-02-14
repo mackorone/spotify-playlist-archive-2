@@ -1,13 +1,93 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Iron & Wine",
-  "num_followers": 167183,
+  "description": "A laid-back trip in the folk scene. Cover: Garrett Kato",
+  "num_followers": 167182,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMj5/jzFzMkF1nCwrbYlxCW9h0TX",
+  "snapshot_id": "AAAAAGH4StAhSgtUTdSkfQIGjDlfE7zB",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:01:21",
+      "album": {
+        "name": "Whenever I Go",
+        "url": "https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 170331,
+      "name": "You Were There",
+      "url": "https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN"
+    },
+    {
+      "added_at": "2026-02-13 05:01:21",
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
+    },
+    {
+      "added_at": "2026-02-13 05:01:21",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 225017,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
+    },
+    {
+      "added_at": "2026-02-13 12:18:19",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "added_at": "2026-02-13 13:40:13",
+      "album": {
+        "name": "Somewhere down in Georgia",
+        "url": "https://open.spotify.com/album/6oqU4dtT2mOAw9FMrqJUCu"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 177702,
+      "name": "Somewhere down in Georgia",
+      "url": "https://open.spotify.com/track/6sPBl3XK5xx1dLWmUmD5SY"
+    },
     {
       "added_at": "2026-02-06 05:01:26",
       "album": {
@@ -2291,22 +2371,6 @@
     {
       "added_at": "2025-09-26 00:01:29",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 203830,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
         "name": "Pancho",
         "url": "https://open.spotify.com/album/6XzwC3drvhCqH2MumYmhFC"
       },
@@ -2403,46 +2467,6 @@
     {
       "added_at": "2025-09-19 00:01:10",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Ain't As Pretty A Blue",
-        "url": "https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU"
-      },
-      "artists": [
-        {
-          "name": "Fleeland",
-          "url": "https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4"
-        },
-        {
-          "name": "Frances Whitney",
-          "url": "https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E"
-        },
-        {
-          "name": "Mills",
-          "url": "https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo"
-        }
-      ],
-      "duration_ms": 237884,
-      "name": "Ain't As Pretty A Blue",
-      "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
         "name": "Back to the Country",
         "url": "https://open.spotify.com/album/2qtHeHuUDLpyaz9KYPj3zI"
       },
@@ -2455,38 +2479,6 @@
       "duration_ms": 250670,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/0opvyElQZPPq405LGzfe56"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210650,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Youth Not Wasted",
-        "url": "https://open.spotify.com/album/7JuZuM7VoogKx1xuk2fq1Y"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 251535,
-      "name": "Youth Not Wasted",
-      "url": "https://open.spotify.com/track/61qkbWy786DEXnR4sla066"
     }
   ],
   "unique_name": "Folk & Friends",

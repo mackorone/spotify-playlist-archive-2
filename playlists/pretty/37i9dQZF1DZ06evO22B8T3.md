@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,255 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,248 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 4 | [Cuando Te Besé](https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:16 |
 | 5 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
 | 6 | [RAMEN PARA DOS](https://open.spotify.com/track/5KJacLbQNuqzR9IizaPI6h) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 3:51 |
-| 7 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 |
-| 8 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
+| 7 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
+| 8 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 |
 | 9 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 |
 | 10 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 |
 | 11 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 40 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 |
 | 41 | [Noche Complicada](https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Noche Complicada](https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q) | 3:31 |
 | 42 | [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 |
-| 43 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
+| 43 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
 | 44 | [MI VERSIÓN](https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:38 |
-| 45 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
+| 45 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
 | 46 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
-| 47 | [Que Hicimo'](https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Que Hicimo'](https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ) | 2:45 |
+| 47 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 | 48 | [PVSL](https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 3:02 |
-| 49 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
+| 49 | [Que Hicimo'](https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Que Hicimo'](https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ) | 2:45 |
 
-Snapshot ID: `aYvGgAAAAAAInD5M4LWipS0MGu+4e+q5`
+Snapshot ID: `aY0YAAAAAAAADYutlunT63KKFy0HPVK3`

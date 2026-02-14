@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Luis R Conriquez, Neton Vega, Rey Quinto ",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Luis Mexia ",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 145516,
       "name": "3 Doritos Despu\u00e9s",
       "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 201604,
       "name": "7 BESOS",
       "url": "https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup"
@@ -402,6 +402,28 @@
       "duration_ms": 168601,
       "name": "AFTERLIFE",
       "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
+    },
+    {
+      "album": {
+        "name": "Agarrense De Los Pelos",
+        "url": "https://open.spotify.com/album/6CG0ANZekCEG5eF4F6bI8e"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170546,
+      "name": "Agarrense De Los Pelos",
+      "url": "https://open.spotify.com/track/1jJuDpyAeszb3oFYEzixTe"
     },
     {
       "album": {
@@ -976,6 +998,24 @@
       "duration_ms": 156515,
       "name": "ARTURO EL REY",
       "url": "https://open.spotify.com/track/7rsfAHPMFpSufZX21AltYm"
+    },
+    {
+      "album": {
+        "name": "Con Las Que Me Dan Sed",
+        "url": "https://open.spotify.com/album/10y0rNFr00Z21OVpB9bbE8"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191731,
+      "name": "Asi Se Usa En Los Ranchos",
+      "url": "https://open.spotify.com/track/45R5eaX8REc0PcTM6y6XuZ"
     },
     {
       "album": {
@@ -2344,7 +2384,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168000,
       "name": "Cripto",
       "url": "https://open.spotify.com/track/1jPI3D9L3Ba9cJn7Fg815B"
@@ -5055,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Me Reinvent\u00e9",
+        "url": "https://open.spotify.com/album/3kRzYH7DIxKJT8SCRYcBH2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215690,
+      "name": "El Que Dir\u00e1n",
+      "url": "https://open.spotify.com/track/1aCP4xJn3CwXqEP0keAb6r"
+    },
+    {
+      "album": {
         "name": "Sin Censura",
         "url": "https://open.spotify.com/album/3jToshSl2cgirplVLcmNfO"
       },
@@ -5114,7 +5172,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 153733,
       "name": "El Ranchito",
       "url": "https://open.spotify.com/track/5yQoZCdOG0fcgl9WctNCm5"
@@ -7621,7 +7679,7 @@
     },
     {
       "album": {
-        "name": "La Racha",
+        "name": "LA RACHA",
         "url": "https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF"
       },
       "artists": [
@@ -7634,7 +7692,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168608,
-      "name": "La Racha",
+      "name": "LA RACHA",
       "url": "https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW"
     },
     {
@@ -7961,6 +8019,28 @@
     },
     {
       "album": {
+        "name": "En Vivo Con Servando",
+        "url": "https://open.spotify.com/album/4CVrN0h1h1aczoWtrrNBfY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187223,
+      "name": "Lo he logrado - En Vivo",
+      "url": "https://open.spotify.com/track/0OtW1vOjV6hziI9FqmZIci"
+    },
+    {
+      "album": {
         "name": "Lo logre",
         "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
       },
@@ -8052,6 +8132,28 @@
       "duration_ms": 196392,
       "name": "Lonche",
       "url": "https://open.spotify.com/track/0km5abNBNuCMVGYDFYVqzQ"
+    },
+    {
+      "album": {
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245738,
+      "name": "Los 5 Pesos",
+      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
     },
     {
       "album": {
@@ -9217,7 +9319,7 @@
     },
     {
       "album": {
-        "name": "Modelo V",
+        "name": "MODELO V",
         "url": "https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd"
       },
       "artists": [
@@ -9230,7 +9332,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190512,
-      "name": "Modelo V",
+      "name": "MODELO V",
       "url": "https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2"
     },
     {
@@ -9848,7 +9950,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 194858,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
@@ -9976,7 +10078,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 125354,
       "name": "Perfil Bajo",
       "url": "https://open.spotify.com/track/04ErN8a15ohwOQrvqvGPaT"
@@ -11584,6 +11686,24 @@
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
+    },
+    {
+      "album": {
+        "name": "Sigo Siendo El M Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3gTAVNVPSj660tNcGU7gl0"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228997,
+      "name": "Sigo Siendo El M Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf"
     },
     {
       "album": {

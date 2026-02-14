@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Guilt, Die Oberherren, The \u00d0evil & the U\u00f1iverse and more",
+  "description": "With The Guilt, Hex Formes, Die Oberherren and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 176470,
       "name": "Attack Of The Killer Coffee Beans",
       "url": "https://open.spotify.com/track/4D9oghIDt7j22TVXxWSBbw"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 317997,
       "name": "Blast",
       "url": "https://open.spotify.com/track/6CiJ6Qx5lFZDbd0o8JCziN"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 230680,
       "name": "Cyberbully",
       "url": "https://open.spotify.com/track/4pIQ9qgoKDsSiQh74cUWKX"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1506,6 +1506,24 @@
       "duration_ms": 214081,
       "name": "Discomfort",
       "url": "https://open.spotify.com/track/1tiwWrOQoUWIyAcZLQiIvh"
+    },
+    {
+      "album": {
+        "name": "Under The Underground",
+        "url": "https://open.spotify.com/album/3HtnoWH5moA5fqDAnzowcQ"
+      },
+      "artists": [
+        {
+          "name": "NUDNIK",
+          "url": "https://open.spotify.com/artist/6wXx613GPctyfnNcbRn3p0"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162229,
+      "name": "Dissemination",
+      "url": "https://open.spotify.com/track/0f0Zj1ePtbUZ1QzZXeCulF"
     },
     {
       "album": {
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213250,
       "name": "Holy Gasoline - Edit",
       "url": "https://open.spotify.com/track/49bFx42WNt6Cha7VpwdqQQ"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -3470,7 +3488,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 167600,
       "name": "Let Me Speak",
       "url": "https://open.spotify.com/track/7CA2fKIdxUtOzEa1O5pYqR"
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 238250,
       "name": "Lovers of Evil",
       "url": "https://open.spotify.com/track/0N51Zo2VvTHyewvhIYjJd9"
@@ -3997,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "More Good Angels",
+        "url": "https://open.spotify.com/album/5UT2jckJ8hggiJgj5eJrmc"
+      },
+      "artists": [
+        {
+          "name": "Gay Meat",
+          "url": "https://open.spotify.com/artist/2YeKLbyQXeNPNNXmp9Irol"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "More Good Angels",
+      "url": "https://open.spotify.com/track/6LOkGMlMBoeODXlP3BUyMy"
+    },
+    {
+      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/6OHuGEyuKBte7dWX4n3afa"
       },
@@ -4080,7 +4116,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243000,
       "name": "Naked on My Own (LP Version)",
       "url": "https://open.spotify.com/track/4Bxxzzv9C9NJaIdGZci3LV"
@@ -4513,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Politics of Love",
+        "url": "https://open.spotify.com/album/3WaA61bkw9dwRWRjf2i4f2"
+      },
+      "artists": [
+        {
+          "name": "Maira 3",
+          "url": "https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "Politics of Love",
+      "url": "https://open.spotify.com/track/6WxM7FGGsL2CZvgZEXmGzw"
+    },
+    {
+      "album": {
         "name": "Breakables",
         "url": "https://open.spotify.com/album/2rEfTbbOFXynGBDWWpeSiY"
       },
@@ -4930,7 +4984,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 249372,
       "name": "Rough Love",
       "url": "https://open.spotify.com/track/7MiZhqVuFxDb5FKcJywwKO"
@@ -5158,7 +5212,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -5198,7 +5252,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 190000,
       "name": "Shadow Projection",
       "url": "https://open.spotify.com/track/7tlIYcO8HcsXn0FM8niJAx"
@@ -6099,6 +6153,24 @@
     },
     {
       "album": {
+        "name": "Predatory Trails of the Spirit",
+        "url": "https://open.spotify.com/album/6s7vYnwCt4E0n4yPIUzx9U"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319892,
+      "name": "The Scavengers",
+      "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
+    },
+    {
+      "album": {
         "name": "The Secret of the Future",
         "url": "https://open.spotify.com/album/53nLmnwxPkI7oXJ4SwNix8"
       },
@@ -6118,6 +6190,24 @@
       "duration_ms": 173338,
       "name": "The Secret of the Future",
       "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
+    },
+    {
+      "album": {
+        "name": "The Spell",
+        "url": "https://open.spotify.com/album/4mpqKL8hpOhzHIFOWLNujx"
+      },
+      "artists": [
+        {
+          "name": "Fourth Heaven",
+          "url": "https://open.spotify.com/artist/1hqdenHsHQG947OwSNFnmw"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219648,
+      "name": "The Spell",
+      "url": "https://open.spotify.com/track/52Ewu34tEpgvra33JFbsRR"
     },
     {
       "album": {
@@ -6150,7 +6240,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 223304,
       "name": "The Way You",
       "url": "https://open.spotify.com/track/4j1mLsjmWrbnly8yjrezjj"
@@ -6208,6 +6298,24 @@
       "duration_ms": 272400,
       "name": "The Winter Ghost",
       "url": "https://open.spotify.com/track/2O8VREoVXYHARxqLIlDIJP"
+    },
+    {
+      "album": {
+        "name": "The Wound",
+        "url": "https://open.spotify.com/album/3XqBsE5zOziRC3cyVweULY"
+      },
+      "artists": [
+        {
+          "name": "Pain in the Yeahs",
+          "url": "https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148308,
+      "name": "The Wound",
+      "url": "https://open.spotify.com/track/2oQI5FjSc63MnvdcW2UlXy"
     },
     {
       "album": {
@@ -6608,7 +6716,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 238373,
       "name": "Unthinkable",
       "url": "https://open.spotify.com/track/3LkNBDxqs44zWx4ixcv5AS"
@@ -6648,7 +6756,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 243740,
       "name": "Vanity Fair",
       "url": "https://open.spotify.com/track/5Y8akQ5fenTPjYLs0MA04x"
@@ -6934,7 +7042,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 376112,
       "name": "When the Sun Married the Moon",
       "url": "https://open.spotify.com/track/54ko4WHIqZaP7yl3t5fWLt"
@@ -7050,7 +7158,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

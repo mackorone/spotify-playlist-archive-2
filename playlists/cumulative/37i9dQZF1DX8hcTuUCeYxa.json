@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "Incidental Contact (After Hours)",
+        "url": "https://open.spotify.com/album/73i6AGPMHzWXJy85ECNTNk"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "Amsterdam - After Hours",
+      "url": "https://open.spotify.com/track/41T7ARBtuDURVTOVuQosBV"
+    },
+    {
+      "album": {
         "name": "Amy",
         "url": "https://open.spotify.com/album/4k8E305Pl2N93pgJCik0kl"
       },
@@ -3981,8 +3999,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "the apple tree under the sea",
+        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
       },
       "artists": [
         {
@@ -5136,6 +5154,24 @@
       "duration_ms": 156222,
       "name": "bloom",
       "url": "https://open.spotify.com/track/1e7ljT2FBvsNxUPH3t5IR2"
+    },
+    {
+      "album": {
+        "name": "Pale Bloom",
+        "url": "https://open.spotify.com/album/3UdhGs2R7AyEuzwrLBc0Mb"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260759,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT"
     },
     {
       "album": {
@@ -35919,8 +35955,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4"
       },
       "artists": [
         {
@@ -41108,42 +41144,6 @@
       "duration_ms": 195306,
       "name": "Townies",
       "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lucy Kruger & The Lost Boys",
-          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
-        }
-      ],
-      "date_added": "2026-02-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
-        }
-      ],
-      "date_added": "2026-02-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/41T7ARBtuDURVTOVuQosBV"
     },
     {
       "album": {

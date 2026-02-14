@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72492,
+  "num_followers": 72491,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Endymion",
-        "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9ka Ioescu",
-          "url": "https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H"
-        }
-      ],
-      "duration_ms": 152230,
-      "name": "Endymion",
-      "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 115227,
       "name": "Last Song",
       "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Endymion",
+        "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9ka Ioescu",
+          "url": "https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H"
+        }
+      ],
+      "duration_ms": 152230,
+      "name": "Endymion",
+      "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Volker",
-          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
-        }
-      ],
-      "duration_ms": 118016,
-      "name": "Kleine Forelle",
-      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Disney Covers Vol 1",
         "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 186088,
       "name": "God Help the Outcasts",
       "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Volker",
+          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
+        }
+      ],
+      "duration_ms": 118016,
+      "name": "Kleine Forelle",
+      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "We've Never Been Here",
+        "url": "https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Marshall",
+          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "We've Never Been Here",
+      "url": "https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 118250,
       "name": "Quand vous souriez",
       "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "We've Never Been Here",
-        "url": "https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Marshall",
-          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "We've Never Been Here",
-      "url": "https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Murray's Moon",
-        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
-      },
-      "artists": [
-        {
-          "name": "Stan Van Outen",
-          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Murray's Moon",
-      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 147000,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Murray's Moon",
+        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
+      },
+      "artists": [
+        {
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Murray's Moon",
+      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
-      },
-      "artists": [
-        {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
-        }
-      ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Head, Shoulders, Knees and Toes",
         "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 77672,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Flaming Katy",
-        "url": "https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J"
-      },
-      "artists": [
-        {
-          "name": "Valentine Summers",
-          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "Flaming Katy",
-      "url": "https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Piano Songs",
         "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
+        "name": "Flaming Katy",
+        "url": "https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J"
       },
       "artists": [
         {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+          "name": "Valentine Summers",
+          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
         }
       ],
-      "duration_ms": 202357,
-      "name": "The Inner World",
-      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
+      "duration_ms": 201306,
+      "name": "Flaming Katy",
+      "url": "https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "duration_ms": 202357,
+      "name": "The Inner World",
+      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "I See the Light - From \"Tangled\"",
         "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Growing Old",
-        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Johnson",
-          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Growing Old",
-      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
-      },
-      "artists": [
-        {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1235,6 +1203,38 @@
       "duration_ms": 135261,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Johnson",
+          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "I Guess I'll Hang My Tears Out To Dry",
-        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
-      },
-      "artists": [
-        {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
-        }
-      ],
-      "duration_ms": 163126,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 231148,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "I Guess I'll Hang My Tears Out To Dry",
+        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "duration_ms": 163126,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "There Is No Greater Love",
-        "url": "https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD"
-      },
-      "artists": [
-        {
-          "name": "A Whisper",
-          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
-        }
-      ],
-      "duration_ms": 154063,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Yesterdays",
-        "url": "https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr"
-      },
-      "artists": [
-        {
-          "name": "Camille Blanche",
-          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
-        }
-      ],
-      "duration_ms": 157744,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Looking Forward, Looking Backward",
         "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
       },
@@ -1395,6 +1363,22 @@
       "duration_ms": 177875,
       "name": "Looking Forward, Looking Backward",
       "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "There Is No Greater Love",
+        "url": "https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD"
+      },
+      "artists": [
+        {
+          "name": "A Whisper",
+          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
+        }
+      ],
+      "duration_ms": 154063,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1419,6 +1403,22 @@
       "duration_ms": 284640,
       "name": "Orfeo et Eurydice: M\u00e9lodie for Piano Solo",
       "url": "https://open.spotify.com/track/3DnLGuX4YU3PGein8vo5Zt"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "duration_ms": 157744,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "10 Ways Of Canon In D By Johann Pachelbel",
         "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
+        "name": "Sleepy Mountains",
+        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
       },
       "artists": [
         {
-          "name": "Elsa Gifford",
-          "url": "https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW"
+          "name": "Charlie Key",
+          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
         }
       ],
-      "duration_ms": 179562,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
+      "duration_ms": 224741,
+      "name": "Evening Message",
+      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Sleepy Mountains",
-        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
       },
       "artists": [
         {
-          "name": "Charlie Key",
-          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
+          "name": "Elsa Gifford",
+          "url": "https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW"
         }
       ],
-      "duration_ms": 224741,
-      "name": "Evening Message",
-      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
+      "duration_ms": 179562,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1595,6 +1579,22 @@
       "duration_ms": 161822,
       "name": "Am I the Only One",
       "url": "https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
     },
     {
       "added_at": "2026-02-09 02:44:55",

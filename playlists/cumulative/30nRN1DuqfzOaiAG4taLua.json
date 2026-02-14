@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/5GViFW9eVnhdrMZZVLXpEw"
+      },
+      "artists": [
+        {
+          "name": "DAVID BLK",
+          "url": "https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203059,
+      "name": "More Than A Friend",
+      "url": "https://open.spotify.com/track/1MkyyWEEiSsInhZwfk8KvY"
+    },
+    {
+      "album": {
         "name": "Musica",
         "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
       },

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/5xMB9NEfwoWIdoL00KX8Wj"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/5AA3QcxRWrdJmvrfUdGFlV"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2d54zBox41HGGHa25FbpLT"
       },
@@ -108,7 +126,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 172655,
       "name": "Always (feat. Eric B Turner)",
       "url": "https://open.spotify.com/track/3O0qNspCqtqGaGDBtEcvG3"
@@ -370,7 +388,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 153750,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/4ZddniwECdaEKHE1a1KKlk"
@@ -584,6 +602,28 @@
       "duration_ms": 200000,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5C6gFpZkq1GsDVj7LHTbB1"
+    },
+    {
+      "album": {
+        "name": "Come Back 2 Me",
+        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193564,
+      "name": "Come Back 2 Me",
+      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
     },
     {
       "album": {
@@ -817,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Disco Behaviour",
+        "url": "https://open.spotify.com/album/2Vd8g2lvXtujfrdL2mGMza"
+      },
+      "artists": [
+        {
+          "name": "Lewis John",
+          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159492,
+      "name": "Disco Behaviour",
+      "url": "https://open.spotify.com/track/2o8dGb8mPyM4ZIsHCZzqTd"
+    },
+    {
+      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/646tI8P5WuQwUGErJKUuEe"
       },
@@ -1018,7 +1076,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
@@ -3593,6 +3651,28 @@
     },
     {
       "album": {
+        "name": "Tikiti",
+        "url": "https://open.spotify.com/album/1HGL2Rn7JeytQZ9UHtUyKl"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "ACID HARRY",
+          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Tikiti",
+      "url": "https://open.spotify.com/track/1Kd3vAJMvZGUXpR6y5rKeq"
+    },
+    {
+      "album": {
         "name": "Time To Move",
         "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
       },
@@ -3746,7 +3826,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 165937,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/439uVehtcK7XyrSiEUfgjb"

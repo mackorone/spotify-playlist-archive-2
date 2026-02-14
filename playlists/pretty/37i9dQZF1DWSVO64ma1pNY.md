@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,117 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,140 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 93 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
 | 94 | [Medicine](https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Sunday / Medicine](https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1) | 4:16 |
 | 95 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
-| 96 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
-| 97 | [Two Toned](https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu) | [Deadshowws](https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU) | [Two Toned // She Said](https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B) | 3:46 |
+| 96 | [Two Toned](https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu) | [Deadshowws](https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU) | [Two Toned // She Said](https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B) | 3:46 |
+| 97 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
 | 98 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 |
 | 99 | [Bang Bang](https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s) | 2:52 |
 | 100 | [Blue Eyes](https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blue Eyes](https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH) | 3:31 |

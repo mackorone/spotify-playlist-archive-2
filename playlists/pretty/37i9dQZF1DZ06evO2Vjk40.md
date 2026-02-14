@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,830 likes - 48 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,931 likes - 48 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 16 | [Traveller](https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:42 |
 | 17 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
 | 18 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
-| 19 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 |
-| 20 | [Sweet Symphony \(feat\. Chris Stapleton\)](https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:48 |
+| 19 | [Sweet Symphony \(feat\. Chris Stapleton\)](https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:48 |
+| 20 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 |
 | 21 | [Cold](https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 5:09 |
 | 22 | [Weight Of Your World](https://open.spotify.com/track/2Kk1Dce84X3oRILM1tL0WX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:54 |
-| 23 | [Scarecrow In The Garden](https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:20 |
-| 24 | [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 |
+| 23 | [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 |
+| 24 | [Scarecrow In The Garden](https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:20 |
 | 25 | [Maggie's Song](https://open.spotify.com/track/50QWBrZFAhD6N4B0tbfET9) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:31 |
-| 26 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
-| 27 | [The Fire](https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:45 |
+| 26 | [The Fire](https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:45 |
+| 27 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
 | 28 | [A Song To Sing](https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [A Song To Sing](https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd) | 2:59 |
 | 29 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 |
 | 30 | [Hard Livin'](https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 2:59 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 47 | [Joy](https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Blessings and Miracles](https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7) | 3:46 |
 | 48 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 
-Snapshot ID: `aYvGgAAAAADESmoCjMlT5TqDY/KPxI2r`
+Snapshot ID: `aY0YAAAAAABQ8vEYy6t2k6Uuw6p/xJ0I`

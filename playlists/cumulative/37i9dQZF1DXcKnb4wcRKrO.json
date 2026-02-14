@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "All Around",
+        "url": "https://open.spotify.com/album/4QQNmjeeoMObWhiX9oRSbu"
+      },
+      "artists": [
+        {
+          "name": "Noah May",
+          "url": "https://open.spotify.com/artist/3eEzHnqUaOB5vYrOYq0dhJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "All Around",
+      "url": "https://open.spotify.com/track/38H7Cb1GtX294I6UV2gIWO"
+    },
+    {
+      "album": {
         "name": "Broken Soul",
         "url": "https://open.spotify.com/album/75EsVTVDReGGSw2uPs9w78"
       },
@@ -176,6 +194,24 @@
       "duration_ms": 144000,
       "name": "Amour",
       "url": "https://open.spotify.com/track/5vAZSctNrlHsbR3vsGEzE7"
+    },
+    {
+      "album": {
+        "name": "Daydrinker's Club",
+        "url": "https://open.spotify.com/album/3KF3feQdat7MwER9EFUBnE"
+      },
+      "artists": [
+        {
+          "name": "Brassa",
+          "url": "https://open.spotify.com/artist/4DcjIeu1vnqF7VzqP4av3d"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Armagnac Bleu",
+      "url": "https://open.spotify.com/track/4hTNZqpNEXLFndCCeTGqKu"
     },
     {
       "album": {
@@ -502,6 +538,24 @@
       "duration_ms": 136000,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/2ewzyarkq3DBmCcnkbepKB"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/38cZJO8bmRlP3RI77mUjQZ"
+      },
+      "artists": [
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140043,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1EUA7zBPgd3fKdmM1X94Gv"
     },
     {
       "album": {
@@ -931,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0mKOjO6q60MQNDiz6ZUnsa"
+      },
+      "artists": [
+        {
+          "name": "gabriel",
+          "url": "https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132816,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/7mlUXgeLNbqTB2qRzBNeJp"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/7iECI97wj58lbRdD2zoEP4"
       },
@@ -1000,6 +1072,24 @@
       "duration_ms": 396020,
       "name": "Feet On The Controls",
       "url": "https://open.spotify.com/track/7p7x09xh9F0Y0GO9qnR0qD"
+    },
+    {
+      "album": {
+        "name": "Filet Mignon",
+        "url": "https://open.spotify.com/album/0JbRl55fD5ws2F8YIEJ27i"
+      },
+      "artists": [
+        {
+          "name": "Life's A Beach",
+          "url": "https://open.spotify.com/artist/2bc5dL3SdvIq8snye5uJZo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120581,
+      "name": "Filet Mignon",
+      "url": "https://open.spotify.com/track/0E6xqQkX0D3wv86vIvj70S"
     },
     {
       "album": {
@@ -1184,7 +1274,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182571,
       "name": "Hawk Eye",
       "url": "https://open.spotify.com/track/4WpFCGNgtdb7tiUiQ58luP"
@@ -1304,7 +1394,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 167441,
       "name": "Island Of Vibes",
       "url": "https://open.spotify.com/track/7jUIG9bGtK8djfjj8UuKjj"
@@ -1326,6 +1416,24 @@
       "duration_ms": 294000,
       "name": "Jam 1",
       "url": "https://open.spotify.com/track/1z1aMsw1uBpAqTzAsqVOp3"
+    },
+    {
+      "album": {
+        "name": "Jazz Club",
+        "url": "https://open.spotify.com/album/2zIq1mMAvGonepV1jH8yAH"
+      },
+      "artists": [
+        {
+          "name": "Meladonica",
+          "url": "https://open.spotify.com/artist/0CKBzB3A5cgDZhbdtbhQXv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145457,
+      "name": "Jazz Club",
+      "url": "https://open.spotify.com/track/4sWy3YWDhUimRPsdVMMTU0"
     },
     {
       "album": {
@@ -1719,6 +1827,36 @@
     },
     {
       "album": {
+        "name": "Night Bloom (Remix)",
+        "url": "https://open.spotify.com/album/0EIMmMjyZjmn3KVNw2rRW1"
+      },
+      "artists": [
+        {
+          "name": "philocalie",
+          "url": "https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm"
+        },
+        {
+          "name": "Lennex",
+          "url": "https://open.spotify.com/artist/2eu54IIOLXr91ZaCG05vJK"
+        },
+        {
+          "name": "Erwo",
+          "url": "https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq"
+        },
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Night Bloom (Remix)",
+      "url": "https://open.spotify.com/track/51uGn1P2KylEBDVbsWhOHg"
+    },
+    {
+      "album": {
         "name": "Night in Manhattan",
         "url": "https://open.spotify.com/album/5Di55ac17lK7ne5o8V3mbq"
       },
@@ -1752,6 +1890,46 @@
       "duration_ms": 226457,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/0DBRTvXViJcg76r9EQ6ngu"
+    },
+    {
+      "album": {
+        "name": "Ocean Sofa",
+        "url": "https://open.spotify.com/album/1WcPPKr0zvlcMcQKXuEvmL"
+      },
+      "artists": [
+        {
+          "name": "Noir Vista",
+          "url": "https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ocean Sofa",
+      "url": "https://open.spotify.com/track/130dc1ozKqoenP7oMpeDcf"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/4XvcHGJNQVWOVbpigdS10Y"
+      },
+      "artists": [
+        {
+          "name": "bari",
+          "url": "https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207656,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6Khjz6ZTdxhVujmB4fUWsK"
     },
     {
       "album": {
@@ -1820,7 +1998,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 188571,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/6xBWgPmOSPJ9unCuXPbFfm"
@@ -1896,6 +2074,28 @@
       "duration_ms": 391983,
       "name": "Pajama Stomp",
       "url": "https://open.spotify.com/track/1nNdzHyRuP1TCfwMoN4Cwa"
+    },
+    {
+      "album": {
+        "name": "Palmeiras",
+        "url": "https://open.spotify.com/album/38QezMZhYOWE1zfOyuFb1H"
+      },
+      "artists": [
+        {
+          "name": "Thomas Asselman",
+          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
+        },
+        {
+          "name": "morisan",
+          "url": "https://open.spotify.com/artist/6kdxzZCn5NEZPWv1F6O2wa"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Palmeiras",
+      "url": "https://open.spotify.com/track/6TzfLnIEEARemHC3ABqNwY"
     },
     {
       "album": {
@@ -2005,6 +2205,32 @@
     },
     {
       "album": {
+        "name": "roma to paris to jozi",
+        "url": "https://open.spotify.com/album/5VacYK4XzEKDG0C0VBP0Ha"
+      },
+      "artists": [
+        {
+          "name": "MiQu",
+          "url": "https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE"
+        },
+        {
+          "name": "St-Amour",
+          "url": "https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96"
+        },
+        {
+          "name": "KIMBER",
+          "url": "https://open.spotify.com/artist/0iHbzrLG18CgCsKxZVNGRE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135126,
+      "name": "roma to paris to jozi",
+      "url": "https://open.spotify.com/track/5oXdet7tsBaQjcfKBSSHxR"
+    },
+    {
+      "album": {
         "name": "Sangiovese",
         "url": "https://open.spotify.com/album/7ucPaIdoxL5sPtVT1usR6G"
       },
@@ -2074,6 +2300,32 @@
       "duration_ms": 235677,
       "name": "See You Tomorrow",
       "url": "https://open.spotify.com/track/4oKmYxPybOaSJdfljawHhX"
+    },
+    {
+      "album": {
+        "name": "she loves jazz",
+        "url": "https://open.spotify.com/album/4h8xKxXDjTOntDJBAr6EgO"
+      },
+      "artists": [
+        {
+          "name": "St-Amour",
+          "url": "https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96"
+        },
+        {
+          "name": "KIMBER",
+          "url": "https://open.spotify.com/artist/0iHbzrLG18CgCsKxZVNGRE"
+        },
+        {
+          "name": "MiQu",
+          "url": "https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156982,
+      "name": "she loves jazz",
+      "url": "https://open.spotify.com/track/6OwJpp1cHkaq9j6v3wqYCp"
     },
     {
       "album": {
@@ -2313,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Stencils",
+        "url": "https://open.spotify.com/album/6RtzqDPZm6BhSfZJfcEHVC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Moon",
+          "url": "https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168113,
+      "name": "Stencils",
+      "url": "https://open.spotify.com/track/463Lbeh622AWB00MTqxcZs"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5FWNWAJp0JTmywkKaN0vsW"
       },
@@ -2371,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Swing It",
+        "url": "https://open.spotify.com/album/1Lt7uDxByEAV00SqNHqh1I"
+      },
+      "artists": [
+        {
+          "name": "Bear Frantz",
+          "url": "https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "Swing It",
+      "url": "https://open.spotify.com/track/6itXfDv6NMTGuciHIXrY9j"
+    },
+    {
+      "album": {
         "name": "Talk to me.",
         "url": "https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb"
       },
@@ -2404,6 +2692,24 @@
       "duration_ms": 166779,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0rhGbOnbGcYjofYEPsWN4g"
+    },
+    {
+      "album": {
+        "name": "Traced Sunbed",
+        "url": "https://open.spotify.com/album/01pSWAzUPcX2THqIpjjAeR"
+      },
+      "artists": [
+        {
+          "name": "Minima Bleu",
+          "url": "https://open.spotify.com/artist/7lOlIIo25tGr1BhaFu9uJc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149714,
+      "name": "Traced Sunbed",
+      "url": "https://open.spotify.com/track/1rM4SYn1qsMpasnXoz1ZGD"
     },
     {
       "album": {
@@ -2530,6 +2836,24 @@
       "duration_ms": 196601,
       "name": "Velvety",
       "url": "https://open.spotify.com/track/4duiRZYrTr4oqINndygEv8"
+    },
+    {
+      "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/4AWPrx5blv5329KNEv3qzP"
+      },
+      "artists": [
+        {
+          "name": "Valea",
+          "url": "https://open.spotify.com/artist/0L6a5oSrR4lhV7LgJwNIR2"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/39ppHxmUzINffdhc95Kbni"
     },
     {
       "album": {

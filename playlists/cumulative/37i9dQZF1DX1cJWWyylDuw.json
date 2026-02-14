@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "A Place For Those Who Suffer, Alone",
+        "url": "https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd"
+      },
+      "artists": [
+        {
+          "name": "Survivalist",
+          "url": "https://open.spotify.com/artist/4H5Sej01zQdVBms4iFMTmA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225353,
+      "name": "A Place For Those Who Suffer, Alone",
+      "url": "https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j"
+    },
+    {
+      "album": {
         "name": "A Visceral Retch",
         "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
       },
@@ -2753,6 +2771,28 @@
     },
     {
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/1iCYlo0RMQxVykuDdP7ZoI"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        },
+        {
+          "name": "Traitors",
+          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165262,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/6aReakd0j3pySxoAjfa5CI"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4ZKxfg7g7Px3eWCee5UPEw"
       },
@@ -3778,7 +3818,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 138709,
       "name": "Disappoint Me",
       "url": "https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF"
@@ -3832,7 +3872,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 97295,
       "name": "Disfigured",
       "url": "https://open.spotify.com/track/5GV3docVmNAbEk7An8iX3S"
@@ -6501,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "Holy Death",
+        "url": "https://open.spotify.com/album/2glnk3PRUPF1zNxOOe9arS"
+      },
+      "artists": [
+        {
+          "name": "Impending Doom",
+          "url": "https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257485,
+      "name": "Holy Death",
+      "url": "https://open.spotify.com/track/2xUvkNRoAIp4rp9MklGcPn"
+    },
+    {
+      "album": {
         "name": "HOLY MOONLIGHT",
         "url": "https://open.spotify.com/album/3chxstOY9xzmGyR37xA869"
       },
@@ -6632,7 +6690,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 122336,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/3RQxQk5VKjxjewsgbq29vR"
@@ -6690,6 +6748,24 @@
       "duration_ms": 201426,
       "name": "I Am A Cursed One",
       "url": "https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R"
+    },
+    {
+      "album": {
+        "name": "I Am Endless",
+        "url": "https://open.spotify.com/album/3Q2LXJmlv0hOLBR5j4mzcw"
+      },
+      "artists": [
+        {
+          "name": "Gutrectomy",
+          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161559,
+      "name": "I Am Endless",
+      "url": "https://open.spotify.com/track/41xt8tleUDd0V6mLs8Z557"
     },
     {
       "album": {
@@ -9467,6 +9543,24 @@
     },
     {
       "album": {
+        "name": "Outta Pocket",
+        "url": "https://open.spotify.com/album/0WfrRSvg8RE72SOn431M93"
+      },
+      "artists": [
+        {
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200292,
+      "name": "Outta Pocket",
+      "url": "https://open.spotify.com/track/19P9LknWRtZNYlKEhNRs73"
+    },
+    {
+      "album": {
         "name": "Ov Agony",
         "url": "https://open.spotify.com/album/5Q0Tb9pZCCgDRRz515j5MN"
       },
@@ -10794,7 +10888,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 242644,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
@@ -11822,7 +11916,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164914,
       "name": "Sworn To Repay",
       "url": "https://open.spotify.com/track/7eotZ4yZxAh6ktFjowQnXA"
@@ -12374,7 +12468,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197614,
       "name": "The Isnis",
       "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
@@ -12414,6 +12508,24 @@
       "duration_ms": 295000,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9"
+    },
+    {
+      "album": {
+        "name": "The Maker",
+        "url": "https://open.spotify.com/album/3INCg86OumH3EymmO3Ytpz"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "The Maker",
+      "url": "https://open.spotify.com/track/5HuO6uXKZa5EzVPXrdNj4Z"
     },
     {
       "album": {

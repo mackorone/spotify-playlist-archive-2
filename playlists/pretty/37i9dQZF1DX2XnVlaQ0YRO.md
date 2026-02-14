@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,775 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,763 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 43 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 1:57 |
 | 44 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 |
 | 45 | [xmas feels](https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [xmas feels](https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX) | 2:20 |
-| 46 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
-| 47 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
-| 48 | [sleigh bells in the snow](https://open.spotify.com/track/0O2EQLVf4jOD3mpX2gnr5g) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas, Vol\. 3](https://open.spotify.com/album/5bbJd0Z2kYJ7Bzh26ubgkC) | 1:25 |
-| 49 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 |
-| 50 | [WINTER](https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [WINTER](https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg) | 1:55 |
+| 46 | [WINTER](https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [WINTER](https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg) | 1:55 |
+| 47 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
+| 48 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
+| 49 | [sleigh bells in the snow](https://open.spotify.com/track/0O2EQLVf4jOD3mpX2gnr5g) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas, Vol\. 3](https://open.spotify.com/album/5bbJd0Z2kYJ7Bzh26ubgkC) | 1:25 |
+| 50 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 |
 | 51 | [Driving Home For Christmas](https://open.spotify.com/track/7mWwxSmE7c48vBi7prMn0t) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Driving Home For Christmas](https://open.spotify.com/album/6XKOjoYnhSCY3WdJYcd19X) | 2:30 |
 | 52 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 |
 | 53 | [From all of us](https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [From all of us](https://open.spotify.com/album/4PBH9L1AHEX0aH4lMCKz10) | 2:11 |

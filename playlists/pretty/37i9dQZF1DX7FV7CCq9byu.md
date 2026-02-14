@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,800 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,815 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [](https://open.spotify.com/album/null) | 3:52 |
+| 1 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
 | 2 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 3 | [My System](https://open.spotify.com/track/3AfX2EhXub2DqgqJABSIXL) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/55lBliVODsfCzFU4eNHACy) | 3:02 |
 | 4 | [Viva L’Amor](https://open.spotify.com/track/0RcpZR36PfDvl4T02vepj6) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/212zx57XrNW8SbU7nFhznQ) | 3:01 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 7 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
 | 8 | [Ain't Today](https://open.spotify.com/track/6jUSZ7pXIrPXAUusFXA5Iy) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Ain't Today](https://open.spotify.com/album/6GexyDP7V43ceAa1PqKTEq) | 2:40 |
 | 9 | [Övertänker](https://open.spotify.com/track/3U573wJbbipFNpkGGE2pQh) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Övertänker](https://open.spotify.com/album/38tGxDfs43Mnsip0jruENW) | 3:23 |
-| 10 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [](https://open.spotify.com/album/null) | 3:03 |
+| 10 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 |
 | 11 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 | 12 | [Hurts](https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Hurts](https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7) | 2:42 |
 | 13 | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 |

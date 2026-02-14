@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,734 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,761 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Funny Valentine](https://open.spotify.com/track/5rXxnp0uCZzmbMmtm4kaan) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Adams](https://open.spotify.com/artist/37QLkrME5whPbL9uFrvOyJ) | [Funny Valentine](https://open.spotify.com/album/5t1xFZTzHUxB0l3geZEuad) | 2:52 |
+| 1 | [Funny Valentine](https://open.spotify.com/track/5rXxnp0uCZzmbMmtm4kaan) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Adams](https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv) | [Funny Valentine](https://open.spotify.com/album/5t1xFZTzHUxB0l3geZEuad) | 2:52 |
 | 2 | [50 CENT](https://open.spotify.com/track/27f62QDRVencjisrZxarp9) | [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [50 CENT](https://open.spotify.com/album/0urfxc46odu6zD7UvZlHyI) | 2:21 |
 | 3 | [EURO](https://open.spotify.com/track/5bawdjcd7m36kjJ4ChnqLn) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [BTK 187](https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz) | [Dope Sport \(Vol.3\)](https://open.spotify.com/album/38mlNJEqWEVsA26F9EtBMN) | 3:32 |
 | 4 | [BOYKA](https://open.spotify.com/track/6XMikOosYV3xFiDOUFJ9LK) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Xjay](https://open.spotify.com/artist/5KJRGPvZ4vizdn8Zm60ySN) | [BOYKA](https://open.spotify.com/album/28tc22zEAO5QTsieSJ5HJd) | 2:59 |

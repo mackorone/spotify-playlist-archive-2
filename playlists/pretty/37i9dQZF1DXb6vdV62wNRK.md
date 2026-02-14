@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 
 > Tus corridos favoritos, ahora en video\. Los Dos Carnales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,511 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,556 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 43 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 |
 | 44 | [De Corazón Ranchero](https://open.spotify.com/track/7pSyXdMmBRyP2u6thifY7R) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [De Corazón Ranchero](https://open.spotify.com/album/3ErzeWsZICRUwhe7lXZZs0) | 3:38 |
 | 45 | [El Prostipirugolfo](https://open.spotify.com/track/48rJQa3TdMfnPJxh1oPxsZ) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [15 Exitos](https://open.spotify.com/album/12DzNqjx3qzgiPoPbal8Vq) | 3:06 |
-| 46 | [Modelo V](https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Modelo V](https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd) | 3:10 |
+| 46 | [MODELO V](https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [MODELO V](https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd) | 3:10 |
 | 47 | [La Imagen De Malverde](https://open.spotify.com/track/3F83zLAxqdvnH9fPYeoFAR) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [MS 20 Años](https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj) | 2:46 |
 | 48 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 49 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 |

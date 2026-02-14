@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "Bang Bang!",
+        "url": "https://open.spotify.com/album/1f5H6sr9MBTBLBe2ZdjYmb"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        },
+        {
+          "name": "Mc Pb\u00f3",
+          "url": "https://open.spotify.com/artist/3D7PMz4E8Qb54xqv77B8Nv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Bang Bang!",
+      "url": "https://open.spotify.com/track/1CxB3pq41FeSTAIhctsRC8"
+    },
+    {
+      "album": {
         "name": "Bassy",
         "url": "https://open.spotify.com/album/3Xp5SwA4MCJmD5xtyGk1Y1"
       },
@@ -2654,7 +2676,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 169153,
       "name": "Can't Get Over (Mojjo Remix)",
       "url": "https://open.spotify.com/track/2MwQK0evUVt6B9oSMeLBEO"
@@ -6269,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "Gaita Killa",
+        "url": "https://open.spotify.com/album/4eBo5OqTKL2Zlc0qZsBFpI"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120362,
+      "name": "Gaita Killa",
+      "url": "https://open.spotify.com/track/2fCBVU0AAba9GgJ2PhkneC"
+    },
+    {
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme"
       },
@@ -6906,6 +6946,28 @@
       "duration_ms": 174374,
       "name": "Hardcore Acid - Radio Edit",
       "url": "https://open.spotify.com/track/5MevIegYSDg6tDSaHHFhid"
+    },
+    {
+      "album": {
+        "name": "Hear It",
+        "url": "https://open.spotify.com/album/07RZ8CLwCSRPUpa4GbcaBX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191363,
+      "name": "Hear It",
+      "url": "https://open.spotify.com/track/4wEcWmgrx7ANAS1TVmaXe5"
     },
     {
       "album": {
@@ -7704,7 +7766,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 200000,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/0oB27pvYWke8lDl7gWcnrH"
@@ -7898,7 +7960,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 257040,
       "name": "I WISH (RUBACK REMIX)",
       "url": "https://open.spotify.com/track/4FrWeBnRRBBAIQw1RbHugb"
@@ -8200,6 +8262,24 @@
       "duration_ms": 165135,
       "name": "In Love Today",
       "url": "https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
     },
     {
       "album": {
@@ -9976,6 +10056,24 @@
       "duration_ms": 208524,
       "name": "Lost In The 90s",
       "url": "https://open.spotify.com/track/4bQJw0NoTkSJcrBjMy1C8G"
+    },
+    {
+      "album": {
+        "name": "Lotus 72D",
+        "url": "https://open.spotify.com/album/35xIg31gSD0GI3c7q7IqtL"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Lotus 72D",
+      "url": "https://open.spotify.com/track/3yNzOggdlDyZeUhLJS52nE"
     },
     {
       "album": {
@@ -17040,7 +17138,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 159108,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/7qkw87ly248gVb6MzkWy8U"

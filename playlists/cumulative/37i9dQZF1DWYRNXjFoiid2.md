@@ -4,11 +4,11 @@
 
 > Pop to fuel your gaming\. Cover: KATSEYE
 
-448 songs - 21 hr 58 min
+450 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3uTPusLAtkgqi3UBPKCEos) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Radio](https://open.spotify.com/album/7cCKrmlo80pWW0sKgR5QRe) | 0:00 | 2025-11-25 |  |
+| [](https://open.spotify.com/track/3uTPusLAtkgqi3UBPKCEos) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Radio](https://open.spotify.com/album/7cCKrmlo80pWW0sKgR5QRe) | 0:00 | 2025-11-25 | 2026-02-14 |
 | [1\-800](https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Ironmouse](https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C) | [1\-800](https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI) | 3:29 | 2025-06-27 |  |
 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-28 | 2023-03-04 |
 | [2WORLDS](https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [2WORLDS](https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr) | 2:29 | 2024-03-25 | 2024-06-29 |
@@ -39,6 +39,7 @@
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2022-04-15 | 2023-04-09 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-04-15 | 2022-08-13 |
 | [BANDIT](https://open.spotify.com/track/4R0SPddrt2NeNPbm0iGzsX) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [HIVE](https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A) | 3:09 | 2022-06-10 | 2022-07-28 |
+| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-13 |  |
 | [Bang!](https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 2:50 | 2024-01-26 | 2024-04-17 |
 | [Bang!](https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3) | 2:50 | 2021-10-22 | 2022-07-29 |
 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 | 2022-07-26 | 2023-11-04 |
@@ -60,7 +61,7 @@
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2021-10-22 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-04-07 |  |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2021-10-22 | 2023-05-06 |
-| [Bubble Pop Electric](https://open.spotify.com/track/4xGcrf91kiTJkgWrApXa1K) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/04g654gY6TmfogGWQLxR4a) | 3:42 | 2024-12-13 |  |
+| [Bubble Pop Electric](https://open.spotify.com/track/4xGcrf91kiTJkgWrApXa1K) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/04g654gY6TmfogGWQLxR4a) | 3:42 | 2024-12-13 | 2026-02-14 |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 | 2023-11-01 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-04-07 |  |
 | [Can You Feel It?](https://open.spotify.com/track/7JIguoPVeFrm48Mjx7TTvQ) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Can You Feel It?](https://open.spotify.com/album/6WI1Qyo6IcbIq8zPOnaJYq) | 3:04 | 2024-06-06 | 2024-10-12 |
@@ -187,6 +188,7 @@
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-05 | 2023-07-25 |
 | [Hot Together](https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Hot Together \(Expanded Edition\)](https://open.spotify.com/album/3zqXEoZHyNuY83hlQa201O) | 4:13 | 2025-05-09 | 2025-05-24 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-11 | 2022-04-16 |
+| [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-02-13 |  |
 | [I am not a woman, I'm a god](https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:56 | 2021-10-22 | 2022-04-16 |
 | [i could die](https://open.spotify.com/track/3M94jcrpYyJpMDkvoriPYC) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i could die](https://open.spotify.com/album/4qZnP5lDjnUhm9p8doZJBo) | 2:35 | 2022-06-10 | 2022-07-16 |
 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-02-24 | 2023-05-16 |

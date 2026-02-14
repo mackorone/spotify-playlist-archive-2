@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-1,535 songs - 3 day 9 hr 38 min
+1,535 songs - 3 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Joy](https://open.spotify.com/track/393nJe8YyZXrx7uJDmlGT5) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Joy](https://open.spotify.com/album/4t0XROk7L1wPmWdjSX0LrP) | 2:26 | 2025-08-15 | 2026-02-06 |
 | [JOY](https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [JOY](https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol) | 3:02 | 2025-09-05 | 2025-11-07 |
 | [JOY](https://open.spotify.com/track/2uEr4hQ9rgJyZ8wJjN0Jpn) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [JOY](https://open.spotify.com/album/0sC0828IoUHMvCKjPbkvvA) | 2:14 | 2023-02-02 | 2023-04-28 |
+| [Joy](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:26 | 2026-02-13 |  |
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2023-02-02 | 2023-05-12 |
 | [Joy Down Deep](https://open.spotify.com/track/7qgwTetzQEUkehguE3VYGD) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [Joy Down Deep](https://open.spotify.com/album/2CcgIKNjy0wvCQWIqRdowB) | 3:08 | 2024-12-06 | 2025-01-10 |
 | [Joy In Chaos](https://open.spotify.com/track/6wKeFoZA2ExBtFNcHdkqnI) | [Dj Bentoa](https://open.spotify.com/artist/39TG7mv7cuey0ak7YNUpZx), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Joy In Chaos](https://open.spotify.com/album/5Paj4xB9UeRHpUlTL9Vqtn) | 2:26 | 2023-06-09 | 2023-07-28 |
@@ -1380,7 +1381,6 @@
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 | 2023-07-14 | 2023-09-08 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 |  |
-| [Track 5](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Treasure](https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Treasure](https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj) | 2:44 | 2023-02-02 | 2023-03-11 |
 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 | 2025-04-04 | 2025-06-20 |
 | [Triumphant Entry](https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls) | [GCAi](https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw), [Dee Minor](https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV) | [Triumphant Entry](https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg) | 3:00 | 2023-07-21 | 2023-07-28 |

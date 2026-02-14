@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Noni
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,970 likes - 104 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,988 likes - 104 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 7 | [13th February](https://open.spotify.com/track/3L5UcChdt6KE6nBlP41ddH) | [Rama Setiawan](https://open.spotify.com/artist/3x4QdbY16rr4lCuW7PSfbO) | [13th February](https://open.spotify.com/album/33e613wVCoRoLTlrjEA7Wq) | 4:54 |
 | 8 | [If Only](https://open.spotify.com/track/10senvCSUmMPgm4Yg6rbZF) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [BUT, IT'S OKAY.](https://open.spotify.com/album/6RHRp63nNfQIspQxRtLj7s) | 3:46 |
 | 9 | [Blueberry Pie](https://open.spotify.com/track/3hzrqBqKYzH0DDcKQD2jzy) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Blueberry Pie](https://open.spotify.com/album/364RXnlRcgtFki0T4FQEwI) | 3:12 |
-| 10 | [The Raising Man \(From Ghost In The Cell\)](https://open.spotify.com/track/6lK5DItMTzL8M9vPfmczsY) | [Tony Merle](https://open.spotify.com/artist/0H3zZDfgStyDLmXyYsEbvU), [Salim Lubis](https://open.spotify.com/artist/1obCpOs5IobBUuRXjc6xho) | [The Raising Man \(From Ghost In The Cell\)](https://open.spotify.com/album/6XMRqNiwcZBRKZ4Me9ChLH) | 3:16 |
+| 10 | [The Rising Man \(From Ghost In The Cell\)](https://open.spotify.com/track/6lK5DItMTzL8M9vPfmczsY) | [Tony Merle](https://open.spotify.com/artist/0H3zZDfgStyDLmXyYsEbvU), [Salim Lubis](https://open.spotify.com/artist/1obCpOs5IobBUuRXjc6xho) | [The Rising Man \(From Ghost In The Cell\)](https://open.spotify.com/album/6XMRqNiwcZBRKZ4Me9ChLH) | 3:16 |
 | 11 | [Mother Tongue](https://open.spotify.com/track/5cG4DL30OjzMIJwpJtjETa) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Dorothy Chan](https://open.spotify.com/artist/1Vtc3DwCV0rwTPrqM0g4JN) | [Mother Tongue](https://open.spotify.com/album/7miEy7gOIovPnonf2afoWq) | 3:39 |
 | 12 | [The Rise After](https://open.spotify.com/track/2q0I2mcySQzkwb6naL4Dek) | [Song Brothers](https://open.spotify.com/artist/4BroLk4RM2ZByrC7rpDb6V) | [The Rise After](https://open.spotify.com/album/3KSZSMVim0c95wV6eWGtl9) | 5:03 |
 | 13 | [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,895 songs - 4 day 8 hr 23 min
+1,896 songs - 4 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1351,7 +1351,8 @@
 | [Pé na Areia](https://open.spotify.com/track/2Ki2eKWyUq0a75yDNlreQA) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Pé na Areia](https://open.spotify.com/album/1OLQjH7XeZDm51XYpjbrTY) | 2:58 | 2025-08-22 | 2025-09-16 |
 | [Pé no Mar](https://open.spotify.com/track/4hL6Jr0nOm5erNhCv7FpCT) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:49 | 2024-02-17 | 2024-02-29 |
 | [PÉ NOVO](https://open.spotify.com/track/7432vfk7lMjvBKYWwcu2Uh) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 2:59 | 2023-01-21 | 2023-01-23 |
-| [Pôr do Sol](https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pôr do Sol](https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA) | 2:40 | 2025-04-17 |  |
+| [Pôr do Sol](https://open.spotify.com/track/28sm6HF9h0LgsbDQt7lfw6) | [basq1](https://open.spotify.com/artist/5kpUyMNTOKjrRLMBRMryDx) | [Pôr do Sol](https://open.spotify.com/album/2PKD3rfCXNo4pZvT59JKjT) | 2:40 | 2026-02-13 |  |
+| [Pôr do Sol](https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pôr do Sol](https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA) | 2:40 | 2025-04-17 | 2026-02-14 |
 | [Qual é seu desejo?](https://open.spotify.com/track/5RTMpECEVHy3H9jtn7HKi5) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 2:33 | 2024-06-28 | 2024-07-09 |
 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 | 2024-03-01 | 2024-06-29 |
 | [Qualquer\-Feira](https://open.spotify.com/track/29QDgz4rRKiT2oB0hMgq8E) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Zeca](https://open.spotify.com/artist/50Kk1MTTj6O5p0CihE1Lhq), [Tiwi](https://open.spotify.com/artist/0XQ4RowSt9nDM7SXpTCqNU) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:06 | 2024-02-17 | 2024-03-03 |

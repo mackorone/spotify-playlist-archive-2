@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Souly",
-  "num_followers": 577955,
+  "num_followers": 577931,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -307,8 +307,8 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Farben",
+        "url": "https://open.spotify.com/album/5SWddhongXa7QPNmKdSPNR"
       },
       "artists": [
         {
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 216201,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
         "name": "Sch\u00f6ne Dinge",
         "url": "https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 159383,
       "name": "Sch\u00f6ne Dinge",
       "url": "https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 216201,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "SCHNEE",
-        "url": "https://open.spotify.com/album/1MmuITHGU6KSKtX890WSaJ"
-      },
-      "artists": [
-        {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
-        }
-      ],
-      "duration_ms": 140844,
-      "name": "SCHNEE",
-      "url": "https://open.spotify.com/track/3QqsYd6OSGLnwCQ9ahRhNe"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "SCHNEE",
+        "url": "https://open.spotify.com/album/1MmuITHGU6KSKtX890WSaJ"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 140844,
+      "name": "SCHNEE",
+      "url": "https://open.spotify.com/track/3QqsYd6OSGLnwCQ9ahRhNe"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Geboren um zu leben",
-        "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 168727,
-      "name": "Geboren um zu leben",
-      "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Sch\u00f6n, dass du da warst",
         "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 167847,
       "name": "Sch\u00f6n, dass du da warst",
       "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "Geboren um zu leben",
+        "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "Geboren um zu leben",
+      "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
+        "name": "H\u00c4SSLICH",
+        "url": "https://open.spotify.com/album/1xvE8ZQ6pUO0E76X2CpX21"
+      },
+      "artists": [
+        {
+          "name": "Ramazan",
+          "url": "https://open.spotify.com/artist/5nZ1QrOYHyb1x8DrLjwFJE"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "H\u00c4SSLICH",
+      "url": "https://open.spotify.com/track/0JsthgmpLbNvAnFkDSA9AM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
         "name": "Anderer Mann",
         "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
       },
@@ -651,62 +667,6 @@
       "duration_ms": 135294,
       "name": "Anderer Mann",
       "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Die Hoffnung klaut mir Niemand",
-        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Die Sonne",
-      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "WEEKEND",
-        "url": "https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "WEEKEND",
-      "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Regentage",
-        "url": "https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0"
-      },
-      "artists": [
-        {
-          "name": "Souly",
-          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
-        },
-        {
-          "name": "Lucio101",
-          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "Regentage",
-      "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -731,34 +691,42 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "H\u00c4SSLICH",
-        "url": "https://open.spotify.com/album/1xvE8ZQ6pUO0E76X2CpX21"
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
       "artists": [
         {
-          "name": "Ramazan",
-          "url": "https://open.spotify.com/artist/5nZ1QrOYHyb1x8DrLjwFJE"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
         }
       ],
-      "duration_ms": 142417,
-      "name": "H\u00c4SSLICH",
-      "url": "https://open.spotify.com/track/0JsthgmpLbNvAnFkDSA9AM"
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
     },
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+        "name": "Regentage",
+        "url": "https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
         }
       ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+      "duration_ms": 178217,
+      "name": "Regentage",
+      "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -787,18 +755,34 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Bitte sei vorsichtig",
-        "url": "https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C"
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
       "artists": [
         {
-          "name": "Jassin",
-          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 156786,
-      "name": "Bitte sei vorsichtig",
-      "url": "https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C"
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "WEEKEND",
+        "url": "https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "WEEKEND",
+      "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -815,6 +799,22 @@
       "duration_ms": 129705,
       "name": "L\u00e4cheln (Wenn ich wein)",
       "url": "https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "Bitte sei vorsichtig",
+        "url": "https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "duration_ms": 156786,
+      "name": "Bitte sei vorsichtig",
+      "url": "https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Gezeichnet von dir",
-        "url": "https://open.spotify.com/album/74f5BH05TncUY0a5t1jnN8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "Gezeichnet von dir",
-      "url": "https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Ruf mich an",
         "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 180000,
       "name": "Ruf mich an",
       "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "Gezeichnet von dir",
+        "url": "https://open.spotify.com/album/74f5BH05TncUY0a5t1jnN8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Gezeichnet von dir",
+      "url": "https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -915,22 +915,18 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/5tg7jbsX64TRY2pOT7Getz"
+        "name": "Weg hier raus",
+        "url": "https://open.spotify.com/album/5V4Ohz7rQcxC6e7CbnQ6rM"
       },
       "artists": [
         {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        },
-        {
-          "name": "Sasan",
-          "url": "https://open.spotify.com/artist/0iXuyaxgJ7Vx4bWExnUrMd"
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
         }
       ],
-      "duration_ms": 182478,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/0x6Dd2PjKpp50UHtQF2xqF"
+      "duration_ms": 179032,
+      "name": "Weg hier raus",
+      "url": "https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -955,18 +951,22 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Weg hier raus",
-        "url": "https://open.spotify.com/album/5V4Ohz7rQcxC6e7CbnQ6rM"
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/5tg7jbsX64TRY2pOT7Getz"
       },
       "artists": [
         {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "Sasan",
+          "url": "https://open.spotify.com/artist/0iXuyaxgJ7Vx4bWExnUrMd"
         }
       ],
-      "duration_ms": 179032,
-      "name": "Weg hier raus",
-      "url": "https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp"
+      "duration_ms": 182478,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/0x6Dd2PjKpp50UHtQF2xqF"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/5lnMtsg8OiHho7I0vQ7LmR"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 193416,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/13AzsOOlv5lwEeKsI1pAUt"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
         "name": "Welt retten",
         "url": "https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 160973,
       "name": "Welt retten",
       "url": "https://open.spotify.com/track/7ivlSMMxwPHgFg8ypAmswU"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Wolken",
-        "url": "https://open.spotify.com/album/5lnMtsg8OiHho7I0vQ7LmR"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 193416,
-      "name": "Wolken",
-      "url": "https://open.spotify.com/track/13AzsOOlv5lwEeKsI1pAUt"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Dieses eine Lied",
-        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
-      },
-      "artists": [
-        {
-          "name": "Jassin",
-          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
-        }
-      ],
-      "duration_ms": 142502,
-      "name": "Dieses eine Lied",
-      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Liebe ist ein Dieb",
         "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Ich hoff",
-        "url": "https://open.spotify.com/album/5AQKC9RMfb6b0KSI6GbhQy"
+        "name": "Dieses eine Lied",
+        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
       },
       "artists": [
         {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
         }
       ],
-      "duration_ms": 146012,
-      "name": "Ich hoff",
-      "url": "https://open.spotify.com/track/1taMWidwpvYK54tseGqXcH"
+      "duration_ms": 142502,
+      "name": "Dieses eine Lied",
+      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1235,6 +1219,22 @@
       "duration_ms": 195692,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "Ich hoff",
+        "url": "https://open.spotify.com/album/5AQKC9RMfb6b0KSI6GbhQy"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 146012,
+      "name": "Ich hoff",
+      "url": "https://open.spotify.com/track/1taMWidwpvYK54tseGqXcH"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Schwarzer Tee",
-        "url": "https://open.spotify.com/album/3wMBW5OwobEyf47dp0eBn1"
-      },
-      "artists": [
-        {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        }
-      ],
-      "duration_ms": 143067,
-      "name": "Schwarzer Tee",
-      "url": "https://open.spotify.com/track/4aX1MyFakzqWsvP0YMwtvc"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Wer liebt dich jetzt ?",
         "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
       },
@@ -1335,22 +1319,18 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "WENN DU MICH SIEHST",
-        "url": "https://open.spotify.com/album/0t2cctF8dF0vWFLd6HKex2"
+        "name": "Schwarzer Tee",
+        "url": "https://open.spotify.com/album/3wMBW5OwobEyf47dp0eBn1"
       },
       "artists": [
         {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
-        },
-        {
-          "name": "HoodBlaq",
-          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
         }
       ],
-      "duration_ms": 159500,
-      "name": "WENN DU MICH SIEHST",
-      "url": "https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA"
+      "duration_ms": 143067,
+      "name": "Schwarzer Tee",
+      "url": "https://open.spotify.com/track/4aX1MyFakzqWsvP0YMwtvc"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1379,18 +1359,22 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Universum regelt",
-        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+        "name": "WENN DU MICH SIEHST",
+        "url": "https://open.spotify.com/album/0t2cctF8dF0vWFLd6HKex2"
       },
       "artists": [
         {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
         }
       ],
-      "duration_ms": 147852,
-      "name": "H\u00f6henangst",
-      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
+      "duration_ms": 159500,
+      "name": "WENN DU MICH SIEHST",
+      "url": "https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1407,6 +1391,22 @@
       "duration_ms": 111206,
       "name": "Mach die Augen auf",
       "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "Universum regelt",
+        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "duration_ms": 147852,
+      "name": "H\u00f6henangst",
+      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Augen tr\u00e4umen Herzen sehen",
-        "url": "https://open.spotify.com/album/1ARwY4w7bNbAcVL2ngxk2l"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 177254,
-      "name": "Das Gl\u00fcck",
-      "url": "https://open.spotify.com/track/3uLOR8AtwJR8yy9sRXqD78"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Weisse Orchideen",
         "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 177208,
       "name": "Weisse Orchideen",
       "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "Augen tr\u00e4umen Herzen sehen",
+        "url": "https://open.spotify.com/album/1ARwY4w7bNbAcVL2ngxk2l"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 177254,
+      "name": "Das Gl\u00fcck",
+      "url": "https://open.spotify.com/track/3uLOR8AtwJR8yy9sRXqD78"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "2k16 (weisst du noch?)",
-        "url": "https://open.spotify.com/album/6hLoNsUVECPm8QadaRfwpm"
-      },
-      "artists": [
-        {
-          "name": "CAMO23",
-          "url": "https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C"
-        },
-        {
-          "name": "YBRE",
-          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "2k16 (weisst du noch?)",
-      "url": "https://open.spotify.com/track/2ZZslwE85qLLvtZWODRcVD"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -1563,6 +1543,22 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 166748,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1635,34 +1631,22 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
+        "name": "2k16 (weisst du noch?)",
+        "url": "https://open.spotify.com/album/6hLoNsUVECPm8QadaRfwpm"
       },
       "artists": [
         {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 166748,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "EIN TEIL VON MIR",
-        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
-      },
-      "artists": [
+          "name": "CAMO23",
+          "url": "https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C"
+        },
         {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+          "name": "YBRE",
+          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
         }
       ],
-      "duration_ms": 165960,
-      "name": "EIN TEIL VON MIR",
-      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
+      "duration_ms": 120000,
+      "name": "2k16 (weisst du noch?)",
+      "url": "https://open.spotify.com/track/2ZZslwE85qLLvtZWODRcVD"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1683,6 +1667,22 @@
       "duration_ms": 160653,
       "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
       "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "EIN TEIL VON MIR",
+        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "EIN TEIL VON MIR",
+      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 123818,
-      "name": "Malediven",
-      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
         "name": "Mein Type",
         "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
+    },
+    {
+      "added_at": "2026-02-12 23:00:32",
+      "album": {
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
     },
     {
       "added_at": "2026-02-12 23:00:32",
@@ -1791,22 +1791,22 @@
     {
       "added_at": "2026-02-12 23:00:32",
       "album": {
-        "name": "Weinst du",
-        "url": "https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1"
+        "name": "Was du nicht siehst (feat. ela.)",
+        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
       },
       "artists": [
         {
-          "name": "Stickle",
-          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
         },
         {
-          "name": "Souly",
-          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
         }
       ],
-      "duration_ms": 136564,
-      "name": "Weinst du",
-      "url": "https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ"
+      "duration_ms": 151704,
+      "name": "Was du nicht siehst (feat. ela.)",
+      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
     },
     {
       "added_at": "2026-02-12 23:00:32",

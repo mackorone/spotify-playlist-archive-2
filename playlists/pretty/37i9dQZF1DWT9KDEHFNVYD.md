@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,534 likes - 100 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,539 likes - 100 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 13 | [Dystopia](https://open.spotify.com/track/28UicvnldRX6YVPjZ27vQN) | [Mark Lunberg](https://open.spotify.com/artist/1vof3GoGSrFpxd075PLQ0G) | [Dystopia](https://open.spotify.com/album/7H4C6myh8N2WsgWNv8wXpK) | 1:55 |
 | 14 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
 | 15 | [The Rip](https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS) | 4:30 |
-| 16 | [Nana](https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:13 |
+| 16 | [Cemalım](https://open.spotify.com/track/4NYQ1giz24QOgb2MYajhBi) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt) | 4:02 |
 | 17 | [Ankle Injuries](https://open.spotify.com/track/4FnRRY3oEAor3gMEvsuBrp) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 5:05 |
-| 18 | [Lie In the Gutter](https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 3:39 |
+| 18 | [Nana](https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:13 |
 | 19 | [Sea Within A Sea](https://open.spotify.com/track/6NwkAlnyJTL5mPAQuK3i36) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Primary Colours](https://open.spotify.com/album/2py8SDBSpqHHlFPlExqDKp) | 7:58 |
-| 20 | [Cemalım](https://open.spotify.com/track/4NYQ1giz24QOgb2MYajhBi) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt) | 4:02 |
+| 20 | [Lie In the Gutter](https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 3:39 |
 | 21 | [Hero](https://open.spotify.com/track/6tQvfblsmRCrZXx7xhDCqT) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 7:11 |
 | 22 | [Hollywood](https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 4:45 |
 | 23 | [Spiders \(Kidsmoke\)](https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 10:42 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 55 | [Schwebebahn](https://open.spotify.com/track/6vaycV6nN0pRo9lSZLPKLI) | [Hoelderlin](https://open.spotify.com/artist/6KdRTV8GYYhX8hhPWbTZk3) | [Hoelderlin](https://open.spotify.com/album/37rnY9C3CxIq0c1YLSHCcR) | 7:22 |
 | 56 | [Cassettesingle](https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 6:31 |
 | 57 | [Nearby Shiras](https://open.spotify.com/track/6lOZ15WheIfHMfsvr8iK3Q) | [Kalacakra](https://open.spotify.com/artist/4boGEDgw8Kuy07kWFiuIls) | [Crawling to Lhasa](https://open.spotify.com/album/0j47nvtM2sdo6mULT3tf1C) | 9:13 |
-| 58 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
+| 58 | [Crazy Love](https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h) | [Colder](https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG) | [Again](https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR) | 5:11 |
 | 59 | [Ich geh den Weg mit dir](https://open.spotify.com/track/61hXgmELye3W0q67kPCYEz) | [Musiccargo](https://open.spotify.com/artist/3PfsferIgZ7wACP0HcP329) | [Future Sounds Of Kraut Vol\. 1 \- compiled by Fred und Luna](https://open.spotify.com/album/1UDLKtbsdX65ZQVW5rPfx4) | 6:18 |
-| 60 | [Crazy Love](https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h) | [Colder](https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG) | [Again](https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR) | 5:11 |
+| 60 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 61 | [Can't Get There](https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Can't Get There EP](https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm) | 7:17 |
 | 62 | [Bang \- Peanut Butter Wolf Remix](https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang \(Peanut Butter Wolf Remix\)](https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24) | 4:08 |
 | 63 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 89 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 90 | [E\-Go](https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 6:54 |
 | 91 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 |
-| 92 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
-| 93 | [Tonband Laufspur](https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:32 |
+| 92 | [Tonband Laufspur](https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:32 |
+| 93 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
 | 94 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
 | 95 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
 | 96 | [La Luna](https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51) | [Plank!](https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH) | [Plank!](https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ) | 4:36 |
 | 97 | [If You Miss](https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Silver Apples of the Moon](https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR) | 5:19 |
-| 98 | [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 |
-| 99 | [Synchron](https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Remember I Was Carbon Dioxide](https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX) | 4:24 |
-| 100 | [Trees](https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY) | [Blurt](https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY) | [Blurt + Singles](https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN) | 6:51 |
+| 98 | [Synchron](https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Remember I Was Carbon Dioxide](https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX) | 4:24 |
+| 99 | [Trees](https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY) | [Blurt](https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY) | [Blurt + Singles](https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN) | 6:51 |
+| 100 | [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 |
 
 Snapshot ID: `AAAAAGApqaNQ+9hWUQMHq1K2ImWMSiO+`

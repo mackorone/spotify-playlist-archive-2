@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,068 likes - 84 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,067 likes - 84 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 33 | [Booty Dance](https://open.spotify.com/track/3NKIETK259038LjUWzDCYZ) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn) | [Booty Dance](https://open.spotify.com/album/7akBe6WnWMEiFnoyargjXb) | 3:03 |
 | 34 | [Icky Boyz](https://open.spotify.com/track/277hRJkk5W8GKzdBZ67Q1l) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [Icky Boyz](https://open.spotify.com/album/4Wi5VeEYchfdVcThpnC7Tn) | 2:23 |
 | 35 | [Sorbet \- LSDXOXO Remix](https://open.spotify.com/track/6agcpxNbvaijdICaroWF9g) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:31 |
-| 36 | [HI MY NAME IS](https://open.spotify.com/track/4BIG0loMauvi6cRICJ8Z8y) | [Farrah Fawx](https://open.spotify.com/artist/5xcBwfNxf3WXLFZcNhu2Cy), [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [HI MY NAME IS](https://open.spotify.com/album/5m0Y7PFytk33nQoBKhU09M) | 2:19 |
+| 36 | [HI MY NAME IS](https://open.spotify.com/track/4BIG0loMauvi6cRICJ8Z8y) | [Farrah Fawx](https://open.spotify.com/artist/5xcBwfNxf3WXLFZcNhu2Cy), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [HI MY NAME IS](https://open.spotify.com/album/5m0Y7PFytk33nQoBKhU09M) | 2:19 |
 | 37 | [Heatstroke](https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ) | 2:46 |
 | 38 | [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 |
 | 39 | [U Got Me](https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [U Got Me](https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb) | 3:21 |

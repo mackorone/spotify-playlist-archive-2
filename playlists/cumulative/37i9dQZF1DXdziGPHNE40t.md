@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-749 songs - 1 day 20 hr 18 min
+751 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Deep Purple](https://open.spotify.com/track/5Ke4IJIfRq22AQmJAQY4y0) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep Purple](https://open.spotify.com/album/1Emo8vKq8MJz1mDRFBrKKT) | 2:37 | 2025-03-24 | 2025-07-16 |
 | [Deeply Touched](https://open.spotify.com/track/5e8bKf7ZObQK4hr0HHTJ67) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Deeply Touched](https://open.spotify.com/album/1oVHFG6SeLugq8gcqdDuqR) | 2:44 | 2024-08-06 | 2025-01-28 |
 | [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 | 2024-07-13 |
-| [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
+| [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 | 2026-02-14 |
 | [Didn't know who else to call](https://open.spotify.com/track/2me6tmgT1A8d3R9stvr2UK) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Didn't know who else to call](https://open.spotify.com/album/453PIOiFYjFsoANz9ieG2P) | 3:31 | 2022-11-24 | 2024-12-04 |
 | [Dimness](https://open.spotify.com/track/5IVl86u3PwXeo73x3tFBEh) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Dimness](https://open.spotify.com/album/5gcieuuevVgn5pfCTix7lO) | 3:19 | 2024-02-23 | 2024-07-23 |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 | 2025-07-16 |
@@ -524,7 +524,7 @@
 | [Seven Sisters](https://open.spotify.com/track/4OWvaKUoGcfoONsIMs1NYc) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Seven Sisters](https://open.spotify.com/album/1c8r3yfU1kAbJNl8m1TCaq) | 3:37 | 2024-02-02 | 2024-10-08 |
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 | 2023-03-10 |
 | [Share Your Thoughts](https://open.spotify.com/track/7FFDuCnA89MRFx8uLlXExl) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Share Your Thoughts](https://open.spotify.com/album/3Y64njpBy4PbXBgXr9OsK3) | 4:26 | 2024-10-07 | 2025-07-16 |
-| [She Will See](https://open.spotify.com/track/0s0AhYDW4jPHJJhDRAtFEx) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [She Will See](https://open.spotify.com/album/2wlYTTs2V7LEFlk3M0M7dq) | 3:41 | 2025-12-09 |  |
+| [She Will See](https://open.spotify.com/track/0s0AhYDW4jPHJJhDRAtFEx) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [She Will See](https://open.spotify.com/album/2wlYTTs2V7LEFlk3M0M7dq) | 3:41 | 2025-12-09 | 2026-02-14 |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 | 2024-07-13 |
 | [Shepherd's Waltz](https://open.spotify.com/track/129rHAg0Oyio84aX7IngRu) | [Erik Vårdstedt](https://open.spotify.com/artist/4PTKCoxmZgZigpelRdhQgY) | [Shepherd's Waltz](https://open.spotify.com/album/66V7L7DyJg4Y5BsrAtY0QG) | 2:50 | 2023-05-25 | 2025-07-02 |
 | [Sidewalk](https://open.spotify.com/track/6Zzs5cbn5V6M3NkIfdLh8x) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Sidewalk](https://open.spotify.com/album/3QUPNKcifdHWwhsUPWVbFJ) | 4:32 | 2024-05-23 | 2024-08-20 |
@@ -570,6 +570,7 @@
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 | 2023-08-11 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/5sWTcqdCKz7TRkNmpzzugO) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7jLLNt8BKEh0GuB9vXTyWc) | 3:38 | 2025-03-03 |  |
 | [Spring Feelings](https://open.spotify.com/track/2ljRjL6yNdeBPVityJweAU) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Spring Feelings](https://open.spotify.com/album/29LIAF8yItrGpGJToDvRI9) | 3:10 | 2024-04-02 | 2025-03-04 |
+| [Spring Into Summer](https://open.spotify.com/track/7GNH7oxM6xq3WljPf92P9U) | [The Soft Geometry](https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr) | [Spring Into Summer](https://open.spotify.com/album/0BwYFXtc4ZJrDkSN3PCqcS) | 2:42 | 2026-02-13 |  |
 | [Spring is Here](https://open.spotify.com/track/691OLPPJwrHLCPsvryQpOh) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Spring is Here](https://open.spotify.com/album/61XyR36yXeJeLEws0h6cBc) | 3:21 | 2024-07-12 | 2024-09-28 |
 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-04-13 | 2024-08-13 |
 | [Spring Paid a Short Visit](https://open.spotify.com/track/2gYfOUWuednaWZhnfGr815) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Spring Paid a Short Visit](https://open.spotify.com/album/60GCumVD5bAKpGG2mYqPeJ) | 4:56 | 2025-03-10 | 2025-07-16 |
@@ -618,6 +619,7 @@
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-05-17 | 2024-06-01 |
 | [The Light Over Chesapeake Bay](https://open.spotify.com/track/5ZU9TV5L4zo40G6VdXbLOQ) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/0MBfcISYuV95heHB1Jkcgw) | 3:26 | 2024-01-05 | 2024-12-10 |
 | [The Lights](https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [The Lights](https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4) | 3:35 | 2024-03-26 | 2024-09-28 |
+| [The Look She Gave](https://open.spotify.com/track/2bgTQy0c8wsPIEdynbayN8) | [Jorge Brown](https://open.spotify.com/artist/1llGWDEtaKOvifVQUCgpG4) | [The Look She Gave](https://open.spotify.com/album/5emyD7WQU8robNP8DwcPdE) | 4:13 | 2026-02-13 |  |
 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-05-17 | 2023-05-26 |
 | [The Midnight Sun Never Sets](https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [The Midnight Sun Never Sets](https://open.spotify.com/album/19ThYZTl9MmtvEvqSGfv3h) | 3:59 | 2024-05-10 | 2024-07-23 |
 | [The Moment We Said Goodbye](https://open.spotify.com/track/4StMdVMtMG4IlZF8GmGyb9) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [The Moment We Said Goodbye](https://open.spotify.com/album/71JjX05H3qRf7hoiKzEszO) | 3:52 | 2024-04-17 | 2024-09-10 |

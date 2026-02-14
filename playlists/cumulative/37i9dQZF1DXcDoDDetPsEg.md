@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: J\. Cole
 
-1,722 songs - 3 day 14 hr 15 min
+1,722 songs - 3 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-07-03 | 2025-11-07 |
 | [Derby Day](https://open.spotify.com/track/47ljZvDes8HaEWYGd9RDhh) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Derby Day](https://open.spotify.com/album/3ByrdC0Y3r0Is6P0ETdA9z) | 3:09 | 2023-08-10 | 2023-08-26 |
 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 | 2022-03-08 | 2022-03-09 |
+| [desire.](https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [November Scorpio](https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV) | 3:15 | 2026-02-13 |  |
 | [Detergent](https://open.spotify.com/track/0G3phRpatC3lZJfpvtzSkL) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Detergent](https://open.spotify.com/album/0LDayYskVMFSEosSz1rNdP) | 3:50 | 2023-03-17 | 2023-04-21 |
 | [Detty](https://open.spotify.com/track/4Ait68EQ4BdYBDhwNxUuJJ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Detty](https://open.spotify.com/album/3EiTw7yDAgcyrmi8QY10NT) | 1:36 | 2023-01-27 | 2023-02-25 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-14 | 2024-08-30 |
@@ -1533,6 +1534,7 @@
 | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-21 | 2024-08-03 |
 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 | 2025-09-04 | 2025-12-19 |
 | [TLC](https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [TLC](https://open.spotify.com/album/74SmXYF8NJlxp1PqMEXf3p) | 2:29 | 2023-10-05 | 2024-02-23 |
+| [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 | 2026-02-13 |  |
 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 | 2024-07-04 | 2024-08-03 |
 | [Together](https://open.spotify.com/track/4LhtIcv5Yoldfyhs3v193Y) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Together](https://open.spotify.com/album/2DhXsskXfwb6qZAywoIQWe) | 3:00 | 2022-11-18 | 2022-12-10 |
 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 | 2022-08-23 | 2022-08-31 |
@@ -1553,8 +1555,6 @@
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-07-10 | 2025-09-13 |
 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 | 2023-09-16 | 2023-09-19 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-22 | 2023-09-15 |
-| [Track 16](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
-| [Track 9](https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-17 | 2024-01-20 |
 | [TRAP ACADEMY](https://open.spotify.com/track/6onuQHyYUwmPs9syYJp5JL) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [ROAD 2 U2OPIA](https://open.spotify.com/album/2tqgwaLjmWJUq0PGiGdoae) | 1:57 | 2024-11-08 | 2025-01-24 |
 | [Traumatised](https://open.spotify.com/track/2L717z38Qgcs4XvmXXxjHL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Traumatised](https://open.spotify.com/album/2ruzEAmfk6jx6hpcqJVna6) | 2:57 | 2023-01-06 | 2023-04-29 |

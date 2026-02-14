@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Vichaar
+> Best of Hindi Hip\-Hop! Cover: DL 91 Era
 
-308 songs - 15 hr 38 min
+309 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aarzoo](https://open.spotify.com/track/5EPcnDUJBW47tSngj2AiNt) | [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4 \- Episode 17](https://open.spotify.com/album/5bmmCLunSPrWMN0b2wSHBz) | 3:27 | 2025-10-14 | 2025-10-25 |
 | [Abey Yaar](https://open.spotify.com/track/5S2MwJBXp4JTC9r16btsJv) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Abey Yaar](https://open.spotify.com/album/0TL3cakInbP0w8mRY7mFr4) | 2:51 | 2023-03-10 | 2023-10-12 |
 | [ABEYY DON HU](https://open.spotify.com/track/7LRFECXdwOyHhVk26w4ORH) | [kaayo lk](https://open.spotify.com/artist/7ccWUSS2KCZOGMFkV7Qrll) | [ABEYY DON HU](https://open.spotify.com/album/5i73K5q6c89vKA7kDqMJiq) | 2:29 | 2025-01-06 | 2025-02-01 |
-| [Aflatoon](https://open.spotify.com/track/4RlJ7Wd5loRMh8WezOhEmC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [FTSTTS](https://open.spotify.com/album/3MKUHpsO0O5dJjwc8ZG9AL) | 3:28 | 2025-11-21 |  |
+| [Aflatoon](https://open.spotify.com/track/4RlJ7Wd5loRMh8WezOhEmC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [FTSTTS](https://open.spotify.com/album/3MKUHpsO0O5dJjwc8ZG9AL) | 3:28 | 2025-11-21 | 2026-02-14 |
 | [AGONY](https://open.spotify.com/track/3LVc6NSg797cu24aF8dR3x) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 3:04 | 2025-01-31 | 2025-03-01 |
 | [Ajnabi](https://open.spotify.com/track/6YjBJcOL9dvUhdzhvW0Z3M) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:00 | 2025-01-17 |  |
 | [Alvida](https://open.spotify.com/track/0MzimbGlnX7GS2lRuD5eTT) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [Alvida](https://open.spotify.com/album/22rvZcQ5cn6DPUYHdbzfgn) | 2:56 | 2025-02-14 |  |
@@ -226,6 +226,7 @@
 | [PEW PEW!](https://open.spotify.com/track/7zpmshT8nkJEgPnR8XfUdW) | [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [PEW PEW!](https://open.spotify.com/album/1jTyUrUnZexu0WPbx1tmi0) | 2:21 | 2023-03-10 | 2023-10-12 |
 | [Pilado](https://open.spotify.com/track/4QBZaByPrqWnqe1KzBgHOn) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols) | [Pilado](https://open.spotify.com/album/1cjCwATFB1KNQ5LanBS9CP) | 3:28 | 2024-09-30 | 2024-12-12 |
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2024-06-08 |
+| [PISHA](https://open.spotify.com/track/4bJWn4e2WDJrEv1kJrO0WC) | [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g) | [PentHouse Tapes, Vol\. 1](https://open.spotify.com/album/0UxThxnp2R4wDnrJFEWGzP) | 3:05 | 2026-02-13 |  |
 | [Podcast](https://open.spotify.com/track/6SorIaYYy2gcxL6ii2ZTWB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:48 | 2025-05-23 |  |
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2023-09-01 | 2025-05-31 |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-04-12 | 2025-01-22 |

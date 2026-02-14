@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,164 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,203 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 25 | [Conciencia Contrareloj](https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:57 |
 | 26 | [Lamento Boliviano \(En Vivo\)](https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 6:28 |
 | 27 | [Y Ahora Te Vas](https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Y Ahora Te Vas](https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP) | 4:19 |
-| 28 | [Dale Pascual](https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Guerra Gaucha](https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac) | 3:14 |
+| 28 | [Mejor No Hablemos De Amor](https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:30 |
 | 29 | [Solo Dame Otra Oportunidad](https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 4:31 |
 | 30 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
-| 31 | [Mejor No Hablemos De Amor](https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:30 |
+| 31 | [Dale Pascual](https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Guerra Gaucha](https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac) | 3:14 |
 | 32 | [Buscando la Manera](https://open.spotify.com/track/0ZzgetEb8vvA5rruA9MPf4) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habia Una Vez](https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C) | 2:59 |
 | 33 | [Simulacro de Tensión](https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:30 |
 | 34 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 49 | [Piel De Nopal](https://open.spotify.com/track/7dTbN5bleSdRYghCppUAUI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:06 |
 | 50 | [Solo Alguien Como Vos](https://open.spotify.com/track/7dRylKD54RbLojze30yWPS) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 2:40 |
 
-Snapshot ID: `aYvGgAAAAACIVGvYwh+Y65jWrQOuPwb/`
+Snapshot ID: `aY0YAAAAAAArYLHh5GVit7upcUnTVmqB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover:  MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,984 likes - 103 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,015 likes - 103 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 11 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
 | 12 | [Hooked](https://open.spotify.com/track/6t4xrh8tc4Jc6AYRTJVhrX) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Hooked](https://open.spotify.com/album/5OIOxVuhKGKdoXyaHciRHB) | 3:06 |
 | 13 | [Hearken](https://open.spotify.com/track/4xEBLCaklcfiEk0d6BIeZe) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Hearken](https://open.spotify.com/album/76esxIQUhXuZW0d7VdNy2g) | 6:11 |
-| 14 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [](https://open.spotify.com/album/null) | 5:33 |
+| 14 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 |
 | 15 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
 | 16 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 |
 | 17 | [Krapow](https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC) | [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [Leader](https://open.spotify.com/album/2ubP3MUtDQ1kkHiuzzYg88) | 2:29 |
 | 18 | [Flood \(feat\. Bon Iver\)](https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Flood / Glow](https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J) | 2:59 |
-| 19 | [Spider Song](https://open.spotify.com/track/3cJDWr9VZFAcF9YAfVTyev) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [](https://open.spotify.com/album/null) | 4:08 |
+| 19 | [Spider Song](https://open.spotify.com/track/3cJDWr9VZFAcF9YAfVTyev) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [Second Attempt](https://open.spotify.com/album/2HdpaWmRrdkzueHVzeFsSw) | 4:08 |
 | 20 | [20 Weeks](https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [20 Weeks](https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD) | 2:58 |
 | 21 | [Koneko](https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR), [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Koneko](https://open.spotify.com/album/18BjCYMvmvJSfFT8EWtyWe) | 4:08 |
 | 22 | [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 |

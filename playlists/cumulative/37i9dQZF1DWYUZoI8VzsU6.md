@@ -4,7 +4,7 @@
 
 > back roads up loud with Lakeview
 
-63 songs - 3 hr 32 min
+64 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2025-09-05 |  |
 | [But Me](https://open.spotify.com/track/59YllCm05PmwGE05i7NpXf) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Best of Me](https://open.spotify.com/album/1AZCl8H5vq5cVpLNRYkwd2) | 3:55 | 2025-09-05 |  |
 | [Can't Live Without](https://open.spotify.com/track/6deNzdi49NdTqyVtgVuQw6) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Can't Live Without](https://open.spotify.com/album/7yUsPsUryggm1KeEZQmDRi) | 2:53 | 2026-01-09 |  |
+| [Contagious](https://open.spotify.com/track/2cfjKoRvAdT7jOfTLAyIwq) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [Contagious](https://open.spotify.com/album/3hgvAfSpFJe4X2gdpoaLUE) | 3:25 | 2026-02-13 |  |
 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 | 2025-09-05 |  |
 | [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 | 2025-09-05 |  |
 | [Deep End](https://open.spotify.com/track/22U2iPJ728cC4DKSDuNAzi) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Bonfire Blackout](https://open.spotify.com/album/6yMlmWv8SIyaZ7KgNKzqBj) | 2:46 | 2025-09-05 |  |

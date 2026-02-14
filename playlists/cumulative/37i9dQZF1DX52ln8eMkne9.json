@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 157293,
       "name": "A Bad Case Of The Blues",
       "url": "https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 306893,
       "name": "I\u2019m Old Fashioned",
       "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 210600,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
@@ -4246,7 +4246,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231800,
       "name": "More Understanding Than A Man",
       "url": "https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy"
@@ -4446,7 +4446,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 266200,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/4TIU2oX0NLrGUyqP0JDM6R"
@@ -4762,7 +4762,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 224660,
       "name": "On My Worst Day (I'm Still In Love With You)",
       "url": "https://open.spotify.com/track/3wbCw5YUZbHbVpJB4VkCyy"
@@ -4948,6 +4948,24 @@
       "duration_ms": 243128,
       "name": "Postage Due",
       "url": "https://open.spotify.com/track/6SPolz3zYNwjjCnQMo1aBv"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "album": {
@@ -5658,7 +5676,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 341040,
       "name": "Sweet Kentucky Ham",
       "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"

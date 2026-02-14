@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,754 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,789 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 43 | [Enchanting Ghost](https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [All Delighted People](https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo) | 3:39 |
 | 44 | [Abraham](https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:33 |
 | 45 | [Flint \(For the Unemployed and Underpaid\)](https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:43 |
-| 46 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
-| 47 | [Lady Macbeth In Chains](https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:42 |
+| 46 | [Lady Macbeth In Chains](https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:42 |
+| 47 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
 | 48 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 |
 | 49 | [The Upper Peninsula](https://open.spotify.com/track/2AmS0bH0h8pAbz4BWfCqMz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:23 |
 | 50 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
 
-Snapshot ID: `aYvGgAAAAADr5HJGNmOQ6A4PeP6wccQv`
+Snapshot ID: `aY0YAAAAAADNBlGdW65/osNEYM+BB6CH`

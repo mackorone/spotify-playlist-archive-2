@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,763 likes - 72 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,764 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 17 | [Don't Wanna / Let's Do It](https://open.spotify.com/track/0H2JbHiyX4wt06SLxtgcw3) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 1:50 |
 | 18 | [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 |
 | 19 | [Telenovela](https://open.spotify.com/track/3eSNnf8880O0DONvxYaFTp) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Telenovela](https://open.spotify.com/album/1Q5JipjRZaKHd0bffGDWgV) | 2:34 |
-| 20 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
+| 20 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:54 |
 | 21 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
 | 22 | [Lalala \(Want Somebody\) \- X\-Coast Remix](https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [TDJ002 DELUXE](https://open.spotify.com/album/6Bni8QVdMurBYVtt3625xQ) | 3:55 |
 | 23 | [2 People](https://open.spotify.com/track/0AiqTeoOFBmoQ3KF0Tq62B) | [ALTA](https://open.spotify.com/artist/0PkXdpzJOcWmCvp4aqRsA5) | [2 People](https://open.spotify.com/album/56jX2KOYclnrIZBkGnKx0n) | 2:36 |

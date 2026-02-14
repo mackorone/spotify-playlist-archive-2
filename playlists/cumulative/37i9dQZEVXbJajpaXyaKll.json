@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -8612,7 +8612,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -13824,10 +13824,36 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 161620,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/22nEfJtQdNlGI0dW6QVm6q"
+    },
+    {
+      "album": {
+        "name": "EL \u00c1LBUM DEL VERANO",
+        "url": "https://open.spotify.com/album/1JM2BMHpt2pTdaIpw2Jxtb"
+      },
+      "artists": [
+        {
+          "name": "PEPU",
+          "url": "https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Pizzu",
+          "url": "https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161620,
+      "name": "FAR AWAY",
+      "url": "https://open.spotify.com/track/3pcXMfSwwXGcucdrDb6Awd"
     },
     {
       "album": {
@@ -19511,6 +19537,24 @@
     },
     {
       "album": {
+        "name": "La Noche Se Quedo Contigo",
+        "url": "https://open.spotify.com/album/7mXA9jlG6ZY2G0onfzoxXk"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "La Noche Se Quedo Contigo",
+      "url": "https://open.spotify.com/track/7e1iVnbLBbQJekNKdErzfG"
+    },
+    {
+      "album": {
         "name": "La Noche Ta En Ort*",
         "url": "https://open.spotify.com/album/1oweV8CmIGevMbVSqw42CT"
       },
@@ -20964,7 +21008,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 229381,
       "name": "LO QUE LE PAS\u00d3 A HAWAii",
       "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
@@ -29361,6 +29405,32 @@
     },
     {
       "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
+    },
+    {
+      "album": {
         "name": "Para Repetir | CROSSOVER #11",
         "url": "https://open.spotify.com/album/3oDcyzuOK7R2AJqFLpSZ3V"
       },
@@ -34914,7 +34984,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 215978,
       "name": "Sin Maquillaje",
       "url": "https://open.spotify.com/track/18uaagQLUhgpNbEHYslclE"
@@ -38181,6 +38251,28 @@
     },
     {
       "album": {
+        "name": "EL \u00c1LBUM DEL VERANO",
+        "url": "https://open.spotify.com/album/1JM2BMHpt2pTdaIpw2Jxtb"
+      },
+      "artists": [
+        {
+          "name": "PEPU",
+          "url": "https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8"
+        },
+        {
+          "name": "Pizzu",
+          "url": "https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197264,
+      "name": "TENGO UN FEELING",
+      "url": "https://open.spotify.com/track/1toIsvoqn3HCpdetMXk2sJ"
+    },
+    {
+      "album": {
         "name": "TENGO UN FEELING",
         "url": "https://open.spotify.com/album/6x0R5etnad2YtJ8aobqMoU"
       },
@@ -38196,7 +38288,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197264,
       "name": "TENGO UN FEELING",
       "url": "https://open.spotify.com/track/4ezApj4UvVqLOtxdXUOLMb"
@@ -42608,7 +42700,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"

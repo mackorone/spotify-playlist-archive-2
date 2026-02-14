@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,887 likes - 107 songs - 5 hr 57 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,882 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,15 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 105 | [Message to You](https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Message to You](https://open.spotify.com/album/7ki0RbD7gen6uL67N6Baqo) | 3:37 |
 | 106 | [enabling](https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [enabling](https://open.spotify.com/album/2wUsvgaVMbVWJulBNAROWC) | 3:18 |
 | 107 | [Always Be The One](https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Always Be The One](https://open.spotify.com/album/4lr4Mosc7nogwInirByGPG) | 3:06 |
+| 108 | [If I Didn't Know You](https://open.spotify.com/track/6naFuQGWFBHThc3fppOjbT) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [If I Didn't Know You](https://open.spotify.com/album/1sNV3qzZJDjB9Hc7K5BsFp) | 3:28 |
+| 109 | [note to self](https://open.spotify.com/track/3DFJukP77diUk45IbxdeLd) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [note to self](https://open.spotify.com/album/0PFYkZSrTiU72XaEWew15u) | 3:02 |
+| 110 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
+| 111 | [Whipped](https://open.spotify.com/track/7FcGomj7SwgEaJKoP2wDjV) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Whipped](https://open.spotify.com/album/5kBO9A4p5se9r0z65vR9ZW) | 2:55 |
+| 112 | [COUNTRY MUSIC](https://open.spotify.com/track/4sDm9hZWYAurCs8l77xkZH) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [COUNTRY MUSIC](https://open.spotify.com/album/7vu6qBNbU0iW6zBh2Umu5P) | 2:11 |
+| 113 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
+| 114 | [Talk To Johnny](https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Talk To Johnny](https://open.spotify.com/album/2tDKMJJsVZ0dhZh2AcFnFZ) | 2:43 |
+| 115 | [Forever](https://open.spotify.com/track/0dcyHtBwKZGSkaIraDzrVD) | [Steven James](https://open.spotify.com/artist/2GiFp07tRKO0O7e1b3rGZm) | [Forever](https://open.spotify.com/album/7C6w4PB4Gm2SUcPMxu7nAP) | 3:16 |
+| 116 | [Polaroid](https://open.spotify.com/track/2gvi2caSU5dR8JlqWOtJHA) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Polaroid](https://open.spotify.com/album/5aCD1rMzLRMGS8my1lDomm) | 3:24 |
+| 117 | [Best of Our Possible Lives](https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Best of Our Possible Lives](https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC) | 3:08 |
 
-Snapshot ID: `AAAN1JZtTKkArQXYgH9kEflmOQas7roh`
+Snapshot ID: `AAAN3qjAAMQu8zQwBxyHNJxKq3i3d9xY`

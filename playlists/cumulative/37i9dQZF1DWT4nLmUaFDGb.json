@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 250697,
       "name": "Magnus",
       "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
@@ -3888,6 +3888,24 @@
       "duration_ms": 224460,
       "name": "Place To Hide",
       "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "album": {

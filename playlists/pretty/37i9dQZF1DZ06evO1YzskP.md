@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,887 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,912 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lo Que Hay X Aquí](https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:38 |
 | 2 | [De Madrid a París](https://open.spotify.com/track/1v0a2XPbqk40rKlIiEFQCS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [De Madrid a ParÍs](https://open.spotify.com/album/3ilZ3b1wYpkJRa9UaNsodz) | 4:17 |
-| 3 | [Qué Belleza De Mujer](https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Qué Belleza De Mujer](https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm) | 2:47 |
-| 4 | [Venecia](https://open.spotify.com/track/7EOIHK5ZQ8wRrThYepY8C5) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Venecia](https://open.spotify.com/album/16HS96UO2LIK6Owplgqnol) | 2:35 |
+| 3 | [Venecia](https://open.spotify.com/track/7EOIHK5ZQ8wRrThYepY8C5) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Venecia](https://open.spotify.com/album/16HS96UO2LIK6Owplgqnol) | 2:35 |
+| 4 | [Qué Belleza De Mujer](https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Qué Belleza De Mujer](https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm) | 2:47 |
 | 5 | [Ojitos Lindos](https://open.spotify.com/track/7BnMbXmqb42ZvaFCJeQNhE) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:36 |
 | 6 | [Si No Estás](https://open.spotify.com/track/23rsNGqAU6mBbUe4dEk8b9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:35 |
 | 7 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 31 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 2:45 |
 | 32 | [Cupido](https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cupido](https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY) | 2:46 |
 | 33 | [Ante la gente](https://open.spotify.com/track/3X10K4WsoLqqbrMomStv4W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 3:49 |
-| 34 | [Mi pareja en turno](https://open.spotify.com/track/4jCmraVktEXNCeEcDtOGZE) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mi pareja en turno](https://open.spotify.com/album/2I4Ikw1PoEUEhrGZ0qnfWI) | 3:07 |
-| 35 | [La Belikada](https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw) | 2:33 |
+| 34 | [La Belikada](https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw) | 2:33 |
+| 35 | [Mi pareja en turno](https://open.spotify.com/track/4jCmraVktEXNCeEcDtOGZE) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mi pareja en turno](https://open.spotify.com/album/2I4Ikw1PoEUEhrGZ0qnfWI) | 3:07 |
 | 36 | [No Voy Con Rodeos](https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:47 |
 | 37 | [Sal De Tu Casa](https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bateando Duro](https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh) | 2:26 |
 | 38 | [Mariposas](https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Somos Mayiza](https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW) | 3:12 |
 | 50 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 |
 
-Snapshot ID: `aYvGgAAAAADAU7QeD0TDJy+evV40a9Eo`
+Snapshot ID: `aY0YAAAAAADwIf0XiM2ChvXQmzGYp28H`

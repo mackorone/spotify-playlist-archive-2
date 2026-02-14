@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Josh Ross
+> The home of Canadian country music\. Cover: Owen Riegling
 
-536 songs - 1 day 4 hr 44 min
+540 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Got It](https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Got It](https://open.spotify.com/album/2mEdu1KXHXyY8KaKnTBf0F) | 2:47 | 2024-06-28 | 2024-09-14 |
 | [Gotta Be Country](https://open.spotify.com/track/556NgrV6yBcJ7jLkqUwj4P) | [The Martin Boys](https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k) | [Gotta Be Country](https://open.spotify.com/album/2etCBGd1lP6hjRyFTiLZQj) | 3:14 | 2025-05-09 | 2025-05-17 |
 | [Great Joy & Happiness](https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Great Joy & Happiness](https://open.spotify.com/album/0BvusUW8PEc3iknPMOTmPs) | 2:30 | 2025-08-29 | 2025-10-07 |
+| [Growing Down](https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Growing Down](https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ) | 3:17 | 2026-02-13 |  |
 | [Half Hearted](https://open.spotify.com/track/7sZkWXjTJYjzeZj9DVLmOV) | [Angelica Appelman](https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM) | [Half Hearted](https://open.spotify.com/album/5xiYfE43Czli5iC0QVF6eU) | 3:01 | 2026-01-23 |  |
 | [Halfway](https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Halfway](https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3) | 3:39 | 2024-08-23 | 2024-09-14 |
 | [Hangover At My Place](https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Hangover At My Place](https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD) | 3:16 | 2024-09-13 | 2025-05-31 |
@@ -242,6 +243,7 @@
 | [If I Drink Enough](https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F) | 2:51 | 2024-08-09 | 2025-04-11 |
 | [If I’m Being Honest](https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [If I’m Being Honest](https://open.spotify.com/album/5L5oi3u8tufpJI0quqzauR) | 3:04 | 2026-01-23 |  |
 | [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 | 2025-07-11 | 2025-09-20 |
+| [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 | 2026-02-13 |  |
 | [In Love With La](https://open.spotify.com/track/2lgWZMHYkOJG6695htHd5O) | [Emilie Roberts](https://open.spotify.com/artist/7J4Swtcm5xXwk5FRarp4v0) | [In Love With La](https://open.spotify.com/album/6XKWwqhcz0hXgimpL4jfze) | 3:14 | 2024-10-18 | 2024-11-02 |
 | [Issues](https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Issues](https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj) | 2:21 | 2025-05-23 | 2025-08-02 |
 | [It's All Coming Back To Me Now](https://open.spotify.com/track/1CCbjeTKdaVXr7EsDtvhfJ) | [Dan Young](https://open.spotify.com/artist/4cEhqUT7opRvHQ87dHpqO9), [Brooklyn Blackmore](https://open.spotify.com/artist/23JDhcj7ldZ2oaZviflnRw) | [It's All Coming Back To Me Now](https://open.spotify.com/album/5y0YwazMDIbmdBTiTY2wgO) | 4:18 | 2025-07-11 | 2025-08-02 |
@@ -283,6 +285,7 @@
 | [Look At Me](https://open.spotify.com/track/2RWMwlqu6w92RmUVON25EZ) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [Look At Me](https://open.spotify.com/album/0JBbieCypYuDh8Mz7uVABG) | 2:45 | 2025-09-05 | 2026-01-31 |
 | [Love and Hate](https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [Love and Hate](https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ) | 2:47 | 2024-10-18 | 2025-08-30 |
 | [Love Can Build A Bridge](https://open.spotify.com/track/1t3YIOY6n3Rc54sJaetCQf) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Love Can Build A Bridge](https://open.spotify.com/album/77l3iPJ4UxNjefOz4isYY9) | 2:36 | 2025-11-14 |  |
+| [Love Hate Love](https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Love Hate Love](https://open.spotify.com/album/646IYYLssCtXOuVrY8z3Kw) | 2:55 | 2026-02-13 |  |
 | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU), [Dan Swinimer](https://open.spotify.com/artist/22QKKYErEVOVHDcwCz72eo) | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za) | 3:43 | 2024-09-27 | 2024-11-23 |
 | [Love Myself](https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Love Myself](https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq) | 3:09 | 2024-09-06 | 2024-09-28 |
 | [Lyin' To Me](https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Lyin' To Me](https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ) | 3:00 | 2024-06-28 | 2024-07-13 |
@@ -534,6 +537,7 @@
 | [Write About You](https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Write About You](https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix) | 2:24 | 2025-04-04 | 2025-07-05 |
 | [Write To Me](https://open.spotify.com/track/6v1pDnzoghdolKn8NBO8tH) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Write To Me](https://open.spotify.com/album/3ZTCe3Lselo4gQXETOs0wX) | 4:51 | 2025-08-22 | 2025-10-25 |
 | [Written All Over It](https://open.spotify.com/track/6oX7x3oEqDJ0uf0iw3Z0TL) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Written All Over It](https://open.spotify.com/album/77aqU7xpaxrWB1KsLzlZEJ) | 3:04 | 2024-06-28 | 2024-08-31 |
+| [You and I Tonight](https://open.spotify.com/track/3whnvzF7IoyO9DICzAlhq9) | [Drew Taylor](https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [You and I Tonight](https://open.spotify.com/album/3OqVsclCeHnuLUFIcX8exh) | 3:49 | 2026-02-13 |  |
 | [You and Me](https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [You and Me](https://open.spotify.com/album/4UCtstaaxD25dGbMUHqlV3) | 2:27 | 2024-08-16 | 2025-01-18 |
 | [You Didn’t Hear It From Me](https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [You Didn’t Hear It From Me](https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv) | 3:09 | 2025-01-10 | 2025-03-15 |
 | [You Fight Dirty](https://open.spotify.com/track/55YiHh9QWQKwF5OH0CLwBB) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [You Fight Dirty](https://open.spotify.com/album/75sGKvHvY61ItrajGw6ViQ) | 2:59 | 2025-02-07 | 2025-03-29 |

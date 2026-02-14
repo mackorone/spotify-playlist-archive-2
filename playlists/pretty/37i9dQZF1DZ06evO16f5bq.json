@@ -1,13 +1,41 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 156016,
+  "num_followers": 156019,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABundq8mdoZwNQ+N7+9d18f",
+  "snapshot_id": "aY0YAAAAAADFiGmA29reEdDxEaXpqHxV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "FORAGIDO",
+        "url": "https://open.spotify.com/album/2gng3CMOBhwGXOgW6NuwmR"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        }
+      ],
+      "duration_ms": 254685,
+      "name": "FORAGIDO",
+      "url": "https://open.spotify.com/track/08blucVoLQhpe3Z2NeHXRP"
+    },
     {
       "added_at": null,
       "album": {
@@ -771,6 +799,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MODE$TIA",
+          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
+        },
+        {
+          "name": "Yoka",
+          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
+        }
+      ],
+      "duration_ms": 247701,
+      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
+      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -823,34 +879,6 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MODE$TIA",
-          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
-        },
-        {
-          "name": "Yoka",
-          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
-        }
-      ],
-      "duration_ms": 247701,
-      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
-      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
     },
     {
       "added_at": null,
@@ -1075,6 +1103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
+        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 153343,
+      "name": "Ac\u00fastico_UmErro",
+      "url": "https://open.spotify.com/track/5mx7BXr13Q8kwoW81yqZn6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00caXTASE",
         "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
       },
@@ -1099,8 +1143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
-        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
+        "name": "Confia: Sonho de Cria - Trilha Sonora",
+        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
       },
       "artists": [
         {
@@ -1108,37 +1152,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 153343,
-      "name": "Ac\u00fastico_UmErro",
-      "url": "https://open.spotify.com/track/5mx7BXr13Q8kwoW81yqZn6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
+      "duration_ms": 206309,
+      "name": "Blindado por Deus",
+      "url": "https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n"
     },
     {
       "added_at": null,
@@ -1171,18 +1187,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confia: Sonho de Cria - Trilha Sonora",
-        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
       "artists": [
         {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 206309,
-      "name": "Blindado por Deus",
-      "url": "https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n"
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
     },
     {
       "added_at": null,
@@ -1283,26 +1311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "VOC\u00ca&EU",
-      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vetin",
         "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
       },
@@ -1323,6 +1331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 198231,
+      "name": "VOC\u00ca&EU",
+      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
       },
@@ -1339,22 +1367,6 @@
       "duration_ms": 211544,
       "name": "ngm \u00e9 perfeito",
       "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
-        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 181158,
-      "name": "Ac\u00fastico_Sexy",
-      "url": "https://open.spotify.com/track/1eSUzfuzG3xeriVFIwo3tU"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

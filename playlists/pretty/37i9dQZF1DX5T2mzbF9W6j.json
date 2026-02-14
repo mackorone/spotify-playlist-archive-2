@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112199,
+  "num_followers": 112196,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
+        "name": "W to mi graj",
+        "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "W to mi graj",
+      "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
         "name": "Dwoje ludzie\u0144k\u00f3w",
         "url": "https://open.spotify.com/album/6LKxswBVj57QxwDfDSl22s"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 192122,
       "name": "Kiedy umr\u0119 kochanie (H. Po\u015bwiatowska)",
       "url": "https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
-        "name": "W to mi graj",
-        "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "W to mi graj",
-      "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
     },
     {
       "added_at": "2026-01-23 16:41:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-01-23 16:41:38",
       "album": {
+        "name": "mario",
+        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "mario",
+      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
+    },
+    {
+      "added_at": "2026-01-23 16:41:38",
+      "album": {
         "name": "Hot!",
         "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 165230,
       "name": "Hot!",
       "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
-    },
-    {
-      "added_at": "2026-01-23 16:41:38",
-      "album": {
-        "name": "mario",
-        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
-      },
-      "artists": [
-        {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "mario",
-      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
     },
     {
       "added_at": "2026-01-23 16:41:38",

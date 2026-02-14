@@ -1,13 +1,53 @@
 {
-  "description": "Fino y elegante, como Blessd y J \u00c1lvarez. ",
-  "num_followers": 220872,
+  "description": "Fino y elegante, como Aria Vega y Ryan Castro. ",
+  "num_followers": 220882,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7ai7oWT/rndec+q6xFrUFHD1UC",
+  "snapshot_id": "AAAAAOQ3nWklvUbvKZGiU+Yu5B0gZBYv",
   "tracks": [
+    {
+      "added_at": "2026-02-13 04:59:40",
+      "album": {
+        "name": "CH\u00c9VERE (premium_remix)",
+        "url": "https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 219989,
+      "name": "CH\u00c9VERE (premium_remix)",
+      "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
+    },
+    {
+      "added_at": "2026-02-13 04:59:40",
+      "album": {
+        "name": "BIZCOCHO",
+        "url": "https://open.spotify.com/album/3yuAp0DZ7V49gWQJLtALoL"
+      },
+      "artists": [
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "SVNTI",
+          "url": "https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN"
+        }
+      ],
+      "duration_ms": 122696,
+      "name": "BIZCOCHO",
+      "url": "https://open.spotify.com/track/38JH6euiEfvwWDOfhNWWyE"
+    },
     {
       "added_at": "2026-02-03 20:06:30",
       "album": {

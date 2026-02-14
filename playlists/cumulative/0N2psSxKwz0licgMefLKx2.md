@@ -2,9 +2,9 @@
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-407 songs - 22 hr 13 min
+412 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [If I Had a Lover](https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Songs in the Gravel](https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2) | 3:23 | 2024-03-22 | 2024-10-05 |
 | [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 | 2025-02-21 | 2026-01-24 |
 | [if looks could kill](https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird: no rain, no flowers \(deluxe\)](https://open.spotify.com/album/4COdErCzwv0rQAFH594bol) | 3:13 | 2025-03-14 | 2025-05-03 |
+| [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 | 2026-02-13 |  |
 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-11-03 | 2024-05-18 |
 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 | 2024-02-23 | 2024-04-06 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-10-05 |
@@ -210,10 +211,12 @@
 | [Little Town](https://open.spotify.com/track/0zRNqoIds1nAIwPSfPtxEJ) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Little Town](https://open.spotify.com/album/4IKUrL7x7eWgxgAKhjnv2N) | 3:38 | 2024-10-11 | 2025-01-11 |
 | [Livin' In A Country Song](https://open.spotify.com/track/7hmHPH6BAIsTAm71DBE48T) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/2faBQuz5qcPsTfvqEex34o) | 3:07 | 2023-11-03 | 2024-01-13 |
 | [Locked Up](https://open.spotify.com/track/3lT10s1U9K0vrEGpsu8kBP) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/6bFqE8ItSLyMxhxlRVJYIZ) | 3:28 | 2024-03-22 | 2024-05-04 |
+| [Lonely For You](https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Lonely For You](https://open.spotify.com/album/7ytvXyIg9hfr1hymx0sBT5) | 2:31 | 2026-02-13 |  |
 | [Lonely Mountain Town](https://open.spotify.com/track/7uY5c6QG9GCQ7NzpCsyPhA) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lonely Mountain Town](https://open.spotify.com/album/6UHy1xdmdN3jW7qyrY3E18) | 3:50 | 2025-02-28 | 2025-05-10 |
 | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww) | 3:09 | 2024-07-26 | 2025-11-22 |
 | [Lonesome Drifter](https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB) | 3:02 | 2025-01-31 | 2025-04-19 |
 | [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF) | 2:28 | 2025-08-08 | 2025-11-22 |
+| [Love Hate Love](https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Love Hate Love](https://open.spotify.com/album/646IYYLssCtXOuVrY8z3Kw) | 2:55 | 2026-02-13 |  |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-18 | 2025-05-19 |
 | [Love You Back](https://open.spotify.com/track/67zZ26O7nHAyL76sEx3tIS) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Love You Back](https://open.spotify.com/album/4CxtfxIxJ0YCDaRwz7HbJx) | 3:22 | 2023-11-03 | 2024-04-27 |
 | [Love You, Miss You, Mean It](https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Love You, Miss You, Mean It](https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE) | 3:21 | 2024-04-05 | 2026-01-15 |
@@ -355,6 +358,7 @@
 | [Think of Me](https://open.spotify.com/track/2JPbZQ0pek5lbzUpZtVQzX) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Think of Me](https://open.spotify.com/album/47qPurqgAQPsqYBlxeGJbr) | 3:33 | 2024-11-25 | 2025-04-26 |
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-11-03 | 2024-07-07 |
 | [This Is My Dirt](https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [This Is My Dirt](https://open.spotify.com/album/7A2rFcb97EUFcBI0RGhjgc) | 3:37 | 2024-01-26 | 2024-05-18 |
+| [Thorns](https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Thorns](https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg) | 3:10 | 2026-02-13 |  |
 | [Those Kind Of Women](https://open.spotify.com/track/4vLfibmz6FuED8xU2uL1q9) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Those Kind Of Women](https://open.spotify.com/album/4YJcPufQPQIeRaVO59Fmj7) | 3:12 | 2025-01-26 | 2025-02-15 |
 | [Till I Get To Heaven](https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Till I Get To Heaven](https://open.spotify.com/album/0Nv8TTXDUNOLfWU5PzGx9L) | 2:30 | 2025-07-18 |  |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-06-09 |
@@ -399,6 +403,7 @@
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2023-11-03 | 2025-03-15 |
 | [Who Hurt You](https://open.spotify.com/track/310C0MGzgqHlNpgAV82zWo) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Who Hurt You](https://open.spotify.com/album/2EY46Rynp99lMD9mAZcjHm) | 3:42 | 2024-07-19 | 2024-11-26 |
 | [Who Says You Can't Have Everything](https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 3:08 | 2023-11-03 | 2024-04-06 |
+| [Wildfire](https://open.spotify.com/track/6rdVVTP8Fs5AmMYanwCrCc) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wildfire](https://open.spotify.com/album/31kQqaQfEmz85o5POXCYc9) | 3:21 | 2026-02-13 |  |
 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 | 2024-02-23 | 2025-01-27 |
 | [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-06-28 | 2024-08-03 |
 | [Wind Up Missin’ You](https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin’ You](https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj) | 2:46 | 2024-06-17 |  |

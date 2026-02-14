@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 449378,
+  "num_followers": 449477,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1439,34 +1439,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Pedro (W&W Remix)",
-        "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "Pedro - W&W Remix",
-      "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
       },
@@ -1511,22 +1483,30 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "All Of The Lights",
-        "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
+        "name": "Pedro (W&W Remix)",
+        "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
         },
         {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         }
       ],
-      "duration_ms": 241600,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
+      "duration_ms": 159483,
+      "name": "Pedro - W&W Remix",
+      "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1551,6 +1531,26 @@
       "duration_ms": 159473,
       "name": "Jump Jump Jump",
       "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "All Of The Lights",
+        "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -2047,22 +2047,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Late At Night",
-        "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
+        "name": "Kayra",
+        "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 156400,
-      "name": "Late At Night",
-      "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
+      "duration_ms": 166909,
+      "name": "Kayra",
+      "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
     }
   ],
   "unique_name": "Bass Explosion",

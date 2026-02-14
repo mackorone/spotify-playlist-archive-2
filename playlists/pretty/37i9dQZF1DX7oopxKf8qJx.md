@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,482 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,520 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 47 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
 | 48 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
 | 49 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
-| 50 | [How Insensitive](https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Plays Latin Themes For Young Lovers](https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa) | 2:38 |
-| 51 | [The Warmth Of The Sun](https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:48 |
+| 50 | [The Warmth Of The Sun](https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:48 |
+| 51 | [How Insensitive](https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Plays Latin Themes For Young Lovers](https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa) | 2:38 |
 | 52 | [The Joy Of Living](https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Joy Of Living](https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU) | 2:49 |
 | 53 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
 | 54 | [The Man That Got Away](https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 4:07 |

@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 324622,
       "name": "Ganga Pula Bathukamma",
       "url": "https://open.spotify.com/track/3DvSJQwkGGHbEVQN3tB5vT"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 256400,
       "name": "Gujjari Gujjari",
       "url": "https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE"
@@ -3275,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Kalayaa Nijamaa",
+        "url": "https://open.spotify.com/album/27cZ6A1XAvfDPeVbClpDY6"
+      },
+      "artists": [
+        {
+          "name": "Nazeeruddin",
+          "url": "https://open.spotify.com/artist/0arlsUmMITgYIIfxO7raoR"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227148,
+      "name": "Kalayaa Nijamaa",
+      "url": "https://open.spotify.com/track/1QPYbdy6Wrc9s1bOB5GGQA"
+    },
+    {
+      "album": {
         "name": "Kale Theera",
         "url": "https://open.spotify.com/album/2kpqsxK48MoF2OF29DZBcZ"
       },
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 310879,
       "name": "Kannulo Nuvve",
       "url": "https://open.spotify.com/track/3ty8y4qnDUivIoBWSc3ggK"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231012,
       "name": "London Pilla",
       "url": "https://open.spotify.com/track/3yVXVL58qnSYpbBh4Ai5bk"
@@ -4826,6 +4844,32 @@
       "duration_ms": 247909,
       "name": "Na Hrudayame",
       "url": "https://open.spotify.com/track/741v3bdKP06zxeyETT7xxn"
+    },
+    {
+      "album": {
+        "name": "Na Hrudhyam Museum Lo",
+        "url": "https://open.spotify.com/album/6VQBpX6xPfuxur6XjL4NtP"
+      },
+      "artists": [
+        {
+          "name": "Nishan S",
+          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
+        },
+        {
+          "name": "Dr Nithin S",
+          "url": "https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD"
+        },
+        {
+          "name": "Nag Satya Ram",
+          "url": "https://open.spotify.com/artist/5avMLXOf4kOZzCzVtAI93C"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181684,
+      "name": "Na Hrudhyam Museum Lo",
+      "url": "https://open.spotify.com/track/10taun7Xuoq93jknADvmJu"
     },
     {
       "album": {
@@ -6013,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "Nuvvu Vuntava?",
+        "url": "https://open.spotify.com/album/3PIrKyzwISi0V0fv2fOpXJ"
+      },
+      "artists": [
+        {
+          "name": "Madduri Hemant",
+          "url": "https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152145,
+      "name": "Nuvvu Vuntava?",
+      "url": "https://open.spotify.com/track/7Dvq7rDFQUegmwzXChLUfs"
+    },
+    {
+      "album": {
         "name": "Nuvvunte Acoustic",
         "url": "https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR"
       },
@@ -6340,6 +6402,24 @@
       "duration_ms": 188953,
       "name": "Ontari",
       "url": "https://open.spotify.com/track/6LpMArM5X2QCE12ZOPUsJZ"
+    },
+    {
+      "album": {
+        "name": "Oo Ammayi",
+        "url": "https://open.spotify.com/album/5Gxe62mhzDxMNuNa7Hxdqd"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Arya",
+          "url": "https://open.spotify.com/artist/0QDBWYLNLKoE54czhcJAVK"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230868,
+      "name": "Oo Ammayi",
+      "url": "https://open.spotify.com/track/0Hx3UGvaoGTtafm7eMptw5"
     },
     {
       "album": {
@@ -6730,7 +6810,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 306465,
       "name": "Paruguna Raave",
       "url": "https://open.spotify.com/track/2S9GsyC3Nka76RGX8AXe1e"
@@ -6756,7 +6836,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 286363,
       "name": "Parvatisha Shivayya (Telugu)",
       "url": "https://open.spotify.com/track/2ETXcSk5S5X9fidFk45imc"
@@ -7622,7 +7702,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171697,
       "name": "Quote That",
       "url": "https://open.spotify.com/track/4ni2xe93foUAgE7leQpbjU"
@@ -8406,7 +8486,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148941,
       "name": "Shiva Tatvam - The Essence of Shiva",
       "url": "https://open.spotify.com/track/66qGo3BOnP7OjhIKkOHBmr"
@@ -8782,6 +8862,46 @@
       "duration_ms": 230000,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh"
+    },
+    {
+      "album": {
+        "name": "Taara Katha",
+        "url": "https://open.spotify.com/album/2LyAB86oecp0Arq3iqoVDb"
+      },
+      "artists": [
+        {
+          "name": "DEVARO",
+          "url": "https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218879,
+      "name": "Taara Katha",
+      "url": "https://open.spotify.com/track/5fwGpMlM2GbhGJl2ae0wyi"
+    },
+    {
+      "album": {
+        "name": "Taaraley",
+        "url": "https://open.spotify.com/album/4NoSNc7ChtXfR2HkkNXiyP"
+      },
+      "artists": [
+        {
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
+        },
+        {
+          "name": "Himasri Divakaruni",
+          "url": "https://open.spotify.com/artist/34tqqa7FjkHTtGeic6CtaK"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Taaraley",
+      "url": "https://open.spotify.com/track/0RWppfpvEJg6ZKGzeJCezz"
     },
     {
       "album": {
@@ -9192,6 +9312,28 @@
       "duration_ms": 270000,
       "name": "Theera - Telugu",
       "url": "https://open.spotify.com/track/4I4Xy1cYW1pzQwaFkrPEnO"
+    },
+    {
+      "album": {
+        "name": "Theerani",
+        "url": "https://open.spotify.com/album/4dYQ3LdSjwyl17Xh1cVSG5"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Usha Prasanna",
+          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199696,
+      "name": "Theerani",
+      "url": "https://open.spotify.com/track/52juP9nzMJg7KODjsK0NFl"
     },
     {
       "album": {
@@ -9656,6 +9798,24 @@
       "duration_ms": 217776,
       "name": "Vellake",
       "url": "https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f"
+    },
+    {
+      "album": {
+        "name": "Vellipokey",
+        "url": "https://open.spotify.com/album/7phL7wfN5JeLNCVUWxzkgJ"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Vellipokey",
+      "url": "https://open.spotify.com/track/3X5IkEiEdNzBMQNIyUxP0X"
     },
     {
       "album": {

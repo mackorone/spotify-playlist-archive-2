@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Gaia Banfi in cover + tutto il meglio delle novità indie 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,547 likes - 105 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,551 likes - 105 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 17 | [rifiorire](https://open.spotify.com/track/1Ak1nbrqJCBu8gEi9jC0N5) | [marsea](https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX) | [rifiorire](https://open.spotify.com/album/5V0uqjEAjwKrlfHq7uKz33) | 3:49 |
 | 18 | [Nel Cielo](https://open.spotify.com/track/24Z2bGois4ezlAZ20TZTeo) | [Sierra](https://open.spotify.com/artist/5LxvWvFRXBDQBVI9LwwmVp) | [Nel Cielo](https://open.spotify.com/album/2Lf4JSEtRAyEqvAlROTilZ) | 2:40 |
 | 19 | [Come una foglia](https://open.spotify.com/track/01m8CH3I9yXQ4l0Dz7G9lG) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Come una foglia](https://open.spotify.com/album/6eqt9OusEj7J3ArT16ap7e) | 3:22 |
-| 20 | [cane e coda](https://open.spotify.com/track/06vJIKSbiz8wZrwvHSG0tW) | [SANTACHIARA](https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW) | [](https://open.spotify.com/album/null) | 3:32 |
+| 20 | [cane e coda](https://open.spotify.com/track/06vJIKSbiz8wZrwvHSG0tW) | [SANTACHIARA](https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW) | [Minimarket](https://open.spotify.com/album/5739sBqtIcDeikAizWv0x0) | 3:32 |
 | 21 | [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 |
 | 22 | [Tornado](https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Anime Storte](https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo) | 3:29 |
 | 23 | [separi](https://open.spotify.com/track/3jQ0VHtxq8iV7Tzz1vWnGW) | [Martina Di Nardo](https://open.spotify.com/artist/2ZK8BeEdf8NpZQXG23iIdx) | [separi](https://open.spotify.com/album/7p5W1pnnR39CND3N5G7S6L) | 3:09 |

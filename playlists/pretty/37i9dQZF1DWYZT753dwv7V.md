@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,796 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,799 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 60 | [Ciao Ciao](https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [My Mamma](https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx) | 3:04 |
 | 61 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |
 | 62 | [Ti regalerò una rosa](https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz) | [Dall'altra parte del cancello](https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw) | 3:48 |
-| 63 | [La prima cosa bella](https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Nicola Di Bari](https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD) | 3:10 |
-| 64 | [Cuore matto](https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:50 |
+| 63 | [Cuore matto](https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:50 |
+| 64 | [La prima cosa bella](https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Nicola Di Bari](https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD) | 3:10 |
 | 65 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
-| 66 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
-| 67 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
+| 66 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
+| 67 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
 | 68 | [Non mi avete fatto niente](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Non mi avete fatto niente](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) | 3:28 |
 | 69 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
 | 70 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 |

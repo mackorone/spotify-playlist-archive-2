@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Silvestre Dangond
 
-199 songs - 13 hr 54 min
+200 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Cómo Lo Hizo](https://open.spotify.com/track/5oQ12KlSu359ek2vpJTMX3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:04 | 2022-09-02 |  |
 | [DESESPERADO](https://open.spotify.com/track/1JfWU4M4wsLxmefinlXrWw) | [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS), [Juank Ricardo](https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ) | [DESESPERADO](https://open.spotify.com/album/5K5hnCuL3a0HqLDAgO5MfJ) | 3:51 | 2025-06-27 | 2025-08-30 |
 | [Después Del Adiós](https://open.spotify.com/track/3qvkHyt2EBuycESNoeqr2b) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Dos Épocas](https://open.spotify.com/album/580WWF84fAKqqzgInvnUsz) | 4:59 | 2023-05-19 | 2024-01-27 |
-| [Diciembre](https://open.spotify.com/track/6W2DQrZKdw6jhTkw0eoJy4) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Diciembre](https://open.spotify.com/album/2Yeopcw7kSdjTKc6wEarpU) | 3:19 | 2025-11-21 |  |
+| [Diciembre](https://open.spotify.com/track/6W2DQrZKdw6jhTkw0eoJy4) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Diciembre](https://open.spotify.com/album/2Yeopcw7kSdjTKc6wEarpU) | 3:19 | 2025-11-21 | 2026-02-14 |
 | [Diez Mil Veces Tú](https://open.spotify.com/track/2Kh0B090ELw2MrJd2SY1LR) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Esto Que Dice!](https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH) | 4:08 | 2022-09-02 | 2025-09-27 |
 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 | 2022-09-02 | 2024-04-19 |
 | [Difícil de Igualar](https://open.spotify.com/track/1Wddg2lRIMZHDAjArUz3gW) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:03 | 2022-10-21 | 2022-11-13 |
@@ -77,6 +77,7 @@
 | [El Terremoto](https://open.spotify.com/track/1W7CMs1bSqQvdEBvkaUexF) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:40 | 2023-04-14 | 2024-04-19 |
 | [El Terremoto](https://open.spotify.com/track/58vsQ15Dc9NwY5zqaLpWOJ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [Grandes Éxitos](https://open.spotify.com/album/77PKmLnC3sggIXSYh56Vwh) | 4:40 | 2022-09-02 | 2023-04-29 |
 | [El Terremoto](https://open.spotify.com/track/2Rq6afZSpqismRLHVqEj2I) | [Martin Elías](https://open.spotify.com/artist/4xYpn9uFxh8aFPM08Zf5IK), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [Serie Platino Estrellas Del Vallenato](https://open.spotify.com/album/5bjygLFtRwYCZMC2SGET99) | 4:40 | 2024-01-26 |  |
+| [El Trato \- Versión Trato Vallenato](https://open.spotify.com/track/2IXzNfWX6Z3hePGioxSd5i) | [Oscar Gamarra](https://open.spotify.com/artist/5ytyAQZRgrkqSeGiRgkSi1), [Camilo Carvajal](https://open.spotify.com/artist/42jbySe4fUtjS3JpprvmVK) | [El Trato \(Versión Trato Vallenato\)](https://open.spotify.com/album/00Vh40XvMHCBnADsXATz19) | 2:52 | 2026-02-13 |  |
 | [El Yoyó](https://open.spotify.com/track/1KmwTmGNFNhW4PF4KQCawj) | [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [El Yoyó](https://open.spotify.com/album/1BzebJAXtiPURHb0BvdFHN) | 3:32 | 2025-03-28 | 2025-11-22 |
 | [Ella Es La Que Manda](https://open.spotify.com/track/1osVENXDR2Okt3K5Ph5mIy) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 3:57 | 2022-10-21 | 2022-11-13 |
 | [Ella Es la Que Manda](https://open.spotify.com/track/2XS9SpugQuUoCbgc7BcPQw) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Ella Es la Que Manda](https://open.spotify.com/album/27eElNKt2w730nusrMyNyE) | 3:57 | 2024-01-26 |  |

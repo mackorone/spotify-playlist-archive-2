@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,326 likes - 274 songs - 17 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,325 likes - 274 songs - 17 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 46 | [The Same Situation](https://open.spotify.com/track/0jRKHKZhHZpN4Q1GHF7YZt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:57 |
 | 47 | [Song for Sharon](https://open.spotify.com/track/2DslWBUkrGFHWAQe0GpxkB) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 8:37 |
 | 48 | [Come In From The Cold](https://open.spotify.com/track/7eB0zEPAVT1zS8NmyqKy01) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 7:30 |
-| 49 | [Trouble Child](https://open.spotify.com/track/6xnWOh2QmFsggTxGsaPv7X) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 4:00 |
-| 50 | [Blue Motel Room](https://open.spotify.com/track/0wGyenCHkW7eFO2ZpokF6C) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:04 |
+| 49 | [Blue Motel Room](https://open.spotify.com/track/0wGyenCHkW7eFO2ZpokF6C) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:04 |
+| 50 | [Trouble Child](https://open.spotify.com/track/6xnWOh2QmFsggTxGsaPv7X) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 4:00 |
 | 51 | [Just Like This Train](https://open.spotify.com/track/5sybv7y6pikPOhTxTgXfvc) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 4:24 |
 | 52 | [The Magdalene Laundries](https://open.spotify.com/track/2tUzZiFwDCpIx6Hfa8ofoW) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Tears Of Stone](https://open.spotify.com/album/3Bc9WhUsqfHeEIHVVWPAf8) | 4:58 |
 | 53 | [I Don't Know Where I Stand](https://open.spotify.com/track/4rciOQyIBH3Z4UqtV5DQ7K) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 3:13 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 136 | [Alchemy](https://open.spotify.com/track/6ISD5HRFGMfdpwtYfv9Wbe) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:40 |
 | 137 | [Overture \- Cotton Avenue](https://open.spotify.com/track/1uVyBBS0GBYg3DBh1j8ofI) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 6:41 |
 | 138 | [Ladies' Man](https://open.spotify.com/track/6gk3nMocQXCGIwbSrdAFq1) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [redisCOVERed](https://open.spotify.com/album/361B52mkiwOy22cpp2zElU) | 3:31 |
-| 139 | [The Wolf That Lives in Lindsey](https://open.spotify.com/track/2m0CldqLajXS6HfjSKq6Bh) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 6:35 |
-| 140 | [The Windfall \(Everything For Nothing\)](https://open.spotify.com/track/1nEHVp6LKiADEHf9CKlSYN) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 5:14 |
+| 139 | [The Windfall \(Everything For Nothing\)](https://open.spotify.com/track/1nEHVp6LKiADEHf9CKlSYN) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 5:14 |
+| 140 | [The Wolf That Lives in Lindsey](https://open.spotify.com/track/2m0CldqLajXS6HfjSKq6Bh) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 6:35 |
 | 141 | [You Dream Flat Tires](https://open.spotify.com/track/2iZSxXkKzQNSiyq3LOJgaj) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:46 |
 | 142 | [The Sire of Sorrow \(Job's Sad Song\)](https://open.spotify.com/track/2ViLGVtuZyCY3cQb8mmsyi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 7:07 |
 | 143 | [Turbulent Indigo](https://open.spotify.com/track/5c6QtppE0IKNbJR1z4RKCu) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 3:34 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 273 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 274 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AcJgSgAAAACaPoeOrSBReIcNtRx4iosz`
+Snapshot ID: `AcJl6gAAAACcVWzOFQvH+djQXD4EfVKR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,516 likes - 171 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,634 likes - 171 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 4 | [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 |
 | 5 | [In My Mind](https://open.spotify.com/track/1UcSwc91w0QBondREndseA) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [In My Mind](https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib) | 4:15 |
 | 6 | [Can You Imagine \(with Bipolar Sunshine\)](https://open.spotify.com/track/3y6Wh7BsLT647kPBGt8zdr) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Can You Imagine \(with Bipolar Sunshine\)](https://open.spotify.com/album/3dsHgTlqQSqn02QrY5vKYG) | 2:40 |
-| 7 | [Track 1](https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [HOLD ON](https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [HOLD ON](https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H) | 2:23 |
 | 8 | [Keep It Simple](https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E) | [Melr](https://open.spotify.com/artist/6AGtYsLIZrn8KbtrJUP2Uu) | [Keep It Simple](https://open.spotify.com/album/42V3QZUhgYF2059NCTMg7u) | 3:02 |
 | 9 | [Dive In](https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j) | [Only Chris](https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Dive In](https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz) | 2:19 |
 | 10 | [So Lonely](https://open.spotify.com/track/5eJQXOLYb9EYrg22B444E6) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [So Lonely](https://open.spotify.com/album/0DonM4KackIBzO7jHQM67Q) | 4:02 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 15 | [Weightless](https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [Weightless](https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1) | 4:34 |
 | 16 | [I had a dream...](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [I had a dream...](https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0) | 2:39 |
 | 17 | [In My Head](https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Head](https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY) | 2:36 |
-| 18 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 |
+| 18 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 |
 | 19 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
 | 20 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 |
 | 21 | [Dance Without You](https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Dance Without You](https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF) | 2:45 |

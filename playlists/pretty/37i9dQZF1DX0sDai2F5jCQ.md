@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,253 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,254 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 2 | [Two Six](https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:16 |
 | 3 | [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 |
 | 4 | [Down South \(feat\. Key Glock\)](https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Down South](https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO) | 2:19 |
-| 5 | [Track 8](https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [What They Want](https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Lebron Flocka James 2K26](https://open.spotify.com/album/5KJNwu0VqV1SCUsjtLYybh) | 2:59 |
 | 6 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 7 | [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 |
 | 8 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 |

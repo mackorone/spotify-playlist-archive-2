@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-956 songs - 1 day 21 hr 53 min
+957 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Gentle](https://open.spotify.com/track/19PlKAonAMJI24h468rBFp) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [Gentle](https://open.spotify.com/album/4EIyV7nsjGmJBgYjA5HtT5) | 2:58 | 2023-03-23 | 2024-05-05 |
 | [Gentle Climb](https://open.spotify.com/track/4RjeUqphmFXSr7gG3IWwaG) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Gentle Climb](https://open.spotify.com/album/0GVvceBCnVEvxM8EZl7DbR) | 2:33 | 2024-01-17 | 2024-07-12 |
 | [Gentle Eclipse](https://open.spotify.com/track/49W8j7bgx9fOSBZEdnYFHP) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Gentle Eclipse](https://open.spotify.com/album/7GngdrkCPVNlmgrXdVhweO) | 2:24 | 2025-02-14 | 2025-10-19 |
+| [Gentle Night](https://open.spotify.com/track/3RSIBI5VOJDJSkOUH33uya) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Gentle Night](https://open.spotify.com/album/3LvVy8J8X0ogIK82DQoVBL) | 2:27 | 2026-01-27 |  |
 | [Gentle Stillness](https://open.spotify.com/track/4FOSbfL1sThoUEkHKCPuud) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Gentle Stillness](https://open.spotify.com/album/3xQHvUvxrvCAzLzJieWclN) | 2:36 | 2025-07-17 | 2025-10-03 |
 | [Gentle Tide](https://open.spotify.com/track/6AyGot3J2iBmwizBxu9Xu0) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Gentle Tide](https://open.spotify.com/album/0W0GrbukQ1Pa8yco4dDuU8) | 2:33 | 2025-12-17 |  |
 | [Gentle Twilight](https://open.spotify.com/track/7slg7kR2o4AjQiD5tPZFTn) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Gentle Twilight](https://open.spotify.com/album/0JYLeD8c83WY4XImvRjEFj) | 2:31 | 2025-09-23 |  |
@@ -390,7 +391,7 @@
 | [Harmonious Halo](https://open.spotify.com/track/4084NYrwCwfQyuP0vvpXv6) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Harmonious Halo](https://open.spotify.com/album/2K2QiC26BNMbYnYUGaMHB6) | 2:53 | 2024-05-04 | 2024-05-22 |
 | [Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Harvest Moon](https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd) | 3:08 | 2024-08-02 | 2024-08-31 |
 | [Haven](https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Haven](https://open.spotify.com/album/0FY3phJDQ9r1uPmy2OMjXL) | 2:22 | 2025-03-27 | 2025-04-19 |
-| [Haven of Peace](https://open.spotify.com/track/2GLriaoX9PE2thf0iDoh12) | [Linden Vale](https://open.spotify.com/artist/5Jh7KeIgfvJbqVDeosT2C3) | [Haven of Peace](https://open.spotify.com/album/03I8rTqclIdnIvS2WmMQk9) | 2:41 | 2025-10-08 |  |
+| [Haven of Peace](https://open.spotify.com/track/2GLriaoX9PE2thf0iDoh12) | [Linden Vale](https://open.spotify.com/artist/5Jh7KeIgfvJbqVDeosT2C3) | [Haven of Peace](https://open.spotify.com/album/03I8rTqclIdnIvS2WmMQk9) | 2:41 | 2025-10-08 | 2026-02-14 |
 | [Hearts in Eden](https://open.spotify.com/track/7DKJZvhmfl6ijl5mjFGooO) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Hearts in Eden](https://open.spotify.com/album/2pk80AF4W803dFQ71IOeDF) | 3:00 | 2025-05-27 | 2025-10-15 |
 | [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 | 2025-11-13 |
 | [Hibernation](https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 3:36 | 2023-03-23 | 2024-01-18 |

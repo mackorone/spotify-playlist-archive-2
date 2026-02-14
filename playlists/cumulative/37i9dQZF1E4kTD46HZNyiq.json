@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, The Wild Wind, VICTORS and more",
+  "description": "With Rhineland, Laureline, The Wild Wind and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
@@ -5926,7 +5926,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 292200,
       "name": "Don't Go Dark",
       "url": "https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O"
@@ -6866,7 +6866,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 167750,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/7iw9cLtkxLkZgHghAIp33A"
@@ -11810,7 +11810,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 296426,
       "name": "If Only for Tonight",
       "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
@@ -12410,6 +12410,24 @@
       "duration_ms": 220600,
       "name": "January (Over & Over)",
       "url": "https://open.spotify.com/track/7rd3PemiXenDHj6ChEoZf7"
+    },
+    {
+      "album": {
+        "name": "Jenny (Can You Hear Me?)",
+        "url": "https://open.spotify.com/album/10HL8KjPTfgm8hnGxuDC7s"
+      },
+      "artists": [
+        {
+          "name": "Bonze",
+          "url": "https://open.spotify.com/artist/4R3ZKeawoH3DEuHdG0LVpu"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190165,
+      "name": "Jenny (Can You Hear Me?)",
+      "url": "https://open.spotify.com/track/7wljk8UT2l2rVdG7zEBuDu"
     },
     {
       "album": {
@@ -16542,7 +16560,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 233538,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1pFPxzkV0VUWfbnb83NCou"
@@ -20754,7 +20772,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 228080,
       "name": "Soundtrack",
       "url": "https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK"
@@ -23834,7 +23852,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 313400,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"

@@ -1,13 +1,61 @@
 {
   "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
-  "num_followers": 276838,
+  "num_followers": 276863,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAh3zTcn8s5GMdWCyG1dVd3OWShV",
+  "snapshot_id": "AAAAAIqTjmsqxDDcBO17jPzkD8hPG4FI",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "ANXIOUS TO LOVE YOU",
+        "url": "https://open.spotify.com/album/0ZZRL43AgpJAna8uDH1b0w"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "ANXIOUS TO LOVE YOU",
+      "url": "https://open.spotify.com/track/7nCKE7GbXitx9sLjc7jmqV"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 182038,
+      "name": "Dying for You",
+      "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
+    },
     {
       "added_at": "2026-01-09 05:00:44",
       "album": {
@@ -23,6 +71,26 @@
       "duration_ms": 196700,
       "name": "cul-de-sac",
       "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -71,6 +139,22 @@
       "duration_ms": 237952,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
       "added_at": "2026-01-09 05:00:44",
@@ -199,6 +283,22 @@
       "duration_ms": 256218,
       "name": "COLLAPSE PHASE",
       "url": "https://open.spotify.com/track/7ubcBnScUvAhrOWgIob519"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "added_at": "2026-01-09 05:00:44",
@@ -693,22 +793,6 @@
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
-      "added_at": "2025-08-15 13:48:37",
-      "album": {
-        "name": "I Don't Go Out",
-        "url": "https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 158962,
-      "name": "I Don't Go Out",
-      "url": "https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh"
-    },
-    {
       "added_at": "2025-08-01 04:00:32",
       "album": {
         "name": "RACER",
@@ -903,22 +987,6 @@
       "duration_ms": 218970,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1vIaGytGpR3V9QVCVxJObE"
-    },
-    {
-      "added_at": "2025-06-13 04:01:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/779GE2JiWs969fsRY5P04G"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -1141,26 +1209,6 @@
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
     },
     {
-      "added_at": "2025-02-28 05:00:46",
-      "album": {
-        "name": "Off With Her Head",
-        "url": "https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 210365,
-      "name": "Make It Up (feat. Sampha)",
-      "url": "https://open.spotify.com/track/6746jCT3i9N8ICzu8DSBmJ"
-    },
-    {
       "added_at": "2025-01-31 05:00:32",
       "album": {
         "name": "SWEET (feat. Biig Piig)",
@@ -1233,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Aquamarine",
-        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 162814,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
-    },
-    {
       "added_at": "2024-11-11 18:04:33",
       "album": {
         "name": "Where Flowers Grow",
@@ -1311,42 +1343,6 @@
       "duration_ms": 123088,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/4upHoOLWg3PeWnnDnHDPDw"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Behind the Wheel (feat. Slayyyter)",
-      "url": "https://open.spotify.com/track/3OUPzmzbkjLGcXRBB6aGB6"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Scantily Clad",
-        "url": "https://open.spotify.com/album/543BQlkZTHKQnsAubOX9V2"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Scantily Clad",
-      "url": "https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",

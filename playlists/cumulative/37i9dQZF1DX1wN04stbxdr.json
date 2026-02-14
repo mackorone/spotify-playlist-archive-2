@@ -1517,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "Jente i fra by'n",
+        "url": "https://open.spotify.com/album/1qto5H2JRUfbt3dLjSXaqW"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132567,
+      "name": "Jente i fra by'n",
+      "url": "https://open.spotify.com/track/5SJF9OUyNYVNB8Vv50BAnU"
+    },
+    {
+      "album": {
         "name": "Kniven i hjertet",
         "url": "https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP"
       },

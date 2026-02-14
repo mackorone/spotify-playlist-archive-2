@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13991,
+  "num_followers": 13994,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAGXa3Ol8PMi9xVLbhLtgUR",
+  "snapshot_id": "aY0YAAAAAAAC9TezFEOD/gZ752BnA2tk",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Till We Die",
+        "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 180550,
+      "name": "Till We Die",
+      "url": "https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True To Self",
         "url": "https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/3KybqFROlrZOhTwyrByBPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Till We Die",
-        "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 180550,
-      "name": "Till We Die",
-      "url": "https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Not The Tape, Sorry 4 The Wait II",
-        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 225349,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Not The Tape, Sorry 4 The Wait II",
+        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tonga",
+        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Tonga",
+      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
         "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 195555,
       "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
       "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonga",
-        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Tonga",
-      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You & I (feat. Olivetheboy) [Remix]",
-        "url": "https://open.spotify.com/album/7N1Z4pD0qIGEr1kPhuTDHW"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "You & I (feat. Olivetheboy) - Remix",
-      "url": "https://open.spotify.com/track/1flano0UcvIuEHv9YxzCc1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRAG",
         "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
@@ -887,22 +867,6 @@
       "duration_ms": 149504,
       "name": "BRAG",
       "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
     },
     {
       "added_at": null,
@@ -927,6 +891,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You & I (feat. Olivetheboy) [Remix]",
+        "url": "https://open.spotify.com/album/7N1Z4pD0qIGEr1kPhuTDHW"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "You & I (feat. Olivetheboy) - Remix",
+      "url": "https://open.spotify.com/track/1flano0UcvIuEHv9YxzCc1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
       },
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best of Both Worlds",
-        "url": "https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC"
-      },
-      "artists": [
-        {
-          "name": "Raquel",
-          "url": "https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Sweetio - Club Mix",
-      "url": "https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 205578,
       "name": "Mewu (feat. Akwaboah)",
       "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best of Both Worlds",
+        "url": "https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC"
+      },
+      "artists": [
+        {
+          "name": "Raquel",
+          "url": "https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Sweetio - Club Mix",
+      "url": "https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe"
     },
     {
       "added_at": null,

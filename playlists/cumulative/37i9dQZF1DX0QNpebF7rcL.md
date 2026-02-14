@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-540 songs - 1 day 12 hr 14 min
+541 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [California Chase](https://open.spotify.com/track/4YXmZiZPXT5rXypoSUCkWD) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [California Chase](https://open.spotify.com/album/04J6bZZY3n8nMM9pnlMG0P) | 3:28 | 2025-09-19 |  |
 | [Call Me King](https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Call Me King](https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp) | 2:54 | 2022-04-08 | 2024-03-23 |
 | [Can't Catch My Breath](https://open.spotify.com/track/5tqlcXaIjnvtUERP2V9kGL) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Can't Catch My Breath](https://open.spotify.com/album/0mHQDQgf1KUIJmGzG9pwdv) | 5:37 | 2025-03-21 |  |
-| [Can't Fix The World](https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [Can't Fix The World](https://open.spotify.com/album/4JeL7F0hiycVVfYfkMOKIB) | 4:15 | 2024-04-12 |  |
+| [Can't Fix The World](https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [Can't Fix The World](https://open.spotify.com/album/4JeL7F0hiycVVfYfkMOKIB) | 4:15 | 2024-04-12 | 2026-02-14 |
 | [Can't Shake It](https://open.spotify.com/track/0mzkzGp6soO8mqdMxjXNt8) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Can't Shake It](https://open.spotify.com/album/4R82wUVO0IO9JujMybWwD4) | 3:29 | 2026-01-09 | 2026-01-24 |
 | [Can't Take My Joy](https://open.spotify.com/track/3uqp1o9gimiZq1dpQohNI7) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Hallelujah! Don't Let The Devil Fool Ya](https://open.spotify.com/album/0dZ5Jt3zP4gqbrlOLBSpwT) | 4:10 | 2025-10-10 |  |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2021-12-17 | 2022-01-29 |
@@ -355,6 +355,7 @@
 | [Pay Day](https://open.spotify.com/track/1iT4ldPXWLtm6L80p0V7Yh) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom), [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Pay Day](https://open.spotify.com/album/2EcHCbjLJ5uPgDwkHPMoVa) | 3:17 | 2021-12-03 | 2023-08-19 |
 | [Pay the Price](https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 3:52 | 2022-11-18 | 2025-02-01 |
 | [Payback Time \(ft\. Billy Gibbons\)](https://open.spotify.com/track/1S129VbPDmmyHxYwYuwPqz) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Payback Time](https://open.spotify.com/album/5TzbIVQa4RyUUtqIZILlvK) | 3:35 | 2024-05-03 | 2024-06-08 |
+| [Perfect Illusion](https://open.spotify.com/track/3PQVdzi8AzhCezucKB1R3Q) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Perfect Illusion](https://open.spotify.com/album/0guLOURlqAn4TaBdAzGvhA) | 4:14 | 2026-02-13 |  |
 | [Pick a Bale of Cotton](https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Pick a Bale of Cotton](https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC) | 3:02 | 2022-03-25 | 2022-04-23 |
 | [Pink Turns To Red](https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:28 | 2022-08-19 | 2024-07-13 |
 | [Pocket](https://open.spotify.com/track/7425NoOizrwarYeXxxUseQ) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa), [Ian Moore](https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz), [Johnny Moeller](https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk) | [Texas Headhunters](https://open.spotify.com/album/2vP7ttK02EcmaTWmtE7isq) | 3:55 | 2025-08-22 |  |

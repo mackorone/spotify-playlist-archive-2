@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278416,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
+    },
+    {
+      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148327,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof"
@@ -286,7 +304,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 190657,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh"
@@ -464,6 +482,24 @@
       "duration_ms": 209480,
       "name": "Boilermaker",
       "url": "https://open.spotify.com/track/27BEATf1JFhKDmwJdpGVSk"
+    },
+    {
+      "album": {
+        "name": "Bomb To A Knife Fight",
+        "url": "https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161504,
+      "name": "Bomb To A Knife Fight",
+      "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
     },
     {
       "album": {
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221333,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ"
@@ -1588,6 +1624,28 @@
       "duration_ms": 186447,
       "name": "EVERYONEISTHESAME",
       "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+    },
+    {
+      "album": {
+        "name": "Everything Burns (feat. Beartooth)",
+        "url": "https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Everything Burns (feat. Beartooth)",
+      "url": "https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG"
     },
     {
       "album": {
@@ -1822,7 +1880,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207620,
       "name": "Fuct",
       "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
@@ -2424,7 +2482,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213000,
       "name": "Hypa Hypa",
       "url": "https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a"
@@ -2532,7 +2590,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 188859,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq"
@@ -2709,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
+    },
+    {
+      "album": {
         "name": "Inside Out (Radio Edit)",
         "url": "https://open.spotify.com/album/7tc4x2RQywmld2AlPefMVc"
       },
@@ -2782,6 +2858,24 @@
       "duration_ms": 237053,
       "name": "Is Everybody Going Crazy?",
       "url": "https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS"
+    },
+    {
+      "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/1IsOJ7IdwOxIxjhiqwvdPm"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189100,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/4qD7E5bh9UecHMbC2BIGYD"
     },
     {
       "album": {
@@ -3070,6 +3164,28 @@
       "duration_ms": 192008,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1"
+    },
+    {
+      "album": {
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
     },
     {
       "album": {
@@ -3686,7 +3802,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 230000,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/5315Z6xurVwPxLivHKCidH"
@@ -3842,7 +3958,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 172250,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/6emZMVNvIxW57fhxPlyxLp"
@@ -4220,7 +4336,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 211520,
       "name": "Sharkbait",
       "url": "https://open.spotify.com/track/2XybqMpL67EfQErfR00HID"
@@ -4987,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "Something To Consume",
+        "url": "https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY"
+      },
+      "artists": [
+        {
+          "name": "Die Spitz",
+          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160163,
+      "name": "Throw Yourself to the Sword",
+      "url": "https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0"
+    },
+    {
+      "album": {
         "name": "The Razors Edge",
         "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
@@ -5056,6 +5190,24 @@
       "duration_ms": 228400,
       "name": "Trouble\u2019s Coming",
       "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+    },
+    {
+      "album": {
+        "name": "TWICE",
+        "url": "https://open.spotify.com/album/29cUGht8DCeDQ9DDTVHlZG"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224404,
+      "name": "TWICE",
+      "url": "https://open.spotify.com/track/3c7E75a0REL2z6jt8yfrjV"
     },
     {
       "album": {
@@ -5200,6 +5352,24 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "album": {
+        "name": "WE\u2019RE IN THIS TOGETHER",
+        "url": "https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252128,
+      "name": "WE\u2019RE IN THIS TOGETHER",
+      "url": "https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75"
     },
     {
       "album": {

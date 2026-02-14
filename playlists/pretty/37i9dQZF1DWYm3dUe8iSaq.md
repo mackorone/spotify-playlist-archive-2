@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,669 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,671 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 26 | [Gloria](https://open.spotify.com/track/0zKdnh2MYbxhFpqZi2VprC) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 3:38 |
 | 27 | [summer in december](https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [wraith](https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC) | 4:05 |
 | 28 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
-| 29 | [Against The Dying Of The Light](https://open.spotify.com/track/3v5WkwwPl4omj9kiXnaEJt) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/0RkkdRmM3fwNipEAuweRhK) | 2:28 |
-| 30 | [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 |
+| 29 | [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 |
+| 30 | [Against The Dying Of The Light](https://open.spotify.com/track/3v5WkwwPl4omj9kiXnaEJt) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/0RkkdRmM3fwNipEAuweRhK) | 2:28 |
 | 31 | [Diamonds & Roses](https://open.spotify.com/track/5dQ1oSOiGzfPPbPpzWTT7Y) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Diamonds & Roses](https://open.spotify.com/album/6zWSQlnZvg7Tr8Koz3BMI6) | 2:45 |
 | 32 | [Hand Me Downs](https://open.spotify.com/track/5S0AVPd1lhwc7oO6RqGQma) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Hand Me Downs](https://open.spotify.com/album/28F63ko4d2fWBCeL9I9ghD) | 3:29 |
 | 33 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
-| 34 | [In Your Ocean](https://open.spotify.com/track/1lsITIBuXbG6e6LJqWZqM1) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In Your Ocean](https://open.spotify.com/album/0bwve76sWtiZcncRo7rN5c) | 3:22 |
-| 35 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 34 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 35 | [In Your Ocean](https://open.spotify.com/track/1lsITIBuXbG6e6LJqWZqM1) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In Your Ocean](https://open.spotify.com/album/0bwve76sWtiZcncRo7rN5c) | 3:22 |
 | 36 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
 | 37 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
 | 38 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 61 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
 | 62 | [No Sudden Changes](https://open.spotify.com/track/29uDIxqSTN3NVNjmU6w6Dz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:44 |
 | 63 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
-| 64 | [Times Square Jesus](https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Times Square Jesus](https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX) | 4:15 |
-| 65 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 |
+| 64 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 |
+| 65 | [Times Square Jesus](https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Times Square Jesus](https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX) | 4:15 |
 | 66 | [best thing](https://open.spotify.com/track/5L3aHDHOBC8wuahElfRzF0) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [best thing](https://open.spotify.com/album/3wURrlGrt2NuddOFSamiqh) | 4:27 |
 | 67 | [Team Babe](https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Until The Comet Came](https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17) | 4:06 |
 | 68 | [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 |
 | 69 | [Danny](https://open.spotify.com/track/0SodyCDKktmOihlKE7jL9p) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Danny](https://open.spotify.com/album/25ffmsqPglf3Mx2WqBEn1z) | 4:38 |
-| 70 | [Finest Work](https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Bargaining](https://open.spotify.com/album/08yLEdKzlgvqzV6w4k6KWK) | 2:53 |
-| 71 | [Lose](https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lose](https://open.spotify.com/album/5DgdTn8PkuVCuoHp1XdDap) | 3:15 |
+| 70 | [Lose](https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lose](https://open.spotify.com/album/5DgdTn8PkuVCuoHp1XdDap) | 3:15 |
+| 71 | [Finest Work](https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Bargaining](https://open.spotify.com/album/08yLEdKzlgvqzV6w4k6KWK) | 2:53 |
 | 72 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 73 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 |
 | 74 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 75 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
 | 76 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 77 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 |
-| 78 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
-| 79 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
-| 80 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
+| 78 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
+| 79 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
+| 80 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
 
 Snapshot ID: `AAAAAGZW5Sv1AVMqPKfESAzBVe9WfEK8`

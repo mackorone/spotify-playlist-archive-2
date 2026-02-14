@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 708076,
+  "num_followers": 708100,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 219960,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
       "added_at": "2025-08-29 04:00:33",
       "album": {
         "name": "I'll Stand By You",
@@ -999,6 +983,22 @@
       "duration_ms": 247113,
       "name": "I'll Stand By You",
       "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
+        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
+      },
+      "artists": [
+        {
+          "name": "Anthony D'Amato",
+          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
+        }
+      ],
+      "duration_ms": 192927,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Everybody Hurts",
         "url": "https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe"
       },
@@ -1315,38 +1331,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Dreams (Lanie's Version)",
-        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
-      },
-      "artists": [
-        {
-          "name": "Lanie Gardner",
-          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Dreams - Lanie's Version",
-      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
-        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
-      },
-      "artists": [
-        {
-          "name": "Anthony D'Amato",
-          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
-        }
-      ],
-      "duration_ms": 192927,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Mercy Mercy Me (The Ecology)",
         "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 190885,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Dreams (Lanie's Version)",
+        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Dreams - Lanie's Version",
+      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
     },
     {
       "added_at": "2025-08-29 04:00:33",

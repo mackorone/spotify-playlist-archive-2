@@ -4705,8 +4705,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -13745,8 +13745,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Testamento",
+        "url": "https://open.spotify.com/album/1vqsaa4YCKdspZ0XvTmfut"
       },
       "artists": [
         {
@@ -15341,8 +15341,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
       },
       "artists": [
         {
@@ -38901,6 +38901,24 @@
     },
     {
       "album": {
+        "name": "Jazz Do It 2.0",
+        "url": "https://open.spotify.com/album/3fLjGDYqcg9NzihB7p6XU9"
+      },
+      "artists": [
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Jazz Do It 2.0",
+      "url": "https://open.spotify.com/track/3HYdvzAV006nT6JH8zHYJ9"
+    },
+    {
+      "album": {
         "name": "Jealous Type",
         "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
       },
@@ -42016,6 +42034,24 @@
       "duration_ms": 274887,
       "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
       "url": "https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu"
+    },
+    {
+      "album": {
+        "name": "BENDITO INFIERNO",
+        "url": "https://open.spotify.com/album/1YUBFGBf0qmRsv7Wj0MXiE"
+      },
+      "artists": [
+        {
+          "name": "NANO Mz",
+          "url": "https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "LA M\u00c1S GUAPA DEL SUR",
+      "url": "https://open.spotify.com/track/3xFAvucO6eZHl8Pw1AJ3lz"
     },
     {
       "album": {
@@ -59605,6 +59641,24 @@
     },
     {
       "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/1lBKW4HHxg6S85ilxpNzx2"
+      },
+      "artists": [
+        {
+          "name": "Moni Motes",
+          "url": "https://open.spotify.com/artist/4XWTuDTFJpCJb34bUAB6ZD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194615,
+      "name": "Nuestro Sitio",
+      "url": "https://open.spotify.com/track/4VlTmd1OSQyl0fSJklCpVT"
+    },
+    {
+      "album": {
         "name": "Nueva Season",
         "url": "https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm"
       },
@@ -62255,8 +62309,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
       },
       "artists": [
         {
@@ -63351,8 +63405,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Hace tiempo que quiero estar as\u00ed",
+        "url": "https://open.spotify.com/album/4t570qpKaExTTM16ad1G4N"
       },
       "artists": [
         {
@@ -79433,8 +79487,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ALTA VAINA",
+        "url": "https://open.spotify.com/album/2WmjGlnngEUA9ZEtQL2RPH"
       },
       "artists": [
         {
@@ -80916,12 +80970,12 @@
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
           "name": "Boy Wonder CF",
           "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         },
         {
           "name": "Lewis Somes",
@@ -83561,42 +83615,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "NANO Mz",
-          "url": "https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/3xFAvucO6eZHl8Pw1AJ3lz"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Moni Motes",
-          "url": "https://open.spotify.com/artist/4XWTuDTFJpCJb34bUAB6ZD"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4VlTmd1OSQyl0fSJklCpVT"
-    },
-    {
-      "album": {
         "name": "Traficando Rap",
         "url": "https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5"
       },
@@ -85101,8 +85119,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
       "artists": [
         {

@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 123943,
+  "num_followers": 123956,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 190714,
       "name": "The Trouble is..\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19 - From \"\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e23\u0e49\u0e2d\u0e22\"",
       "url": "https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
+        "url": "https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        },
+        {
+          "name": "June",
+          "url": "https://open.spotify.com/artist/6Khbxrf3TKvQ5dUrfLoZUG"
+        }
+      ],
+      "duration_ms": 261750,
+      "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
+      "url": "https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
         "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 191392,
       "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
       "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
-        "url": "https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T"
-      },
-      "artists": [
-        {
-          "name": "Jaonaay",
-          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
-        },
-        {
-          "name": "Jun\u00e9",
-          "url": "https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x"
-        }
-      ],
-      "duration_ms": 261750,
-      "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
-      "url": "https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "rain",
-        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 196896,
-      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
-      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
         "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "TWO OF A KIND",
         "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 238000,
       "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "The White Room",
+        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
+      },
+      "artists": [
+        {
+          "name": "Singular",
+          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
+      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -759,22 +775,6 @@
       "duration_ms": 198787,
       "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "The White Room",
-        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
-      },
-      "artists": [
-        {
-          "name": "Singular",
-          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
-      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
+        "name": "\u0e1e\u0e34\u0e07 - Single",
+        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
       },
       "artists": [
         {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
         }
       ],
-      "duration_ms": 229250,
-      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
+      "duration_ms": 242727,
+      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
+      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "This City Won\u2019t Be Lonely Anymore",
         "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 296000,
       "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
       "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "\u0e1e\u0e34\u0e07 - Single",
-        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 242727,
-      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
-      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1455,6 +1455,22 @@
       "duration_ms": 231946,
       "name": "\u0e02\u0e49\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e21\u0e04\u0e27\u0e23\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
+        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 246434,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
+      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
-        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 246434,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
-      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "All You Need is Love 3",
         "url": "https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD"
       },
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
-        "url": "https://open.spotify.com/album/4LzRiXhlrvnKR2WcRoeBlJ"
+        "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e41\u0e2a\u0e19\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
+        "url": "https://open.spotify.com/album/3tDLpiQjYwJkjETSOceaqB"
       },
       "artists": [
         {
-          "name": "Zom Marie",
-          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
-        },
-        {
-          "name": "Oat Pramote",
-          "url": "https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv"
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE"
         }
       ],
-      "duration_ms": 197338,
-      "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a (feat. \u0e42\u0e2d\u0e4a\u0e15 \u0e1b\u0e23\u0e32\u0e42\u0e21\u0e17\u0e22\u0e4c)",
-      "url": "https://open.spotify.com/track/48hZrIt6isIvgbWfvvGgjI"
+      "duration_ms": 273396,
+      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e41\u0e2a\u0e19\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
+      "url": "https://open.spotify.com/track/2cVpBnBvc8bhGDaSCFr6rV"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

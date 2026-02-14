@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,867 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,869 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 30 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 |
 | 31 | [All I Want](https://open.spotify.com/track/0nrBYMziJMKR7u3ylc1iSE) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:09 |
 | 32 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 |
-| 33 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 |
-| 34 | [Marameo](https://open.spotify.com/track/29uL3fef86r156Qsy00WeY) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo](https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7) | 2:28 |
+| 33 | [Marameo](https://open.spotify.com/track/29uL3fef86r156Qsy00WeY) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo](https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7) | 2:28 |
+| 34 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 |
 | 35 | [Elevator Eyes](https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Elevator Eyes](https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ) | 2:58 |
 | 36 | [Borderline](https://open.spotify.com/track/14C1wNCWXW9KZgQHCPCbWe) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/3NJJbO7tp4poBxC7x0eoOl) | 2:54 |
 | 37 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 48 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
 | 49 | [No Room For Love](https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [No Room For Love](https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8) | 2:57 |
 | 50 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
-| 51 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
-| 52 | [Do Good Be Better](https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Do Good Be Better](https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ) | 2:42 |
-| 53 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
+| 51 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
+| 52 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
+| 53 | [Do Good Be Better](https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Do Good Be Better](https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ) | 2:42 |
 | 54 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
-| 55 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
-| 56 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 55 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 56 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
 | 57 | [Beautiful Woman](https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:33 |
 | 58 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
 | 59 | [And Then Came You](https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [And Then Came You](https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS) | 3:15 |

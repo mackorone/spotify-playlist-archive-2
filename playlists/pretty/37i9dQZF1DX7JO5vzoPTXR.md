@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:playlist:37i9dQZF1EFQuy1uEYTm1p">Ariel Imani</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,360 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,406 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Ugly Crier](https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Can I Come Too?](https://open.spotify.com/album/5007izIDA5T2I96QI67JaO) | 3:20 |
 | 50 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 
-Snapshot ID: `AAAAAAojp/qbjeWk8oXDCgTP58xbKvrt`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`

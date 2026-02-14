@@ -14976,7 +14976,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 181747,
       "name": "Hart Se Huis",
       "url": "https://open.spotify.com/track/5nRmUgC9OlJKDJQSM8IfGu"
@@ -15096,6 +15096,24 @@
       "duration_ms": 159349,
       "name": "Hartaanval - Acoustic",
       "url": "https://open.spotify.com/track/2kGdg0aDmJuiLO2RQxB41G"
+    },
+    {
+      "album": {
+        "name": "Hartedief",
+        "url": "https://open.spotify.com/album/144JQdwCcUgMK7l7REoJ1h"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176936,
+      "name": "Hartedief",
+      "url": "https://open.spotify.com/track/1LoPKOqVyvGJ5DABsk59nf"
     },
     {
       "album": {
@@ -36158,6 +36176,28 @@
       "duration_ms": 164558,
       "name": "Soos Die Re\u00ebn",
       "url": "https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX"
+    },
+    {
+      "album": {
+        "name": "Soos Pappa",
+        "url": "https://open.spotify.com/album/2vQRxAMrSyPQ7N0pcB0luI"
+      },
+      "artists": [
+        {
+          "name": "Caitie Rock",
+          "url": "https://open.spotify.com/artist/6hziGkMhslWlOlFs0Xpm8E"
+        },
+        {
+          "name": "Dewan van Helsdingen",
+          "url": "https://open.spotify.com/artist/0dyFQmrpPMaBRUKbJEezZS"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184943,
+      "name": "Soos Pappa",
+      "url": "https://open.spotify.com/track/2FGW1G3fCoxQ8wbAKwFLKG"
     },
     {
       "album": {

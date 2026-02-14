@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 8807,
+  "num_followers": 8805,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAGCiAPaY8XnZreMj864MnMloafabOI",
+  "snapshot_id": "AAAGD63g8Ad2av4xCQL0Ex+YsOQUeOhi",
   "tracks": [
     {
       "added_at": "2025-02-09 18:37:35",
@@ -301,10 +301,10 @@
       "url": "https://open.spotify.com/track/67KMSGyRuUiB66SfkXhBaC"
     },
     {
-      "added_at": "2025-11-28 19:30:36",
+      "added_at": "2026-02-13 19:05:08",
       "album": {
-        "name": "Never Tear Us Apart",
-        "url": "https://open.spotify.com/album/3qjVJQkiIpG2jVKjzWRV3K"
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/6KUsfLkrv2n1qZd6ojmgIT"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
         }
       ],
-      "duration_ms": 120452,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/0nrgRYApN2iNRQ3FTZILer"
+      "duration_ms": 201031,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/691sWxifVUICpiHe4jbZev"
     },
     {
       "added_at": "2025-02-09 18:37:35",
@@ -777,10 +777,10 @@
       "url": "https://open.spotify.com/track/026V2pBcCLiVGYCe5LUU12"
     },
     {
-      "added_at": "2025-06-27 17:59:49",
+      "added_at": "2026-02-13 19:15:55",
       "album": {
-        "name": "Thinking Out Loud (Acoustic)",
-        "url": "https://open.spotify.com/album/2TfaY2Qo3JiCEBYhzRG2jV"
+        "name": "Sweet Dreams (Are Made of This) [Acoustic]",
+        "url": "https://open.spotify.com/album/7IcHMcOmoxYOxxXPoJakNM"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
         }
       ],
-      "duration_ms": 266278,
-      "name": "Thinking Out Loud - Acoustic",
-      "url": "https://open.spotify.com/track/5g8icmRtCprCAYeSVtJufd"
+      "duration_ms": 142758,
+      "name": "Sweet Dreams (Are Made of This) - Acoustic",
+      "url": "https://open.spotify.com/track/0dIH2PTEvCAoqiLZz4oVsX"
     },
     {
       "added_at": "2025-02-09 18:37:35",
@@ -1011,6 +1011,22 @@
       "duration_ms": 160882,
       "name": "Stargazing - Acoustic",
       "url": "https://open.spotify.com/track/5uHduwKoauygmlCn8J8cBx"
+    },
+    {
+      "added_at": "2026-02-13 18:54:46",
+      "album": {
+        "name": "Dakota",
+        "url": "https://open.spotify.com/album/2T7jF9GrVXcaKGOhp3kfLd"
+      },
+      "artists": [
+        {
+          "name": "Richard Watts",
+          "url": "https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI"
+        }
+      ],
+      "duration_ms": 208627,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/6UAtC9L1KsEzW1DzaBOKFe"
     },
     {
       "added_at": "2025-02-09 18:37:35",

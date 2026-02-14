@@ -6369,6 +6369,28 @@
     },
     {
       "album": {
+        "name": "YATO",
+        "url": "https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181301,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/60Qbxkui6XGLsKtJUISv15"
+    },
+    {
+      "album": {
         "name": "Love Me So",
         "url": "https://open.spotify.com/album/3Eil8mJ7L80ULdDnRVU9Hp"
       },

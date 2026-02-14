@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 172329,
+  "num_followers": 172336,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAB676A57OdSxVv3aqQvIxMI",
+  "snapshot_id": "aY0YAAAAAADdjdw8pyYqhwWPV1pijeCN",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timespace - The Best Of Stevie Nicks",
-        "url": "https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 327946,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/3OeHBpJwMsIGcdumxCtzte"
+      "duration_ms": 275840,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "Timespace - The Best Of Stevie Nicks",
+        "url": "https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 275840,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
+      "duration_ms": 327946,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/3OeHBpJwMsIGcdumxCtzte"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Enchanted - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street Angel",
         "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 259066,
       "name": "Maybe Love Will Change Your Mind",
       "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Enchanted - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
     },
     {
       "added_at": null,

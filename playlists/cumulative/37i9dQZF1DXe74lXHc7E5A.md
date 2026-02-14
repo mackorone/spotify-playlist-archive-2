@@ -2,9 +2,9 @@
 
 ### [Hype List](https://open.spotify.com/playlist/37i9dQZF1DXe74lXHc7E5A)
 
-> Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Lil Uzi Vert
+> Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Central Cee
 
-615 songs - 1 day 6 hr 52 min
+616 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 | 2024-02-23 | 2024-08-02 |
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 | 2022-07-27 | 2023-11-11 |
 | [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 | 2025-07-18 | 2025-08-16 |
+| [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 | 2026-02-13 |  |
 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 |  |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/6G4q8Qb7CQP5gVtzQNK0zT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/35nmDyrcnDY4B1ISYpKEEs) | 4:20 | 2023-11-10 | 2023-12-14 |
 | [If Only \(feat\. 21 Savage\)](https://open.spotify.com/track/2dwqjMo4L4UtPPZ8DzI50N) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [For Her 2](https://open.spotify.com/album/6nniLiblGIJoAo5FHTQ1US) | 2:27 | 2025-09-19 |  |
@@ -325,7 +326,7 @@
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-07-27 | 2023-02-17 |
 | [Last Week](https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 3:55 | 2024-05-17 |  |
 | [Lavida Loca](https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Party In The Jungle](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:35 | 2023-08-10 | 2023-08-18 |
-| [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 | 2022-07-27 |  |
+| [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 | 2022-07-27 | 2026-02-14 |
 | [LEAN!](https://open.spotify.com/track/0VSLiEDoFqM40mHGduBAWO) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ECEE](https://open.spotify.com/artist/4Fjy32nOkX6jFJlDjSjabL), [Rhoma BTW](https://open.spotify.com/artist/2J7GsZDs3M7SRN81uJvHPH), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Osapa London \- Deluxe](https://open.spotify.com/album/38SLubt4uf3dQJcLpRapoa) | 3:19 | 2023-12-08 | 2023-12-22 |
 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 | 2025-08-15 | 2026-02-13 |
 | [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO) | [Chocolate City](https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/album/28pficBKrjRzddaQThdPo6) | 4:25 | 2025-08-15 | 2025-09-19 |

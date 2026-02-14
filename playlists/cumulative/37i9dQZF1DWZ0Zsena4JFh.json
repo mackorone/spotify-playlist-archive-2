@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "lo alt, raro y cool. The Black Keys en portada.",
+  "description": "lo alt, raro y cool. Lykke Li en portada.",
   "name": "el indie no es un g\u00e9nero ",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187889,
       "name": "555",
       "url": "https://open.spotify.com/track/3kdKikExAZGvLjuvgyJwQ3"
@@ -3084,7 +3084,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219786,
       "name": "Different Kind Of Love",
       "url": "https://open.spotify.com/track/2aD8QNWrmr8vslwcTLApxd"
@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 190901,
       "name": "Drama King",
       "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 97577,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H"
@@ -4705,6 +4705,28 @@
     },
     {
       "album": {
+        "name": "God\u2019s Lonely Man",
+        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "God's Lonely Man",
+      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
+    },
+    {
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/4uVyqBkVvpMGlw7sspEFX4"
       },
@@ -5066,7 +5088,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
@@ -5222,6 +5244,24 @@
       "duration_ms": 201533,
       "name": "Hombre Roto",
       "url": "https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
     },
     {
       "album": {
@@ -5590,7 +5630,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213483,
       "name": "I Should Know Better",
       "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
@@ -5790,7 +5830,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
@@ -7123,6 +7163,24 @@
     },
     {
       "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "album": {
         "name": "Lunar Eclipse",
         "url": "https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6"
       },
@@ -7236,6 +7294,28 @@
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "album": {
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "album": {
@@ -9409,6 +9489,24 @@
     },
     {
       "album": {
+        "name": "Push My Luck / All I Ever Need",
+        "url": "https://open.spotify.com/album/0cLXxNkMhEa614yKA6bVLS"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164975,
+      "name": "Push My Luck",
+      "url": "https://open.spotify.com/track/6oOuk5ooJK2s6yTv6uJLrM"
+    },
+    {
+      "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
       },
@@ -9613,6 +9711,24 @@
     },
     {
       "album": {
+        "name": "Right Hand to God",
+        "url": "https://open.spotify.com/album/7iVlDKsdWH0hwblWES6qAP"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133360,
+      "name": "Right Hand to God",
+      "url": "https://open.spotify.com/track/1nmR9nOziOaVohX2qCkIpU"
+    },
+    {
+      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
       },
@@ -9642,7 +9758,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 250044,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9"
@@ -10567,6 +10683,24 @@
     },
     {
       "album": {
+        "name": "Blue Sky Mentality (Complete Edition)",
+        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
+    },
+    {
+      "album": {
         "name": "Ask That God (Deluxe)",
         "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
       },
@@ -10828,7 +10962,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 230950,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/0KnjvgJtt8hSAcBOcjOrQ8"
@@ -11801,6 +11935,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/5sDUrFKbblEanZIBpxMxJ1"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "The Roses",
+      "url": "https://open.spotify.com/track/1EfKjbPLXgh7uBZoK1PQtp"
+    },
+    {
+      "album": {
         "name": "The Scythe",
         "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
       },
@@ -12730,7 +12882,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 203306,
       "name": "Victim Of Luck",
       "url": "https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y"
@@ -13155,6 +13307,28 @@
     },
     {
       "album": {
+        "name": "Where's My Love (with Carla)",
+        "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Where's My Love - with Carla",
+      "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
+    },
+    {
+      "album": {
         "name": "Where's My Phone?",
         "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
       },
@@ -13408,7 +13582,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197646,
       "name": "You Got to Lose",
       "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"

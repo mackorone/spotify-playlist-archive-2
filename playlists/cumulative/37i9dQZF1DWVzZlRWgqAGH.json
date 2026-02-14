@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Sasha Keable and music for your soul.",
+  "description": "Jill Scott and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 227979,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw"
@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 194520,
       "name": "Candycrush",
       "url": "https://open.spotify.com/track/3vGaZLl90LVC8ghGEb1IV9"
@@ -6436,6 +6436,24 @@
       "duration_ms": 319180,
       "name": "COMMUNITY",
       "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
+    },
+    {
+      "album": {
+        "name": "PEACE",
+        "url": "https://open.spotify.com/album/64OUQJ9FkzFV3FrMqdSBir"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393427,
+      "name": "Community Research",
+      "url": "https://open.spotify.com/track/2Y2XjQ5V9xJGpgdYaxRNNK"
     },
     {
       "album": {
@@ -9814,7 +9832,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 264706,
       "name": "Family First",
       "url": "https://open.spotify.com/track/3JX80bRKJCT06iqnn8BoP5"
@@ -11470,6 +11488,28 @@
       "duration_ms": 235595,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4jwRVl6I3hwj1QydMemuGG"
+    },
+    {
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
     },
     {
       "album": {
@@ -16974,7 +17014,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213726,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
@@ -20112,7 +20152,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 214265,
       "name": "MORE THAN A HOMIE",
       "url": "https://open.spotify.com/track/4LRzUc9qsLTwHhzXd8WaTI"
@@ -25133,6 +25173,24 @@
     },
     {
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/47wz4Jd9NtdNNStLsM7reV"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193046,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/5F9W0ZzmESRfGUvMluW1kU"
       },
@@ -27676,6 +27734,24 @@
       "duration_ms": 188866,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/4pH6laAb6NMMZUKB3QriFq"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2IPAFLfHHc6v3hwvQs9r5H"
+      },
+      "artists": [
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203030,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/3qkjIhQFkrefAkYcxMRzty"
     },
     {
       "album": {
@@ -31447,6 +31523,28 @@
     },
     {
       "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
+    },
+    {
+      "album": {
         "name": "Comfortable Enough",
         "url": "https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp"
       },
@@ -32476,7 +32574,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 258181,
       "name": "Up From Here",
       "url": "https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT"
@@ -34630,6 +34728,24 @@
       "duration_ms": 100913,
       "name": "yaya my favorite",
       "url": "https://open.spotify.com/track/64yyyhvsrS8OssAaKK93lv"
+    },
+    {
+      "album": {
+        "name": "Just A Few Folk",
+        "url": "https://open.spotify.com/album/7HffRJ97ixJ3qpKKYYBQGZ"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201834,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/4KWDgLFV5vaLBWGr4xf9wr"
     },
     {
       "album": {

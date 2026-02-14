@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "DAISIES",
+        "url": "https://open.spotify.com/album/6tK8tkhG4aW5WPsdSGYv5S"
+      },
+      "artists": [
+        {
+          "name": "A Whisper",
+          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171369,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/23PNwyg8r5ckWbB67J45NS"
+    },
+    {
+      "album": {
         "name": "Dance The Night",
         "url": "https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 170000,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O"
@@ -5765,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/7pCmLL0xUeGA8HP3vtBxGa"
+      },
+      "artists": [
+        {
+          "name": "Arin Voss",
+          "url": "https://open.spotify.com/artist/23Aw5xl3tiXz4cf3KgCjRa"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5XoV7SjqZo7eAw1JyUbCW9"
+    },
+    {
+      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/0wDfBdeTA9UZQSZlmYauhj"
       },
@@ -7871,6 +7907,24 @@
     },
     {
       "album": {
+        "name": "Ring of Fire",
+        "url": "https://open.spotify.com/album/7wZzq2moVmJn9zbljYIVKE"
+      },
+      "artists": [
+        {
+          "name": "Olavi Heed",
+          "url": "https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174097,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/2QxjuojRvon4Ibwjxhz6Sb"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/30oZC5zwXPQU272JVU8B1k"
       },
@@ -9664,7 +9718,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 236729,
       "name": "The Lady in Red",
       "url": "https://open.spotify.com/track/7qPoDnfzj2YTRmYvduCEfs"
@@ -11558,7 +11612,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 151308,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/27DodeB1seENJxnWojPa6G"

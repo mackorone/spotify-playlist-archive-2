@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-364 songs - 23 hr 19 min
+366 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2019-02-18 |  |
 | [3005](https://open.spotify.com/track/3Z2sglqDj1rDRMF5x0Sz2R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because The Internet](https://open.spotify.com/album/0zi2TaQkYxfXIBvl2yTjQJ) | 3:54 | 2019-02-12 |  |
 | [40 Loop \(Wild Hunt Sessions\)](https://open.spotify.com/track/2eA1upv8GnYMmwN32lV5L5) | [Wild Hunt](https://open.spotify.com/artist/4bimfv6edtj0UI0eMpp4zA), [Purser](https://open.spotify.com/artist/1BqQWEnRl5jLqRWKpsnj6L) | [Purser \(Wild Hunt Sessions\)](https://open.spotify.com/album/789990Ar3S4X9rEUSJwv0j) | 4:19 | 2023-04-13 |  |
-| [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2026-01-23 |  |
+| [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2026-01-23 | 2026-02-14 |
 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 | 2020-12-18 |  |
 | [911 / Mr\. Lonely \(feat\. Frank Ocean & Steve Lacy\)](https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 4:15 | 2020-04-26 |  |
 | [A Place Where Love Goes](https://open.spotify.com/track/0oVBkJA2wrSqrwz3eJ6c85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:43 | 2024-07-21 |  |
@@ -26,6 +26,7 @@
 | [After Hours](https://open.spotify.com/track/31bmr5SE0qrrIPhjGbnwKP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/6YlDIxqEjvY63ffH6AwCjd) | 6:01 | 2021-06-18 |  |
 | [All Eyes On Me \(Song Only\)](https://open.spotify.com/track/47emsK4Cj4dMqctYq18U03) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [All Eyes On Me \(Song Only\)](https://open.spotify.com/album/18Y1q1NM3YQT5pEjbHiy5T) | 3:32 | 2021-07-08 |  |
 | [Alone Time](https://open.spotify.com/track/3NA06jeJUDLvjIQKZz7g25) | [AnimatedJames](https://open.spotify.com/artist/261p6aGvINassB4gooY8KP) | [Alone Time](https://open.spotify.com/album/58VpZ13C1y1Wg0xJfDK6J9) | 4:37 | 2024-10-22 |  |
+| [Altars](https://open.spotify.com/track/37Vbx4pkj4QdmE4fPfAdoD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:56 | 2026-02-13 |  |
 | [AMERIICAN REQUIEM](https://open.spotify.com/track/6K2Iut8nSQigP83yvbiqi8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 5:25 | 2024-03-30 |  |
 | [Anakin and Padmé](https://open.spotify.com/track/6ogAAhi6YI6gJCszC0OOn0) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Attack of the Clones \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A) | 3:57 | 2023-12-24 |  |
 | [ANGEL](https://open.spotify.com/track/4mgSk2zxeT03FLtSlnzxwt) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:39 | 2022-07-08 |  |
@@ -87,6 +88,7 @@
 | [Drive](https://open.spotify.com/track/3ek4HgBlmvkTWgfT5sTSe9) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 4:18 | 2025-08-20 |  |
 | [Drive Safe](https://open.spotify.com/track/6eDfe957aV4sqGnDhlSikJ) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 4:00 | 2019-07-26 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-09-26 |  |
+| [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 | 2026-02-13 |  |
 | [Echoes Of Silence](https://open.spotify.com/track/5dikapPlQPrsT3xUsUjj0N) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:00 | 2022-12-10 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-09 |  |
 | [ENTROPY](https://open.spotify.com/track/795p3jKj5stjPf8IFpZkdD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 4:21 | 2021-04-07 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAbfZ4OuuUMDnMCDR6XvN3k",
+  "snapshot_id": "aY0YAAAAAAAcT8okPR2UUyKmPRuBiy/c",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Get Out (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/1yUloZsZ8CrVgs7blLi6gX"
-      },
-      "artists": [
-        {
-          "name": "Kokiri",
-          "url": "https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "Let's Get Out (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/5Pdx1LMniboZdeF62JkPHW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6pKDEaJxcjq8mGAxWCQDyW"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 234000,
       "name": "So Good",
       "url": "https://open.spotify.com/track/01fBZdUaSQRqVrxpKzV2dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Get Out (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/1yUloZsZ8CrVgs7blLi6gX"
+      },
+      "artists": [
+        {
+          "name": "Kokiri",
+          "url": "https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "Let's Get Out (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/5Pdx1LMniboZdeF62JkPHW"
     },
     {
       "added_at": null,
@@ -419,6 +419,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide Awake (Deluxe)",
+        "url": "https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Selfish (feat. Kelli-Leigh & YOU)",
+      "url": "https://open.spotify.com/track/0sbfgeGucib89oZVphmISx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEGACY",
         "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
       },
@@ -455,30 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide Awake (Deluxe)",
-        "url": "https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "YOU",
-          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Selfish (feat. Kelli-Leigh & YOU)",
-      "url": "https://open.spotify.com/track/0sbfgeGucib89oZVphmISx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 230399,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Top Of Mine (feat. Kelli-Leigh)",
         "url": "https://open.spotify.com/album/2mNHYkd1vO5w9sbAvHRDWE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 143242,
       "name": "On Top Of Mine (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/4YwOxXdhqzvgglya1LBExq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Remedy",
         "url": "https://open.spotify.com/album/16KynkMBKXCg4XW8kRn62M"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 172250,
       "name": "The Remedy - Radio Edit",
       "url": "https://open.spotify.com/track/5jzPyxRmXJS0OUomBjFkmO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5"
     },
     {
       "added_at": null,
@@ -907,18 +907,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+        "name": "This Good",
+        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
       },
       "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 195172,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/5FUcSDcDLigUyc4VJrrkjJ"
+      "duration_ms": 160645,
+      "name": "This Good",
+      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
     },
     {
       "added_at": null,
@@ -943,26 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Good",
-        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
       },
       "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        },
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 160645,
-      "name": "This Good",
-      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
+      "duration_ms": 195172,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/5FUcSDcDLigUyc4VJrrkjJ"
     },
     {
       "added_at": null,

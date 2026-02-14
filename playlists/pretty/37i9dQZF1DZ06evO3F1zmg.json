@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42426,
+  "num_followers": 42430,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABHEe66XhMnICR0NjGtGnVp",
+  "snapshot_id": "aY0YAAAAAADwmwP3I2GCLyCUXEzTN5RU",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "boffum",
-        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "J White Did It",
-          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
-        }
-      ],
-      "duration_ms": 127862,
-      "name": "boffum",
-      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Summer Playlist: Season 1",
         "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 126225,
       "name": "Talkin' Bout (feat. Saweetie)",
       "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "boffum",
+        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "J White Did It",
+          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
+        }
+      ],
+      "duration_ms": 127862,
+      "name": "boffum",
+      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
     },
     {
       "added_at": null,

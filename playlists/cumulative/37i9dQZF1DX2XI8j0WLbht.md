@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Damaris Bojor en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-257 songs - 16 hr 39 min
+260 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Algo tiene que estar mal](https://open.spotify.com/track/5NLOclyvqUASm1gJAfwlo1) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk) | 4:19 | 2023-06-09 | 2024-04-19 |
 | [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 | 2024-05-31 | 2025-05-31 |
 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2025-05-30 |  |
-| [Amigos](https://open.spotify.com/track/7neyy61UqoctoI9ouUyFJd) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Amigos](https://open.spotify.com/album/7FXxxX3233WGt9NLhnPvMC) | 3:16 | 2025-05-30 |  |
+| [Amigos](https://open.spotify.com/track/7neyy61UqoctoI9ouUyFJd) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Amigos](https://open.spotify.com/album/7FXxxX3233WGt9NLhnPvMC) | 3:16 | 2025-05-30 | 2026-02-14 |
 | [Andamos Huyendo](https://open.spotify.com/track/5alx8Rk2ycn76KvsTaDXH3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/artist/33OkyAZ5fzcbQeqcZSHyGm) | [Julieta Venegas con la Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/album/6HvTbXLflRkGbFlsabDbv7) | 4:18 | 2022-03-04 | 2025-05-31 |
 | [Antes Paso por la Gloria \(En Vivo Desde Cuba\)](https://open.spotify.com/track/1JkPp8jxbY5NGOSDyMGo4R) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Cesar Huesca](https://open.spotify.com/artist/21nAHY9slnhfM52jJ7XKBa) | [México Te Canto Desde Cuba Vol\. 1 "De Mi Folclor" \(En Vivo\)](https://open.spotify.com/album/7HUOQJPy8C4IsOrDbVOp0g) | 4:43 | 2022-03-04 | 2024-08-15 |
 | [Apapáchame](https://open.spotify.com/track/52rQVieNA15Qc2pRmzpoyl) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Para Echar la Lloradita](https://open.spotify.com/album/0sbw9pKoYwulGLfz4Kut94) | 2:58 | 2025-05-30 |  |
@@ -61,6 +61,7 @@
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2022-03-04 | 2025-05-31 |
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2022-03-04 | 2023-10-07 |
 | [Corazon de Rubi](https://open.spotify.com/track/7FzuMjgbfNXdzpMvs3QkxL) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Café del Mar Vol\. 24](https://open.spotify.com/album/5ehYOGpVaP0NSBLYjHuw7b) | 4:08 | 2022-03-04 | 2023-02-23 |
+| [Corre, mi vida](https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9) | [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Corre, mi vida](https://open.spotify.com/album/1eTi9JHapHWRTSmWrjRaOG) | 3:35 | 2026-02-13 |  |
 | [Cucú](https://open.spotify.com/track/6Tzp2xOa46S6lXYjdLSi1w) | [Elo Vit](https://open.spotify.com/artist/71EoKKnv9Jt1lReEtV79Dy) | [Cucú](https://open.spotify.com/album/1EwOmA1xoNDX0SvCI5Tj2h) | 3:16 | 2022-03-04 | 2024-08-24 |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-04-20 | 2025-05-31 |
 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 | 2025-05-30 |  |
@@ -112,6 +113,7 @@
 | [High in the sky](https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [High in the sky](https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF) | 2:33 | 2026-01-09 |  |
 | [Hoy Vine Aquí](https://open.spotify.com/track/2apPcRsJaMNm8Bbsr9qDZP) | [Ramita de Cedro](https://open.spotify.com/artist/4QWlbXuMrZRkeRIKbsyRpJ), [RC](https://open.spotify.com/artist/6qRRkW7d2ptDGSc50FdxVZ) | [Ramita de Cedro](https://open.spotify.com/album/5VOnaIGOP0PruYLBwu7F0w) | 5:35 | 2022-03-04 | 2025-05-31 |
 | [Igual No Debo](https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Igual No Debo](https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso) | 2:43 | 2024-10-11 | 2025-05-31 |
+| [La Apuesta](https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Apuesta](https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f) | 2:53 | 2026-02-13 |  |
 | [La Bamba Rebelde](https://open.spotify.com/track/61eRbW77tBH1SjQrGkZvdt) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/0o4Yp01humYmlsZ4Jnhs3g) | 5:21 | 2022-03-04 | 2024-10-12 |
 | [La Bamba Rebelde](https://open.spotify.com/track/3cyREPYKAMQNfki246eknU) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:23 | 2022-03-04 | 2024-04-19 |
 | [La Bruja](https://open.spotify.com/track/4xCF91YN6bBBjyinIjF3nQ) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [La Bruja](https://open.spotify.com/album/65mbMV0ibFBZEW4NIqzbRy) | 3:39 | 2022-03-04 | 2024-08-15 |
@@ -200,6 +202,7 @@
 | [Rogaciano El Huapanguero \- 2016 Remaster](https://open.spotify.com/track/6rBis9kKBk15XmQJ9ELyVh) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Canciones de mi Padre \(2016 Remaster\)](https://open.spotify.com/album/7ly7GjsQ4i9bTjM5HTmhye) | 3:03 | 2022-03-04 | 2025-05-31 |
 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 | 2025-05-30 |  |
 | [Rubidio 37](https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [CANTAMENCANTO](https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac) | 4:38 | 2024-06-13 | 2025-05-31 |
+| [salvavidas](https://open.spotify.com/track/5ZdzVtea7j66bFQSPmEKAN) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [salvavidas](https://open.spotify.com/album/3dNrwdem0cXHokFlOnRKvY) | 2:28 | 2026-02-13 |  |
 | [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 | 2022-03-04 | 2023-03-13 |
 | [Sana sana](https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana sana](https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ) | 5:02 | 2022-03-04 | 2025-05-31 |
 | [Sana Sana](https://open.spotify.com/track/6INLstv52hDkfJ5P8OhKqx) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/63AhXYacnlHnitNe6qG334) | 5:02 | 2023-03-03 | 2023-11-02 |

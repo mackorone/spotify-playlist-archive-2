@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Black Spygo, Deezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,285 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,301 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 50 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
 | 51 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 52 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
-| 53 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
-| 54 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 |
+| 53 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
+| 54 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 55 | [Insomnia](https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Insomnia](https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR) | 3:07 |
 | 56 | [Sobre nós](https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós \(Deluxe\)](https://open.spotify.com/album/6KVnoibLe6O76o6GjwZCj6) | 3:32 |
-| 57 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
+| 57 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 |
 | 58 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
 | 59 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 |
 | 60 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Fotografia](https://open.spotify.com/track/1PGMVcH0H0inovcdD6jYdk) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [Fotografia](https://open.spotify.com/album/7rDps2hoMmlQ0Es9aEfsNI) | 2:54 |
 | 73 | [Semana](https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Amanheceu](https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr) | 2:41 |
 | 74 | [Hoje](https://open.spotify.com/track/6MDcpI3jbYdG7nkieRyAKC) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Hoje](https://open.spotify.com/album/77G9r1x1JEgNPdfI6IQoX5) | 1:53 |
-| 75 | [Kataleya](https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI) | [Traficante D'Arte](https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF), [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ), [Pempas](https://open.spotify.com/artist/6l7kK18m55OXGv2bDbkf7X), [Lil Star](https://open.spotify.com/artist/2SgPIGR7IhSl4nK76cKBAj), [Sassá](https://open.spotify.com/artist/0338A7A7HSYIKVjAB69LiI), [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u), [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Kataleya](https://open.spotify.com/album/5CXJjjRHTXWCKW5sAV3vis) | 7:56 |
+| 75 | [Sufoco](https://open.spotify.com/track/61IsU0yPEPawwVwgMuoX4U) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [NZ Gang](https://open.spotify.com/artist/6iMKGYHTI74f87dWYeVkxX), [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [Das G](https://open.spotify.com/artist/2nfpKkxHs0XE9aKrlXE6pm) | [Sufoco](https://open.spotify.com/album/45jfgQkgMoaRuWjLNMhDCB) | 3:17 |
 
 Snapshot ID: `AAAAABrdPKSnE+8EOPWoR8oNg+6FMCq0`

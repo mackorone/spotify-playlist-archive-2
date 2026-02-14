@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,232 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,258 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 39 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
 | 40 | [Hard Way Home](https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:21 |
 | 41 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 |
-| 42 | [Water Witch](https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980) | 3:27 |
+| 42 | [Josephine](https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:02 |
 | 43 | [Redesigning Women](https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:54 |
-| 44 | [Josephine](https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:02 |
+| 44 | [Water Witch](https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980) | 3:27 |
 | 45 | [Who Believes In Angels?](https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb) | 5:13 |
 | 46 | [Run To Me \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:22 |
 | 47 | [Old Soul](https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Angel From Montgomery](https://open.spotify.com/track/5cXqZHyuESB0haAwRm2SLV) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Cayamo Sessions At Sea](https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o) | 4:47 |
 | 50 | [What Can I Say](https://open.spotify.com/track/07WvoBV7oBTonCSw03UCud) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:49 |
 
-Snapshot ID: `aYvGgAAAAABI2TiIORe+yj3F254j3AMs`
+Snapshot ID: `aY0YAAAAAAC1Q0jVjlowJeFILAhPpWa/`

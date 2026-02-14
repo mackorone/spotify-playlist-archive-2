@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 48 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vuelve, Vuelve](https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [20 Años Contigo](https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw) | 2:46 |
+| 1 | [Vuelve, Vuelve](https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Vuelve, Vuelve](https://open.spotify.com/album/4xTMKZ0p01gSgO0YW5aJud) | 2:47 |
 | 2 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
 | 3 | [La Noche Perfecta](https://open.spotify.com/track/3YbvXAIFZTKKuX8FiRlru3) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [El Pacto](https://open.spotify.com/album/5Dt2lnQ9Q7sBV6AZzky5SY) | 2:45 |
 | 4 | [CORAZONES ROTOS](https://open.spotify.com/track/6Z4lXWlvGEZxAi3qnqY0WB) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:50 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 47 | [Interludio](https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:32 |
 | 48 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `AcJgNgAAAACeDmh2xlU2g+1l6SZcZAA5`
+Snapshot ID: `AcJlzAAAAADUht7BMXJzIufXizH4MEBo`

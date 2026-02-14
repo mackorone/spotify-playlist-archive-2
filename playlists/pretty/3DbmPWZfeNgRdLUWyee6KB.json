@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1253,
+  "num_followers": 1254,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQXhON5TryzaGeychBeqrgolERWTA5",
+  "snapshot_id": "AAAQYAHFDoKTZdwt7V/ErjyAs+XNKQhy",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2835,6 +2835,42 @@
       "duration_ms": 198500,
       "name": "Indecisa Paix\u00e3o",
       "url": "https://open.spotify.com/track/4JUfXNviaf7gAdOOEuRJha"
+    },
+    {
+      "added_at": "2026-02-13 11:26:57",
+      "album": {
+        "name": "\u042d\u0434\u0435\u043c",
+        "url": "https://open.spotify.com/album/1I2vdv0zR2gGZc4ANH8hcY"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043b\u0435\u043a\u0441 \u0420\u0438\u043f\u043b\u0438",
+          "url": "https://open.spotify.com/artist/1BRBBmrzBFq2gPxP1FkByB"
+        }
+      ],
+      "duration_ms": 152258,
+      "name": "\u042d\u0434\u0435\u043c",
+      "url": "https://open.spotify.com/track/4kyoAnYQxbqymB1xoeaGdR"
+    },
+    {
+      "added_at": "2026-02-13 11:27:20",
+      "album": {
+        "name": "HOPE (MOM)",
+        "url": "https://open.spotify.com/album/5PJIzgVMw4kBLsn9v6GjWu"
+      },
+      "artists": [
+        {
+          "name": "IAMBOKI",
+          "url": "https://open.spotify.com/artist/4X6awOXdDYyq4DJqi6XGoF"
+        },
+        {
+          "name": "Christina Best",
+          "url": "https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2"
+        }
+      ],
+      "duration_ms": 221479,
+      "name": "HOPE (MOM)",
+      "url": "https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH"
     }
   ],
   "unique_name": "New Indie Music",

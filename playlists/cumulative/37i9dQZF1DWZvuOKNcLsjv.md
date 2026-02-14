@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover:  James Blake
 
-5,251 songs - 12 day 15 hr 55 min
+5,251 songs - 12 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-08 | 2023-10-16 |
 | [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 | 2023-06-04 | 2023-06-19 |
 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 | 2024-01-21 | 2024-01-29 |
-| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [](https://open.spotify.com/album/null) | 3:03 | 2026-02-12 |  |
+| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-02-12 |  |
 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 | 2023-02-19 | 2023-04-24 |
 | [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 | 2023-08-06 | 2023-08-14 |
 | [Am I sick?](https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:14 | 2025-12-04 | 2025-12-26 |
@@ -3770,7 +3770,6 @@
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-22 | 2025-07-04 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-05-30 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-26 | 2023-03-06 |
-| [Track 5](https://open.spotify.com/track/4KWDgLFV5vaLBWGr4xf9wr) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-21 | 2024-01-29 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-18 | 2024-03-04 |
 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 | 2023-07-09 | 2023-07-24 |
@@ -4108,6 +4107,7 @@
 | [YBOM \(You’ve Been On my Mind\)](https://open.spotify.com/track/2RR6UtZvqzu8HmBqvXLEIB) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [YBOM \(You’ve Been On my Mind\)](https://open.spotify.com/album/0nTuNuYXcsED6bhV83v2rU) | 2:50 | 2024-03-21 | 2024-03-29 |
 | [Yellow](https://open.spotify.com/track/7pRtSBPQJ9rH0i1bcOegtc) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Yellow](https://open.spotify.com/album/0NhUnxavKjNKP6YU1TBOoL) | 3:27 | 2023-10-29 | 2023-11-06 |
 | [Yellow Gold](https://open.spotify.com/track/2hUgCEMOgIrY0bnvdrbSnX) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Yellow Gold](https://open.spotify.com/album/3aStGfmcRvCzYL1PPnTfdK) | 3:02 | 2024-01-28 | 2024-02-05 |
+| [Yes](https://open.spotify.com/track/4KWDgLFV5vaLBWGr4xf9wr) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Just A Few Folk](https://open.spotify.com/album/7HffRJ97ixJ3qpKKYYBQGZ) | 3:21 | 2026-02-12 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-14 | 2024-02-19 |
 | [yes, and? \(with Mariah Carey\)](https://open.spotify.com/track/2z65iWKbjfz4Ey2URvO1pt) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7hh2WcisTDUhAbCig0FfKu) | 3:34 | 2024-02-18 | 2024-03-15 |
 | [YO.JIN.BO.](https://open.spotify.com/track/29ldxrJRVftuxJepD9AssF) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ) | [YO.JIN.BO.](https://open.spotify.com/album/72GWaE3piwxEwU9s5IT7t5) | 3:42 | 2025-03-27 | 2025-04-25 |

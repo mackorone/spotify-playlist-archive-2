@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Dottie Andersson
 
-1,541 songs - 3 day 9 hr 2 min
+1,542 songs - 3 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -969,6 +969,7 @@
 | [Obsessed](https://open.spotify.com/track/0Ph4ss9NfJqrxxfEqc6pMf) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Obsessed](https://open.spotify.com/album/3S42VlV9D9wyElQs5kkOHA) | 3:02 | 2024-11-14 | 2024-12-05 |
 | [Ocean](https://open.spotify.com/track/1pOHsal4ds1QA7cjbgEvtx) | [Sol Strøm](https://open.spotify.com/artist/2DxNhpiscgTuDHbc7r9X0R) | [Ocean](https://open.spotify.com/album/15z8Avsge4IvZvUVS1l3q8) | 3:41 | 2024-02-08 | 2024-02-16 |
 | [Ocean Of Alcohol](https://open.spotify.com/track/3KgIJjypNUhXHIY1rzMlgE) | [i know her](https://open.spotify.com/artist/2YSlO6e1pwlpXcApl2VmqQ) | [Ocean Of Alcohol](https://open.spotify.com/album/53RcQWkcKNiuOlF2pkxOUl) | 3:03 | 2025-06-12 | 2025-08-01 |
+| [Ocean Side](https://open.spotify.com/track/06MnpddQNujiYqUwPL74N5) | [Alisha](https://open.spotify.com/artist/7Fgc6kwnYjfarKqrJItcAB) | [Ocean Side](https://open.spotify.com/album/2b7ra2TsLSIomxP0IMrCgh) | 3:36 | 2026-02-12 |  |
 | [October](https://open.spotify.com/track/5wdIuqlk4grAlRgAqzNrBQ) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS), [takt](https://open.spotify.com/artist/2xPCt9a3CA3owc591jwF52) | [October](https://open.spotify.com/album/5xgdiwWU7kBAuAHMmg1TFz) | 2:40 | 2024-06-27 | 2024-08-23 |
 | [Off My Chest](https://open.spotify.com/track/22zpUv58DM0ZbWFSGiYX2b) | [JEONA](https://open.spotify.com/artist/5d9C0JNNcd3zaujraQUOJG) | [Off My Chest](https://open.spotify.com/album/2AxIZshVCDqJMyuiFbjoxD) | 2:48 | 2024-08-15 | 2024-09-27 |
 | [Off my mind](https://open.spotify.com/track/0QcNcFYr6DeJZrsqVQlzzP) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Off my mind](https://open.spotify.com/album/2xgTXQTGTD09UysmcsM7aU) | 3:01 | 2025-09-25 | 2025-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Akira Kosemura
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,891 likes - 170 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,965 likes - 170 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

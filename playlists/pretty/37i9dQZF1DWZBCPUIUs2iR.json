@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 780886,
+  "num_followers": 780960,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 162325,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2026-02-11 22:49:04",

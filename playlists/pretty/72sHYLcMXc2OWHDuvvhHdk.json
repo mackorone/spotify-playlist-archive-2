@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJnvZwpUiqbYfrfEPUBjzsi+lh5IGt",
+  "snapshot_id": "AAAJpZDmuJMlHWH4Tv4Ibk1rYsPhGWOS",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -1364,8 +1364,8 @@
       },
       "artists": [
         {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/7Mq3BxmS7aMZBzyGgXZKVd"
+          "name": "Milena Lainovic",
+          "url": "https://open.spotify.com/artist/1K3TF9vJP7JfG2kjx8w2ME"
         }
       ],
       "duration_ms": 264000,
@@ -18236,8 +18236,8 @@
       },
       "artists": [
         {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/7Mq3BxmS7aMZBzyGgXZKVd"
+          "name": "Milena Lainovic",
+          "url": "https://open.spotify.com/artist/1K3TF9vJP7JfG2kjx8w2ME"
         }
       ],
       "duration_ms": 153305,
@@ -38383,6 +38383,118 @@
       "duration_ms": 113987,
       "name": "Windborne",
       "url": "https://open.spotify.com/track/0O9NDl3eK2OvQREtczZ6kD"
+    },
+    {
+      "added_at": "2026-02-13 23:04:33",
+      "album": {
+        "name": "Mis Ancestros",
+        "url": "https://open.spotify.com/album/6Zg0lnF2GSqCIDjNVnu3zo"
+      },
+      "artists": [
+        {
+          "name": "Bumaia Zoul Zystem",
+          "url": "https://open.spotify.com/artist/4EkcaT1Mojfw1hWGTZXhdv"
+        }
+      ],
+      "duration_ms": 224686,
+      "name": "Mis Ancestros",
+      "url": "https://open.spotify.com/track/2YAEhOE0uoYz6EpWiSW4Im"
+    },
+    {
+      "added_at": "2026-02-13 23:06:04",
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/1paHW3zC99MyycA2GgGyWj"
+      },
+      "artists": [
+        {
+          "name": "Sid Severino",
+          "url": "https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7"
+        }
+      ],
+      "duration_ms": 203187,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/11DXpSNffntZd5ifx8FosF"
+    },
+    {
+      "added_at": "2026-02-13 23:08:03",
+      "album": {
+        "name": "Alcove Moon",
+        "url": "https://open.spotify.com/album/2qy8ddYbt3PYoexCc5WcUh"
+      },
+      "artists": [
+        {
+          "name": "Lua Sol",
+          "url": "https://open.spotify.com/artist/2rQYJKeIyUZEV9oPwsmdNR"
+        }
+      ],
+      "duration_ms": 251337,
+      "name": "Worst Enemy",
+      "url": "https://open.spotify.com/track/0BR054bpEtceMi6gUNA3XB"
+    },
+    {
+      "added_at": "2026-02-13 23:08:16",
+      "album": {
+        "name": "Backroads",
+        "url": "https://open.spotify.com/album/6vpwCQnYL2ERD1IDY7tGxi"
+      },
+      "artists": [
+        {
+          "name": "B.J Salyer",
+          "url": "https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN"
+        }
+      ],
+      "duration_ms": 199511,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/73uGEAHMqdsupTVmJlX9fl"
+    },
+    {
+      "added_at": "2026-02-13 23:08:25",
+      "album": {
+        "name": "As Within, So Without",
+        "url": "https://open.spotify.com/album/4teEWoO8WAmwmMx9HQZ0Ao"
+      },
+      "artists": [
+        {
+          "name": "The New Citizen Kane",
+          "url": "https://open.spotify.com/artist/5n0Xoy3bYLNaG0dnxsCMbN"
+        }
+      ],
+      "duration_ms": 207363,
+      "name": "As Within, So Without - French Radio Mix",
+      "url": "https://open.spotify.com/track/0IcJUKIn9Viy4TI5y46rOO"
+    },
+    {
+      "added_at": "2026-02-13 23:11:37",
+      "album": {
+        "name": "Wrong Side of Town",
+        "url": "https://open.spotify.com/album/3lvBLHmcqvTtYQCVzsnY8O"
+      },
+      "artists": [
+        {
+          "name": "Mary Wiles",
+          "url": "https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "A Lone Lonesome Cowboy",
+      "url": "https://open.spotify.com/track/7HEN7PwAo0NnVumMUubruy"
+    },
+    {
+      "added_at": "2026-02-13 23:11:59",
+      "album": {
+        "name": "Voz de Baixo",
+        "url": "https://open.spotify.com/album/7fy5lRGEjxzFX1LVJIj45k"
+      },
+      "artists": [
+        {
+          "name": "Felipe Tavares",
+          "url": "https://open.spotify.com/artist/68o0crbNDOa62Vwx3VCGbS"
+        }
+      ],
+      "duration_ms": 125400,
+      "name": "Oh My!",
+      "url": "https://open.spotify.com/track/0zpD6Lwf8vzM5MJpfacqKW"
     }
   ],
   "unique_name": "Cruise Music",

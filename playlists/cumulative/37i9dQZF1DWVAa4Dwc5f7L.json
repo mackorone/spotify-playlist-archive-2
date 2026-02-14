@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 281066,
       "name": "La Suegra",
       "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
@@ -2881,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+    },
+    {
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -3329,7 +3347,7 @@
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 130968,
+      "duration_ms": 130969,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
     },

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 68955,
+  "num_followers": 68963,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAXh5P2aNWpAry39HGkFaYm",
+  "snapshot_id": "aY0YAAAAAAA6MrRmbQTm9Eek0XshfCu9",
   "tracks": [
     {
       "added_at": null,
@@ -404,17 +404,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
+      "duration_ms": 206222,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
     },
     {
       "added_at": null,
@@ -488,17 +488,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 206222,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
+      "duration_ms": 229133,
+      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapayeka (En Vivo)",
         "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 155250,
       "name": "Tragos de Amargo Licor (En Vivo)",
       "url": "https://open.spotify.com/track/3RBmPRXKcOe3kbQ3WonU1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coraz\u00f3n Indeseable",
         "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
       },
@@ -823,26 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta El After (En Vivo)",
-        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 198976,
-      "name": "El Preso De Nuevo Le\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
     },
     {
       "added_at": null,
@@ -871,38 +863,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+        "name": "La Borrachera Perfecta El After (En Vivo)",
+        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
       "artists": [
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
-      },
-      "artists": [
-        {
-          "name": "Carlo Mora",
-          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
+      "duration_ms": 198976,
+      "name": "El Preso De Nuevo Le\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
     },
     {
       "added_at": null,
@@ -931,6 +911,26 @@
       "duration_ms": 136445,
       "name": "Pa' Qu\u00e9 Me Sirve La Vida (En Vivo)",
       "url": "https://open.spotify.com/track/2zI1wnZC4M303BlyFEXH88"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
+      },
+      "artists": [
+        {
+          "name": "Carlo Mora",
+          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
     },
     {
       "added_at": null,

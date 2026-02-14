@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: Jasmine Sandlas
+> Catch the hottest Punjabi tracks\. Cover: Thiarajxtt & Bir
 
-202 songs - 10 hr 14 min
+203 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 | 2024-07-19 | 2025-02-01 |
 | [Tell Me](https://open.spotify.com/track/7KH7qQDC34EPT0sK3EJP3s) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Tell Me](https://open.spotify.com/album/3ZFyWbTnJbuAc2yCL4dHTQ) | 3:06 | 2025-03-07 | 2025-05-24 |
 | [Tension](https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:48 | 2025-02-21 |  |
-| [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 | 2024-10-25 |  |
+| [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 | 2024-10-25 | 2026-02-14 |
+| [Tere Bina Na Guzara E](https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Kinza Hashmi](https://open.spotify.com/artist/2Up4MLmBYIJV36ymeT44TF) | [Tere Bina Na Guzara E](https://open.spotify.com/album/0yqDVd940RjJdyIMfAdgBH) | 3:40 | 2026-02-13 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2024-01-04 | 2024-11-15 |
 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 | 2025-10-03 |  |
 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 | 2025-08-01 |  |

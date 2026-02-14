@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-337 songs - 19 hr 57 min
+338 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 | 2026-01-09 |  |
 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 | 2022-02-25 | 2022-08-27 |
 | [Previouscats](https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen \(Special Edition\)](https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ) | 3:57 | 2022-07-01 | 2024-04-19 |
-| [Previouscats \- Album Version \(Edited\)](https://open.spotify.com/track/0a5tdYXOZHfpr4WJFJrQf3) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/7EziKiSrU9g1Lz0pLlMsfR) | 3:57 | 2022-02-25 |  |
+| [Previouscats \- Album Version \(Edited\)](https://open.spotify.com/track/0a5tdYXOZHfpr4WJFJrQf3) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/7EziKiSrU9g1Lz0pLlMsfR) | 3:57 | 2022-02-25 | 2026-02-14 |
 | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/track/18MXCyUdrs0LFmEcuneOPL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/album/5jr9iXRLsDgW434mGuzOFt) | 3:12 | 2022-03-25 | 2022-08-13 |
 | [QUEEN](https://open.spotify.com/track/4IXfejQPOGKNMstLaOskGC) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [QUEEN](https://open.spotify.com/album/4v6PwNn8gjrsax1wOlqSNa) | 2:44 | 2024-10-07 | 2025-07-12 |
 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 | 2023-07-14 |  |
@@ -306,6 +306,7 @@
 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 | 2024-02-16 | 2026-01-20 |
 | [Thought of You \(feat\. Joyce Wrice\)](https://open.spotify.com/track/0OLSlzgN1eafqbICQ5vOdo) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:37 | 2022-04-08 | 2023-03-25 |
 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 | 2022-02-25 | 2022-03-26 |
+| [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 | 2026-02-13 |  |
 | [tony soprano.](https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [tony soprano.](https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB) | 3:02 | 2025-07-04 | 2025-09-20 |
 | [Took A Turn](https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Took A Turn](https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3) | 4:52 | 2025-08-22 |  |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-25 | 2022-03-26 |

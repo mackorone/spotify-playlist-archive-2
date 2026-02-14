@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Shelailai, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,940 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,951 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [FLAWS](https://open.spotify.com/track/7HJrpFfOsFiOCvFGFgQBzH) | [Chino Wawa](https://open.spotify.com/artist/6OqmOn8Vdtl0mJEmM8Otep), [YessirXD](https://open.spotify.com/artist/2uxGMvKdDM1rSXDbDo8lLT) | [Glue ll](https://open.spotify.com/album/2vEI56glt2jWzPaOQYqS7E) | 2:57 |
 | 50 | [DÉRANGE](https://open.spotify.com/track/1aWwAsGuXCArYVibJj3hU2) | [éther](https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY) | [CAMPAGNARD](https://open.spotify.com/album/0m71cSCCxDcP3FtVK7WMNt) | 2:01 |
 
-Snapshot ID: `AAAAABnQn4XKR3Gt/MUFubJ1no2JOeur`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

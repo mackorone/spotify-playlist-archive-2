@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Sphectacula x DJ Naves",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: The Incredibles",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -628,6 +628,40 @@
       "duration_ms": 286740,
       "name": "Audionic (feat. Onyomarc)",
       "url": "https://open.spotify.com/track/6uZVWCEnMvFhjqz5cJWvYh"
+    },
+    {
+      "album": {
+        "name": "Available (feat. Ch'cco, Ney The Bae, TDK Macassette)",
+        "url": "https://open.spotify.com/album/4lgDhr0qnjWV9rKCyjWBjy"
+      },
+      "artists": [
+        {
+          "name": "The Incredibles",
+          "url": "https://open.spotify.com/artist/6kt4fKXUX5QJi0KfUsDkJG"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Ney The Bae",
+          "url": "https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo"
+        },
+        {
+          "name": "TDK Macassette",
+          "url": "https://open.spotify.com/artist/0O4y3iGgXMpYCpFpBb6itp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278095,
+      "name": "Available (feat. Ch'cco, Ney The Bae & TDK Macassette)",
+      "url": "https://open.spotify.com/track/1VbQK6NSX6Nylu4lA72jFd"
     },
     {
       "album": {
@@ -5598,7 +5632,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 528432,
       "name": "Khuluma Nam",
       "url": "https://open.spotify.com/track/2lLgXBk0pwKbVXM78oq9wa"

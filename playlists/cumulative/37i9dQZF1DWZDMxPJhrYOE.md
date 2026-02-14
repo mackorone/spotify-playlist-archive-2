@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-943 songs - 2 day 1 hr 2 min
+944 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 | 2025-12-04 | 2026-01-22 |
 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3) | 3:18 | 2024-09-12 | 2025-01-22 |
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-07-31 | 2024-09-15 |
+| [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 | 2026-02-13 |  |
 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 | 2025-01-30 | 2025-02-02 |
 | [If u kno u kno \(feat\. Karoline Mousing\)](https://open.spotify.com/track/4baTMQfOgmcWJwzYHXM0rf) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [If u kno u kno](https://open.spotify.com/album/4dQO15Lp6hWvl2BhW6gvCx) | 2:25 | 2026-01-01 |  |
 | [igen & igen](https://open.spotify.com/track/2r3BQc8MFSCpHXmnepCJDd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [One Two](https://open.spotify.com/artist/0b4zEyqVkKTcrrZbzw7Rl5) | [igen & igen](https://open.spotify.com/album/74Zmt6oaCyu0RKvlnlVxMj) | 2:44 | 2025-03-31 | 2025-06-25 |
@@ -736,7 +737,7 @@
 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 | 2025-01-24 | 2025-03-10 |
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-13 | 2025-06-13 |
 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 | 2025-09-18 | 2026-01-02 |
-| [Smukkeste Jeg Har Set](https://open.spotify.com/track/7cEPXGIE00uZgOCMb3x0Oe) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Smukkeste Jeg Har Set](https://open.spotify.com/album/5Flhn4J1nT5mpkaUnszANg) | 2:30 | 2026-01-09 |  |
+| [Smukkeste Jeg Har Set](https://open.spotify.com/track/7cEPXGIE00uZgOCMb3x0Oe) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Smukkeste Jeg Har Set](https://open.spotify.com/album/5Flhn4J1nT5mpkaUnszANg) | 2:30 | 2026-01-09 | 2026-02-14 |
 | [Småting \(feat\. Lamin & Kundo\)](https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:04 | 2025-01-24 | 2025-03-07 |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-07-01 | 2024-07-27 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 | 2026-01-02 |
@@ -859,7 +860,7 @@
 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 | 2025-12-11 |  |
 | [tusind tanker](https://open.spotify.com/track/6T5dJLZEkwFjEHo8gDkGZJ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [\(over\)lever](https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN) | 2:50 | 2026-01-22 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-27 | 2025-06-27 |
-| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [](https://open.spotify.com/album/null) | 3:52 | 2026-02-12 |  |
+| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-12 |  |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-05 | 2025-08-02 |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 | 2025-01-10 |
 | [Tænker kun på dig](https://open.spotify.com/track/4syzZJggRLGCfMObzdHetH) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Tænker kun på dig](https://open.spotify.com/album/5QyQvg7bFnxt61jwtS03a0) | 2:00 | 2025-10-09 | 2025-10-24 |

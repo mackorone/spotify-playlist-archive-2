@@ -2693,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Liberty / Equanimity",
+        "url": "https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4"
+      },
+      "artists": [
+        {
+          "name": "Capitan Anderson",
+          "url": "https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324375,
+      "name": "Equanimity",
+      "url": "https://open.spotify.com/track/44oUkdfEIFooTA4jgUgsKw"
+    },
+    {
+      "album": {
         "name": "Es una Loba",
         "url": "https://open.spotify.com/album/2rvgeG7n0VwTJ0NWdUeTpz"
       },
@@ -7886,6 +7904,24 @@
       "duration_ms": 135937,
       "name": "Static Soul",
       "url": "https://open.spotify.com/track/0aiUkj8hqVWsU8CV5uqwMA"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6rv7y59UepgglmNayh3loz"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252904,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/65Ocj27t9rYgRuBgdjHITg"
     },
     {
       "album": {

@@ -300,7 +300,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 147551,
       "name": "Akh Kashni",
       "url": "https://open.spotify.com/track/2LN3oyAgxcSQf44Yn8T8bF"
@@ -4566,6 +4566,36 @@
       "duration_ms": 160980,
       "name": "Saadi Yaad",
       "url": "https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt"
+    },
+    {
+      "album": {
+        "name": "Saiyyoni",
+        "url": "https://open.spotify.com/album/3npfiDvrs0lPLsdhmosnq9"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Saggi Nexuss",
+          "url": "https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi"
+        },
+        {
+          "name": "Khan Mallan Wala",
+          "url": "https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN"
+        },
+        {
+          "name": "Ranjha Rajan",
+          "url": "https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Saiyyoni",
+      "url": "https://open.spotify.com/track/7LDElWShranhWCQGEwbf8g"
     },
     {
       "album": {

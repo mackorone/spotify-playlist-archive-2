@@ -4,7 +4,7 @@
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-40 songs - 1 day 20 hr 56 min
+40 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [209: Un niño flotaba en carretera, los ojos en el retrovisor y más historias de carreteras.](https://open.spotify.com/episode/7H4HaG8BW8MhZjbV3an2lu) | [Morras Malditas](https://open.spotify.com/show/4NFj1Q4BotsQYlKXMEXS8v) | [Morras Malditas](https://open.spotify.com/album/4NFj1Q4BotsQYlKXMEXS8v) | 1:12:16 | 2025-03-11 |  |
 | [235: La importancia de pedir ayuda](https://open.spotify.com/episode/6cZ4IqrUGek9QDJhzD2XBj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 28:28 | 2025-03-11 |  |
 | [438\. ¿A dónde nos ha llevado el corazón y cómo cuidarte a ti? \| Denise Dresser](https://open.spotify.com/episode/3iERfsqpznpjJFUhGcW979) | [Se Regalan Dudas](https://open.spotify.com/show/0KUjSzqMyxrTyXuw15j4e8) | [Se Regalan Dudas](https://open.spotify.com/album/0KUjSzqMyxrTyXuw15j4e8) | 1:04:42 | 2024-03-07 | 2025-03-11 |
-| [46\. Victorias Secret: Así destruyeron un imperio de $7,000,000,000](https://open.spotify.com/episode/57D7osjPB9nBXUyFz2kI8R) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:18:47 | 2025-03-11 |  |
+| [46\. Victorias Secret: Así destruyeron un imperio de $7,000,000,000](https://open.spotify.com/episode/57D7osjPB9nBXUyFz2kI8R) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:17:07 | 2025-03-11 |  |
 | [535\. Por qué necesitamos más historias contadas por mujeres \| Jueves de Lety & Ash](https://open.spotify.com/episode/1oxyZM7F2UAMTdf2PcJSoR) | [Se Regalan Dudas](https://open.spotify.com/show/0KUjSzqMyxrTyXuw15j4e8) | [Se Regalan Dudas](https://open.spotify.com/album/0KUjSzqMyxrTyXuw15j4e8) | 25:53 | 2025-03-11 |  |
 | [85.\- "Alza la voz a la violencia de género" con Alessandra Rojo de la Vega](https://open.spotify.com/episode/2yrgtjrdnJgNyCU72120lZ) | [LA MAGIA DEL CAOS con Aislinn Derbez](https://open.spotify.com/show/53bnc3AHyqknK2JMAHo9br) | [LA MAGIA DEL CAOS con Aislinn Derbez](https://open.spotify.com/album/53bnc3AHyqknK2JMAHo9br) | 54:49 | 2024-03-07 | 2025-03-11 |
 | [87 Decidir no ser mamá: duelo y libertad con Romina Sacre](https://open.spotify.com/episode/3iQAt7tBjOMHHUSuPM0bvF) | [Más Allá del Rosa](https://open.spotify.com/show/6xKpLdvm45jVLp7gD9O3DY) | [Más Allá del Rosa](https://open.spotify.com/album/6xKpLdvm45jVLp7gD9O3DY) | 3:08:45 | 2024-03-07 | 2025-03-11 |

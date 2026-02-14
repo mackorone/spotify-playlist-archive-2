@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "Are You Sorry Now?",
         "url": "https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 167485,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm"
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 208972,
       "name": "FMT",
       "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
@@ -1906,6 +1924,28 @@
       "duration_ms": 165012,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ"
+    },
+    {
+      "album": {
+        "name": "Hoe Dan Ook",
+        "url": "https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8"
+      },
+      "artists": [
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        },
+        {
+          "name": "Babet",
+          "url": "https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173030,
+      "name": "Hoe Dan Ook",
+      "url": "https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8"
     },
     {
       "album": {
@@ -2548,7 +2588,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 179666,
       "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
       "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
@@ -2596,6 +2636,28 @@
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
       "album": {
@@ -4185,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "THE ART OF BEING A MESS (DELUXE)",
+        "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "somebody you're supposed to love",
+      "url": "https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd"
+    },
+    {
+      "album": {
         "name": "Something In The Heavens",
         "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
       },
@@ -4196,7 +4276,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 198028,
       "name": "Something In The Heavens",
       "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
@@ -4516,7 +4596,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
@@ -4914,7 +4994,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
@@ -4984,6 +5064,24 @@
       "duration_ms": 204053,
       "name": "This Isn\u2019t Really Love",
       "url": "https://open.spotify.com/track/4Sz0Goi1fCmR2EKekNNNWu"
+    },
+    {
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
     },
     {
       "album": {
@@ -5251,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Voicemail",
+        "url": "https://open.spotify.com/album/281zKhMF6X69jaELmnZyzN"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174976,
+      "name": "Voicemail",
+      "url": "https://open.spotify.com/track/3Kig5BQqlNUr1cOIppFM1h"
+    },
+    {
+      "album": {
         "name": "Voorzichtig",
         "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
       },
@@ -5510,7 +5626,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"

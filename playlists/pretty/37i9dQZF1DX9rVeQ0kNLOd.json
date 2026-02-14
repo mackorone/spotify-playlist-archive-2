@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002",
-  "num_followers": 28864,
+  "num_followers": 28868,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-01-27 15:07:15",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 281766,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-    },
-    {
-      "added_at": "2026-01-27 15:07:15",
-      "album": {
         "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
         "url": "https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 213600,
       "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
       "url": "https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ"
+    },
+    {
+      "added_at": "2026-01-27 15:07:15",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 281766,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
     },
     {
       "added_at": "2026-01-27 15:07:15",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-01-27 15:07:15",
       "album": {
-        "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
-        "url": "https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
       },
       "artists": [
         {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
         }
       ],
-      "duration_ms": 134869,
-      "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
-      "url": "https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa"
+      "duration_ms": 159927,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
     },
     {
       "added_at": "2026-01-27 15:07:15",
@@ -371,18 +371,18 @@
     {
       "added_at": "2026-01-27 15:07:15",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
+        "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
+        "url": "https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit"
       },
       "artists": [
         {
-          "name": "ziproom",
-          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 159927,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+      "duration_ms": 134869,
+      "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
+      "url": "https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa"
     },
     {
       "added_at": "2026-01-27 15:07:15",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-01-27 15:07:15",
       "album": {
-        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
-    },
-    {
-      "added_at": "2026-01-27 15:07:15",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 190331,
       "name": "1\u30ea\u30c3\u30bf\u30fc\u5206\u306e\u611b\u3092\u3053\u3081\u3066",
       "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
+    },
+    {
+      "added_at": "2026-01-27 15:07:15",
+      "album": {
+        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
     },
     {
       "added_at": "2026-01-27 15:07:15",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-27 15:07:15",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
-      },
-      "artists": [
-        {
-          "name": "YRD Leo",
-          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
-        }
-      ],
-      "duration_ms": 175871,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
-    },
-    {
-      "added_at": "2026-01-27 15:07:15",
-      "album": {
         "name": "hikari",
         "url": "https://open.spotify.com/album/2Md8hYlmgPWzNBR051fKkP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 189357,
       "name": "hikari",
       "url": "https://open.spotify.com/track/15WwIDmvJi1f4CRdduBbrr"
+    },
+    {
+      "added_at": "2026-01-27 15:07:15",
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
+      },
+      "artists": [
+        {
+          "name": "YRD Leo",
+          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
+        }
+      ],
+      "duration_ms": 175871,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
     },
     {
       "added_at": "2026-01-27 15:07:15",

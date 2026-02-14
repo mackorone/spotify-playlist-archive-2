@@ -19987,6 +19987,24 @@
     },
     {
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/6SZSArjw7j3ktFtKhH0sbs"
+      },
+      "artists": [
+        {
+          "name": "Elly C",
+          "url": "https://open.spotify.com/artist/70BawCx2NZDdvo6BIv9Uda"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249297,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/5UZdQdSdJ5l7xRSiKW24so"
+    },
+    {
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/6TSMC1SUzRzCIuFVvS2q4Q"
       },
@@ -23690,6 +23708,28 @@
       "duration_ms": 117500,
       "name": "\u5a46\u5a18PAULLEUNG",
       "url": "https://open.spotify.com/track/0vvONjfKPXhyzHCp5lH3Kt"
+    },
+    {
+      "album": {
+        "name": "\u5b78\u67d4\u800c\u4fee",
+        "url": "https://open.spotify.com/album/6KY3XU9jHipWmpq5tVkRgK"
+      },
+      "artists": [
+        {
+          "name": "ERN9",
+          "url": "https://open.spotify.com/artist/0BEPNot13vK1o6U8Gcja3V"
+        },
+        {
+          "name": "BillyT",
+          "url": "https://open.spotify.com/artist/66oBldKAMOv1vFqUwD4cUJ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155456,
+      "name": "\u5b78\u67d4\u800c\u4fee",
+      "url": "https://open.spotify.com/track/4V1BVYXpUCSXkgdXED5PCc"
     },
     {
       "album": {

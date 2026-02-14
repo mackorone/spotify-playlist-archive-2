@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 222978,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6oGFDrlsSXovBIAY7gNYIq"
@@ -12023,6 +12023,28 @@
     },
     {
       "album": {
+        "name": "Pop Off",
+        "url": "https://open.spotify.com/album/0q9oRJGUbgTD2H9Bvz9zbk"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "Pop Off",
+      "url": "https://open.spotify.com/track/4PolqZLqReEqc3yURJtzc4"
+    },
+    {
+      "album": {
         "name": "Post Punk (feat. Iggy Pop)",
         "url": "https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS"
       },
@@ -16583,6 +16605,28 @@
     },
     {
       "album": {
+        "name": "What If You Fly (Sweet Disposition)",
+        "url": "https://open.spotify.com/album/6y8oWt1t9Ktrv1nH7Tqxcu"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323039,
+      "name": "What If You Fly (Sweet Disposition)",
+      "url": "https://open.spotify.com/track/6M23kyZO0uXfD1pZzsFNQE"
+    },
+    {
+      "album": {
         "name": "What Love Feels Like (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/14RuQ06spKnUjCC59QZF97"
       },
@@ -17284,7 +17328,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 185625,
       "name": "Wrong Side of Love",
       "url": "https://open.spotify.com/track/6uShcdguw0MhXGHlUpLz2L"

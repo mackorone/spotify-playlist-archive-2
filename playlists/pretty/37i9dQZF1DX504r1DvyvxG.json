@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2645521,
+  "num_followers": 2645478,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Never Going Back Again - 2004 Remaster",
-      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Never Going Back Again - 2004 Remaster",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "The Best of Bread",
-        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
+        "name": "In the Wind",
+        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
+      "duration_ms": 177360,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "In the Wind",
-        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
+        "name": "The Best of Bread",
+        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
       "artists": [
         {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 177360,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
+        "name": "In the Wind",
+        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
         "name": "Odetta Sings",
         "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 272333,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
-        "name": "In the Wind",
-        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "900 Miles",
-      "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Judee Sill",
         "url": "https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 165480,
       "name": "Crayon Angels",
       "url": "https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "900 Miles",
+      "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1384,7 +1384,7 @@
       "added_at": "2026-01-26 17:08:09",
       "album": {
         "name": "Demo Tapes (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5HHuoMwMyFQ2hf95VyLWuk"
+        "url": "https://open.spotify.com/album/3jLng533M56YEr2abSeEoW"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 165440,
-      "name": "You Don't Mess Around With Jim - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/6dLhYVpNuZ8v5JjvDM9mrZ"
+      "duration_ms": 225506,
+      "name": "Operator - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Simon Linsteadt",
-        "url": "https://open.spotify.com/album/4ouxaHFhnih4OmbKNNmEMZ"
-      },
-      "artists": [
-        {
-          "name": "Simon Linsteadt",
-          "url": "https://open.spotify.com/artist/0vmdDdgcMsM2yWhq7kFXrr"
-        }
-      ],
-      "duration_ms": 77893,
-      "name": "Back to Bed In California",
-      "url": "https://open.spotify.com/track/62lTgvo168FYxDpu6VPNLe"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Black Gold (Expanded Edition)",
         "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 274613,
       "name": "Turn, Turn, Turn (To Everything There Is a Season) - Live in Munich, Germany - April 1969",
       "url": "https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Simon Linsteadt",
+        "url": "https://open.spotify.com/album/4ouxaHFhnih4OmbKNNmEMZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Linsteadt",
+          "url": "https://open.spotify.com/artist/0vmdDdgcMsM2yWhq7kFXrr"
+        }
+      ],
+      "duration_ms": 77893,
+      "name": "Back to Bed In California",
+      "url": "https://open.spotify.com/track/62lTgvo168FYxDpu6VPNLe"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1464,7 +1464,7 @@
       "added_at": "2026-01-26 17:08:09",
       "album": {
         "name": "Demo Tapes (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3jLng533M56YEr2abSeEoW"
+        "url": "https://open.spotify.com/album/5HHuoMwMyFQ2hf95VyLWuk"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 225506,
-      "name": "Operator - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB"
+      "duration_ms": 165440,
+      "name": "You Don't Mess Around With Jim - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/6dLhYVpNuZ8v5JjvDM9mrZ"
     },
     {
       "added_at": "2026-01-26 17:08:09",

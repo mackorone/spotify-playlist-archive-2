@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 671 songs - 1 day 19 hr 48 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 673 songs - 1 day 19 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -679,5 +679,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 669 | [Pangea](https://open.spotify.com/track/1DVrCUHIHQCKipeer1WnP0) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 2:48 |
 | 670 | [Night Faces](https://open.spotify.com/track/4ovwVH99Afch4OJhMTTVsV) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 4:08 |
 | 671 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
+| 672 | [House featuring John Cale](https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:15 |
+| 673 | [In Search of a Revival Part 1](https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [In Search of a Revival](https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM) | 0:51 |
 
-Snapshot ID: `AAAIlAK2vuLO42Bcd8Pv97I1Uw9IZ5gI`
+Snapshot ID: `AAAIl7mrB1huNVUg4IBF2jmhjAARcMDd`

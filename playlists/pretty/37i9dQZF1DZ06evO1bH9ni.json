@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 349258,
+  "num_followers": 349277,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABD8U5v+2D6lyoCDAMfZn9y",
+  "snapshot_id": "aY0YAAAAAAACo37yELICIPVpSDwIdIxS",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 152791,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aka Entre el Humo",
         "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 199000,
       "name": "Aka Entre el Humo",
       "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 152791,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Federal de Caminos",
+        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 183756,
+      "name": "El Federal de Caminos",
+      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Federal de Caminos",
-        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 183756,
-      "name": "El Federal de Caminos",
-      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
     },
     {
       "added_at": null,

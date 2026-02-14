@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-213 songs - 15 hr 51 min
+214 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Madness In Great Ones \(Hamlet\)](https://open.spotify.com/track/7IFXoiY6BATGg2uzOwaSvP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:19 | 2022-09-08 |  |
 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 | 2022-09-08 |  |
 | [Maybe](https://open.spotify.com/track/6jSOQzZ92aPKN0p2m09y2n) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:02 | 2022-09-08 | 2026-02-13 |
-| [Maybe](https://open.spotify.com/track/7cmI5N55E1nMoxfYJxqjw0) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [Ink Spots Favorites](https://open.spotify.com/album/6LLPeixvrRf01ul9PbFVCg) | 3:04 | 2026-02-12 |  |
+| [Maybe](https://open.spotify.com/track/7cmI5N55E1nMoxfYJxqjw0) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [Ink Spots Favorites](https://open.spotify.com/album/6LLPeixvrRf01ul9PbFVCg) | 3:04 | 2026-02-12 | 2026-02-14 |
+| [Maybe \- Restored 2024](https://open.spotify.com/track/1PHfzRErp8TG3bd6yJKpfJ) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [If I Didn't Care \(Restored 2024\)](https://open.spotify.com/album/7KXaWuflRENjAv86k91uiw) | 3:01 | 2026-02-13 |  |
 | [Medley: Toot Suite \(feat\. Britt Woodman, Russell Procope, Jimmy Hamilton, Shorty Baker, Paul Gonsalves, Russell Proscope & Quentin Jackson\)](https://open.spotify.com/track/6lVEpRlUShV1oev5QSe7v7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Britt Woodman](https://open.spotify.com/artist/2uWUfjAPSMukkv9JYXRRfR), [Jimmy Hamilton](https://open.spotify.com/artist/2DyjqJKeLalliPzVY3jkiO), [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4), [Russell Proscope](https://open.spotify.com/artist/2VkhklRSF85ZgedNixqVXZ), [Quentin Jackson](https://open.spotify.com/artist/3wjEknI2VOYTXX19XYM6hC), [Shorty Baker](https://open.spotify.com/artist/7DP7PBKuVbfPeShXxvQjXA), [Russell Procope](https://open.spotify.com/artist/5vaCDVsZZuXM6xw1VX8DR3) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 21:34 | 2022-09-08 |  |
 | [Metronome All Out](https://open.spotify.com/track/06XAOVGxCJ8H8eZTPie4cH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 4:49 | 2023-12-13 |  |
 | [Metronome All Out](https://open.spotify.com/track/6es9cgKzxIgzzZl1MkAm0C) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Treasury Shows, Vol\. 22](https://open.spotify.com/album/7suIqutbZgxZRAKf3y5hn8) | 4:58 | 2022-09-08 | 2023-12-14 |

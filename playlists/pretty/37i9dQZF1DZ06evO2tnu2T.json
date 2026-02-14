@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 1561,
+  "num_followers": 1572,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAWPoIZWzTy+IUK5pZ4wkHx",
+  "snapshot_id": "aY0YAAAAAADMQHnQt3B5v2SmBoZTx2SE",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 207660,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRINCESS OF POWER (DELUXE)",
         "url": "https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 247846,
       "name": "EVERYBODY KNOWS I'M SAD - REMIX",
       "url": "https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 207660,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 185638,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sun Comes Up",
         "url": "https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 205453,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 185638,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL"
     },
     {
       "added_at": null,

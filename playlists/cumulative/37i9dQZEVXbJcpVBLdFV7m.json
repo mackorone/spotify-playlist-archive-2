@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 144226,
       "name": "Ama Ba\u015faramad\u0131m",
       "url": "https://open.spotify.com/track/6Ecfg2Bd6Ctomk6GBwZF3V"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3824,7 +3824,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -10497,6 +10497,28 @@
     },
     {
       "album": {
+        "name": "EFN",
+        "url": "https://open.spotify.com/album/2ivnP4b1jpSmtkbVMNCxDf"
+      },
+      "artists": [
+        {
+          "name": "22xlstl",
+          "url": "https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx"
+        },
+        {
+          "name": "Kirkified lordus ultrasus 67",
+          "url": "https://open.spotify.com/artist/3VfeCzXPfs0ldbXk9qd918"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73109,
+      "name": "EFN",
+      "url": "https://open.spotify.com/track/5fFrpIc3ORJiygbhh2bK3b"
+    },
+    {
+      "album": {
         "name": "EFN/ERN",
         "url": "https://open.spotify.com/album/7FAMrPCLKUKnrwjXwODU1c"
       },
@@ -10526,7 +10548,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 72568,
       "name": "EFN",
       "url": "https://open.spotify.com/track/1KI286qUlsIJbOWekbsulg"
@@ -15242,6 +15264,24 @@
     {
       "album": {
         "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/0wAf1LaMkHoLN7QL3Dv5fh"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/5IXk34xSm6rxNgXkCveC3r"
+    },
+    {
+      "album": {
+        "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
       "artists": [
@@ -15252,7 +15292,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
@@ -16548,7 +16588,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 214119,
       "name": "I'm a Woman",
       "url": "https://open.spotify.com/track/2tXTaMGNkSd9fdVBALoP36"
@@ -17906,10 +17946,28 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
       "album": {
@@ -18802,7 +18860,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 157800,
       "name": "KUSURA BAKMA",
       "url": "https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o"
@@ -18958,7 +19016,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 213010,
       "name": "LA MuDANZA",
       "url": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
@@ -19821,6 +19879,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229381,
+      "name": "LO QUE LE PAS\u00d3 A HAWAii",
+      "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
+    },
+    {
+      "album": {
         "name": "Lobster",
         "url": "https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV"
       },
@@ -19916,7 +19992,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -26432,7 +26508,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -26798,6 +26874,32 @@
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
+    },
+    {
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
     },
     {
       "album": {
@@ -28152,7 +28254,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 123437,
       "name": "PUTKATA DARJI MI SE NAHALNO!",
       "url": "https://open.spotify.com/track/6CcuvRarafF2LSeCzISBJL"
@@ -38802,10 +38904,28 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 260333,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
+    },
+    {
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/0wAf1LaMkHoLN7QL3Dv5fh"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260506,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/0pXYF32YBDiSC6PkQAgBBt"
     },
     {
       "album": {
@@ -41182,7 +41302,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 198352,
       "name": "\u0410\u043a\u043e \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0437\u0430\u0432\u0430\u043b\u0438",
       "url": "https://open.spotify.com/track/6qrim5KpGyYrECPahXCv7p"
@@ -42122,7 +42242,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 340500,
       "name": "\u0414\u0430\u0432\u0438\u043d\u0447\u0438",
       "url": "https://open.spotify.com/track/6uZsm77ETDzSQ8FVA6usyD"
@@ -44530,7 +44650,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 241341,
       "name": "\u041d\u044f\u043c\u0430",
       "url": "https://open.spotify.com/track/3Zqpf86jmAg2BsiGFCCaQ0"

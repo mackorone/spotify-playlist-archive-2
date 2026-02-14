@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVyWVIFafx7W>Dave</a>, <a href=spotify:playlist:37i9dQZF1EIWCJohaHcLid>Laufey</a>, <a href=spotify:playlist:37i9dQZF1EIWvLtPAMQUqE>Ravyn Lenae</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIUsZBzQTXbw1>Nadhif Basalamah</a>, <a href=spotify:playlist:37i9dQZF1EIWqSrfwW8NAh>Bad Bunny</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
@@ -4076,6 +4076,24 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "album": {
@@ -8005,6 +8023,24 @@
     },
     {
       "album": {
+        "name": "Nadhif (laman berikutnya)",
+        "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279649,
+      "name": "kota ini tak sama tanpamu",
+      "url": "https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb"
+    },
+    {
+      "album": {
         "name": "Bl\u00e5a jeans, tomma fickor",
         "url": "https://open.spotify.com/album/5vDwrDp5Hc3Hn5BqtkVB46"
       },
@@ -8882,7 +8918,7 @@
       ],
       "date_added": "2025-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -9256,7 +9292,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -16156,7 +16192,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 245279,
       "name": "V\u01b0\u1eddn m\u00e2y v\u1eeba hay",
       "url": "https://open.spotify.com/track/084taGXkVELabQBsFMFGL8"

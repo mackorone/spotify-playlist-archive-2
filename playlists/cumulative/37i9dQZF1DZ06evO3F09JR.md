@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-182 songs - 18 hr 57 min
+183 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Inside Restricted Area 01](https://open.spotify.com/track/15tBrmd4jV9lRHCFtd4lDX) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:36 | 2023-02-21 | 2023-12-17 |
 | [Inside The Ruins](https://open.spotify.com/track/35ZNF2MIZ0QsYK1tGcONKJ) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 6:09 | 2022-05-29 | 2026-01-04 |
 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 | 2022-08-07 |  |
-| [IV](https://open.spotify.com/track/2d7tJaU6LaXMwntag1BD4k) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 5:05 | 2024-10-15 |  |
+| [IV](https://open.spotify.com/track/2d7tJaU6LaXMwntag1BD4k) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 5:05 | 2024-10-15 | 2026-02-14 |
 | [IV](https://open.spotify.com/track/5aFjxj67TfCqxztInFyhtp) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [IV](https://open.spotify.com/album/4Vb2SuRDHzpmrLH2KJSJmG) | 5:05 | 2024-09-05 | 2024-10-15 |
 | [La Guardia](https://open.spotify.com/track/3W9EtXgVkjZfcSGPjsxU4f) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 6:36 | 2024-08-26 |  |
 | [La Meta](https://open.spotify.com/track/2ztGZ1f2NjiYY18CmI3BAN) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 2:07 | 2024-08-22 | 2025-12-05 |
@@ -93,6 +93,7 @@
 | [La Sveglia](https://open.spotify.com/track/4ZKXNfLnhAwFAKt6RD7lGU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 6:54 | 2024-08-20 |  |
 | [La tarantola dal ventre nero](https://open.spotify.com/track/1yicvjJVBy78161FcNOXID) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Scacco al Maestro \- Volume 2](https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz) | 4:39 | 2022-10-15 | 2024-01-27 |
 | [La Tramontana \(Main Title\)](https://open.spotify.com/track/56GpyA3IQmTJ98dMAu1k3E) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 1:01 | 2025-10-26 |  |
+| [La Via](https://open.spotify.com/track/1LfLYGxORZuBDMkXbKlYNI) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 4:48 | 2026-02-14 |  |
 | [LET GO](https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:08 | 2022-07-14 | 2023-07-21 |
 | [LET GO](https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:08 | 2022-05-29 |  |
 | [LO SPECCHIO](https://open.spotify.com/track/5UsGULCoSIl588deHBqgFi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 5:13 | 2023-07-30 | 2025-09-20 |

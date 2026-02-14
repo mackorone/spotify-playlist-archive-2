@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 197 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115 likes - 197 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 92 | [Burn](https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Burn](https://open.spotify.com/album/6iAUobi1fcxy60buZZBiqK) | 2:19 |
 | 93 | [To The Wire](https://open.spotify.com/track/6n7iWKl8PTpHBFJkXz4LWV) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [To The Wire](https://open.spotify.com/album/02HMMz2rCvZK7wt53IpU6q) | 2:36 |
 | 94 | [Changing](https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Changing](https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR) | 3:02 |
-| 95 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
-| 96 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
+| 95 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
+| 96 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
 | 97 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
 | 98 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 |
 | 99 | [Let It Ring](https://open.spotify.com/track/39RQAEuPs04z9wCFnMBuA7) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Let It Ring](https://open.spotify.com/album/3euSNVHfekPRn3aeG2r1Up) | 2:48 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcJgNgAAAABnakTAYMzstTGyq81eQ0OI`
+Snapshot ID: `AcJlzAAAAAB3eJbkFjHceGRyhEvDItA+`

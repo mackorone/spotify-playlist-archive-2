@@ -4,7 +4,7 @@
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation\. Chill vibes \| Romantic dinner 2026 \| Romantische Muziek ❤️ Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more.
 
-371 songs - 22 hr 57 min
+372 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Always](https://open.spotify.com/track/1w0qg01gZLzPPH5R0cTCuW) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 4:07 | 2024-10-04 |  |
 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 | 2023-01-25 |  |
 | [Always Been You](https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Always Been You](https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa) | 2:11 | 2022-05-27 | 2024-10-05 |
+| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-02-13 |  |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2024-10-04 | 2025-06-06 |
 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 | 2025-06-20 | 2025-08-20 |
 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 | 2024-10-04 | 2025-01-25 |
@@ -150,7 +151,7 @@
 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 | 2025-02-14 | 2025-08-12 |
 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-23 | 2025-07-26 |
 | [Hold Me Now](https://open.spotify.com/track/7KG1uA3O9cqahhVt5atWnB) | [Johnny Logan](https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc) | [The Best Of Johnny Logan](https://open.spotify.com/album/5GlpiY5o7gbgAJQrVnYduA) | 3:03 | 2022-05-27 | 2024-10-05 |
-| [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-05-27 |  |
+| [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-05-27 | 2026-02-14 |
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2024-10-04 | 2025-01-31 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-13 | 2025-11-08 |
 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 | 2025-06-18 | 2025-10-11 |

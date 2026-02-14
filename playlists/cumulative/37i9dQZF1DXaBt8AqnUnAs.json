@@ -2207,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval, Vol. 3",
+        "url": "https://open.spotify.com/album/56wCjkQK8O6x2V25skPFsB"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162507,
+      "name": "Bloco dos Apaixonados",
+      "url": "https://open.spotify.com/track/238zMnsORb3vbrpJtTCzPE"
+    },
+    {
+      "album": {
         "name": "Blondor",
         "url": "https://open.spotify.com/album/31nEo0G9vedvwY8zbVEgS3"
       },
@@ -2766,7 +2788,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 227796,
       "name": "CARTA DE DESPEDIDA 2",
       "url": "https://open.spotify.com/track/4S2SythDc2Qev6FXEOAJCO"
@@ -7604,7 +7626,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 145151,
       "name": "Jam #02 - Na Onda",
       "url": "https://open.spotify.com/track/25Q2qfBhpn5yVNqKXPzT8Q"
@@ -11115,6 +11137,28 @@
     },
     {
       "album": {
+        "name": "N\u00c3O SINTO SUA VIBE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/5HbNHmjSB0U8dBxK37wzEQ"
+      },
+      "artists": [
+        {
+          "name": "TH\u2077n",
+          "url": "https://open.spotify.com/artist/7nVxMo0q8WyI5BTqxfCrV3"
+        },
+        {
+          "name": "Vollk",
+          "url": "https://open.spotify.com/artist/5Mg6Qk2dzPQw04o4XiZuR2"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127360,
+      "name": "N\u00c3O SINTO SUA VIBE - Remastered 2026",
+      "url": "https://open.spotify.com/track/1cwv2vBCeSapTs35LFO3pu"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Tem Como Evitar",
         "url": "https://open.spotify.com/album/0LxtAwZaxckyMvt0a2gO07"
       },
@@ -11882,6 +11926,24 @@
       "duration_ms": 143437,
       "name": "Outros Planos",
       "url": "https://open.spotify.com/track/65PqQMvQnJRYVvGEqXSFxt"
+    },
+    {
+      "album": {
+        "name": "Oxig\u00eanio",
+        "url": "https://open.spotify.com/album/47jeyFF7y0PbGOKWCmybSM"
+      },
+      "artists": [
+        {
+          "name": "Cael Gomess",
+          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "Oxig\u00eanio",
+      "url": "https://open.spotify.com/track/5ERlEZEb6L9pn1ByAQJ3nT"
     },
     {
       "album": {
@@ -14920,7 +14982,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"

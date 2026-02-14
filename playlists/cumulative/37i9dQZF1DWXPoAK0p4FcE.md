@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: เรนิษรา
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
 
-158 songs - 10 hr 58 min
+159 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-28 | 2026-02-03 |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-05 | 2025-05-31 |
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 | 2024-09-28 |
+| [Fall in love too easily](https://open.spotify.com/track/0rVPjrssMtRriOlhqhlno4) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Fall in love too easily](https://open.spotify.com/album/2PujWlerF7kmr6fLeC7wBZ) | 4:12 | 2026-02-13 |  |
 | [Gaslighting](https://open.spotify.com/track/5a1XP82wLiIUleq52ODrex) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Gaslighting](https://open.spotify.com/album/6Zhy9NBqu2PHIDFH1iBnzA) | 4:47 | 2025-02-28 | 2025-07-05 |
 | [Grow Up](https://open.spotify.com/track/0SrCn0wCmOxHQ77bxPFCMK) | [T\_047](https://open.spotify.com/artist/5qO3EBbmjdcKnUbqd8JBIJ) | [Grow Up](https://open.spotify.com/album/6V6sQHdGbUYNjLcl1BVvz2) | 5:35 | 2025-03-28 | 2025-07-19 |
 | [HIPPO](https://open.spotify.com/track/4N0iol0u4GdX1SIRG4xqTx) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Ichika Nito](https://open.spotify.com/artist/1XUPVN7adYSZ0PLy51mPBQ) | [HIPPO](https://open.spotify.com/album/2B7L476RCUX8lY9P31Ju7J) | 2:56 | 2025-10-10 | 2025-10-18 |
@@ -85,7 +86,7 @@
 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 | 2024-09-20 |  |
 | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/track/3l8N4HXUN9O0s6hLWYTrRm) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/album/4RYKPODUPCpvBFFnbIhCD6) | 3:37 | 2025-07-25 |  |
 | [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 | 2024-10-11 |  |
-| [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/track/1WIZ3l4fZemVHoL8LjaAXS) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/album/1fW1hBs7G8B5VmsvmoGdus) | 2:57 | 2025-11-07 |  |
+| [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/track/1WIZ3l4fZemVHoL8LjaAXS) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/album/1fW1hBs7G8B5VmsvmoGdus) | 2:57 | 2025-11-07 | 2026-02-14 |
 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 | 2024-12-21 |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-27 | 2025-05-02 |
 | [ปล่อยฝัน \(Always\)](https://open.spotify.com/track/4fgvbzIQIwCjJXQEAqQQQB) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ปล่อยฝัน \(Always\)](https://open.spotify.com/album/7nz2tmpEGyOL25V6BfhVOn) | 3:58 | 2024-06-27 |  |

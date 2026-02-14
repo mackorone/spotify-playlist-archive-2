@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-189 songs - 12 hr 44 min
+190 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 | 2025-05-23 |  |
 | [Pilihanku](https://open.spotify.com/track/3puYuuZ7lmlTjIgXBOT01k) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Mata Hati Telinga](https://open.spotify.com/album/1DynZXJq0QLlWT4LYLBDxC) | 3:26 | 2023-02-03 |  |
 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 | 2025-02-18 | 2025-07-28 |
+| [Puspa](https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Berbunga](https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg) | 3:20 | 2026-02-13 |  |
 | [Rangga Cinta \- Theme Song ‘Rangga & Cinta’](https://open.spotify.com/track/0GiGo39NNQJQF4JoMCSR0L) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Rangga Cinta \(Theme Song ‘Rangga & Cinta’\)](https://open.spotify.com/album/4kOgoaeUZgZ3QqpxKDB10g) | 3:58 | 2025-09-24 |  |
 | [Rasa Cinta Ini](https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6) | 4:01 | 2023-02-03 |  |
 | [Rasa Cinta Ini](https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/7G0jQf7djccY6OsKIPu3Df) | 4:01 | 2023-09-20 | 2024-04-19 |

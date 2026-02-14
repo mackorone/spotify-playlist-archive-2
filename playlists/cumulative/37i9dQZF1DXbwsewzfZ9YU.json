@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "God Forgives",
+        "url": "https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134619,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/2nU7OKyo1EZqZQYnIVjTO1"
+    },
+    {
+      "album": {
         "name": "Apology Denied",
         "url": "https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB"
       },
@@ -478,7 +496,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 129914,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/0I86FZLWEyXO6lT68gEq1Z"
@@ -1047,6 +1065,28 @@
     },
     {
       "album": {
+        "name": "Citizen I.C.E.",
+        "url": "https://open.spotify.com/album/0a8UXVBxYkdx4KmYkjMamt"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Haywire 617",
+          "url": "https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83001,
+      "name": "Citizen I.C.E.",
+      "url": "https://open.spotify.com/track/1Gjk9xVoLX2c5xFSBow3ut"
+    },
+    {
+      "album": {
         "name": "Clip Your Wings",
         "url": "https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV"
       },
@@ -1192,6 +1232,24 @@
       "duration_ms": 153960,
       "name": "Corrode",
       "url": "https://open.spotify.com/track/2UIu1N8sSW8VzfzDyCz7Ur"
+    },
+    {
+      "album": {
+        "name": "Cradle of Twigs & Bone",
+        "url": "https://open.spotify.com/album/73HEkLk33fvytVsTEcymy6"
+      },
+      "artists": [
+        {
+          "name": "Feral Nature",
+          "url": "https://open.spotify.com/artist/6GWAz8O11jtULZ4XDpuot1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237757,
+      "name": "Cradle of Twigs & Bone",
+      "url": "https://open.spotify.com/track/6cKAkWciz4161bbPiQZBgD"
     },
     {
       "album": {
@@ -1444,7 +1502,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 142311,
       "name": "Delete It",
       "url": "https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ"
@@ -1650,6 +1708,24 @@
       "duration_ms": 107665,
       "name": "Do It Faster",
       "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
+    },
+    {
+      "album": {
+        "name": "DOG POUND",
+        "url": "https://open.spotify.com/album/0m9VbcopBmqgovnyf9YNtT"
+      },
+      "artists": [
+        {
+          "name": "Commitment",
+          "url": "https://open.spotify.com/artist/6BDSYruuDE2UN8FidNylVn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86882,
+      "name": "DOG POUND",
+      "url": "https://open.spotify.com/track/3FZaY7dTwbVFOA2e45vbin"
     },
     {
       "album": {
@@ -2076,7 +2152,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 185474,
       "name": "Fakes & Liars II",
       "url": "https://open.spotify.com/track/1PEooS0YDKnP6ueHyn1PtJ"
@@ -2397,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Nowhere To Run",
+        "url": "https://open.spotify.com/album/6lxZ7ISrXQEulBykfuaDfW"
+      },
+      "artists": [
+        {
+          "name": "Chopping Block",
+          "url": "https://open.spotify.com/artist/18qmleuiHpykV12Wg3FMWI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102706,
+      "name": "Fuck Wrong",
+      "url": "https://open.spotify.com/track/3v4bQH7UwRM4uBuMoNOUYM"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/0F5j7qujGeTfEONocKROif"
       },
@@ -2484,6 +2578,24 @@
       "duration_ms": 100253,
       "name": "GETMONEY",
       "url": "https://open.spotify.com/track/2k3eHeXxtdkzuTSqt4fizQ"
+    },
+    {
+      "album": {
+        "name": "Lines Crossed",
+        "url": "https://open.spotify.com/album/2Wm8QNDrNnLzUsgAuUuUyE"
+      },
+      "artists": [
+        {
+          "name": "Minus Youth",
+          "url": "https://open.spotify.com/artist/3vmFQ0HHdaqvG2yujSu9Bp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178622,
+      "name": "Gift of Life",
+      "url": "https://open.spotify.com/track/7usTs2xTjmCXa2KpBUo91n"
     },
     {
       "album": {
@@ -2776,6 +2888,28 @@
       "duration_ms": 179838,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/7f6yurNY0FZ9FNijUvQkx0"
+    },
+    {
+      "album": {
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
     },
     {
       "album": {
@@ -3706,7 +3840,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 249280,
       "name": "Masc",
       "url": "https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze"
@@ -3839,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Mind The Trap",
+        "url": "https://open.spotify.com/album/0bI18brFr01yo6F9rGhS5o"
+      },
+      "artists": [
+        {
+          "name": "Modern Guilt",
+          "url": "https://open.spotify.com/artist/5v3KvvYGfGtpkNrrCwU0c1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113346,
+      "name": "Mind The Trap",
+      "url": "https://open.spotify.com/track/7iHpPTsGbfUT83gZzyN8xR"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
@@ -3868,7 +4020,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 139229,
       "name": "Misery Lock",
       "url": "https://open.spotify.com/track/6oKjTWj0rBRGyBfcA6al4U"
@@ -4199,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "Beneath the Wheel",
+        "url": "https://open.spotify.com/album/2F4ghd19BiTO6y1dJWXjac"
+      },
+      "artists": [
+        {
+          "name": "Gumm",
+          "url": "https://open.spotify.com/artist/4iJSuRiHxC9zkb3nN4aYWA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116320,
+      "name": "New From the Pain",
+      "url": "https://open.spotify.com/track/5nJrPuISZaOcA9P28TBCSf"
+    },
+    {
+      "album": {
         "name": "New Lords",
         "url": "https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz"
       },
@@ -4300,7 +4470,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 76532,
       "name": "No Kings",
       "url": "https://open.spotify.com/track/3PGUqMsvEw3xxF3VIF32Qm"
@@ -5010,7 +5180,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 100509,
       "name": "Positions of Power",
       "url": "https://open.spotify.com/track/1xT9m6qJL4FbuoiNMB3Au5"
@@ -5687,6 +5857,32 @@
     },
     {
       "album": {
+        "name": "SONG 2",
+        "url": "https://open.spotify.com/album/35XzE95hTMOgyQ2JVqXHog"
+      },
+      "artists": [
+        {
+          "name": "CROWDKILL CARTEL",
+          "url": "https://open.spotify.com/artist/7jWytXunzd88U2NY5nlSTz"
+        },
+        {
+          "name": "MOUTH BREAKER",
+          "url": "https://open.spotify.com/artist/5dz8LGLQRsMoVR5UqGT61d"
+        },
+        {
+          "name": "ZUK\u00d8",
+          "url": "https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150731,
+      "name": "SONG 2",
+      "url": "https://open.spotify.com/track/0kUZ2rAYAgXtcgpVOhP58k"
+    },
+    {
+      "album": {
         "name": "Depictions of Chaos",
         "url": "https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh"
       },
@@ -5968,7 +6164,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187906,
       "name": "SUMMER NIGHTS",
       "url": "https://open.spotify.com/track/1Hin1mFcYcGXdJR2cMrbOY"
@@ -6004,7 +6200,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 54242,
       "name": "Supreme Ruler",
       "url": "https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz"
@@ -6538,6 +6734,24 @@
       "duration_ms": 131946,
       "name": "The Sin of Human Frailty",
       "url": "https://open.spotify.com/track/5JZnn0DbRP9ZrpNfut6nCx"
+    },
+    {
+      "album": {
+        "name": "The Weapon Pt. II",
+        "url": "https://open.spotify.com/album/77O2A0v7aanzerQ0fsyrbQ"
+      },
+      "artists": [
+        {
+          "name": "Mizery",
+          "url": "https://open.spotify.com/artist/1jtr0Jugsg69AGlDW4cqsX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "The Weapon Pt. II",
+      "url": "https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81"
     },
     {
       "album": {

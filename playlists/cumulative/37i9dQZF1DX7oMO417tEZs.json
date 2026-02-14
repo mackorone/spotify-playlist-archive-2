@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: Zora Jones",
+  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: Fcukers",
   "name": "Proto-",
   "tracks": [
     {
@@ -720,6 +720,24 @@
       "duration_ms": 168228,
       "name": "[PNJ]",
       "url": "https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw"
+    },
+    {
+      "album": {
+        "name": "[USE ME] then [RE-USE ME]",
+        "url": "https://open.spotify.com/album/3TL0qMRlt2aorqhxHW5soX"
+      },
+      "artists": [
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "[USE ME] then [RE-USE ME]",
+      "url": "https://open.spotify.com/track/2XbIOWSU6cnphMkBRBsU1P"
     },
     {
       "album": {
@@ -3307,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Beatback",
+        "url": "https://open.spotify.com/album/0nKPxS384Utr4iDBXlZBRU"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "Beatback",
+      "url": "https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b"
+    },
+    {
+      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/6aiNMme9ctnYl87Nt4fTVf"
       },
@@ -5872,6 +5908,28 @@
       "duration_ms": 123093,
       "name": "Choose Summer (Gold Teeth and Bamboos)",
       "url": "https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy"
+    },
+    {
+      "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199456,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
     },
     {
       "album": {
@@ -12607,6 +12665,24 @@
     },
     {
       "album": {
+        "name": "Rock And A Hard Place",
+        "url": "https://open.spotify.com/album/5Ptq4gERj9cnjyebShW7Sk"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221013,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/0uFpWDyczrgNDQd93oZL7q"
+    },
+    {
+      "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/2yDqW1SHQckBWAZYj3WjSd"
       },
@@ -14215,6 +14291,28 @@
     },
     {
       "album": {
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
+    },
+    {
+      "album": {
         "name": "333 (Deluxe)",
         "url": "https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW"
       },
@@ -15070,7 +15168,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 217999,
       "name": "I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD",
       "url": "https://open.spotify.com/track/4uCsJlsvglqasORJnmmLng"
@@ -15966,7 +16064,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 200656,
       "name": "IMPLOSION",
       "url": "https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8"
@@ -16974,7 +17072,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 181343,
       "name": "Just Hurt Me",
       "url": "https://open.spotify.com/track/5CKeTm0Yn9cP5qvbVl2gic"
@@ -17293,6 +17391,24 @@
     },
     {
       "album": {
+        "name": "Kitten Paws",
+        "url": "https://open.spotify.com/album/6Y4PcvziQ2AE0iv69aAOdo"
+      },
+      "artists": [
+        {
+          "name": "DJ Puce",
+          "url": "https://open.spotify.com/artist/501Dw3XJ9GvUFWa6hHOAdJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97820,
+      "name": "Kitten Paws",
+      "url": "https://open.spotify.com/track/4QeygQoA7APQfxm7hZgwkk"
+    },
+    {
+      "album": {
         "name": "SABINA",
         "url": "https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5"
       },
@@ -17380,7 +17496,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -23386,7 +23502,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 178698,
       "name": "Oxyballad",
       "url": "https://open.spotify.com/track/1lnB14hjY6jkFm0M4Spe9j"
@@ -25606,7 +25722,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 226295,
       "name": "Remember Us?",
       "url": "https://open.spotify.com/track/2kxtm7hrllq0k5VodL7O2M"

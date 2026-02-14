@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1224,
+  "num_followers": 1223,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAALKPjpAT1YkP5z72ly0jymyaOB7ucO",
+  "snapshot_id": "AAALLmmxjC+T6zf+YRvjnSn4GfMUZKgu",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,54 @@
       "duration_ms": 333031,
       "name": "Echo Chambers",
       "url": "https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA"
+    },
+    {
+      "added_at": "2026-02-13 07:15:39",
+      "album": {
+        "name": "Apathy",
+        "url": "https://open.spotify.com/album/5gEj5JNQ2mZO0btf4hJwvr"
+      },
+      "artists": [
+        {
+          "name": "Last Second Dropout",
+          "url": "https://open.spotify.com/artist/0SFv3VNLK8XQuzFBdorehi"
+        }
+      ],
+      "duration_ms": 206204,
+      "name": "Apathy",
+      "url": "https://open.spotify.com/track/1RkAYeOXzdO6wqllltdzL9"
+    },
+    {
+      "added_at": "2026-02-13 07:15:02",
+      "album": {
+        "name": "Sinking In",
+        "url": "https://open.spotify.com/album/7BsyiJx9d0lUwiDx0M6Nm4"
+      },
+      "artists": [
+        {
+          "name": "Fake Lighters",
+          "url": "https://open.spotify.com/artist/4UHuZhmbhkKgoiLkvc9lQQ"
+        }
+      ],
+      "duration_ms": 105222,
+      "name": "This Is The End",
+      "url": "https://open.spotify.com/track/5snyVmnEIWhUDQ9h9gCF1F"
+    },
+    {
+      "added_at": "2026-02-13 05:06:46",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0WVoeNpdgZA6TVkOPOl3w0"
+      },
+      "artists": [
+        {
+          "name": "Victories",
+          "url": "https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6GbPupbyDuA3ipJsYATSJA"
     },
     {
       "added_at": "2026-02-12 17:08:28",
@@ -4205,6 +4253,22 @@
       "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
     },
     {
+      "added_at": "2026-02-13 22:30:49",
+      "album": {
+        "name": "Reclamation Proclamation",
+        "url": "https://open.spotify.com/album/6puzOxztJGm7daAHjeZ3yN"
+      },
+      "artists": [
+        {
+          "name": "Project No-On",
+          "url": "https://open.spotify.com/artist/2nC06Qpyfz0GMaU5HgOM7T"
+        }
+      ],
+      "duration_ms": 142967,
+      "name": "Trust Me Bro",
+      "url": "https://open.spotify.com/track/6nIgE5stt7S6VALHivZ70B"
+    },
+    {
       "added_at": "2026-02-11 11:58:29",
       "album": {
         "name": "Assistant Professional White Guy",
@@ -4235,6 +4299,38 @@
       "duration_ms": 100540,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/26cgkvwuIs2GwNxrMuyA0h"
+    },
+    {
+      "added_at": "2026-02-13 22:30:36",
+      "album": {
+        "name": "Fast Cars, Slow Sundays (Unplugged)",
+        "url": "https://open.spotify.com/album/5zygnpwPrK5QOMgvsJwLMS"
+      },
+      "artists": [
+        {
+          "name": "FairPlay",
+          "url": "https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD"
+        }
+      ],
+      "duration_ms": 182359,
+      "name": "Fast Cars, Slow Sundays (Unplugged)",
+      "url": "https://open.spotify.com/track/2R7pyVONsPog9fM8FlSaME"
+    },
+    {
+      "added_at": "2026-02-13 15:48:14",
+      "album": {
+        "name": "SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET",
+        "url": "https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq"
+      },
+      "artists": [
+        {
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE"
     }
   ],
   "unique_name": "Shuffle Roulette",

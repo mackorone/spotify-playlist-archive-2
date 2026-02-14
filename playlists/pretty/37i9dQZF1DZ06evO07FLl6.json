@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 246076,
+  "num_followers": 246104,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACLasLNpVgiElBBf5EDaiSD",
+  "snapshot_id": "aY0YAAAAAAB73I/2eKxfiFy46dDaiDGY",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
       "artists": [
         {
@@ -432,25 +432,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         },
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         },
         {
           "name": "Paul Chambers",
           "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         },
         {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 420693,
-      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+      "duration_ms": 314160,
+      "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
       "artists": [
         {
@@ -508,25 +508,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         },
         {
           "name": "Paul Chambers",
           "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         },
         {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 314160,
-      "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
+      "duration_ms": 420693,
+      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Columbia Studio Recordings",
-        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 30693,
-      "name": "Studio Discussion - One",
-      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 299680,
       "name": "Airegin - RVG Remaster",
       "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,

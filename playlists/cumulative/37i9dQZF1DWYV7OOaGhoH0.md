@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Michael Marcagi
+> The best in folk & acoustic today featuring music from Cat Clyde
 
-809 songs - 2 day 1 hr 42 min
+811 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Every Drop](https://open.spotify.com/track/5gpShDmknIBLH6JDhzhHu4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso \(Deluxe Edition\)](https://open.spotify.com/album/5xWV1OMbab5FjXNnlshacS) | 3:06 | 2021-12-10 | 2022-02-26 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-02-12 |
 | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO) | 2:58 | 2022-01-07 | 2022-04-02 |
+| [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 | 2026-02-13 |  |
 | [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 | 2025-08-15 |  |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-21 | 2025-10-11 |
 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 | 2023-02-24 | 2024-02-17 |
@@ -456,6 +457,7 @@
 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-14 | 2022-03-26 |
 | [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 | 2023-10-27 | 2024-11-23 |
 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-02-28 | 2025-11-15 |
+| [Man's World](https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Man's World](https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD) | 2:42 | 2026-02-13 |  |
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-21 | 2025-03-15 |
 | [Maybe We Do](https://open.spotify.com/track/7a79Bqb0S6UXBInOBvFdEL) | [Zach Seabaugh](https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2) | [Maybe We Do](https://open.spotify.com/album/2Zy2LQDsSpy0tX6UjjHkac) | 2:53 | 2023-08-11 | 2024-09-14 |
 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 | 2021-12-10 | 2022-07-23 |

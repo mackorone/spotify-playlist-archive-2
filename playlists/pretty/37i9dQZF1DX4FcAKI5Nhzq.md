@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: CHUNG HA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,828 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,843 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 |
 | 2 | [Stay](https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Stay](https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ) | 3:23 |
 | 3 | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
-| 4 | [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JEON JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 |
+| 4 | [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 |
 | 5 | [Truth](https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Truth](https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3) | 3:03 |
 | 6 | [I Feel Good \(Live Ver.\)](https://open.spotify.com/track/7rf1HYMl0ZjPLO8HbWbc7a) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYNEXTDOOR TOUR ‘KNOCK ON Vol.1’ FINAL \(LIVE\)](https://open.spotify.com/album/4ToqvVUbHU1bJNNmkJSkLK) | 2:46 |
 | 7 | [LOVEPOCALYPSE](https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [RE\-FLOW](https://open.spotify.com/album/2IhQYBuoaZmcXRQJqwFGQg) | 2:49 |

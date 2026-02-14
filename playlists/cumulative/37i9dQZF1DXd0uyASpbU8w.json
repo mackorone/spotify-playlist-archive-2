@@ -8021,8 +8021,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -13967,8 +13967,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Girls & MP3's",
+        "url": "https://open.spotify.com/album/0mgsqDy5QRpSCUnio8KEqT"
       },
       "artists": [
         {
@@ -20567,8 +20567,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "I Was Never Alone",
+        "url": "https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY"
       },
       "artists": [
         {
@@ -25367,6 +25367,24 @@
     },
     {
       "album": {
+        "name": "Pale Bloom",
+        "url": "https://open.spotify.com/album/3UdhGs2R7AyEuzwrLBc0Mb"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260759,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT"
+    },
+    {
+      "album": {
         "name": "Bloom Baby Bloom",
         "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
       },
@@ -28674,6 +28692,32 @@
       "duration_ms": 314518,
       "name": "Bula Boot",
       "url": "https://open.spotify.com/track/6U44JwlYkQnW29ywF6YIbA"
+    },
+    {
+      "album": {
+        "name": "Bula Ditsela",
+        "url": "https://open.spotify.com/album/4DNZNB30lDTCCKcFZFZBKc"
+      },
+      "artists": [
+        {
+          "name": "Maleh",
+          "url": "https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i"
+        },
+        {
+          "name": "Kamoh Xaba",
+          "url": "https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui"
+        },
+        {
+          "name": "Kamza HeavyPoint",
+          "url": "https://open.spotify.com/artist/7nL5uRTsldIllG5bHiOTlR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355853,
+      "name": "Bula Ditsela",
+      "url": "https://open.spotify.com/track/7geNSXVF8hrK0OhqFiPXIl"
     },
     {
       "album": {
@@ -44763,7 +44807,7 @@
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146000,
+      "duration_ms": 145978,
       "name": "DON'T KILL MY VIBE",
       "url": "https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86"
     },
@@ -50642,6 +50686,24 @@
       "duration_ms": 338507,
       "name": "Endaweni",
       "url": "https://open.spotify.com/track/2VvdIGDwpsTjlYN7NLQIRE"
+    },
+    {
+      "album": {
+        "name": "Endaweni",
+        "url": "https://open.spotify.com/album/2wpdnfaGn1zwE5XqS1fSqw"
+      },
+      "artists": [
+        {
+          "name": "Garth Brown",
+          "url": "https://open.spotify.com/artist/77Cs84lBhoUxp6OenSCJKR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264941,
+      "name": "Endaweni",
+      "url": "https://open.spotify.com/track/1W6q9e83M18JKw6EdqYLJf"
     },
     {
       "album": {
@@ -89433,8 +89495,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq"
       },
       "artists": [
         {
@@ -130583,6 +130645,24 @@
     },
     {
       "album": {
+        "name": "Ni Wewe",
+        "url": "https://open.spotify.com/album/4hsuH36mKQFWr0d1gIePEM"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Ni Wewe",
+      "url": "https://open.spotify.com/track/6EQ7pGilvbOhMNwo9UbN3J"
+    },
+    {
+      "album": {
         "name": "star",
         "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
       },
@@ -131210,24 +131290,6 @@
       "duration_ms": 140746,
       "name": "Niwa",
       "url": "https://open.spotify.com/track/7IcXou6QIHdHAhWlPNUyXK"
-    },
-    {
-      "album": {
-        "name": "Niwewe",
-        "url": "https://open.spotify.com/album/4hsuH36mKQFWr0d1gIePEM"
-      },
-      "artists": [
-        {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154285,
-      "name": "Niwewe",
-      "url": "https://open.spotify.com/track/6EQ7pGilvbOhMNwo9UbN3J"
     },
     {
       "album": {
@@ -140105,8 +140167,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
       },
       "artists": [
         {
@@ -176925,6 +176987,28 @@
     },
     {
       "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/4R4Pc3nwMzmveOiAedDal1"
+      },
+      "artists": [
+        {
+          "name": "Kayla The Crow",
+          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+        },
+        {
+          "name": "Sannie Fox",
+          "url": "https://open.spotify.com/artist/7D5bb69WMeC1jB8yP1uXnI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/6k9OTAIHa2qy7L8eXIR8Rr"
+    },
+    {
+      "album": {
         "name": "Sons and Daughters of Credo Mutwa",
         "url": "https://open.spotify.com/album/4nKBvNnLmZNf98Rq54FjEj"
       },
@@ -181805,6 +181889,28 @@
     },
     {
       "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
+    },
+    {
+      "album": {
         "name": "To Be Free",
         "url": "https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb"
       },
@@ -183810,42 +183916,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0rIU6NfW2aSPdV1S5VBBYT"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lucy Kruger & The Lost Boys",
-          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 16",
-      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
     },
     {
       "album": {
@@ -188741,8 +188811,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Facet 2",
+        "url": "https://open.spotify.com/album/0ZyJlS4gYTvBvngQTzsMau"
       },
       "artists": [
         {
@@ -190254,7 +190324,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 378305,
       "name": "uMsebenzi",
       "url": "https://open.spotify.com/track/3TSVV7MgE4idmxn4iYh3Ag"

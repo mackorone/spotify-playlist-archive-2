@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music.
 
-595 songs - 2 day 1 hr 9 min
+597 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Cult of Isis](https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 7:41 | 2023-12-01 | 2024-03-22 |
 | [Cult of Isis](https://open.spotify.com/track/2OgTcOgbfMfS5hwJqWXpR2) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Cult of Isis](https://open.spotify.com/album/7uACb0jaSVYnbU0Txpnq7Z) | 7:41 | 2025-05-12 | 2025-05-17 |
 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-18 | 2024-09-07 |
-| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 |  |
+| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 | 2026-02-14 |
 | [Cycles](https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 4:11 | 2023-05-05 | 2025-01-15 |
 | [D.I.S.](https://open.spotify.com/track/1AWVySdGojdnQDRyNd6Y2s) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Tranquilizer](https://open.spotify.com/album/4nOjUCw5rOroJp1JHcLZau) | 3:32 | 2025-12-05 |  |
 | [D.I.S.](https://open.spotify.com/track/3az9Ir2Qd2JBHxT9wfGLoV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [D.I.S.](https://open.spotify.com/album/3GKiNeF8efgPVOIijAeCZn) | 3:32 | 2025-11-14 | 2025-12-06 |
@@ -194,7 +194,7 @@
 | [Drive West On Sunset \- Ambient](https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Being There \(Ambient\)](https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR) | 5:03 | 2023-03-10 | 2025-08-23 |
 | [EA9633](https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32) | [Miyu Hosoi](https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T) | [EA9633](https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB) | 3:12 | 2022-04-01 | 2025-01-25 |
 | [Eagle 12'](https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [Eagle 12'](https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i) | 2:20 | 2025-02-07 |  |
-| [Earth Loop](https://open.spotify.com/track/2JSld8pCWOocc1SHrIzH2F) | [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv) | [A New Life](https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l) | 1:44 | 2025-09-04 |  |
+| [Earth Loop](https://open.spotify.com/track/2JSld8pCWOocc1SHrIzH2F) | [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv) | [A New Life](https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l) | 1:44 | 2025-09-04 | 2026-02-14 |
 | [Earthship](https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce) | [LAV](https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Earth and Beyond](https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR) | 9:56 | 2022-01-28 | 2025-01-18 |
 | [East Sea 동해 \- Original Mix](https://open.spotify.com/track/3s9V7qhZDffaiuLh211fPn) | [Inhmost](https://open.spotify.com/artist/1uWXjDzaMktZ4GukbKxX9O) | [Seven Moves Later](https://open.spotify.com/album/3UGCNJ6MqgimLaSVU9EOHC) | 7:50 | 2023-11-14 | 2025-04-12 |
 | [Elastica I](https://open.spotify.com/track/4EUEvuDcWv3gsllj7jCgZj) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Sentir Que No Sabes](https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l) | 1:59 | 2025-01-09 | 2025-04-26 |
@@ -274,6 +274,7 @@
 | [HYbr:ID Ectopia Field 1](https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [HYbr:ID Ectopia Field 1](https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6) | 4:05 | 2023-09-22 | 2026-01-17 |
 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 | 2021-12-26 | 2023-08-12 |
 | [I Gave Up My Body](https://open.spotify.com/track/4DfJTBAiRDEdO0gUq34hn7) | [Talpah](https://open.spotify.com/artist/7vZG2CxAlxQAsnyVzDhk0v), [Ciro Vitiello](https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s), [Zimmy](https://open.spotify.com/artist/0CV8YK9ClVI8H5uGNpjSOX) | [Lost in the Colloid](https://open.spotify.com/album/64MaGZQtVJFcBUlMCXrxgm) | 4:13 | 2022-01-24 | 2022-01-27 |
+| [i hope this is love](https://open.spotify.com/track/3OFyCqT6cr3PTCpVAIasgh) | [Swaya](https://open.spotify.com/artist/5Su7Ukl74hlC322uKc59zB), [Jetty](https://open.spotify.com/artist/5RlHGBLFMYVAF5P87KTx2f) | [i hope this is love](https://open.spotify.com/album/1ffF9Y7f8t7SbQvMcIgjCG) | 2:48 | 2026-02-13 |  |
 | [I Saw You](https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 4:25 | 2025-01-14 |  |
 | [I Used To See Her On The Way Home from School and She Lit Up The Sky with her Beauty](https://open.spotify.com/track/7erYKaTCRUIr9iDHq8EcJj) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [I Used To See Her On The Way Home from School and She Lit Up The Sky with her Beauty](https://open.spotify.com/album/3jxQkmEwrPcLQ414uwLyXv) | 5:15 | 2025-10-17 |  |
 | [I, you](https://open.spotify.com/track/7xznVSBGvlqEbxMPFAoEZY) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 3:45 | 2025-01-09 |  |
@@ -543,6 +544,7 @@
 | [Transformation](https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Metamorphose](https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o) | 3:10 | 2022-04-01 | 2025-03-01 |
 | [Trapped in an Oil Painting](https://open.spotify.com/track/2CXI4cnhzLHf4zR3uncwPe) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito Xtended](https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1) | 4:10 | 2025-04-25 |  |
 | [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 | 2025-01-09 |  |
+| [Un pomeriggio di sole mi sono accorto che stavo correndo](https://open.spotify.com/track/6G53tWdq2h3EMVjNuGXRz8) | [Mofw](https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH) | [Cardware](https://open.spotify.com/album/2TEF8MO0nA2HKJNsRQJz2j) | 3:04 | 2026-02-13 |  |
 | [Underwater Lament](https://open.spotify.com/track/5yhGjzIGVied5rBDAY2W92) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fire Thief](https://open.spotify.com/album/4bJnBxOOtYinMYOK0SYXGK) | 5:20 | 2021-12-26 | 2023-04-30 |
 | [Underwater Lament](https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:20 | 2023-04-21 | 2023-08-12 |
 | [unfaithful](https://open.spotify.com/track/5XM3dR6xGjw6DlR7ZpKGp8) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9), [Inan](https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG) | [unfaithful](https://open.spotify.com/album/7zaexdw355bnZ7q2SiAvlO) | 1:58 | 2023-02-24 | 2025-01-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,033 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,114 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 4 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 |
 | 5 | [September In The Rain](https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:09 |
 | 6 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
-| 7 | [The Lady Is A Tramp \- Remastered 1998](https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 3:14 |
-| 8 | [More \- Remastered 2004](https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Legendary Bobby Darin](https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7) | 2:25 |
+| 7 | [More \- Remastered 2004](https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Legendary Bobby Darin](https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7) | 2:25 |
+| 8 | [The Lady Is A Tramp \- Remastered 1998](https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 3:14 |
 | 9 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 |
 | 10 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 11 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 41 | [Can't Take My Eyes Off You](https://open.spotify.com/track/00jlyC6x233qlS1vhLHdA3) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Very Best Of Andy Williams](https://open.spotify.com/album/3Og0hkf2QsluUfzUJ2PIru) | 3:12 |
 | 42 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
 | 43 | [Time After Time](https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [As Time Goes By...The Great American Songbook: Volume II](https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ) | 2:59 |
-| 44 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
-| 45 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
+| 44 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
+| 45 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 46 | [Till There Was You](https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Till There Was You](https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR) | 3:53 |
 | 47 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 |
 | 48 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,281 likes - 98 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,425 likes - 98 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 45 | [Rise with the Sun](https://open.spotify.com/track/12SfOqmoshZLNj0JUVcWHM) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Rise with the Sun](https://open.spotify.com/album/24gNqKUirdjTRpU6No3DQp) | 4:50 |
 | 46 | [Let There Be \- Live](https://open.spotify.com/track/3Vh0J89Ast5y4SlUsUnK7A) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Let There Be \(Live\)](https://open.spotify.com/album/0QBDnUMHncJ9viZ4OzRLYP) | 4:40 |
 | 47 | [No Matter Where The Altar Is \- Radio Version](https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [No Matter Where The Altar Is \(Radio Version\)](https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5) | 4:31 |
-| 48 | [Stand Firm](https://open.spotify.com/track/0nw1rJIRyQNs7iqEF6S3SL) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg), [Tiarne Tranter](https://open.spotify.com/artist/26Tv8MbxPG2FOWvBV8cjZ6) | [The Commons Chapel](https://open.spotify.com/album/7hJIymid4FZ6uUCpFr0DqX) | 4:00 |
+| 48 | [Stand Firm \(feat\. Tiarne Tranter\)](https://open.spotify.com/track/0nw1rJIRyQNs7iqEF6S3SL) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg), [Tiarne Tranter](https://open.spotify.com/artist/26Tv8MbxPG2FOWvBV8cjZ6) | [The Commons Chapel](https://open.spotify.com/album/7hJIymid4FZ6uUCpFr0DqX) | 4:00 |
 | 49 | [There Is Peace \- Live](https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Open Door \(Live\)](https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ) | 6:10 |
 | 50 | [Always](https://open.spotify.com/track/6G7FSRegOKvDVDVDb4gEAA) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Always](https://open.spotify.com/album/5CVUvF1iN873imh3QwQL8H) | 7:18 |
 | 51 | [We Lift You Up \- Live](https://open.spotify.com/track/6m5G6wxD26gIaZo4ZM1aiO) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo) | [We Lift You Up \(Live\)](https://open.spotify.com/album/5liVTFUIqjuVKqmi9tqptX) | 8:16 |

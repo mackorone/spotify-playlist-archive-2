@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 🌙 cover: bella kay
 
-832 songs - 1 day 18 hr 8 min
+833 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [chemical fashion](https://open.spotify.com/track/22YHNAU7l6kjLwnRcm6ODc) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [chemical fashion](https://open.spotify.com/album/12EVnKVKqC8rSalDulH0cn) | 3:00 | 2025-02-28 | 2025-05-16 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-28 | 2025-05-30 |
 | [Chicago](https://open.spotify.com/track/3gDPvCx5hIoi4hFlJqeRqQ) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [wasn’t a fighting kid](https://open.spotify.com/album/6VzjjK4yMX1z1dUaOp5K1B) | 3:12 | 2024-10-24 | 2025-02-28 |
+| [Chick Flick](https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Chick Flick](https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi) | 3:22 | 2026-02-13 |  |
 | [Chin Up](https://open.spotify.com/track/24hzLvHdjyy4bU6uqfrKZK) | [seegz](https://open.spotify.com/artist/7sgYueUDoDPfAyobvj9dzY) | [Chin Up](https://open.spotify.com/album/1IQ0R84y6EchzVRyp7IrPq) | 3:30 | 2025-06-05 | 2025-08-29 |
 | [CHUG!](https://open.spotify.com/track/6IYnAmrYsyWxF2D0shv0zM) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [CHUG!](https://open.spotify.com/album/44rnmytC1J6gaAPHyCXjqX) | 3:51 | 2025-10-02 | 2025-11-21 |
 | [City Needs Me](https://open.spotify.com/track/4xN0mqPv2S2fYtzHfLwnkx) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [The Late Bloomer](https://open.spotify.com/album/6MNlfbLZxmnEFQxxeSpmna) | 3:04 | 2025-04-11 | 2025-06-27 |
@@ -237,7 +238,7 @@
 | [Everything I'm Not](https://open.spotify.com/track/4GU8qd8WoA40FqETjy3mcp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Everything I'm Not](https://open.spotify.com/album/7sOXYPePDPUjHchQqzA2Zo) | 3:01 | 2024-10-17 | 2025-01-17 |
 | [everything stays](https://open.spotify.com/track/1fPy2hmFADw9hcWHH0y2Dx) | [peace](https://open.spotify.com/artist/5o4nlnlzin0Cc1GIRovq1Q) | [everything stays](https://open.spotify.com/album/1ugdTglwUHj8g8cdxJGlHE) | 2:03 | 2024-07-11 | 2024-10-11 |
 | [everything still worries me](https://open.spotify.com/track/18A3W7O8jAAKiX0WjMGo8o) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [everything still worries me](https://open.spotify.com/album/5R21eLMhLssDHKCeQ8v4Fc) | 2:42 | 2024-07-25 | 2024-08-03 |
-| [Everywhere Isn't Texas](https://open.spotify.com/track/20eJY9bryFWgVNUlZBUgGN) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [](https://open.spotify.com/album/null) | 3:12 | 2026-02-13 |  |
+| [Everywhere Isn't Texas](https://open.spotify.com/track/20eJY9bryFWgVNUlZBUgGN) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Everywhere Isn't Texas](https://open.spotify.com/album/75jUCkcDcLD25FR9AlQJik) | 3:12 | 2026-02-13 |  |
 | [Exercise](https://open.spotify.com/track/5FLk3rB17P8i6AoJ7SdLjl) | [Lovelle](https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx) | [Summer Tape 3](https://open.spotify.com/album/4kWYFsSZjX7R5WVqWWrisD) | 3:21 | 2025-08-01 | 2025-09-05 |
 | [eyes](https://open.spotify.com/track/7qt2MchLcEJ6WdgsDgjEfa) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [eyes](https://open.spotify.com/album/6KlKXZ6PaYDkaflM3DG4Jq) | 2:17 | 2025-07-10 | 2025-09-26 |
 | [face to face](https://open.spotify.com/track/1faZdE6q27lJH2GnhFuhBP) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [face to face](https://open.spotify.com/album/76lVUNdjwPIhsQTMJrzmMn) | 3:01 | 2024-08-23 | 2024-11-01 |
@@ -758,7 +759,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 |  |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 5](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 | 2026-01-30 |  |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-27 | 2024-08-09 |
@@ -772,6 +772,7 @@
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 | 2025-08-15 |
 | [twenty four](https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [twenty four](https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g) | 2:43 | 2025-11-14 | 2026-01-16 |
 | [Two's On A Cigarette](https://open.spotify.com/track/1X2vc5OwPV6wFq6Gp3pVyO) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM), [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Sahaji](https://open.spotify.com/artist/7qXqIlwSGT8kMUZ20a8ATU) | [Two's On A Cigarette](https://open.spotify.com/album/1YHbRm8v5Jl6S2dk3TPRPb) | 3:33 | 2025-11-07 | 2026-02-13 |
+| [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 | 2026-02-13 |  |
 | [Ugly Crier](https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Can I Come Too?](https://open.spotify.com/album/5007izIDA5T2I96QI67JaO) | 3:20 | 2025-09-25 | 2025-11-21 |
 | [Unaware](https://open.spotify.com/track/6QhK3GRhfNQYeHpKEx9X6Q) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Sure](https://open.spotify.com/album/2Nz7KJZ4TSGHqWb4jGLPBA) | 3:30 | 2024-11-08 | 2025-04-11 |
 | [Unbelievable](https://open.spotify.com/track/4NVyvRuKdJXqC7vnJycVjb) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Unbelievable](https://open.spotify.com/album/7uBzED8vXwazMC9Q3MHY0q) | 3:23 | 2024-07-18 | 2024-08-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,892 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,849 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 14 | [zwei fremde](https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA) | [Julia Wulf](https://open.spotify.com/artist/4ObtPV2oJrfSRQBEFXhNfr) | [zwei fremde](https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7) | 2:50 |
 | 15 | [wenn du springst.](https://open.spotify.com/track/0SHaqJubo0sr2HP8ovYxTq) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [wenn du springst.](https://open.spotify.com/album/07uXQwIroRv0Up1qO7Xu5b) | 2:56 |
 | 16 | [Keine Fotos!](https://open.spotify.com/track/5MdwmMiQfD7rpo09hONd2I) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Keine Fotos!](https://open.spotify.com/album/1xFbFgxsetsUkd7tKnJ85G) | 2:00 |
-| 17 | [Track 5](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 |
 | 18 | [tattoo](https://open.spotify.com/track/1nj0Z4GewwQfq9yRTJ3tPi) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [tattoo](https://open.spotify.com/album/0frls0mE3FLZxBgAVDJraI) | 2:30 |
 | 19 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
-| 20 | [Track 1](https://open.spotify.com/track/2WHxny6MgCVJTMMGt6R7kl) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [mitternacht](https://open.spotify.com/track/2WHxny6MgCVJTMMGt6R7kl) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [mitternacht](https://open.spotify.com/album/6sPAArJU3y6Cs4lJ8FVPfY) | 2:32 |
 | 21 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 | 22 | [ALPHA FEMINIST](https://open.spotify.com/track/3v652Tj4Adys47C76CVON2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [ALPHA FEMINIST](https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s) | 2:34 |
 | 23 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
-| 24 | [KOPFDOKTOR](https://open.spotify.com/track/1TdhVjixHKtPOu0hsbsxJF) | [KIKI](https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo) | [](https://open.spotify.com/album/null) | 2:56 |
+| 24 | [KOPFDOKTOR](https://open.spotify.com/track/1TdhVjixHKtPOu0hsbsxJF) | [KIKI](https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo) | [SCHLAFEN KANN ICH WENN ICH TOT BIN](https://open.spotify.com/album/0oDD1Slz3vWlTCzk7MABXd) | 2:56 |
 | 25 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 26 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 27 | [Wimpern ausreißen \(uncut\)](https://open.spotify.com/track/2vnIS6DH6DRy8D3R45OIEO) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Wimpern ausreißen \(uncut\)](https://open.spotify.com/album/25iFwHikNkeKL3iKN7ORjd) | 2:58 |

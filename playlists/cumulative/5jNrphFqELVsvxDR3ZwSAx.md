@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-390 songs - 1 day 1 hr 12 min
+391 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4h1ncL7WXq5VPEFFT8czFd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/2PqdLahq540qKyJ4XxdrOa) | 4:28 | 2024-05-01 | 2025-02-22 |
 | [Down](https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [All Or Nothing](https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk) | 3:32 | 2025-09-05 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 | 2025-04-18 |  |
+| [Dream As One \- from Avatar: Fire and Ash](https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Dream As One \(from Avatar: Fire and Ash\)](https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q) | 3:19 | 2026-02-13 |  |
 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 | 2025-10-26 |  |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 | 2022-05-18 | 2024-05-02 |
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2025-02-21 | 2025-06-14 |

@@ -2,16 +2,16 @@
 
 ### [crushed velvet](https://open.spotify.com/playlist/37i9dQZF1DXcPiubrCbXxp)
 
-> that 50s kinda feeling, cover: Stephen Sanchez
+> that 50s kinda feeling, cover: Laufey
 
-113 songs - 6 hr 11 min
+115 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Here's to the\) Prom Queen](https://open.spotify.com/track/6xqs1Mp7AXLSVcdA1pxGQN) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [\(Here's to the\) Prom Queen](https://open.spotify.com/album/60aRrB8FvfkZDuADVGhKkZ) | 3:49 | 2023-08-04 | 2024-11-23 |
 | [60’s Baby.](https://open.spotify.com/track/20nGJqajPlRtPX31ddRxR1) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [60’s Baby.](https://open.spotify.com/album/513yH6wNINqUE0fZ3UY0DM) | 2:23 | 2023-09-22 |  |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-09 |  |
-| [Almost Like Being In Love \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/7BEclFtN96d7SnYQQ3V9TO) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Almost Like Being In Love \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/7nGHMDrBdd5H2FZeqmNxAj) | 2:55 | 2024-04-05 |  |
+| [Almost Like Being In Love \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/7BEclFtN96d7SnYQQ3V9TO) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Almost Like Being In Love \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/7nGHMDrBdd5H2FZeqmNxAj) | 2:55 | 2024-04-05 | 2026-02-14 |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-07-04 | 2025-09-27 |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2023-08-04 | 2024-04-24 |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-09-15 | 2024-04-19 |
@@ -65,6 +65,7 @@
 | [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-02 |  |
 | [I Wonder](https://open.spotify.com/track/3SHLX5ePGvPKcWKM05Thga) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:37 | 2023-09-15 |  |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-09-08 | 2025-10-04 |
+| [Is This Love??](https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Is This Love??](https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW) | 3:09 | 2026-02-13 |  |
 | [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 | 2024-05-03 |  |
 | [It's All You](https://open.spotify.com/track/3kE62aRIdnW6Hd9fvXLgA8) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [It's All You](https://open.spotify.com/album/2UOEEPeGKrKIMzHJDLfVKT) | 1:43 | 2024-01-12 | 2024-01-27 |
 | [I’ll See You In My Dreams](https://open.spotify.com/track/6e1etASUJJUrg8LHiV4RI0) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [I'll See You In My Dreams](https://open.spotify.com/album/6EislLSM2rnb6dmdAGc1t3) | 3:51 | 2024-09-20 | 2025-03-04 |
@@ -101,6 +102,7 @@
 | [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 | 2026-01-09 |  |
 | [Sweet N Low](https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sweet N Low](https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G) | 2:59 | 2023-12-13 | 2024-06-08 |
 | [Teenager in Love](https://open.spotify.com/track/0ozo6xfFvHOxn1o2dA2UPk) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:34 | 2023-08-04 | 2025-06-20 |
+| [Terminal Lovesick](https://open.spotify.com/track/2RfmFbqPz3zN2u01SBd55s) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Terminal Lovesick](https://open.spotify.com/album/6Xu3qprU7PrQRGgJJPgWSD) | 2:38 | 2026-02-13 |  |
 | [The Archer](https://open.spotify.com/track/3H3lRA0oqK92R3ygLRXn67) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/4Fc5K4rytNveeeaXSYzeel) | 2:25 | 2023-08-04 | 2024-02-09 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2023-08-04 | 2024-04-19 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:55 | 2024-04-09 |  |
@@ -112,7 +114,7 @@
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2023-08-04 | 2023-09-23 |
 | [Video Games](https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:41 | 2023-08-04 |  |
 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-05-09 |  |
-| [We'll Meet Again](https://open.spotify.com/track/6oOOI69XbmvAjPHziVMLYS) | [maruwhat](https://open.spotify.com/artist/4XmA8h1RMvaf4pa9eiQdGI) | [We'll Meet Again](https://open.spotify.com/album/1B0UgM5M4163GuNtyenSYg) | 2:56 | 2023-08-04 |  |
+| [We'll Meet Again](https://open.spotify.com/track/6oOOI69XbmvAjPHziVMLYS) | [maruwhat](https://open.spotify.com/artist/4XmA8h1RMvaf4pa9eiQdGI) | [We'll Meet Again](https://open.spotify.com/album/1B0UgM5M4163GuNtyenSYg) | 2:56 | 2023-08-04 | 2026-02-14 |
 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 | 2025-10-03 |  |
 | [When She Loved Me](https://open.spotify.com/track/3198LMj0bpnXj8Mb1GLo3u) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [When She Loved Me](https://open.spotify.com/album/3nGZB91emd3OVE25ra3Ovp) | 3:07 | 2023-09-08 |  |
 | [White Limo Stuck in The Snow](https://open.spotify.com/track/44Y5w8jc1CkrPT3LAZHSJV) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:03 | 2024-01-12 | 2024-03-30 |

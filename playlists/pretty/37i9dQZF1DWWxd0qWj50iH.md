@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,915 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,885 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 19 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
 | 20 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 |
 | 21 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
-| 22 | [every day is a game](https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [every day is a game](https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e) | 4:09 |
-| 23 | [Sundays](https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:09 |
+| 22 | [Sundays](https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:09 |
+| 23 | [every day is a game](https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [every day is a game](https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e) | 4:09 |
 | 24 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 |
 | 25 | [Hourglass](https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:18 |
 | 26 | [Stoned at the Nail Salon](https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 4:26 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 55 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
 | 56 | [Spiderwebs](https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Spiderwebs](https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl) | 2:33 |
 | 57 | [Posing For Cars](https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 6:38 |
-| 58 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
-| 59 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 |
+| 58 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 |
+| 59 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 60 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
 | 61 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 62 | [my love mine all mine](https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [my love mine all mine](https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb) | 2:45 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 72 | [I'll Scream \(All the Words\)](https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [I'll Scream \(All the Words\)](https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A) | 3:13 |
 | 73 | [Mystery](https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 2:21 |
 | 74 | [Son](https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Ultrasound](https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT) | 5:28 |
-| 75 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
-| 76 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
+| 75 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
+| 76 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 77 | [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 |
 | 78 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 79 | [Wide Eyed](https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Wide Eyed](https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh) | 2:42 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 84 | [If Only](https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter \(Deluxe\)](https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq) | 3:22 |
 | 85 | [Sure](https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Sure](https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW) | 4:08 |
 | 86 | [Love Me In Chapters](https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Love Me In Chapters](https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF) | 3:36 |
-| 87 | [Wisconsin Winter](https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Wisconsin Winter](https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto) | 3:48 |
-| 88 | [Loneliness on the run](https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:39 |
+| 87 | [Loneliness on the run](https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:39 |
+| 88 | [Wisconsin Winter](https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Wisconsin Winter](https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto) | 3:48 |
 | 89 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
 | 90 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
 | 91 | [Now You're Moving](https://open.spotify.com/track/78t96HOEIl6AkTyzOh6k99) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Now You're Moving](https://open.spotify.com/album/2lbmETphNRANiKtRiSu7K8) | 2:37 |
 | 92 | [Meet Me At The Record Store](https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Meet Me At The Record Store](https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8) | 3:53 |
 | 93 | [homesickness](https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:33 |
-| 94 | [Oblivion](https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Oblivion](https://open.spotify.com/album/0vKrFtIDgzdeDIc6rRlcSn) | 3:04 |
-| 95 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
+| 94 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
+| 95 | [Oblivion](https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Oblivion](https://open.spotify.com/album/0vKrFtIDgzdeDIc6rRlcSn) | 3:04 |
 | 96 | [Unknown](https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Unknown](https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I) | 3:34 |
 | 97 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 98 | [Thank You](https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Thank You \(SOLOMON VERSION\)](https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz) | 2:18 |
-| 99 | [Part of Me](https://open.spotify.com/track/6Rc8Z7D778SVkwuoFSJvxQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part Of Me](https://open.spotify.com/album/74ZR82j0ucverIwnm6yrei) | 3:28 |
-| 100 | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 |
+| 99 | [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 |
+| 100 | [Part of Me](https://open.spotify.com/track/6Rc8Z7D778SVkwuoFSJvxQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part Of Me](https://open.spotify.com/album/74ZR82j0ucverIwnm6yrei) | 3:28 |
 
-Snapshot ID: `AAAAADnaUYKbIb4ctbtW/HS1TXE08eGi`
+Snapshot ID: `AAAAACLVhRQ1ttQ/LoVFs03F/dIh0vVD`

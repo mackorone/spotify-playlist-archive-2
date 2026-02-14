@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2025! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,204 likes - 106 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,170 likes - 106 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 73 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 74 | [NOW IT'S GONE](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [NOW IT'S GONE](https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo) | 2:23 |
 | 75 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px) | 3:09 |
-| 76 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
+| 76 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:54 |
 | 77 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 78 | [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 |
 | 79 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |

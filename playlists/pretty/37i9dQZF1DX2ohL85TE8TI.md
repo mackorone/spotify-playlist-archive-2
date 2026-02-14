@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 은애하는 도적님아 \(To My Beloved Thief\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,723,331 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,723,278 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

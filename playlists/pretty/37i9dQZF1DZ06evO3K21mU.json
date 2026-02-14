@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 935707,
+  "num_followers": 935859,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADGAv0ib0fLyhTcHQpOKufg",
+  "snapshot_id": "aY0YAAAAAADK4cl3qqgL3qspGNa2hOt+",
   "tracks": [
     {
       "added_at": null,
@@ -174,15 +174,11 @@
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Legacy (with PJ)",
-      "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
+      "duration_ms": 277013,
+      "name": "WHO TF IZ U",
+      "url": "https://open.spotify.com/track/5ZfOg71oANMaKmswvSEF2r"
     },
     {
       "added_at": null,
@@ -248,13 +244,13 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Run A Train (with Future)",
-      "url": "https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99"
+      "duration_ms": 235906,
+      "name": "Legacy (with PJ)",
+      "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
     },
     {
       "added_at": null,
@@ -271,6 +267,26 @@
       "duration_ms": 216520,
       "name": "Neighbors",
       "url": "https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "added_at": null,
@@ -299,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
       },
@@ -326,11 +322,15 @@
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 277013,
-      "name": "WHO TF IZ U",
-      "url": "https://open.spotify.com/track/5ZfOg71oANMaKmswvSEF2r"
+      "duration_ms": 242573,
+      "name": "Run A Train (with Future)",
+      "url": "https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Johnny P's Caddy",
+      "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 292865,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "To Summer, From Cole - Audio Hug",
-      "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
     },
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tana Talk 4",
-        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Johnny P's Caddy",
-      "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
+      "duration_ms": 147666,
+      "name": "To Summer, From Cole - Audio Hug",
+      "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 229186,
-      "name": "Crocodile Tearz",
-      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
+      "duration_ms": 255440,
+      "name": "Trae The Truth in Ibiza",
+      "url": "https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa"
     },
     {
       "added_at": null,
@@ -776,25 +776,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 255440,
-      "name": "Trae The Truth in Ibiza",
-      "url": "https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "a m a r i",
-      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 225247,
       "name": "Too Deep for the Intro",
       "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "a m a r i",
+      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
     },
     {
       "added_at": null,
@@ -867,6 +867,42 @@
       "duration_ms": 208160,
       "name": "Lights Please",
       "url": "https://open.spotify.com/track/6sZv0ECT8cEW3oZtoCuVg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "on the street (with J. Cole)",
+        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 214701,
+      "name": "on the street (with J. Cole)",
+      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 237853,
+      "name": "Sideline Story",
+      "url": "https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f"
     }
   ],
   "unique_name": "This Is J. Cole",

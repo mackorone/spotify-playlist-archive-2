@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock 🔥🤟🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,295 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,290 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 40 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 41 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
 | 42 | [Healing](https://open.spotify.com/track/6C7S3LAPokFppY2ttt6VSi) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:35 |
-| 43 | [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 |
-| 44 | [Emo Song](https://open.spotify.com/track/1EAciAN6W2LWDqwonSKpZ6) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Emo Song](https://open.spotify.com/album/57eDLXzpt2x9Mu5uBZ0eFj) | 6:38 |
-| 45 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 |
-| 46 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
+| 43 | [Emo Song](https://open.spotify.com/track/1EAciAN6W2LWDqwonSKpZ6) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Emo Song](https://open.spotify.com/album/57eDLXzpt2x9Mu5uBZ0eFj) | 6:38 |
+| 44 | [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 |
+| 45 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
+| 46 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 |
 | 47 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 48 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
 | 49 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 53 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
 | 54 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |
 | 55 | [Dizzy](https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Dizzy](https://open.spotify.com/album/17gxG3lYgvANFNR8FI7Frp) | 3:53 |
-| 56 | [Departure](https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:19 |
-| 57 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 |
+| 56 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 |
+| 57 | [Departure](https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:19 |
 | 58 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
 | 59 | [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 |
 | 60 | [SWEET HEROINE](https://open.spotify.com/track/3lHNSEUusB5mEbBHquFQ40) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [SWEET HEROINE](https://open.spotify.com/album/2MNZGcvSgCjAi9fuqqVXaW) | 4:08 |

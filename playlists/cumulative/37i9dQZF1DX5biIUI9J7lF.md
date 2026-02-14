@@ -4,7 +4,7 @@
 
 > Opted out of strife
 
-207 songs - 10 hr 27 min
+208 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Enjoyment](https://open.spotify.com/track/2bwPEHSNLSjN4LJYdD80rK) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Enjoyment](https://open.spotify.com/album/5j37hkPCPpwl3JzdjAWdtW) | 3:14 | 2022-07-27 | 2024-06-28 |
 | [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-24 | 2024-05-03 |
 | [Enjoyment](https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0) | 3:31 | 2022-11-24 | 2024-04-19 |
-| [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 |  |
+| [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 | 2026-02-14 |
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-26 | 2024-05-03 |
 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 | 2022-07-27 | 2024-04-26 |
 | [FANCY](https://open.spotify.com/track/5qnG5K46AMldqlO96i5pKA) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:23 | 2022-07-27 | 2024-05-10 |
@@ -172,6 +172,7 @@
 | [SAD GIRLZ LUV MONEY](https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:16 | 2022-07-27 | 2024-06-28 |
 | [Say Please](https://open.spotify.com/track/5IRnCF3PPKFmIK641N6y40) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Say Please](https://open.spotify.com/album/5lQZd1mzyPBqpgEG8O789l) | 2:47 | 2024-09-06 | 2025-05-02 |
 | [SAYSHEDO](https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAYSHEDO](https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW) | 1:54 | 2024-09-06 | 2025-05-02 |
+| [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 | 2026-02-13 |  |
 | [SELFISH.](https://open.spotify.com/track/4S6r7dVPgs36suKmecDxHp) | [Lesléy](https://open.spotify.com/artist/1LBzlrdp7raJkjb34IG7m2) | [SWEET AFROSEXY SUMMERS.](https://open.spotify.com/album/5EAyTaAbaZDTFJCBcsobgf) | 2:48 | 2024-06-14 | 2025-05-02 |
 | [Selina](https://open.spotify.com/track/5j2l0QtlJv0TwuN61qkPGu) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT) | [Selina](https://open.spotify.com/album/5S2Qj2DHTWjyi8sNAKv650) | 2:58 | 2024-05-17 |  |
 | [Señorita](https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [808 Rhapsody](https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG) | 2:29 | 2024-05-24 |  |

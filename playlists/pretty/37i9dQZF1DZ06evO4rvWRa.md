@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,567 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,577 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 21 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 |
 | 22 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
 | 23 | [All Falls Down \(feat\. Juliander\)](https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:18 |
-| 24 | [End of Time](https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [End of Time](https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl) | 3:07 |
-| 25 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:33 |
+| 24 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:33 |
+| 25 | [End of Time](https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [End of Time](https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl) | 3:07 |
 | 26 | [Heart over Mind](https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 3:09 |
 | 27 | [Legends Never Die \(Remix\)](https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die \(Remix\)](https://open.spotify.com/album/1ITtdilZvKZAIIzZDZskCi) | 2:47 |
 | 28 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Sorry](https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:45 |
 | 50 | [Yesterday](https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:41 |
 
-Snapshot ID: `aYvGgAAAAAA+PHuEes/x0dSZel6vxLzE`
+Snapshot ID: `aY0YAAAAAAAxwEj0EG0LVQ0njsPG1j9r`

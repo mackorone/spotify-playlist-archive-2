@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,889 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,943 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 7 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
 | 8 | [Boyfriend](https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 2:40 |
 | 9 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
-| 10 | [Sahiba](https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Vijay Deverakonda](https://open.spotify.com/artist/3k1eCPRO0dE0Q9YsRfh4vn), [Radhikka Madan](https://open.spotify.com/artist/2zkXEdYr7MxUFhS9xF48UB), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Sahiba](https://open.spotify.com/album/5ZbqiWukRFxq8zwllvK3YT) | 3:37 |
-| 11 | [Mann Mera \- Original Version](https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Mann Mera \(Original Version\)](https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR) | 3:48 |
+| 10 | [Mann Mera \- Original Version](https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Mann Mera \(Original Version\)](https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR) | 3:48 |
+| 11 | [Sahiba](https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Vijay Deverakonda](https://open.spotify.com/artist/3k1eCPRO0dE0Q9YsRfh4vn), [Radhikka Madan](https://open.spotify.com/artist/2zkXEdYr7MxUFhS9xF48UB), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Sahiba](https://open.spotify.com/album/5ZbqiWukRFxq8zwllvK3YT) | 3:37 |
 | 12 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 13 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 14 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 47 | [Vaaste](https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Vaaste](https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11) | 3:16 |
 | 48 | [Mahiye Jinna Sohna](https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:01 |
 | 49 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
-| 50 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 50 | [Wakhra Swag](https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Wakhra Swag](https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd) | 3:10 |
 
 Snapshot ID: `AAAAAKdMtJO47ISS2oiXUsJQ3XOmn38Q`

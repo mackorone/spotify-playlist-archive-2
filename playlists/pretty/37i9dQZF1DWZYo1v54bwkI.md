@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,330 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,452 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 149 | [Halycon](https://open.spotify.com/track/1lXoILsgUsZTzojrkNELRU) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Halycon](https://open.spotify.com/album/5RP897wYSevcmJFI1Xow8J) | 2:59 |
 | 150 | [Silver Raindrops](https://open.spotify.com/track/10lIMqGB4GEhwy00s75Mff) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Silver Raindrops](https://open.spotify.com/album/0YiHpSWYb7ng68g43eb8qy) | 2:59 |
 
-Snapshot ID: `AAAAAIxgSQKBivMQSYB7fE9CwbL4YxOy`
+Snapshot ID: `AAAAABRMRd1e476psSD+cgVT1jOebvNH`

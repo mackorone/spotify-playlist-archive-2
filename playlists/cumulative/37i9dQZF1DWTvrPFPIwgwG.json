@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Maria Mar\u00e7al ",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
   "name": "Louvores Pentecostais",
   "tracks": [
     {
@@ -2779,6 +2779,28 @@
     },
     {
       "album": {
+        "name": "Metade do Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Z8BEUValYjbut2GmhC4wC"
+      },
+      "artists": [
+        {
+          "name": "Carol Miranda",
+          "url": "https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g"
+        },
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300306,
+      "name": "Metade do Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0bI0ggOso17BOsNbsVJ2Om"
+    },
+    {
+      "album": {
         "name": "Meu Deus \u00c9 Grande",
         "url": "https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa"
       },
@@ -3398,7 +3420,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 248571,
       "name": "O M\u00ednimo de Mim",
       "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
@@ -4074,7 +4096,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 412154,
       "name": "Que Grande Amor",
       "url": "https://open.spotify.com/track/5P3pj7JPTsyYTZD7MUkSZ4"
@@ -4696,6 +4718,28 @@
       "duration_ms": 388196,
       "name": "Terceiro C\u00e9u",
       "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+    },
+    {
+      "album": {
+        "name": "Tinta de Sangue (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZWneGI8ohbeRsv3NrvLyp"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383378,
+      "name": "Tinta de Sangue - Ao Vivo",
+      "url": "https://open.spotify.com/track/4uScqisKtC90tHXg6lNq5I"
     },
     {
       "album": {

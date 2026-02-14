@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-84 songs - 5 hr 1 min
+86 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2021-10-30 |  |
 | [Heat Waves](https://open.spotify.com/track/14gtvVSuPdEMjMEPzoZ3mo) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [Heat Waves](https://open.spotify.com/album/15VpR4eExdUCyULMe0WZum) | 2:59 | 2025-12-24 | 2026-01-29 |
 | [I Told You She's Mental](https://open.spotify.com/track/5gTEjXDkpMHIZwPatbmzx9) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/5fVZjOtZae0991fzloTglF) | 2:51 | 2025-10-13 |  |
+| [I Want More](https://open.spotify.com/track/0BSQD6UgS8k2zzZjED2tNP) | [The Sunshine Kidz](https://open.spotify.com/artist/0hX8vqzEXKOHSl0Gc93RhQ) | [I Want Your Soul](https://open.spotify.com/album/5AOdeWFBM5nXSDqLic94Sv) | 4:25 | 2026-02-13 |  |
 | [I WON'T BE HERE FOREVER](https://open.spotify.com/track/2d4on1kn0sHj94lAF3IKlY) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLURRY](https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do) | 3:47 | 2025-11-17 | 2025-12-07 |
 | [Initium Concentus](https://open.spotify.com/track/4VNYxI40qpkawwl9acl7ni) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Initium Concentus](https://open.spotify.com/album/4cPut66O77JkNsoYPi1I3E) | 2:42 | 2025-12-02 | 2026-01-15 |
 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 | 2021-03-29 |  |
@@ -80,6 +81,7 @@
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2021-03-29 |  |
 | [Toadstool Fairies](https://open.spotify.com/track/2Vjpi5uwnbtdTNDzbfW3sI) | [Maya Malik](https://open.spotify.com/artist/0Rz4fK9N5rV5Sjsu5RLwtF) | [Toadstool Fairies](https://open.spotify.com/album/3qdgFm8fC6VQxuWYylDUTT) | 3:06 | 2025-11-08 | 2025-11-27 |
 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 | 2025-10-13 |  |
+| [True Love In A Box](https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ) | [Poppet](https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1) | [True Love In A Box](https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy) | 2:07 | 2026-02-13 |  |
 | [True North](https://open.spotify.com/track/092Z1yGLAFCEBtqmRtpWaX) | [MEERKEIME](https://open.spotify.com/artist/1jDLEyYY7Y17UFRFixE0vT) | [Unmoored](https://open.spotify.com/album/7seOQf6Fwg0G8K4n1ceQo4) | 4:03 | 2026-02-03 |  |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2021-03-29 |  |
 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 | 2021-03-29 |  |

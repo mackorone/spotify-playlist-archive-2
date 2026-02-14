@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,441 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,449 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 22 | [Sooner Or Later](https://open.spotify.com/track/5K5YCvw06zbPEMITFNk6aJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 5:14 |
 | 23 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 |
 | 24 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/0eOWjvKQunKXGy3eKmqwFn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:05 |
-| 25 | [Lonely Streets](https://open.spotify.com/track/7G67Uu20crxihu3LaAlBQ6) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 4:21 |
+| 25 | [Now and Forever](https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:54 |
 | 26 | [Struggling Man](https://open.spotify.com/track/4c6qeQX0bIejYckXYaz4gO) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 3:27 |
-| 27 | [Now and Forever](https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:54 |
+| 27 | [Lonely Streets](https://open.spotify.com/track/7G67Uu20crxihu3LaAlBQ6) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 4:21 |
 | 28 | [Roots Radical](https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 4:22 |
 | 29 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 |
 | 30 | [Love Solution](https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 49 | [On My Life](https://open.spotify.com/track/1wuQ2yrSS8mqtX9oWHs2Lg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:46 |
 | 50 | [Going Back West](https://open.spotify.com/track/4E59YuDnTWUNTR914Zh1qA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 4:47 |
 
-Snapshot ID: `aYvGgAAAAACh/iCnl6Qhq99aY050h5h6`
+Snapshot ID: `aY0YAAAAAACWtWcypXMI/QN+axzN8RxS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,324 songs - 5 day 4 hr 34 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,332 songs - 5 day 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2103,7 +2103,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2093 | [CADILLAC DREAMS](https://open.spotify.com/track/1CKpqV7rC3cPNVRnEWsurC) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 4:21 |
 | 2094 | [Baby G \- Victoria Remix](https://open.spotify.com/track/1PqInWz8dRWlaN9xlzPhrE) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [GOODBYE SALÒ THE REMIXES](https://open.spotify.com/album/6GXLeq56Ku6jhhrgws8bo9) | 3:10 |
 | 2095 | [FSU \(feat\. GASHI & Rich The Kid\)](https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:51 |
-| 2096 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
+| 2096 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:54 |
 | 2097 | [Super](https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Super](https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0) | 1:43 |
 | 2098 | [Wet \(feat\. Bad Gyal\)](https://open.spotify.com/track/1C0OPJpflVG3pojAj12E2x) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Wet \(feat\. Bad Gyal\)](https://open.spotify.com/album/4OMWt7NTRHe0sZSmAZtQoA) | 2:03 |
 | 2099 | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/6a6hIUla9XUJ5SYWCRLpTq) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/6ZWeBtiYMo5BGf7bt86kMn) | 3:49 |
@@ -2332,5 +2332,13 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2322 | [Suck My Electro](https://open.spotify.com/track/5bc9luLb1Hd0jqXHx5qr57) | [Taly & Smith](https://open.spotify.com/artist/7wanVtHKgFPsQeBRnS4cZz), [Locked Club](https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc) | [Bomber](https://open.spotify.com/album/5AO9SUWGhSnAAUdGhdmKQG) | 3:47 |
 | 2323 | [Your Need \(не должен\) \- Deep Mix](https://open.spotify.com/track/0JDRpa08T4GhnDhE9O68bE) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/2c6FcKInAkAqZI0yNQXa9C) | 3:36 |
 | 2324 | [FODE PRA KARALHO](https://open.spotify.com/track/38rXikWlOpWfwEz4tx1tep) | [petrus.wav](https://open.spotify.com/artist/0yvZFjUmr182h8ibQd1LrM), [DJ Rafinha Duarte](https://open.spotify.com/artist/6FkdZL65sL243K1Wrfgzws), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FODE PRA KARALHO](https://open.spotify.com/album/67p2bbPEwvrpk3X3bgyYHZ) | 2:00 |
+| 2325 | [Tunnel Vision](https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 4:28 |
+| 2326 | [Aguanile](https://open.spotify.com/track/0Bf3bLtRSlpXl5l5MuzZd6) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 5:15 |
+| 2327 | [Quimbara \- Remastered 2024](https://open.spotify.com/track/6jGyB2FnwlsobRMsp9mvUG) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia & Johnny \(Remastered 2024\)](https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0) | 4:51 |
+| 2328 | [Oh Qué Será?](https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:04 |
+| 2329 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
+| 2330 | [La Faldita](https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi y Su Cocoband](https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL) | 3:50 |
+| 2331 | [YA NO SIENTO NADA](https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5) | [La Vendicion](https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh), [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [La Hermandad](https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK) | 3:29 |
+| 2332 | [nos keremos tanto](https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [nos keremos tanto](https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1) | 3:33 |
 
-Snapshot ID: `AAAFEwfQOCmauSZddD5SFwkqitG0HOo+`
+Snapshot ID: `AAAFHfSTDw9LjkH7HssBdWHRijtZtTDd`

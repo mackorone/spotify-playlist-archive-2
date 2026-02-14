@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 84021,
+  "num_followers": 84039,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "LOVE AND CHAOS",
+        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 180530,
       "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2026-02-13 00:01:43",

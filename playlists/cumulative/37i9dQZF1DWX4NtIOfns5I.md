@@ -4,7 +4,7 @@
 
 > new Alice Costelloe to get us through the winter ❄️
 
-711 songs - 1 day 18 hr 52 min
+713 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-10-06 | 2024-03-13 |
 | [Already \(On My Mind\)](https://open.spotify.com/track/4cyBtKUXd8wWVqgus5k0Mb) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Already \(On My Mind\)](https://open.spotify.com/album/3ovRHqssF6llmo4CXg4ZRW) | 2:52 | 2024-07-12 | 2025-03-13 |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-10-06 | 2024-05-25 |
+| [American Teenage Prophecy](https://open.spotify.com/track/3fGewiHyMYBWH3aGciSDJo) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [American Teenage Prophecy](https://open.spotify.com/album/480qaahln1j5C4hbuTvl2b) | 3:40 | 2026-02-13 |  |
 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 | 2024-10-11 | 2025-05-10 |
 | [Anna with the Silver Arrow](https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Anna with the Silver Arrow](https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8) | 3:44 | 2026-01-20 |  |
 | [Another Love](https://open.spotify.com/track/7otCGmgp9h4CsR2LhwB6gt) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 4:04 | 2024-01-14 | 2024-04-06 |
@@ -643,6 +644,7 @@
 | [Tongue Tied](https://open.spotify.com/track/3xXpLxoBD0x5QglLcRrBto) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Tongue Tied](https://open.spotify.com/album/6qaa92H8qSXZXrJy5rXPNh) | 2:26 | 2025-07-25 | 2026-01-24 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 | 2024-09-07 |
 | [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 | 2024-09-27 | 2025-05-10 |
+| [Tracksuit](https://open.spotify.com/track/2dwYgqWg56JlVCRSnD5dWU) | [Kate Stephenson](https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne) | [This Is What You Get](https://open.spotify.com/album/0wzt0G2IThMTsFeOSLIpJQ) | 2:40 | 2026-02-13 |  |
 | [Trampoline](https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Trampoline](https://open.spotify.com/album/3zydVUwHpv30kPKdJd4SfK) | 4:34 | 2025-05-23 | 2025-08-09 |
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-04 | 2025-05-14 |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2023-12-15 | 2024-04-06 |

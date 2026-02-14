@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108045,
+  "num_followers": 108051,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAB94I7WUoEvkqAIVBD3/ScS",
+  "snapshot_id": "aY0YAAAAAACJe1rvgsGNuy6x8cvap1Oq",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 220093,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
+      "duration_ms": 221626,
+      "name": "Laat Me",
+      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Want Ik Hou Van Jou",
         "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 227000,
       "name": "Want Ik Hou Van Jou",
       "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Laat Me",
-      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
     },
     {
       "added_at": null,

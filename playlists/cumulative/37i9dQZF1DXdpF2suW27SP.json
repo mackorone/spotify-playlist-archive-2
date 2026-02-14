@@ -613,6 +613,28 @@
     },
     {
       "album": {
+        "name": "96 ao Infinito",
+        "url": "https://open.spotify.com/album/2fKuVu1BDvBiT98dbCtnxA"
+      },
+      "artists": [
+        {
+          "name": "Dealema",
+          "url": "https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I"
+        },
+        {
+          "name": "David Cruz",
+          "url": "https://open.spotify.com/artist/6JHMDm5fjmoglBBIxJFDeJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273267,
+      "name": "96 ao Infinito",
+      "url": "https://open.spotify.com/track/19m6c5dAgdT04pcqDygJzD"
+    },
+    {
+      "album": {
         "name": "ORDEM & PROGRESSO",
         "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
@@ -17411,6 +17433,24 @@
     },
     {
       "album": {
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/0eM1DhRDLncMmBZWP2BJj4"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/5TyLwhvcv5HvQlP0ZhSgLu"
+    },
+    {
+      "album": {
         "name": "TELELE",
         "url": "https://open.spotify.com/album/1wmBYJlqmqLKRUnShUYhOQ"
       },
@@ -17896,24 +17936,6 @@
       "duration_ms": 164307,
       "name": "Tou Off",
       "url": "https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Dealema",
-          "url": "https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/19m6c5dAgdT04pcqDygJzD"
     },
     {
       "album": {

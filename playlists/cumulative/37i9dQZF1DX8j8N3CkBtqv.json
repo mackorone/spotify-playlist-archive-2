@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Gini, Lucky Ali, Shreya Jain and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Osho Jain, RANJ, Clifr and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 160800,
       "name": "Ae Dil",
       "url": "https://open.spotify.com/track/0B686kMUgkRjlVaDBcgJ5Q"
@@ -1992,6 +1992,32 @@
       "duration_ms": 215357,
       "name": "Arz e Dil",
       "url": "https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo"
+    },
+    {
+      "album": {
+        "name": "Arzoo",
+        "url": "https://open.spotify.com/album/5GCZhx0Lq87CzVJiwduFY1"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138125,
+      "name": "Arzoo",
+      "url": "https://open.spotify.com/track/1vRA3eJ6ViHHmCTHoyJYTW"
     },
     {
       "album": {
@@ -4340,6 +4366,32 @@
       "duration_ms": 235058,
       "name": "Boondon Mein Ghar",
       "url": "https://open.spotify.com/track/0jvLLqtGskP5SmkzG7rZeU"
+    },
+    {
+      "album": {
+        "name": "Born For Each Other",
+        "url": "https://open.spotify.com/album/57yrjAnLxvyE5wZrcR3O5q"
+      },
+      "artists": [
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        },
+        {
+          "name": "Mustafa Ujjainwala",
+          "url": "https://open.spotify.com/artist/2OE8Xrl4LCynHF7dwYdxfw"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255238,
+      "name": "Born For Each Other",
+      "url": "https://open.spotify.com/track/2AbLXEm4XUuHU0eEujaAFH"
     },
     {
       "album": {
@@ -7897,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "Gayenge Hum Tere Hi Liye",
+        "url": "https://open.spotify.com/album/3AjzaIMrMnCIG5IxgIVNoH"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265408,
+      "name": "Gayenge Hum Tere Hi Liye",
+      "url": "https://open.spotify.com/track/5yf181IrzJhvNWk6PF0fk4"
+    },
+    {
+      "album": {
         "name": "Gehna",
         "url": "https://open.spotify.com/album/0dVqLmZ6elaPXs6G7N4Vco"
       },
@@ -8376,7 +8446,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 187147,
       "name": "gulbahar",
       "url": "https://open.spotify.com/track/2LE6zZj17aW1U1aktMHnw8"
@@ -9246,7 +9316,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 217500,
       "name": "Hona Likha Tha",
       "url": "https://open.spotify.com/track/6xvYu1IXEpxo6JC0MY0YDx"
@@ -14900,7 +14970,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 214124,
       "name": "Laazmi",
       "url": "https://open.spotify.com/track/0d07oPdlPcKylURFlOZq42"
@@ -19172,7 +19242,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 212526,
       "name": "Parwah Nahi",
       "url": "https://open.spotify.com/track/5bIntORzqsTc97he8qux2M"
@@ -19804,6 +19874,24 @@
       "duration_ms": 162845,
       "name": "Pyar Se",
       "url": "https://open.spotify.com/track/6Pe0vVB8zA7ZMRDSWhNxaD"
+    },
+    {
+      "album": {
+        "name": "Pyar N' Stuff",
+        "url": "https://open.spotify.com/album/0jUU3qeyrPNkzhhbGtBakE"
+      },
+      "artists": [
+        {
+          "name": "Nanku",
+          "url": "https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Pyar+Tum",
+      "url": "https://open.spotify.com/track/2p1tAeCLCmJFW2grWsFldK"
     },
     {
       "album": {
@@ -26074,7 +26162,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 186514,
       "name": "TU NA JAANE",
       "url": "https://open.spotify.com/track/0oPe2E6hO1J8BE8bylA1KV"
@@ -27187,6 +27275,28 @@
     },
     {
       "album": {
+        "name": "WHO YOU ARE",
+        "url": "https://open.spotify.com/album/36FU04sICHMM2HqIVFe39n"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144395,
+      "name": "WHO YOU ARE",
+      "url": "https://open.spotify.com/track/4e0DNkQOrKm0vuqKWEzi5T"
+    },
+    {
+      "album": {
         "name": "wine & chill",
         "url": "https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw"
       },
@@ -27612,6 +27722,24 @@
       "duration_ms": 159130,
       "name": "Yeh Aadatein",
       "url": "https://open.spotify.com/track/4Eg59pvu5jmKaUrDupeTeN"
+    },
+    {
+      "album": {
+        "name": "Yeh Baatein",
+        "url": "https://open.spotify.com/album/41NmNY03ElJTBYtYTbN2by"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178217,
+      "name": "Yeh Baatein",
+      "url": "https://open.spotify.com/track/6C6jyPzRcFqtWEe0usEb59"
     },
     {
       "album": {

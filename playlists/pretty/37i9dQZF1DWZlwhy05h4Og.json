@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: GIRLSET",
-  "num_followers": 69663,
+  "description": "The sweetest bops. Cover: IVE",
+  "num_followers": 69692,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrk7CRoAlgBg5V4M2iSaWniN8SR",
+  "snapshot_id": "AAAAAD1PF732ty7JuMe22RS3uD4V1Bcv",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
+    },
     {
       "added_at": "2025-11-14 05:00:25",
       "album": {
@@ -1127,22 +1143,6 @@
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "flip phone",
-        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
-      },
-      "artists": [
-        {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
-        }
-      ],
-      "duration_ms": 124553,
-      "name": "flip phone",
-      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
     },
     {
       "added_at": "2024-07-26 04:00:00",

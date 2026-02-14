@@ -1,12 +1,12 @@
 {
   "description": "Altijd frisse hits! Cover: ZAYN",
-  "num_followers": 35068,
+  "num_followers": 35108,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIdykA0yclHyehdtfn7CAdB9jnfR",
+  "snapshot_id": "AAAAADXmoDhGNMneMYQkaMNY2cVrPLUn",
   "tracks": [
     {
       "added_at": "2026-02-12 23:00:44",
@@ -55,6 +55,30 @@
       "duration_ms": 171023,
       "name": "Zijn Probleem",
       "url": "https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Bare Minimum (Starboy)",
+        "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Bare Minimum (Starboy)",
+      "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -111,30 +135,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Bare Minimum (Starboy)",
-        "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Bare Minimum (Starboy)",
-      "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
@@ -167,6 +167,26 @@
       "duration_ms": 128780,
       "name": "Dansvloer Dilemma",
       "url": "https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Januari",
+        "url": "https://open.spotify.com/album/6xe6bnCzdGhuWI5PUl3qpp"
+      },
+      "artists": [
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Januari",
+      "url": "https://open.spotify.com/track/6bEUzaKcHiKH5B9L1eH9Rc"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -371,30 +391,6 @@
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Dans Gewoon",
-        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
-      },
-      "artists": [
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        },
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Dans Gewoon",
-      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -675,26 +671,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Januari",
-        "url": "https://open.spotify.com/album/6xe6bnCzdGhuWI5PUl3qpp"
-      },
-      "artists": [
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        },
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Januari",
-      "url": "https://open.spotify.com/track/6bEUzaKcHiKH5B9L1eH9Rc"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Hey Son",
         "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Dans Gewoon",
+        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
+      },
+      "artists": [
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Dans Gewoon",
+      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
     }
   ],
   "unique_name": "Fresh Hits",

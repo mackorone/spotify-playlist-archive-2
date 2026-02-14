@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 114569,
+  "num_followers": 114588,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2024-07-11 15:58:05",

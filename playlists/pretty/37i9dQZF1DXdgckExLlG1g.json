@@ -1,15 +1,31 @@
 {
-  "description": "The top Christian songs worldwide!  Cover: Brandon Lake",
-  "num_followers": 471050,
+  "description": "The top Christian songs worldwide!  Cover: Jamie MacDonald",
+  "num_followers": 471031,
   "original_name": "Most Favored",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHAvOmYzZEJWGUB+Fu5c9/JLUbL",
+  "snapshot_id": "AAAAAKIJ5BVKyX4jND7XnS5wAmSBKU9z",
   "tracks": [
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
+      "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz"
+    },
+    {
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Hard Fought Hallelujah (with Jon Batiste & Jelly Roll)",
         "url": "https://open.spotify.com/album/5WXIrCrFe92GUyV0lF55fh"
@@ -33,7 +49,31 @@
       "url": "https://open.spotify.com/track/1RSBlcNeG579dFOfEB8hYy"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
+      "album": {
+        "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
+        "url": "https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 347640,
+      "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
+      "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
+    },
+    {
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Come Jesus Come",
         "url": "https://open.spotify.com/album/3ZSCXdA9n1XNGTsWKjeNQr"
@@ -53,7 +93,7 @@
       "url": "https://open.spotify.com/track/218S8MsbNO1ZGNxMQCb89L"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9"
@@ -69,7 +109,7 @@
       "url": "https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "We The Kingdom",
         "url": "https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp"
@@ -85,7 +125,7 @@
       "url": "https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
@@ -101,7 +141,7 @@
       "url": "https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Get Behind Me",
         "url": "https://open.spotify.com/album/7GLzElbiSYkn4g51wTyYHu"
@@ -121,27 +161,7 @@
       "url": "https://open.spotify.com/track/6wfTkVG7jMuPkBaMEvH6zd"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "GOODBYE YESTERDAY",
-        "url": "https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
-        }
-      ],
-      "duration_ms": 298682,
-      "name": "GOODBYE YESTERDAY",
-      "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "What An Awesome God",
         "url": "https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "YOUR WAY'S BETTER",
         "url": "https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Let The Church Sing",
         "url": "https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/6INilJMURz2ptArultdEDl"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
@@ -225,31 +245,7 @@
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "I Know A Name",
-        "url": "https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 429454,
-      "name": "I Know A Name",
-      "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Move of God (Live)",
         "url": "https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv"
@@ -281,7 +277,27 @@
       "url": "https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
+      "album": {
+        "name": "THANK GOD I'M FREE",
+        "url": "https://open.spotify.com/album/50w6pz7MRBPunUgo02zsxO"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "duration_ms": 304584,
+      "name": "THANK GOD I'M FREE",
+      "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
+    },
+    {
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
@@ -297,7 +313,23 @@
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
+      "album": {
+        "name": "God I'm Just Grateful",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
+    },
+    {
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Lord Send Revival (Live)",
         "url": "https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
@@ -329,23 +361,7 @@
       "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Chandler Moore: Live in Los Angeles",
-        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 685340,
-      "name": "Omemma - Live",
-      "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Still Waters (Psalm 23)",
         "url": "https://open.spotify.com/album/3Qh5t7e0qpdA8rgsGTTArI"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/4TzpQkanZkYjzGdthyyw7f"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Dusty Bibles",
         "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "These Same Skies (Studio)",
         "url": "https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/2ulryRFKdoQxTjCOWrheGl"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "The Blessing (Live)",
         "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "COAT OF MANY COLORS",
         "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/1mMmA3puXjtI9EzrScvE86"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "EIGHT",
         "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Como En El Cielo (En Vivo)",
         "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
@@ -517,7 +533,27 @@
       "url": "https://open.spotify.com/track/3VAhZhoCe6MyKl02Ni0P5S"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
+      "album": {
+        "name": "House of Worship",
+        "url": "https://open.spotify.com/album/2g898epfc1d7Rkq2MYlt2s"
+      },
+      "artists": [
+        {
+          "name": "House of Worship",
+          "url": "https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 143796,
+      "name": "I Give You My Heart",
+      "url": "https://open.spotify.com/track/2IdPaKX12r3hNGqqG57kHp"
+    },
+    {
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Counting My Blessings",
         "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
@@ -577,7 +613,7 @@
       "url": "https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Heaven On My Mind",
         "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
@@ -593,7 +629,7 @@
       "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Jesus Changed My Life (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "If I Got Jesus",
         "url": "https://open.spotify.com/album/210xRN6igf98dkITGpe34L"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/3oR9j9dScElfRJ0uf4HTib"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
@@ -677,7 +713,7 @@
       "url": "https://open.spotify.com/track/6ZCYKcXLleAYDNpozgPxdL"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
@@ -697,7 +733,7 @@
       "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "The Prodigal",
         "url": "https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr"
@@ -713,7 +749,7 @@
       "url": "https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Faithful God",
         "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
@@ -729,7 +765,7 @@
       "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "What Are We Waiting For? +",
         "url": "https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/7A3xh0u9c2mR5Zu928UIq5"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
@@ -785,7 +821,7 @@
       "url": "https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Twenty Something",
         "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
@@ -801,7 +837,7 @@
       "url": "https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Don't Stop Praying",
         "url": "https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz"
@@ -817,7 +853,7 @@
       "url": "https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Able",
         "url": "https://open.spotify.com/album/6rIjou6T4snwPFCWKAiIg2"
@@ -837,23 +873,7 @@
       "url": "https://open.spotify.com/track/0gsuJ9nR8iOPOHszdmlnrw"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "On God (Deluxe)",
-        "url": "https://open.spotify.com/album/3Vs240nBf77WCUiuEt4uHg"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 219514,
-      "name": "Look At God",
-      "url": "https://open.spotify.com/track/7ceDwTeqT1nW19BCiwtQE4"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/2Z0pauR9e9WoevrWn3oou6"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Jireh (My Provider)",
         "url": "https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
@@ -913,7 +933,7 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2025-12-12 05:00:50",
+      "added_at": "2026-02-14 00:09:03",
       "album": {
         "name": "Your Power",
         "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
@@ -931,22 +951,6 @@
       "duration_ms": 222169,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 291407,
-      "name": "These are the Days",
-      "url": "https://open.spotify.com/track/3fBuoCGice8hZng7rWbHed"
     }
   ],
   "unique_name": "Most Favored",

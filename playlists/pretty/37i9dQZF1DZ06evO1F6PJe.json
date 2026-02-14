@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 109490,
+  "num_followers": 109500,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABAHzSdxN9toU6DSw2IVmkt",
+  "snapshot_id": "aY0YAAAAAACX6TXi42W6XrxurPNREwpA",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 312013,
+      "name": "Don't Answer The Door",
+      "url": "https://open.spotify.com/track/6Ojjc3O2MySy23chZJ88u4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different Shades of Blue",
         "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
@@ -415,50 +435,6 @@
       "duration_ms": 284413,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Love Comes To Town",
-        "url": "https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "When Love Comes To Town",
-      "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ballad of John Henry",
-        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 400333,
-      "name": "Happier Times",
-      "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
     },
     {
       "added_at": null,
@@ -507,6 +483,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ballad of John Henry",
+        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 400333,
+      "name": "Happier Times",
+      "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Love Comes To Town",
+        "url": "https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "When Love Comes To Town",
+      "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -519,6 +539,30 @@
       "duration_ms": 518533,
       "name": "No Good Place For The Lonely",
       "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Noah Hunt",
+          "url": "https://open.spotify.com/artist/1gpRqz4ry3s0eDPLUXBZyr"
+        }
+      ],
+      "duration_ms": 297213,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/1NMsxfMy8w1utKwmsI5uCq"
     },
     {
       "added_at": null,
@@ -559,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "I Want My Crown",
+      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B.B. King's Blues Summit 100",
         "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
       },
@@ -568,17 +632,13 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         },
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        },
-        {
-          "name": "Noah Hunt",
-          "url": "https://open.spotify.com/artist/1gpRqz4ry3s0eDPLUXBZyr"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 297213,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/1NMsxfMy8w1utKwmsI5uCq"
+      "duration_ms": 193893,
+      "name": "Paying The Cost To Be The Boss",
+      "url": "https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX"
     },
     {
       "added_at": null,
@@ -644,33 +704,13 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         },
         {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Paying The Cost To Be The Boss",
-      "url": "https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 259226,
-      "name": "I Want My Crown",
-      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+      "duration_ms": 246400,
+      "name": "When It All Comes Down (I'll Still Be Around)",
+      "url": "https://open.spotify.com/track/1cjjJdV1NEMZU8ma37Qihj"
     },
     {
       "added_at": null,
@@ -707,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Larry McCray",
-          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "When It All Comes Down (I'll Still Be Around)",
-      "url": "https://open.spotify.com/track/1cjjJdV1NEMZU8ma37Qihj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -739,6 +759,26 @@
       "duration_ms": 343906,
       "name": "Mountain Climbing",
       "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "Watch Yourself",
+      "url": "https://open.spotify.com/track/3oBFomGFURoRpc0hu71V2K"
     },
     {
       "added_at": null,
@@ -779,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 208373,
-      "name": "Watch Yourself",
-      "url": "https://open.spotify.com/track/3oBFomGFURoRpc0hu71V2K"
+      "duration_ms": 338771,
+      "name": "One Less Cross to Bear - Live Version",
+      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
     },
     {
       "added_at": null,
@@ -819,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
       "artists": [
         {
@@ -828,49 +864,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 338771,
-      "name": "One Less Cross to Bear - Live Version",
-      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Answer The Door",
-        "url": "https://open.spotify.com/album/418uIEz1ttFyhZfztTxAjA"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 312013,
-      "name": "Don't Answer The Door",
-      "url": "https://open.spotify.com/track/1v11PSmdac73v0Ho7BQjO2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 404226,
-      "name": "Why I Sing The Blues",
-      "url": "https://open.spotify.com/track/6TIACUwqdD3qsnOz1gMLAI"
+      "duration_ms": 409720,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
     },
     {
       "added_at": null,
@@ -891,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
       "artists": [
         {
@@ -900,9 +896,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 409720,
-      "name": "Slow Train",
-      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-22",
-  "description": "for the baddies.",
+  "description": "heavy vibes for cuffing season.\n",
   "name": "ALLURE",
   "tracks": [
     {
@@ -164,8 +164,8 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
-      "duration_ms": 247320,
+      "date_removed": null,
+      "duration_ms": 245320,
       "name": "Aquila",
       "url": "https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2"
     },
@@ -330,10 +330,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 229500,
       "name": "Blood on the Sheets",
       "url": "https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1"
+    },
+    {
+      "album": {
+        "name": "Bloodmoon",
+        "url": "https://open.spotify.com/album/7GoKSlgIHcgxS548CIH49m"
+      },
+      "artists": [
+        {
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260213,
+      "name": "Bloodmoon",
+      "url": "https://open.spotify.com/track/7LuX4tptJ1T1jq9iTBBzBS"
     },
     {
       "album": {
@@ -348,7 +366,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 230980,
       "name": "Blur Into One",
       "url": "https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 200624,
       "name": "CHILDREN OF SORROW",
       "url": "https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 373000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 257316,
       "name": "Dissociate",
       "url": "https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 206470,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 262400,
       "name": "Give Blood",
       "url": "https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 214946,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 331957,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h"
@@ -997,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/3oESz9GpxkDHtKCPICKFyt"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203291,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/1QdSiALYb4btIHQZriKzb1"
+    },
+    {
+      "album": {
         "name": "Holy Touch",
         "url": "https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN"
       },
@@ -1008,7 +1048,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 224395,
       "name": "Holy Touch",
       "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
@@ -1098,7 +1138,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 175985,
       "name": "I Feel Everything",
       "url": "https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2"
@@ -1152,10 +1192,28 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 190428,
       "name": "I Shift",
       "url": "https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo"
+    },
+    {
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248957,
+      "name": "i think about you all the time",
+      "url": "https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM"
     },
     {
       "album": {
@@ -1170,7 +1228,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 218784,
       "name": "i want the light to swallow me whole",
       "url": "https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj"
@@ -1332,7 +1390,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 203806,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2hQJFN6wkwtScdFcUbbj1R"
@@ -1402,13 +1460,13 @@
       },
       "artists": [
         {
-          "name": "Deijuvhs",
+          "name": "VIIZERO7",
           "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
         }
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 199814,
       "name": "LOTUS",
       "url": "https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07"
@@ -1426,7 +1484,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 233750,
       "name": "Love me, slow",
       "url": "https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ"
@@ -1516,7 +1574,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 248840,
       "name": "milk of the madonna",
       "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
@@ -1574,6 +1632,24 @@
       "duration_ms": 154920,
       "name": "Mumble",
       "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
+    },
+    {
+      "album": {
+        "name": "motionblur",
+        "url": "https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316001,
+      "name": "my mistake...",
+      "url": "https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN"
     },
     {
       "album": {
@@ -1758,7 +1834,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 205002,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6D46UmiP97e9nxssD4r7tN"
@@ -1794,7 +1870,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "PANIC!",
       "url": "https://open.spotify.com/track/2E47UXRAUrmHV7NKU4XKzV"
@@ -1812,7 +1888,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 200599,
       "name": "PARADOX",
       "url": "https://open.spotify.com/track/4KZUetMsBaYdvWcLQ3bF3x"
@@ -1884,7 +1960,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 115401,
       "name": "Realize",
       "url": "https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8"
@@ -1906,7 +1982,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 186025,
       "name": "Red Velvet (with Ari Abdul)",
       "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
@@ -2123,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Diamond Eyes (Deluxe)",
+        "url": "https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Sextape",
+      "url": "https://open.spotify.com/track/4rEGJ9KirDlKiOHxqVwcVg"
+    },
+    {
+      "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW"
       },
@@ -2134,7 +2228,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 190833,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE"
@@ -2278,7 +2372,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 215440,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
@@ -2415,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/4kGdD69S719G72vgoRxUEl"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5gcuhVVuh0BFDJo5m62HJ0"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -2426,7 +2538,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 241499,
       "name": "THE DEATH OF PEACE OF MIND",
       "url": "https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr"
@@ -2452,7 +2564,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 225701,
       "name": "THE DRAIN",
       "url": "https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc"
@@ -2477,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "The Hurt Chamber",
+        "url": "https://open.spotify.com/album/3UypDHd9NhcFs6z09Huplz"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198937,
+      "name": "The Hurt Chamber",
+      "url": "https://open.spotify.com/track/4ogJEBlkbLZgYWmvFhDp0e"
+    },
+    {
+      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -2492,6 +2622,24 @@
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "album": {
+        "name": "The Silence Hurts The Most II",
+        "url": "https://open.spotify.com/album/0s13LjFa1clm6Ia0QlXBnE"
+      },
+      "artists": [
+        {
+          "name": "LASTELLE",
+          "url": "https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469440,
+      "name": "The Silence Hurts The Most II",
+      "url": "https://open.spotify.com/track/2SnHuo77EoH29NuJJP8SQS"
     },
     {
       "album": {
@@ -2666,7 +2814,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/6nFQW2MigtHWPLpOvqbod3"
@@ -2782,7 +2930,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 157800,
       "name": "Wet Dreams",
       "url": "https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6"

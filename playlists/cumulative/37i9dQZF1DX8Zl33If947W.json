@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Beste",
+        "url": "https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128354,
+      "name": "Beste",
+      "url": "https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv"
+    },
+    {
+      "album": {
         "name": "Blaue Augen",
         "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
       },
@@ -309,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Du bist toll",
+        "url": "https://open.spotify.com/album/3BYma6wGIv3gyBSqnTsclv"
+      },
+      "artists": [
+        {
+          "name": "ENKAY",
+          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164186,
+      "name": "Du bist toll",
+      "url": "https://open.spotify.com/track/6qdnFE7DmhNyXOuDKhtA0X"
+    },
+    {
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -462,7 +498,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 270506,
       "name": "F\u00fcr Dich",
       "url": "https://open.spotify.com/track/3QYi6nQ5sDi4eNh0DHZujh"
@@ -498,7 +534,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231946,
       "name": "F\u00fcr immer ab jetzt",
       "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
@@ -516,10 +552,28 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 207480,
       "name": "Halt mich",
       "url": "https://open.spotify.com/track/5zuWCYgg7PbIB1ytoaSbLP"
+    },
+    {
+      "album": {
+        "name": "Herzensmensch",
+        "url": "https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160405,
+      "name": "Herzensmensch",
+      "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
     },
     {
       "album": {
@@ -1226,7 +1280,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 170658,
       "name": "paris syndrom - dach session",
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
@@ -1806,6 +1860,28 @@
       "duration_ms": 209480,
       "name": "Wenn Worte meine Sprache w\u00e4ren",
       "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
+    },
+    {
+      "album": {
+        "name": "WIE LIEBE GEHT",
+        "url": "https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k"
+      },
+      "artists": [
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        },
+        {
+          "name": "Romero",
+          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "WIE LIEBE GEHT",
+      "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"
     },
     {
       "album": {

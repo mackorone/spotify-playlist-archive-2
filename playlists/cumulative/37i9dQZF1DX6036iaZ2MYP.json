@@ -13195,6 +13195,24 @@
     },
     {
       "album": {
+        "name": "Maweja",
+        "url": "https://open.spotify.com/album/1tDuNTKmTQXYjARrKyhMHC"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223912,
+      "name": "Maweja",
+      "url": "https://open.spotify.com/track/1FG6GOqADBVlIbkpOkctj5"
+    },
+    {
+      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/6U98UaUr6dUDInzHw4jXPP"
       },
@@ -16061,8 +16079,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "FAI$ RENTRER !",
+        "url": "https://open.spotify.com/album/7BwqCQwhmNNiuZb5LbWXEL"
       },
       "artists": [
         {

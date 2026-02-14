@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Grupo Benzadeus, J.Eskine e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
+  "description": "Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
   "name": "AMPLIFIKA",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 172767,
       "name": "A Fila Anda - Ao Vivo",
       "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180000,
       "name": "Bonde dos Milion\u00e1rio \ud83c\udf40",
       "url": "https://open.spotify.com/track/7M2oEncOyIxqCB1H22L96m"
@@ -8771,6 +8771,24 @@
     },
     {
       "album": {
+        "name": "Louco por voc\u00ea",
+        "url": "https://open.spotify.com/album/5AW92qkCXvj8lnkDMrzp19"
+      },
+      "artists": [
+        {
+          "name": "Cael Gomess",
+          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189178,
+      "name": "Louco por voc\u00ea",
+      "url": "https://open.spotify.com/track/7Dz7HqscJ0SnPV06jyVF52"
+    },
+    {
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -10918,7 +10936,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168960,
       "name": "NOITE PERFEITA",
       "url": "https://open.spotify.com/track/555rmZC4fMJDkVavXReVf7"

@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406877,
+  "num_followers": 406895,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "No Good Deed",
-      "url": "https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 234706,
       "name": "This Is Me",
       "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "No Good Deed",
+      "url": "https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 241501,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 333154,
       "name": "My Shot",
       "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 228947,
-      "name": "What Is This Feeling?",
-      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "Mamma Mia! The Movie Soundtrack",
         "url": "https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 187360,
       "name": "Honey, Honey - From 'Mamma Mia!' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6P4XyViJkq9QGEHtzfMIrH"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "What Is This Feeling?",
+      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -863,6 +863,42 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
+        "name": "Mean Girls (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
+      },
+      "artists": [
+        {
+          "name": "Grey Henson",
+          "url": "https://open.spotify.com/artist/3iMYbOWvKWy8lsjhf7Dkcf"
+        },
+        {
+          "name": "Barrett Wilbert Weed",
+          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
+        },
+        {
+          "name": "Taylor Louderman",
+          "url": "https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0"
+        },
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        },
+        {
+          "name": "Kate Rockwell",
+          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Meet The Plastics",
+      "url": "https://open.spotify.com/track/4QNuz0m2QCn2Yw1sCUNIS2"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
         "name": "RENT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
       },
@@ -903,42 +939,6 @@
       "duration_ms": 182746,
       "name": "Seasons of Love",
       "url": "https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Mean Girls (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
-      },
-      "artists": [
-        {
-          "name": "Grey Henson",
-          "url": "https://open.spotify.com/artist/3iMYbOWvKWy8lsjhf7Dkcf"
-        },
-        {
-          "name": "Barrett Wilbert Weed",
-          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
-        },
-        {
-          "name": "Taylor Louderman",
-          "url": "https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0"
-        },
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        },
-        {
-          "name": "Kate Rockwell",
-          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
-        },
-        {
-          "name": "Erika Henningsen",
-          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Meet The Plastics",
-      "url": "https://open.spotify.com/track/4QNuz0m2QCn2Yw1sCUNIS2"
     },
     {
       "added_at": "2025-12-10 11:42:12",

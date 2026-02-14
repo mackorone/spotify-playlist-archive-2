@@ -94,7 +94,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 224680,
       "name": "11:11",
       "url": "https://open.spotify.com/track/2qzZTKnZ3f2vQ7DaAGKGq2"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 196444,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/35FPNzYRm2WpIt6rr1WZv6"
@@ -1589,6 +1589,28 @@
     },
     {
       "album": {
+        "name": "Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
+      },
+      "artists": [
+        {
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180652,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
+    },
+    {
+      "album": {
         "name": "Descaro 2.0",
         "url": "https://open.spotify.com/album/5M5oPUHmII7DOfjH2xssey"
       },
@@ -1968,6 +1990,24 @@
       "duration_ms": 150141,
       "name": "Estrecho / Alvarado (feat. pablopablo)",
       "url": "https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF"
+    },
+    {
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
     },
     {
       "album": {
@@ -2520,7 +2560,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 221362,
       "name": "La Tarea",
       "url": "https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr"
@@ -2625,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Lo Que El Corazon Diga",
+        "url": "https://open.spotify.com/album/4HbGml9468hDhgtiQHHODU"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Lo Que El Corazon Diga",
+      "url": "https://open.spotify.com/track/1l0VF3yXnMDQ3EREGXoyJC"
+    },
+    {
+      "album": {
         "name": "lo que hay x aqu\u00ed",
         "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
       },
@@ -2708,7 +2766,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 119484,
       "name": "Love = U",
       "url": "https://open.spotify.com/track/7DBzR0ia2IX8TOaF4nTz1m"
@@ -2920,7 +2978,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 151000,
       "name": "Me Perdi",
       "url": "https://open.spotify.com/track/4FaoxGpwXMyahuOsb0mowj"
@@ -3809,6 +3867,28 @@
     },
     {
       "album": {
+        "name": "Ozono",
+        "url": "https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "maikol el insoportable",
+          "url": "https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244713,
+      "name": "Ozono",
+      "url": "https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC"
+    },
+    {
+      "album": {
         "name": "Pa M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/4OyP4eAtpTHXjpVBjJvPNG"
       },
@@ -3941,6 +4021,28 @@
     },
     {
       "album": {
+        "name": "PACIENCIA",
+        "url": "https://open.spotify.com/album/3QbigrNeQJnZ7yliKP4aeL"
+      },
+      "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198639,
+      "name": "PACIENCIA",
+      "url": "https://open.spotify.com/track/1xWSV9k3GMWGx8i5Q6wiqT"
+    },
+    {
+      "album": {
         "name": "Parcerita (Remix)",
         "url": "https://open.spotify.com/album/4485OAXEhUA6UcjjiSOlFT"
       },
@@ -4034,6 +4136,24 @@
       "duration_ms": 240000,
       "name": "Perra Melanc\u00f3lica",
       "url": "https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z"
+    },
+    {
+      "album": {
+        "name": "Playita",
+        "url": "https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "Playita",
+      "url": "https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG"
     },
     {
       "album": {
@@ -4133,7 +4253,7 @@
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 130968,
+      "duration_ms": 130969,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
     },
@@ -4348,6 +4468,32 @@
       "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/5o4QDhFf8ZMTdOJZTaSsfP"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        },
+        {
+          "name": "Pezcatore",
+          "url": "https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183248,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/64AcZ6He7dLuLGNfLDmduq"
     },
     {
       "album": {
@@ -5236,7 +5382,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 136944,
       "name": "UNA COMO T\u00da",
       "url": "https://open.spotify.com/track/5WroykksLsgGGMkjc1rNVP"

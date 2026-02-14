@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: WOODZ\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,128 songs - 2 day 20 hr 35 min
+1,129 songs - 2 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 | 2025-05-07 | 2025-07-19 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-07 | 2025-07-04 |
 | [Mayfly](https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Mayfly](https://open.spotify.com/album/4Zk04mU6yWGluTvNw4VCPt) | 4:02 | 2023-12-26 | 2024-05-10 |
+| [MAZE](https://open.spotify.com/track/63Ql1n8s6z9lVrYoNpqua3) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAZE](https://open.spotify.com/album/019FSyx4qK3Fx3rRUnrmEf) | 2:59 | 2026-02-13 |  |
 | [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-10 | 2025-10-15 |
 | [Me, the Protagonist \(Feat\. Love X Stereo\)](https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3) | [Tearliner](https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si), [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Summer Strike, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp) | 3:40 | 2022-12-22 | 2023-01-11 |
 | [Megamind](https://open.spotify.com/track/0nbFfGsI841xVr2woT8YTB) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Amateur Hunting Squad](https://open.spotify.com/album/1Se3NMCm7LMts4q5BrVAbL) | 4:52 | 2025-10-14 | 2025-10-22 |
@@ -1079,7 +1080,7 @@
 | [YOU & I](https://open.spotify.com/track/00LIiLCJ8WpurfzboQzgyU) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [Armored Saurus Season2 OST Part.1](https://open.spotify.com/album/1lJHwaencWgzycwl7aSwt4) | 4:07 | 2022-07-08 | 2022-07-23 |
 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 | 2022-06-23 | 2022-07-16 |
 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 | 2022-09-30 | 2022-10-19 |
-| [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 | 2026-01-22 |  |
+| [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 | 2026-01-22 | 2026-02-14 |
 | [You Are The Everything In My World](https://open.spotify.com/track/4e34XJ6MpVuj4TbMcLwgg7) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [You Are The Everything In My World](https://open.spotify.com/album/3wt9a2xiulrzkCWr4W1P0t) | 3:05 | 2024-05-08 | 2024-05-10 |
 | [You Erase Me](https://open.spotify.com/track/2EK0Oo72mbDGmAqhh9VT4e) | [ClaD](https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t) | [You Erase Me](https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB) | 3:01 | 2022-06-23 | 2022-07-21 |
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2022-04-12 | 2022-07-28 |

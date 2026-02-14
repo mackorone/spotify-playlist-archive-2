@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,471 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,475 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 23 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
 | 24 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 |
 | 25 | [Dnb Spaceout](https://open.spotify.com/track/6nAOS8cst8SYqzMAyrRtMv) | [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 3:13 |
-| 26 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
-| 27 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 |
+| 26 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 |
+| 27 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
 | 28 | [Heavy Heat](https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:43 |
 | 29 | [Wouldn't Get Far](https://open.spotify.com/track/24GUxWledUuwzCm4XEUatd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:00 |
 | 30 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 51 | [BS6](https://open.spotify.com/track/6TvNg91oTRyHX6zN676dK5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [BS6](https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF) | 3:45 |
 | 52 | [No Cap 4 2020 \- SBF14](https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [No Cap 4 2020 \(SBF14\)](https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R) | 2:37 |
 | 53 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
-| 54 | [Afrika Jungle Them](https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd) | [DSS](https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f) | [Afrika Jungle Them EP](https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ) | 3:12 |
-| 55 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 |
+| 54 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 |
+| 55 | [Afrika Jungle Them](https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd) | [DSS](https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f) | [Afrika Jungle Them EP](https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ) | 3:12 |
 | 56 | [Narcissus](https://open.spotify.com/track/3MEYgmIqsjW4qlW1SoflGQ) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 3:41 |
 | 57 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 |
 | 58 | [Battle](https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp \- EP](https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s) | 3:52 |

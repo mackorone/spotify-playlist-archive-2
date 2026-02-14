@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,044 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,049 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 47 | [Chuyện tình đan áo](https://open.spotify.com/track/0etpGHwiYPRq6gi1bNgRPL) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Dạ vũ Rumba bebop tango boston \- Thương trao về ....](https://open.spotify.com/album/0djedKa72vbntYPAHEF5V2) | 3:39 |
 | 48 | [Người yêu cô đơn](https://open.spotify.com/track/0pM2UmaeVqgWuxJciBKmGz) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 5:27 |
 | 49 | [Đường xưa lối cũ](https://open.spotify.com/track/3Yv7rOzspapIKgSYQHyxPO) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 3:43 |
-| 50 | [Ai cho tôi tình yêu](https://open.spotify.com/track/7wyYX2ceXlAnW2ke9RbDPL) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyến tàu hoàng hôn](https://open.spotify.com/album/6GD5IlIf5PiaUJWevmI1I1) | 6:22 |
+| 50 | [Người yêu cô đơn](https://open.spotify.com/track/4XM1Y4jyxqcmBRKRSfUD7r) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:38 |
 
 Snapshot ID: `AAAAABeQ47b+dWf3TX2MZi8aOToCkek8`

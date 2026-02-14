@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,522 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,523 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 32 | [Return](https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:42 |
 | 33 | [New Detroit](https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:44 |
 | 34 | [Cool](https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:40 |
-| 35 | [Lodging](https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Balance and Composure & Tigers Jaw Split](https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3) | 3:00 |
-| 36 | [Eyes Shut](https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Eyes Shut](https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR) | 2:45 |
+| 35 | [Eyes Shut](https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Eyes Shut](https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR) | 2:45 |
+| 36 | [Lodging](https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Balance and Composure & Tigers Jaw Split](https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3) | 3:00 |
 | 37 | [Lemon Mouth](https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 3:09 |
 | 38 | [Nervous Kids](https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:55 |
 | 39 | [Coil/Recoil](https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 2:01 |
-| 40 | [Dent](https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Balance and Composure & Tigers Jaw Split](https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3) | 2:49 |
+| 40 | [Okay Paddy](https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 2:30 |
 | 41 | [Commit](https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:33 |
-| 42 | [Okay Paddy](https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 2:30 |
+| 42 | [Dent](https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Balance and Composure & Tigers Jaw Split](https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3) | 2:49 |
 | 43 | [Two Worlds](https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 2:28 |
-| 44 | [Warn Me](https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Warn Me](https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ) | 3:14 |
+| 44 | [Danielson](https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 3:00 |
 | 45 | [Fake Death](https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Fake Death](https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF) | 2:08 |
-| 46 | [Danielson](https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 3:00 |
-| 47 | [Smile](https://open.spotify.com/track/6fntXgWBG5KkL312QXaRIp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:52 |
-| 48 | [Old Clothes](https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 3:11 |
-| 49 | [Let Go/Trashed Floors](https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:40 |
-| 50 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 |
+| 46 | [Old Clothes](https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 3:11 |
+| 47 | [Let Go/Trashed Floors](https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:40 |
+| 48 | [Warn Me](https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Warn Me](https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ) | 3:14 |
+| 49 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 |
+| 50 | [Smile](https://open.spotify.com/track/6fntXgWBG5KkL312QXaRIp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:52 |
 
-Snapshot ID: `aYvGgAAAAADr6nBnPUanoKvEw8FTGGK8`
+Snapshot ID: `aY0YAAAAAADeif8MA6QYG7eTR4p54wMR`

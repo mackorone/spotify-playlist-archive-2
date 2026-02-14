@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201816,
+      "name": "El Apag\u00f3n",
+      "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
+    },
+    {
+      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/4tN7he6zP5ft8yv57lKptc"
       },
@@ -4192,7 +4210,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
@@ -4210,7 +4228,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -4304,10 +4322,32 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 154098,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
       "album": {
@@ -4880,7 +4920,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 226000,
       "name": "Meri Zindagi Hai Tu",
       "url": "https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2"
@@ -5856,6 +5896,32 @@
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
+    },
+    {
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
     },
     {
       "album": {
@@ -7880,7 +7946,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 91556,
       "name": "TRUMP THE BILL",
       "url": "https://open.spotify.com/track/05ho4R43Ww1DnHYW7SiFNE"
@@ -8022,6 +8088,24 @@
       "duration_ms": 124608,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
+    },
+    {
+      "album": {
+        "name": "Versatile - The Dark Triad (Slowed + Low Honor)",
+        "url": "https://open.spotify.com/album/544701joUsTjzSZSxcqOtb"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - The Dark Triad - Slowed + Low Honor",
+      "url": "https://open.spotify.com/track/0dLohoopycOGpzoaFROXvk"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Gusttavo Lima, Luis Fonsi e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Mc Jacar\u00e9, Mc Lele JP, Neg\u00e3o Original, Dj Japa NK e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -6570,7 +6570,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 169390,
       "name": "Havaianas",
       "url": "https://open.spotify.com/track/6UhyOKAi2V34FD87MKaJ5Y"
@@ -9881,6 +9881,24 @@
     },
     {
       "album": {
+        "name": "Alian\u00e7a - Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126043,
+      "name": "N\u00e3o Mexe nas Minhas Gavetas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Para",
         "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
       },
@@ -10844,6 +10862,36 @@
       "duration_ms": 113448,
       "name": "Patrai",
       "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
+    },
+    {
+      "album": {
+        "name": "PEGA A MALDADE DA BANDIDA",
+        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "Delleon",
+          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "PEGA A MALDADE DA BANDIDA",
+      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
     },
     {
       "album": {
@@ -14340,7 +14388,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 223384,
       "name": "TENTAR SER BREVE \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f",
       "url": "https://open.spotify.com/track/7diUfPaiSZFquYJ1DDDR0h"

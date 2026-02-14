@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-494 songs - 1 day 2 hr 13 min
+495 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Hold On](https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Hold On](https://open.spotify.com/album/5iKBc0WPYKIu8Y2sKBIgxF) | 1:35 | 2025-12-18 |  |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-05 |  |
 | [HON SA](https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n) | [HON SA](https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX) | 2:47 | 2024-06-28 | 2024-10-25 |
-| [Honor](https://open.spotify.com/track/1o8aY6qCQY3IcvplR3lGW5) | [Cimberly](https://open.spotify.com/artist/3Hkf2U4n32v1n6o6MLVXCD) | [Honor](https://open.spotify.com/album/2fzhx6hqryu0YH1lLoWPPN) | 3:06 | 2026-02-12 |  |
+| [Honor](https://open.spotify.com/track/1o8aY6qCQY3IcvplR3lGW5) | [Cimberly](https://open.spotify.com/artist/3Hkf2U4n32v1n6o6MLVXCD) | [Honor](https://open.spotify.com/album/2fzhx6hqryu0YH1lLoWPPN) | 3:06 | 2026-02-12 | 2026-02-14 |
 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 | 2025-09-25 |  |
 | [Hur förklarar man sånt för datorer?](https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Hur förklarar man sånt för datorer?](https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89) | 3:50 | 2024-06-28 | 2025-03-23 |
 | [Hur ska jag sova inatt](https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Hur ska jag sova inatt](https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh) | 2:41 | 2024-10-04 | 2025-05-23 |
@@ -296,6 +296,7 @@
 | [Love Myself](https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Rollercoaster](https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j) | 2:30 | 2024-08-15 | 2024-11-09 |
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 | 2025-05-09 |
 | [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 | 2025-11-27 |  |
+| [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-12 |  |
 | [luften i maj](https://open.spotify.com/track/0lCZhCH8XT87T1zQDCeHsZ) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [bland molnen/under isen](https://open.spotify.com/album/1ruLTxzG4vZvQqvPslsrzo) | 2:48 | 2025-05-01 | 2025-06-13 |
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-10-28 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-08-16 |

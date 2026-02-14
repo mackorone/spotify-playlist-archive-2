@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren
 
-196 songs - 10 hr 54 min
+197 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2023-01-04 | 2025-06-28 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-01-04 | 2024-12-07 |
 | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 | 2023-01-28 | 2024-12-14 |
-| [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 | 2024-03-08 |  |
+| [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 | 2024-03-08 | 2026-02-14 |
 | [By My Side](https://open.spotify.com/track/5FtOZv6MB6IWL2DneVYvoe) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [By My Side](https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4) | 2:46 | 2025-08-29 |  |
 | [By The Grace Of God](https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:27 | 2023-01-04 | 2025-01-25 |
 | [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [MEGA](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc) | 1:56 | 2025-09-26 |  |
@@ -197,6 +197,7 @@
 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 | 2026-01-23 |  |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2023-05-05 |  |
 | [World Famous](https://open.spotify.com/track/5sAkUcPjTGQCmPZtyj8GV7) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [World Famous](https://open.spotify.com/album/4DWOSLQg5XuJH8zYChCl5b) | 3:30 | 2024-09-06 | 2025-06-28 |
+| [Yes](https://open.spotify.com/track/4KWDgLFV5vaLBWGr4xf9wr) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Just A Few Folk](https://open.spotify.com/album/7HffRJ97ixJ3qpKKYYBQGZ) | 3:21 | 2026-02-13 |  |
 | [Yes We Can](https://open.spotify.com/track/4mY4eTuEvnWNNNlS3QXLkg) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Yes We Can](https://open.spotify.com/album/6EmU5AYldF504VZZMIGfra) | 3:26 | 2023-09-01 |  |
 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 | 2023-01-04 | 2023-05-06 |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2023-01-04 |  |

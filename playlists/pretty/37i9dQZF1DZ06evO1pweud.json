@@ -1,12 +1,12 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 129481,
+  "num_followers": 129639,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAAxD/REbmPvj5t0Ujpu4SrA",
+  "snapshot_id": "aY0YAAAAAAAUfW+3yyzlRUgKJKjtqFMH",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "All I Really Want Is You",
+      "url": "https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 201920,
       "name": "Ojos Tristes (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "All I Really Want Is You",
-      "url": "https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Only in My Dreams",
-      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 178493,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/3EzlgdxyFvjeAGzR5WxHB8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Only in My Dreams",
+      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 191888,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
@@ -279,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 191888,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 206973,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/3HVRZxCp3BWYuYe8L8BMNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
     },
     {
       "added_at": null,
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 247455,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 146973,
       "name": "Spin Me Around",
       "url": "https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 247455,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
     },
     {
       "added_at": null,

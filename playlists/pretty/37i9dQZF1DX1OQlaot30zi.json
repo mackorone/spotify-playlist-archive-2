@@ -1,6 +1,6 @@
 {
   "description": "Sempre aggiornata. Con nuovi brani di Pyrex, Plaza, Nabi, Promessa, Marte, Diss Gacha, Lorenzza e molti altri. ",
-  "num_followers": 54822,
+  "num_followers": 54862,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
@@ -106,6 +106,10 @@
         {
           "name": "Diss Gacha",
           "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
         }
       ],
       "duration_ms": 132666,
@@ -594,10 +598,14 @@
         {
           "name": "Occhiaia 47",
           "url": "https://open.spotify.com/artist/1yERvIWJ5NqsRf5Mu1GNtm"
+        },
+        {
+          "name": "elliot",
+          "url": "https://open.spotify.com/artist/3qeFjeE8OEYCyQFZtKOoDb"
         }
       ],
       "duration_ms": 141777,
-      "name": "LAVORARE NO GRAZIE",
+      "name": "LAVORARE NO GRAZIE (feat. elliot)",
       "url": "https://open.spotify.com/track/4SUnOFzgSFHsN0NyENXGXF"
     },
     {
@@ -871,8 +879,8 @@
     {
       "added_at": "2026-02-13 00:01:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "LEAKS v1",
+        "url": "https://open.spotify.com/album/3ZVBv9AMH2Reguwiv6qtf6"
       },
       "artists": [
         {

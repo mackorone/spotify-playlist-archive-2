@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 
 > good vibes, all day every day
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,243 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,313 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 96 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 |
 | 97 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 98 | [peanut butter](https://open.spotify.com/track/4K9Jh6jnw0P4FZUwrG6Keb) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [see you later maybe never \(demos\)](https://open.spotify.com/album/2iumrsHblYqxcEyDNvnJg3) | 2:40 |
-| 99 | [God Talks Back](https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [God Talks Back](https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN) | 2:52 |
-| 100 | [Come Around and Love Me](https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around And Love Me](https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t) | 3:04 |
+| 99 | [Come Around and Love Me](https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around And Love Me](https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t) | 3:04 |
+| 100 | [God Talks Back](https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [God Talks Back](https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN) | 2:52 |
 
 Snapshot ID: `AAAAAAfwSsvoILyu265sAsPjV9nRceSo`

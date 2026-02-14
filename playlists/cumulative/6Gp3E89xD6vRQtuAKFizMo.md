@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-538 songs - 1 day 1 hr 43 min
+539 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Check This \(with Kuhlosul\)](https://open.spotify.com/track/0hSMYFjDOvzULFrOtmC3s6) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm) | [Check This \(with Kuhlosul\)](https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k) | 2:40 | 2022-10-17 | 2023-04-09 |
 | [Check This \(with Kuhlosul\) \- Leotrix Remix](https://open.spotify.com/track/4uc21oNVTZCDVihzjra8oM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 3:08 | 2023-07-31 | 2023-12-14 |
 | [Choppas](https://open.spotify.com/track/53KC0vl1WMkoMYrJkqwygf) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL) | [Choppas](https://open.spotify.com/album/2tL2mYx1by5C0Vne9ilN5Q) | 2:58 | 2023-12-08 | 2025-04-27 |
+| [Cliche](https://open.spotify.com/track/39F0YpJTd8CEIQum0q2qav) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Cliche](https://open.spotify.com/album/2uzZP3UoZZBS7XTCdkvWxw) | 3:04 | 2026-02-13 |  |
 | [Cloud 9](https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Cloud 9](https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B) | 4:21 | 2022-07-27 | 2023-03-18 |
 | [Club Chennai](https://open.spotify.com/track/1Tw1ikzex7FQ1Gk2yomtjf) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Club Chennai](https://open.spotify.com/album/6YNdraBe2RbxqWLLSdMHJR) | 2:25 | 2023-02-10 | 2023-12-14 |
 | [Cold Comfort \(feat\. Andrew Paley\) \- OMAS Remix](https://open.spotify.com/track/0frbjoMyGqqUoPrrplSJAX) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Andrew Paley](https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [Cold Comfort \(feat\. Andrew Paley\) \[OMAS Remix\]](https://open.spotify.com/album/097oRGCimqMVPz4ijYzvtu) | 3:55 | 2022-05-06 | 2022-08-06 |

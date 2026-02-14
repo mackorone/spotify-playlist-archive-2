@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 42 songs - 3 hr 5 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 44 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 40 | [world's end](https://open.spotify.com/track/5HG3zz4uGne9f9mBaxb39x) | [John michel](https://open.spotify.com/artist/7KIaXj7EsyuuYGH0z2v36h), [Anthony James](https://open.spotify.com/artist/6PWEwhnCN7vzNi9VpXFSUp) | [Egotrip](https://open.spotify.com/album/3iKxcGgS71n7ND8I2A3CF5) | 3:01 |
 | 41 | [Say No to This](https://open.spotify.com/track/3s9itRgJYcKhem01P17865) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Sydney James Harcourt](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:02 |
 | 42 | [Maul's Revenge](https://open.spotify.com/track/2KT8DVAMX7MLxSuAmaIbOl) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Maul's Revenge](https://open.spotify.com/album/65aG5hYGhsppIZl96jUwXj) | 2:27 |
+| 43 | [Cause Of Death](https://open.spotify.com/track/1JMrmmvPZvwdKOnti8wbmC) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:03 |
+| 44 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/2ClgEn1FZxchrqRZ04JZzj) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:23 |
 
-Snapshot ID: `AAAGlwcix/jN1NfM/Zs9sE1PeYYHKTMr`
+Snapshot ID: `AAAGmTPbCgG8/UPSIw/opVjJ4Lczl2cr`

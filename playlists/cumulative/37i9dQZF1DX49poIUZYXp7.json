@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Kelsea Ballerini and Lainey Wilson",
+  "description": "The extraordinary women making great country music today. Cover: Ingrid Andress",
   "name": "Women of Country",
   "tracks": [
     {
@@ -4640,6 +4640,24 @@
       "duration_ms": 166935,
       "name": "Nothin' I Don't Love About You",
       "url": "https://open.spotify.com/track/3bpUoxpGoJkEQIHmMaUYPl"
+    },
+    {
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211925,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c"
     },
     {
       "album": {

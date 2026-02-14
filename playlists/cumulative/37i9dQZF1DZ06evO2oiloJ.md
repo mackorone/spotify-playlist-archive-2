@@ -4,7 +4,7 @@
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 34 min
+75 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2019](https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:25 | 2023-11-10 |  |
 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-13 |  |
 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 | 2023-11-10 |  |
+| [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 | 2026-02-14 |  |
 | [Angel With An Attitude](https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:15 | 2024-10-14 |  |
 | [Better Than Ever \(feat\. Rod Wave\)](https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Decided 2](https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ) | 4:03 | 2023-12-13 | 2024-10-14 |
 | [Boyz Don't Cry](https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f) | 2:46 | 2024-03-18 |  |

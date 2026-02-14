@@ -1,15 +1,243 @@
 {
-  "description": "Descubre los nuevos \u00e1lbumes del 2026. Hit shuffle for a mixed listening experience. Cover: Young Cister",
-  "num_followers": 39502,
+  "description": "Descubre los nuevos \u00e1lbumes del 2026. Hit shuffle for a mixed listening experience. Cover: Arc\u00e1ngel",
+  "num_followers": 39510,
   "original_name": "New Latin Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJO+yYdW0X5QwL+e7SyAqbpOfDD0",
+  "snapshot_id": "AAAAAIMD9YCJ4Ss6HTPDljt3KuevwxSg",
   "tracks": [
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "duration_ms": 191507,
+      "name": "MI$ LLAMADA$",
+      "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 220467,
+      "name": "DROGA LETAL",
+      "url": "https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "duration_ms": 221414,
+      "name": "CHOLO",
+      "url": "https://open.spotify.com/track/76m8kXyUf41NgbpzCLfWgs"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 182231,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "duration_ms": 188424,
+      "name": "Todo Va A Estar Bien",
+      "url": "https://open.spotify.com/track/0ZTfbTfUdC4E0MgGC53Ms0"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "Canto Pa No Llorar",
+        "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 207732,
+      "name": "Carta Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4DJI6b34ZU14L7xu8iseIh"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "RED ROOM",
+        "url": "https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "En El Club",
+      "url": "https://open.spotify.com/track/1jt1JLQB7iopUUuxzhPBgS"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "RED ROOM",
+        "url": "https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 105806,
+      "name": "OH Shit OH Ma",
+      "url": "https://open.spotify.com/track/5Cz5WCnlx9flh5ys9SA8rD"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "RED ROOM",
+        "url": "https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "OD",
+      "url": "https://open.spotify.com/track/7LkilQwylRvST1us9aT68w"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "EL PLUGGG 3 OVA 2",
+        "url": "https://open.spotify.com/album/0c6D3rRgLwIoV00tdf84wx"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "EN EL BARRIO DE LAS FLORES",
+      "url": "https://open.spotify.com/track/2dq4b2x87XYMl8EY7fT12G"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "DALE HASTA ABAJO",
+        "url": "https://open.spotify.com/album/5GQoSc0HPVcgRV31INhGI8"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Baby Maikol",
+          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
+        },
+        {
+          "name": "Dave Produce",
+          "url": "https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9"
+        }
+      ],
+      "duration_ms": 195470,
+      "name": "DALE HASTA ABAJO",
+      "url": "https://open.spotify.com/track/0ijfp5UZxAzR3eNANozXm8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
+      "album": {
+        "name": "EL PLUGGG 3 OVA 2",
+        "url": "https://open.spotify.com/album/0c6D3rRgLwIoV00tdf84wx"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 210263,
+      "name": "ANSIEDAD",
+      "url": "https://open.spotify.com/track/2m2uskCPWRLeCIVMXgcCUr"
+    },
+    {
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
@@ -29,7 +257,7 @@
       "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
@@ -49,7 +277,7 @@
       "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
@@ -69,7 +297,7 @@
       "url": "https://open.spotify.com/track/7pW6jlnkG7IVSlhhEI7P58"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA CIUDAD NUNCA DUERME*",
         "url": "https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI"
@@ -85,7 +313,7 @@
       "url": "https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA CIUDAD NUNCA DUERME*",
         "url": "https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI"
@@ -101,7 +329,7 @@
       "url": "https://open.spotify.com/track/3l85Q8PrsmLaUXiL1nZcfy"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA CIUDAD NUNCA DUERME*",
         "url": "https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI"
@@ -121,7 +349,7 @@
       "url": "https://open.spotify.com/track/5Am6w2rslkeD53b0oNDps1"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA 8VA MARAVILLA",
         "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
@@ -141,7 +369,7 @@
       "url": "https://open.spotify.com/track/1heIify4NygHEzqrozuVKK"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA 8VA MARAVILLA",
         "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
@@ -161,7 +389,7 @@
       "url": "https://open.spotify.com/track/1yV4oNq40BpcwAxr0Bl4Mx"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA 8VA MARAVILLA",
         "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
@@ -185,7 +413,7 @@
       "url": "https://open.spotify.com/track/4k0nstlu1ScPY6XoosWPZE"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
@@ -205,7 +433,7 @@
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
@@ -225,7 +453,7 @@
       "url": "https://open.spotify.com/track/4xDTwjCmUFh6P5fsiJdvwU"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
@@ -241,7 +469,7 @@
       "url": "https://open.spotify.com/track/2wBrtYgA27EDPE7Fpyzpdx"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -261,7 +489,7 @@
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -281,7 +509,7 @@
       "url": "https://open.spotify.com/track/4qfkZtOGVw2BXa05wqXKkV"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -301,7 +529,7 @@
       "url": "https://open.spotify.com/track/7xLfNI4gRNTu6FyXJlzBW5"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA FORMULA",
         "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
@@ -321,7 +549,7 @@
       "url": "https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA FORMULA",
         "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
@@ -341,7 +569,7 @@
       "url": "https://open.spotify.com/track/1uqCUWuLckeGAcpIthq9xj"
     },
     {
-      "added_at": "2026-01-23 05:00:33",
+      "added_at": "2026-02-13 05:00:44",
       "album": {
         "name": "LA FORMULA",
         "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"

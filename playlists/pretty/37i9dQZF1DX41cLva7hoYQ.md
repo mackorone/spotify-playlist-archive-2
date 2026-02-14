@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Jazz piano ballads to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,607 likes - 300 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,629 likes - 300 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 | 299 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 |
 | 300 | [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 |
 
-Snapshot ID: `AAAAAKcul6yaVfM7lszNRZwq4WNzX4Sw`
+Snapshot ID: `AAAAAOgGzLFwfOqzGQISZkR+vSyVlkKo`

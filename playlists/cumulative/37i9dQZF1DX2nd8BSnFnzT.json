@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Depress\u00e3o",
+        "url": "https://open.spotify.com/album/5d3U5QA6sXsTNwx9rleJva"
+      },
+      "artists": [
+        {
+          "name": "Fiuk",
+          "url": "https://open.spotify.com/artist/0SVSq6V4n9dDVeIZifohqN"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188670,
+      "name": "Depress\u00e3o",
+      "url": "https://open.spotify.com/track/6AaKac4QzY8yUrhTnwRuhU"
+    },
+    {
+      "album": {
         "name": "DESCANSA",
         "url": "https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU"
       },

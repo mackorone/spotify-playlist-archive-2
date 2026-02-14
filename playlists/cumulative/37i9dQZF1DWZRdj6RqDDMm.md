@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-614 songs - 1 day 10 hr 14 min
+615 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Love Got Me](https://open.spotify.com/track/29J6IeHDZpilQSJM9YGifd) | [Nnâmdi](https://open.spotify.com/artist/6Y7ODpu4UEAApsm6iSz9xP), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Love Got Me](https://open.spotify.com/album/1vOfJYdzGOgVDXvtzjdrCT) | 2:46 | 2025-07-11 | 2025-08-22 |
 | [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-17 | 2025-03-21 |
 | [Love Language II](https://open.spotify.com/track/2AwBNdS7kL5iaIZ6ulWMdD) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [Love Language II](https://open.spotify.com/album/5NFigtPBVaS8cWruLLuXtc) | 3:00 | 2025-08-22 |  |
+| [Love Me](https://open.spotify.com/track/60Qbxkui6XGLsKtJUISv15) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [YATO](https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE) | 3:01 | 2026-02-13 |  |
 | [Love Me So](https://open.spotify.com/track/71JY98oO0Tf3J7AIi1zYne) | [Naomee](https://open.spotify.com/artist/3No8oTslmtUkR63cY6gWp0) | [Love Me So](https://open.spotify.com/album/3Eil8mJ7L80ULdDnRVU9Hp) | 3:26 | 2023-11-17 | 2024-01-26 |
 | [Love N Affection](https://open.spotify.com/track/493qzSA0HnoeETKYxsvruk) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Love N Affection](https://open.spotify.com/album/732lY6LAYoQmjzRwHlqmh1) | 2:21 | 2024-10-25 | 2025-01-10 |
 | [Love N Affection Stripped](https://open.spotify.com/track/4X8n52C8oiTdteJUuXgCXb) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [LOVE N AFFECTION](https://open.spotify.com/album/5TPa6T5DTbhkFn8cK0a3pz) | 2:35 | 2025-02-14 | 2025-04-04 |

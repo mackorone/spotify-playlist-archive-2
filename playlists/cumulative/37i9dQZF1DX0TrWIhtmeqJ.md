@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: Ledbyher
 
-131 songs - 5 hr 37 min
+131 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [BOLO](https://open.spotify.com/track/0m2JPkpMCyVuOK7HkOePic) | [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [BOLO](https://open.spotify.com/album/40FbWOipDsqiLm8NX4W2kV) | 2:33 | 2025-10-23 | 2026-02-06 |
 | [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 | 2026-02-13 |  |
 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 | 2026-02-13 |  |
+| [burnt](https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Loving Kills.](https://open.spotify.com/album/3uNj9VcF0CVAcKHFPP6Dml) | 2:20 | 2026-02-13 |  |
 | [BUSY](https://open.spotify.com/track/1peSW56EXaVDkzbHeU6TBZ) | [JugJug](https://open.spotify.com/artist/0TQrCbghgGxsHKZGkNqdyx), [Marlow P](https://open.spotify.com/artist/7g8NLtQXt19NjYo6qrkbyh) | [BUSY](https://open.spotify.com/album/1NZStWVb3AXdxG0AKEaK2L) | 4:16 | 2025-10-23 | 2026-01-15 |
 | [Can you feel it?](https://open.spotify.com/track/7bCN7bgCd8opEmNvg7ILxi) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs) | [Can you feel it?](https://open.spotify.com/album/6BN0IbeHLkdkksZum3hIij) | 2:01 | 2026-02-13 |  |
 | [Can't Have](https://open.spotify.com/track/58jpm1tSZFDfUBl4sGAlyA) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Can't Have](https://open.spotify.com/album/7iyoVs1xtR2SuYX7XDm5IZ) | 2:08 | 2025-10-23 | 2026-02-13 |
@@ -88,6 +89,7 @@
 | [Pressure](https://open.spotify.com/track/2mwplM6WLAxWaeWuL5vk6x) | [BandobabyLR](https://open.spotify.com/artist/19ACRq8RCDb6b8Q0SpNM1b) | [Pressure](https://open.spotify.com/album/4cfPHwvg91XG29WHQqWivy) | 2:56 | 2025-11-07 |  |
 | [PRESSURE](https://open.spotify.com/track/4XIiHCQNitoMQQ4an591OS) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu), [TayoLoxs](https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB) | [PRESSURE](https://open.spotify.com/album/0fJqmOCAf63nXEc69V97a1) | 1:50 | 2025-10-23 | 2026-01-15 |
 | [purge](https://open.spotify.com/track/3GiA19bwUhxQH7CuDsfEMX) | [JXMESC](https://open.spotify.com/artist/5lWNzjzicz1QAPdZfWZo6x) | [HANSRAJ](https://open.spotify.com/album/7ky0rdKQpWx1WbreoPe1np) | 2:11 | 2025-10-23 | 2025-11-07 |
+| [RACKS.](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 2:28 | 2026-02-13 |  |
 | [rectangles](https://open.spotify.com/track/25roMo7yEbFbyt6vlbUlQ4) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [rectangles](https://open.spotify.com/album/6J3ygrQ3WnVyiQEb6hcQKm) | 2:32 | 2026-01-09 |  |
 | [Same Shit](https://open.spotify.com/track/1Hu9ijKYbuC9n5xb1eB5xW) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Same Shit](https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr) | 3:07 | 2025-12-12 |  |
 | [Saoirse](https://open.spotify.com/track/5EJSeGt3bOW2ho0Ompib9g) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Saoirse](https://open.spotify.com/album/0StKhomjgXxgnr5geXZw0S) | 3:42 | 2026-02-13 |  |
@@ -119,8 +121,6 @@
 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 | 2025-10-23 |  |
 | [They're called 110s](https://open.spotify.com/track/2b64ozWXxNT4eIgobH4S56) | [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [They're called 110s](https://open.spotify.com/album/1Ywq2kDV2GHIiDnfSBGyv3) | 2:44 | 2025-10-23 | 2026-02-13 |
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-10-23 | 2025-11-07 |
-| [Track 1](https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
-| [Track 4](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [Trippin'](https://open.spotify.com/track/22sUkuhndJu54imupWXb6p) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr) | [Trippin'](https://open.spotify.com/album/42HmHOPTR9tLzYm5pM7Uib) | 2:53 | 2025-10-23 | 2026-02-06 |
 | [twenty four](https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [twenty four](https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g) | 2:43 | 2025-11-14 |  |
 | [twoblaccbois](https://open.spotify.com/track/3A6z7lhMM5popptpx3G5Wm) | [Rome](https://open.spotify.com/artist/1Aa5jZ6PiMpSNLqfHGMWmd), [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v) | [twoblaccbois](https://open.spotify.com/album/5IMFe2Zw4GgTqOFNU4jxfA) | 2:34 | 2025-10-23 |  |

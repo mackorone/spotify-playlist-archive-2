@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Yuridia en portada \ud83c\udf39",
+  "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
   "name": "Reinas del Mariachi",
   "tracks": [
     {
@@ -838,6 +838,28 @@
       "duration_ms": 258814,
       "name": "Cucurrucuc\u00fa Paloma",
       "url": "https://open.spotify.com/track/10WbMX4C7efbMqgffLr4tC"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Te Quiero Lolita",
+        "url": "https://open.spotify.com/album/2zw11GJcMT3pSQMRcdNyUp"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166856,
+      "name": "C\u00f3mo Te Quiero Lolita",
+      "url": "https://open.spotify.com/track/5FTinvF54i5JsCqp7C3clY"
     },
     {
       "album": {
@@ -3066,7 +3088,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 145194,
       "name": "Por Si Me Olvidas",
       "url": "https://open.spotify.com/track/2Kibj5KtMqbXDgtrN3Oqmw"

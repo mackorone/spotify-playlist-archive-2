@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "GUSTO",
+        "url": "https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO"
+      },
+      "artists": [
+        {
+          "name": "Boko Yout",
+          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "DEMOLITION MAN",
+      "url": "https://open.spotify.com/track/4jgt5xF9YT7hIKyQ0QGkZA"
+    },
+    {
+      "album": {
         "name": "Demon Child",
         "url": "https://open.spotify.com/album/1UmT3WDoH3f6RP9qHX6hoI"
       },
@@ -1848,6 +1866,24 @@
       "duration_ms": 189105,
       "name": "Dying to Live",
       "url": "https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI"
+    },
+    {
+      "album": {
+        "name": "VOL. 3",
+        "url": "https://open.spotify.com/album/1t2vmgSDDzA7xrngcZvxUL"
+      },
+      "artists": [
+        {
+          "name": "Novulent",
+          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139389,
+      "name": "dysphoria",
+      "url": "https://open.spotify.com/track/4SoZGGmT1dr8m4plCxBMkV"
     },
     {
       "album": {
@@ -2938,7 +2974,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 138116,
       "name": "I hate your face",
       "url": "https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur"
@@ -6022,7 +6058,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 214916,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4pRyxHjXhAuEGE4CITYMGS"

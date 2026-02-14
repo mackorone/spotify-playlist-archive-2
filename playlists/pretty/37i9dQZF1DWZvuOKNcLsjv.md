@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover:  James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,467 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,467 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 |
 | 2 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
-| 3 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [](https://open.spotify.com/album/null) | 3:03 |
+| 3 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 |
 | 4 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |
 | 5 | [404 \(New Era\)](https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:59 |
 | 6 | [FLIP FLAP](https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FLIP FLAP](https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5) | 2:29 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 50 | [Water](https://open.spotify.com/track/3u5YAg8IO5XEoiMr7HdIs4) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [SENSATION CIRCLE](https://open.spotify.com/album/3CNodmpURhtNqHwY365JZm) | 2:17 |
 | 51 | [アイズワイドシャット](https://open.spotify.com/track/1GtfKgXKdUISBPs2WJUYlm) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [GALAXY DRIVE 水金地火木土天海冥ver](https://open.spotify.com/album/2Qc1D0NYliWRJCZLNpC6kY) | 3:45 |
 | 52 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:49 |
-| 53 | [Track 5](https://open.spotify.com/track/4KWDgLFV5vaLBWGr4xf9wr) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [](https://open.spotify.com/album/null) | 0:00 |
+| 53 | [Yes](https://open.spotify.com/track/4KWDgLFV5vaLBWGr4xf9wr) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Just A Few Folk](https://open.spotify.com/album/7HffRJ97ixJ3qpKKYYBQGZ) | 3:21 |
 | 54 | [Living](https://open.spotify.com/track/45wy7O4gllBWPaySxkRDIZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Living](https://open.spotify.com/album/4H52JSvG8qKypi82WlJ7Oa) | 3:21 |
 | 55 | [Turn It Up](https://open.spotify.com/track/61BKVZCNFySRO9vvakKJBr) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Turn It Up](https://open.spotify.com/album/0mYgHylfIKnZ8oBSd3nqSa) | 3:18 |
 | 56 | [息吹](https://open.spotify.com/track/2nHuTCawDNAwWnlQVr1ax8) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [息吹](https://open.spotify.com/album/2xAVkMz6xswTl7LvaCjwEF) | 3:49 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4968735,
+  "num_followers": 4968908,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADpCfMlplauBMMb1oFPHjJA",
+  "snapshot_id": "aY0YAAAAAAD5ydDo/KoczPah7zBbXCbo",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life - Remastered 2011",
-      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "News Of The World (2011 Remaster)",
         "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 179200,
       "name": "We Are The Champions - Remastered 2011",
       "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Wants To Live Forever (Stranger Things Remix)",
-        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 167103,
-      "name": "Who Wants To Live Forever - Stranger Things Remix",
-      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 212533,
       "name": "Play The Game - Remastered 2011",
       "url": "https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Wants To Live Forever (Stranger Things Remix)",
+        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 167103,
+      "name": "Who Wants To Live Forever - Stranger Things Remix",
+      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
     },
     {
       "added_at": null,

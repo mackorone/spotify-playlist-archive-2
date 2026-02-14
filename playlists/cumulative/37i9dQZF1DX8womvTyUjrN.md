@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> The new wave of Latin pop 🌊 Cover: Sofía Thompson
+> The new wave of Latin pop 🌊 Cover: TIMØ
 
-1,138 songs - 2 day 8 hr 49 min
+1,141 songs - 2 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Cuando Tú Estás Aquí](https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Cuando Tú Estás Aquí](https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7) | 3:07 | 2025-05-23 | 2025-08-05 |
 | [cuando viajas](https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [amarcura](https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q) | 3:10 | 2023-02-24 | 2023-03-04 |
 | [Cuatro Hielos](https://open.spotify.com/track/7E3HPajHtNdDKzhsw1leJ3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Cuatro Hielos](https://open.spotify.com/album/3Q13UiN37fcQrawW6x7kkx) | 3:23 | 2024-08-09 | 2024-09-14 |
+| [CUCARACHEO](https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Jay Kabalan](https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm) | [CUCARACHEO](https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ) | 2:33 | 2026-02-13 |  |
 | [cuerpo](https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 3:18 | 2025-03-07 | 2025-04-12 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-07-22 |
 | [Curándote](https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curándote](https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm) | 2:22 | 2025-12-05 |  |
@@ -367,6 +368,7 @@
 | [Era Tan Real?](https://open.spotify.com/track/2PGtI7gcpEWmhw5Pwriwfk) | [Los Jaycobz](https://open.spotify.com/artist/0S5cWKgY3Y63IbykHSqPgN), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Era Tan Real?](https://open.spotify.com/album/7xyt1AtIQf5qO0k5kXu869) | 2:21 | 2026-01-16 |  |
 | [Es Lo Que Hay](https://open.spotify.com/track/6GnU9T36zfadwOpveFyl1L) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Lo Que Hay](https://open.spotify.com/album/3f1lwfRbfZCji5I02PqmCo) | 2:22 | 2025-06-20 | 2025-08-16 |
 | [Es Tan Corta la Vida](https://open.spotify.com/track/7gySsUqpWJhn76VDeAAV3Y) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Es Tan Corta la Vida](https://open.spotify.com/album/5kvEHpZK5jxDLnthN7GB5D) | 2:48 | 2025-05-30 | 2025-07-19 |
+| [Es tan fácil](https://open.spotify.com/track/6Cwx6t3sU1Lk9l2oo3CKbT) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [Es tan fácil](https://open.spotify.com/album/12Mokzh0sFscRg9U7YHvUm) | 3:18 | 2026-02-13 |  |
 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 | 2024-08-09 | 2024-11-23 |
 | [escapar de mí](https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [escapar de mí](https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1) | 3:48 | 2024-03-15 | 2024-06-08 |
 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-09-09 | 2023-03-11 |
@@ -773,6 +775,7 @@
 | [Paciencia \(Arial 6\)](https://open.spotify.com/track/5bCVgSGP4VKDyyY5xUFHpZ) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Paciencia \(Arial 6\)](https://open.spotify.com/album/3eC8nTX0FPZ7T9Teo7InZ6) | 3:10 | 2024-09-13 | 2024-10-12 |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-07-01 | 2022-10-29 |
 | [PAENAMORAR](https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [PAENAMORAR](https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj) | 2:58 | 2023-11-10 | 2024-04-06 |
+| [Palabras](https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Canto Pa No Llorar](https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf) | 3:02 | 2026-02-13 |  |
 | [Palabras De Papel \(Veneno\)](https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Felicidad y Otros Mitos](https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI) | 3:21 | 2023-09-08 | 2024-01-28 |
 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 | 2023-09-01 | 2023-10-30 |
 | [Papeles](https://open.spotify.com/track/0vVebEdgHxQAi7ksITt9Jx) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Papeles](https://open.spotify.com/album/44YsTX2SYhfnvGZnCBI6hE) | 2:43 | 2022-07-01 | 2022-07-26 |

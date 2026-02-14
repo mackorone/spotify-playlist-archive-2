@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,402 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,406 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 61 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
 | 62 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
 | 63 | [Ondatonda](https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [ONDATONDA](https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG) | 3:31 |
-| 64 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
-| 65 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
+| 64 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
+| 65 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
 | 66 | [Dragon](https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3) | 3:01 |
 | 67 | [Big Boy Tracks](https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Big Boy Tracks](https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK) | 3:41 |
 | 68 | [Softening](https://open.spotify.com/track/4ZPVQ5HTTpanWNGGwjMmPD) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:33 |

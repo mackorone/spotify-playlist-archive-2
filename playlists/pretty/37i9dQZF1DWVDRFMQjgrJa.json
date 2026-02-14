@@ -1,6 +1,6 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 327032,
+  "num_followers": 327121,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANcj6mbSAZQkbPpJOcY79CzQAboR",
   "tracks": [
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
-    },
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -179,18 +179,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
       },
       "artists": [
         {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+      "duration_ms": 155144,
+      "name": "En La Barra",
+      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
         "name": "Que De Raro Tiene",
         "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 195373,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "En La Barra",
-      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -291,22 +291,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Grandes Duetos",
-        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 178932,
-      "name": "Bandido De Amores",
-      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -327,34 +323,22 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
-      },
-      "artists": [
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -371,6 +355,22 @@
       "duration_ms": 156866,
       "name": "Hermoso Cari\u00f1o",
       "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 235906,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "20 Memorias Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "El Rey De Mil Coronas",
-      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 240624,
       "name": "La Historia (En Vivo)",
       "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "El Rey De Mil Coronas",
+      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 161226,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Mi Buen Amante",
+      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Mi Buen Amante",
-      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Plaza Nueva",
-        "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Muchachita de Ojos Tristes - Banda Version",
-      "url": "https://open.spotify.com/track/1PzeC9bXESHGvPhNMYn0hd"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Con Experiencia Y Juventud",
         "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+        "name": "Plaza Nueva",
+        "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Al Estilo Rancheron",
-      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
+      "duration_ms": 207533,
+      "name": "Muchachita de Ojos Tristes - Banda Version",
+      "url": "https://open.spotify.com/track/1PzeC9bXESHGvPhNMYn0hd"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1363,6 +1347,22 @@
       "duration_ms": 151510,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Yo Vendo Unos Ojos Verdes",
         "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Canciones Tristes Canciones",
-        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja de Jose Leon",
-          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "El Diablo En Una Botella",
-      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 234416,
       "name": "El Vaso Derrama - En Vivo",
       "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Canciones Tristes Canciones",
+        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja de Jose Leon",
+          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "El Diablo En Una Botella",
+      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 - Mexico)",
-        "url": "https://open.spotify.com/album/1O7FgObNhY9QVdLxO636Xs"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Te Quiero Mucho",
-      "url": "https://open.spotify.com/track/6l6gnB0E9BxlryxdfLm1ZX"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Debajo De Los Laureles",
         "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 151742,
       "name": "Debajo De Los Laureles",
       "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 - Mexico)",
+        "url": "https://open.spotify.com/album/1O7FgObNhY9QVdLxO636Xs"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/6l6gnB0E9BxlryxdfLm1ZX"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Raite Pa' Con Diosito",
-        "url": "https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 124677,
-      "name": "Raite Pa' Con Diosito",
-      "url": "https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -2435,22 +2419,34 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+        "name": "Raite Pa' Con Diosito",
+        "url": "https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 175415,
-      "name": "Florita Del Alma",
-      "url": "https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK"
+      "duration_ms": 124677,
+      "name": "Raite Pa' Con Diosito",
+      "url": "https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr"
     }
   ],
   "unique_name": "Llegando al Rancho",

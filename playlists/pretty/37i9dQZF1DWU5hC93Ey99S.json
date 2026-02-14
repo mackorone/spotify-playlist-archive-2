@@ -1,6 +1,6 @@
 {
   "description": "all the stutter, all the feels. ",
-  "num_followers": 222516,
+  "num_followers": 222634,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
@@ -115,8 +115,8 @@
     {
       "added_at": "2026-02-12 23:00:46",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H"
       },
       "artists": [
         {
@@ -124,8 +124,8 @@
           "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 143038,
+      "name": "HOLD ON",
       "url": "https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU"
     },
     {
@@ -322,6 +322,10 @@
         {
           "name": "Coco & Breezy",
           "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Hadiya George",
+          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
         }
       ],
       "duration_ms": 195716,

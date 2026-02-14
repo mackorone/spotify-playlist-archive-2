@@ -1,13 +1,97 @@
 {
-  "description": "EJAE is having a main pop girl emergency!",
-  "num_followers": 222108,
+  "description": "Ericka Jane is having a main pop girl emergency!",
+  "num_followers": 222195,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHYkfd8Umshnbwz5Gi2npoeGmdt",
+  "snapshot_id": "AAAAAL6K/vVZ4OijUMHlm24qt1TbzbcQ",
   "tracks": [
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "Death Of Me",
+        "url": "https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW"
+      },
+      "artists": [
+        {
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+        }
+      ],
+      "duration_ms": 180408,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 182038,
+      "name": "Dying for You",
+      "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
+    },
     {
       "added_at": "2026-02-06 05:00:02",
       "album": {
@@ -23,6 +107,74 @@
       "duration_ms": 168298,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "ANXIOUS TO LOVE YOU",
+        "url": "https://open.spotify.com/album/0ZZRL43AgpJAna8uDH1b0w"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "ANXIOUS TO LOVE YOU",
+      "url": "https://open.spotify.com/track/7nCKE7GbXitx9sLjc7jmqV"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 171386,
+      "name": "Truth Of Pursuit",
+      "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Stateside + Zara Larsson",
+        "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Ain't Today",
+        "url": "https://open.spotify.com/album/6GexyDP7V43ceAa1PqKTEq"
+      },
+      "artists": [
+        {
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+        }
+      ],
+      "duration_ms": 160980,
+      "name": "Ain't Today",
+      "url": "https://open.spotify.com/track/6jUSZ7pXIrPXAUusFXA5Iy"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -41,20 +193,68 @@
       "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
+      "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Death Of Me",
-        "url": "https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW"
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7"
       },
       "artists": [
         {
-          "name": "Ericka Jane",
-          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 180408,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT"
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
+    },
+    {
+      "added_at": "2026-02-03 17:41:02",
+      "album": {
+        "name": "What Could Possibly Go Wrong?",
+        "url": "https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 207227,
+      "name": "What Could Possibly Go Wrong?",
+      "url": "https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Recreational",
+        "url": "https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "duration_ms": 193911,
+      "name": "Recreational",
+      "url": "https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk"
     },
     {
       "added_at": "2026-02-06 05:00:02",
@@ -71,6 +271,22 @@
       "duration_ms": 168111,
       "name": "rager",
       "url": "https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/5map5mUcTARef4QIKuj8Hf"
+      },
+      "artists": [
+        {
+          "name": "Sissal",
+          "url": "https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2hljNj7WvI5hEHzC4qFWoz"
     },
     {
       "added_at": "2026-02-06 05:00:02",
@@ -113,24 +329,20 @@
       "url": "https://open.spotify.com/track/1LrP3NxSkhULxoVxXmkGHU"
     },
     {
-      "added_at": "2025-10-17 04:00:35",
+      "added_at": "2026-02-06 05:00:02",
       "album": {
-        "name": "Stateside + Zara Larsson",
-        "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
+        "name": "My System",
+        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
       "added_at": "2026-02-06 05:00:02",
@@ -151,22 +363,6 @@
       "duration_ms": 224300,
       "name": "Sexistential - Arca\u2019s Take",
       "url": "https://open.spotify.com/track/6EqCdqx5oY3J9PUsq54AMp"
-    },
-    {
-      "added_at": "2026-02-03 17:41:02",
-      "album": {
-        "name": "What Could Possibly Go Wrong?",
-        "url": "https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO"
-      },
-      "artists": [
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 207227,
-      "name": "What Could Possibly Go Wrong?",
-      "url": "https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -267,22 +463,6 @@
       "duration_ms": 178181,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/24akkpWAHCec0hXyN9R1ct"
-    },
-    {
-      "added_at": "2026-02-06 05:00:02",
-      "album": {
-        "name": "My System",
-        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "My System",
-      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -593,26 +773,6 @@
       "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
     },
     {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Phantom Feelings (Feat. Frankie Grande)",
-        "url": "https://open.spotify.com/album/7qGgHffb271Vyz38yUlDIb"
-      },
-      "artists": [
-        {
-          "name": "Bentley Robles",
-          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
-        },
-        {
-          "name": "Frankie Grande",
-          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
-        }
-      ],
-      "duration_ms": 183505,
-      "name": "Phantom Feelings (Feat. Frankie Grande)",
-      "url": "https://open.spotify.com/track/6MCjYReoo8piMjsINP3NAJ"
-    },
-    {
       "added_at": "2026-01-09 05:00:44",
       "album": {
         "name": "cul-de-sac",
@@ -813,22 +973,6 @@
       "url": "https://open.spotify.com/track/2ozy7riT1NRGwa7dLYQ9PW"
     },
     {
-      "added_at": "2025-12-12 05:00:46",
-      "album": {
-        "name": "When He Treats You Wrong",
-        "url": "https://open.spotify.com/album/6owNr7PFpaWrk8run4legP"
-      },
-      "artists": [
-        {
-          "name": "West Gura",
-          "url": "https://open.spotify.com/artist/2TOCJEnGdD4AkavOoxmZ2W"
-        }
-      ],
-      "duration_ms": 184313,
-      "name": "When He Treats You Wrong",
-      "url": "https://open.spotify.com/track/2EL4T4hNBeBoMmgi3nB1ak"
-    },
-    {
       "added_at": "2025-11-14 05:00:35",
       "album": {
         "name": "Dopamine",
@@ -883,22 +1027,6 @@
       "duration_ms": 172497,
       "name": "Thrill of the Night",
       "url": "https://open.spotify.com/track/2PpHVDPumqhwDtnz1cx6bL"
-    },
-    {
-      "added_at": "2025-12-05 05:17:19",
-      "album": {
-        "name": "Boy Bye",
-        "url": "https://open.spotify.com/album/65pn8CVcUc0jY2Zh4THSVX"
-      },
-      "artists": [
-        {
-          "name": "Valentino Indy",
-          "url": "https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n"
-        }
-      ],
-      "duration_ms": 134181,
-      "name": "Boy Bye",
-      "url": "https://open.spotify.com/track/4O6tEQJRrV4TA1YDR0OjuD"
     },
     {
       "added_at": "2025-11-28 05:21:59",
@@ -1357,22 +1485,6 @@
       "url": "https://open.spotify.com/track/4GIiIHBckthRZQDwg4wNKO"
     },
     {
-      "added_at": "2025-10-24 14:52:24",
-      "album": {
-        "name": "PRINCESS OF POWER (DELUXE)",
-        "url": "https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 168957,
-      "name": "KEY TO THE CASTLE",
-      "url": "https://open.spotify.com/track/3Low5wYPYQGcwDHvSQRw9H"
-    },
-    {
       "added_at": "2025-10-10 04:00:49",
       "album": {
         "name": "Supermarket",
@@ -1387,22 +1499,6 @@
       "duration_ms": 184155,
       "name": "Supermarket",
       "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Passenger Princess",
-        "url": "https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 135116,
-      "name": "Passenger Princess",
-      "url": "https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix"
     },
     {
       "added_at": "2025-09-26 04:00:24",
@@ -1453,42 +1549,6 @@
       "url": "https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr"
     },
     {
-      "added_at": "2025-10-03 04:00:53",
-      "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/60mEIQgI9H5jdxRtMckHfp"
-      },
-      "artists": [
-        {
-          "name": "ChiChi",
-          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/7kN0fXoo4jzicV2hhvnrkn"
-    },
-    {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap"
-    },
-    {
       "added_at": "2025-09-26 04:00:24",
       "album": {
         "name": "Fleeting",
@@ -1505,42 +1565,6 @@
       "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
     },
     {
-      "added_at": "2025-09-12 04:10:01",
-      "album": {
-        "name": "SISTER",
-        "url": "https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "RADIO (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx"
-    },
-    {
-      "added_at": "2025-08-22 04:00:35",
-      "album": {
-        "name": "The Provocateur",
-        "url": "https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "SexOnTheBeat",
-      "url": "https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w"
-    },
-    {
       "added_at": "2025-08-29 04:28:02",
       "album": {
         "name": "Man\u2019s Best Friend",
@@ -1555,22 +1579,6 @@
       "duration_ms": 225084,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
-    },
-    {
-      "added_at": "2025-08-22 04:00:35",
-      "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
       "added_at": "2025-08-22 04:00:35",

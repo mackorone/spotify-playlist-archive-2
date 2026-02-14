@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > In this house we celebrate Australian music\. Cover: Chet Faker
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,829 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,813 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [](https://open.spotify.com/album/null) | 4:04 |
-| 2 | [Track 7](https://open.spotify.com/track/68MVhCraIUdjnZcaGUxz9q) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [](https://open.spotify.com/album/null) | 0:00 |
-| 3 | [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [](https://open.spotify.com/album/null) | 3:17 |
+| 1 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 |
+| 2 | [More](https://open.spotify.com/track/68MVhCraIUdjnZcaGUxz9q) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Capital Fiction](https://open.spotify.com/album/4GTImPrNHiyT4bRKMfMiZk) | 2:16 |
+| 3 | [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes a Girl a Girl](https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ) | 3:17 |
 | 4 | [Foxtrap](https://open.spotify.com/track/7oBXofppxSrXALXG0Agcnv) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Foxtrap](https://open.spotify.com/album/01mswWCdsOBOKGQHcPVjC2) | 3:04 |
 | 5 | [BLEACH](https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [BLEACH](https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO) | 2:28 |
 | 6 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 39 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 |
 | 40 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 |
 | 41 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 |
-| 42 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
-| 43 | [House Of Cards](https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House Of Cards](https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L) | 3:26 |
+| 42 | [House Of Cards](https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House Of Cards](https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L) | 3:26 |
+| 43 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
 | 44 | [System](https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [System](https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk) | 3:21 |
 | 45 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 |
 | 46 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 57 | [Call My Name](https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Call My Name](https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq) | 5:03 |
 | 58 | [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 |
 | 59 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 |
-| 60 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
-| 61 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
-| 62 | [GEEKD](https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [GEEKD](https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd) | 2:11 |
-| 63 | [Rain](https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6) | 3:28 |
+| 60 | [Rain](https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6) | 3:28 |
+| 61 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
+| 62 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
+| 63 | [GEEKD](https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [GEEKD](https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd) | 2:11 |
 | 64 | [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 |
 | 65 | [FACEDOWN](https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [FACEDOWN](https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee) | 3:41 |
 | 66 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 69 | [Boyband](https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Boyband](https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl) | 2:57 |
 | 70 | [Back To You](https://open.spotify.com/track/5fw5edT2Iu243gaNQbZwxC) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Back To You](https://open.spotify.com/album/1GRGtFtuMOIoxIZuw2i4oF) | 3:10 |
 | 71 | [Please Don't Move To Melbourne](https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Please Don't Move To Melbourne](https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz) | 4:51 |
-| 72 | [Fallen Angel](https://open.spotify.com/track/1ij4ptkOTHNXvRCySVHYrf) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Fallen Angel](https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u) | 2:45 |
-| 73 | [45](https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [45](https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE) | 3:17 |
+| 72 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
+| 73 | [Fallen Angel](https://open.spotify.com/track/1ij4ptkOTHNXvRCySVHYrf) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Fallen Angel](https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u) | 2:45 |
 | 74 | [REMIND ME](https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [REMIND ME](https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu) | 3:34 |
-| 75 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 |
+| 75 | [Over You](https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Over You](https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y) | 4:44 |
 
 Snapshot ID: `AAAAAA+AA/uy9MQUG/tuM7X/FTpgHD55`

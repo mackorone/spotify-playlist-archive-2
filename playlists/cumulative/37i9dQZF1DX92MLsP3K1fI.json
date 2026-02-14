@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Jacinto en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kenia OS en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 137500,
       "name": "31 de febrero",
       "url": "https://open.spotify.com/track/4uHH8Gko8qqi9dBOd2z9He"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 174460,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 160322,
       "name": "Cuando Estamos Solas",
       "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Dmentes",
+        "url": "https://open.spotify.com/album/6lMLfxCtMZ81byoSxyKPsu"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Dmentes",
+      "url": "https://open.spotify.com/track/4JCXV1hCrHFV0YiAe6KhV3"
+    },
+    {
+      "album": {
         "name": "ARENBI",
         "url": "https://open.spotify.com/album/6T3L1YGecsCqOvXA5W1ML9"
       },
@@ -3534,6 +3552,24 @@
       "duration_ms": 162037,
       "name": "efectos secundarios",
       "url": "https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD"
+    },
+    {
+      "album": {
+        "name": "El Amor De Mi Vida",
+        "url": "https://open.spotify.com/album/6KJSvCGQXf1B0LBQFgolj8"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228608,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/1lAkPVAzytqPPhfzLUIGP7"
     },
     {
       "album": {
@@ -4835,6 +4871,24 @@
     },
     {
       "album": {
+        "name": "Helao",
+        "url": "https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Helao",
+      "url": "https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB"
+    },
+    {
+      "album": {
         "name": "Hermosa Casualidad",
         "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
       },
@@ -5740,7 +5794,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
@@ -5762,6 +5816,24 @@
       "duration_ms": 195892,
       "name": "Limonar",
       "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
+    },
+    {
+      "album": {
+        "name": "Lluvia de Estrellas (Jotdog Version)",
+        "url": "https://open.spotify.com/album/2NhZkfJloaS9ihsw1fcQeK"
+      },
+      "artists": [
+        {
+          "name": "Jotdog",
+          "url": "https://open.spotify.com/artist/6rfFUodEv0dJxD1mKbDNdF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Lluvia de Estrellas - Jotdog Version",
+      "url": "https://open.spotify.com/track/3h2FxOdtAksviVqK3R6C9F"
     },
     {
       "album": {
@@ -5886,6 +5958,24 @@
       "duration_ms": 186753,
       "name": "Love",
       "url": "https://open.spotify.com/track/3hlour26oqaPGvUeuRxwtl"
+    },
+    {
+      "album": {
+        "name": "lovebombing? - vicio",
+        "url": "https://open.spotify.com/album/37Icwni7rDsZMat2MLWvmC"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "lovebombing?",
+      "url": "https://open.spotify.com/track/6m9e1J4922x6mLh2ihTKEi"
     },
     {
       "album": {
@@ -7832,10 +7922,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 240000,
       "name": "Oro",
       "url": "https://open.spotify.com/track/1AcoghNuDqCo4WoUqjYYG0"
+    },
+    {
+      "album": {
+        "name": "Otra Vez (One More Time)",
+        "url": "https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193161,
+      "name": "Otra Vez (One More Time)",
+      "url": "https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj"
     },
     {
       "album": {
@@ -8222,7 +8330,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 211084,
       "name": "pelinegra",
       "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
@@ -9605,6 +9713,24 @@
     },
     {
       "album": {
+        "name": "siempre quiero +",
+        "url": "https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190340,
+      "name": "siempre quiero +",
+      "url": "https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU"
+    },
+    {
+      "album": {
         "name": "Siempre T\u00fa",
         "url": "https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr"
       },
@@ -10210,7 +10336,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176106,
       "name": "Tal Vez (2:22 AM)",
       "url": "https://open.spotify.com/track/3M4LxWgOK73cfK5yU9U8ZP"
@@ -11081,6 +11207,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa y Yo X Siempre",
+        "url": "https://open.spotify.com/album/3E0UYsVU8PxkYYMF7ibS2Q"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184449,
+      "name": "T\u00fa y Yo X Siempre",
+      "url": "https://open.spotify.com/track/4RJMnTu2ZiQupxcooMWGEZ"
+    },
+    {
+      "album": {
         "name": "Un Beso Menos",
         "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
       },
@@ -11752,7 +11896,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 189693,
       "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
       "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"

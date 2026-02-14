@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADRePIcvq0F1Rjry4doYUST",
+  "snapshot_id": "aY0YAAAAAADTFKnzDgnfnUklPXVSWTzr",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 195706,
       "name": "Legacy - Radio Edit",
       "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Surrender The Throne",
-      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Wet",
         "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 205160,
       "name": "Come & Get It",
       "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Surrender The Throne",
+      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
     },
     {
       "added_at": null,
@@ -799,6 +799,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't That Why (Skytech Remix)",
+        "url": "https://open.spotify.com/album/4CXlzM5U8VUpkQUk6JazmV"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Ain't That Why - Skytech Remix",
+      "url": "https://open.spotify.com/track/2Zf4tyy5xNiHQkVl9NrBX5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Liar",
         "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
@@ -827,30 +851,6 @@
       "duration_ms": 191420,
       "name": "TH2C",
       "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't That Why (Skytech Remix)",
-        "url": "https://open.spotify.com/album/4CXlzM5U8VUpkQUk6JazmV"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Ain't That Why - Skytech Remix",
-      "url": "https://open.spotify.com/track/2Zf4tyy5xNiHQkVl9NrBX5"
     },
     {
       "added_at": null,

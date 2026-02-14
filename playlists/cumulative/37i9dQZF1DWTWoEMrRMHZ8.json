@@ -4151,6 +4151,28 @@
     },
     {
       "album": {
+        "name": "Capit\u00e3o Kirk",
+        "url": "https://open.spotify.com/album/5dthuR842CeJx8AnfMwHYL"
+      },
+      "artists": [
+        {
+          "name": "Decio Rocha",
+          "url": "https://open.spotify.com/artist/6XQyz4g6uEl2MIT1BNtzq0"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189144,
+      "name": "Capit\u00e3o Kirk",
+      "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
+    },
+    {
+      "album": {
         "name": "SINC\u00c9RICO BR\u00c1SILEIRO",
         "url": "https://open.spotify.com/album/7aqMFZfzLpnbXtjXdCx4qr"
       },
@@ -13965,7 +13987,7 @@
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213818,
+      "duration_ms": 213810,
       "name": "O Que Ser\u00e1 N\u00f3s Dois",
       "url": "https://open.spotify.com/track/45bFBXL8loxclYoIhCtpWG"
     },
@@ -14204,7 +14226,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 179400,
       "name": "Odara",
       "url": "https://open.spotify.com/track/6JG1JovE1ziFvCveo3mzCC"
@@ -16838,7 +16860,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 167338,
       "name": "Quando Vai Chegar",
       "url": "https://open.spotify.com/track/0nGysyZRtz89sFfbjlpwaD"
@@ -18140,6 +18162,24 @@
       "duration_ms": 211000,
       "name": "Samba e Amor",
       "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
+    },
+    {
+      "album": {
+        "name": "Sambadouro",
+        "url": "https://open.spotify.com/album/7yj8vRnoMRG3tA3slRQOl1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216408,
+      "name": "Sambadouro",
+      "url": "https://open.spotify.com/track/63l1FU5mLWz51aaTmCoxNz"
     },
     {
       "album": {

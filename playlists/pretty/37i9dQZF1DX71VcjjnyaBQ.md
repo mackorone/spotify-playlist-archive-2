@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,242 likes - 90 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,270 likes - 90 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 43 | [Uncle John’s Band](https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo) | 6:26 |
 | 44 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 |
 | 45 | [Nancy](https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i) | 6:06 |
-| 46 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
-| 47 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 |
+| 46 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 |
+| 47 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
 | 48 | [Amelia](https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Amelia](https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3) | 7:02 |
 | 49 | [Where We Belong](https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Paul Svanberg](https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX) | [Where We Belong](https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox) | 6:11 |
 | 50 | [Dear Don](https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4) | [Christophe Marguet](https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ) | [Happy Hours](https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r) | 6:37 |

@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
+    },
+    {
+      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -563,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -652,6 +692,28 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo"
+    },
+    {
+      "album": {
+        "name": "Love Is Religion (The Blessed Madonna Remix)",
+        "url": "https://open.spotify.com/album/4T1WfcceW8sKryQandUzjt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220146,
+      "name": "Love Is Religion (The Blessed Madonna Remix)",
+      "url": "https://open.spotify.com/track/1LEHndIydBAjB5ZSQqxPH5"
     },
     {
       "album": {
@@ -885,6 +947,54 @@
     },
     {
       "album": {
+        "name": "Physical (feat. Gwen Stefani) [Mark Ronson Remix]",
+        "url": "https://open.spotify.com/album/3EpFK0BdQC9yjUs4Buljuu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186426,
+      "name": "Physical (feat. Gwen Stefani) - Mark Ronson Remix",
+      "url": "https://open.spotify.com/track/7eFxsgvcmw068MRDOBuYf5"
+    },
+    {
+      "album": {
+        "name": "Physical (feat. Troye Sivan)",
+        "url": "https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192799,
+      "name": "Physical (feat. Troye Sivan)",
+      "url": "https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH"
+    },
+    {
+      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -1067,6 +1177,50 @@
     },
     {
       "album": {
+        "name": "These Walls (feat. Pierre de Maere)",
+        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217597,
+      "name": "These Walls (feat. Pierre de Maere)",
+      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
+    },
+    {
+      "album": {
+        "name": "Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards)",
+        "url": "https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277066,
+      "name": "Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards)",
+      "url": "https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS"
+    },
+    {
+      "album": {
         "name": "Thinking 'Bout You",
         "url": "https://open.spotify.com/album/3J7J77jXl24OixprloNzk8"
       },
@@ -1100,6 +1254,28 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "album": {

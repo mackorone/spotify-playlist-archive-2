@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 162103,
+  "num_followers": 162128,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADYDHHaf3YKTLJ7TVV/y3Tf",
+  "snapshot_id": "aY0YAAAAAABQokNkLguPCPEgqVvj9QVc",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llegando Al 100%",
-        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 320293,
-      "name": "Mi Pueblo Natal",
-      "url": "https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ"
+      "duration_ms": 360066,
+      "name": "Del Puente Pa' All\u00e1",
+      "url": "https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfo",
-        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+        "name": "Llegando Al 100%",
+        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 360066,
-      "name": "Del Puente Pa' All\u00e1",
-      "url": "https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV"
+      "duration_ms": 320293,
+      "name": "Mi Pueblo Natal",
+      "url": "https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Aventura...La Historia",
         "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 335986,
-      "name": "Mi Hijo y Yo",
-      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 297061,
       "name": "Cl\u00e1sicos 1.0: Entrega",
       "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 335986,
+      "name": "Mi Hijo y Yo",
+      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 282466,
-      "name": "Atrevida",
-      "url": "https://open.spotify.com/track/1jV0IFiUu0NqQgx1T7idQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1ales de Humo",
         "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 315600,
       "name": "Mujer de Novela",
       "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 282466,
+      "name": "Atrevida",
+      "url": "https://open.spotify.com/track/1jV0IFiUu0NqQgx1T7idQZ"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Mi Valle del Cauca",
-      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 356640,
       "name": "Solo un Cari\u00f1o",
       "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Mi Valle del Cauca",
+      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "El Amor Vendr\u00e1",
-      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 287000,
       "name": "Rupelto Mena",
       "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 291893,
+      "name": "El Amor Vendr\u00e1",
+      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Golpe de Folklore",
-        "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 282536,
-      "name": "Han Cogido la Cosa",
-      "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Pachanguero 40 A\u00f1os",
         "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 287093,
       "name": "Cali Pachanguero 40 A\u00f1os",
       "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Golpe de Folklore",
+        "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 282536,
+      "name": "Han Cogido la Cosa",
+      "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
     },
     {
       "added_at": null,

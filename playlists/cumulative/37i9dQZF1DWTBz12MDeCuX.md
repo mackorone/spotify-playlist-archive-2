@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Isabel LaRosa
 
-3,240 songs - 6 day 6 hr 56 min
+3,240 songs - 6 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1576,7 +1576,7 @@
 | [Kompliziert \(Beatgees Single Mix\)](https://open.spotify.com/track/3Ps99GTz3XutGg1o1XNQcn) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:14 | 2023-04-27 | 2023-06-07 |
 | [KONTROLLE](https://open.spotify.com/track/57JYAG3xVlDe2vbedUy5JQ) | [KIKI](https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo) | [KONTROLLE](https://open.spotify.com/album/55BKb4Szma7ddW7x1f7NzO) | 2:54 | 2025-11-27 | 2025-12-12 |
 | [kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [kontrollverlust](https://open.spotify.com/album/1XyT1LjPfmbbi6GGM9feNM) | 2:54 | 2023-11-09 | 2024-01-12 |
-| [KOPFDOKTOR](https://open.spotify.com/track/1TdhVjixHKtPOu0hsbsxJF) | [KIKI](https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo) | [](https://open.spotify.com/album/null) | 2:56 | 2026-02-12 |  |
+| [KOPFDOKTOR](https://open.spotify.com/track/1TdhVjixHKtPOu0hsbsxJF) | [KIKI](https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo) | [SCHLAFEN KANN ICH WENN ICH TOT BIN](https://open.spotify.com/album/0oDD1Slz3vWlTCzk7MABXd) | 2:56 | 2026-02-12 |  |
 | [Kosmos im Chaos](https://open.spotify.com/track/0KU8t0LVqXeS4GoihJ3skQ) | [XAVER](https://open.spotify.com/artist/2XGaD0VuieQxr4zvfjDzmC), [Janluka](https://open.spotify.com/artist/0lU3zwCKkKzKSbQC0xPZsI), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Kosmos im Chaos](https://open.spotify.com/album/2a8AOYd7eXxpyf7ywXxmkK) | 1:55 | 2022-12-15 | 2023-01-07 |
 | [Kotti d'Azur](https://open.spotify.com/track/1DoKidkFLUJeiFtmhmUQm5) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Kotti d'Azur](https://open.spotify.com/album/70K6Hp3TXk8gAgabJFtcPB) | 2:43 | 2025-07-31 | 2025-09-19 |
 | [Krankenwagen](https://open.spotify.com/track/5WVxhudnDL0ySrIsuSxVJP) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Krankenwagen](https://open.spotify.com/album/0SE23i4WTPWGguwDof5NwA) | 2:24 | 2023-02-09 | 2023-03-03 |
@@ -1862,6 +1862,7 @@
 | [Mit Dir](https://open.spotify.com/track/6TyQQqKQpaBCXPkhM7QmGq) | [Sean Ok](https://open.spotify.com/artist/1bsrTaW6CckCpXMVCVRD2y) | [Mit Dir](https://open.spotify.com/album/7826zI710TsTIJM2jao3EE) | 3:42 | 2026-02-05 |  |
 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 | 2024-10-11 | 2025-01-17 |
 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-05-23 | 2024-08-24 |
+| [mitternacht](https://open.spotify.com/track/2WHxny6MgCVJTMMGt6R7kl) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [mitternacht](https://open.spotify.com/album/6sPAArJU3y6Cs4lJ8FVPfY) | 2:32 | 2026-02-12 |  |
 | [mitternacht](https://open.spotify.com/track/4AHCFsAT9wNWFHv0hxq3tb) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [mitternacht](https://open.spotify.com/album/6p6oE4QlYjl9MDyS1bFx8H) | 2:26 | 2024-11-14 | 2025-01-18 |
 | [Mitternacht](https://open.spotify.com/track/4HIiTdeoKrcNjrWaFbgk4G) | [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Mitternacht](https://open.spotify.com/album/5usJEjNG3jHk3EWQT5IQ9c) | 2:13 | 2023-04-06 | 2023-05-05 |
 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 | 2023-11-16 | 2024-01-26 |
@@ -2792,9 +2793,7 @@
 | [Tour de Berlin](https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Tour de Berlin](https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod) | 2:31 | 2022-11-03 | 2023-02-24 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
-| [Track 1](https://open.spotify.com/track/2WHxny6MgCVJTMMGt6R7kl) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 5](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |
@@ -2840,6 +2839,7 @@
 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 | 2025-01-27 | 2025-02-28 |
 | [TWO SUGARS](https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:55 | 2022-09-15 | 2022-11-04 |
 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 | 2023-05-18 | 2023-09-22 |
+| [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 | 2026-02-12 |  |
 | [u so pretty](https://open.spotify.com/track/3s7LpCy7cIlmGDBV56xfH3) | [oddworld](https://open.spotify.com/artist/4moOyBAkXsIAbF3pplCtv8), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [u so pretty](https://open.spotify.com/album/3bVjIilc25nXHu3t4nOG6d) | 2:02 | 2025-03-13 | 2025-04-11 |
 | [UBER INS ABYSS \(feat\. Wa22ermann\)](https://open.spotify.com/track/2jDbc10ET42JZMLJ1M5uoJ) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [ASPARTAM\-BITTER](https://open.spotify.com/album/47VYg7TN4eKlJ6eNSV4zTo) | 2:18 | 2024-10-24 | 2024-11-01 |
 | [Uber X \(Kathryn's Song\)](https://open.spotify.com/track/6CYiZCYcKNHdQhDyCEJg9G) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Uber X \(Kathryn's Song\)](https://open.spotify.com/album/0vdg5zrk3TcysBnf9diizZ) | 2:32 | 2023-04-20 | 2023-04-28 |

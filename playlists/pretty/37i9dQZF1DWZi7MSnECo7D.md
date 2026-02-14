@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: pedro lanches, YMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,011 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,937 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 59 | [Mandrião \(Vida e Obra\) \- Demo 2](https://open.spotify.com/track/7kHH0LYG6Rmi6qE8Jp7SGA) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr) | [Mandrião \(Vida e Obra\) \- Demo 2](https://open.spotify.com/album/1PRMWQZFUBDOeDEkjqBrxI) | 2:55 |
 | 60 | [Entretenimento](https://open.spotify.com/track/6cQRPykiP3e5WfDuwFrHkB) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Entretenimento](https://open.spotify.com/album/4SOEQ6rWFHy2BmZQUjluT8) | 2:44 |
 
-Snapshot ID: `AAAAAOd9AQKpbtdk6RV0g/wrW00BlhK+`
+Snapshot ID: `AAAAAFIWlb96Js4wnY0CtG6dy8Z6i+sz`

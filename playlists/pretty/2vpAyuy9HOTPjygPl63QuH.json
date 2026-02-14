@@ -1,15 +1,15 @@
 {
-  "description": "the final boss of house playlists. | minimal tech - tech house - zara house - rally house - droid house - club mix - dj music - workout music",
-  "num_followers": 15119,
+  "description": "the final boss of house playlists. | minimal tech - tech house - rally house - droid house - club mix - dj music - workout music - bass house",
+  "num_followers": 15126,
   "original_name": "tuff house music \ud83d\ude24",
   "owner": {
     "name": "tuff house music",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAn6Sb+lonWTbowSFIYfUKip7ik7jbn",
+  "snapshot_id": "AAAoBJBwYKGfv9qdiGrcQ8K/R2yj5/fW",
   "tracks": [
     {
-      "added_at": "2026-02-06 11:30:29",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Out of My Mind EP",
         "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
-      "added_at": "2026-01-30 10:02:34",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Hell Yeah (Feat. Waxmaster)",
         "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
     },
     {
-      "added_at": "2026-02-06 11:31:04",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "No Hesitating (Max Dean Remix)",
         "url": "https://open.spotify.com/album/1awnJYspbXb7Ge3hNDX0QK"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
     },
     {
-      "added_at": "2026-01-30 10:00:46",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Make My Day",
         "url": "https://open.spotify.com/album/6cQSuvnkSmmgHve6ZiwR4f"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
     },
     {
-      "added_at": "2026-02-06 11:30:49",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "neck",
         "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
-      "added_at": "2026-01-16 00:15:45",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Tap That",
         "url": "https://open.spotify.com/album/7iLjS24vCdwEHXTENrz9TD"
@@ -117,7 +117,27 @@
       "url": "https://open.spotify.com/track/10Z2ViSDjIXKW5dB1Oog1X"
     },
     {
-      "added_at": "2026-02-06 11:32:14",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "One More (feat. Ad-Apt)",
+        "url": "https://open.spotify.com/album/09sFieX0gGevzK0TWq27uZ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Ad-Apt",
+          "url": "https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD"
+        }
+      ],
+      "duration_ms": 185859,
+      "name": "One More (feat. Ad-Apt)",
+      "url": "https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Impressive",
         "url": "https://open.spotify.com/album/7t751Owrp6BfQ2ALySrHcb"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/1L0IGzJXz2ja4OzXef1pb5"
     },
     {
-      "added_at": "2026-01-30 10:01:26",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Rudeboy",
         "url": "https://open.spotify.com/album/1a2pFsyTnUU0sZQzjkvRAn"
@@ -153,7 +173,23 @@
       "url": "https://open.spotify.com/track/1mtfcWAyPR0QT7QKd2q0eT"
     },
     {
-      "added_at": "2025-12-05 09:17:56",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/1v6ZOaohO5B5BXGTLuWVXz"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1JKtwVctXIkXbGlMwzTaNI"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Monkey Swag",
         "url": "https://open.spotify.com/album/2iCsyFjifw33UtNrqIScoS"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/29RUgGRvWfUhGMx8AsQBL4"
     },
     {
-      "added_at": "2025-12-19 09:02:45",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Tipsy",
         "url": "https://open.spotify.com/album/6YJyPTi49o3WZIQUQmPnJ9"
@@ -185,7 +221,27 @@
       "url": "https://open.spotify.com/track/1YoJCciEqDYANpvVmqtpWR"
     },
     {
-      "added_at": "2026-01-30 10:01:28",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "Girl on Girl",
+        "url": "https://open.spotify.com/album/5ZoICYgEzwuCGonP4w6qcB"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 255454,
+      "name": "Girl on Girl",
+      "url": "https://open.spotify.com/track/6785lvSkoSl3I5CYtx3fMq"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt"
@@ -201,7 +257,7 @@
       "url": "https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6"
     },
     {
-      "added_at": "2025-10-31 16:49:34",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Rockin' With",
         "url": "https://open.spotify.com/album/0hE8oNAQqvLNVrXpGAXkmR"
@@ -221,23 +277,23 @@
       "url": "https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0"
     },
     {
-      "added_at": "2026-01-23 15:00:49",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
-        "name": "Lemme Talk",
-        "url": "https://open.spotify.com/album/4mbqGioeSTNfqJY3iFXm9x"
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/0qVgvx0KUHlj1yIMoELY2l"
       },
       "artists": [
         {
-          "name": "Cave Studio",
-          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Lemme Talk - Original Mix",
-      "url": "https://open.spotify.com/track/6klDHpbeHfjCL7CjAkTetE"
+      "duration_ms": 181874,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/6a9DlepajlUJPeQ2N6B40L"
     },
     {
-      "added_at": "2026-01-23 15:04:46",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "RITZ",
         "url": "https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP"
@@ -253,7 +309,7 @@
       "url": "https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U"
     },
     {
-      "added_at": "2026-02-06 11:30:41",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "The Button",
         "url": "https://open.spotify.com/album/1FwjdsZ02U5eNpUsMMGWgA"
@@ -269,7 +325,27 @@
       "url": "https://open.spotify.com/track/4B2GQVogNcFOat66WA0uMh"
     },
     {
-      "added_at": "2026-01-23 15:01:17",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "Jaguar (Feat. Eloise Keeble)",
+        "url": "https://open.spotify.com/album/5C59pnQJln6MpUbi2IAFAd"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "duration_ms": 207429,
+      "name": "Jaguar (Feat. Eloise Keeble)",
+      "url": "https://open.spotify.com/track/0FlEMLNFhZ0UrF4hvnoWyY"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "909",
         "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
@@ -289,7 +365,7 @@
       "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
     },
     {
-      "added_at": "2026-01-17 10:02:56",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/2KdxHZiQgGK4wq9HvBF6yr"
@@ -309,7 +385,7 @@
       "url": "https://open.spotify.com/track/3ArJ5pPOS5n6iv6pTWElew"
     },
     {
-      "added_at": "2026-01-23 15:01:02",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Bang That",
         "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
@@ -325,7 +401,7 @@
       "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
     },
     {
-      "added_at": "2026-01-30 10:02:42",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Let It Bang",
         "url": "https://open.spotify.com/album/2MjAMUrFdgEyvxnekcZmqC"
@@ -345,7 +421,7 @@
       "url": "https://open.spotify.com/track/1Nl78W0Ne2EaiFkZVXeccd"
     },
     {
-      "added_at": "2026-01-23 15:00:42",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Funk It",
         "url": "https://open.spotify.com/album/6bswOpzum6jtETRM3oFHJY"
@@ -361,7 +437,7 @@
       "url": "https://open.spotify.com/track/3yFovGJTvTbV1JlbWhvh1y"
     },
     {
-      "added_at": "2025-04-11 08:51:23",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Bad B",
         "url": "https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA"
@@ -377,7 +453,7 @@
       "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
     },
     {
-      "added_at": "2026-01-30 10:01:16",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Funk Phenomenon",
         "url": "https://open.spotify.com/album/1UI1NXZLrR4i56jpg7bZ3a"
@@ -393,7 +469,7 @@
       "url": "https://open.spotify.com/track/0OlT85K7fAZ2Sx6yE0jXEM"
     },
     {
-      "added_at": "2026-01-17 10:03:35",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "The Factory VA Vol. 2",
         "url": "https://open.spotify.com/album/3GhXB8ugQvxF3NNrf47XnO"
@@ -413,7 +489,7 @@
       "url": "https://open.spotify.com/track/1FbcvMS4swPMr6bBHB66Xx"
     },
     {
-      "added_at": "2026-01-30 10:01:06",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Funk Rider",
         "url": "https://open.spotify.com/album/0Smedj3kQlLiwpIsiPSOh3"
@@ -429,7 +505,7 @@
       "url": "https://open.spotify.com/track/6j0mBusF0AtTOEvg5EZrV5"
     },
     {
-      "added_at": "2026-01-23 15:01:34",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Lavender Town",
         "url": "https://open.spotify.com/album/7u5OjlQCGB943E2WPF5Lws"
@@ -445,7 +521,7 @@
       "url": "https://open.spotify.com/track/47e1s0cxP19dr4l3dOAcqv"
     },
     {
-      "added_at": "2026-01-23 15:00:53",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/5cvmFijeT5wI6B6Shy1LBl"
@@ -461,7 +537,7 @@
       "url": "https://open.spotify.com/track/157WqoK6Q8y17d8MpivlFU"
     },
     {
-      "added_at": "2025-08-29 07:53:26",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Big Bad Sound",
         "url": "https://open.spotify.com/album/5kbNQthGaDLvSlczyJnSDM"
@@ -481,7 +557,27 @@
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
     },
     {
-      "added_at": "2026-01-23 15:01:30",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "Glossed Up EP",
+        "url": "https://open.spotify.com/album/72RkzGdY1PTS4HwVt7m9GS"
+      },
+      "artists": [
+        {
+          "name": "Edris Omar",
+          "url": "https://open.spotify.com/artist/2J8mxO9N8VSXiaOk7A6cJE"
+        },
+        {
+          "name": "Lowjess",
+          "url": "https://open.spotify.com/artist/64mtyz3l0N6AK1JhFV4ux1"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Glossed Up",
+      "url": "https://open.spotify.com/track/3sx5vDesjUcgmgsW7elbnB"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "TOOLS 4 HARDWORKERS 006",
         "url": "https://open.spotify.com/album/5kqrsFdNSEup2N3bshTjPZ"
@@ -501,7 +597,7 @@
       "url": "https://open.spotify.com/track/0KCIs7w9HKeoRqseTf0jdH"
     },
     {
-      "added_at": "2025-12-19 09:02:49",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "That's It",
         "url": "https://open.spotify.com/album/2MSB3tPwJQqzGwQV3Gpyn8"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/2IPj5epvs8RHszRf9ddjHS"
     },
     {
-      "added_at": "2026-01-17 10:03:26",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Hot Spot",
         "url": "https://open.spotify.com/album/2LWDtH3hzP2zMvIqQ4dJU2"
@@ -533,7 +629,7 @@
       "url": "https://open.spotify.com/track/0tKvByjw9n564lR0SjtBnx"
     },
     {
-      "added_at": "2026-01-23 15:01:00",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/1aBJSTjI0YP88ZUZRabB6X"
@@ -549,7 +645,7 @@
       "url": "https://open.spotify.com/track/3z6iNWPSuT1YeytMUNlqkP"
     },
     {
-      "added_at": "2026-01-30 10:00:50",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "LICK IT",
         "url": "https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA"
@@ -569,7 +665,7 @@
       "url": "https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y"
     },
     {
-      "added_at": "2025-05-29 23:01:30",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/4364SmixuDHP9XAupp2Uv5"
@@ -585,7 +681,7 @@
       "url": "https://open.spotify.com/track/34QR6gBe0QbYg8gDnzuv7P"
     },
     {
-      "added_at": "2026-01-23 15:03:48",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Mambos",
         "url": "https://open.spotify.com/album/4HikS1roRtAhmCrFlSrvpM"
@@ -601,7 +697,7 @@
       "url": "https://open.spotify.com/track/3gFVvoIXxZkvCd8JhyovgY"
     },
     {
-      "added_at": "2026-01-17 10:02:58",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Twist It",
         "url": "https://open.spotify.com/album/09WfwScc48ji39uTL5RXzL"
@@ -621,7 +717,23 @@
       "url": "https://open.spotify.com/track/1odxo0bx2NenaCwwq69V0A"
     },
     {
-      "added_at": "2026-01-17 10:03:33",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/6O36KmDcrgLTGo89pRqll5"
+      },
+      "artists": [
+        {
+          "name": "Kieran San Jose",
+          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+        }
+      ],
+      "duration_ms": 145459,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/2e9k1CQ5sq1KwMQBuItk1j"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Life Is Just 4 Fun EP",
         "url": "https://open.spotify.com/album/1O9fVyKm4bguciAPt3npYh"
@@ -637,7 +749,27 @@
       "url": "https://open.spotify.com/track/27jDEKr90ftNzfXnQwZLlL"
     },
     {
-      "added_at": "2025-01-24 00:02:20",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "Da Bass",
+        "url": "https://open.spotify.com/album/3ZZTen1HsPQzpCaFzY2Hdv"
+      },
+      "artists": [
+        {
+          "name": "Sielo",
+          "url": "https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP"
+        },
+        {
+          "name": "JUNTARO",
+          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "Da Bass",
+      "url": "https://open.spotify.com/track/6XvzJa5RsWYew3KgD0C4VT"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Vibin\u2019",
         "url": "https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7"
@@ -657,7 +789,7 @@
       "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
     },
     {
-      "added_at": "2026-02-06 11:32:34",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Keep Moving",
         "url": "https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop"
@@ -673,7 +805,7 @@
       "url": "https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ"
     },
     {
-      "added_at": "2026-01-23 15:03:05",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
@@ -689,7 +821,7 @@
       "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
-      "added_at": "2026-01-23 15:00:45",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/7BQMWBSLeAwkets0IKZmxm"
@@ -705,7 +837,27 @@
       "url": "https://open.spotify.com/track/244DeD5GSPtc5oYj85lxlo"
     },
     {
-      "added_at": "2026-01-17 10:03:15",
+      "added_at": "2026-02-13 11:37:35",
+      "album": {
+        "name": "Out OF Control",
+        "url": "https://open.spotify.com/album/4P6qxu5ivoUv8LEpwTubqx"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Aaron Veal",
+          "url": "https://open.spotify.com/artist/2zKQC2yK8SzmHcWhfrFnWL"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Out OF Control",
+      "url": "https://open.spotify.com/track/4T9m1fgJJzernwbN9aqjSA"
+    },
+    {
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Ice In My Eyes",
         "url": "https://open.spotify.com/album/1lPMHePBKwDbVYwcr60iHB"
@@ -721,7 +873,7 @@
       "url": "https://open.spotify.com/track/6h7BeqJkbKztoZxGY8gk1R"
     },
     {
-      "added_at": "2026-01-23 15:03:34",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "The Fix",
         "url": "https://open.spotify.com/album/2BAJVd0LXR1Lv3niX2o6vC"
@@ -737,7 +889,7 @@
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
     },
     {
-      "added_at": "2026-01-17 10:03:02",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Touched EP",
         "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
@@ -753,7 +905,7 @@
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
     },
     {
-      "added_at": "2026-01-17 10:03:17",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/19wqpXo5KGyYLE4QMVCiVj"
@@ -769,7 +921,7 @@
       "url": "https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6"
     },
     {
-      "added_at": "2026-01-17 10:03:30",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/6VfMfYObM7LdE8tNSneHbY"
@@ -789,7 +941,7 @@
       "url": "https://open.spotify.com/track/4gKXDKK8dqwOVkmpXxK8Ql"
     },
     {
-      "added_at": "2026-01-23 15:05:05",
+      "added_at": "2026-02-13 11:37:35",
       "album": {
         "name": "Vibrate",
         "url": "https://open.spotify.com/album/069GoUw1nkxnUcJG74BKuY"
@@ -803,22 +955,6 @@
       "duration_ms": 152709,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/26V7N5MGSUfYILIRGLtW5C"
-    },
-    {
-      "added_at": "2026-01-23 15:01:22",
-      "album": {
-        "name": "Ice",
-        "url": "https://open.spotify.com/album/4mt67VASzQvvah1Fz4JxHh"
-      },
-      "artists": [
-        {
-          "name": "HASKELL",
-          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
-        }
-      ],
-      "duration_ms": 178359,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/2ZSrmhpwpd7KKoM3khQtY0"
     }
   ],
   "unique_name": "tuff house music \ud83d\ude24",

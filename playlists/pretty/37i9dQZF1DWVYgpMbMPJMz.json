@@ -1,15 +1,35 @@
 {
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Tommee Profitt & Phil Wickham",
-  "num_followers": 1038115,
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Passion",
+  "num_followers": 1038316,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlyJyt0VjaMpG+i/lUgKN9zyomu",
+  "snapshot_id": "AAAAAB3fBejpNoqSF3vMyWwg2YDOMq+i",
   "tracks": [
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
+      "album": {
+        "name": "What A Worthy Name",
+        "url": "https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "duration_ms": 351978,
+      "name": "What A Worthy Name",
+      "url": "https://open.spotify.com/track/7vDwGrFOYLFrSD213NFnr3"
+    },
+    {
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "He Arose",
         "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Not My Will (Deluxe)",
         "url": "https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
         "url": "https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq"
@@ -73,7 +93,23 @@
       "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
+      "album": {
+        "name": "Break Open",
+        "url": "https://open.spotify.com/album/0ukSxSrrlKpSSOzeig5xKE"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 384729,
+      "name": "Break Open",
+      "url": "https://open.spotify.com/track/7FGPDdVSHQ36b7jeHsDk26"
+    },
+    {
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Cling To The Cross",
         "url": "https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY"
@@ -93,7 +129,7 @@
       "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Move of God (Live)",
         "url": "https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv"
@@ -125,7 +161,23 @@
       "url": "https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
+      "album": {
+        "name": "God I'm Just Grateful",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
+    },
+    {
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Help My Unbelief",
         "url": "https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ"
@@ -141,7 +193,7 @@
       "url": "https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Come To Jesus",
         "url": "https://open.spotify.com/album/29PYVen9YZ7QjjQoYQ6rze"
@@ -157,7 +209,7 @@
       "url": "https://open.spotify.com/track/53fIGsvNyKO15Huu3nFnsK"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "God I'm Just Grateful",
         "url": "https://open.spotify.com/album/5FTiQxhX4OfMF5YjStmIt6"
@@ -177,7 +229,7 @@
       "url": "https://open.spotify.com/track/2ggP6WjaTsloaiBxXY5JB7"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Jesus Over Everything (Live In Las Vegas)",
         "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
@@ -197,7 +249,7 @@
       "url": "https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "IT NEEDS TO BE SAID",
         "url": "https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY"
@@ -213,7 +265,7 @@
       "url": "https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Worthy Of It All (Worthy)",
         "url": "https://open.spotify.com/album/3OPJVaWRNhdKr5k28RNs1D"
@@ -229,7 +281,7 @@
       "url": "https://open.spotify.com/track/5qT2HsrOxk6H5eR7yVyQ87"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "THANK GOD I'M FREE",
         "url": "https://open.spotify.com/album/50w6pz7MRBPunUgo02zsxO"
@@ -249,7 +301,7 @@
       "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Breathe On It",
         "url": "https://open.spotify.com/album/38CH2161JgsV17KaROhaDe"
@@ -265,7 +317,23 @@
       "url": "https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
+      "album": {
+        "name": "There's Still Power In The Blood",
+        "url": "https://open.spotify.com/album/2XPSc5zqPARbkeTkt6HMBD"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 277113,
+      "name": "There's Still Power In The Blood",
+      "url": "https://open.spotify.com/track/2UblZJ9hcWzOURUX7kUJl7"
+    },
+    {
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "It Really Is Amazing Grace",
         "url": "https://open.spotify.com/album/4lYH4nCNsiXwZFfFlmHNjc"
@@ -285,7 +353,7 @@
       "url": "https://open.spotify.com/track/5AyPki0wWZWid3L75qtNPZ"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Send The Fire: Live From London",
         "url": "https://open.spotify.com/album/6w4bFrC2X53TxpflpRI2SE"
@@ -313,27 +381,7 @@
       "url": "https://open.spotify.com/track/2x8yzGlhIWnCQRcO8h8YKJ"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
-      "album": {
-        "name": "The Blood",
-        "url": "https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "JJ Hasulube",
-          "url": "https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS"
-        }
-      ],
-      "duration_ms": 516963,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF"
-    },
-    {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Walk On Water (Live)",
         "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
@@ -349,7 +397,7 @@
       "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Beautiful Life (Live)",
         "url": "https://open.spotify.com/album/25geT8tyKD7aiRAKJsQVGI"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/7iPhwbA9mqSMqsSuao3OJI"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Morning Noon & Night",
         "url": "https://open.spotify.com/album/5K4U5TwkhvPVaV92jm8KTX"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/1KnBcws65ojuFGqc500do6"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "The Glory Of God",
         "url": "https://open.spotify.com/album/71aGaWwIeOZIzW8IKqO6wu"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/6Kq56cMRnkUkwm80NHLohZ"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Midst",
         "url": "https://open.spotify.com/album/1iytTNnPCBeEtX9JyyVR77"
@@ -433,7 +481,23 @@
       "url": "https://open.spotify.com/track/3iEVhb9l6mFqj2I2LUDGua"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
+      "album": {
+        "name": "The Lord My God",
+        "url": "https://open.spotify.com/album/1kN3x8TKkYLlO6GCVfc2U3"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 367184,
+      "name": "The Lord My God",
+      "url": "https://open.spotify.com/track/5g1XLr8NV66CfMTIGFnvDQ"
+    },
+    {
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "My Refuge",
         "url": "https://open.spotify.com/album/3VrxaNLEspb9PpdmCGz4jG"
@@ -449,7 +513,7 @@
       "url": "https://open.spotify.com/track/5GbMXLKsk86mfc4dMV9Zrx"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/2f1vQLRRGUbmXvcCH1lJnm"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/0MinxXAaUCp6nhhfYxrJwT"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Life & Breath",
         "url": "https://open.spotify.com/album/0Wu88qLqxq6qBNejyHeEUr"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Taste And See (The Love Of Christ)",
         "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
@@ -509,7 +573,23 @@
       "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
+      "album": {
+        "name": "HE STILL MOVES",
+        "url": "https://open.spotify.com/album/2HN3cWuYjpUOhQXIeOF2UK"
+      },
+      "artists": [
+        {
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+        }
+      ],
+      "duration_ms": 259919,
+      "name": "HE STILL MOVES",
+      "url": "https://open.spotify.com/track/5EIPsTPNAASNIZtkCBXe3S"
+    },
+    {
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Let God Come In (Live)",
         "url": "https://open.spotify.com/album/2Nj2jE6wOlr0qCSBKhtGF6"
@@ -533,23 +613,7 @@
       "url": "https://open.spotify.com/track/02Ev3EfBX3j2irtlhTSPC7"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
-      "album": {
-        "name": "I've Got A Fire (Break Open)",
-        "url": "https://open.spotify.com/album/3o1E7Qc6kGXk4nqwZAvXsR"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 444288,
-      "name": "I've Got A Fire - Break Open",
-      "url": "https://open.spotify.com/track/6DuqM96z7HcSnDM3YnQyKe"
-    },
-    {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Psalms",
         "url": "https://open.spotify.com/album/2RnBUBuK2iYntEWSDOP8vS"
@@ -565,7 +629,7 @@
       "url": "https://open.spotify.com/track/60QixU3niqd9qaXaQnM57l"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "We Must Respond (Live)",
         "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
@@ -585,7 +649,7 @@
       "url": "https://open.spotify.com/track/1yu6UKfMvbFZ0esY29yYlT"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "i've been meaning to say this...(deluxe)",
         "url": "https://open.spotify.com/album/7IQeUOlUvSCbFhbil5cylC"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/4oJ1qWx93WsQgtHM9TYHDS"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Nothing More",
         "url": "https://open.spotify.com/album/45dq2OL5MQf1wWn7HWtRdG"
@@ -625,7 +689,7 @@
       "url": "https://open.spotify.com/track/1bRFq7HJBCqE2nfqbwCjx0"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/5CVUvF1iN873imh3QwQL8H"
@@ -645,7 +709,7 @@
       "url": "https://open.spotify.com/track/6G7FSRegOKvDVDVDb4gEAA"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "'Til The Whole World Knows",
         "url": "https://open.spotify.com/album/0U4Cz2a6Qq4q0w06Vhs2ay"
@@ -665,7 +729,7 @@
       "url": "https://open.spotify.com/track/3F7NPOqfCwheybRRNUasJY"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "The King Is Coming (Reimagined)",
         "url": "https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH"
@@ -693,23 +757,7 @@
       "url": "https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
-      "album": {
-        "name": "I Still Choose You",
-        "url": "https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 268109,
-      "name": "I Still Choose You",
-      "url": "https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq"
-    },
-    {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "One True God",
         "url": "https://open.spotify.com/album/0Fm9oqCL5OqzqkxuZ5TRuW"
@@ -733,7 +781,7 @@
       "url": "https://open.spotify.com/track/13LZNirXIOzUljYCS5kSQ8"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "ENOUGH FOR ME",
         "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
@@ -753,7 +801,7 @@
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/3C0tu5fQONjnsbXG2ba4Wg"
@@ -777,7 +825,7 @@
       "url": "https://open.spotify.com/track/07MKT2Vgw2MPq3eUmgorc0"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Garment Of Praise",
         "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
@@ -797,7 +845,7 @@
       "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Magnify",
         "url": "https://open.spotify.com/album/5ZuiWVKn6lWqNJNOInH1e8"
@@ -813,7 +861,7 @@
       "url": "https://open.spotify.com/track/6vjCLA1wRmf8P4QJ3lrIAD"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "The Blessing",
         "url": "https://open.spotify.com/album/1K3nTOcKYTalbxD9simAxe"
@@ -837,7 +885,7 @@
       "url": "https://open.spotify.com/track/34fPzDUWItvqb2UKDIdT82"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Hosanna",
         "url": "https://open.spotify.com/album/2HmNNkm5dX8awwSlfZGgZN"
@@ -853,7 +901,7 @@
       "url": "https://open.spotify.com/track/7LcufkZ8en3eUP7NbkMrqk"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Take The World (Live)",
         "url": "https://open.spotify.com/album/0Yg2WZwxvXFodtqT1w88x6"
@@ -873,7 +921,7 @@
       "url": "https://open.spotify.com/track/16bCkWlkMuxsIN3rqSMOak"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Open Door (Live)",
         "url": "https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ"
@@ -889,7 +937,7 @@
       "url": "https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Rise with the Sun",
         "url": "https://open.spotify.com/album/24gNqKUirdjTRpU6No3DQp"
@@ -905,7 +953,7 @@
       "url": "https://open.spotify.com/track/12SfOqmoshZLNj0JUVcWHM"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/03aZ9C4STlBEmPx7VrpgjR"
@@ -925,7 +973,7 @@
       "url": "https://open.spotify.com/track/7wxxj2poCnWWJq4idqZpO0"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "God Has Done",
         "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
@@ -941,7 +989,7 @@
       "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "At the heart of it (From Worship Together)",
         "url": "https://open.spotify.com/album/3j8FJx5Exz0PPsSp2Y059k"
@@ -957,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6jURYt7pmRYeJcmXyIux9T"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/1GIoxbb81T0OXD9pv8tXRV"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2buHz6hpCv5tnk1TTKbY2Y"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Holy Hands (Live)",
         "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
@@ -1001,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/1JgiUpuR8UgX1TzTCQ7J9h"
@@ -1017,7 +1065,7 @@
       "url": "https://open.spotify.com/track/4I01JiotzjG0twezQt1xqX"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Great I AM",
         "url": "https://open.spotify.com/album/6DM2U0RkoEsIB0ZqjfL4CC"
@@ -1033,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3KMhh5E2DQQA9YWs5i09rY"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Rejoice Again",
         "url": "https://open.spotify.com/album/4L744noT5yPUGGAqLrsjOB"
@@ -1053,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0Sny1iaMr1YbyqOk71Jwuz"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Worthy Of It All / I Exalt Thee (Jeremy And Adrienne Camp Version)",
         "url": "https://open.spotify.com/album/3iGbU4fZHlxUNEXosoCO8g"
@@ -1073,23 +1121,7 @@
       "url": "https://open.spotify.com/track/3F03CcIJ1pRXXEiub9h65d"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
-      "album": {
-        "name": "King Of Hearts (Full Deck Deluxe)",
-        "url": "https://open.spotify.com/album/58h0AZmXG7bYxk7gBxIWu0"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 202458,
-      "name": "1,000,000 Reasons Why",
-      "url": "https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu"
-    },
-    {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "My Right Now",
         "url": "https://open.spotify.com/album/3sDx4cyt1o73vLEAldiSez"
@@ -1105,7 +1137,7 @@
       "url": "https://open.spotify.com/track/39MO3apFG7XqV3XrskTPsT"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Songs for the Anxious Heart: Live from the HUB",
         "url": "https://open.spotify.com/album/6mA22vsD5MvgUPCEPKgjBg"
@@ -1121,7 +1153,7 @@
       "url": "https://open.spotify.com/track/6sAWlBzfpgDxb9hxPnZrkX"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Sons Of Sunday",
         "url": "https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w"
@@ -1137,7 +1169,7 @@
       "url": "https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Bless The Lord",
         "url": "https://open.spotify.com/album/5ebAGaI0fM4EckqAKxicyl"
@@ -1157,7 +1189,7 @@
       "url": "https://open.spotify.com/track/1pnQfMqjJm1G03GkM2Y3mA"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Build An Altar (Live)",
         "url": "https://open.spotify.com/album/0vX9hjLUGsl2ujFycJTYyn"
@@ -1173,31 +1205,7 @@
       "url": "https://open.spotify.com/track/6CKLTrkkWN5Qd4zYS9vjZ7"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
-      "album": {
-        "name": "Let God Come In (Live)",
-        "url": "https://open.spotify.com/album/6cSKIZjhlALkYQO5amBwQ0"
-      },
-      "artists": [
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Cageless Birds",
-          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
-        }
-      ],
-      "duration_ms": 399187,
-      "name": "Let God Come In - Live",
-      "url": "https://open.spotify.com/track/4dVw0Sn0eKt4NvR91CkFUD"
-    },
-    {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Good Shepherd (Studio Version)",
         "url": "https://open.spotify.com/album/6Ptrte43OgNJIX7gVlBBZD"
@@ -1217,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5DusM7KDlFMIZQE4EAFY5x"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Welcome Home (Live)",
         "url": "https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l"
@@ -1237,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/0gDdrITVEHF5puxOo0ma1o"
@@ -1253,7 +1261,7 @@
       "url": "https://open.spotify.com/track/41Z1kDTRyaclKHmXkR0vn7"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Our God Reigns (Over All The Earth) [Live]",
         "url": "https://open.spotify.com/album/6mSgVWFisouBbLnSvvX9pl"
@@ -1277,7 +1285,7 @@
       "url": "https://open.spotify.com/track/6AZ5rlcvoh3VHG7A6dgUuB"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "In The Name of Jesus (Jesus Is The Way Spontaneous) (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/7K5CbMLVRJt4WLMEKxVBcd"
@@ -1301,7 +1309,7 @@
       "url": "https://open.spotify.com/track/7fkWuneCeC7VIcjXsLjF5r"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "In The Mighty Name (Live)",
         "url": "https://open.spotify.com/album/60AC9VfX5Lm555MjtmVKXo"
@@ -1317,7 +1325,7 @@
       "url": "https://open.spotify.com/track/4SIS0GmDA7iutDggCJmRSB"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "conversations with God",
         "url": "https://open.spotify.com/album/39YPdK3Yt6j2BClxLAoJR4"
@@ -1341,7 +1349,7 @@
       "url": "https://open.spotify.com/track/2VSjXXXPMFDOYp3W4T0ETk"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "No Matter Where The Altar Is (Radio Version)",
         "url": "https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5"
@@ -1365,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Cathedral (Live)",
         "url": "https://open.spotify.com/album/7fROF1qFAmHeUvzAhVfkJj"
@@ -1389,7 +1397,7 @@
       "url": "https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "SEASONS (Live)",
         "url": "https://open.spotify.com/album/2edMtYfdUPkkL7lgt2vL8Y"
@@ -1405,7 +1413,7 @@
       "url": "https://open.spotify.com/track/568VR4OE2RAo3RVEOgcAIj"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Worship Through It (Live from Hope UC)",
         "url": "https://open.spotify.com/album/7vxvR1MjsjhsfaAefTz4fS"
@@ -1421,23 +1429,7 @@
       "url": "https://open.spotify.com/track/29Zbu7SURpkRooBONvmU30"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
-      "album": {
-        "name": "Dying To Be Different (Live)",
-        "url": "https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 267020,
-      "name": "Dying To Be Different - Live",
-      "url": "https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx"
-    },
-    {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Wait / Praise The Giver",
         "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
@@ -1453,7 +1445,7 @@
       "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "SURVEY: Part 2, Live at St. John at Hackney",
         "url": "https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD"
@@ -1469,7 +1461,7 @@
       "url": "https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Who Else",
         "url": "https://open.spotify.com/album/4oZaexnq27sRnGmpSa1Opj"
@@ -1489,7 +1481,7 @@
       "url": "https://open.spotify.com/track/1bZbXxbxS2yIpmHNVYKJE9"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "LIVE FROM IO WKND",
         "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
@@ -1509,7 +1501,7 @@
       "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Beyond Us (Deluxe)",
         "url": "https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA"
@@ -1525,7 +1517,7 @@
       "url": "https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR"
     },
     {
-      "added_at": "2026-02-06 10:48:43",
+      "added_at": "2026-02-13 12:00:24",
       "album": {
         "name": "Live at Maverick City",
         "url": "https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt"

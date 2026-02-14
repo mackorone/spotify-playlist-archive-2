@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-1,009 songs - 2 day 11 hr 4 min
+1,012 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-04-11 | 2023-01-13 |
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 | 2025-08-20 |
 | [If I could just go back](https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [If I could just go back](https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH) | 2:59 | 2023-01-19 | 2025-03-25 |
+| [If I Knew You](https://open.spotify.com/track/5OClBgfVkx8S7S9xh8Gzkr) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [If I Knew You](https://open.spotify.com/album/0rPJDWhwwWPa8EolWOgXDK) | 3:52 | 2026-02-13 |  |
 | [If Love Were True](https://open.spotify.com/track/4avAhF6hI8GUB6PAUlgHJc) | [The Indigo Trio](https://open.spotify.com/artist/3X8jbykM6jKWuKKSzQ6kCb) | [If Love Were True](https://open.spotify.com/album/0uoxAwMmCTLHQKaBQwm0Rc) | 4:59 | 2026-01-16 |  |
 | [If You & I](https://open.spotify.com/track/4if0PZ2yt6r8PTOHHy9bZP) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [If You & I](https://open.spotify.com/album/5hdgLxWOdgZGJaqTPOLiku) | 2:49 | 2025-11-03 | 2026-01-15 |
 | [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 | 2025-02-25 |
@@ -732,6 +733,7 @@
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-04-11 | 2022-12-02 |
 | [Sincera](https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Sincera](https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj) | 2:38 | 2022-12-08 | 2025-07-24 |
 | [Skating](https://open.spotify.com/track/21kViWinMdNo8mcWLuqTk3) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Skating](https://open.spotify.com/album/2TQ3EtEnMcVqwItpCMsYOY) | 3:17 | 2022-04-11 | 2022-11-25 |
+| [Skip To Be Sorry](https://open.spotify.com/track/5IDgRkmoU7QRQ18OTiFCCd) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Skip To Be Sorry](https://open.spotify.com/album/26ZpXHPu5sRL4ZqPxSfaPc) | 2:57 | 2026-02-13 |  |
 | [Sky Voyage](https://open.spotify.com/track/2rzV3cVHgPX44UXEK7mizT) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Sky Voyage](https://open.spotify.com/album/5RzfsL8WnO4lE7mWTOpNnb) | 4:14 | 2024-12-03 | 2025-07-24 |
 | [Skylark](https://open.spotify.com/track/45uUsc9TX693ldNPmqoa8d) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Skylark](https://open.spotify.com/album/2GgNwCoPK747pxmDfB6FhL) | 3:09 | 2022-04-11 | 2025-11-15 |
 | [Skyline](https://open.spotify.com/track/6SEIavTe9Sqpa542YTPyG3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Skyline](https://open.spotify.com/album/547qScC6yIOQlT9pAdk9S4) | 3:16 | 2024-11-11 | 2025-06-06 |
@@ -859,6 +861,7 @@
 | [The Times We Almost Spoke](https://open.spotify.com/track/50XpKvY6g0lmk3RLOV9KzX) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [The Times We Almost Spoke](https://open.spotify.com/album/3gN7ZN40oekLY5mTFsfevN) | 4:09 | 2024-12-16 | 2025-03-11 |
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-06 | 2023-03-03 |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
+| [The Way It Was](https://open.spotify.com/track/3Wk2rSSJ5mEaspDZwr9ADH) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [The Way It Was](https://open.spotify.com/album/5MkieEUNCJkSjOSSrDEh6K) | 3:38 | 2026-02-13 |  |
 | [The Way We Looked Then](https://open.spotify.com/track/7f1c51MW06vPI4049aQRqg) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [The Way We Looked Then](https://open.spotify.com/album/3CQsGjyqE8bwqzDmsxNFPz) | 3:34 | 2024-12-09 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y) | [Deer Groves](https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6) | [The Way You Look Tonight](https://open.spotify.com/album/3shpzzZyznWqGeWrIxPD11) | 3:54 | 2024-11-18 |  |
 | [The Wilder I Used To Be](https://open.spotify.com/track/1fmrEgNDGFzWgsEUP0xEyg) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [The Wilder I Used To Be](https://open.spotify.com/album/7mkjkHwszOA4SLSE8Ezcxo) | 2:31 | 2025-04-15 |  |

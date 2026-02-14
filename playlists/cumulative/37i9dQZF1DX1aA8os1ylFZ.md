@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-705 songs - 1 day 12 hr 19 min
+707 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [feelings 4 u](https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W) | [Colette Lush](https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX) | [feelings 4 u](https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe) | 2:24 | 2023-08-31 | 2023-10-13 |
 | [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 | 2023-11-16 | 2024-03-02 |
 | [Find Me Again](https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5) | [Find Me Again](https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI) | 2:47 | 2023-10-09 | 2024-07-23 |
-| [Find My Lover](https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Find My Lover](https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA) | 2:09 | 2025-04-11 |  |
+| [Find My Lover](https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Find My Lover](https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA) | 2:09 | 2025-04-11 | 2026-02-14 |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-19 | 2025-06-19 |
 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 | 2023-09-28 | 2024-10-05 |
@@ -464,6 +464,7 @@
 | [Open Invitation](https://open.spotify.com/track/5OeTpiuK0F7sorUws5rV90) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Open Invitation](https://open.spotify.com/album/03t8nWMzX3vTuLLDWmJooJ) | 3:05 | 2021-12-16 | 2023-01-13 |
 | [Options](https://open.spotify.com/track/5z8ejoAQQnwtbUX3PmYktv) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Options](https://open.spotify.com/album/6UKGl5z4AOSFWfeeMYF5iK) | 2:18 | 2021-12-16 | 2022-01-21 |
 | [Options](https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Options](https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn) | 2:27 | 2025-02-13 |  |
+| [other side.](https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:15 | 2026-02-13 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-16 | 2023-01-13 |
 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 | 2023-03-01 | 2024-08-02 |
 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2025-11-06 |  |
@@ -626,7 +627,7 @@
 | [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-06-01 | 2023-09-05 |
 | [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 | 2023-09-07 | 2023-11-10 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2023-01-12 | 2023-09-08 |
-| [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-03-07 |  |
+| [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-03-07 | 2026-02-14 |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2023-01-12 | 2023-03-23 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-10 | 2025-06-28 |
 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 | 2025-04-11 |  |
@@ -698,6 +699,7 @@
 | [Word For Word](https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Word For Word](https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk) | 3:03 | 2023-01-19 | 2023-12-19 |
 | [Words of Affirmation](https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Words of Affirmation](https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7) | 3:06 | 2023-08-31 | 2024-09-28 |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-13 |  |
+| [wrong faces.](https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:43 | 2026-02-13 |  |
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-21 | 2024-01-26 |
 | [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 | 2024-10-17 | 2025-06-28 |
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-20 |  |

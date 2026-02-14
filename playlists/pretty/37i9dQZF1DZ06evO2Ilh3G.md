@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,180 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,183 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 44 | [Met Gala \(feat\. Offset\)](https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Droptopwop](https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn) | 3:29 |
 | 45 | [Dubai Shit](https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:48 |
 | 46 | [Minute](https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:25 |
-| 47 | [HAUNTED BY FAME](https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:31 |
-| 48 | [Hook Up](https://open.spotify.com/track/0gUGjvCXLxvLoBLXJVrUSl) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:27 |
-| 49 | [Baby Sitter \(feat\. Offset\)](https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:37 |
-| 50 | [Disrespectful](https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:40 |
+| 47 | [Hook Up](https://open.spotify.com/track/0gUGjvCXLxvLoBLXJVrUSl) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:27 |
+| 48 | [HAUNTED BY FAME](https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:31 |
+| 49 | [Disrespectful](https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:40 |
+| 50 | [Baby Sitter \(feat\. Offset\)](https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:37 |
 
-Snapshot ID: `aYvGgAAAAAC4l7GxAcFV4KjsBMbklMLS`
+Snapshot ID: `aY0YAAAAAACK1w/eeYR7Sxxo7qXZVNU5`

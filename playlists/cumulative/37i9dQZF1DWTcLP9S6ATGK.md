@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Opick
 
-815 songs - 2 day 5 hr 14 min
+817 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Hati Yang Lain](https://open.spotify.com/track/0gqfT2o3eGlfmBDnHyS2Nl) | [The Potters](https://open.spotify.com/artist/4bv6jAeS0BnJPfydClwCfa) | [Hati Yang Lain](https://open.spotify.com/album/62u7rfVJhtQMWPzgqJTFBz) | 3:05 | 2024-10-31 | 2024-11-29 |
 | [Hati Yang Luka](https://open.spotify.com/track/4XWGnSW1kPeegCBzL9lq8U) | [Tenty Kamal](https://open.spotify.com/artist/2oizaPrBzAj2754qyq20ly) | [Hati Yang Luka](https://open.spotify.com/album/4fgI4Cdx5MPUcXRmgflWXB) | 3:30 | 2025-05-08 | 2025-05-31 |
 | [Hatiku Telah Mati](https://open.spotify.com/track/3rXdtu0lKHpvodDbHVB4tc) | [Rangga Damara](https://open.spotify.com/artist/0Fq61AqyyXeBYHrHoai15H) | [Hatiku Telah Mati](https://open.spotify.com/album/3Vj4jhntHOq4iozf3VFx9S) | 3:11 | 2024-06-27 | 2024-08-30 |
+| [Hatimulah Sandaran](https://open.spotify.com/track/0ZGYum0a1FsBVrFBIFIjZZ) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW), [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [Hatimulah Sandaran](https://open.spotify.com/album/39UtKDoxLrzRbq1QBVFUaM) | 4:31 | 2026-02-12 |  |
 | [Hebat Di Matamu](https://open.spotify.com/track/0an1bk1oe4uOVTICDJ87np) | [Nabila Ellisa](https://open.spotify.com/artist/7MwrsCIC6ViKMHiVFNJw5Q) | [Hebat Di Matamu](https://open.spotify.com/album/6Bi5psvEnSGOUQtKpwtgnY) | 4:11 | 2024-06-27 | 2024-09-27 |
 | [Hentikan Aku Untuk Mencintaimu](https://open.spotify.com/track/5pOb779ujOzvYVi7uZEszT) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Hentikan Aku Untuk Mencintaimu](https://open.spotify.com/album/7AfrRqbqr4waHiAH3nJTtT) | 3:45 | 2025-07-03 | 2025-09-26 |
 | [Hilang](https://open.spotify.com/track/0VQKMj1drkoqRnwQ2DFl1g) | [Egha De Latoya](https://open.spotify.com/artist/4ty4E2G4r2XErvJfvwK4zO) | [Hilang](https://open.spotify.com/album/7h6NFmmHQCeVSs5bz4OtIy) | 3:55 | 2024-06-27 | 2024-07-27 |
@@ -485,6 +486,7 @@
 | [Nada Kasih](https://open.spotify.com/track/66v72L6lQ3W33f2AtOfYxb) | [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Rieka Roslan](https://open.spotify.com/artist/1uv8Uq3SQm91fql1Ef6G2l), [Harsya Rieuwpassa](https://open.spotify.com/artist/3EIWLqVx1wWdsayIvqwe0w) | [Nada Kasih](https://open.spotify.com/album/3gxPL86jiJVh5quZLL6c7n) | 3:11 | 2024-11-28 | 2025-02-28 |
 | [Nanti Kita Seperti Ini \- Cinematic Version](https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2), [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Nanti Kita Seperti Ini \(Cinematic Version\)](https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p) | 4:24 | 2025-06-26 | 2025-09-26 |
 | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/track/02oUCOLqEaUAiMlsFhMtQi) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/album/6FHTCzGVQD0QyVvywYoXjn) | 3:49 | 2024-10-03 | 2024-11-08 |
+| [Nikah Sempurna](https://open.spotify.com/track/7xfVzvVzxRXfgmiHaERnY1) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Nikah Sempurna](https://open.spotify.com/album/50k5gWGBVJALWvmfXPHE4V) | 3:55 | 2026-02-12 |  |
 | [Nina Belum Bobo](https://open.spotify.com/track/1mNQ7jy4kDAFNqTnaFrgXX) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Nina Belum Bobo](https://open.spotify.com/album/29cTzI5hY9f89JBpEzHUXa) | 4:38 | 2025-12-04 | 2026-01-24 |
 | [No No No](https://open.spotify.com/track/5YhykvC5DZYGqxxq9OBdIA) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE), [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor), [Adam Zeins](https://open.spotify.com/artist/5jG35LMoM4xAQLz2RBg4XQ) | [No No No](https://open.spotify.com/album/7J0Mq5b6iiHQQaAzNcpPVx) | 2:58 | 2025-04-11 | 2025-05-30 |
 | [Nomor Satu](https://open.spotify.com/track/57EvfEDG4agFn1a0SLbHbk) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Nomor Satu](https://open.spotify.com/album/0iSGNSqSYEokAF47QbcU3Q) | 3:50 | 2024-09-26 | 2024-11-22 |

@@ -4,7 +4,7 @@
 
 > Fall in love with these songs ✍️ cover: Hetta Falzon
 
-709 songs - 1 day 15 hr 39 min
+710 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 | 2025-08-01 |
 | [Hurting You](https://open.spotify.com/track/09G3T3EqlxcgLC7l0UN8qR) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Hurting You](https://open.spotify.com/album/0DYfS8tcAgH0JWp2BCZhDV) | 3:03 | 2025-06-05 | 2025-06-13 |
 | [I Am Enough](https://open.spotify.com/track/6eefU1OC375SvCfyyGdovo) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/4O0DW3SrSNcvmlcHLeUkRr) | 3:08 | 2025-05-22 | 2025-09-05 |
+| [I Believe in Love](https://open.spotify.com/track/4RVKqjVeFSOwnbtzpQmKtG) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [I Believe in Love](https://open.spotify.com/album/1D6KhOjU34SOdaV7Tndmdn) | 3:00 | 2026-02-13 |  |
 | [I Don't Know Me](https://open.spotify.com/track/6T0LlxJeSMgFHzKPWf4NfM) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [I Don't Know Me](https://open.spotify.com/album/0VZYPuxvzFxaJEViCCcoIm) | 2:51 | 2026-01-09 |  |
 | [i don't wanna die today](https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [i don't wanna die today](https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml) | 2:55 | 2025-10-23 |  |
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-24 | 2025-05-30 |
@@ -337,7 +338,7 @@
 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 | 2024-05-31 | 2024-09-14 |
 | [Lady In Red](https://open.spotify.com/track/2ObQRuTvP7PfyMS5Y6t4i3) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [Lady In Red](https://open.spotify.com/album/20Y0YMEtd5ifcSZ0s1SuYy) | 2:35 | 2025-07-31 | 2025-11-07 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 | 2025-07-18 |
-| [Ladybird](https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Ladybird](https://open.spotify.com/album/7DJDMQUmgusYIKoWEv2L4K) | 3:09 | 2025-11-28 |  |
+| [Ladybird](https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Ladybird](https://open.spotify.com/album/7DJDMQUmgusYIKoWEv2L4K) | 3:09 | 2025-11-28 | 2026-02-14 |
 | [Language](https://open.spotify.com/track/6A4gyxXK34O6igeW91jlXK) | [Oritsé Williams](https://open.spotify.com/artist/0ubegDSzy05izM0wr1kvjp) | [Language](https://open.spotify.com/album/4JcwvFHiN2hU7ME31eZCyf) | 3:27 | 2024-05-31 | 2024-07-27 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2025-01-31 | 2025-03-21 |
 | [Leap Year](https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Leap Year](https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO) | 5:45 | 2025-04-18 | 2025-05-16 |

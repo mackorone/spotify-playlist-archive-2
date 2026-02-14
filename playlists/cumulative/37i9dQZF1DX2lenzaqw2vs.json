@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: YADAM",
+  "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
   "name": "BRILLO",
   "tracks": [
     {
@@ -2590,6 +2590,24 @@
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha"
+    },
+    {
+      "album": {
+        "name": "Helao",
+        "url": "https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Helao",
+      "url": "https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB"
     },
     {
       "album": {
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210973,
       "name": "S\u00faper Hero\u00edna",
       "url": "https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD"

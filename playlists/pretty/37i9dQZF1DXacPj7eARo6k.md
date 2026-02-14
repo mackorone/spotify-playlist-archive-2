@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacPj7eARo6k.md) - [plain]
 
 > Le meilleur des années 2000 en 100 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,493 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,546 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

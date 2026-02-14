@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,620 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 33 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
 | 34 | [Semi Final](https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Dush](https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ) | [Semi Final](https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0) | 2:52 |
 | 35 | [Cyaa Sidung](https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Cyaa Sidung](https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa) | 2:47 |
-| 36 | [Edoboozi Lyo](https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz) | [Slick Stuart](https://open.spotify.com/artist/2huLG8Fcc7TwaqwIQP2S62), [DJ Roja](https://open.spotify.com/artist/5Z0ug9xtGDNFaLr2fKo9Jh), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Very Wellooo](https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN) | 3:38 |
-| 37 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
+| 36 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
+| 37 | [Edoboozi Lyo](https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz) | [Slick Stuart](https://open.spotify.com/artist/2huLG8Fcc7TwaqwIQP2S62), [DJ Roja](https://open.spotify.com/artist/5Z0ug9xtGDNFaLr2fKo9Jh), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Very Wellooo](https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN) | 3:38 |
 | 38 | [My Woman](https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx) | [Vian Music](https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm) | [My Woman](https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io) | 3:13 |
 | 39 | [Oli Wamanyi](https://open.spotify.com/track/5rRlxoSTCymLQpR1Ry8Auw) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Oli Wamanyi](https://open.spotify.com/album/2mDRR9bvkyJ1hvh3PLdSo0) | 3:53 |
 | 40 | [Bway](https://open.spotify.com/track/6uxpaa14GscoCL8kY8X81j) | [Quin Smile Music](https://open.spotify.com/artist/1InILV09fJQzl6DLz72Dao), [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho) | [Bway](https://open.spotify.com/album/2oyPRzbOFDVKeyfab6xyhL) | 2:38 |

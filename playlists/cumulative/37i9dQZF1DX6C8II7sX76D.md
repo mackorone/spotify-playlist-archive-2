@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-373 songs - 19 hr 0 min
+374 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2021-12-03 | 2022-04-17 |
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-08-24 | 2023-08-27 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 | 2023-11-14 |
-| [I’m Lonely \- Casnova Dub](https://open.spotify.com/track/6LjTvg4Ug3H8RHGRahBEVt) | [Hollis P\. Monroe](https://open.spotify.com/artist/34ehU42UfPtkgHMoD9gMJD), [Casnova](https://open.spotify.com/artist/6F70IVYLHKbzVyn5k3Ogag) | [I’m Lonely \(Casnova Dub\)](https://open.spotify.com/album/2po9PxWb15U2h7iTtzNmEq) | 3:22 | 2026-01-16 |  |
+| [I’m Lonely \- Casnova Dub](https://open.spotify.com/track/6LjTvg4Ug3H8RHGRahBEVt) | [Hollis P\. Monroe](https://open.spotify.com/artist/34ehU42UfPtkgHMoD9gMJD), [Casnova](https://open.spotify.com/artist/6F70IVYLHKbzVyn5k3Ogag) | [I’m Lonely \(Casnova Dub\)](https://open.spotify.com/album/2po9PxWb15U2h7iTtzNmEq) | 3:22 | 2026-01-16 | 2026-02-14 |
 | [J'adore](https://open.spotify.com/track/0tlztRFDgCSnAbUxllcZJJ) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [A Butterfly In\-between Time](https://open.spotify.com/album/3yG67dwpot0imvZJ7nAXhv) | 4:12 | 2021-12-03 | 2022-06-01 |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-08-29 | 2023-09-30 |
 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 | 2021-12-03 | 2023-01-06 |
@@ -176,6 +176,7 @@
 | [Jiggle Jiggle \- Kideko Remix](https://open.spotify.com/track/0XGR13jGzZ68T6R0PVmQFH) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [Jiggle Jiggle \(Kideko Remix\)](https://open.spotify.com/album/30FrwqPEGqukqqzdpNlpVc) | 3:38 | 2023-12-01 | 2023-12-13 |
 | [Jubel](https://open.spotify.com/track/2mpsKeLCbdXkwEpZRNi4XD) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2w2DVkRZJV2hG8vEndFwO7) | 4:43 | 2025-03-05 | 2025-04-26 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-08-01 |  |
+| [Just the Way You Are](https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:30 | 2026-02-13 |  |
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-13 | 2025-05-28 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-07-26 |  |
 | [kompa pasión](https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf) | 2:27 | 2024-04-12 | 2024-08-14 |

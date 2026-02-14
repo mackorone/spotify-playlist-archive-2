@@ -1413,6 +1413,32 @@
     },
     {
       "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Robertson",
+          "url": "https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265408,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
+    },
+    {
+      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/0HrDrQPhOBR04RKmY7DCJj"
       },
@@ -9844,7 +9870,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 247559,
       "name": "Fall To You",
       "url": "https://open.spotify.com/track/563UGSS5oMHKG2Xx2mPivC"

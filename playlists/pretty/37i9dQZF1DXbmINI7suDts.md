@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Tracy Melon
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,496 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,526 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [GHOST TOWN ROAD](https://open.spotify.com/track/3ZKjSQSC5EYcqebSM44Nwy) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [GHOST TOWN ROAD](https://open.spotify.com/album/0QRgoCNVjFYzK4ZBhBbdYA) | 4:08 |
 | 60 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 |
 
-Snapshot ID: `AAAAANE3IaXHciz05aPe1L2VyOLhojrF`
+Snapshot ID: `AAAAAP88ODVMp24U5DalSn84Kn6LXADp`

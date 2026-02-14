@@ -400,10 +400,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 244137,
       "name": "El Remate",
       "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
+    },
+    {
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244137,
+      "name": "El Remate",
+      "url": "https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc"
     },
     {
       "album": {
@@ -614,10 +636,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231413,
       "name": "G\u00e9nero Rural",
       "url": "https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll"
+    },
+    {
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Rulaz Plazco",
+          "url": "https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231413,
+      "name": "G\u00e9nero Rural",
+      "url": "https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P"
     },
     {
       "album": {
@@ -790,6 +834,24 @@
     {
       "album": {
         "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171560,
+      "name": "La T\u00edpica",
+      "url": "https://open.spotify.com/track/6vadvytXA6QudX5WDBpP2f"
+    },
+    {
+      "album": {
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
         "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
       },
       "artists": [
@@ -800,7 +862,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 171560,
       "name": "La T\u00edpica (2.018)",
       "url": "https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM"
@@ -1294,7 +1356,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 219578,
       "name": "Round 40",
       "url": "https://open.spotify.com/track/6qLRoIRGqNoAU7HFyY4vuD"

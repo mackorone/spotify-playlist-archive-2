@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: SNOW x Era7capone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,269 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,275 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NABER](https://open.spotify.com/track/5ZkbGBYumNp0NL77RMzgBj) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [](https://open.spotify.com/album/null) | 1:58 |
+| 1 | [NABER](https://open.spotify.com/track/5ZkbGBYumNp0NL77RMzgBj) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [THE SNOW](https://open.spotify.com/album/45EhpTa3NAQIUdeHnEhhye) | 1:58 |
 | 2 | [Gözbebeğim](https://open.spotify.com/track/0vAZSi1UqK6rdMYIItH9iv) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Gözbebeğim](https://open.spotify.com/album/0bBtT4UPEF2cLtwo8TRCnk) | 2:22 |
 | 3 | [STOP SMOKING](https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [STOP SMOKING](https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf) | 1:37 |
 | 4 | [hay Allah](https://open.spotify.com/track/5N5xKiCLYvurSkuH7tPrZA) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [hay Allah](https://open.spotify.com/album/0Sgw3n63yrsGNb0Wa0T7hc) | 2:08 |

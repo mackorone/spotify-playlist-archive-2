@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-276 songs - 16 hr 22 min
+278 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Modern Day Ripoff](https://open.spotify.com/track/02BJIKaqW5LixrTYP3AsOP) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:29 | 2025-04-10 |  |
 | [Morning Show](https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:47 | 2025-04-10 |  |
 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 | 2025-04-10 | 2025-04-12 |
-| [Mourning](https://open.spotify.com/track/1SbhGBqvszQ9h0P7bOM79z) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection \(Deluxe\)](https://open.spotify.com/album/0HeDKsZqyskYWkoHmXObsv) | 2:27 | 2025-04-10 |  |
+| [Mourning](https://open.spotify.com/track/1SbhGBqvszQ9h0P7bOM79z) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection \(Deluxe\)](https://open.spotify.com/album/0HeDKsZqyskYWkoHmXObsv) | 2:27 | 2025-04-10 | 2026-02-14 |
+| [Mourning](https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:27 | 2026-02-13 |  |
 | [Mr Darkness \(feat\. Zakk Wylde\)](https://open.spotify.com/track/4xV2QwgyP4xOSjZgQ7heRN) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 | 2025-04-10 |  |
 | [Mrs\. Mills](https://open.spotify.com/track/7F4MzbKH6E9ugQlNZZqvpG) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:04 | 2025-04-10 |  |
 | [My Animus \(Interlude\)](https://open.spotify.com/track/0fwyr7AWGLlUgQbu4jTnY4) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 1:02 | 2025-04-10 |  |
@@ -192,7 +193,8 @@
 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/7CR5qGZ2eJwYrFQ8UmHuaR) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 5:01 | 2025-04-10 |  |
 | [Over Now](https://open.spotify.com/track/09IOPhEh1OMe0HD9b36FJk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 4:06 | 2025-04-10 | 2025-04-12 |
 | [Overdrive](https://open.spotify.com/track/0StmYC06yWLxe15Jrkj33m) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection \(Deluxe\)](https://open.spotify.com/album/1nKIHlqMCuwkO19LEOHF5x) | 2:27 | 2025-04-10 | 2026-02-13 |
-| [Overdrive](https://open.spotify.com/track/3i39cUiIMr2INWE5152wUt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection \(Deluxe\)](https://open.spotify.com/album/0HeDKsZqyskYWkoHmXObsv) | 2:27 | 2026-02-12 |  |
+| [Overdrive](https://open.spotify.com/track/3i39cUiIMr2INWE5152wUt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection \(Deluxe\)](https://open.spotify.com/album/0HeDKsZqyskYWkoHmXObsv) | 2:27 | 2026-02-12 | 2026-02-14 |
+| [Overdrive](https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:27 | 2026-02-13 |  |
 | [PA NO PENSAR](https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:20 | 2025-04-10 |  |
 | [Parasite \(feat\. Zakk Wylde\)](https://open.spotify.com/track/6byNRKsfkxLO9pyuAMWaar) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:05 | 2025-04-10 |  |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/3YYnFEXCLNbaWuC0hIEnIS) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 7:21 | 2025-04-10 |  |

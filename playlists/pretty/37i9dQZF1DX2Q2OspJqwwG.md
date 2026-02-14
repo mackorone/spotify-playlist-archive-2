@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,269 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,276 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 22 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 23 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 | 24 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 |
-| 25 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
-| 26 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
+| 25 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
+| 26 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 27 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 28 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 29 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 79 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 |
 | 80 | [WE PRAY](https://open.spotify.com/track/7xrEnNo99wrmIs8ZK3RZMK) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:53 |
 | 81 | [Gagica\-ta \- Golden Cypher](https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [LiToo The Purp](https://open.spotify.com/artist/06fgskAr7fPSrBKJhp9p19), [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU), [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [Gagica\-ta \(Golden Cypher\)](https://open.spotify.com/album/2MXQCiha96eJp32V624dhb) | 2:58 |
-| 82 | [Don't Matter](https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Vertigo](https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg) | 3:20 |
+| 82 | [Her Eyes](https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6) | 3:35 |
 | 83 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
-| 84 | [Her Eyes](https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6) | 3:35 |
+| 84 | [Don't Matter](https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Vertigo](https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg) | 3:20 |
 | 85 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
 | 86 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
 | 87 | [Damelo](https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Mr\. Juve](https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8) | [Damelo](https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW) | 2:37 |

@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1063991,
+  "num_followers": 1063902,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Ur Mum",
+        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Ur Mum",
+      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 210026,
       "name": "Reaching Out To You",
       "url": "https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Ur Mum",
-        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Ur Mum",
-      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Surfer Rosa (Remastered)",
-        "url": "https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI"
+        "name": "Dive Deep",
+        "url": "https://open.spotify.com/album/3oHLZFnFrqaRckM76Wsvgn"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
         }
       ],
-      "duration_ms": 236973,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1"
+      "duration_ms": 313500,
+      "name": "Dive Deep",
+      "url": "https://open.spotify.com/track/6yoKgVW3LYI0vD5Qq9YRg5"
     }
   ],
   "unique_name": "Indiespensables",

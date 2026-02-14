@@ -1,6 +1,6 @@
 {
   "description": "The best hardstyle remixes of songs you know!",
-  "num_followers": 223847,
+  "num_followers": 224005,
   "original_name": "Hardstyle Remixes of Popular Songs",
   "owner": {
     "name": "Spotify",
@@ -579,30 +579,6 @@
     {
       "added_at": "2026-01-30 12:00:43",
       "album": {
-        "name": "Feel Your Love (Dimitri Vegas Vinyl Only Remix)",
-        "url": "https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        }
-      ],
-      "duration_ms": 138189,
-      "name": "Feel Your Love - Dimitri Vegas Vinyl Only Remix",
-      "url": "https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb"
-    },
-    {
-      "added_at": "2026-01-30 12:00:43",
-      "album": {
         "name": "Another Love (Hardstyle - Sped Up)",
         "url": "https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 179600,
       "name": "Wake Me Up - Hardstyle Mix",
       "url": "https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433"
+    },
+    {
+      "added_at": "2026-01-30 12:00:43",
+      "album": {
+        "name": "Feel Your Love (Dimitri Vegas Vinyl Only Remix)",
+        "url": "https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 138189,
+      "name": "Feel Your Love - Dimitri Vegas Vinyl Only Remix",
+      "url": "https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb"
     },
     {
       "added_at": "2026-01-30 12:00:43",
@@ -859,30 +859,6 @@
     {
       "added_at": "2026-01-30 12:00:43",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        },
-        {
-          "name": "Ava Silver",
-          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
-        },
-        {
-          "name": "GLDY LX",
-          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
-        }
-      ],
-      "duration_ms": 227254,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F"
-    },
-    {
-      "added_at": "2026-01-30 12:00:43",
-      "album": {
         "name": "Locked Out Of Heaven (Hardstyle) - Sped Up",
         "url": "https://open.spotify.com/album/2y2hH2PKakxRmxmIW4xPcn"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 194913,
       "name": "Locked Out Of Heaven (Hardstyle) - Sped Up",
       "url": "https://open.spotify.com/track/0ExPOKGYA2HAykGEsCxJS6"
+    },
+    {
+      "added_at": "2026-01-30 12:00:43",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        },
+        {
+          "name": "GLDY LX",
+          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
+        }
+      ],
+      "duration_ms": 227254,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F"
     },
     {
       "added_at": "2026-01-30 12:00:43",

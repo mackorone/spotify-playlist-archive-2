@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Keli Holiday
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,303 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,309 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 7](https://open.spotify.com/track/68MVhCraIUdjnZcaGUxz9q) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [More](https://open.spotify.com/track/68MVhCraIUdjnZcaGUxz9q) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Capital Fiction](https://open.spotify.com/album/4GTImPrNHiyT4bRKMfMiZk) | 2:16 |
 | 2 | [DIRTY TECH](https://open.spotify.com/track/4HeRz0c4WDErd3Ey953EVW) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [DIRTY TECH](https://open.spotify.com/album/1tjCwuPGmMs4N5T15ZKWlh) | 2:20 |
 | 3 | [Foxtrap](https://open.spotify.com/track/7oBXofppxSrXALXG0Agcnv) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Foxtrap](https://open.spotify.com/album/01mswWCdsOBOKGQHcPVjC2) | 3:04 |
 | 4 | [There's A New Place On The Market](https://open.spotify.com/track/7AMASL10IJ1PPqFtgXqgQL) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [There's A New Place On The Market](https://open.spotify.com/album/4UbSza3cCt52p2tNPb1ruN) | 3:34 |
 | 5 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 6 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 7 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [](https://open.spotify.com/album/null) | 4:04 |
+| 7 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 |
 | 8 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
 | 9 | [Yadingji](https://open.spotify.com/track/2DBmM2B6rqpf975z7ciy02) | [Cooee](https://open.spotify.com/artist/4djc7i30QONXZMruV4rXuS) | [Yadingji](https://open.spotify.com/album/4YMCVAz4AQH1RzKqtMCPa8) | 3:20 |
 | 10 | [Beatback](https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Beatback](https://open.spotify.com/album/0nKPxS384Utr4iDBXlZBRU) | 2:19 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 15 | [romp](https://open.spotify.com/track/1JAD1TsssVNoZM4kvSykCH) | [Kinji](https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh) | [Thunderhead](https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed) | 4:31 |
 | 16 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
 | 17 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 |
-| 18 | [Track 6](https://open.spotify.com/track/6bMrpe8vPc5c5sPP0OPIVN) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [Escape From Planet Earth](https://open.spotify.com/track/6bMrpe8vPc5c5sPP0OPIVN) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Red Sunset](https://open.spotify.com/album/1QSBbWG8CAH4aWOA3d7FHK) | 2:40 |
 | 19 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 |
 | 20 | [Chain My Heart to Plastic](https://open.spotify.com/track/3ULvttoUlVAKIFDP8eXyiK) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Chain My Heart To Plastic](https://open.spotify.com/album/4woSJx7zn9oyFAnxtUuqaI) | 2:56 |
-| 21 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [](https://open.spotify.com/album/null) | 5:33 |
+| 21 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 |
 | 22 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 |
 | 23 | [North](https://open.spotify.com/track/2sfkbZQSb5bvKd9wWvjFMC) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [North](https://open.spotify.com/album/16ECg28z1RGZ4Ot889Qbco) | 4:48 |
 | 24 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 30 | [Stay Useless](https://open.spotify.com/track/2YI9yECuIXsuskiWgYmCN9) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Facility Extras](https://open.spotify.com/album/2yZTUugv9J8wuE72y0epzB) | 3:49 |
 | 31 | [Drama King](https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Drama King](https://open.spotify.com/album/02iICHeNdgziyDRE70DCse) | 3:10 |
 | 32 | [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 |
-| 33 | [Sisters \(feat\. Ninajirachi\)](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters \(feat\. Ninajirachi\)](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 |
+| 33 | [Sisters](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 |
 | 34 | [Javelin](https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Javelin](https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX) | 3:45 |
-| 35 | [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [](https://open.spotify.com/album/null) | 3:17 |
+| 35 | [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes a Girl a Girl](https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ) | 3:17 |
 | 36 | [Puddles \- Zero 7 Remix](https://open.spotify.com/track/5gKZloxCvhFXNuLSZYryIU) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT), [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Puddles \(Zero 7 Remix\)](https://open.spotify.com/album/5nFqFdG8YfUPg5GMgDPIET) | 6:01 |
 | 37 | [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 |
 | 38 | [Coal Dust](https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Coal Dust](https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z) | 3:27 |

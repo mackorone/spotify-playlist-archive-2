@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Ryan Castro, Kapo y Gangsta.
 
-1,166 songs - 2 day 15 hr 46 min
+1,167 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2021-12-17 | 2022-01-29 |
 | [ESTE](https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [ESTE](https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU) | 2:42 | 2024-07-26 | 2024-12-07 |
 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 | 2022-02-25 | 2022-05-07 |
+| [Estuve Ahí](https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Estuve Ahí](https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW) | 2:15 | 2026-02-13 |  |
 | [ETA \- RMX](https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ETA \(RMX\)](https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr) | 7:42 | 2024-12-13 | 2025-09-05 |
 | [Ex\-Special](https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ex\-Special](https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp) | 3:49 | 2023-09-08 | 2023-12-23 |
 | [Extasisssssss](https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 1:56 | 2023-12-22 | 2024-03-23 |
@@ -1086,7 +1087,7 @@
 | [Un Dia en Mi Barrio](https://open.spotify.com/track/3G5E96MgweWL5SvL3GAwZ9) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo) | [Un Dia en Mi Barrio](https://open.spotify.com/album/0LCkVTaIfTXqJW4JSEUqKT) | 2:27 | 2025-05-28 | 2025-07-11 |
 | [Un Finde \- Remix](https://open.spotify.com/track/0MeslraQUHKIcAhnO050Z1) | [ELITE Djs](https://open.spotify.com/artist/57AsV0UOBiSePiQNMadLPh) | [Un Finde \(Remix\)](https://open.spotify.com/album/6fNV4XXBDHLrLvwyhJdd1a) | 2:17 | 2023-12-14 | 2024-01-13 |
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-29 | 2022-09-10 |
-| [Un Polvito +](https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Un Polvito +](https://open.spotify.com/album/51j9nVeyDUYp2FlwhlSyzL) | 3:34 | 2025-10-20 |  |
+| [Un Polvito +](https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Un Polvito +](https://open.spotify.com/album/51j9nVeyDUYp2FlwhlSyzL) | 3:34 | 2025-10-20 | 2026-02-14 |
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-10-06 | 2024-05-23 |
 | [Un Rodeoooo](https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Un Rodeoooo](https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi) | 2:16 | 2023-07-21 | 2024-08-24 |
 | [Una en un Millón](https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una en un Millón](https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC) | 2:35 | 2023-06-09 | 2023-08-04 |

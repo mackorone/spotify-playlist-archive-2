@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2949889,
+  "num_followers": 2949861,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAA5Sjz4NBp+vZQhupN+RQAF",
+  "snapshot_id": "aY0YAAAAAAC6v+KIb4PKP2FIvMvWjv6U",
   "tracks": [
     {
       "added_at": null,
@@ -787,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+        "name": "You Will Regret (Reloaded)",
+        "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
       },
       "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 76973,
-      "name": "difference (interlude)",
-      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
+      "duration_ms": 210386,
+      "name": "Take A Step Back",
+      "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
     },
     {
       "added_at": null,
@@ -819,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Will Regret (Reloaded)",
-        "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
       "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        },
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Take A Step Back",
-      "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
+      "duration_ms": 76973,
+      "name": "difference (interlude)",
+      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
     },
     {
       "added_at": null,

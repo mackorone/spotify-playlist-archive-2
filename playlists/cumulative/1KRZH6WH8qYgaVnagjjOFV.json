@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-13",
-  "description": "Top Christian Hits 2026 | Latest and greatest Christian songs of 2026. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href=\"https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k_0tRBc-QKaaJDlZqV9KHg\">Jamie MacDonald</a> 2016 | Winter storm | snow storm 2026 | GRAMMYs 2026 | feeling cozy",
+  "description": "Top Christian Hits 2026 | Best Christian songs of 2026. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href=\"https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k_0tRBc-QKaaJDlZqV9KHg\">Jamie MacDonald</a> 2016 | Winter storm | snow storm 2026 | GRAMMYs 2026 | feeling cozy",
   "name": "Top Christian Hits 2026",
   "tracks": [
     {
@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Do It All Alone",
+        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172738,
+      "name": "Do It All Alone",
+      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
+    },
+    {
+      "album": {
         "name": "Mt. Zion",
         "url": "https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd"
       },
@@ -1230,6 +1248,24 @@
       "duration_ms": 289972,
       "name": "He Arose",
       "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
+    },
+    {
+      "album": {
+        "name": "He Can",
+        "url": "https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "He Can",
+      "url": "https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P"
     },
     {
       "album": {
@@ -3186,6 +3222,24 @@
       "duration_ms": 210923,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/4EwaM0IOIzHAJqyoJd5nj6"
+    },
+    {
+      "album": {
+        "name": "when i think about my jesus",
+        "url": "https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210054,
+      "name": "when i think about my jesus",
+      "url": "https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT"
     },
     {
       "album": {

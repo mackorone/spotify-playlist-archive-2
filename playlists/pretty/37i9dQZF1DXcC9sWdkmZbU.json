@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 146335,
+  "num_followers": 146353,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -91,26 +91,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "SPARKLE. POP. RAMPAGE.",
-        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
-      },
-      "artists": [
-        {
-          "name": "Rend Co. Kids",
-          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
-        },
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "My Lighthouse",
-      "url": "https://open.spotify.com/track/7mdA28PZsE1vI8X6i0fioF"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Taste and See",
         "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 174613,
       "name": "My God Is Number One",
       "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "SPARKLE. POP. RAMPAGE.",
+        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
+      },
+      "artists": [
+        {
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/7mdA28PZsE1vI8X6i0fioF"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
-      },
-      "artists": [
-        {
-          "name": "Elevation Church Kids",
-          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "For Your Glory",
-      "url": "https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Capitol Kids! Hits",
         "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 254986,
       "name": "God's Not Dead (Like A Lion)",
       "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
+      },
+      "artists": [
+        {
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "For Your Glory",
+      "url": "https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "You Amaze Me",
-        "url": "https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY"
-      },
-      "artists": [
-        {
-          "name": "KidSpring",
-          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
-        }
-      ],
-      "duration_ms": 152554,
-      "name": "Be Completely Changed",
-      "url": "https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Everyone Should Know",
         "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
       },
@@ -1151,8 +1135,24 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "100 Songs from the Bible",
-        "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
+        "name": "You Amaze Me",
+        "url": "https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY"
+      },
+      "artists": [
+        {
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+        }
+      ],
+      "duration_ms": 152554,
+      "name": "Be Completely Changed",
+      "url": "https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Toddler 1 Minute Bible Songs",
+        "url": "https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
         }
       ],
-      "duration_ms": 141746,
-      "name": "I Am the Way (John 14:6)",
-      "url": "https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd"
+      "duration_ms": 68491,
+      "name": "John 3:16",
+      "url": "https://open.spotify.com/track/4OzzLRZuqPSIr5fBxD9sfV"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Top 50 Kids' Praise! Company",
-        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Kids",
-          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
-        }
-      ],
-      "duration_ms": 230946,
-      "name": "No Greater Love",
-      "url": "https://open.spotify.com/track/2AfFMm3DTsbQ1qvE61uZwM"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "3 Little Words, Vol. 7",
         "url": "https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 115522,
       "name": "Books Of The Bible",
       "url": "https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Top 50 Kids' Praise! Company",
+        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Kids",
+          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
+        }
+      ],
+      "duration_ms": 230946,
+      "name": "No Greater Love",
+      "url": "https://open.spotify.com/track/2AfFMm3DTsbQ1qvE61uZwM"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Shout to the Lord Kids",
-        "url": "https://open.spotify.com/album/3srxJtNh6S5SCHgxoMomWV"
+        "name": "Psalms 150",
+        "url": "https://open.spotify.com/album/5JnXfbyb5m4kbtYkLzPMz2"
       },
       "artists": [
         {
-          "name": "KidStuf Singers",
-          "url": "https://open.spotify.com/artist/5JuIVBnUSqlAIXIO4xxXnM"
-        },
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
         }
       ],
-      "duration_ms": 190400,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/6hv4MN2Knt4Zk2EyeCJ1pb"
+      "duration_ms": 149538,
+      "name": "Psalms 150",
+      "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"
     }
   ],
   "unique_name": "Christian & Gospel Kids",

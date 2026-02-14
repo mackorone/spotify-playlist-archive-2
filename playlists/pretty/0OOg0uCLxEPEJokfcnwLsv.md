@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 697 likes - 92 songs - 5 hr 48 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 704 likes - 99 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,12 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 90 | [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 |
 | 91 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
 | 92 | [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 |
+| 93 | [Shine Your Shoes](https://open.spotify.com/track/6Ro4y2BWJt4KlUZfXxfokk) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Donatello Soul](https://open.spotify.com/album/2sdIfhH5l2fGNsX2fHHqe8) | 3:20 |
+| 94 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 |
+| 95 | [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 |
+| 96 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 |
+| 97 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
+| 98 | [Reason We All Share](https://open.spotify.com/track/5jvrlhTDejDARcAQfAmWT8) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Reason We All Share](https://open.spotify.com/album/7IN9coSLqiMdGcPZocsTft) | 3:12 |
+| 99 | [Rock it to the Moon](https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 2:41 |
 
-Snapshot ID: `AAAE4CEhOalKYzNlC2VHgBgM3cfvfysx`
+Snapshot ID: `AAAE5xx2koKZHcPhwDaf5f5qbf+v4KN4`

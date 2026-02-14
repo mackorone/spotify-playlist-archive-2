@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Тепла музика в холодні дні ☕ ❄️🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,283 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,284 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,20 +46,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 36 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
 | 37 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 |
 | 38 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
-| 39 | [Спірічуал](https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Найдорожчі речі у світі](https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF) | 4:15 |
-| 40 | [Забудь мене](https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Забудь мене](https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw) | 2:33 |
+| 39 | [Забудь мене](https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Забудь мене](https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw) | 2:33 |
+| 40 | [Спірічуал](https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Найдорожчі речі у світі](https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF) | 4:15 |
 | 41 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
 | 42 | [Очі дівочі](https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy) | [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [Очі дівочі](https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm) | 2:34 |
 | 43 | [вальс під вибухи](https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [вальс під вибухи](https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw) | 3:30 |
-| 44 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
-| 45 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
+| 44 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
+| 45 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
 | 46 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 |
-| 47 | [навіщо ці сварки](https://open.spotify.com/track/38GsUZ16qLuirI0u1b47UZ) | [Feviane](https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14), [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd) | [навіщо ці сварки](https://open.spotify.com/album/70K1VtijQg0QcYvK9KwPTU) | 2:55 |
-| 48 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
-| 49 | [Небо](https://open.spotify.com/track/5UzlZ3vJdzXMD3sLPq7hyB) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Небо](https://open.spotify.com/album/79iV7wXQqZ0hM8mb9iVJMZ) | 3:12 |
-| 50 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
-| 51 | [Фурія](https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd) | [BRYANGIN](https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8) | [Фурія](https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR) | 3:08 |
-| 52 | [На самоті](https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [На самоті](https://open.spotify.com/album/786cElizhWDpDRC44iXLmT) | 5:36 |
+| 47 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
+| 48 | [навіщо ці сварки](https://open.spotify.com/track/38GsUZ16qLuirI0u1b47UZ) | [Feviane](https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14), [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd) | [навіщо ці сварки](https://open.spotify.com/album/70K1VtijQg0QcYvK9KwPTU) | 2:55 |
+| 49 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
+| 50 | [Фурія](https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd) | [BRYANGIN](https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8) | [Фурія](https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR) | 3:08 |
+| 51 | [На самоті](https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [На самоті](https://open.spotify.com/album/786cElizhWDpDRC44iXLmT) | 5:36 |
+| 52 | [Небо](https://open.spotify.com/track/5UzlZ3vJdzXMD3sLPq7hyB) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Небо](https://open.spotify.com/album/79iV7wXQqZ0hM8mb9iVJMZ) | 3:12 |
 | 53 | [ДИМ \- Acoustic](https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce) | [БЕЗ ОБМЕЖЕНЬ](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ \(Acoustic\)](https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es) | 3:41 |
 | 54 | [Всі ці фарби](https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [Більше ніж здається](https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ) | 3:00 |
 | 55 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |

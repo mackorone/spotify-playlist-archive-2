@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Ilusion Eterno
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,984 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,979 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 48 | [Rodolfo El Reno](https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Rodolfo El Reno](https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ) | 3:27 |
 | 49 | [Feliz Navidad](https://open.spotify.com/track/0Es2hHjYJqRPlQjMxm6sut) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 3:29 |
 | 50 | [El Año Viejo](https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [El Año Viejo](https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I) | 2:52 |
-| 51 | [Amarga navidad \(Ranchera\)](https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78), [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La última canción](https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279) | 2:36 |
-| 52 | [Los Plebes En El Río](https://open.spotify.com/track/6rysHSjF5GptPktyORkVfQ) | [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [Los Plebes En El Río](https://open.spotify.com/album/1ElvdlX6KOY80peRUO78xN) | 2:38 |
+| 51 | [Los Plebes En El Río](https://open.spotify.com/track/6rysHSjF5GptPktyORkVfQ) | [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [Los Plebes En El Río](https://open.spotify.com/album/1ElvdlX6KOY80peRUO78xN) | 2:38 |
+| 52 | [Amarga navidad \(Ranchera\)](https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78), [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La última canción](https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279) | 2:36 |
 | 53 | [Navidad Rock](https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Navidad Rock](https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p) | 2:07 |
 | 54 | [Cada Diciembre](https://open.spotify.com/track/06jpTiHUJBpgXaiPvrFMLE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 2:37 |
-| 55 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
-| 56 | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 |
+| 55 | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 |
+| 56 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
 | 57 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 |
 | 58 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
 | 59 | [Feliz Navidad](https://open.spotify.com/track/6Ra9tH3xV7bN7oHwYol2hi) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Navidad Con Bebeto](https://open.spotify.com/album/6HiQ6te1m4K2WqHYmB09ql) | 3:07 |

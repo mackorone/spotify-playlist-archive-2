@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- New Zealand.
 
-1,860 songs - 4 day 12 hr 13 min
+1,861 songs - 4 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Cassandra](https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:00 | 2024-04-20 | 2024-04-24 |
 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 | 2023-02-11 | 2026-01-20 |
 | [Castles Crumbling \(feat\. Hayley Williams\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:06 | 2023-07-08 | 2023-07-13 |
+| [Catch A Wave](https://open.spotify.com/track/1PGyvdgHeaMFlzT1lFgw44) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc), [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Catch A Wave](https://open.spotify.com/album/0o2f6LfW1GtcaFNQ8wEAUd) | 2:57 | 2026-02-13 |  |
 | [Catching Feelings \(feat\. SIX60\)](https://open.spotify.com/track/0gCNs3jCCDhObAK0MRghtv) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Drax Project](https://open.spotify.com/album/5gdsguQxwQQlpTi1SU3tbY) | 3:38 | 2021-03-27\* | 2023-01-02 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-16 | 2023-06-04 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-06 | 2023-02-14 |
@@ -1384,7 +1385,7 @@
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-08 | 2022-02-11 |
 | [Say Yes To Heaven](https://open.spotify.com/track/03wOsqNRdFZAgwo708sjw2) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven \(sim0ne & Melo Nada Remix\)](https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J) | 3:29 | 2023-06-08 | 2023-06-11 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-18 |
-| [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 | 2023-01-21 |  |
+| [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 | 2023-01-21 | 2026-02-14 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-26 | 2024-12-13 |
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2021-09-19 | 2021-09-24 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-05-07 |

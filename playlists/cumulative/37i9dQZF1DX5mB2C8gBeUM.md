@@ -2,9 +2,9 @@
 
 ### [Buckwild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Marshmello and Hudson Westbrook
+> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Marshmello and Hudson Westbrook
 
-521 songs - 1 day 1 hr 49 min
+522 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Country City Boy](https://open.spotify.com/track/2z21OBJgj7u0bDwxCUfVky) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Country City Boy](https://open.spotify.com/album/4XbnQgw1296LevYM7HI2lu) | 3:03 | 2021-12-10 | 2022-06-11 |
 | [Country Club](https://open.spotify.com/track/7AEw4J42zlyufYBfi64YgP) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Country Club](https://open.spotify.com/album/1SPUlFiGVdkObmhRJ8sjkS) | 2:20 | 2023-06-23 |  |
 | [Country Love Song](https://open.spotify.com/track/5vELSiqWSrJTOLuj4lTiPS) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Country Love Song](https://open.spotify.com/album/56zZX11mnTd4gJwcHR2aQl) | 3:12 | 2023-03-03 | 2025-06-30 |
+| [COUNTRY MUSIC](https://open.spotify.com/track/4sDm9hZWYAurCs8l77xkZH) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [COUNTRY MUSIC](https://open.spotify.com/album/7vu6qBNbU0iW6zBh2Umu5P) | 2:11 | 2026-02-13 |  |
 | [COUNTRY SIDE](https://open.spotify.com/track/1rE8TvtsEHBeJuTZ3cKuv1) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [COUNTRY SIDE](https://open.spotify.com/album/2Bg6EqfH0jdqbWUdYagABo) | 2:24 | 2021-12-10 | 2022-01-08 |
 | [COUNTRY TO THE CITY](https://open.spotify.com/track/1uoymmNEenD0E2jRoW2Zwq) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [COUNTRY TRAP](https://open.spotify.com/album/3IEYwKGZtYATXBhauRa3n8) | 2:20 | 2022-10-21 | 2023-09-30 |
 | [County Line](https://open.spotify.com/track/1UFzK8PZGiHXyjGGVawR77) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:31 | 2022-09-09 | 2024-01-27 |
@@ -502,7 +503,7 @@
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 | 2024-04-13 |
 | [Whiskey Blues](https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Whiskey Blues](https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y) | 2:13 | 2024-04-12 |  |
 | [Whiskey Mode](https://open.spotify.com/track/37Vr9VYnUtMZXxZ9DkR6Qv) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Whiskey Mode](https://open.spotify.com/album/7N1YlqTjrOBPWZ8uccFmJ7) | 3:30 | 2021-12-10 | 2022-07-02 |
-| [WHISKEY RAIN \- feat\. Tyler Hubbard](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 | 2025-09-05 |  |
+| [WHISKEY RAIN \- feat\. Tyler Hubbard](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 | 2025-09-05 | 2026-02-14 |
 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-14 |  |
 | [Who Are You Kidding?](https://open.spotify.com/track/0MNRFOV4FnArjHK6Elx5uj) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Who Are You Kidding?](https://open.spotify.com/album/5Jn4Ph14KfaiKLSaAtY6SK) | 3:27 | 2021-12-10 | 2022-06-04 |
 | [Who's Who](https://open.spotify.com/track/58eoIvflH0MRRLJ4MNXdzk) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [Who's Who](https://open.spotify.com/album/4iFVcNqMKpAyyXmi4oHvVv) | 3:13 | 2024-09-06 | 2025-06-30 |

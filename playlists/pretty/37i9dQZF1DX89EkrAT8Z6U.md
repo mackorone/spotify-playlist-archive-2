@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,139 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,316 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 45 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
 | 46 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 |
 | 47 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
-| 48 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
-| 49 | [Break Shit](https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Break Shit](https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA) | 1:35 |
-| 50 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 |
-| 51 | [Mami!](https://open.spotify.com/track/4M1CMx1FyAGyrOf4zEkBGR) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Mami!](https://open.spotify.com/album/6bGRRZ4QeRXLBrBxy3YroG) | 1:44 |
+| 48 | [Break Shit](https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Break Shit](https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA) | 1:35 |
+| 49 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 50 | [Mami!](https://open.spotify.com/track/4M1CMx1FyAGyrOf4zEkBGR) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Mami!](https://open.spotify.com/album/6bGRRZ4QeRXLBrBxy3YroG) | 1:44 |
+| 51 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 |
 | 52 | [ghost in the shell \(feat\. SXMPRA\)](https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:37 |
 | 53 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
 | 54 | [Bombs Away](https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Bombs Away](https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL) | 2:26 |

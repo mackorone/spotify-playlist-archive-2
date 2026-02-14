@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: La Ley
 
-320 songs - 20 hr 17 min
+321 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Tanto creo en ti](https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Tanto creo en ti](https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd) | 3:16 | 2022-04-08 | 2024-08-31 |
 | [Te amodio](https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Te Amodio](https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes) | 3:14 | 2025-08-28 |  |
 | [Te Mueres \- En Vivo](https://open.spotify.com/track/29bbukCrs2vjeeUwhHBR14) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Mueres](https://open.spotify.com/album/03sxKGrSIHyjp9S5EXtcub) | 6:46 | 2022-04-08 | 2022-10-08 |
-| [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 | 2022-08-26 |  |
+| [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedro Piedra](https://open.spotify.com/artist/18rP7uwYEhsn4DdRCxEVf3) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 | 2022-08-26 |  |
 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 | 2022-04-08 | 2023-03-03 |
 | [Tirate](https://open.spotify.com/track/5u6AzESv0MYzBE1ZBrY20V) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:17 | 2022-04-08 | 2022-12-17 |
 | [Todo Cae](https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 4:22 | 2022-04-08 |  |
@@ -290,7 +290,8 @@
 | [Tótem](https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Tótem](https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa) | 2:27 | 2024-05-10 |  |
 | [TÚ](https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [TÚ](https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ) | 3:55 | 2023-06-16 | 2024-08-31 |
 | [Tú No Propones Na](https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 1:26 | 2022-04-08 | 2023-03-03 |
-| [Tú y yo](https://open.spotify.com/track/3KfYDbjKcTBBIJHSrPnb8i) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/1Epws7wl70Zw5ChWGxjn5c) | 3:06 | 2026-01-30 |  |
+| [Tú y yo](https://open.spotify.com/track/2ZQmqMw6HnLY7qYvpGpqQ6) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/5a7sLXe6QboFGrKJZ955qg) | 2:50 | 2026-02-13 |  |
+| [Tú y yo](https://open.spotify.com/track/3KfYDbjKcTBBIJHSrPnb8i) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/1Epws7wl70Zw5ChWGxjn5c) | 3:06 | 2026-01-30 | 2026-02-14 |
 | [Un Amor Violento \(Revuelta en vivo\)](https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:51 | 2025-04-11 |  |
 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 | 2022-04-08 |  |
 | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo) | 3:38 | 2022-04-08 | 2025-08-01 |

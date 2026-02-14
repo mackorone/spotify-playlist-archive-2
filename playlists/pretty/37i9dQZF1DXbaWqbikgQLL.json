@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 75476,
+  "num_followers": 75537,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 311400,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Amor Secreto",
+      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Los Buitres Con Tololoche",
         "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Acarey Ya Lleg\u00f3",
         "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 300773,
       "name": "Eres Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 187280,
       "name": "En Preparacion",
       "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198026,
       "name": "Aquiles Afirmo",
       "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Pa' Gozar - Zona Rika",
+        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+      },
+      "artists": [
+        {
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 235821,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Pa' Gozar - Zona Rika",
-        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
       "artists": [
         {
-          "name": "Zona Rika",
-          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 235821,
-      "name": "Spanish Girl",
-      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
+      "duration_ms": 281186,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
-      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 377160,
       "name": "Quiero Morir En Tu Piel",
       "url": "https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1179,6 +1195,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+      },
+      "artists": [
+        {
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -1207,38 +1239,6 @@
       "duration_ms": 218019,
       "name": "Espantan - Remix",
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
-      },
-      "artists": [
-        {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 281186,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Esta Cobard\u00eda",
+        "url": "https://open.spotify.com/album/6fcH0RHemRnvokMVf2Ogjj"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz y Su Orquesta",
+          "url": "https://open.spotify.com/artist/6W5KPtMeIS9zMqHCGxGwzh"
+        }
+      ],
+      "duration_ms": 303412,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/5ONnbTPRBGp25qlQutPCAd"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1547,22 +1563,6 @@
       "duration_ms": 237666,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Esta Cobard\u00eda",
-        "url": "https://open.spotify.com/album/6fcH0RHemRnvokMVf2Ogjj"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz y Su Orquesta",
-          "url": "https://open.spotify.com/artist/6W5KPtMeIS9zMqHCGxGwzh"
-        }
-      ],
-      "duration_ms": 303412,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/5ONnbTPRBGp25qlQutPCAd"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
-      },
-      "artists": [
-        {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
-        }
-      ],
-      "duration_ms": 261591,
-      "name": "Mujer Ara\u00f1a",
-      "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Frankie Ruiz La Leyenda",
         "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 295160,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
+      },
+      "artists": [
+        {
+          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
+          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
+        }
+      ],
+      "duration_ms": 261591,
+      "name": "Mujer Ara\u00f1a",
+      "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Arriba Siempre - De Pura Sangre",
         "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Frankie Ruiz La Leyenda",
+        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -2015,18 +2031,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Frankie Ruiz La Leyenda",
-        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
+        "name": "Mi Cuerpo No Esta Hecho de Metal",
+        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Los Titanes de la Salsa",
+          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
         }
       ],
-      "duration_ms": 287600,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL"
+      "duration_ms": 279591,
+      "name": "Mi Cuerpo No Esta Hecho de Metal",
+      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2043,22 +2059,6 @@
       "duration_ms": 364573,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Mi Cuerpo No Esta Hecho de Metal",
-        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes de la Salsa",
-          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
-        }
-      ],
-      "duration_ms": 279591,
-      "name": "Mi Cuerpo No Esta Hecho de Metal",
-      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Ahora M\u00e1s Que Nunca",
         "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 271766,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Manos de Tijera",
-        "url": "https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 230225,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 265480,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Manos de Tijera",
+        "url": "https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 230225,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Sin Escencia",
-        "url": "https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Sin Escencia",
-      "url": "https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Hasta El Cielo Lloro",
         "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 326640,
       "name": "Vuelvo A Sentir",
       "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Sin Escencia",
+        "url": "https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Sin Escencia",
+      "url": "https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ"
     },
     {
       "added_at": "2025-09-26 06:00:27",

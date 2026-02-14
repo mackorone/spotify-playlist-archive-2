@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Arath Arceo \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! El Fantasma \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -454,6 +454,28 @@
       "duration_ms": 178412,
       "name": "Alma Enamorada (En Vivo)",
       "url": "https://open.spotify.com/track/0vLXA9eQpe56eGBz0lTDqW"
+    },
+    {
+      "album": {
+        "name": "Amanec\u00ed Con Ganas",
+        "url": "https://open.spotify.com/album/7fApp4PbJj5FqWZuF0dYNR"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149264,
+      "name": "Amanec\u00ed Con Ganas",
+      "url": "https://open.spotify.com/track/3BMallCxdW0F7JOZPdafQo"
     },
     {
       "album": {
@@ -964,7 +986,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 232500,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/0giKaADapSeNCbNsQH93Ju"
@@ -1573,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Chalupas y buenas",
+        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156893,
+      "name": "Chalupas y buenas",
+      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
+    },
+    {
+      "album": {
         "name": "Chatita de Mis Amores",
         "url": "https://open.spotify.com/album/0STb39hcGQLDU7Ge0iMpqO"
       },
@@ -1788,7 +1828,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 203096,
       "name": "Como La Palma De Mi Mano",
       "url": "https://open.spotify.com/track/5hAdvuDvNXJtPinXBIT4nc"
@@ -2124,7 +2164,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176000,
       "name": "Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
@@ -2368,7 +2408,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 230193,
       "name": "Cu\u00e9ntame (En Vivo)",
       "url": "https://open.spotify.com/track/0SPAv2CSwbGILkpjjFCzzk"
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197283,
       "name": "Cu\u00eddala",
       "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
@@ -2602,6 +2642,28 @@
       "duration_ms": 215364,
       "name": "De Nuestro Amor No Queda Nada",
       "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+    },
+    {
+      "album": {
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
+      },
+      "artists": [
+        {
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+        },
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182376,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
     },
     {
       "album": {
@@ -3490,7 +3552,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 177096,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
@@ -4586,6 +4648,28 @@
       "duration_ms": 208501,
       "name": "Experiencia Religiosa",
       "url": "https://open.spotify.com/track/3djWOHPhNgMAVrt3ncEP0R"
+    },
+    {
+      "album": {
+        "name": "Experto En Fracasos",
+        "url": "https://open.spotify.com/album/6Z7pMgTbFhIrQ7BXK6hwOm"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Montero",
+          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+        },
+        {
+          "name": "Banda La Tocadora",
+          "url": "https://open.spotify.com/artist/0OasfAJiGwikx5wG5wuSy6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191141,
+      "name": "Experto En Fracasos",
+      "url": "https://open.spotify.com/track/11SK5HbiMSO0WEYvsaXwAO"
     },
     {
       "album": {
@@ -5708,10 +5792,28 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 210768,
       "name": "La Rabia - En Vivo",
       "url": "https://open.spotify.com/track/04R8sty3NIXKH990aCA5MG"
+    },
+    {
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "album": {
@@ -5934,6 +6036,42 @@
       "duration_ms": 203613,
       "name": "Le Dicen",
       "url": "https://open.spotify.com/track/66Fs6uL39wuJX2NmKM7mKH"
+    },
+    {
+      "album": {
+        "name": "Le Va A Doler",
+        "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160258,
+      "name": "Le Va A Doler",
+      "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
+    },
+    {
+      "album": {
+        "name": "Letal (Remasterizado)",
+        "url": "https://open.spotify.com/album/6y3uwphJUidWsHe8eZqeKq"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179269,
+      "name": "Letal - Remasterizado",
+      "url": "https://open.spotify.com/track/73uPndptmSmlRABX66NegK"
     },
     {
       "album": {
@@ -7004,7 +7142,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 158122,
       "name": "Mi Persona Especial",
       "url": "https://open.spotify.com/track/4wVGAlmWqnXxzvAMsCZhM3"
@@ -7296,7 +7434,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 224166,
       "name": "Muchachita De Ojos Tristes - En Vivo",
       "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
@@ -8302,7 +8440,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 150950,
       "name": "Paz En Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
@@ -8342,7 +8480,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 152599,
       "name": "Pens\u00e9 En Ti",
       "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
@@ -8422,6 +8560,24 @@
       "duration_ms": 141470,
       "name": "Pistea Por M\u00ed",
       "url": "https://open.spotify.com/track/0r44ubzzHch1YeCUP7R520"
+    },
+    {
+      "album": {
+        "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
+        "url": "https://open.spotify.com/album/4yMNMGfURraXhNmz2Er9Gh"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179745,
+      "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
+      "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
     },
     {
       "album": {
@@ -8925,6 +9081,24 @@
     },
     {
       "album": {
+        "name": "Que Bonita Mujer",
+        "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Que Bonita Mujer",
+      "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
+    },
+    {
+      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -9154,6 +9328,24 @@
       "duration_ms": 151773,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
+    },
+    {
+      "album": {
+        "name": "Quererte Mucho",
+        "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Quererte Mucho",
+      "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
     },
     {
       "album": {
@@ -9480,7 +9672,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 193668,
       "name": "Recu\u00e9rdame qui\u00e9n eres",
       "url": "https://open.spotify.com/track/2nXHLhGUVHg5fILUEkPQve"
@@ -10072,7 +10264,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197526,
       "name": "Si No Me Llamas",
       "url": "https://open.spotify.com/track/4caL4LY6sYsyzhbbqlvY0l"
@@ -10715,6 +10907,32 @@
     },
     {
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/6J5nDuL7cgp9igdUn9cR7L"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209548,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2g16Okw0KYkvewS8TShk24"
+    },
+    {
+      "album": {
         "name": "Te amo y te amar\u00e9",
         "url": "https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3"
       },
@@ -10940,6 +11158,28 @@
       "duration_ms": 178947,
       "name": "Te Podr\u00e9 Perdonar",
       "url": "https://open.spotify.com/track/59jjHWGXBD4edb9Q2uDjnw"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "album": {
@@ -11233,6 +11473,28 @@
     },
     {
       "album": {
+        "name": "XV Aniversario Mis Favoritas Pop (En Vivo)",
+        "url": "https://open.spotify.com/album/0B02aiOAxwC9nl2JtpLVAB"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248110,
+      "name": "Todav\u00eda No Te Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/4VgaJgsjuaPOnX0s9KILxq"
+    },
+    {
+      "album": {
         "name": "Todo Depende de Ti (En Vivo)",
         "url": "https://open.spotify.com/album/7IEyrxbsPPnt0XOT7irIrY"
       },
@@ -11386,7 +11648,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 218863,
       "name": "Tu Lo Decidiste",
       "url": "https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap"
@@ -12144,6 +12406,24 @@
       "duration_ms": 166200,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+    },
+    {
+      "album": {
+        "name": "Y de Repente",
+        "url": "https://open.spotify.com/album/1qPTt3cxLSg69dREKy9jpD"
+      },
+      "artists": [
+        {
+          "name": "Francisco El Gallo Elizalde",
+          "url": "https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189544,
+      "name": "Y de Repente",
+      "url": "https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS"
     },
     {
       "album": {

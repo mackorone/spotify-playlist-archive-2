@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 45553,
+  "num_followers": 45585,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAAC0Ay0P/wBD58nilmm/guWT",
+  "snapshot_id": "aY0YAAAAAAB3JrOblrbhJ5aOHFLu8f4+",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
+      },
+      "artists": [
+        {
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -423,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
-        {
-          "name": "EMO Grae",
-          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 168205,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
     },
     {
       "added_at": null,

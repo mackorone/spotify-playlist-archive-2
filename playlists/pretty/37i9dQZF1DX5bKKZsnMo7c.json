@@ -1,12 +1,12 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: MEEK",
-  "num_followers": 560071,
+  "num_followers": 560096,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUCX5fNwcOyz2o0MqX/GCcRhS8O",
+  "snapshot_id": "AAAAAIDXy38B0tovlRQeS/IiZTvHNuqX",
   "tracks": [
     {
       "added_at": "2026-01-30 05:00:43",
@@ -171,6 +171,22 @@
       "duration_ms": 344302,
       "name": "Numbers 31:17-18",
       "url": "https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr"
+    },
+    {
+      "added_at": "2026-02-13 06:20:36",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/0IhfnMkCpFd7ZrNHHWoLqt"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "duration_ms": 119046,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/6sPBgWvvJXebIn0fj7Shte"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1019,22 +1035,6 @@
       "duration_ms": 223013,
       "name": "ODE TO A BLACK HOLE",
       "url": "https://open.spotify.com/track/7jiKUb6Gras1SjfhB01uzu"
-    },
-    {
-      "added_at": "2025-05-09 04:00:10",
-      "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj"
-      },
-      "artists": [
-        {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
-        }
-      ],
-      "duration_ms": 284548,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3"
     },
     {
       "added_at": "2025-03-31 17:03:33",

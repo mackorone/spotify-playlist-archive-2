@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-300 songs - 16 hr 55 min
+302 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hemorrhage](https://open.spotify.com/track/7rHXQjFDKJ4R4AAEfuoNJM) | [Candace Coker](https://open.spotify.com/artist/0Frnv8PiVZxpcdUSLZSNj1) | [Hemorrhage](https://open.spotify.com/album/1B3sKjq7y3qvvFyLTxRnq4) | 4:02 | 2024-02-03 | 2025-12-14 |
 | [HERE FOR U](https://open.spotify.com/track/3Wu5EGR3dNatQR0b3zx0dT) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [HERE FOR U](https://open.spotify.com/album/4x1raU0kC6Q2FsC5lKnGMY) | 1:54 | 2024-02-05 | 2024-07-18 |
 | [Here for You](https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Here for You](https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl) | 2:32 | 2024-02-03 |  |
+| [Here In Your Arms](https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Here In Your Arms](https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7) | 2:52 | 2026-02-13 |  |
 | [Higher Love](https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Higher Love](https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO) | 4:06 | 2024-02-03 |  |
 | [Hold Her](https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:04 | 2020-04-17 | 2024-02-04 |
 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 | 2023-01-31 |  |
@@ -156,7 +157,7 @@
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2020-04-17 | 2025-09-15 |
 | [Kundi](https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Kundi](https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q) | 3:06 | 2024-02-03 | 2024-07-18 |
 | [L O V E](https://open.spotify.com/track/5d12KzbM8Kwogo2Bx4sdDH) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [L O V E](https://open.spotify.com/album/3ZjaMgxjNrGZITppbnZnHK) | 3:04 | 2024-02-03 | 2024-07-18 |
-| [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 | 2024-02-03 |  |
+| [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 | 2024-02-03 | 2026-02-14 |
 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 | 2020-04-17 | 2025-09-15 |
 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 | 2020-04-17 | 2024-04-19 |
 | [Lemonade](https://open.spotify.com/track/2IDk5wqJgRlIbgtQ9JHJPo) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Lemonade](https://open.spotify.com/album/0ra3AfTVcIiPxgcH2kTXLJ) | 3:06 | 2020-04-17 | 2022-11-13 |
@@ -228,6 +229,7 @@
 | [Red Mercedes](https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Red Mercedes](https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz) | 2:37 | 2025-02-07 | 2025-12-14 |
 | [Remind You](https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Hymn Logic](https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH) | [For the Soul](https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd) | 3:19 | 2024-02-03 | 2025-08-14 |
 | [Rich](https://open.spotify.com/track/7AW0IE4g25VZwzi6FbJ93O) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Rich](https://open.spotify.com/album/5BcnWrFlAMw6xKQTcZsYLd) | 2:17 | 2024-07-17 |  |
+| [Ride or Die](https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Ride or Die](https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St) | 2:52 | 2026-02-13 |  |
 | [Right Here](https://open.spotify.com/track/1sZiwag2P2qUCYFQiL1OBi) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Right Here](https://open.spotify.com/album/4AMqShLdVOsopjuvg97n6e) | 3:06 | 2024-02-03 | 2024-07-18 |
 | [Route 777](https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Songs from the Cloud](https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu) | 3:29 | 2024-02-03 | 2026-02-08 |
 | [Safe](https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Safe](https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX) | 4:30 | 2020-04-17 | 2025-09-15 |
@@ -241,7 +243,7 @@
 | [South Florida \(Remix\)](https://open.spotify.com/track/7rcXtR06BJ0D6xU9wmwgkI) | [Drew Ava](https://open.spotify.com/artist/1kuocA53e2MltklnSFSiGR), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Zee](https://open.spotify.com/artist/0d2diExytbLBj7Ff3FLX9p) | [South Florida \(Remix\)](https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E) | 2:45 | 2024-02-03 | 2024-07-18 |
 | [Sunday Coffee](https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Sunday Coffee](https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk) | 1:31 | 2025-09-14 |  |
 | [Sunday Morning](https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Sunday Morning](https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD) | 2:34 | 2024-02-03 | 2025-01-23 |
-| [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 | 2024-02-03 |  |
+| [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 | 2024-02-03 | 2026-02-14 |
 | [sweetest love \- live recording](https://open.spotify.com/track/7v3qP1ZU2Xv3Tx13XXjQDT) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ), [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk) | [sweetest love \(live recording\)](https://open.spotify.com/album/73v6JUuRaryWzqCXEsRh9r) | 4:42 | 2024-02-03 | 2025-12-14 |
 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 | 2024-02-03 | 2024-07-18 |
 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 | 2023-01-31 |  |

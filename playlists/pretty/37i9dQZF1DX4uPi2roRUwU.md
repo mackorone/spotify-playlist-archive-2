@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,277 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343,301 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 31 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 |
 | 32 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
 | 33 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |
-| 34 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px) | 3:09 |
+| 34 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
 | 35 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 |
-| 36 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
+| 36 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px) | 3:09 |
 | 37 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
 | 38 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
 | 39 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |

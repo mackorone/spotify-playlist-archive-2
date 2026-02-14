@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,311 songs - 5 day 15 hr 5 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,318 songs - 5 day 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 79 | [Honeysuckle](https://open.spotify.com/track/5qJDcnDw7hUG7bcNkrvOsh) | [lucky break](https://open.spotify.com/artist/19s67hCJgYq3lydu4aj5yq) | [Honeysuckle](https://open.spotify.com/album/6WMOWe2OgQQEuSypu0noiW) | 3:01 |
 | 80 | [Arcoiris y Galeras](https://open.spotify.com/track/5K62UBRtYBrMksbU8hkrQI) | [Juanmarcelo Garrido](https://open.spotify.com/artist/4QpDKXtcmj6zpintgwmUr3), [Vanessa Gago](https://open.spotify.com/artist/2RhkngG1nfp7FUpoZhXz4H), [Alexis Da Rosa](https://open.spotify.com/artist/0islSTIiTgkQ2COivkj25e) | [Arcoiris y Galeras](https://open.spotify.com/album/31otx9dSVHPjqlfBHvOraJ) | 4:12 |
 | 81 | [Fallen Angel \(Mild Abomination\)](https://open.spotify.com/track/6nt6GFSIFNcMYgjeWz2Quk) | [Daniel Horton](https://open.spotify.com/artist/4sVUM23ROHtFuQgj03qSw7) | [Pleading for Judas.](https://open.spotify.com/album/40ivNxDtuYSFdmLoJ7O1aY) | 3:07 |
-| 82 | [Summer of Heat and Spice](https://open.spotify.com/track/0m3TkmpEHDJRTOcv5hR0xM) | [Milena](https://open.spotify.com/artist/7Mq3BxmS7aMZBzyGgXZKVd) | [Higher Hopes](https://open.spotify.com/album/4iJ7t467Zi9okzVU6YKxQs) | 4:24 |
+| 82 | [Summer of Heat and Spice](https://open.spotify.com/track/0m3TkmpEHDJRTOcv5hR0xM) | [Milena Lainovic](https://open.spotify.com/artist/1K3TF9vJP7JfG2kjx8w2ME) | [Higher Hopes](https://open.spotify.com/album/4iJ7t467Zi9okzVU6YKxQs) | 4:24 |
 | 83 | [Fate](https://open.spotify.com/track/7kTvD5K9DVU7HbCvjx4PRS) | [Danybazz](https://open.spotify.com/artist/5KlZotlNUTm0vBLvaq2hBT) | [Fate](https://open.spotify.com/album/6a8Gcg9EKkVIIHYpfByKbO) | 1:56 |
 | 84 | [TWIRLING IN MY RED BOOTS](https://open.spotify.com/track/6yVDUBpznQK5L5DbSPPVU7) | [Marley Angel](https://open.spotify.com/artist/3cpd6XFLnAniWkOu74xZxA) | [ONE NIGHT ONLY](https://open.spotify.com/album/3WLz3g4mOl6IdP1yVZ9RJM) | 2:43 |
 | 85 | [2 AM](https://open.spotify.com/track/6kepthaKfUvpa3js93JW9j) | [Lineas Ley](https://open.spotify.com/artist/3de7p9LyY0GluKZPU8Eqkp) | [Álamos](https://open.spotify.com/album/4l8UcP19rEVSadYoCBQdCf) | 4:43 |
@@ -1108,7 +1108,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1098 | [Al Único](https://open.spotify.com/track/4vH7GLBF35M88sxYNg3nMJ) | [Frank H\. López](https://open.spotify.com/artist/2tfLurF9SpDJF1wVDoOUJU) | [Al Único](https://open.spotify.com/album/75uO9WdWbHiHaNJyavVqqs) | 3:43 |
 | 1099 | [Shake the Ghost](https://open.spotify.com/track/1NgSNgyLprpVCKEYkV3aDG) | [The Standalones](https://open.spotify.com/artist/69RIKi290wO27FWiBZbe9l) | [Shake the Ghost](https://open.spotify.com/album/2X1znrFw9JPw5PQiaFRQmD) | 3:20 |
 | 1100 | [Survival](https://open.spotify.com/track/4SehfhHiVu5A0t76uJ87X3) | [Kat Farley](https://open.spotify.com/artist/7FDvSNqPqTyvaRCarX4mdB) | [Shadow & Shine](https://open.spotify.com/album/5E9YQ4OKJ4uP0g4stFd3c4) | 3:08 |
-| 1101 | [Above All The Ground](https://open.spotify.com/track/1wvDynfrQYOCJh5aGjS9su) | [Milena](https://open.spotify.com/artist/7Mq3BxmS7aMZBzyGgXZKVd) | [Above All The Ground](https://open.spotify.com/album/3jLXiRLdSA8qHm8arJV8bU) | 2:33 |
+| 1101 | [Above All The Ground](https://open.spotify.com/track/1wvDynfrQYOCJh5aGjS9su) | [Milena Lainovic](https://open.spotify.com/artist/1K3TF9vJP7JfG2kjx8w2ME) | [Above All The Ground](https://open.spotify.com/album/3jLXiRLdSA8qHm8arJV8bU) | 2:33 |
 | 1102 | [Marfala \(original mix\)](https://open.spotify.com/track/0NAZOhMdTxUMIu5Fk08NFS) | [pzic](https://open.spotify.com/artist/6lU6RzJLUiwy6erAvD88C4) | [Marfala \(original mix\)](https://open.spotify.com/album/79lZqgWwfjv0vRgqBHCDmZ) | 3:31 |
 | 1103 | [Tabibu Mkuu Huyu](https://open.spotify.com/track/2bZj2UKYZaz5RktgcWQjys) | [Sda Songs](https://open.spotify.com/artist/0qQ3BIZnYojHhx7QiV5mS2), [Accapela](https://open.spotify.com/artist/6VuGyCEELe5dbzzyGp7iUk) | [Tabibu Mkuu Huyu](https://open.spotify.com/album/3coCu28KDVCeJlp7Ha9dyi) | 5:30 |
 | 1104 | [So Do I..\. \- Remix](https://open.spotify.com/track/1dqmku2BC2Ae2Q4XUSdggR) | [Jeff Wright](https://open.spotify.com/artist/2o8sTzenhmaZyXLNqvrGgy) | [So Do I..\. \(Remix\)](https://open.spotify.com/album/4g8MKvuRcdGWyyQ8uR9RgC) | 2:52 |
@@ -2319,5 +2319,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2309 | [JUA NAKUPENDA](https://open.spotify.com/track/3P3B5WfMGFwtROsOu0mtb6) | [MARK OVIN](https://open.spotify.com/artist/7AuFoZQgb2ekBCPLnY0Mfz) | [JUA NAKUPENDA](https://open.spotify.com/album/5biFSCoMErFP6zEaGwb4q0) | 3:18 |
 | 2310 | [Shattered Pieces \- Remastered 2026](https://open.spotify.com/track/0GsmUiID1NhxGPrlBGGxk5) | [Riot Hype](https://open.spotify.com/artist/6AkTxR6fyVtmtsXJ6IBMeK) | [Tomorrow Is The Future](https://open.spotify.com/album/5tiAe9vkPgvOzNZ7muVBLb) | 2:34 |
 | 2311 | [Windborne](https://open.spotify.com/track/0O9NDl3eK2OvQREtczZ6kD) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Dirty Lines Through Indigo Minds](https://open.spotify.com/album/5VGOfHz3KrBSynttgQ48J7) | 1:53 |
+| 2312 | [Mis Ancestros](https://open.spotify.com/track/2YAEhOE0uoYz6EpWiSW4Im) | [Bumaia Zoul Zystem](https://open.spotify.com/artist/4EkcaT1Mojfw1hWGTZXhdv) | [Mis Ancestros](https://open.spotify.com/album/6Zg0lnF2GSqCIDjNVnu3zo) | 3:44 |
+| 2313 | [I'm Sorry](https://open.spotify.com/track/11DXpSNffntZd5ifx8FosF) | [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7) | [I'm Sorry](https://open.spotify.com/album/1paHW3zC99MyycA2GgGyWj) | 3:23 |
+| 2314 | [Worst Enemy](https://open.spotify.com/track/0BR054bpEtceMi6gUNA3XB) | [Lua Sol](https://open.spotify.com/artist/2rQYJKeIyUZEV9oPwsmdNR) | [Alcove Moon](https://open.spotify.com/album/2qy8ddYbt3PYoexCc5WcUh) | 4:11 |
+| 2315 | [Backroads](https://open.spotify.com/track/73uGEAHMqdsupTVmJlX9fl) | [B.J Salyer](https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN) | [Backroads](https://open.spotify.com/album/6vpwCQnYL2ERD1IDY7tGxi) | 3:19 |
+| 2316 | [As Within, So Without \- French Radio Mix](https://open.spotify.com/track/0IcJUKIn9Viy4TI5y46rOO) | [The New Citizen Kane](https://open.spotify.com/artist/5n0Xoy3bYLNaG0dnxsCMbN) | [As Within, So Without](https://open.spotify.com/album/4teEWoO8WAmwmMx9HQZ0Ao) | 3:27 |
+| 2317 | [A Lone Lonesome Cowboy](https://open.spotify.com/track/7HEN7PwAo0NnVumMUubruy) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Wrong Side of Town](https://open.spotify.com/album/3lvBLHmcqvTtYQCVzsnY8O) | 3:16 |
+| 2318 | [Oh My!](https://open.spotify.com/track/0zpD6Lwf8vzM5MJpfacqKW) | [Felipe Tavares](https://open.spotify.com/artist/68o0crbNDOa62Vwx3VCGbS) | [Voz de Baixo](https://open.spotify.com/album/7fy5lRGEjxzFX1LVJIj45k) | 2:05 |
 
-Snapshot ID: `AAAJnvZwpUiqbYfrfEPUBjzsi+lh5IGt`
+Snapshot ID: `AAAJpZDmuJMlHWH4Tv4Ibk1rYsPhGWOS`

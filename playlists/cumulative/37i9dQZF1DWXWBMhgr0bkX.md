@@ -4,7 +4,7 @@
 
 > Homegrown emerging pop! Cover: MEEK
 
-1,006 songs - 2 day 3 hr 38 min
+1,006 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,6 +853,7 @@
 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 | 2025-07-10 | 2025-08-15 |
 | [Stephanie's Place](https://open.spotify.com/track/5UMt4OK4CJsKWJqO0ClVEL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Stephanie's Place](https://open.spotify.com/album/4pdzkbbemVq5EridTLaxZr) | 3:27 | 2025-02-28 | 2025-03-21 |
 | [sticky](https://open.spotify.com/track/0k8CJ2q7P9uNT1vh23bJVf) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:26 | 2025-03-07 | 2025-04-04 |
+| [Still in My Head](https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [The Sky](https://open.spotify.com/album/7DPp7NFkMqRUIL9upK7dpE) | 3:43 | 2026-02-13 |  |
 | [Still On My Mind](https://open.spotify.com/track/2VwRWQicMWUQgcsYMrkkL7) | [Layla Scarlet](https://open.spotify.com/artist/3ct5nvvlBQexQMM9IwBIVe) | [still on my mind](https://open.spotify.com/album/6nOELA4BcwDMPQsfCyhxRt) | 2:37 | 2025-07-31 | 2025-08-29 |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-09-19 | 2025-01-10 |
 | [Still Won't Feel Like Home](https://open.spotify.com/track/5Hkc4ntMTnj47xmRJJL12u) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [Still Won't Feel Like Home](https://open.spotify.com/album/2NPfG6m6qJS2gkY4evZnFG) | 3:43 | 2025-04-03 | 2025-04-25 |
@@ -945,7 +946,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 5](https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |
 | [Troy](https://open.spotify.com/track/2KVj7oGzV2LFjxO72z1FX1) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [The Songs We Wrote In Norfolk](https://open.spotify.com/album/6MEFQmsSR3YOQXzYnDMw6T) | 2:05 | 2026-01-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,522 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510,506 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 46 | [Aluga\-se](https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J) | [Aluga\-se](https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI) | 2:05 |
 | 47 | [Cartas e Versos](https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Cartas e Versos](https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7) | 3:19 |
 | 48 | [Espera a Primavera \- Acústico](https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Espera a Primavera \(Acústico\)](https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4) | 4:14 |
-| 49 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 |
-| 50 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 49 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 50 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 |
 | 51 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
 | 52 | [Último Romance](https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Último Romance](https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU) | 4:17 |
 | 53 | [Pijama \- Acústico](https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia 2 \(acústico\)](https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt) | 2:55 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 72 | [Bédi Beat \- Acústico](https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Bédi Beat \(Acústico\)](https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo) | 4:35 |
 | 73 | [Valeu a Pena \- Acústico](https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Valeu a Pena \(acústico\)](https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL) | 3:04 |
 | 74 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter \(Ao Vivo\)](https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf) | 2:16 |
-| 75 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
-| 76 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
+| 75 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
+| 76 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
 | 77 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 |
 | 78 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
 | 79 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,764 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,776 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 85 | [Travellin In The Usa](https://open.spotify.com/track/2uI9Y14I02IjcwnMTPE9Y3) | [Bintangs](https://open.spotify.com/artist/7MXtEuM6ObTPWY4oqjr2XJ) | [Travelling In The U.S.A.](https://open.spotify.com/album/5Tq6iaG37W6XUccYr47qIT) | 2:51 |
 | 86 | [The Green Manalishi \(With the Two Prong Crown\) \- 2013 Remaster](https://open.spotify.com/track/7nUVU3rsWpg4w01dahnAb9) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR) | 4:36 |
 | 87 | [Anyone Who Had a Heart](https://open.spotify.com/track/4ARnPLLoQSZHDcucnuZdlr) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [60's Pop Jukebox](https://open.spotify.com/album/3ZBHqU1ut0qnYVJGEqaBa2) | 2:51 |
-| 88 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 89 | [Ramona \(Englische Version\)](https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65) | [Blue Diamonds](https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye) | [Ramona](https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk) | 2:34 |
+| 88 | [Ramona \(Englische Version\)](https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65) | [Blue Diamonds](https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye) | [Ramona](https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk) | 2:34 |
+| 89 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 90 | [World Of Birds](https://open.spotify.com/track/79BmVIS5V8haqoLTZhufXO) | [Q65](https://open.spotify.com/artist/2gaNCDWEC4FeANd9uJKelZ) | [Revolution](https://open.spotify.com/album/5NFeMu0ww7GFLk1qGWM3NJ) | 3:28 |
 | 91 | [Lucy Lucy](https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A) | [Amsterdam](https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C) | [Golden Years Of Dutch Pop Music \- The Seventies Part 1](https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA) | 3:02 |
 | 92 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 
 > the best in rock indie folk pop alternative
 
-[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,190 likes - 421 songs - 1 day 1 hr 54 min
+[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,189 likes - 421 songs - 1 day 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,7 +261,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 | 251 | [Be with You](https://open.spotify.com/track/7HZjVAfH5n8Kgfmc9KMCpl) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Be with You](https://open.spotify.com/album/1x10LdAegzMkW5vNPNZKRd) | 3:11 |
 | 252 | [Goodbye Stockholm](https://open.spotify.com/track/2Zvh8Ak7c6hv9yjyTgNakG) | [Asko Argillander & The Blue Flame](https://open.spotify.com/artist/3tnuuSXM2GE4H9yiC6Ah2k) | [Goodbye Stockholm](https://open.spotify.com/album/63EkfR1Ae3hNTA5T4FeWcz) | 3:49 |
 | 253 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 |
-| 254 | [Energy Vampire](https://open.spotify.com/track/3IxGrQgeQxtyfC0aHB85xp) | [Big Band of Boom](https://open.spotify.com/artist/7o6iEBryMY6xMmVwBCGNFA) | [Energy Vampire](https://open.spotify.com/album/6jLjIHc0C9bcKPqSiLpR0V) | 2:43 |
+| 254 | [Energy Vampire](https://open.spotify.com/track/3IxGrQgeQxtyfC0aHB85xp) | [Big Band of Boom](https://open.spotify.com/artist/7o6iEBryMY6xMmVwBCGNFA) | [Energy Vampire](https://open.spotify.com/album/6jLjIHc0C9bcKPqSiLpR0V) | 2:44 |
 | 255 | [Doing the Bazooka](https://open.spotify.com/track/7kwkELNVRl0kNQFNPTbV02) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [Doing the Bazooka](https://open.spotify.com/album/70wo7JbcbtT6ccLsdB0nUd) | 2:15 |
 | 256 | [To Let Go](https://open.spotify.com/track/28MvDLwDoQPkKg8833C9pR) | [Hearts Like Mirrors](https://open.spotify.com/artist/5v1Bnx0Em1pa4u1m20BVZr) | [To Let Go](https://open.spotify.com/album/4T2xBXu0OF4T2SE3vWjo9z) | 3:48 |
 | 257 | [Enigma](https://open.spotify.com/track/6IRRFgSvlt5JQb55pHcuoz) | [Alma Lunar](https://open.spotify.com/artist/5eIYU4asSJBuHR9leMemsd), [Nahuel Martín Castro](https://open.spotify.com/artist/4tNgCUMh6xX2jVojEmdp2Q) | [Enigma](https://open.spotify.com/album/2GMWOSGCfCx4tq7ZPeOwv0) | 3:40 |

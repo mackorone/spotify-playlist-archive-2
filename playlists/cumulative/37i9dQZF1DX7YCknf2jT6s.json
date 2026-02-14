@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nate Smith",
+  "description": "New jazz for open minds. Cover: Terrace Martin",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 160000,
       "name": "\"You hate Jazz?\"",
       "url": "https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV"
@@ -4467,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Birds Ascend",
+        "url": "https://open.spotify.com/album/7d0J5Dm55vgl3M822qpDM4"
+      },
+      "artists": [
+        {
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Birds Ascend",
+      "url": "https://open.spotify.com/track/11tFXzLezhHKquc1Bz3f63"
+    },
+    {
+      "album": {
         "name": "Birds of Rocky Point",
         "url": "https://open.spotify.com/album/5F1WeC3LSzBwCyjOYsDqg5"
       },
@@ -7646,6 +7664,24 @@
       "duration_ms": 321080,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/6kCSXxieGoLrJGhEocItph"
+    },
+    {
+      "album": {
+        "name": "PEACE",
+        "url": "https://open.spotify.com/album/64OUQJ9FkzFV3FrMqdSBir"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393427,
+      "name": "Community Research",
+      "url": "https://open.spotify.com/track/2Y2XjQ5V9xJGpgdYaxRNNK"
     },
     {
       "album": {
@@ -12044,7 +12080,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 319426,
       "name": "Fathers and Sons",
       "url": "https://open.spotify.com/track/33Sj4aDvFvSCqsKR45U9Wx"
@@ -12897,6 +12933,24 @@
     },
     {
       "album": {
+        "name": "For the Culture",
+        "url": "https://open.spotify.com/album/30xdpzKsm1AcSPqWOdMSek"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "For the Culture",
+      "url": "https://open.spotify.com/track/5VyhDlll6gIanznhIhfu3s"
+    },
+    {
+      "album": {
         "name": "for the kids...",
         "url": "https://open.spotify.com/album/252DBqUqlWG0eOgpEUqPd5"
       },
@@ -13048,7 +13102,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 436130,
       "name": "Found A Light (Beale Street)",
       "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
@@ -19276,7 +19330,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 277597,
       "name": "La Sentencia",
       "url": "https://open.spotify.com/track/0w7QdJZVUSgkvtCqSY3AjV"
@@ -19430,6 +19484,28 @@
       "duration_ms": 310611,
       "name": "Landsdown",
       "url": "https://open.spotify.com/track/6lbuVBl5B06FqVc6v0dRwS"
+    },
+    {
+      "album": {
+        "name": "Filin",
+        "url": "https://open.spotify.com/album/6VfLUVPWfuVl3pJFUsZfzt"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        },
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272535,
+      "name": "Las Rosas No Hablan (feat. C\u00e9cile McLorin Salvant)",
+      "url": "https://open.spotify.com/track/0K8VCnJbsWEAyq0cW33OkN"
     },
     {
       "album": {
@@ -27520,6 +27596,24 @@
       "duration_ms": 283880,
       "name": "Portrommet",
       "url": "https://open.spotify.com/track/29SjQRP3L3VhsYd8CKT0Lx"
+    },
+    {
+      "album": {
+        "name": "Portschute",
+        "url": "https://open.spotify.com/album/4HEOU62WYW3Cf9lvkjgmUq"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177587,
+      "name": "Portschute",
+      "url": "https://open.spotify.com/track/0tcyPjTTAECpWOZKrY9TGu"
     },
     {
       "album": {
@@ -37197,6 +37291,24 @@
     },
     {
       "album": {
+        "name": "Thinkin Bout You",
+        "url": "https://open.spotify.com/album/2fsXOXjqbWThZEfTLJL3xH"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH"
+    },
+    {
+      "album": {
         "name": "Third Dream",
         "url": "https://open.spotify.com/album/3xHsyjl4KaPfnSleD6Nu6L"
       },
@@ -37884,7 +37996,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 341066,
       "name": "Traffic Lights (feat. Thom Yorke)",
       "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
@@ -38546,7 +38658,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243555,
       "name": "T\u00e1 Com Medo Por Qu\u00ea?",
       "url": "https://open.spotify.com/track/31MSxGbiMYvBoTVi4r39At"
@@ -40587,6 +40699,32 @@
     },
     {
       "album": {
+        "name": "Who Does She Hope to Be?",
+        "url": "https://open.spotify.com/album/1sKugJFD1PO33rTr8XVC99"
+      },
+      "artists": [
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        },
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352986,
+      "name": "Who Does She Hope to Be?",
+      "url": "https://open.spotify.com/track/4bm49j9mk23myMntpAdx88"
+    },
+    {
+      "album": {
         "name": "who knows",
         "url": "https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB"
       },
@@ -41352,7 +41490,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 494000,
       "name": "Yes! Ramen!! [Feat. Sonicwonder]",
       "url": "https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s"

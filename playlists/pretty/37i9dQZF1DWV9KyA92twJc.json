@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d9\u05d5\u05d1\u05dc \u05e8\u05e4\u05d0\u05dc ",
-  "num_followers": 25791,
+  "num_followers": 25789,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1499,42 +1499,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM"
-      },
-      "artists": [
-        {
-          "name": "LifeSwisa",
-          "url": "https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu"
-        },
-        {
-          "name": "RONNY",
-          "url": "https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
-      "url": "https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05d3\u05d0\u05de",
-        "url": "https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 169322,
-      "name": "\u05d3\u05d0\u05de",
-      "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1563,6 +1527,42 @@
       "duration_ms": 238000,
       "name": "\u05dc\u05d3\u05e4\u05d5\u05e7 \u05ea'\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
+        "url": "https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
+      "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM"
+      },
+      "artists": [
+        {
+          "name": "LifeSwisa",
+          "url": "https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu"
+        },
+        {
+          "name": "RONNY",
+          "url": "https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
+      "url": "https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1607,6 +1607,38 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
+        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05d3\u05d0\u05de",
+        "url": "https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 169322,
+      "name": "\u05d3\u05d0\u05de",
+      "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "\u05d0\u05d4 \u05d5\u05d5\u05d0\u05d5",
         "url": "https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs"
       },
@@ -1627,38 +1659,6 @@
       "duration_ms": 256000,
       "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d1\u05d5 \u05d0\u05e0\u05d9 \u05d2\u05e8",
       "url": "https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
-        "url": "https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
-      "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
-        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
-      },
-      "artists": [
-        {
-          "name": "Idan Amedi",
-          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
-      "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
     },
     {
       "added_at": "2026-01-16 15:38:53",

@@ -5500,7 +5500,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
@@ -6144,7 +6144,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 223500,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/2a78JDp7YVCyEydtRiHOn7"
@@ -19516,7 +19516,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 212230,
       "name": "\u0e1e\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2Ur51n7KgBdtRYz1oCFfD6"
@@ -21005,6 +21005,24 @@
     },
     {
       "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/4TH5Cy6MAD6Q97wPmqp5ex"
+      },
+      "artists": [
+        {
+          "name": "Zeal",
+          "url": "https://open.spotify.com/artist/6f1tNwK04d6t8jFSOXGvrY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243426,
+      "name": "\u0e2a\u0e2d\u0e07\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/7sWVkwBJ8J1JPS1hmLwIYL"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e27\u0e31\u0e19\u0e17\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/0u4nlYmFv63JtoNUVBwpaT"
       },
@@ -21162,6 +21180,24 @@
     {
       "album": {
         "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21",
+        "url": "https://open.spotify.com/album/6CPEhJLXlvacEHJlNJ5ngx"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311591,
+      "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21",
+      "url": "https://open.spotify.com/track/0eHTM1Udi2NLiOJ3ja63nh"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21",
         "url": "https://open.spotify.com/album/3Ga8eW2wSU9fOWSUGXirh3"
       },
       "artists": [
@@ -21172,7 +21208,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 311591,
       "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21",
       "url": "https://open.spotify.com/track/3WyYrYB7Ib4NcoGkrnWpes"
@@ -21208,7 +21244,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 314117,
       "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
       "url": "https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG"
@@ -22968,7 +23004,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 238392,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
@@ -23596,7 +23632,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 273493,
       "name": "\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/07ZIrtR00m3t9AcmeRZ7vQ"
@@ -23762,7 +23798,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 314357,
       "name": "\u0e44\u0e21\u0e48\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/7F9ptErLnyt0r4Q0azfqDG"
@@ -23986,10 +24022,28 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 271160,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/0p1HzV2tZ3vRBNFcPODy0I"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/44lw3KVZGVZF4RvCTtLYTN"
     },
     {
       "album": {

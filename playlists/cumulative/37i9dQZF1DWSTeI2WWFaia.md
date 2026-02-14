@@ -2,9 +2,9 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
+> Lyrical, lo\-fi, and lowlife raps\. Cover: J\. Cole
 
-907 songs - 2 day 0 hr 30 min
+908 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [EPMD](https://open.spotify.com/track/1dEGNv0PPGn8CcbRi2aSuW) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 2:33 | 2022-04-01 | 2022-06-27 |
 | [Escapism](https://open.spotify.com/track/6mO6V4QcFQOYUAq4NUk5L5) | [Prodigy](https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs) | [The Hegelian Dialectic 2: The Book of Heroine](https://open.spotify.com/album/1xhIUCFuzlf17stdPjF5Ct) | 2:45 | 2022-09-30 | 2022-10-08 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-05 | 2025-02-08 |
+| [Everything Allocated](https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Everything Allocated](https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi) | 2:53 | 2026-02-13 |  |
 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 | 2023-11-17 | 2024-11-23 |
 | [Extra Credit](https://open.spotify.com/track/6MJli89DxGWgOyrCvYeGsm) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Extra Credit](https://open.spotify.com/album/2xpeZujHknYIFaU5IeBNeb) | 2:52 | 2022-09-02 | 2022-09-24 |
 | [F.I.C.O.](https://open.spotify.com/track/6X5sXeRwqbqPsZ8FFFae0F) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:21 | 2025-07-15 |  |
@@ -469,7 +470,7 @@
 | [Like Wine \(with Lute\)](https://open.spotify.com/track/2hflEM2ceD3eYZvxglqo5S) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:35 | 2022-04-01 | 2022-04-29 |
 | [Live from the Methlab](https://open.spotify.com/track/0tx6qeeCxqG2H5xdCblIRB) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla), [JoJo Pellegrino](https://open.spotify.com/artist/5HGjq2T6OBhkQv5lt5odeh) | [Live from the Methlab](https://open.spotify.com/album/2LIOCRlitAcFy16S3xrMdD) | 3:36 | 2022-04-15 | 2022-04-20 |
 | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL) | 2:46 | 2024-02-23 | 2024-05-04 |
-| [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 | 2025-02-07 |  |
+| [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 | 2025-02-07 | 2026-02-14 |
 | [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 | 2022-06-03 | 2022-10-01 |
 | [Lobster Omelette \(feat\. Rick Ross\)](https://open.spotify.com/track/47lSZVLBTQz5rilIsZR7M2) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:40 | 2022-09-30 | 2023-03-02 |
 | [Long Live Free \(feat\. Mozzy\)](https://open.spotify.com/track/4ZFacNfr35yagxS5v0NM4G) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Don D.O.L.L.A.](https://open.spotify.com/album/6BiSoI4dAFqHJUdTi9UYc1) | 3:08 | 2023-08-18 | 2023-09-16 |

@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-418 songs - 1 day 4 hr 41 min
+419 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Sarcasm](https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Best Kind Of Mess](https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj) | 3:18 | 2023-05-02 |  |
 | [Science](https://open.spotify.com/track/58lcznIKSNlOVdmklrPA99) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 2:42 | 2023-03-28 |  |
 | [Seek & Destroy \(Remastered\)](https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 6:54 | 2023-03-28 |  |
+| [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 | 2026-02-13 |  |
 | [Sextape](https://open.spotify.com/track/4rEGJ9KirDlKiOHxqVwcVg) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes \(Deluxe\)](https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha) | 4:01 | 2023-06-09 |  |
 | [SHALLOW](https://open.spotify.com/track/7hm7YOaz4CHZYAiYBDbf4m) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [VAMP](https://open.spotify.com/album/4bk8MDVLQ78NVnVeAKpe6z) | 3:29 | 2025-04-20 |  |
 | [Shepherd of Fire](https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:23 | 2024-12-13 |  |

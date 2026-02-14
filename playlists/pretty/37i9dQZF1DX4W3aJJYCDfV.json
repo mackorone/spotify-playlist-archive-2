@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Charli xcx, Central Cee, Fred again.. and more!",
-  "num_followers": 1005465,
+  "num_followers": 1006740,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
       "artists": [
         {
@@ -63,8 +63,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
       "artists": [
         {
@@ -131,8 +131,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
       },
       "artists": [
         {
@@ -140,8 +140,8 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 16",
+      "duration_ms": 205720,
+      "name": "Disappear",
       "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
     },
     {
@@ -191,8 +191,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
       },
       "artists": [
         {
@@ -287,8 +287,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "November Scorpio",
+        "url": "https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV"
       },
       "artists": [
         {
@@ -296,8 +296,8 @@
           "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 195107,
+      "name": "desire.",
       "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
     },
     {
@@ -327,17 +327,21 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
       },
       "artists": [
         {
           "name": "Jill Scott",
           "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 16",
+      "duration_ms": 270833,
+      "name": "To B Honest",
       "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
     },
     {
@@ -531,8 +535,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4"
       },
       "artists": [
         {
@@ -547,8 +551,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Sky",
+        "url": "https://open.spotify.com/album/7DPp7NFkMqRUIL9upK7dpE"
       },
       "artists": [
         {
@@ -556,8 +560,8 @@
           "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 223821,
+      "name": "Still in My Head",
       "url": "https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ"
     },
     {
@@ -579,6 +583,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Weekend Rockstar",
         "url": "https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz"
       },
@@ -595,8 +615,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Everywhere Isn't Texas",
+        "url": "https://open.spotify.com/album/75jUCkcDcLD25FR9AlQJik"
       },
       "artists": [
         {
@@ -611,17 +631,21 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "We Live.",
+        "url": "https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x"
       },
       "artists": [
         {
           "name": "AntsLive",
           "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 148000,
+      "name": "RACKS.",
       "url": "https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0"
     },
     {
@@ -659,8 +683,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Just A Few Folk",
+        "url": "https://open.spotify.com/album/7HffRJ97ixJ3qpKKYYBQGZ"
       },
       "artists": [
         {
@@ -668,8 +692,8 @@
           "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 201834,
+      "name": "Yes",
       "url": "https://open.spotify.com/track/4KWDgLFV5vaLBWGr4xf9wr"
     },
     {
@@ -739,8 +763,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "REDLINE",
+        "url": "https://open.spotify.com/album/4MkYRajEKaB0wtOyjALgmD"
       },
       "artists": [
         {
@@ -791,8 +815,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
       },
       "artists": [
         {
@@ -800,8 +824,8 @@
           "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
       "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
@@ -975,8 +999,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A Love For Strangers",
+        "url": "https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc"
       },
       "artists": [
         {
@@ -991,8 +1015,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
       },
       "artists": [
         {
@@ -1063,8 +1087,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "up above",
+        "url": "https://open.spotify.com/album/36Xjwbo8Q9AeaUWdegEh0L"
       },
       "artists": [
         {
@@ -1079,8 +1103,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Loving Kills.",
+        "url": "https://open.spotify.com/album/3uNj9VcF0CVAcKHFPP6Dml"
       },
       "artists": [
         {
@@ -1088,8 +1112,8 @@
           "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 140799,
+      "name": "burnt",
       "url": "https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H"
     },
     {
@@ -1239,6 +1263,22 @@
       "duration_ms": 211304,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/5U6sbkexYOvmOkhIYaprrP"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 269318,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1527,6 +1567,30 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
+        "url": "https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
+      "url": "https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/11Pz5vWl45zMrRr5uzVlHQ"
       },
@@ -1611,6 +1675,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Chick Flick",
+        "url": "https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi"
+      },
+      "artists": [
+        {
+          "name": "Salmon Cat",
+          "url": "https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Chick Flick",
+      "url": "https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Can you feel it?",
         "url": "https://open.spotify.com/album/6BN0IbeHLkdkksZum3hIij"
       },
@@ -1637,7 +1717,7 @@
         },
         {
           "name": "TYLER LEWIS",
-          "url": "https://open.spotify.com/artist/36vQLVnTTjBTa4jGuODqhM"
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
         }
       ],
       "duration_ms": 229547,

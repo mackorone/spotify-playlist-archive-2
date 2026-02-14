@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Antía Muíño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,330 likes - 105 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,329 likes - 105 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 104 | [Dulce Picante](https://open.spotify.com/track/0hqd6HkeWkQWou5uvOF4Zx) | [Calequi y Las Panteras](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [2](https://open.spotify.com/album/2XUQA2rv1IKp7Gtky0XIft) | 2:11 |
 | 105 | [Agua de Domingo](https://open.spotify.com/track/4oC8arP6YbmqurKAMU5Y2A) | [Marina Paredes](https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu) | [Agua de Domingo](https://open.spotify.com/album/7Gm6QAxqrurDuiSMHsdOw9) | 1:38 |
 
-Snapshot ID: `AAAAAOJ2D/8/LSWA2jU0qR1wla3BmkcT`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

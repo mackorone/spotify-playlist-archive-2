@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: LA$$A",
-  "num_followers": 334194,
+  "num_followers": 334195,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHWBmTOWw1qfOkgx1xb97f6fGCZE",
+  "snapshot_id": "AAAAAKaJ14KeL02hDfpLbz6DI5y4Czur",
   "tracks": [
     {
       "added_at": "2026-02-12 23:00:41",
@@ -95,6 +95,30 @@
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Bare Minimum (Starboy)",
+        "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Bare Minimum (Starboy)",
+      "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -203,30 +227,6 @@
       "duration_ms": 127250,
       "name": "Clock That",
       "url": "https://open.spotify.com/track/2MyD14fQonDQGb8WxtCWOx"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
-        "name": "Bare Minimum (Starboy)",
-        "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Bare Minimum (Starboy)",
-      "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
       "added_at": "2026-02-12 23:00:41",

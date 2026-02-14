@@ -1,12 +1,12 @@
 {
   "description": "Al die nuutste Afrikaanse musiek met Jo Black, Zaan Sonnekus, Loufi, Mr Heinz en meer!",
-  "num_followers": 42613,
+  "num_followers": 42650,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFxLVz2/iSriNs4CdcA19B4LcTVF",
+  "snapshot_id": "AAAAADXxpb7Ezl+1nB7PaxaaNlFV0h8Q",
   "tracks": [
     {
       "added_at": "2026-02-12 22:00:17",
@@ -91,6 +91,22 @@
       "duration_ms": 230163,
       "name": "Nutsman",
       "url": "https://open.spotify.com/track/0ZHjmqKSQJIlpeCI8A0hJm"
+    },
+    {
+      "added_at": "2026-02-13 04:14:33",
+      "album": {
+        "name": "Hartedief",
+        "url": "https://open.spotify.com/album/144JQdwCcUgMK7l7REoJ1h"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "duration_ms": 176936,
+      "name": "Hartedief",
+      "url": "https://open.spotify.com/track/1LoPKOqVyvGJ5DABsk59nf"
     },
     {
       "added_at": "2026-01-29 22:00:48",
@@ -623,6 +639,26 @@
       "duration_ms": 258000,
       "name": "Warm Hand",
       "url": "https://open.spotify.com/track/3WxszRK4sqkRBdoZpol85E"
+    },
+    {
+      "added_at": "2026-02-12 22:00:17",
+      "album": {
+        "name": "Soos Pappa",
+        "url": "https://open.spotify.com/album/2vQRxAMrSyPQ7N0pcB0luI"
+      },
+      "artists": [
+        {
+          "name": "Caitie Rock",
+          "url": "https://open.spotify.com/artist/6hziGkMhslWlOlFs0Xpm8E"
+        },
+        {
+          "name": "Dewan van Helsdingen",
+          "url": "https://open.spotify.com/artist/0dyFQmrpPMaBRUKbJEezZS"
+        }
+      ],
+      "duration_ms": 184943,
+      "name": "Soos Pappa",
+      "url": "https://open.spotify.com/track/2FGW1G3fCoxQ8wbAKwFLKG"
     },
     {
       "added_at": "2026-02-12 22:00:17",
@@ -1627,22 +1663,6 @@
       "duration_ms": 225357,
       "name": "Huistoe",
       "url": "https://open.spotify.com/track/3BXo6bYGZPRaqrnk4e7u1r"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
-        "name": "Hart Se Huis",
-        "url": "https://open.spotify.com/album/1T75D96zgBzMUw3HFefAbb"
-      },
-      "artists": [
-        {
-          "name": "Jauni M",
-          "url": "https://open.spotify.com/artist/0XFIwXOKznNNBfUGBEnG6Z"
-        }
-      ],
-      "duration_ms": 181747,
-      "name": "Hart Se Huis",
-      "url": "https://open.spotify.com/track/5nRmUgC9OlJKDJQSM8IfGu"
     },
     {
       "added_at": "2026-01-15 22:00:30",

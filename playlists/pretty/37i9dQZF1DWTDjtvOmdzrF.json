@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562760,
+  "num_followers": 562756,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
+        "name": "Selamanya",
+        "url": "https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Sayap Pelindungmu",
+      "url": "https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
         "name": "Saktenane (Acoustic Version)",
         "url": "https://open.spotify.com/album/23USEM1MKRCLJKVXJtr6qr"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 326000,
       "name": "Saktenane - Acoustic Version",
       "url": "https://open.spotify.com/track/04smuF7vPy6v2PQSdigGYV"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "Selamanya",
-        "url": "https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Sayap Pelindungmu",
-      "url": "https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB"
     },
     {
       "added_at": "2025-05-05 23:09:10",

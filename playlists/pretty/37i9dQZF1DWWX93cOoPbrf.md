@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Hermanos Espinoza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,039 likes - 82 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,520 likes - 82 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 5 | [Se Pasea La Princesita](https://open.spotify.com/track/2LQNilBsXGj9jtRabfYA7j) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Se Pasea La Princesita](https://open.spotify.com/album/1xHEBqIbBhxTS4eYe2cOF2) | 2:43 |
 | 6 | [Placosa La Troka](https://open.spotify.com/track/6ysS0xzwu6fz2Y6sB9ZQ0S) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Placosa La Troka](https://open.spotify.com/album/7oRkrKWM7olqw0PoUzqyE8) | 2:46 |
 | 7 | [Me Pegué Un Pase](https://open.spotify.com/track/7qGBTUrqWcHgGqMSP2SCrv) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Me Pegué Un Pase](https://open.spotify.com/album/1ROowuHI5f2q09pVncaEVN) | 2:22 |
-| 8 | [La Racha](https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [La Racha](https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF) | 2:48 |
+| 8 | [LA RACHA](https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LA RACHA](https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF) | 2:48 |
 | 9 | [Aguas](https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Aguas](https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K) | 2:52 |
 | 10 | [Recárguense Conmigo](https://open.spotify.com/track/4gzks4gPyueRKrO2NgKHrY) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Recárguense Conmigo](https://open.spotify.com/album/14UWtrymZmGVX2FC7m4ZRe) | 3:00 |
 | 11 | [La Contadora](https://open.spotify.com/track/6R2WlAqZDOuE7rKWjxBXPx) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [La Contadora](https://open.spotify.com/album/4gori5dokA3OK3TLppEdN2) | 4:16 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 73 | [Lolo Felix \- En Vivo](https://open.spotify.com/track/5DDh6vErqpXSFBsn2Jetha) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Trap Corridos "En Vivo" Con Charchetas](https://open.spotify.com/album/4xBcyISN6IQaHm9nXhPxVA) | 3:50 |
 | 74 | [Pinta Mejor](https://open.spotify.com/track/3I2tOZUHkRoyGWkGgCh3OY) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Pinta Mejor](https://open.spotify.com/album/0ZtI8GxQUDAlSzxRteIxdJ) | 2:43 |
 | 75 | [Playas Y Blones](https://open.spotify.com/track/2pykB1zqstSLQ21w12gm0Q) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Playas Y Blones](https://open.spotify.com/album/1XU0fdDkKrHg4sP1s5rUCG) | 3:31 |
-| 76 | [Peso](https://open.spotify.com/track/11PDXMGdJ3fbRrWLvFfmfz) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Peso](https://open.spotify.com/album/6rgt1VDWGmY3tjWom1qaU6) | 3:53 |
+| 76 | [PESO](https://open.spotify.com/track/11PDXMGdJ3fbRrWLvFfmfz) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [PESO](https://open.spotify.com/album/6rgt1VDWGmY3tjWom1qaU6) | 3:53 |
 | 77 | [Hoy Me La Pelan](https://open.spotify.com/track/5wUQg88seGQen2Jifa2Ld6) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Hoy Me La Pelan](https://open.spotify.com/album/2F3y7e9oyfl2tLUQeTPyab) | 2:53 |
 | 78 | [La Capital](https://open.spotify.com/track/6nTPS5QcEz1AZ1IOfIOxbR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Capital](https://open.spotify.com/album/5zMV2IOvcrDzwYyZnHWLUZ) | 3:04 |
 | 79 | [Miraloma](https://open.spotify.com/track/1d4IKtQRR2OgcuTSyeb3qt) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v) | [Miraloma](https://open.spotify.com/album/6rMfA0oLot9jYRFUnCGQjs) | 3:12 |

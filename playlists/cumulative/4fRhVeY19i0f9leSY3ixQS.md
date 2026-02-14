@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-881 songs - 2 day 2 hr 26 min
+887 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Antibacterial](https://open.spotify.com/track/3lz15JEmDGOHKeqDe2TPqy) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:25 | 2025-12-08 | 2026-01-06 |
 | [Antlers](https://open.spotify.com/track/7oPb02I3HX5yggAXCMgyUL) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:28 | 2025-08-03 |  |
 | [Antonia](https://open.spotify.com/track/573f55AEzc0NcoRcHXlT41) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [Y ahora que vas a hacer?](https://open.spotify.com/album/1oZRBpopkLT3feW9afDHnn) | 3:02 | 2026-01-12 | 2026-02-03 |
+| [Apathy](https://open.spotify.com/track/1RkAYeOXzdO6wqllltdzL9) | [Last Second Dropout](https://open.spotify.com/artist/0SFv3VNLK8XQuzFBdorehi) | [Apathy](https://open.spotify.com/album/5gEj5JNQ2mZO0btf4hJwvr) | 3:26 | 2026-02-13 |  |
 | [Are People Using You?](https://open.spotify.com/track/2fsA3XI9opXlccokC6NsoM) | [Cult Baby](https://open.spotify.com/artist/4H5r2jSXuuthJVe4aek67I) | [Are People Using You?](https://open.spotify.com/album/1aBDhplfiRfJyJv3L4i3UX) | 2:56 | 2026-01-03 | 2026-01-22 |
 | [Assistant Professional White Guy](https://open.spotify.com/track/08ZbBfxfoq46UKPl1hTU1x) | [Doctor Striker](https://open.spotify.com/artist/0IDqaDsgC4usGdu6uprBl9) | [Assistant Professional White Guy](https://open.spotify.com/album/5kv8JWGcKDhj7Ydam26Q3W) | 2:46 | 2026-02-11 |  |
 | [At The Show / \(Relentless Chorus\)](https://open.spotify.com/track/1FEwu0DCid0V8Lebrhu4nq) | [Serjj](https://open.spotify.com/artist/4fXBoPnJBmstbjnl56NRog) | [At The Show / \(Relentless Chorus\)](https://open.spotify.com/album/4lk21sK4COUZowEaFD8DDm) | 3:32 | 2026-01-06 | 2026-02-07 |
@@ -260,9 +261,11 @@
 | [Fading Flame \- Elektrostaub Remix](https://open.spotify.com/track/7i6ojIGcNpavUmcemVXZ5x) | [DiarBlack](https://open.spotify.com/artist/1TuXgYYpWspueXIs9VEBDi), [Alex Braun](https://open.spotify.com/artist/0Bc5wKPfJiSVWos10zUnEv), [Elektrostaub](https://open.spotify.com/artist/6ulZf0dGE7VOtCkC5FIO1W) | [Fading Flame](https://open.spotify.com/album/0WtXNoSlmraznasMkggYif) | 4:28 | 2025-12-13 | 2026-01-06 |
 | [Faint](https://open.spotify.com/track/66vElSVmVuC9StxwlBrbYa) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Faint](https://open.spotify.com/album/7EeNUyO2Qcjm9cQYAtkiEb) | 3:27 | 2025-11-30 | 2026-02-03 |
 | [FAITH IN YOU](https://open.spotify.com/track/7L1ptxiKuNEnaA6KZZSLpk) | [Still No One](https://open.spotify.com/artist/2WnPcCPjfDwzAdTT2CP7Mu) | [FAITH IN YOU](https://open.spotify.com/album/7ier9nmqT3lmbRMFI4gbbR) | 2:58 | 2026-02-03 |  |
+| [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-13 |  |
 | [Fake Hippie](https://open.spotify.com/track/0tU2knWLxqTGkbpdzRzXeo) | [Gamilla](https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO) | [Catholic School Girl](https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF) | 3:04 | 2025-12-16 | 2026-01-06 |
 | [Falling Standards](https://open.spotify.com/track/4OyewJNyf69I44f3W5iDCJ) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:29 | 2025-08-03 |  |
 | [Fast Cars, Slow Sundays](https://open.spotify.com/track/6QyfVoio2Z9jCJ6pMSCq1l) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Fast Cars, Slow Sundays](https://open.spotify.com/album/02zs50q2oHG5KjMhbGR7fl) | 3:07 | 2026-02-02 |  |
+| [Fast Cars, Slow Sundays \(Unplugged\)](https://open.spotify.com/track/2R7pyVONsPog9fM8FlSaME) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Fast Cars, Slow Sundays \(Unplugged\)](https://open.spotify.com/album/5zygnpwPrK5QOMgvsJwLMS) | 3:02 | 2026-02-13 |  |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-15 | 2026-01-06 |
 | [February](https://open.spotify.com/track/26gEGxhko1zfphl2smhaVq) | [Drowning Spree](https://open.spotify.com/artist/3hQb3x5dtoqt0PGaNRA7ny) | [February](https://open.spotify.com/album/0NxBq522UIDPvCVL2m8P2v) | 3:57 | 2026-01-14 |  |
 | [Feel the Men](https://open.spotify.com/track/0y8QYNa314rbXaGCbB4hG6) | [Required\*](https://open.spotify.com/artist/7rPSoYPbX5QCiZqf8bZDE6) | [Feel the Men](https://open.spotify.com/album/61oEI3locEfOR9f9gKK6Pv) | 3:39 | 2026-01-13 | 2026-02-03 |
@@ -779,6 +782,7 @@
 | [These High Standards](https://open.spotify.com/track/2JgitROPRHpXPQxowJUOIr) | [Jaden Hancock](https://open.spotify.com/artist/1NUX8X0fbA01JM2Kg1Nxlt) | [These High Standards](https://open.spotify.com/album/01jvcsOQgy4ROesE3uSyiA) | 3:20 | 2025-12-19 | 2026-01-15 |
 | [They Say/Honest](https://open.spotify.com/track/1BFySPO6JOLLM6g0T2WY8a) | [Snugsworth](https://open.spotify.com/artist/38PIRv5SnPsCwlQzoL1ec4) | [They Say/Honest](https://open.spotify.com/album/3D2qk5YQmfUcC7ascblRR5) | 2:21 | 2026-01-20 | 2026-02-12 |
 | [Thick 'N Thin](https://open.spotify.com/track/6BTiiTIYAfjfktUzy3tzYg) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:27 | 2025-09-16 |  |
+| [This Is The End](https://open.spotify.com/track/5snyVmnEIWhUDQ9h9gCF1F) | [Fake Lighters](https://open.spotify.com/artist/4UHuZhmbhkKgoiLkvc9lQQ) | [Sinking In](https://open.spotify.com/album/7BsyiJx9d0lUwiDx0M6Nm4) | 1:45 | 2026-02-13 |  |
 | [This Is War](https://open.spotify.com/track/5xHb6LAV5YmTauShzQINtZ) | [A Small Madness](https://open.spotify.com/artist/6F0GRN52TubFymPaF7NpSS) | [This Is War](https://open.spotify.com/album/1qkMeLSTl7fY9aNzh81twf) | 4:00 | 2025-12-04 | 2025-12-24 |
 | [This Machine](https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 5:10 | 2026-01-25 |  |
 | [This One Is for Free](https://open.spotify.com/track/2eXhn1zYO6WXsBFyiPTWOB) | [Poor Bambi](https://open.spotify.com/artist/4GvgWv8CdOC1wDhLx78N7T) | [This One Is for Free](https://open.spotify.com/album/3btpkO8OgHri2VNnSYIayz) | 2:15 | 2026-01-10 | 2026-02-11 |
@@ -795,6 +799,7 @@
 | [Trainjuice](https://open.spotify.com/track/5v36a8JylfC3f7tn6DAWxl) | [Sikmetra](https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI) | [Trainjuice](https://open.spotify.com/album/5KZ1QRg5HnyPay7xrKflbb) | 2:42 | 2026-02-12 |  |
 | [Trips up North](https://open.spotify.com/track/6ky1ip2UA7gqeUL6HZJuno) | [Dave Eats Mud](https://open.spotify.com/artist/2pamuQ8EAimLz16lgOucBd) | [Urine for a Treat!](https://open.spotify.com/album/4L8uDG383No8264PsYSJnN) | 2:18 | 2026-01-22 |  |
 | [Truemetal](https://open.spotify.com/track/7ud1d1jZCnodHBHY4mwLPP) | [Cyrax](https://open.spotify.com/artist/4O3WfGMmFAXWupm9cG2rFI) | [Experiences](https://open.spotify.com/album/3TjQI8Q3ZMJ3mwrKPCd2cK) | 7:04 | 2025-12-10 | 2026-01-06 |
+| [Trust Me Bro](https://open.spotify.com/track/6nIgE5stt7S6VALHivZ70B) | [Project No\-On](https://open.spotify.com/artist/2nC06Qpyfz0GMaU5HgOM7T) | [Reclamation Proclamation](https://open.spotify.com/album/6puzOxztJGm7daAHjeZ3yN) | 2:22 | 2026-02-13 |  |
 | [Tunnel Vision](https://open.spotify.com/track/3VRDcvHRenwPMd8BsT4qWy) | [BRUDES](https://open.spotify.com/artist/6OoyoyC2mh52hahZoqSEVN) | [Empire Is Anti Human](https://open.spotify.com/album/4EmtkhtLEkpSF854edvJIV) | 3:20 | 2026-01-15 |  |
 | [Tus Lágrimas](https://open.spotify.com/track/3H4abf5EkYm4Patnsw8jtR) | [ARBI](https://open.spotify.com/artist/1H7fq4kxKmz18RP88E0rE9) | [INTENSO](https://open.spotify.com/album/1FtQE9kwhWApc55im7qgWv) | 2:50 | 2026-02-02 |  |
 | [Two for Diving](https://open.spotify.com/track/0LjsGoGad9uFIhyUIYDwj9) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Two for Diving](https://open.spotify.com/album/6ERi1BUpSQ0g8Cpmtk7WFI) | 3:00 | 2026-01-06 | 2026-01-29 |
@@ -854,6 +859,7 @@
 | [Wings over the Ruins](https://open.spotify.com/track/0RMwLxrlcu4jIMYSBW4q44) | [Fire and Tears](https://open.spotify.com/artist/0OT0MSuwhoLbE5SC3dMBC1) | [Legions of the Fallen](https://open.spotify.com/album/7dRhnzbDSIJe8YodIT6G7Y) | 5:00 | 2025-12-22 | 2026-01-15 |
 | [With My Dogs](https://open.spotify.com/track/7v50sJLJ6iddU2oN4Zgkch) | [MOOSE KNUCKLE](https://open.spotify.com/artist/7ry1VY96gyfyMSKEFHcB2n) | [With My Dogs](https://open.spotify.com/album/01g0drUahL3YBX80LuglY3) | 3:08 | 2026-01-19 |  |
 | [With The Radio On](https://open.spotify.com/track/2D8Pe8G3mrE7sftHvvmQx9) | [Northfield](https://open.spotify.com/artist/51rLG6ENMAwu7WMcNHffyl) | [Lost and Found](https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV) | 3:39 | 2025-11-03 | 2025-12-10 |
+| [With You](https://open.spotify.com/track/6GbPupbyDuA3ipJsYATSJA) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [With You](https://open.spotify.com/album/0WVoeNpdgZA6TVkOPOl3w0) | 3:17 | 2026-02-13 |  |
 | [Wither](https://open.spotify.com/track/4M5sVrmGGbKY2h23VwPXOV) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:29 | 2025-12-08 | 2026-01-06 |
 | [Without Within](https://open.spotify.com/track/5SDDsLaIjbJKWupa1TYBgy) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:34 | 2025-09-16 |  |
 | [Wolfpack 2025](https://open.spotify.com/track/7hBCw9EhvG8wkjHIDEqe6k) | [D.Y.S.](https://open.spotify.com/artist/6r3rRE4Pn2QTfzzuJP0Lv4) | [Wolfpack 2025](https://open.spotify.com/album/3z4iy2HHfamxLlTkFbMR3B) | 2:18 | 2026-01-05 | 2026-02-06 |

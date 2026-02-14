@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Golden Star Collection Vol. 1",
+        "url": "https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "A Woman Is a Sometime Thing",
+      "url": "https://open.spotify.com/track/3Cbx6zFqaXvPM8h6o0qllc"
+    },
+    {
+      "album": {
         "name": "An American Songbook",
         "url": "https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS"
       },
@@ -176,7 +194,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 283973,
       "name": "A Woman Is A Sometime Thing",
       "url": "https://open.spotify.com/track/5vbBHk6iJzOqjP6VdoxvL3"
@@ -3342,10 +3360,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 243826,
       "name": "Oh, Lady Be Good - Live At The Shrine Auditorium,1957",
       "url": "https://open.spotify.com/track/4KfMW9ppoYGyOxSNJT14hV"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald: Legendary Recordings",
+        "url": "https://open.spotify.com/album/1erT2mWZvvl0Ntdf0j1f2a"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "Oh, Lady, Be Good!",
+      "url": "https://open.spotify.com/track/5RcRQU75YilZ0ZA4ykStg8"
     },
     {
       "album": {
@@ -4416,10 +4452,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 135699,
       "name": "Shall We Dance?",
       "url": "https://open.spotify.com/track/50DCnk4jRHhysh4RBJFmnj"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson - Jazz Moods",
+        "url": "https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135699,
+      "name": "Shall We Dance?",
+      "url": "https://open.spotify.com/track/68jiOR8Py40usTMm0yufH2"
     },
     {
       "album": {
@@ -5036,10 +5090,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 292253,
       "name": "There's A Boat Dat's Leavin' Soon For New York",
       "url": "https://open.spotify.com/track/2uj3E00ODowy5IAj4BgULp"
+    },
+    {
+      "album": {
+        "name": "INTEGRAL ELLA FITZGERALD 1956-1957",
+        "url": "https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294560,
+      "name": "There's A Boat Dat's Leavin' Soon For New York - Porgy And Bess",
+      "url": "https://open.spotify.com/track/1EZikMlD28MXpXmQAbakQL"
     },
     {
       "album": {

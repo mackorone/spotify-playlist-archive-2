@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Yovie Widianto, Dinda Ghania
 
-1,386 songs - 3 day 16 hr 31 min
+1,388 songs - 3 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Hati](https://open.spotify.com/track/5nKDvDa6RkOkZhVoAD2Uvz) | [Namoy Budaya](https://open.spotify.com/artist/52Jp7JFsa3gRL7uPq59oXn), [Rizkia Laras](https://open.spotify.com/artist/5JCneat6iBOUy3B1O9PtuX) | [Hati](https://open.spotify.com/album/280rAKayVjKqzDpNOXreWe) | 3:33 | 2024-04-25 | 2024-05-17 |
 | [Hati Yang Inginkanmu](https://open.spotify.com/track/2PIWomWNmOLaP8NPROOPfa) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Irwan Simanjuntak](https://open.spotify.com/artist/1oC20EFDaM34fIP4hGQuDN) | [Hati Yang Inginkanmu](https://open.spotify.com/album/7cUZGMx6WIhz2Z0Q8kMLir) | 3:44 | 2025-01-30 | 2025-05-09 |
 | [Hatiku Telah Mati](https://open.spotify.com/track/3rXdtu0lKHpvodDbHVB4tc) | [Rangga Damara](https://open.spotify.com/artist/0Fq61AqyyXeBYHrHoai15H) | [Hatiku Telah Mati](https://open.spotify.com/album/3Vj4jhntHOq4iozf3VFx9S) | 3:11 | 2024-06-13 | 2024-06-28 |
+| [Hatimulah Sandaran](https://open.spotify.com/track/0ZGYum0a1FsBVrFBIFIjZZ) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW), [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [Hatimulah Sandaran](https://open.spotify.com/album/39UtKDoxLrzRbq1QBVFUaM) | 4:31 | 2026-02-12 |  |
 | [Hawa Surga](https://open.spotify.com/track/5Hh6mtXHe7KAX6AiNGP1zZ) | [Terry](https://open.spotify.com/artist/2gZVqPSWfCgzQpinPi0uck) | [Hawa Surga](https://open.spotify.com/album/4sRKcG9i577HiYmT1cRuAn) | 3:24 | 2024-04-18 | 2024-05-17 |
 | [Heartless Man](https://open.spotify.com/track/7dRxFgqHCL0q3BlA9Er4J5) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Heartless Man](https://open.spotify.com/album/3ckyt87YZBksANQhtJGeyU) | 1:50 | 2024-02-23 | 2024-03-29 |
 | [Hentikan Aku Untuk Mencintaimu](https://open.spotify.com/track/5pOb779ujOzvYVi7uZEszT) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Hentikan Aku Untuk Mencintaimu](https://open.spotify.com/album/7AfrRqbqr4waHiAH3nJTtT) | 3:45 | 2025-07-03 | 2025-08-22 |
@@ -953,7 +954,7 @@
 | [Pulanglah](https://open.spotify.com/track/2Vi3r6oDAGkuWRpFAGKVda) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Pulanglah](https://open.spotify.com/album/5nIq4Y5uugZtiVUM9nBVoL) | 4:02 | 2025-10-30 | 2025-11-28 |
 | [Pupus](https://open.spotify.com/track/1B03UqsH5VJ5YQSO1ew0aP) | [Evan Sanders](https://open.spotify.com/artist/1qiBflbBz0FZdGLkoTH0uM) | [Pupus](https://open.spotify.com/album/1btDc2Ec1fnYrdMsf0VeRc) | 4:27 | 2024-10-31 | 2024-11-29 |
 | [Push & Pull](https://open.spotify.com/track/75aI6dB3LZFvEkEJqH9RdW) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Push & Pull](https://open.spotify.com/album/6gZVzSGWj4bJoADLPGKzs4) | 3:33 | 2025-08-07 | 2026-01-23 |
-| [Puspa](https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Berbunga](https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg) | 3:20 | 2025-04-24 | 2025-05-30 |
+| [Puspa](https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Berbunga](https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg) | 3:20 | 2025-04-24 |  |
 | [Puspa Indah](https://open.spotify.com/track/0bTmQKBd9esDzIb7BvX2Q4) | [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Segara: Tentang Galih Dan Ratna](https://open.spotify.com/album/0U2EJb8o89hDRDbqV62lej) | 4:15 | 2024-01-18 | 2024-04-12 |
 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 | 2024-07-25 | 2024-08-30 |
 | [Quick! Love!](https://open.spotify.com/track/0CE0mnqq5w0UhKCmvguoxW) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Quick! Love!](https://open.spotify.com/album/6J2hFA8D9077BTfNX8SEbt) | 3:23 | 2025-05-29 | 2025-07-18 |
@@ -1153,6 +1154,7 @@
 | [Siapa Menyangka](https://open.spotify.com/track/4qv6xToQ2MQu3fquwmUPeq) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Siapa Menyangka](https://open.spotify.com/album/4vQkYDrZF6U4AnH1gmllrQ) | 3:42 | 2025-06-12 | 2025-08-15 |
 | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/track/2oCwCA993mA26HpPRxYppU) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/album/5VecZTVhy0Dijjt7nIOH71) | 3:06 | 2026-02-12 |  |
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-05-30 | 2024-09-06 |
+| [Sihir](https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sihir](https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF) | 3:26 | 2026-02-12 |  |
 | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/track/72avAygkMmzT1UXks8D1gx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/album/2rmM5EfmOH7gVTZEE9Ok3M) | 5:05 | 2025-10-24 | 2026-01-15 |
 | [Silakan](https://open.spotify.com/track/4pzNeQGUwjiS62z253nHWQ) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Silakan](https://open.spotify.com/album/444trBoPD85W5xTE1G82lj) | 3:30 | 2024-06-27 | 2024-07-27 |
 | [SILVER LINING](https://open.spotify.com/track/02385GSFhRkEpONl9xNOwb) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [SILVER LINING](https://open.spotify.com/album/65cFOLa7aqja0VTKMTCq5j) | 4:25 | 2026-02-05 |  |

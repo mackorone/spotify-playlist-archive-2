@@ -4,7 +4,7 @@
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-886 songs - 2 day 11 hr 26 min
+887 songs - 2 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Held Down](https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 4:07 | 2021-03-10 | 2022-03-30 |
 | [Help Me Make It Through the Night](https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:08 | 2023-11-10 | 2024-11-09 |
 | [Here \- Live](https://open.spotify.com/track/2LcQIG1rVBPqpcC9i4fIFH) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [American Utopia on Broadway \(Original Cast Recording\)](https://open.spotify.com/album/71tl4k4k63o0gHt6mDj0IR) | 4:18 | 2021-03-10 | 2022-03-30 |
-| [Here We Go \(Uh Oh\)](https://open.spotify.com/track/0PNPU7o1069BGhOeWyQUas) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:35 | 2025-11-12 |  |
+| [Here We Go \(Uh Oh\)](https://open.spotify.com/track/0PNPU7o1069BGhOeWyQUas) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:35 | 2025-11-12 | 2026-02-14 |
 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 | 2024-11-08 | 2025-11-08 |
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:19 | 2022-11-24 | 2023-02-08 |
 | [Hide and Seek](https://open.spotify.com/track/3ih4P7s29EH3syPXMBWE4D) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Wild Life](https://open.spotify.com/album/0qYRZ1gdZm5eaXcGpNKtLx) | 4:05 | 2021-03-10 | 2022-03-30 |
@@ -674,6 +674,7 @@
 | [See Me](https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [See Me](https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd) | 3:30 | 2021-03-10 | 2022-03-30 |
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-11-07 |  |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2024-11-08 | 2025-11-08 |
+| [Serious Times](https://open.spotify.com/track/7it0fDiLEGPQYJwZoLgA7U) | [Keznamdi](https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60) | [BLXXD & FYAH](https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv) | 2:19 | 2025-11-12 |  |
 | [Sexy to Someone](https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:27 | 2024-11-08 | 2025-11-08 |
 | [Shadow Forces](https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:04 | 2023-11-10 | 2024-11-09 |
 | [Shameika](https://open.spotify.com/track/2pDKE8Q40TDGPl1O11DKKn) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 4:08 | 2021-03-10 | 2022-03-30 |

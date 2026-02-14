@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,375 likes - 90 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,406 likes - 90 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 29 | [Nuestro Juramento](https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [La Historia](https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb) | 3:17 |
 | 30 | [A una Rosa](https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:32 |
 | 31 | [Tal Como Siento](https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tal Como Siento](https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn) | 4:00 |
-| 32 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
-| 33 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
+| 32 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
+| 33 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
 | 34 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW) | 3:09 |
 | 35 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
 | 36 | [Mucho Más Que Piel](https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven Por Mi](https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8) | 5:01 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 62 | [Cerca del Sol](https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Cerca del Sol](https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5) | 3:37 |
 | 63 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
 | 64 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
-| 65 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
-| 66 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
+| 65 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
+| 66 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
 | 67 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/662TlFJMCYeaSOBEQ4K5es) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 | 68 | [Ya te olvidé](https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Ya te olvidé](https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r) | 2:27 |
 | 69 | [Vidala del Amor Sincero \(feat\. Fernando Barrientos\)](https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Fernando Barrientos](https://open.spotify.com/artist/6cQZ4elRhcBlcxWuw1Ypus) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:11 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 86 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
 | 87 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
 | 88 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 |
-| 89 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
-| 90 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 |
+| 89 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 |
+| 90 | [Eterno Amor](https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/7jSJ1FNwZOFzkVETCPSTLx) | 3:41 |
 
 Snapshot ID: `AAAAANtt7f+7UZpClHU4Zq9PK89Dp/YE`

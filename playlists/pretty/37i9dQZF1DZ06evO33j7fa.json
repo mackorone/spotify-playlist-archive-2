@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 60668,
+  "num_followers": 60673,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAABVHoc/H4XisDkn6R0MBYb1",
+  "snapshot_id": "aY0YAAAAAADCl7Pd0inTCzWNSQPml4Sx",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 157813,
-      "name": "Rider On The Wheel",
-      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
+      "duration_ms": 203986,
+      "name": "Hanging On A Star",
+      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Hanging On A Star",
-      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
+      "duration_ms": 157813,
+      "name": "Rider On The Wheel",
+      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 265386,
-      "name": "Blossom - Cambridge, Lent Term / 1968",
-      "url": "https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM"
+      "duration_ms": 137240,
+      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
+      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 137240,
-      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
-      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
+      "duration_ms": 265386,
+      "name": "Blossom - Cambridge, Lent Term / 1968",
+      "url": "https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM"
     },
     {
       "added_at": null,

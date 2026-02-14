@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯<br/>Photo : Nilusi x Lisandro Cuxi
 
-524 songs - 1 day 1 hr 53 min
+525 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Instable \- Version Acoustique](https://open.spotify.com/track/0kydBTxKfqCwYNlWj0ku2I) | [Will River](https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9) | [Instable \(Version Acoustique\)](https://open.spotify.com/album/6pmYVX2X8n3g7rBK56UHL9) | 2:53 | 2025-05-01 | 2025-05-23 |
 | [J'achète ça](https://open.spotify.com/track/0HxQNxcKHotTLxOq8YSwhH) | [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d), [Nadjee](https://open.spotify.com/artist/3bOlMjhZuCsFt1dKkPCGAK), [Serenity Haes](https://open.spotify.com/artist/5mkiRDKsIg1f65xpo8LaKB) | [J'achète ça](https://open.spotify.com/album/1w4OAYC5ux28WTXEbvmZHq) | 2:52 | 2024-12-05 | 2025-01-24 |
 | [J'ai besoin](https://open.spotify.com/track/3wTpzExItAtgXSMop0iXTO) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q), [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Avant que tout soit beau](https://open.spotify.com/album/2rMxGQNNLGjUcKIuMYeCwO) | 3:33 | 2024-12-19 | 2025-02-14 |
+| [J'ai merdé](https://open.spotify.com/track/3SxZzsVNK8VjabXJphHYPo) | [Vaik](https://open.spotify.com/artist/4TDkhCbk461mCCeION8atB), [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr), [Jeremy Lior](https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm) | [J'ai merdé](https://open.spotify.com/album/1SRs8XIRRpOe2g4Y4pAoIA) | 3:25 | 2026-02-12 |  |
 | [J'ai voulu](https://open.spotify.com/track/6AaotUGcQSPfdkGbgNcP3Y) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [HIGH SCHOOL \(Réédition\)](https://open.spotify.com/album/3OPPPqo5gekMagH8KLjxQT) | 2:38 | 2024-12-19 | 2025-02-28 |
 | [J'apaise](https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [J'apaise](https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E) | 3:48 | 2023-09-28 | 2024-01-26 |
 | [J'avais prévenu](https://open.spotify.com/track/1HQogBDPDvcFRSCUjh4x2k) | [Wissam](https://open.spotify.com/artist/0rbipU0Ct85sBwdhhnpbUJ) | [J'avais prévenu](https://open.spotify.com/album/1wRvC3m4OPlSH8cDhpSo35) | 3:12 | 2025-12-18 | 2026-01-30 |

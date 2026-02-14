@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 
 > Watch exclusive live performances from Spotify's Best New Artist Party\. Music Videos only available on premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,201 likes - 17 songs - 57 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 156,317 likes - 17 songs - 57 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

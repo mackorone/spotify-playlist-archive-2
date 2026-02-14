@@ -2591,7 +2591,7 @@
         },
         {
           "name": "Maycash",
-          "url": "https://open.spotify.com/artist/2j74heXHPelYGL1bXW9vdT"
+          "url": "https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD"
         }
       ],
       "date_added": "2026-02-12",
@@ -2692,6 +2692,24 @@
       "duration_ms": 167250,
       "name": "Flits",
       "url": "https://open.spotify.com/track/2HqtM2lE7bw883Soxfg14P"
+    },
+    {
+      "album": {
+        "name": "Focus mode",
+        "url": "https://open.spotify.com/album/1hlcvrb6x1BolMWPQbRQi7"
+      },
+      "artists": [
+        {
+          "name": "Jordan",
+          "url": "https://open.spotify.com/artist/0b3RMzjORTOTEREn3mv3fF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156884,
+      "name": "Focus mode",
+      "url": "https://open.spotify.com/track/3AV4B0I5rkHyyNwWOvk469"
     },
     {
       "album": {
@@ -3744,6 +3762,24 @@
       "duration_ms": 170751,
       "name": "Isri",
       "url": "https://open.spotify.com/track/3rDpGytBHq64SXDRf9LQrt"
+    },
+    {
+      "album": {
+        "name": "Jailhouse",
+        "url": "https://open.spotify.com/album/4tCD8z5D2i6gbBlFRrdScX"
+      },
+      "artists": [
+        {
+          "name": "CC",
+          "url": "https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Jailhouse",
+      "url": "https://open.spotify.com/track/4Xe6qtLYPoPsRec7rVdH0g"
     },
     {
       "album": {

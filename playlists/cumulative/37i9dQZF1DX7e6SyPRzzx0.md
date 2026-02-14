@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-195 songs - 8 hr 16 min
+196 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Hell Yeah](https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 2:48 | 2023-12-01 | 2024-09-21 |
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 | 2024-06-01 |
 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 | 2023-12-01 | 2024-04-27 |
-| [Hurting](https://open.spotify.com/track/0tWhCPNjhc9t64S17gE0hw) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Hurting](https://open.spotify.com/album/2p7RhIT6IKHsHiJOIxgMB9) | 2:50 | 2026-02-06 |  |
+| [Hurting](https://open.spotify.com/track/0tWhCPNjhc9t64S17gE0hw) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Hurting](https://open.spotify.com/album/2p7RhIT6IKHsHiJOIxgMB9) | 2:50 | 2026-02-06 | 2026-02-14 |
 | [i need meds](https://open.spotify.com/track/6JIHW3L3mW9z2RtMNe1nlr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i need meds](https://open.spotify.com/album/0h6LKZjMZDE2pOGYQaczrL) | 1:35 | 2025-08-08 | 2025-11-22 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-12-01 | 2024-03-16 |
 | [I Rot, I Rot.](https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 1:59 | 2024-09-03 | 2024-12-07 |
@@ -129,6 +129,7 @@
 | [New Cash](https://open.spotify.com/track/4NNyZ9w119c7FJLn6FoRJg) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [New Cash](https://open.spotify.com/album/25ZcUBzPwZxKVBk40kNzXu) | 2:24 | 2025-05-09 |  |
 | [New Jeep](https://open.spotify.com/track/2CcWirzG271UsU4Eb9jcPx) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [New Jeep](https://open.spotify.com/album/4pbOfNrlI8zo5YSjuV1n2V) | 3:05 | 2025-06-20 | 2025-07-12 |
 | [New Tank](https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:29 | 2024-05-14 |  |
+| [No Compadre](https://open.spotify.com/track/2IzcwHQ6uv1geOvCszrO4P) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Designer Junkie](https://open.spotify.com/album/6Eb3spgLo0qXfgTdP1kxjd) | 2:04 | 2026-02-13 |  |
 | [noir](https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs) | 1:37 | 2024-03-15 | 2024-03-30 |
 | [noir](https://open.spotify.com/track/5FgmgpMES8hknCpvbHXc3Y) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/1gL2p8oM0ObpobShkMCSlC) | 1:37 | 2024-03-15 | 2024-03-26 |
 | [noir](https://open.spotify.com/track/72vUc6aIviryxvvs4gV5ag) | [venii](https://open.spotify.com/artist/5V7KZhm5gwGljtq4BTgyOC) | [noir](https://open.spotify.com/album/2O94J43yUri3UqlH0QnYBP) | 1:49 | 2024-03-15 | 2024-03-27 |

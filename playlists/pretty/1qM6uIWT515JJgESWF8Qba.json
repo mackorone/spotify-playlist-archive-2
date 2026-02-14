@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 338,
+  "num_followers": 340,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABOY+JV6GF6qqh9HgG/eNYgMzP4Pe4",
+  "snapshot_id": "AAABOhvYU1Oivt4D+dpRsf/gZdhN6Boh",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1083,6 +1083,22 @@
       "duration_ms": 279625,
       "name": "Down - '25",
       "url": "https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS"
+    },
+    {
+      "added_at": "2026-02-13 03:43:25",
+      "album": {
+        "name": "In Our Nature",
+        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
+      },
+      "artists": [
+        {
+          "name": "Touch of Red",
+          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
+        }
+      ],
+      "duration_ms": 291153,
+      "name": "Tear Down the Sky",
+      "url": "https://open.spotify.com/track/4sKd8sVdwGOqQgOWTSuIsU"
     }
   ],
   "unique_name": "Local Rock Bands",

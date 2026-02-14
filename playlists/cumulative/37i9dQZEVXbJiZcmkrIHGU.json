@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 275773,
       "name": "Alle Jl\u00e4ser huh",
       "url": "https://open.spotify.com/track/6YqYOnjh0vkMp5cfzKHmbM"
@@ -7540,7 +7540,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -8222,7 +8222,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 150621,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf"
@@ -9550,7 +9550,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
@@ -14112,7 +14112,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 228836,
       "name": "CAF\u00e9 CON RON",
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
@@ -21496,7 +21496,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 179960,
       "name": "D\u00e4 Plan",
       "url": "https://open.spotify.com/track/3Wj44AtK8gStaPWY1qJb0A"
@@ -23092,7 +23092,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 156529,
       "name": "Erlk\u00f6nig",
       "url": "https://open.spotify.com/track/5YqhT9Jiw4wz1qliKQksoZ"
@@ -23566,7 +23566,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 222106,
       "name": "Et jitt kei Wood",
       "url": "https://open.spotify.com/track/7mJMGgkyR0XSyd44svaD4P"
@@ -23776,7 +23776,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -30611,6 +30611,28 @@
     },
     {
       "album": {
+        "name": "Gute Laune",
+        "url": "https://open.spotify.com/album/75HPeCUQUUUyPFryIg6u1E"
+      },
+      "artists": [
+        {
+          "name": "Killermichel",
+          "url": "https://open.spotify.com/artist/43HoYloPRWQg1de2tqvDxk"
+        },
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/3vYkILM4tTEAKSFECssyNf"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/40NEnuv5VHboABOWbRZgxQ"
+    },
+    {
+      "album": {
         "name": "Stimmungsmacher",
         "url": "https://open.spotify.com/album/1nX6bKbe4khw0QFg5xsDNu"
       },
@@ -30622,7 +30644,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 215769,
       "name": "Guten Morgen Barbarossaplatz",
       "url": "https://open.spotify.com/track/385lgFqvuFryjdlYzTF4fP"
@@ -31270,7 +31292,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 205842,
       "name": "Handwerker",
       "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
@@ -32812,7 +32834,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -36694,7 +36716,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -38354,6 +38376,28 @@
       "duration_ms": 193884,
       "name": "Karnevalsmaus",
       "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
+    },
+    {
+      "album": {
+        "name": "Karnevalsmaus (Partyversion)",
+        "url": "https://open.spotify.com/album/4ZkLsZEoVEXYjUa5zPy2F7"
+      },
+      "artists": [
+        {
+          "name": "Druckluft",
+          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
+        },
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203131,
+      "name": "Karnevalsmaus (Partyversion)",
+      "url": "https://open.spotify.com/track/4C6gWZhTWB1WrBWmhNax48"
     },
     {
       "album": {
@@ -40378,7 +40422,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 241800,
       "name": "K\u00f6lsche Jung - Party Edit",
       "url": "https://open.spotify.com/track/5WsBHZRPeXLmZTaIOZbB1e"
@@ -40528,7 +40572,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -41668,7 +41712,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 262240,
       "name": "Leev Marie",
       "url": "https://open.spotify.com/track/6te4u5fA8mtW1DYoB9YV4t"
@@ -43682,7 +43726,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -53281,6 +53325,28 @@
     },
     {
       "album": {
+        "name": "Oben unten (Party Edit)",
+        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4uber",
+          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Oben unten - Party Edit",
+      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
+    },
+    {
+      "album": {
         "name": "Oberteil",
         "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
       },
@@ -54020,7 +54086,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182600,
       "name": "Ombre Nomade",
       "url": "https://open.spotify.com/track/4DLdkx6mWN8CK7H1CzsTaC"
@@ -54478,7 +54544,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -54964,7 +55030,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 162222,
       "name": "OYE!",
       "url": "https://open.spotify.com/track/3dWUicD478ooh65glDd3OJ"
@@ -56926,7 +56992,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 236893,
       "name": "Pirate",
       "url": "https://open.spotify.com/track/4rZCs12mDDseNSfpOIu5rc"
@@ -58016,7 +58082,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 192573,
       "name": "Prinzessin",
       "url": "https://open.spotify.com/track/6xxqvqzRighH5hQ5QwzFtq"
@@ -58742,7 +58808,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -63020,7 +63086,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
@@ -64034,7 +64100,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 115555,
       "name": "Shabab(e)s im VIP",
       "url": "https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM"
@@ -66644,7 +66710,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 234786,
       "name": "Stadt met K",
       "url": "https://open.spotify.com/track/48dosoGX5Bey5mk6BhCgKM"
@@ -68694,7 +68760,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -70458,7 +70524,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -72962,7 +73028,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 206026,
       "name": "Tschingderassabum",
       "url": "https://open.spotify.com/track/5qEyqquRgKxpv0VKvcNXbC"
@@ -75180,7 +75246,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 129982,
       "name": "VERLIEBT IN MICH",
       "url": "https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2"
@@ -77144,7 +77210,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
@@ -79038,7 +79104,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
@@ -80450,7 +80516,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 249266,
       "name": "Wolkeplatz",
       "url": "https://open.spotify.com/track/2kY8nciDE4zEn6y2BCd7Fk"

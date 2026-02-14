@@ -1,34 +1,18 @@
 {
-  "description": "New music from J. Cole, Don Toliver and Esdeekid.",
-  "num_followers": 15792857,
+  "description": "New music from Don Toliver, J. Cole and Central Cee. ",
+  "num_followers": 15792547,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD1HeWzMMpgGiK7QO9ZWqzCO9NyS",
+  "snapshot_id": "AAAAANL3TwpmpT3/ljS1/bF4Z3oAHFNg",
   "tracks": [
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Two Six",
-      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "ATM",
-        "url": "https://open.spotify.com/album/2aOzBC2dw4L6USRUdyu2X3"
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
       "artists": [
         {
@@ -36,76 +20,12 @@
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 180705,
-      "name": "ATM",
-      "url": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
+      "duration_ms": 153181,
+      "name": "E85",
+      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "HELICOPTER",
-        "url": "https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 165288,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Slime Cry",
-        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 176294,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -129,23 +49,87 @@
       "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 148860,
-      "name": "Mrs. Trendsetter",
-      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "HELICOPTER",
+        "url": "https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 165288,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 176294,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "LET 'EM KNOW",
         "url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa"
@@ -161,23 +145,7 @@
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
     },
     {
-      "added_at": "2026-02-12 05:00:29",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Ambitionz Az A Ridah",
-      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -186,18 +154,78 @@
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Run A Train (with Future)",
-      "url": "https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99"
+      "duration_ms": 196080,
+      "name": "Two Six",
+      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 148860,
+      "name": "Mrs. Trendsetter",
+      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "ATM",
+        "url": "https://open.spotify.com/album/2aOzBC2dw4L6USRUdyu2X3"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Who Did The Body",
+        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 179476,
+      "name": "Putting Ya Dine",
+      "url": "https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "Coke Wave 3.5: Narcos",
         "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
@@ -217,7 +245,7 @@
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -233,10 +261,10 @@
       "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "ROCKSTAR RAGING (feat. Swae Lee)",
-        "url": "https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y"
+        "name": "ROOMS",
+        "url": "https://open.spotify.com/album/50sklTdoxS2yLHgF3jnV3t"
       },
       "artists": [
         {
@@ -244,32 +272,20 @@
           "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         },
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 278260,
-      "name": "ROCKSTAR RAGING (feat. Swae Lee)",
-      "url": "https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Century",
-        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
-      },
-      "artists": [
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
         {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 109714,
-      "name": "Century",
-      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
+      "duration_ms": 232000,
+      "name": "ROOMS",
+      "url": "https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -289,23 +305,31 @@
       "url": "https://open.spotify.com/track/2Ejyg4CavumEr7lFUkk9aF"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "Regular",
-        "url": "https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 146865,
-      "name": "Regular",
-      "url": "https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb"
+      "duration_ms": 207230,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "A+",
         "url": "https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W"
@@ -321,7 +345,115 @@
       "url": "https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Not So Virgo of You",
+        "url": "https://open.spotify.com/album/3SNwtuCYykFVk5NOXCWL30"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 247894,
+      "name": "Not So Virgo of You",
+      "url": "https://open.spotify.com/track/06iPWbs7FDigzZ0hSW7lo1"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "girl, get up. (feat. SZA)",
+        "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "girl, get up. (feat. SZA)",
+      "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Regular",
+        "url": "https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Regular",
+      "url": "https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Century",
+        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "Century",
+      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "ROCKSTAR RAGING (feat. Swae Lee)",
+        "url": "https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 278260,
+      "name": "ROCKSTAR RAGING (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Feeling On My Body",
+        "url": "https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Taffy",
+          "url": "https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO"
+        },
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "duration_ms": 157977,
+      "name": "Feeling On My Body",
+      "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "BOO",
         "url": "https://open.spotify.com/album/4mblTYg5YlrtspzftfKVZd"
@@ -337,7 +469,7 @@
       "url": "https://open.spotify.com/track/7z0fmhOBmjifu0BqMP5vuG"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "FDO",
         "url": "https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be"
@@ -353,27 +485,31 @@
       "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+        "name": "One of Them Ones",
+        "url": "https://open.spotify.com/album/6jNOjglo1MftJZvOpCIZIT"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
         }
       ],
-      "duration_ms": 346093,
-      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
+      "duration_ms": 185400,
+      "name": "One of Them Ones",
+      "url": "https://open.spotify.com/track/6f0UpQ2qdNevj7NARngtna"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "The Leaks",
         "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
@@ -397,7 +533,23 @@
       "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:13:51",
+      "album": {
+        "name": "Act Like Money",
+        "url": "https://open.spotify.com/album/6mhUQS9GEUVhJ6hUKIHYdU"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Act Like Money",
+      "url": "https://open.spotify.com/track/59srqH5Kg6NWlUzH1T5olL"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
@@ -421,23 +573,111 @@
       "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 155753,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+      "duration_ms": 346093,
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
+        "url": "https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
+      "url": "https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Run A Train (with Future)",
+      "url": "https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -461,7 +701,7 @@
       "url": "https://open.spotify.com/track/2lSDVBIWbWQ7z5Lw15GRNw"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "All On Me (feat. G Herbo)",
         "url": "https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL"
@@ -481,7 +721,47 @@
       "url": "https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Down South",
+        "url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Down South (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
+      "album": {
+        "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 154931,
+      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
+    },
+    {
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -497,83 +777,7 @@
       "url": "https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Rosary (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Not One Of Them",
-        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196378,
-      "name": "Stone Cold (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Who Did The Body",
-        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 179476,
-      "name": "Putting Ya Dine",
-      "url": "https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 135275,
-      "name": "TOXIC (with Skepta)",
-      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "BE MORE GRATEFUL",
         "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
@@ -589,27 +793,7 @@
       "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "girl, get up. (feat. SZA)",
-        "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "girl, get up. (feat. SZA)",
-      "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "I Hope You're Happy (Deluxe)",
         "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
@@ -625,7 +809,7 @@
       "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "Who Coppin'",
         "url": "https://open.spotify.com/album/307LIDS6NyJ4gvU3U8hACU"
@@ -641,27 +825,7 @@
       "url": "https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "NOW OR NEVER II",
         "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
@@ -681,7 +845,7 @@
       "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "New Trip (feat. Yeat & BNYX\u00ae)",
         "url": "https://open.spotify.com/album/2HxI1pO2yc8XFnZfp7AvbL"
@@ -705,7 +869,7 @@
       "url": "https://open.spotify.com/track/2lpLHJXgSGFU5GuIk8qzgs"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "MARCH",
         "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
@@ -721,39 +885,23 @@
       "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
-        "name": "Shotta Flow 8",
-        "url": "https://open.spotify.com/album/2WYcqAyGT3nWOfdjxW5sn7"
+        "name": "IDB",
+        "url": "https://open.spotify.com/album/1an5Ha44ptSh01369ZNiIF"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 201856,
-      "name": "Shotta Flow 8",
-      "url": "https://open.spotify.com/track/0o1OygFF2qOOh5e3s7rNd1"
+      "duration_ms": 172324,
+      "name": "IDB",
+      "url": "https://open.spotify.com/track/2F5yTzGkclnguED0nwworg"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 120944,
-      "name": "Omens",
-      "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "Feed the Streets",
         "url": "https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN"
@@ -769,31 +917,7 @@
       "url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
     },
     {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "EVERYWHERE I GO (REMIND ME) feat. Kid Cudi",
-        "url": "https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC"
-      },
-      "artists": [
-        {
-          "name": "BNYX\u00ae",
-          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 217243,
-      "name": "EVERYWHERE I GO (REMIND ME) feat. Kid Cudi",
-      "url": "https://open.spotify.com/track/55QDC1UHFcqlnH0xSvvB7T"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
+      "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1yZdP07q7q9g62biQBoqaU"
@@ -815,146 +939,6 @@
       "duration_ms": 181739,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0CtG3VBxkHbEuIexLCyVcZ"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "wgft (Remix) [feat. Chris Brown]",
-        "url": "https://open.spotify.com/album/7w0YmeUJoZebUXDqhtzmuL"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "wgft (Remix) [feat. Chris Brown]",
-      "url": "https://open.spotify.com/track/4m4sk6NdP92HCvioRCo9BM"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "600 Degrees",
-        "url": "https://open.spotify.com/album/7Cc4BJMsdA7CcyjC2oGZpS"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "Yung Hood",
-          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
-        },
-        {
-          "name": "MurdaGang PB",
-          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "600 Degrees",
-      "url": "https://open.spotify.com/track/197BDJNJEEEO3GjoDe9eIN"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Flo Jackson",
-        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 143444,
-      "name": "Flo Jackson",
-      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Booga",
-        "url": "https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 112733,
-      "name": "Booga",
-      "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "Street Psalms",
-        "url": "https://open.spotify.com/album/0F81kdKteOdZ5fBofqn3NN"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 169644,
-      "name": "Seen Enough (feat. Polo G)",
-      "url": "https://open.spotify.com/track/1qDDgZwDI312DbDaFPaXVD"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "IDB",
-        "url": "https://open.spotify.com/album/1an5Ha44ptSh01369ZNiIF"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "IDB",
-      "url": "https://open.spotify.com/track/2F5yTzGkclnguED0nwworg"
-    },
-    {
-      "added_at": "2026-02-09 13:38:56",
-      "album": {
-        "name": "One of Them Ones",
-        "url": "https://open.spotify.com/album/6jNOjglo1MftJZvOpCIZIT"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "One of Them Ones",
-      "url": "https://open.spotify.com/track/6f0UpQ2qdNevj7NARngtna"
     }
   ],
   "unique_name": "RapCaviar",

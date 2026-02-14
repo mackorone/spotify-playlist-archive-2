@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 213293,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE"
@@ -936,6 +936,24 @@
       "duration_ms": 200262,
       "name": "Bluebelle mountain",
       "url": "https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa"
+    },
+    {
+      "album": {
+        "name": "Bluebells",
+        "url": "https://open.spotify.com/album/5Hq896br84o6cidy05w9vp"
+      },
+      "artists": [
+        {
+          "name": "Music Teacher",
+          "url": "https://open.spotify.com/artist/2MQo8aFxqlCtc0RyzxCYip"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202609,
+      "name": "Bluebells",
+      "url": "https://open.spotify.com/track/6l0uya9o39mLrDURrzcKiR"
     },
     {
       "album": {
@@ -3881,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/2lUt73kRENliUN8xb8fi4J"
+      },
+      "artists": [
+        {
+          "name": "Oklahoma",
+          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166610,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/0cES4pf569g1JsRYcOI45S"
+    },
+    {
+      "album": {
         "name": "Magic Chairs",
         "url": "https://open.spotify.com/album/5rHl0fZhid0XgWWwS9amnO"
       },
@@ -5340,10 +5376,28 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 159697,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc"
+    },
+    {
+      "album": {
+        "name": "My Roots",
+        "url": "https://open.spotify.com/album/6u0GjfYg4KepFzTXgOuXes"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159697,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/3srDr6WrS76aa0fjbLZdhr"
     },
     {
       "album": {
@@ -6252,7 +6306,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 231586,
       "name": "v\u00e1r",
       "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"

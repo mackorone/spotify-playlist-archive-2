@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204324,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+    },
+    {
+      "album": {
         "name": "A Prayer for the Dancefloor",
         "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
       },
@@ -3114,6 +3132,10 @@
         {
           "name": "Coco & Breezy",
           "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Hadiya George",
+          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
         }
       ],
       "date_added": "2026-02-06",
@@ -3422,6 +3444,28 @@
       "duration_ms": 191922,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Kendra Foster",
+          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
     },
     {
       "album": {
@@ -5726,7 +5770,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 230400,
       "name": "Hey Maria",
       "url": "https://open.spotify.com/track/7ng0n3GkYq5hojwGgpy7oH"
@@ -7648,7 +7692,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 199120,
       "name": "listen",
       "url": "https://open.spotify.com/track/6epVHBD3lkGbTNwiKn9l0V"
@@ -7816,6 +7860,28 @@
       "duration_ms": 168750,
       "name": "LOOKING FOR JOY",
       "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
+    },
+    {
+      "album": {
+        "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/4d4QfJ0qQGdQe1SZVXDech"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275208,
+      "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/3iDRa9vD0TunjvYzcVcRSC"
     },
     {
       "album": {
@@ -8786,7 +8852,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 376096,
       "name": "Neuromancer",
       "url": "https://open.spotify.com/track/18VlAbo4c4NLA82SXapfgs"
@@ -9957,6 +10023,24 @@
     },
     {
       "album": {
+        "name": "pulse",
+        "url": "https://open.spotify.com/album/3lftOEonBEaY7NSOnwwUdj"
+      },
+      "artists": [
+        {
+          "name": "RONI",
+          "url": "https://open.spotify.com/artist/3ACB6pQFKxf7vsmm5Tl39g"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248769,
+      "name": "pulse",
+      "url": "https://open.spotify.com/track/1qR9THLRIMLxY22bz6Q0a2"
+    },
+    {
+      "album": {
         "name": "QQQQ",
         "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
       },
@@ -10562,7 +10646,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182255,
       "name": "Saline",
       "url": "https://open.spotify.com/track/40TsAYxG6boQ1lNnzJnEcl"
@@ -12827,7 +12911,7 @@
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176897,
+      "duration_ms": 174880,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
     },

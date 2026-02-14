@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 437395,
+  "num_followers": 437444,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 199746,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "DeSAFINADO",
-        "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
+        "name": "No tenemos tiempo",
+        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
       },
       "artists": [
         {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
+          "name": "L\u00eda Luque",
+          "url": "https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj"
         }
       ],
-      "duration_ms": 173333,
-      "name": "DeSAFINADO",
-      "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
+      "duration_ms": 212571,
+      "name": "No tenemos tiempo",
+      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "No tenemos tiempo",
-        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
+        "name": "DeSAFINADO",
+        "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
       },
       "artists": [
         {
-          "name": "L\u00eda Luque",
-          "url": "https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj"
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
         }
       ],
-      "duration_ms": 212571,
-      "name": "No tenemos tiempo",
-      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+      "duration_ms": 173333,
+      "name": "DeSAFINADO",
+      "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "em plou a dins",
         "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
       },
       "artists": [
         {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1599,6 +1583,22 @@
       "duration_ms": 195524,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "EL LABERINTO",
-        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
-      },
-      "artists": [
-        {
-          "name": "LEIDAN",
-          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
-        }
-      ],
-      "duration_ms": 221774,
-      "name": "TE DOY MI CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+        "name": "EL LABERINTO",
+        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
       },
       "artists": [
         {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+          "name": "LEIDAN",
+          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+      "duration_ms": 221774,
+      "name": "TE DOY MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1719,6 +1703,22 @@
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
     },
     {
       "added_at": "2026-01-16 05:55:21",

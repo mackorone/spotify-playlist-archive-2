@@ -1891,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Ik Heb Je",
+        "url": "https://open.spotify.com/album/5ZO5rv0vsM0UMbrTf8WsvI"
+      },
+      "artists": [
+        {
+          "name": "SkyeIndy",
+          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "Ik Heb Je",
+      "url": "https://open.spotify.com/track/3FSRBpq39JHLUvRzxWHRwY"
+    },
+    {
+      "album": {
         "name": "Ik Voel Je",
         "url": "https://open.spotify.com/album/4cvdCj5l2eNbG68FOQVerA"
       },
@@ -2052,6 +2070,28 @@
       "duration_ms": 199224,
       "name": "J'ai zay\u00e9",
       "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
+    },
+    {
+      "album": {
+        "name": "Januari",
+        "url": "https://open.spotify.com/album/6xe6bnCzdGhuWI5PUl3qpp"
+      },
+      "artists": [
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Januari",
+      "url": "https://open.spotify.com/track/6bEUzaKcHiKH5B9L1eH9Rc"
     },
     {
       "album": {
@@ -3626,7 +3666,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 149027,
       "name": "Richer",
       "url": "https://open.spotify.com/track/5d0UKo4nZGWlOaPYQfWZCD"
@@ -3732,7 +3772,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 148775,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/4R4mobLX8HZljQdwjKIJXw"
@@ -4646,6 +4686,28 @@
       "duration_ms": 137100,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
+    },
+    {
+      "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/1MtrbQKZTO1shXxX4zEQBL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lou",
+          "url": "https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ"
+        },
+        {
+          "name": "Jerr",
+          "url": "https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz"
     },
     {
       "album": {

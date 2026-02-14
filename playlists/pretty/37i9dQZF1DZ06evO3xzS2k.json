@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAADDG3kJnAzghsIe5weyQc2x",
+  "snapshot_id": "aY0YAAAAAADuIJe9krSP67GFEp55oFmL",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "toothless coal",
-        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
+        "name": "purple strings",
+        "url": "https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 227733,
-      "name": "toothless coal",
-      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
+      "duration_ms": 282253,
+      "name": "purple strings",
+      "url": "https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "purple strings",
-        "url": "https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH"
+        "name": "toothless coal",
+        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 282253,
-      "name": "purple strings",
-      "url": "https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun"
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
     },
     {
       "added_at": null,

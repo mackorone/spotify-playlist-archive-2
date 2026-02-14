@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: The Court
 
-1,121 songs - 2 day 16 hr 39 min
+1,122 songs - 2 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Big Idea](https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Chaos Angel](https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2) | 3:42 | 2024-06-27 | 2024-07-27 |
 | [Bigger Person](https://open.spotify.com/track/1VZJQ8i70HJiRYZyOvOBRX) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Nordic Noir](https://open.spotify.com/album/4KB0uWkYl4ktPULgeW8hUS) | 3:11 | 2025-09-11 | 2026-01-16 |
 | [Birdsong](https://open.spotify.com/track/0AJJRuYWCpIdBrA2EM4Ka2) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Birdsong](https://open.spotify.com/album/5PTqT2mtWUJeeXs64lfK1i) | 3:21 | 2025-11-27 |  |
-| [Bit mig](https://open.spotify.com/track/4thI83CMJQYfi9CXIayke1) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [](https://open.spotify.com/album/null) | 4:31 | 2026-02-12 |  |
+| [Bit mig](https://open.spotify.com/track/4thI83CMJQYfi9CXIayke1) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Klunk](https://open.spotify.com/album/3UHqvrisWMiefwr9OjnmPM) | 4:31 | 2026-02-12 |  |
 | [BITTER](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 | 2024-12-19 | 2025-02-07 |
 | [Black Cat](https://open.spotify.com/track/3X7S1j9JzhDiyOmAo29ToG) | [deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Black Cat](https://open.spotify.com/album/3FsU86eAWIuGRAzXjX5R97) | 2:19 | 2026-01-22 |  |
 | [Black Lake](https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Black Lake](https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ) | 2:55 | 2024-08-15 | 2024-09-06 |
@@ -172,6 +172,7 @@
 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 | 2025-10-09 | 2026-01-16 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 | 2025-04-25 |
 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-03 | 2025-06-20 |
+| [Chick Flick](https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Chick Flick](https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi) | 3:22 | 2026-02-12 |  |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-07-25 | 2024-08-30 |
 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 | 2025-01-02 | 2025-02-28 |
 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2025-02-13 | 2025-03-28 |

@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-127 songs - 6 hr 9 min
+128 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-07-04 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-07-04 |  |
 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 | 2025-08-27 |  |
+| [Hoe Dan Ook](https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Hoe Dan Ook](https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8) | 2:53 | 2026-02-13 |  |
 | [Hoe Het Is](https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Hoe Het Is](https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC) | 2:31 | 2025-08-27 |  |
 | [hopi amor](https://open.spotify.com/track/0l5e9jvV40WXQFn5adOuSM) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [hopi amor](https://open.spotify.com/album/36rLxateZqIxhnM5hPgHMu) | 2:30 | 2025-08-27 | 2025-11-08 |
 | [How Do I Feel](https://open.spotify.com/track/3EsjWjJBj1uRUHdRdwJc4U) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [How Do I Feel](https://open.spotify.com/album/02xxO3zXFAZezAzyuaLpVQ) | 2:46 | 2025-07-04 |  |

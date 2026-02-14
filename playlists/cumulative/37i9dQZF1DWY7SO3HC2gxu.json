@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 341125,
       "name": "Bure",
       "url": "https://open.spotify.com/track/5KrsQh6kkU1joFWJ9Yhu7L"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 386870,
       "name": "Chuki",
       "url": "https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp"
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4zVrz1Hg2oMbl5jlwDM7hY"
+      },
+      "artists": [
+        {
+          "name": "Director P",
+          "url": "https://open.spotify.com/artist/52065XdcbWFe2iZZTifhkG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171119,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/6GJVDIb1KRS2GC0SsFiZDA"
+    },
+    {
+      "album": {
         "name": "Fantasize",
         "url": "https://open.spotify.com/album/38NW24V2srA0Vt5KwHJKop"
       },
@@ -1428,6 +1446,32 @@
       "duration_ms": 369773,
       "name": "Hakuna Kulala",
       "url": "https://open.spotify.com/track/5jru8BTeBGpxpflajpAAYp"
+    },
+    {
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/00LYeGdrUfHcCt2xSHoWI9"
+      },
+      "artists": [
+        {
+          "name": "Mindblow",
+          "url": "https://open.spotify.com/artist/721X4xLFS5AiHb6GeuuKvF"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        },
+        {
+          "name": "Garnic",
+          "url": "https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142380,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/0EV0PMMPH2wiQJKmSmRi17"
     },
     {
       "album": {
@@ -2000,7 +2044,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 252000,
       "name": "Kadenge",
       "url": "https://open.spotify.com/track/3tZepAwKSAwy2z284egom5"
@@ -2518,7 +2562,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 470361,
       "name": "Kwenzi",
       "url": "https://open.spotify.com/track/23LeyHmpi0JPePkWa9efWX"
@@ -2915,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Abedare",
+        "url": "https://open.spotify.com/album/4HEq6htnJR2fIvWB5838IY"
+      },
+      "artists": [
+        {
+          "name": "DJ Fita",
+          "url": "https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257861,
+      "name": "Matiri",
+      "url": "https://open.spotify.com/track/5jYhlg6DVnfTGRXl5baZ6w"
+    },
+    {
+      "album": {
         "name": "Mbali",
         "url": "https://open.spotify.com/album/3XXFxvRyB0YJI4sAKwLrhM"
       },
@@ -3044,7 +3106,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 173000,
       "name": "META (feat. Fireboy DML) - Edit",
       "url": "https://open.spotify.com/track/37eGvbAJpVPvkrAryG8fBI"
@@ -3279,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Mugeni",
+        "url": "https://open.spotify.com/album/3SIVMng8EgaWBlxwsNsnOi"
+      },
+      "artists": [
+        {
+          "name": "Iborian",
+          "url": "https://open.spotify.com/artist/36mP4oRFl8IveYlzp9SwGR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Mugeni",
+      "url": "https://open.spotify.com/track/2ChfmmwKkzHaXmHGL0i7hY"
+    },
+    {
+      "album": {
         "name": "Tabasamu",
         "url": "https://open.spotify.com/album/4OSKG9pzo1SVRTQ3SrFDDj"
       },
@@ -3312,7 +3392,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 202622,
       "name": "Muthamaki",
       "url": "https://open.spotify.com/track/1mNH1ohty21BGlVNQvTKP8"
@@ -3552,6 +3632,24 @@
       "duration_ms": 144000,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/5vJoZemSLeeUhRjgB2Tz8w"
+    },
+    {
+      "album": {
+        "name": "My Only",
+        "url": "https://open.spotify.com/album/3ImIN8JkV2xJDtw4NnqHLi"
+      },
+      "artists": [
+        {
+          "name": "Erick Sebastian",
+          "url": "https://open.spotify.com/artist/44iVloUdhcsgPxpsaw4cWj"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192098,
+      "name": "My Only",
+      "url": "https://open.spotify.com/track/70gg2UNfyqsRMdCJe9EjdQ"
     },
     {
       "album": {
@@ -3823,6 +3921,28 @@
     },
     {
       "album": {
+        "name": "Niokire",
+        "url": "https://open.spotify.com/album/2ClYc7HDDiZX9YDm3k36F7"
+      },
+      "artists": [
+        {
+          "name": "TASHEENO",
+          "url": "https://open.spotify.com/artist/2hcpVfTMKULfNt9c8YjGXa"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253884,
+      "name": "Niokire",
+      "url": "https://open.spotify.com/track/6CEjm8OhBdQcqK2mU3WNvQ"
+    },
+    {
+      "album": {
         "name": "Njaula Ibe",
         "url": "https://open.spotify.com/album/7F5UexBPN27lepE3dPNiPw"
       },
@@ -4044,7 +4164,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 311040,
       "name": "Ololufe",
       "url": "https://open.spotify.com/track/1LV7IUWcCtxOIWrGlppGO2"
@@ -4262,7 +4382,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 195129,
       "name": "Pepo",
       "url": "https://open.spotify.com/track/1rN3DJ6IXLuvVPIgG3SBLe"
@@ -4928,7 +5048,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 177443,
       "name": "Shauku Bana - Afro-House Version",
       "url": "https://open.spotify.com/track/0WVfqwbEIXzwnyo1QBVjLk"
@@ -5108,7 +5228,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 428429,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV"
@@ -6534,7 +6654,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 340500,
       "name": "Yule",
       "url": "https://open.spotify.com/track/3d5jBkwQ78NV4uvWvBFNdq"

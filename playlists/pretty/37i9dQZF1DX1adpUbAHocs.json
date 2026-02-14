@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 639352,
+  "num_followers": 639313,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 209621,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Where'd All the Time Go",
-        "url": "https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD"
-      },
-      "artists": [
-        {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "Where'd All the Time Go",
-      "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -1007,22 +991,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+        "name": "Where'd All the Time Go",
+        "url": "https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD"
       },
       "artists": [
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
         }
       ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+      "duration_ms": 241023,
+      "name": "Where'd All the Time Go",
+      "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1039,6 +1019,26 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2024-07-05 20:58:56",

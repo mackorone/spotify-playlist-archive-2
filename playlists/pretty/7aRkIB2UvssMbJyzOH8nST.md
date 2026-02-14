@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 
 > Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 273,474 likes - 120 songs - 7 hr 7 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 273,462 likes - 120 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 | 119 | [Last Goodbyes \(Acoustic Version\)](https://open.spotify.com/track/2PJcce23TKlBYwkusjGt2K) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/4fw7jipazKGdJZIKzAUo8t) | 3:13 |
 | 120 | [Pocket](https://open.spotify.com/track/2tZnQdEq4Ve1xEEGrbacmu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Deluxe\)](https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM) | 3:25 |
 
-Snapshot ID: `AAAhZcsNHx16WolU4t7rsECE/QWKh4Rv`
+Snapshot ID: `AAAhZ1N5ll32E4x0ydWvIml10Jw88Vd9`

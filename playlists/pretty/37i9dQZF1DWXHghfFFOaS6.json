@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 377754,
+  "num_followers": 377812,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "I-Level",
-        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
-      },
-      "artists": [
-        {
-          "name": "iLEVEL",
-          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
-        }
-      ],
-      "duration_ms": 241539,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Evolution: The Polydor Anthology",
         "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 355373,
       "name": "Love Will Bring Us Back Together",
       "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "I-Level",
+        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
+      },
+      "artists": [
+        {
+          "name": "iLEVEL",
+          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
+        }
+      ],
+      "duration_ms": 241539,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -795,30 +795,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pushin On",
-        "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Alice Russell",
-          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "Pushin On",
-      "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Best by Far",
         "url": "https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 294240,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pushin On",
+        "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Alice Russell",
+          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "Pushin On",
+      "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Prince Of Peace",
-      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Made in Sweden",
         "url": "https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 234106,
       "name": "Looking up to You",
       "url": "https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Prince Of Peace",
+      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
     },
     {
       "added_at": "2022-07-14 19:24:43",

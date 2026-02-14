@@ -244,7 +244,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "BLEACHERS",
       "url": "https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -408,6 +408,28 @@
       "duration_ms": 97012,
       "name": "can i get a kiss?",
       "url": "https://open.spotify.com/track/1zwiH0mNMsGXUAPAHc9bij"
+    },
+    {
+      "album": {
+        "name": "carry it (extended)",
+        "url": "https://open.spotify.com/album/3NdN1aG2Mp3G6FeFy0a86K"
+      },
+      "artists": [
+        {
+          "name": "Saltyngget",
+          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+        },
+        {
+          "name": "MA Beats",
+          "url": "https://open.spotify.com/artist/6ql0WM23vRvUle05rAittX"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185317,
+      "name": "carry it (extended)",
+      "url": "https://open.spotify.com/track/52AsGGwpvnCMoeuEwDXv9G"
     },
     {
       "album": {
@@ -860,7 +882,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 152611,
       "name": "GO",
       "url": "https://open.spotify.com/track/0L4J3hS3u7IQBtmA4w0Fuh"
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"

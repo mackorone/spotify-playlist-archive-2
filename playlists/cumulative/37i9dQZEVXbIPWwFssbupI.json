@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
@@ -6666,6 +6666,24 @@
       "duration_ms": 258480,
       "name": "Blue story (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t"
+    },
+    {
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/6cu1V5JlSGdB26I2WlrUrF"
+      },
+      "artists": [
+        {
+          "name": "Black Cat",
+          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145631,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A"
     },
     {
       "album": {
@@ -8984,7 +9002,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 183813,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
@@ -14182,7 +14200,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 178401,
       "name": "Dolce Camara",
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
@@ -18418,7 +18436,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -24628,7 +24646,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -49526,7 +49544,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 111764,
       "name": "VIANO",
       "url": "https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"
@@ -51390,7 +51408,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

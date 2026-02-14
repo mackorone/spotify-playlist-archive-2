@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 532019,
+  "num_followers": 532021,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
         "name": "Just As Long As We're Together",
         "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 194992,
       "name": "Just As Long As We're Together",
       "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 222586,
       "name": "Overjoyed",
       "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y"
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 177688,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+        "name": "Float",
+        "url": "https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+      "duration_ms": 177688,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
         "name": "Ain't I Good For You",
         "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
       },
@@ -1111,26 +1111,6 @@
       "duration_ms": 161805,
       "name": "Ain't I Good For You",
       "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
-        "name": "Find My Love",
-        "url": "https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Find My Love",
-      "url": "https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -1179,18 +1159,22 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Stick Fight",
-        "url": "https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU"
+        "name": "Find My Love",
+        "url": "https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m"
       },
       "artists": [
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 202016,
-      "name": "Stick Fight",
-      "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"
+      "duration_ms": 221426,
+      "name": "Find My Love",
+      "url": "https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+        "name": "Stick Fight",
+        "url": "https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU"
       },
       "artists": [
         {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+      "duration_ms": 202016,
+      "name": "Stick Fight",
+      "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
         "name": "Get Close",
         "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 222401,
+      "name": "Can't Get Out Of This Mood",
+      "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -1299,22 +1315,6 @@
       "duration_ms": 192852,
       "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
       "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 222401,
-      "name": "Can't Get Out Of This Mood",
-      "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
     },
     {
       "added_at": "2026-01-28 15:18:37",

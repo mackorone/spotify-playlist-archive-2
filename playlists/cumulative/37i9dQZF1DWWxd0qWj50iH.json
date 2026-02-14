@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 275795,
       "name": "Life's Gonna Kill You (If You Let It)",
       "url": "https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ"
@@ -1354,6 +1354,24 @@
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+    },
+    {
+      "album": {
+        "name": "A Stranger Desired",
+        "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180479,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
     },
     {
       "album": {

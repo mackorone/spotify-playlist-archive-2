@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,754 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,751 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 35 | [Frágil](https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Frágil](https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR) | 4:23 |
 | 36 | [INFECTOS](https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk) | [Perros de Reserva](https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba), [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [INFECTOS](https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr) | 2:54 |
 | 37 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 |
-| 38 | [Cherokee](https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Cherokee](https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx) | 3:51 |
-| 39 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
+| 38 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
+| 39 | [Cherokee](https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Cherokee](https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx) | 3:51 |
 | 40 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
 | 41 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
 | 42 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
-| 43 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
-| 44 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
+| 43 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
+| 44 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 45 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
 | 46 | [Solo tú](https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Solo tú](https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65) | 4:07 |
 | 47 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
-| 48 | [Dallas](https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Dallas](https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI) | 3:46 |
-| 49 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 |
+| 48 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 |
+| 49 | [Dallas](https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Dallas](https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI) | 3:46 |
 | 50 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
 | 51 | [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 |
 | 52 | [Todo Se Olvida](https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj) | [Todo Se Olvida](https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU) | 4:32 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Cardinals
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,794 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,722 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 |
-| 2 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [](https://open.spotify.com/album/null) | 2:09 |
+| 2 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 |
 | 3 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 |
 | 4 | [Eat You Alive](https://open.spotify.com/track/6Ovon17zVIzfrM1yocYFCq) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Eat You Alive](https://open.spotify.com/album/4hRbLo7BrpBh462vErwNuk) | 3:07 |
 | 5 | [Smoke Screen](https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Smoke Screen](https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE) | 4:20 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 31 | [The Thing](https://open.spotify.com/track/0OhmOdaq3BtgcBeE3eOYYR) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [The Thing](https://open.spotify.com/album/3SSzzh89odIPakG2srLHHf) | 2:02 |
 | 32 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
 | 33 | [Squish](https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish](https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R) | 3:00 |
-| 34 | [Give It All To Me](https://open.spotify.com/track/3Oz6wOhpcpI9UtcantF7Kz) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [](https://open.spotify.com/album/null) | 6:02 |
+| 34 | [Give It All To Me](https://open.spotify.com/track/3Oz6wOhpcpI9UtcantF7Kz) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [The Grown\-Ups Are Talking](https://open.spotify.com/album/0PP2Md2YktljnPw7bPAq4r) | 6:02 |
 | 35 | [Dark Days Are Coming](https://open.spotify.com/track/5Hpgp8un1ef1VMdmI6perX) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Fearless Nature](https://open.spotify.com/album/3xbOikndswoKv40q6HnNz5) | 4:39 |
 | 36 | [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys \(Japanese Deluxe Edition\)](https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB) | 2:39 |
 | 37 | [human props](https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [human props](https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0) | 3:56 |

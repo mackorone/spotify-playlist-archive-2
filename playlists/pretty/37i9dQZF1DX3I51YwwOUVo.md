@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2026 Artists to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,190 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,191 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 14 | [Happy For You](https://open.spotify.com/track/49s2t57uSy4eN8goASFrD9) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Happy For You](https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb) | 2:51 |
 | 15 | [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 |
 | 16 | [piano in the sky](https://open.spotify.com/track/0tGPVoB37sQYmnAwTsg7gq) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:10 |
-| 17 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
-| 18 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 17 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 18 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
 | 19 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
 | 20 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
 | 21 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Marlon Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,220 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,219 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 2 | [CONEJITA PLAYBOY](https://open.spotify.com/track/42U40DG6b3VVCBfgeBSxGH) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [CONEJITA PLAYBOY](https://open.spotify.com/album/206r467aoLTOWH9u436PKi) | 2:18 |
 | 3 | [Vámonos de aquí](https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Indiara Sfair](https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh) | [Vámonos de aquí](https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt) | 2:32 |
 | 4 | [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 |
-| 5 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
+| 5 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
 | 6 | [MAKINA DEL SEX](https://open.spotify.com/track/4YVVzWDGAeFxDWn6rnf6UC) | [Euskoprincess](https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT), [Mattin](https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO), [1111](https://open.spotify.com/artist/7s5UemXTsq4giWtzr4fqiN) | [MAKINA DEL SEX](https://open.spotify.com/album/0t6TwNpw3LriW528DA0sc3) | 2:04 |
 | 7 | [UNA BIMBO POR MADRID](https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:15 |
 | 8 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
-| 9 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
+| 9 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
 | 10 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
 | 11 | [El edificio](https://open.spotify.com/track/1Pse4bB2v3l1MpPHuu0IPf) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [El edificio](https://open.spotify.com/album/30sHvlxADgpqRliN7oDwkq) | 3:30 |
 | 12 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |

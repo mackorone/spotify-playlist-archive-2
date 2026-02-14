@@ -2,9 +2,9 @@
 
 ### [BRILLO](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
-> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
+> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Ruzzi
 
-360 songs - 19 hr 38 min
+361 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 | 2024-05-17 |  |
 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 | 2021-12-09 | 2023-01-25 |
 | [hebilla](https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hebilla](https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F) | 3:43 | 2022-06-01 | 2023-01-25 |
+| [Helao](https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Helao](https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt) | 3:50 | 2026-02-13 |  |
 | [Hora Loca](https://open.spotify.com/track/2E5NKtMEuJoDkbWTRbRuXy) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Hora Loca](https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc) | 3:30 | 2021-12-09 | 2023-01-25 |
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2022-06-01 | 2023-01-25 |
 | [I Like 2 Be](https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 | 2023-01-24 |  |
@@ -319,7 +320,7 @@
 | [Sueños](https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Sueños](https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V) | 3:45 | 2023-11-17 | 2025-03-08 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2022-06-01 | 2023-01-25 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/64zeBVnG4AnN4gnNrKQEvX) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:39 | 2022-06-01 | 2023-01-25 |
-| [Súper Heroína](https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:30 | 2023-06-02 |  |
+| [Súper Heroína](https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:30 | 2023-06-02 | 2026-02-14 |
 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 | 2024-09-20 |  |
 | [Tabú](https://open.spotify.com/track/471HeGJPKw07MObixON0Um) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Tabú](https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn) | 2:59 | 2021-12-09 | 2023-01-25 |
 | [Te Conocí Bailando](https://open.spotify.com/track/2HO4A7MVp34fAxn01MVoFC) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Hawaira](https://open.spotify.com/album/6NPFHNWBVXUP9Rik3JlWUq) | 2:40 | 2023-05-25 | 2024-06-18 |

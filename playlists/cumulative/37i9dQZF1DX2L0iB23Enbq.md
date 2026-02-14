@@ -4,7 +4,7 @@
 
 > Viral, trending and taking off.
 
-525 songs - 1 day 3 hr 34 min
+527 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-25 | 2024-04-04 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-02-07 | 2025-03-15 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-31 | 2022-12-24 |
-| [Devil in Disguise](https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Devil in Disguise](https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM) | 1:44 | 2025-08-15 |  |
+| [Devil in Disguise](https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Devil in Disguise](https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM) | 1:44 | 2025-08-15 | 2026-02-14 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-26 | 2024-08-08 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-07-22 | 2022-11-05 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-06-30 | 2023-10-28 |
@@ -143,8 +143,9 @@
 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2024-01-19 | 2024-04-19 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-06-07 | 2025-04-12 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-11-15 | 2023-08-19 |
-| [Father Figure \- Remastered](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 | 2025-04-11 |  |
+| [Father Figure \- Remastered](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 | 2025-04-11 | 2026-02-14 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-21 | 2023-08-19 |
+| [Feeling On My Body](https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80) | [Taffy](https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Feeling On My Body](https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq) | 2:37 | 2026-02-13 |  |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-11 | 2022-07-23 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-10-01 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-20 | 2023-08-04 |
@@ -256,6 +257,7 @@
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-29 | 2023-10-14 |
 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-15 | 2023-12-30 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-08-09 | 2022-10-29 |
+| [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-02-13 |  |
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2021-12-20 | 2022-10-01 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 | 2021-12-20 | 2021-12-23 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-12-20 | 2022-09-02 |

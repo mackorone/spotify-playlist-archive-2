@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: el diablo de shangai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,038 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,092 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Carrera de Vainas](https://open.spotify.com/track/5sTzwcJPfAOI7neub04Gml) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [](https://open.spotify.com/album/null) | 3:07 |
+| 1 | [Carrera de Vainas](https://open.spotify.com/track/5sTzwcJPfAOI7neub04Gml) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Testamento](https://open.spotify.com/album/1vqsaa4YCKdspZ0XvTmfut) | 3:07 |
 | 2 | [Walking](https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Walking](https://open.spotify.com/album/7iXDXvjMc3IXvQhMnLVU0N) | 3:38 |
 | 3 | [No Quiero Ser Mayor](https://open.spotify.com/track/3wSFGCRqDxjSrDljyJjmbd) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [No Quiero Ser Mayor](https://open.spotify.com/album/0ZsSz2KWMDTlgsM4ScbAjg) | 3:09 |
 | 4 | [Asmr para Ti](https://open.spotify.com/track/1GoxaGq8RW3tKIGfbAMALM) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Asmr para Ti](https://open.spotify.com/album/6ssqYbEUWuliYeDOg2R6SK) | 3:00 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 12 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu) | 3:15 |
 | 13 | [La Ley del Pobre](https://open.spotify.com/track/7x14AaXr4xkTGqoIpGWadT) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Los Perros no Entienden Internet \(…Y Yo no Entiendo de Sentimientos\)](https://open.spotify.com/album/54ioPa0kudt4A9VPR0K3a2) | 2:52 |
 | 14 | [DtMF](https://open.spotify.com/track/1W1eBWJdSwv5fXoDyDRlyO) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [DtMF](https://open.spotify.com/album/1fdsmehSRG0Z20gxiDb7ue) | 3:17 |
-| 15 | [Paz mundial](https://open.spotify.com/track/2LsEgx2J7J720kE2zr8UcV) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [](https://open.spotify.com/album/null) | 2:19 |
+| 15 | [Paz mundial](https://open.spotify.com/track/2LsEgx2J7J720kE2zr8UcV) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Hace tiempo que quiero estar así](https://open.spotify.com/album/4t570qpKaExTTM16ad1G4N) | 2:19 |
 | 16 | [Flores a la Guerra](https://open.spotify.com/track/1egWhb5waRWLWKegCYnpMY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Flores a la Guerra](https://open.spotify.com/album/2gaEAA8H24C9yst7jH3KiO) | 3:52 |
 | 17 | [No te necesito para ser feliz](https://open.spotify.com/track/3X2sHFaJlakwX31ngq88d6) | [La Maravillosa Orquesta del Alcohol](https://open.spotify.com/artist/1vBn5Puz4mdZopZEHq1QDq), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [No te necesito para ser feliz](https://open.spotify.com/album/2bXPANmjU7Hkse3hz5Csap) | 3:52 |
 | 18 | [Matanza En El Hotel](https://open.spotify.com/track/1HoQJxHaWa8USxYXjuJpTK) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Pelo De Foca](https://open.spotify.com/album/7IaN8e5ag5SEFaHLBmKBss) | 3:10 |

@@ -4,7 +4,7 @@
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-238 songs - 14 hr 18 min
+239 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Fortune](https://open.spotify.com/track/4BkOReC45Z3Es7fgL5Gi51) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Fortune](https://open.spotify.com/album/5sqEmpdZRMONFXa90S5snF) | 3:49 | 2021-06-04 | 2022-07-29 |
 | [Fortune](https://open.spotify.com/track/33Fb2Ug5wGMXmMvaV2jrXC) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 3:50 | 2023-05-12 | 2023-09-02 |
 | [Fuck Me Pumps](https://open.spotify.com/track/3ku4ScVEkZvurrcjmMrOAL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN) | 3:20 | 2024-01-12 | 2025-06-12 |
+| [Gangster's Wife](https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London \(Acoustic\)](https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8) | 2:39 | 2026-02-13 |  |
 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 | 2021-06-04 | 2023-09-02 |
 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 | 2022-07-22 | 2023-09-02 |
 | [Ghost](https://open.spotify.com/track/1G3hr6HlP3d13477lbWw9Q) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/4uXHoKzORbwkOfDmrM9HVQ) | 4:03 | 2021-06-04 | 2022-07-29 |
@@ -201,7 +202,7 @@
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-09-01 | 2024-04-19 |
 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2023-09-01 |  |
 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 | 2021-06-04 | 2023-09-02 |
-| [Starfucker](https://open.spotify.com/track/36Jyel0XHvoEUm2aldnP53) | [Ginger Taylor](https://open.spotify.com/artist/5JcE9KsiwTxPmxLsfqKfT5) | [Starfucker](https://open.spotify.com/album/5IAln8BYL5AQ9kKm6p5RN6) | 3:35 | 2026-02-06 |  |
+| [Starfucker](https://open.spotify.com/track/36Jyel0XHvoEUm2aldnP53) | [Ginger Taylor](https://open.spotify.com/artist/5JcE9KsiwTxPmxLsfqKfT5) | [Starfucker](https://open.spotify.com/album/5IAln8BYL5AQ9kKm6p5RN6) | 3:35 | 2026-02-06 | 2026-02-14 |
 | [Stompa](https://open.spotify.com/track/4kGcW4Tn87Lm9s6pp5a5vM) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony](https://open.spotify.com/album/3SvhxjlhwjIc8KkZcBNd0y) | 3:39 | 2021-06-04 | 2022-05-04 |
 | [Stompa](https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony \(Deluxe\)](https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7) | 3:41 | 2022-07-22 | 2023-09-02 |
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2023-09-01 |  |

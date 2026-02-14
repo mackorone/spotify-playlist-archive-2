@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-191 songs - 11 hr 53 min
+194 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Down](https://open.spotify.com/track/7dtZcMZlJNOKL71wF3Iojn) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [\[O\]](https://open.spotify.com/album/0ZA7uOEgtdQ1iwSHio6iO1) | 3:41 | 2024-08-05 | 2025-04-02 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2025-07-03 |  |
 | [Echo](https://open.spotify.com/track/6sAbC7IL9cUG4x1S1CORn4) | [Shin Seol Hee](https://open.spotify.com/artist/2IJDF3Fg5VCCynlwWd467a) | [Echo](https://open.spotify.com/album/5NUvmOyxJs12PaJQPXdpin) | 3:15 | 2024-09-04 | 2025-04-02 |
-| [Error](https://open.spotify.com/track/3v3ZFFAhWkgRijv5cqfhTb) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Scent](https://open.spotify.com/album/6lbMbeqLAEAZ4sR0OcOY3C) | 3:32 | 2026-01-26 |  |
+| [eighteen winter](https://open.spotify.com/track/4DCSmGoAFwHTc522Q0w1KG) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [eighteen winter](https://open.spotify.com/album/0z6mqbRgx3LOM7ROyB9q7C) | 3:19 | 2026-02-13 |  |
+| [Error](https://open.spotify.com/track/3v3ZFFAhWkgRijv5cqfhTb) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Scent](https://open.spotify.com/album/6lbMbeqLAEAZ4sR0OcOY3C) | 3:32 | 2026-01-26 | 2026-02-14 |
 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 | 2026-01-26 |  |
 | [even if fall into a fail](https://open.spotify.com/track/1uTHCZukKvnXHC9TGjhsV0) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 2:27 | 2024-08-05 | 2025-04-02 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-08-05 | 2025-04-02 |
@@ -79,7 +80,7 @@
 | [Got To Give](https://open.spotify.com/track/0pbo6zLqhafAy4r1T4F4jD) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:37 | 2024-08-05 | 2025-04-02 |
 | [Hangang \(feat\. heyden\)](https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Hangang](https://open.spotify.com/album/0bPdAOUP9WXFrTcM9S8PMU) | 3:02 | 2025-07-24 | 2025-10-21 |
 | [Hangang II \(feat\. prettyhappy\)](https://open.spotify.com/track/6woyNdP7fe5xasTrj0oVtA) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Hangang II](https://open.spotify.com/album/5by7mr8U2nbj4m5QbyQdcf) | 4:04 | 2025-10-20 | 2025-11-11 |
-| [Heya](https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 5:25 | 2026-02-05 |  |
+| [Heya](https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 5:25 | 2026-02-05 | 2026-02-14 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-08-05 | 2025-05-02 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2025-05-30 |  |
 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 | 2025-05-30 |  |
@@ -89,6 +90,7 @@
 | [I'm Watching a Loneliness Just Arisen](https://open.spotify.com/track/2xfoFuQxQeEkQRgY3tF1JU) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 3:49 | 2024-08-05 | 2025-04-02 |
 | [Inner Eden](https://open.spotify.com/track/3WUq4X29XbjWDDN3i6ALnk) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 4:21 | 2024-08-05 | 2025-04-02 |
 | [Inside a Dream \(feat\. prettyhappy\)](https://open.spotify.com/track/4gzLhua7QMpnF1arrhQgul) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Dream Age](https://open.spotify.com/album/2mYhQdT3IPYP5OX0riiLvK) | 3:06 | 2025-09-08 | 2025-10-21 |
+| [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 | 2026-02-13 |  |
 | [Kill Me](https://open.spotify.com/track/7LmfRICcwf2WMFUfeyo4xz) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Kill Me](https://open.spotify.com/album/1hYpOYEGgSNcVAgJnW7eC7) | 4:02 | 2024-08-05 | 2025-04-02 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-08-05 | 2025-05-02 |
 | [L](https://open.spotify.com/track/08yMOmydumplen59qUD4zf) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [L](https://open.spotify.com/album/6m2BgbFl4IgJf7zJ48sxko) | 3:36 | 2024-08-05 | 2025-04-02 |
@@ -97,8 +99,9 @@
 | [Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 | 2025-04-17 |  |
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-30 | 2025-08-20 |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-08-05 |  |
+| [LOST](https://open.spotify.com/track/23alqwXGP0AULQNNLoo8hP) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [LOST \(Positively Yours X THAMA\) \[Original Soundtrack\]](https://open.spotify.com/album/7jUK0orRr3PukdcFBmI5eb) | 4:17 | 2026-02-13 |  |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-08-05 | 2025-05-31 |
-| [Love Is You](https://open.spotify.com/track/5iDpbj6HcDohfP5UCNeIOZ) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Flower](https://open.spotify.com/album/6sR8UXsdokd18ak4Eflyuw) | 3:53 | 2026-01-26 |  |
+| [Love Is You](https://open.spotify.com/track/5iDpbj6HcDohfP5UCNeIOZ) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Flower](https://open.spotify.com/album/6sR8UXsdokd18ak4Eflyuw) | 3:53 | 2026-01-26 | 2026-02-14 |
 | [Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 | 2025-04-17 |  |
 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 | 2025-03-14 |  |
 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 | 2024-08-05 | 2026-01-27 |

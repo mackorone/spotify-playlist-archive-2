@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Victor Wembanyama
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Cade Cunningham
 
-882 songs - 1 day 20 hr 55 min
+883 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 | 2022-06-24 | 2023-06-10 |
 | [I'm Goin In](https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I'm Goin In](https://open.spotify.com/album/645FRpimwu0b1isiY5M32J) | 3:45 | 2021-09-02 | 2023-03-15 |
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 | 2022-06-24 |  |
+| [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 | 2026-02-13 |  |
 | [Idols Become Rivals \(feat\. Chris Rock\)](https://open.spotify.com/track/5cQffjWJzgnmEtTzKW6dnh) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Chris Rock](https://open.spotify.com/artist/36eSjIksD6fehqxyDUHDA3) | [Rather You Than Me](https://open.spotify.com/album/08XXyTmAv1vNghZS4p0ng2) | 5:41 | 2024-10-25 | 2024-11-02 |
 | [Ight](https://open.spotify.com/track/55KwbKQL8xjTgpQQWADktJ) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Ight](https://open.spotify.com/album/3FWZAunLnqqSdJ982uYCcS) | 2:37 | 2025-11-21 | 2025-12-06 |
 | [IGNORANT](https://open.spotify.com/track/01gpd8j9gKFtLFfoZOaIms) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:04 | 2024-07-12 | 2024-07-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,153 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,098 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 47 | [Sua Melhor Versão \- Ao Vivo](https://open.spotify.com/track/7nvOKQtlpjQAwLNLhqoO5L) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:56 |
 | 48 | [Desbotequei \(Ai Bebê\) \- Acústico / Ao Vivo](https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Acústico Show PPA \(Acústico / Ao Vivo\)](https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww) | 2:27 |
 | 49 | [Libera Ela \- Ao Vivo](https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Aqui Em Casa \(ao Vivo\)](https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH) | 2:48 |
-| 50 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
-| 51 | [Pegada Que Desgrama](https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Pegada Que Desgrama](https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An) | 3:02 |
+| 50 | [Pegada Que Desgrama](https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Pegada Que Desgrama](https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An) | 3:02 |
+| 51 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
 | 52 | [Sigilo \- Ao Vivo](https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sigilo \(Ao Vivo\)](https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa) | 2:45 |
 | 53 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
 | 54 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 95 | [Noites Frustradas \- Ao Vivo](https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Noites Frustradas \(Ao Vivo\)](https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv) | 3:16 |
 | 96 | [Segue O Plano \- Ao Vivo](https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi) | 2:33 |
 | 97 | [Quem Foi Que Soprou \- Ao Vivo \| Acústico](https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Agora É Que São Elas 2 \(Ao Vivo \| Acústico\)](https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4) | 3:31 |
-| 98 | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn) | 3:11 |
-| 99 | [Contrário](https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Ep do Esticado](https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG) | 2:56 |
+| 98 | [Contrário](https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Ep do Esticado](https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG) | 2:56 |
+| 99 | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn) | 3:11 |
 | 100 | [Sofrendo Ao Quadrado \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Das Repúblicas Para O Brasil \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB) | 2:32 |
 
 Snapshot ID: `AAAAAMUkcKM2hkR9lZkaU7kjEsiCmcSS`

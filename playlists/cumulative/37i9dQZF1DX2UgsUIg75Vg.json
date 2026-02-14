@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Sasha Keable",
+  "description": "Chill r&b. Cover: Alex Isley",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 150841,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 168813,
       "name": "Another Beautiful Sunday (feat. Avara)",
       "url": "https://open.spotify.com/track/1DLUMAJSLSD7a9EfQyQPh9"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 164151,
       "name": "Baby (Is it a Crime)",
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 163042,
       "name": "bad brain",
       "url": "https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq"
@@ -5001,6 +5001,24 @@
     },
     {
       "album": {
+        "name": "Choose",
+        "url": "https://open.spotify.com/album/3A9SdjMibU11v6vGvYxPcO"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236670,
+      "name": "Choose",
+      "url": "https://open.spotify.com/track/0H9Zh0k1DLrjYpipQu7bYg"
+    },
+    {
+      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -5260,6 +5278,28 @@
       "duration_ms": 125706,
       "name": "Cocoa",
       "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
+    },
+    {
+      "album": {
+        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
+        "url": "https://open.spotify.com/album/6zgA5tC0h7FQgHV796gDGV"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "COCONUT (feat. Eem Triplin)",
+      "url": "https://open.spotify.com/track/4BagPVnrcGVujbuwevPp1z"
     },
     {
       "album": {
@@ -6003,6 +6043,24 @@
     },
     {
       "album": {
+        "name": "D'ANGELO'S JOINT",
+        "url": "https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "D'ANGELO'S JOINT",
+      "url": "https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ"
+    },
+    {
+      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -6478,6 +6536,24 @@
       "duration_ms": 293979,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
+    },
+    {
+      "album": {
+        "name": "November Scorpio",
+        "url": "https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195107,
+      "name": "desire.",
+      "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
     },
     {
       "album": {
@@ -7616,7 +7692,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 181895,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/3nlq6ALlXjM9Ph3ohP1s4m"
@@ -9378,7 +9454,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 182812,
       "name": "For War",
       "url": "https://open.spotify.com/track/7aTxTd8KhzZFIMEKV5m3Rq"
@@ -9661,6 +9737,28 @@
     },
     {
       "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+    },
+    {
+      "album": {
         "name": "From A Woman",
         "url": "https://open.spotify.com/album/41EnEbv52wuUZLFOdXH1d8"
       },
@@ -9916,6 +10014,28 @@
       "duration_ms": 209202,
       "name": "FYS",
       "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
+    },
+    {
+      "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/1x3J6WxUBpVsk58fDM2KLf"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224702,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw"
     },
     {
       "album": {
@@ -10310,7 +10430,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 115207,
       "name": "GMFU",
       "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
@@ -13892,7 +14012,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 211510,
       "name": "JUNGLE FEVER",
       "url": "https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa"
@@ -14564,6 +14684,24 @@
       "duration_ms": 151765,
       "name": "LEMON TREES",
       "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
+    },
+    {
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
     },
     {
       "album": {
@@ -15378,7 +15516,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 240000,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/6mjAfjlIvfn21hYhwP4Inl"
@@ -17372,7 +17510,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 180917,
       "name": "Ms. Goody Two Shoes",
       "url": "https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP"
@@ -20374,7 +20512,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb"
@@ -21406,6 +21544,24 @@
       "duration_ms": 236865,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1HuSMnSG2zvMbQ7wFctQkL"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/47wz4Jd9NtdNNStLsM7reV"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193046,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0"
     },
     {
       "album": {
@@ -24586,7 +24742,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 175314,
       "name": "Stay (feat. Roy Woods)",
       "url": "https://open.spotify.com/track/2SkYAIrEkCn09z0IwtK37w"
@@ -25406,6 +25562,24 @@
       "duration_ms": 247957,
       "name": "Sweet Tea",
       "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
+    },
+    {
+      "album": {
+        "name": "Sweetest Lullabye",
+        "url": "https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255237,
+      "name": "Sweetest Lullabye",
+      "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
     },
     {
       "album": {
@@ -26997,6 +27171,28 @@
     },
     {
       "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
+    },
+    {
+      "album": {
         "name": "I'll Always Come Find You",
         "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
       },
@@ -28142,6 +28338,24 @@
       "duration_ms": 222826,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
+    },
+    {
+      "album": {
+        "name": "W.T.A.",
+        "url": "https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202564,
+      "name": "W.T.A.",
+      "url": "https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH"
     },
     {
       "album": {
@@ -29692,6 +29906,24 @@
       "duration_ms": 258526,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA"
+    },
+    {
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223621,
+      "name": "wrong faces.",
+      "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"
     },
     {
       "album": {

@@ -5431,6 +5431,28 @@
     },
     {
       "album": {
+        "name": "Catch A Wave",
+        "url": "https://open.spotify.com/album/0o2f6LfW1GtcaFNQ8wEAUd"
+      },
+      "artists": [
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        },
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Catch A Wave",
+      "url": "https://open.spotify.com/track/1PGyvdgHeaMFlzT1lFgw44"
+    },
+    {
+      "album": {
         "name": "Drax Project",
         "url": "https://open.spotify.com/album/5gdsguQxwQQlpTi1SU3tbY"
       },
@@ -26708,7 +26730,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 215906,
       "name": "Scar Tissue",
       "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"

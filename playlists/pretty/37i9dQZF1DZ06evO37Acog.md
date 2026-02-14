@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,191 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,215 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 3 | [El Federal De Caminos](https://open.spotify.com/track/2P9XuggCZbHMOHI6Upkahb) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Con](https://open.spotify.com/album/4hOI70GYvjg7PXpcyowngB) | 3:08 |
 | 4 | [Rinconcito En El Cielo](https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 3:34 |
 | 5 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:26 |
-| 6 | [Que Me Lleve El Diablo](https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Con \(Vol.II\)](https://open.spotify.com/album/2GCQzIsTqogXju7LHbEG6l) | 3:30 |
-| 7 | [Sólo una Patada](https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 2:46 |
+| 6 | [Sólo una Patada](https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 2:46 |
+| 7 | [Que Me Lleve El Diablo](https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Con \(Vol.II\)](https://open.spotify.com/album/2GCQzIsTqogXju7LHbEG6l) | 3:30 |
 | 8 | [Bonita Finca de Adobe](https://open.spotify.com/track/3I8xz1gfBtfz4qYC8VzTuT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 2:55 |
 | 9 | [Mi Golondrina](https://open.spotify.com/track/28cEjHqqh494m594SwLyvt) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 2:51 |
 | 10 | [Corrido De Chito Cano](https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:30 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 19 | [Central Camionera](https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 3:22 |
 | 20 | [Triste Recuerdo](https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:05 |
 | 21 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
-| 22 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
-| 23 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 |
+| 22 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 |
+| 23 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
 | 24 | [Hasta Que Te Perdí](https://open.spotify.com/track/5RHnofPA7oYmF4L6jEdpcf) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 2:34 |
 | 25 | [Qué Casualidad](https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Qué Casualidad](https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w) | 3:03 |
 | 26 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 43 | [Mujer Paseada](https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [2 Grandes Mano a Mano](https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5) | 2:48 |
 | 44 | [No Te Vayas Sin Mi](https://open.spotify.com/track/13bo0kgan04XjH5RNmXlzM) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puñalada Trapera](https://open.spotify.com/album/77u9ZXoUfBvTcloek014di) | 3:27 |
 | 45 | [Te Quedaste Sola](https://open.spotify.com/track/44Zfw3S5elENnz9NGDwQ1T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Calles De Piedra](https://open.spotify.com/album/7kOrdFKcrKHNAk5Di7pDlf) | 2:55 |
-| 46 | [Me Puso El Dedo](https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 3:35 |
-| 47 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 |
+| 46 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 |
+| 47 | [Me Puso El Dedo](https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 3:35 |
 | 48 | [Mándame A La Tumba](https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 3:55 |
 | 49 | [Enséñame A Olvidar](https://open.spotify.com/track/6rNDnK8X0B6SgsauoD6IK3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:28 |
 | 50 | [Señor Dios](https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:21 |
 
-Snapshot ID: `aYvGgAAAAABVdzkwT/U/JOxzmYpgLejm`
+Snapshot ID: `aY0YAAAAAAAMNmQopmOADG/N2WCOHYfl`

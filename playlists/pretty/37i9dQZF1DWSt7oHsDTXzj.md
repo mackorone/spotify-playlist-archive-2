@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,743 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,709 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 40 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
 | 41 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 |
 | 42 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 |
-| 43 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
-| 44 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
+| 43 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
+| 44 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
 | 45 | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ) | 2:44 |
 | 46 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 47 | [Angel In The Snow](https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:38 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3uTPusLAtkgqi3UBPKCEos"
@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
+    },
+    {
+      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
       },
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 222360,
       "name": "Bubble Pop Electric",
       "url": "https://open.spotify.com/track/4xGcrf91kiTJkgWrApXa1K"
@@ -3612,6 +3630,24 @@
       "duration_ms": 199314,
       "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
+    },
+    {
+      "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
       "album": {

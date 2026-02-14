@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 444790,
+  "num_followers": 444802,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-02-12 23:08:06",
       "album": {
+        "name": "Sonr\u00edele",
+        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 178117,
+      "name": "Sonr\u00edele",
+      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
+    },
+    {
+      "added_at": "2026-02-12 23:08:06",
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-02-12 23:08:06",
       "album": {
-        "name": "Sonr\u00edele",
-        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 178117,
-      "name": "Sonr\u00edele",
-      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
-    },
-    {
-      "added_at": "2026-02-12 23:08:06",
-      "album": {
         "name": "BRONCEADOR",
         "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
       },
@@ -863,26 +863,6 @@
       "duration_ms": 149387,
       "name": "BRONCEADOR",
       "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
-    },
-    {
-      "added_at": "2026-02-12 23:08:06",
-      "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "added_at": "2026-02-12 23:08:06",
@@ -903,6 +883,26 @@
       "duration_ms": 157979,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/2grcaP2t5eJpDv4YhOuMWn"
+    },
+    {
+      "added_at": "2026-02-12 23:08:06",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "added_at": "2026-02-12 23:08:06",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-02-12 23:08:06",
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
+    },
+    {
+      "added_at": "2026-02-12 23:08:06",
+      "album": {
         "name": "Noche de Novela (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 191896,
       "name": "Noche de Novela (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5"
-    },
-    {
-      "added_at": "2026-02-12 23:08:06",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
     },
     {
       "added_at": "2026-02-12 23:08:06",

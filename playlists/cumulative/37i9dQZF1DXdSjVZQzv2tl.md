@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
+> O melhor do sertanejo em uma só playlist! Foto: Panda, Gusttavo Lima
 
-364 songs - 17 hr 5 min
+365 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Não Me Arranha \- Ao Vivo](https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs) | 2:39 | 2021-12-31 | 2022-07-16 |
 | [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 | 2024-08-23 | 2025-02-01 |
 | [Não Me Recomendo \- Ao Vivo](https://open.spotify.com/track/6YGC1K8FOpTOIZApTtmmA1) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Junto e Misturado \(Ao Vivo\)](https://open.spotify.com/album/6w5n80QFECw1l9r6pz8YRh) | 2:44 | 2022-01-21 | 2022-01-29 |
+| [Não Mexe nas Minhas Gavetas \- Ao Vivo](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE) | 2:06 | 2026-02-13 |  |
 | [Não Parei De Sofrer](https://open.spotify.com/track/4zN7Kfk6s75jBOEehLHzV2) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Não Parei De Sofrer](https://open.spotify.com/album/6uUkwRbRO8rTxPXDBIW0e9) | 2:56 | 2021-12-31 | 2022-07-23 |
 | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/track/2LEV3lTRxKqLBfmt5BWkLj) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/album/74QtfHHV8sXA7CUKzRHfk2) | 2:55 | 2022-06-14 | 2022-09-10 |
 | [Não Recomendo \- Ao Vivo](https://open.spotify.com/track/4ssTFuVeNJG8py5dr2P2pV) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Não Recomendo \(Ao Vivo\)](https://open.spotify.com/album/38P68ZCxri4SUQXSK15CxW) | 2:21 | 2023-12-08 | 2024-10-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7560,
+  "num_followers": 7565,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYvGgAAAAACTv5Bx1YV+W6EVkaBYyIF9",
+  "snapshot_id": "aY0YAAAAAAAe4JS1njpKZP1YULawvMqp",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classic Tunes of Daddy Lumba",
+        "url": "https://open.spotify.com/album/7pxS9bxhwlDoeBGigJqBay"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 329133,
+      "name": "Sika Asem",
+      "url": "https://open.spotify.com/track/5ppx88DqziFPGV3qucuwxK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sika",
         "url": "https://open.spotify.com/album/4xTYoouxVe7kIm93SFu3SO"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 248493,
       "name": "Adepa Hye Adepa Mu",
       "url": "https://open.spotify.com/track/5ds48ZOnVldBlcUudozuaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classic Tunes of Daddy Lumba",
-        "url": "https://open.spotify.com/album/7pxS9bxhwlDoeBGigJqBay"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 329133,
-      "name": "Sika Asem",
-      "url": "https://open.spotify.com/track/5ppx88DqziFPGV3qucuwxK"
     },
     {
       "added_at": null,

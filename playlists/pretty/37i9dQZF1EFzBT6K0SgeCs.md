@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,660 likes - 139 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,658 likes - 139 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 38 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
 | 39 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 |
 | 40 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
-| 41 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 |
-| 42 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 |
+| 41 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 |
+| 42 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 |
 | 43 | [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 |
 | 44 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 |
 | 45 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 103 | [The 90s](https://open.spotify.com/track/7pNcOZGxBHXuNKT2YUABzr) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:23 |
 | 104 | [Can't Wait To Be Dead](https://open.spotify.com/track/5dDSX2zoMVSDmz1TPxPMYO) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Can't Wait To Be Dead](https://open.spotify.com/album/0wKWpWU5S5EwkLKsdcTRz1) | 2:55 |
 | 105 | [Cleats](https://open.spotify.com/track/0REms6Av7SrnzBEKXwxUoB) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:41 |
-| 106 | [Happy Now?](https://open.spotify.com/track/4aMr7YCW9UgPn9dAjJPkYg) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:52 |
-| 107 | [Final Ascent \- Single Edit / From ''No Time To Die'' Soundtrack](https://open.spotify.com/track/4op64Clk2SjQO2Yf7xII7Y) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Final Ascent](https://open.spotify.com/album/1oAOhLbXiWuaNmElFm7Wa8) | 2:08 |
+| 106 | [Final Ascent \- Single Edit / From ''No Time To Die'' Soundtrack](https://open.spotify.com/track/4op64Clk2SjQO2Yf7xII7Y) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Final Ascent](https://open.spotify.com/album/1oAOhLbXiWuaNmElFm7Wa8) | 2:08 |
+| 107 | [Happy Now?](https://open.spotify.com/track/4aMr7YCW9UgPn9dAjJPkYg) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:52 |
 | 108 | [So Will I](https://open.spotify.com/track/35hWvR2SVsWwzScQ4UEMED) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 4:11 |
 | 109 | [Peaches Etude](https://open.spotify.com/track/7vjoMKFyZ6xQWO0fMUcaf1) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:15 |
 | 110 | [2001](https://open.spotify.com/track/2Fq319Q8JT19QgBqpAg0le) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:20 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 120 | [How It Ends](https://open.spotify.com/track/7LSuLsMi4YM3Tk8xwkiKUj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 4:37 |
 | 121 | [Starfucker](https://open.spotify.com/track/7cnJI66NSyPs5biD1Lgjco) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 |
 | 122 | [Hurt Locker](https://open.spotify.com/track/4KNZQ8ho9e7O3vNMPusf3T) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:26 |
-| 123 | [Someone Else's Star](https://open.spotify.com/track/0lIuxHZkiRZBeKH0Q4q5Vy) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:29 |
-| 124 | [Sweet Cherries](https://open.spotify.com/track/1XThr50z65JsWaHksg7izw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 5:13 |
+| 123 | [Sweet Cherries](https://open.spotify.com/track/1XThr50z65JsWaHksg7izw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 5:13 |
+| 124 | [Someone Else's Star](https://open.spotify.com/track/0lIuxHZkiRZBeKH0Q4q5Vy) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:29 |
 | 125 | [Passion and Pain Taste the Same When I’m Weak](https://open.spotify.com/track/1AZgTZAnKhbhIzqKEnKOqu) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty \(Paw Prints Edition\)](https://open.spotify.com/album/48I4Jtcqu5K5jZWadn035d) | 4:00 |
 | 126 | [The Ending](https://open.spotify.com/track/6n2AXXSIDoVIrCBRSTM8Zo) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [VIII](https://open.spotify.com/album/1WLT9X55scygUSpb304x4L) | 3:35 |
 | 127 | [Little Window](https://open.spotify.com/track/72cwGuUy3bxv6zSIT2VfEG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 4:13 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 138 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 | 139 | [Where the Poison Is \(16\-Bit FINNEAS Emulation\)](https://open.spotify.com/track/0SjugAYwjDRwSTVLcJpTtE) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [The Impossible Game Soundtrack, Vol\. 50](https://open.spotify.com/album/7JwSu9PDWyIejIoFanQSJu) | 3:09 |
 
-Snapshot ID: `AcJgNgAAAADIU34yDihCfG8GKacV2Y/i`
+Snapshot ID: `AcJmCAAAAACAWaJnjtRwqfwrJBAauYcw`

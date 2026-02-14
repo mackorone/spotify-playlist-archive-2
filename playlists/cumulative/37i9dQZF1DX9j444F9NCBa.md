@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-663 songs - 1 day 9 hr 37 min
+666 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2022-01-21 | 2025-10-25 |
 | [Creep](https://open.spotify.com/track/4AstRWiBjxRZmxlQpmhwGK) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Creep](https://open.spotify.com/album/3waOvsLm5sV5tJ2xtBY8PW) | 2:26 | 2023-01-06 | 2023-03-18 |
 | [Cruel Summer](https://open.spotify.com/track/2CdBf80bJhjfR6gM2qO5Sp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Cruel Summer](https://open.spotify.com/album/0VIIn0PAxzpBMPM3B4vRHo) | 2:43 | 2025-10-24 |  |
-| [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 |  |
+| [DAISIES](https://open.spotify.com/track/23PNwyg8r5ckWbB67J45NS) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [DAISIES](https://open.spotify.com/album/6tK8tkhG4aW5WPsdSGYv5S) | 2:51 | 2026-02-13 |  |
+| [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 | 2026-02-14 |
 | [Dancing in the moonlight](https://open.spotify.com/track/2Bx9od8Bxeovv1C1SfH4iD) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Dancing in the moonlight](https://open.spotify.com/album/4f5RjVg4U0lLAEp8ubdUXj) | 2:59 | 2024-11-08 |  |
 | [Dancing on My Own](https://open.spotify.com/track/2Xs7raB9TJRTMGVKHYI92I) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Dancing on My Own](https://open.spotify.com/album/2fzUmk4cncjiZJdd5Iiu18) | 2:42 | 2022-12-02 | 2023-06-03 |
 | [Dancing on my own](https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:38 | 2022-09-30 | 2023-04-14 |
@@ -328,6 +329,7 @@
 | [Just Give Me A Reason](https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:42 | 2022-09-05 | 2025-08-30 |
 | [Just The Way You Are \- Piano Version](https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:34 | 2022-12-02 | 2025-07-05 |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2022-01-21 | 2023-09-22 |
+| [Kids](https://open.spotify.com/track/5XoV7SjqZo7eAw1JyUbCW9) | [Arin Voss](https://open.spotify.com/artist/23Aw5xl3tiXz4cf3KgCjRa) | [Kids](https://open.spotify.com/album/7pCmLL0xUeGA8HP3vtBxGa) | 2:54 | 2026-02-13 |  |
 | [Killing Me Softly](https://open.spotify.com/track/25YVXgmAO6nArAAcvHegDl) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Killing Me Softly](https://open.spotify.com/album/0wDfBdeTA9UZQSZlmYauhj) | 1:42 | 2023-05-12 | 2023-08-18 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/1PxAz2jrkB51QG0OipxO9e) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Killing Me Softly With His Song](https://open.spotify.com/album/6V7dsIWFMiYOOcKL1zeOkD) | 3:07 | 2022-12-16 | 2023-05-12 |
 | [Kiss From A Rose](https://open.spotify.com/track/1bXpC6d1HeFKiboBnWChfq) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Kiss From A Rose](https://open.spotify.com/album/6l6H11DfTD1fr2LekdI9Ky) | 3:18 | 2022-06-08 | 2023-04-29 |
@@ -445,6 +447,7 @@
 | [Reflection](https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Reflection](https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms) | 2:50 | 2022-09-30 | 2023-03-25 |
 | [Rewrite The Stars](https://open.spotify.com/track/6osJpF4LOPQx6Q7XkLoiKr) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Rewrite The Stars](https://open.spotify.com/album/6QcEbkz1ZSWiQ5OR4TS4lw) | 3:50 | 2023-02-10 | 2023-04-29 |
 | [Right Here Waiting](https://open.spotify.com/track/6ULMLA6uLwvbMMYprohGHH) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Right Here Waiting](https://open.spotify.com/album/5QeI18uS9Z91uqZzpVnDcH) | 3:08 | 2023-01-06 |  |
+| [Ring of Fire](https://open.spotify.com/track/2QxjuojRvon4Ibwjxhz6Sb) | [Olavi Heed](https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa) | [Ring of Fire](https://open.spotify.com/album/7wZzq2moVmJn9zbljYIVKE) | 2:54 | 2026-02-13 |  |
 | [Riptide](https://open.spotify.com/track/1ZqvGobiP3nEHASAry5SdN) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [Riptide](https://open.spotify.com/album/30oZC5zwXPQU272JVU8B1k) | 2:12 | 2023-10-06 |  |
 | [River](https://open.spotify.com/track/5Jbp8J5xuVv6gd3TBR1Zvk) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Christmas Lights](https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx) | 4:10 | 2022-10-28 | 2023-03-18 |
 | [Roar](https://open.spotify.com/track/1IaC5cHREG8T3GCu6cNQq1) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Roar](https://open.spotify.com/album/7hfurqRQar16Zd0JXrCncb) | 3:48 | 2023-11-17 | 2025-10-25 |
@@ -544,7 +547,7 @@
 | [The Glory of Love](https://open.spotify.com/track/7yLXq8o6prmHoxyuzxUaYd) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [The Glory of Love](https://open.spotify.com/album/0QVDbJfyWarKbkARpvIHKC) | 3:17 | 2023-04-14 | 2024-07-19 |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-01-21 |  |
 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 | 2022-05-02 | 2025-08-30 |
-| [The Lady in Red](https://open.spotify.com/track/7qPoDnfzj2YTRmYvduCEfs) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [The Lady in Red](https://open.spotify.com/album/0mSO9pQayzoyrUeMpjKcjA) | 3:56 | 2024-05-07 |  |
+| [The Lady in Red](https://open.spotify.com/track/7qPoDnfzj2YTRmYvduCEfs) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [The Lady in Red](https://open.spotify.com/album/0mSO9pQayzoyrUeMpjKcjA) | 3:56 | 2024-05-07 | 2026-02-14 |
 | [The Lady In Red](https://open.spotify.com/track/2H1cwjEMg7KdPPCICYDW3g) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [The Lady In Red](https://open.spotify.com/album/14mwYGiNZalFg8GW6NsIuD) | 3:42 | 2023-04-28 | 2023-06-23 |
 | [The Less I Know The Better](https://open.spotify.com/track/6HE9YNHRBJT8h3kUzvP0Z3) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [The Less I Know The Better](https://open.spotify.com/album/1JtRrVJ2utPz0qLt3zDrvG) | 2:44 | 2024-03-01 | 2025-05-10 |
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 | 2024-07-13 |
@@ -649,7 +652,7 @@
 | [Wouldn't It Be Nice](https://open.spotify.com/track/6e5NXvhtb7cEaNWUXZvIWZ) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [Wouldn't It Be Nice](https://open.spotify.com/album/4r0aHYYhUwlaZ2sthOuJ0s) | 2:20 | 2023-06-08 | 2026-01-28 |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2022-01-21 | 2025-08-30 |
 | [Yellow](https://open.spotify.com/track/6L6OwV5VpL1pVETRcTmt7B) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 | 2023-06-03 |
-| [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-17 |  |
+| [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-17 | 2026-02-14 |
 | [Yesterday](https://open.spotify.com/track/0EDfjeCbmClKsJF4GSZHlS) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Yesterday](https://open.spotify.com/album/0Ct4wtaDMViZzeyhjJozpc) | 3:10 | 2022-10-14 | 2022-12-02 |
 | [Yesterday](https://open.spotify.com/track/6xn1NNoi7RcrFK1zzX3YRg) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 3:03 | 2022-12-02 | 2024-10-19 |
 | [YMCA](https://open.spotify.com/track/5WLMPMlxqaLtfxkPfZXcAI) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [YMCA](https://open.spotify.com/album/6RImlcwKtHJmr3eiBmUQOE) | 2:12 | 2023-10-20 | 2025-10-25 |

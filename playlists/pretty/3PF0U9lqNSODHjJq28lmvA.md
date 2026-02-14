@@ -4,28 +4,27 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,577 likes - 19 songs - 1 hr 19 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,576 likes - 18 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Exitentialismi](https://open.spotify.com/track/3KLERguYkbD5wJcOuz3KyU) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB) | [Sir Hugelius](https://open.spotify.com/album/3OkEHzqPopTrtQEBTVB1pY) | 3:10 |
-| 2 | [river giver](https://open.spotify.com/track/3BX16ocinnChN5N4aDmFqU) | [TeYo](https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC) | [river giver](https://open.spotify.com/album/0ku5nZeLAGVeXXG5nTVyZI) | 3:03 |
-| 3 | [no feelings](https://open.spotify.com/track/1gGlifrbmhjWbTM5pjAaf1) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf) | [patterns](https://open.spotify.com/album/04IVb9Rl7sHuVN6XPQzTSJ) | 2:00 |
-| 4 | [Горизонт](https://open.spotify.com/track/2TS9bPvAUGMvD7VcEd2fSP) | [FARINHATE](https://open.spotify.com/artist/5woVfxExQZkeJHpRVlUw1T) | [Горизонт](https://open.spotify.com/album/0LOJyY7H76IlpcxghBfaJJ) | 2:44 |
-| 5 | [Kusilaulu](https://open.spotify.com/track/0b4onjV67n6eMopHQ8Ohkv) | [Baabelin Nulikat](https://open.spotify.com/artist/6XUvNVuLi9Y2mUitrP3CZZ) | [VAROKAA HEIKKOJA PÄITÄ](https://open.spotify.com/album/2BNNmTI3M36YDYMBQB1WmN) | 3:24 |
-| 6 | [Sparks in the Dark](https://open.spotify.com/track/1UYhbrZQm0iaVtdJu7Cdbw) | [Lovers Left Alive](https://open.spotify.com/artist/4CkdiQOxF3nONLhPvz5kUu) | [Sparks in the Dark](https://open.spotify.com/album/0ZImdzulvQxXEFCatXsFR8) | 4:15 |
-| 7 | [Before It's Too Late](https://open.spotify.com/track/6hrLOmD8YVJIlyQ3j8uojy) | [Zini](https://open.spotify.com/artist/0jy5KbYexv9k3zx2KWxXYQ) | [Before It's Too Late](https://open.spotify.com/album/5VdqbNUIjIQd8GXiVy6a6c) | 5:03 |
-| 8 | [What We Fear](https://open.spotify.com/track/1W02RbiyvxcQlkdB0o0yFt) | [Beyond The Barricade](https://open.spotify.com/artist/0qzgOvNnbHiArRuXgkJfFI) | [What We Fear](https://open.spotify.com/album/6lTwzKpYN53jxbMzOCnFKt) | 5:08 |
-| 9 | [Stockholm blues](https://open.spotify.com/track/0lLiwtG7XcgaBnYFDoFi0D) | [Anders Petterson](https://open.spotify.com/artist/0FVumUrRw59ghLOXe1ahmB), [Anette Berg](https://open.spotify.com/artist/6ahjbNjP8gFGYbcCodsyeW), [Anders Erkéus](https://open.spotify.com/artist/73YsQgYCH7UscwfMP8jrss) | [Stockholm Blues](https://open.spotify.com/album/3dfzVv3NP97cFfGsOj60DS) | 5:47 |
-| 10 | [She Ain't Coming Back](https://open.spotify.com/track/7IO8osii4QuMQz1ovpmDLP) | [Lasse Knutsen](https://open.spotify.com/artist/4cNGPsiIThYyD4uRSjA2xX) | [She Ain't Coming Back](https://open.spotify.com/album/7s6LK9E42NuLMMghvLjXdb) | 2:21 |
-| 11 | [The Black Frontier](https://open.spotify.com/track/4mSQQYEc2vLJO8lQelLY9i) | [Dizzy The Bard](https://open.spotify.com/artist/1wMwmMYUwNbSuATYLZLUJS) | [The Black Frontier](https://open.spotify.com/album/2daknenscY4u9BUGsBMIn3) | 4:55 |
-| 12 | [Diamond Dust](https://open.spotify.com/track/6OKz0ownncxSiHES5eLGOH) | [Cult Objects](https://open.spotify.com/artist/2pQsREqUfQiITf5jE16y3f) | [Diamond Dust](https://open.spotify.com/album/7GdO0Sx96K4afhhcFWNhdS) | 4:40 |
-| 13 | [All About You](https://open.spotify.com/track/0Z7wxvNpc6tLXULupebdQp) | [Rosie Webber](https://open.spotify.com/artist/12kFSHus2qYTkrA2AmI92F) | [All About You](https://open.spotify.com/album/3lR9eVClsZMeRveVXDXxS2) | 2:20 |
-| 14 | [Digger](https://open.spotify.com/track/2wDPfclLXWnQhgB4E6qAAV) | [Freethinkers\-Inc.](https://open.spotify.com/artist/2croCqIPgV3wz1czfE1LM6) | [Digger](https://open.spotify.com/album/7HAUZxyYLG9Gix0xORk5MV) | 6:25 |
-| 15 | [to unfold](https://open.spotify.com/track/44N8aZ5b2alhgdnQ1eWSBr) | [endive](https://open.spotify.com/artist/3o2f0i5JFW9kUglJgwsoIp) | [to unfold](https://open.spotify.com/album/5Yccs4oSbAFReNEQfwSHMA) | 3:50 |
-| 16 | [Bert The Hermit](https://open.spotify.com/track/35Q99afo3NSaftWfBMSoK9) | [Lightnin' Jay](https://open.spotify.com/artist/1FXagTGWgdbPDoeSUicbEV) | [Bert The Hermit](https://open.spotify.com/album/4lJFVKh0kER5jfQa3sT9rE) | 2:15 |
-| 17 | [I RISE](https://open.spotify.com/track/2Sc9FXNEZjiqynHZMi7M0m) | [Niklas Kjell](https://open.spotify.com/artist/2TztWQFS672wOOQX4x1E0S) | [I RISE](https://open.spotify.com/album/12WhTdgVAUqpZb18GbYl4s) | 4:42 |
-| 18 | [Devil On My Back](https://open.spotify.com/track/12udI60NG2kfV1vY9KUtfy) | [SPELLL](https://open.spotify.com/artist/3sUrdZ1gnOahmUGnHxl7nW) | [Must Be Nice](https://open.spotify.com/album/2T4psZJKQnG7rkYjnZ8FoD) | 2:24 |
-| 19 | [Unheeding Sun](https://open.spotify.com/track/1us0JJamp5VkedzzpN1yxN) | [IHXHI](https://open.spotify.com/artist/7fjmEeHj8KqHmH1XeV8YW3) | [Unheeding Sun](https://open.spotify.com/album/1sJKr2dzJHjjIR0nI9IJEq) | 10:51 |
+| 1 | [It Don't Make No Sense](https://open.spotify.com/track/4fk7IfKo9Lvohj6WgdQDs1) | [Nathan Maher](https://open.spotify.com/artist/0RvGEHynJ4tWEawxxEJMDa) | [It Don't Make No Sense](https://open.spotify.com/album/4F6dWxk0Z47mFmExrUMdZU) | 3:07 |
+| 2 | [Ungdomstid](https://open.spotify.com/track/0WBhJyeKoWv5q16upHjwt7) | [Martin Engelsen](https://open.spotify.com/artist/0QSv32WoIkGvjPf0ARrJrm) | [Ungdomstid](https://open.spotify.com/album/0s5ULlwKLmLdmAYD30Rm7G) | 3:25 |
+| 3 | [o\-scope](https://open.spotify.com/track/1pHp2CbeP1gseHID9qVOz3) | [nayl](https://open.spotify.com/artist/7GbWeqkZ1HSS68Tijnp4s7) | [o\-scope](https://open.spotify.com/album/31SGD4ZpWiavVsApziQBDF) | 3:08 |
+| 4 | [Scent of Blood](https://open.spotify.com/track/6EQne30Z6J3qIT7NG9469k) | [Electric Hydra](https://open.spotify.com/artist/5iF37V1AGqA6aLAo1pC7Fn) | [From The Fallen](https://open.spotify.com/album/2ee3qtuqEpfUcmRPszn7o6) | 4:01 |
+| 5 | [The Wedding Singer](https://open.spotify.com/track/7JRoCfVjceZwT9DRPbfNUy) | [PreHistoric animals](https://open.spotify.com/artist/35C49Ko2ZqxepW3lgnYc78) | [The Wedding Singer](https://open.spotify.com/album/3jzicpCt6Lv28TqaFn4zyb) | 6:21 |
+| 6 | [New World](https://open.spotify.com/track/0mZcA2u4eI4a3suzWySbXT) | [Owl Girl](https://open.spotify.com/artist/4U7WI1dimY6dMxBjlrGyNw) | [New World](https://open.spotify.com/album/2vMzOUBuFkoyrvd9HW4bL3) | 3:40 |
+| 7 | [Valoa kohti](https://open.spotify.com/track/7njMPjQAgAco81MPZ5dX0I) | [Taskut](https://open.spotify.com/artist/7iAyuEU9GJWLrAod8TZ8ol) | [Valoa kohti](https://open.spotify.com/album/7F9DKsNT70oN5jm5KHGnEB) | 4:18 |
+| 8 | [Never Enough For You](https://open.spotify.com/track/1S0FGf2AGraglnGt01BuNL) | [JURY N8](https://open.spotify.com/artist/6b36Wc4tBV5vYVytrvj1JL) | [Never Enough For You](https://open.spotify.com/album/3cHxtws0FHWPGog6i7TAJl) | 3:19 |
+| 9 | [Hit 'em with that Swenglish](https://open.spotify.com/track/68zAxM7JLnzdDxbb50oQkS) | [Dee Bugg](https://open.spotify.com/artist/5cLS5TsCUczYFOneT2U2ig) | [Hit 'em with that Swenglish](https://open.spotify.com/album/51wOph6yrmTBoaS1wSnHAt) | 2:44 |
+| 10 | [СРЛ Ритм](https://open.spotify.com/track/45phtNfln4axs2uvxzj5SN) | [loveoleglove](https://open.spotify.com/artist/5M8cwMyfjCKE53X3hdqzB7) | [СРЛ Ритм](https://open.spotify.com/album/7vcxQ73Q2qav5ixiPAgXxB) | 3:59 |
+| 11 | [Getting Hot](https://open.spotify.com/track/6sPtGD9IbNq1egMqgnpY9A) | [LESLIE](https://open.spotify.com/artist/4PKLYeu6kt2bvphWY9cPuc) | [Getting Hot](https://open.spotify.com/album/2dcf1Svrc6BNOvJkpVUUaE) | 3:26 |
+| 12 | [Gates of the World](https://open.spotify.com/track/5owonIg6h8Ye70w9bDkfWu) | [LESTOPIAT](https://open.spotify.com/artist/56QVVacydHoFM9XekY8TeY) | [Gates of the World](https://open.spotify.com/album/0dMWYhuRitLPWSfJE3nG2j) | 6:03 |
+| 13 | [Echoes of You](https://open.spotify.com/track/0PdS0CnX36n8zbkaa5w8gQ) | [Eternal Daze](https://open.spotify.com/artist/2y7MMZzwy8y47Zloxtlbds) | [Spectral Gravity Part 1](https://open.spotify.com/album/2P57PzAFNEJeMWGkyY5pDN) | 3:39 |
+| 14 | [Fuori Piove](https://open.spotify.com/track/1CSv5dtyaRKp3dgiRCYfeG) | [SATURI](https://open.spotify.com/artist/0CJ6TamJ7gq0RX0316S4mt) | [Fuori Piove](https://open.spotify.com/album/2pkiVWIc8JZ7bdWh2T2yWd) | 2:29 |
+| 15 | [Mango sunset](https://open.spotify.com/track/54tlJIf8NBsRUzwtlwyEsx) | [Mango Wille](https://open.spotify.com/artist/61BRh1VldCflNmwlws6HFZ) | [Mango sunset](https://open.spotify.com/album/3iJ2oEWhMYovqMZNmSWsaX) | 2:19 |
+| 16 | [Limelight Heaven](https://open.spotify.com/track/1nLShvajgMje1CUtUmnBCH) | [AriDB](https://open.spotify.com/artist/5VPI9MaDiH4CsFqeiISY94) | [Limelight Heaven](https://open.spotify.com/album/019TB4FSxUvv8kjubQfKlL) | 3:34 |
+| 17 | [Dancing Through The Night](https://open.spotify.com/track/2tys4VQHlKhIAsGxZDTniG) | [Nela Abib](https://open.spotify.com/artist/6b8jlklPiHiC0dbJCRqBjx) | [Dancing Through The Night](https://open.spotify.com/album/6dDN0au8i7RN9acEuANLrT) | 2:29 |
+| 18 | [At Night \(war dance\)](https://open.spotify.com/track/057sRQpxdr5Aa0TZGUwQrk) | [DeadCityMonkeys](https://open.spotify.com/artist/7xmHTajSoookwtf2x0NOoQ) | [At Night \(war dance\)](https://open.spotify.com/album/0wSAAdBgLfcqZu19XtcTXu) | 3:06 |
 
-Snapshot ID: `AAAEsYluMezI/TdUwXAAl0AXiMREvD1i`
+Snapshot ID: `AAAEyoe5QbfA4KDWXy16H0of0muxUW3l`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 74 songs - 4 hr 23 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 72 | [Bir Kent Rüyası](https://open.spotify.com/track/5Ww3NzsitV8ZlrGRF8FwRL) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Bir Kent Rüyası](https://open.spotify.com/album/5AoC8tcQtcs5mKXQAih72z) | 3:05 |
 | 73 | [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 |
 | 74 | [Dreaming of you](https://open.spotify.com/track/470owFy9zXfoCVqXlWgOX4) | [Huggis Hill](https://open.spotify.com/artist/4w4L2XzPmIkhX5eP35IP7c) | [Dreaming of you](https://open.spotify.com/album/3TBYX9eWTrcy6ehh9U4E6N) | 3:13 |
+| 75 | [With You](https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [With You](https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT) | 3:21 |
 
-Snapshot ID: `AAANRxkwJ3GlIkJZ3WjLob2IP9hHz6K/`
+Snapshot ID: `AAANSBNTAsz86kRvLy3OJvdBz1g2gj8f`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Omar Camacho, Victor  Mendivil, Angel Almaguer y $HUPE en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Neto Pe\u00f1a y Foyone en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1180,6 +1180,32 @@
       "duration_ms": 256363,
       "name": "Alzypher Vol. 22",
       "url": "https://open.spotify.com/track/0gS3vRsW1pCS2Y4i4oub65"
+    },
+    {
+      "album": {
+        "name": "Alzypher Vol. 23",
+        "url": "https://open.spotify.com/album/09iTZNUeamOD5klE9yBlly"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Alzypher Vol. 23",
+      "url": "https://open.spotify.com/track/6LmQGM2qED3EL6ib52XpBH"
     },
     {
       "album": {
@@ -2721,6 +2747,44 @@
     },
     {
       "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1MGA10FMKzN96P9jveUN61"
+      },
+      "artists": [
+        {
+          "name": "El Nido",
+          "url": "https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF"
+        },
+        {
+          "name": "Barrasdereptil",
+          "url": "https://open.spotify.com/artist/4KPi82w20lGQ5ndqNxkZ4k"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Sike Damodar",
+          "url": "https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO"
+        },
+        {
+          "name": "Alman Lenid",
+          "url": "https://open.spotify.com/artist/3aKmPqBx1uIDdHexfQ81lf"
+        },
+        {
+          "name": "Repz Bar$",
+          "url": "https://open.spotify.com/artist/6gghfqGeVkTx0fcrgd7ESK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "Buenos Tiempos",
+      "url": "https://open.spotify.com/track/6A72VbzHHJtbNZa4Fcg2Ik"
+    },
+    {
+      "album": {
         "name": "Aleph",
         "url": "https://open.spotify.com/album/1Wb0qgJUU5p96C5hBuA95G"
       },
@@ -2922,7 +2986,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 174432,
       "name": "Calaverita A M\u00ed Mismo",
       "url": "https://open.spotify.com/track/4AwxY3TjY9RP4320hHYJda"
@@ -3182,6 +3246,32 @@
       "duration_ms": 178500,
       "name": "CAUTELA",
       "url": "https://open.spotify.com/track/7wZWGPUdKPBiXwQgRVmdMO"
+    },
+    {
+      "album": {
+        "name": "Celine",
+        "url": "https://open.spotify.com/album/3gvXlUiyIHhdN8YcgO4L3o"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
+        },
+        {
+          "name": "Carlos Aramburo",
+          "url": "https://open.spotify.com/artist/6qzVVEzRqDYkZ3yCRX0Mac"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/5pYyjq1wLoJIvQMKLRQvGz"
     },
     {
       "album": {
@@ -10569,6 +10659,32 @@
     },
     {
       "album": {
+        "name": "Master Class",
+        "url": "https://open.spotify.com/album/6Im8XdjcozxMrfaY32Ku3F"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        },
+        {
+          "name": "Tommy Artz",
+          "url": "https://open.spotify.com/artist/5d8RjWwyW7wKhdiMXFQcPt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Master Class",
+      "url": "https://open.spotify.com/track/53Yf4x6Nh67XlF3QpmUgCE"
+    },
+    {
+      "album": {
         "name": "Matem\u00e1ticas Supremas",
         "url": "https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa"
       },
@@ -14950,7 +15066,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 209693,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/6pNmHaLprimBA8ZFuDdhAp"
@@ -17982,7 +18098,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 133025,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/08Hui2S1Qitq0neCwtbo27"

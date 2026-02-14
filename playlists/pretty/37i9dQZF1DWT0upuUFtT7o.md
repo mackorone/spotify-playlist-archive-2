@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Victoryland
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,470 likes - 84 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,481 likes - 84 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

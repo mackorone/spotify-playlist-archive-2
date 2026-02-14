@@ -1,6 +1,6 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 252280,
+  "num_followers": 252393,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172692,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
-    },
-    {
-      "added_at": "2025-02-11 03:54:56",
-      "album": {
         "name": "Revival (Deluxe)",
         "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 200680,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/1LoriJC05IrHIDwj3q0KC1"
+    },
+    {
+      "added_at": "2025-02-11 03:54:56",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172692,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
     },
     {
       "added_at": "2025-02-11 03:54:56",

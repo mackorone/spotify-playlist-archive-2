@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Static Dress",
+  "description": "The home for heavy music. Cover: DON BROCO, Nickelback",
   "name": "The Pit",
   "tracks": [
     {
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 222720,
       "name": "Bloodsport",
       "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 194848,
       "name": "Dance Like That",
       "url": "https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A"
@@ -4769,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/1UG30JypBmIKhhY26RUzQU"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286443,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/7jNPucAt0pO6oAJNWVHsj9"
+    },
+    {
+      "album": {
         "name": "Good Looking Girl, Awful Music",
         "url": "https://open.spotify.com/album/7wfN3HxHcFQU5ILA4yOnnK"
       },
@@ -4986,7 +5004,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 308576,
       "name": "Hannibal",
       "url": "https://open.spotify.com/track/2xZWwL80vahHzQ0GmfCdPW"
@@ -5379,6 +5397,28 @@
     },
     {
       "album": {
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
+    },
+    {
+      "album": {
         "name": "Holding On / The Dark Glow",
         "url": "https://open.spotify.com/album/6DLUWbSqeAndqEcJ1Da24o"
       },
@@ -5668,6 +5708,24 @@
       "duration_ms": 197886,
       "name": "I Really Wanna",
       "url": "https://open.spotify.com/track/11x02p5bvdaVdiK1qY3uEC"
+    },
+    {
+      "album": {
+        "name": "I Reflect The Sun, It Bounces Back",
+        "url": "https://open.spotify.com/album/2SFu5WmkwLgKtl7ZA3vuqW"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270643,
+      "name": "I Reflect The Sun, It Bounces Back",
+      "url": "https://open.spotify.com/track/5OSiUZVwkTEEanBOfyquoq"
     },
     {
       "album": {
@@ -6506,7 +6564,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 218975,
       "name": "Laugh It Off",
       "url": "https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB"
@@ -7970,6 +8028,28 @@
       "duration_ms": 185945,
       "name": "Nice Guy (feat. Ekoh)",
       "url": "https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2"
+    },
+    {
+      "album": {
+        "name": "Nightmare Tripping (Feat. Nickelback)",
+        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321106,
+      "name": "Nightmare Tripping (Feat. Nickelback)",
+      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
     },
     {
       "album": {
@@ -9726,6 +9806,24 @@
       "duration_ms": 303832,
       "name": "Silent Divide",
       "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269318,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
     },
     {
       "album": {
@@ -12456,7 +12554,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 306418,
       "name": "What Lies Within",
       "url": "https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109"

@@ -4,7 +4,7 @@
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 36 min
+117 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Experto En Fracasos \(Contando Penas\)](https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 2:30 | 2024-06-15 |  |
 | [Extráñame](https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:50 | 2023-11-10 |  |
 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 | 2022-07-11 | 2024-06-15 |
+| [Gracias Muchas Gracias](https://open.spotify.com/track/3BrzJoAtkrR65NeaPBqdNQ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Gracias Muchas Gracias](https://open.spotify.com/album/1J9oAfdyIEAIsKmreliDJP) | 3:09 | 2026-02-14 |  |
 | [Habitación 69](https://open.spotify.com/track/6BWCt6sjhntwJh10od5Gxu) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:19 | 2022-06-01 | 2022-09-03 |
 | [Hasta Que Salga El Sol](https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:23 | 2022-06-01 |  |
 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 | 2022-06-01 |  |
@@ -88,7 +89,7 @@
 | [Ponle Que Sí](https://open.spotify.com/track/2MViucn04mANEpbKRh5p4D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 4:07 | 2022-06-01 | 2023-06-20 |
 | [Popurrí: Cuando Nadie Te Quiera, Debajo De Los Laureles Aka Soy Huerfanito, No Volveré \- En Vivo](https://open.spotify.com/track/1Pik0CB9d3afxL3ICSYund) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 4:50 | 2022-06-01 | 2022-10-26 |
 | [Popurrí: El Toro Mambo, La Repetidora \(Cumbia Repetidora\), La Bamba \- En Vivo](https://open.spotify.com/track/3suumFs3UxzgfkW7juQ0ef) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 5:30 | 2022-06-03 | 2022-10-12 |
-| [Que A Toda Madre \(Que A Todo Dar\)](https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:12 | 2022-06-01 |  |
+| [Que A Toda Madre \(Que A Todo Dar\)](https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:12 | 2022-06-01 | 2026-02-14 |
 | [Quisiera Saber](https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Quisiera Saber](https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7) | 3:19 | 2022-11-22 | 2023-12-14 |
 | [Recuérdenme Así](https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:59 | 2022-06-01 |  |
 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 | 2024-06-09 | 2025-06-17 |

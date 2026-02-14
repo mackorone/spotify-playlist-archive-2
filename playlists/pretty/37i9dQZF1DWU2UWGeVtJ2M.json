@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168283,
+  "num_followers": 168280,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "fue mejor (feat. SZA)",
         "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Londinium",
-        "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/0wjMOhITbtYN2n0WXU0MnJ"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Breath From Another",
         "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Londinium",
+        "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/0wjMOhITbtYN2n0WXU0MnJ"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Walk Long",
-        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
-      },
-      "artists": [
-        {
-          "name": "Psylo",
-          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
-        },
-        {
-          "name": "KINIDA",
-          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
-        }
-      ],
-      "duration_ms": 248877,
-      "name": "Walk Long",
-      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Walk Long",
+        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
+      },
+      "artists": [
+        {
+          "name": "Psylo",
+          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
+        },
+        {
+          "name": "KINIDA",
+          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
+        }
+      ],
+      "duration_ms": 248877,
+      "name": "Walk Long",
+      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Metalepsis (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5N85k43iV7UKANFLklXkYL"
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 290751,
-      "name": "8",
-      "url": "https://open.spotify.com/track/140l3V3IpQ0PLTvlGzeQIG"
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1239,22 +1239,6 @@
       "duration_ms": 164197,
       "name": "The Mannequin Song",
       "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+        "name": "Metalepsis (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5N85k43iV7UKANFLklXkYL"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/140l3V3IpQ0PLTvlGzeQIG"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1339,6 +1323,22 @@
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Easy (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
-      },
-      "artists": [
-        {
-          "name": "Next Town Down",
-          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Easy (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Emo Regulation",
         "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 165500,
       "name": "Spirals On My Tongue",
       "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Easy (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
+      },
+      "artists": [
+        {
+          "name": "Next Town Down",
+          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Easy (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

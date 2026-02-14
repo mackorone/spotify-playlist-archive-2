@@ -4,7 +4,7 @@
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-122 songs - 8 hr 30 min
+123 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Duke Nukem](https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:54 | 2022-05-30 | 2022-09-04 |
 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 | 2022-05-30 |  |
 | [Fatal Illusion](https://open.spotify.com/track/7IVhAkmr7xdgRZYc1Thrna) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:15 | 2022-05-30 | 2024-06-14 |
-| [Five Magics \- 2004 Remix](https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:39 | 2022-05-30 |  |
+| [Five Magics](https://open.spotify.com/track/1aSGE7H6pkelrCmdzMquEg) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:42 | 2026-02-14 |  |
+| [Five Magics \- 2004 Remix](https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:39 | 2022-05-30 | 2026-02-14 |
 | [Foreclosure Of A Dream \- 2004 Remastered](https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:22 | 2022-05-30 |  |
 | [Good Mourning / Black Friday \- Remastered](https://open.spotify.com/track/36gQBgUJjbRbrMTyQUNl56) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 6:39 | 2022-05-30 | 2023-02-01 |
 | [Hangar 18 \- 2004 Remix](https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:11 | 2022-05-30 |  |
@@ -52,7 +53,7 @@
 | [Hook In Mouth \- Remastered](https://open.spotify.com/track/3DCrXcdOW9iWUPtcEFH2er) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 4:48 | 2024-04-10 | 2024-07-04 |
 | [I Ain't Superstitious \- Remastered](https://open.spotify.com/track/43gM0PIvpgqv19nFZWRlN3) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 2:45 | 2022-06-12 | 2022-08-11 |
 | [I Am War](https://open.spotify.com/track/78VOb8LNH1pMs0vEXrCzfS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 3:46 | 2026-01-25 |  |
-| [I Don't Care](https://open.spotify.com/track/6NsNlkOOVpuJ0ibq0KDJ74) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 3:09 | 2026-01-27 | 2026-02-11 |
+| [I Don't Care](https://open.spotify.com/track/6NsNlkOOVpuJ0ibq0KDJ74) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 3:09 | 2026-01-27 |  |
 | [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 | 2025-11-16 | 2026-01-27 |
 | [I Know Jack](https://open.spotify.com/track/0QmZdn4mS4Ev2mcH9xYZU4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns) | 0:40 | 2024-05-08 | 2025-04-13 |
 | [I Know Jack](https://open.spotify.com/track/7iIfsmOF4L7GoCb9bYSoGt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/21JgJ2sQBLsGtthdGet15B) | 0:40 | 2023-03-27 | 2023-10-11 |
@@ -79,7 +80,7 @@
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-23 | 2022-08-30 |
 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 | 2022-09-06 | 2025-03-17 |
 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 | 2022-05-30 | 2024-04-10 |
-| [Obey The Call](https://open.spotify.com/track/5fUkdHb8nfDajvDJIG7Oxd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 4:20 | 2026-01-25 |  |
+| [Obey The Call](https://open.spotify.com/track/5fUkdHb8nfDajvDJIG7Oxd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 4:20 | 2026-01-25 | 2026-02-14 |
 | [Paranoid](https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 2:32 | 2022-05-30 |  |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(Deluxe Edition \- Remastered\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2022-05-30 |  |
 | [Poison Was The Cure](https://open.spotify.com/track/5ONVnHYT7srwxU9UDsJH2k) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 2:58 | 2025-08-01 |  |

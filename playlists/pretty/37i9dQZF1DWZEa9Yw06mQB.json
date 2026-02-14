@@ -1,6 +1,6 @@
 {
   "description": "Los cl\u00e1sicos de hoy y siempre. Cover: The Beatles",
-  "num_followers": 540368,
+  "num_followers": 540467,
   "original_name": "Mix Universal",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 245529,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
         "name": "The Very Best of Bonnie Tyler",
         "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 267360,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 245529,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 364441,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -891,22 +907,6 @@
       "duration_ms": 382280,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
-      },
-      "artists": [
-        {
-          "name": "Player",
-          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
-        }
-      ],
-      "duration_ms": 255845,
-      "name": "Baby Come Back",
-      "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
+      },
+      "artists": [
+        {
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
+        }
+      ],
+      "duration_ms": 255845,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Buffalo Springfield",
-        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 185360,
       "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "Buffalo Springfield",
+        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 393640,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
         "name": "Sleeping With The Past (Remastered with bonus tracks)",
         "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 304133,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -1751,50 +1751,18 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
         }
       ],
-      "duration_ms": 326320,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 285009,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 380080,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+      "duration_ms": 208000,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -1815,34 +1783,50 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+      "duration_ms": 326320,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
     },
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 320266,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+      "duration_ms": 380080,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 285009,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -1859,6 +1843,22 @@
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Miss You - Remastered",
-      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
         "name": "When In Rome",
         "url": "https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 220960,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Miss You - Remastered",
+      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
     },
     {
       "added_at": "2026-01-09 06:00:19",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2026-01-09 06:00:19",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2026-01-09 06:00:19",
-      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    {
+      "added_at": "2026-01-09 06:00:19",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2026-01-09 06:00:19",

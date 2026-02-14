@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-866 songs - 1 day 17 hr 15 min
+866 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,7 @@
 | [Peak](https://open.spotify.com/track/03WQxRTLaMCA5LrTk4bjaZ) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Peak](https://open.spotify.com/album/3iD30AtMz6I2NsUsZWh54Z) | 2:33 | 2025-04-04 | 2025-10-04 |
 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/5SU08C7u2nFFZ10QyvI8RO) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\)](https://open.spotify.com/album/22fzYOuvqFYwtYGzsXn6SO) | 2:42 | 2022-02-04 | 2022-04-30 |
 | [Pick Me](https://open.spotify.com/track/1ePbMmR7JB9kR6rM2FZx6B) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Lul DreDay](https://open.spotify.com/artist/3iJk6wDUly0uF53bdlBfvT) | [For What Its Worth](https://open.spotify.com/album/6mr0BGnwHXNPV2mcqSmW79) | 2:31 | 2025-10-03 |  |
-| [Pick Up The Pieces](https://open.spotify.com/track/4smAjx8DAwLPw89l8KjOsX) | [Dee Black](https://open.spotify.com/artist/4OuEhBbPXrJc69MX5e7LgI), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Pick Up The Pieces](https://open.spotify.com/album/1zg1jyttmHt8tqIGn0hAuU) | 2:55 | 2024-09-03 |  |
+| [Pick Up The Pieces](https://open.spotify.com/track/4smAjx8DAwLPw89l8KjOsX) | [Dee Black](https://open.spotify.com/artist/4OuEhBbPXrJc69MX5e7LgI), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Pick Up The Pieces](https://open.spotify.com/album/1zg1jyttmHt8tqIGn0hAuU) | 3:41 | 2024-09-03 |  |
 | [PIM](https://open.spotify.com/track/16iVYJn2ZP09P8CNGGKqtW) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [PIM](https://open.spotify.com/album/1TCtRIJKhDamX7voUlWMSd) | 2:59 | 2024-01-12 | 2024-02-03 |
 | [PLAN PLAN](https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [PLAN PLAN](https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX) | 2:48 | 2023-08-11 | 2024-06-08 |
 | [PLANET HOLLYWOOD](https://open.spotify.com/track/1IaKa7QefUGCpvmcVQ0XUS) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Wordsplayed](https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO) | [PLANET HOLLYWOOD](https://open.spotify.com/album/5p0s8u3ucxXuL0MOqrI7WA) | 2:27 | 2025-04-04 | 2025-09-20 |

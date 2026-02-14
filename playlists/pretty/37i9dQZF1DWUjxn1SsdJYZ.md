@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: trials
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,478 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,478 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 17 | [Waist Up](https://open.spotify.com/track/1AHqfSNljYdDWucUYSkjx0) | [Juiceboxx](https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33) | [Waist Up](https://open.spotify.com/album/3TqRlRn2nBR9W0Zk4gedmJ) | 2:35 |
 | 18 | [DIAMONDS](https://open.spotify.com/track/2IgeAzEPYReAtN6SCy2Jm9) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [Qrystral](https://open.spotify.com/artist/35MyX3xFMNLf5BB73BXPmF) | [DIAMONDS](https://open.spotify.com/album/5ZQpM5v2Z299RnaBqu0i6o) | 2:14 |
 | 19 | [Big Don](https://open.spotify.com/track/5eCTcda91IJHESvBpNwBnj) | [Celly](https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Big Don](https://open.spotify.com/album/11cK5YaX4JYHPWxzhEvee2) | 2:10 |
-| 20 | [Track 4](https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [Up Up](https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Limerence](https://open.spotify.com/album/1doytOQGYrBOFUHi2Jtxq7) | 2:36 |
 | 21 | [2 Flights](https://open.spotify.com/track/3Z63tVBbxNnE27f3BxHNLF) | [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp), [Rob the Bank](https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE) | [PAIDNFL](https://open.spotify.com/album/7x0lJzsavkYFh35Wt7OLFx) | 2:31 |
 | 22 | [SYDNEY 2 CROYDON \(feat\. Jords\)](https://open.spotify.com/track/2ILfqaacKKpAJX1aRPhFFG) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [SYDNEY 2 CROYDON \(feat\. Jords\)](https://open.spotify.com/album/4VkcAN5S9LgPpSgjdAe1Wd) | 2:42 |
 | 23 | [FaceTime \(feat\. Don Toliver\)](https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Euphoria](https://open.spotify.com/album/1NATXlXj7ZUSJuAbLoQyIE) | 2:18 |

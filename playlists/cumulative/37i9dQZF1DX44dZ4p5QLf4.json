@@ -4981,6 +4981,28 @@
     },
     {
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/5E0vnfYJ8WJIFjEqwjettq"
+      },
+      "artists": [
+        {
+          "name": "Felix Hien",
+          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
+        },
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156469,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/5V4iJ01jVGVokqy7mrwSoH"
+    },
+    {
+      "album": {
         "name": "I'll Be Your Friend",
         "url": "https://open.spotify.com/album/7o5LHcnX1sLlB8wGP9FZqp"
       },

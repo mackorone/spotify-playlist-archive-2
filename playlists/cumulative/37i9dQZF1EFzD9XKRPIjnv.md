@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 11 hr 48 min
+212 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-16 |  |
 | [So Good](https://open.spotify.com/track/5jDdIrKY89baVDp6ltmcKk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/1edkfWOyvdIaoyTvqs8g9n) | 3:48 | 2023-12-13 | 2024-01-31 |
 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 | 2021-12-27 |  |
-| [Stay](https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay +](https://open.spotify.com/album/5auUsyFbwRARoWkOFopQ12) | 3:30 | 2021-12-27 |  |
+| [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 | 2026-02-13 |  |
+| [Stay](https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay +](https://open.spotify.com/album/5auUsyFbwRARoWkOFopQ12) | 3:30 | 2021-12-27 | 2026-02-14 |
 | [Stay](https://open.spotify.com/track/3Wp6apjCZ6bgj3l3tuvs6G) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/39NAZ1TZNMDLADu3ERGpux) | 3:34 | 2023-12-13 | 2024-02-01 |
 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 | 2025-01-08 |  |
 | [Tainted](https://open.spotify.com/track/1u1VSSLBKzPWlbuwVqLGMl) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:32 | 2021-12-27 | 2024-08-10 |

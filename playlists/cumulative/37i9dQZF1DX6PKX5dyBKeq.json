@@ -7631,6 +7631,24 @@
     },
     {
       "album": {
+        "name": "Loving Kills.",
+        "url": "https://open.spotify.com/album/3uNj9VcF0CVAcKHFPP6Dml"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140799,
+      "name": "burnt",
+      "url": "https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H"
+    },
+    {
+      "album": {
         "name": "Bussdown",
         "url": "https://open.spotify.com/album/30wUfa7FkrDWVBNcdF1qPW"
       },
@@ -33655,6 +33673,28 @@
     },
     {
       "album": {
+        "name": "We Live.",
+        "url": "https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "RACKS.",
+      "url": "https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0"
+    },
+    {
+      "album": {
         "name": "Community Service",
         "url": "https://open.spotify.com/album/0I5RObKA3W5XHTzoEBh5v3"
       },
@@ -42066,42 +42106,6 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "AntsLive",
-          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0"
     },
     {
       "album": {

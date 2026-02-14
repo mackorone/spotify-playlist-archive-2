@@ -1,12 +1,12 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Bruna Lipiani",
-  "num_followers": 483159,
+  "num_followers": 483184,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOzfxuJFN93h8dZ7p6AQJlVA3Bw+",
+  "snapshot_id": "AAAAAAUyYrL8JB0Y8kRvQbD0LmDs66Mj",
   "tracks": [
     {
       "added_at": "2026-02-06 03:03:01",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Junt\u00f4 Deu Moda, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0BgGNhtdZMjNJu7RV7aATL"
-      },
-      "artists": [
-        {
-          "name": "Alex & Medina",
-          "url": "https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh"
-        },
-        {
-          "name": "Junt\u00f4 Deu Moda",
-          "url": "https://open.spotify.com/artist/0ErXaGpo4jhtoNv38bBWyk"
-        }
-      ],
-      "duration_ms": 157376,
-      "name": "S\u00f3 Disse que Amou - Ao Vivo",
-      "url": "https://open.spotify.com/track/2DlgzO5JQ5aCGzaCvTCfpJ"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
         "name": "Cad\u00ea Voc\u00ea?",
         "url": "https://open.spotify.com/album/5jIBdBDr9BlCzDaU92CxuJ"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 199375,
       "name": "Eu Posso Ser - Ao Vivo",
       "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
+        "name": "Junt\u00f4 Deu Moda, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BgGNhtdZMjNJu7RV7aATL"
+      },
+      "artists": [
+        {
+          "name": "Alex & Medina",
+          "url": "https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh"
+        },
+        {
+          "name": "Junt\u00f4 Deu Moda",
+          "url": "https://open.spotify.com/artist/0ErXaGpo4jhtoNv38bBWyk"
+        }
+      ],
+      "duration_ms": 157376,
+      "name": "S\u00f3 Disse que Amou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2DlgzO5JQ5aCGzaCvTCfpJ"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
+        "name": "Lugar de Fala",
+        "url": "https://open.spotify.com/album/1i9mp1c96dCLUwi4gBumfF"
+      },
+      "artists": [
+        {
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+        }
+      ],
+      "duration_ms": 164465,
+      "name": "Lugar de Fala",
+      "url": "https://open.spotify.com/track/2rIYutqftz8iIrbrbizcDH"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
         "name": "Sorriso De Desespero (Ao Vivo)",
         "url": "https://open.spotify.com/album/6rTOrVUEmXAGwiDTUJO9qC"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 146206,
       "name": "Garrafa De \u00c1gua - Ao Vivo",
       "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
-        "name": "Lugar de Fala",
-        "url": "https://open.spotify.com/album/1i9mp1c96dCLUwi4gBumfF"
-      },
-      "artists": [
-        {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
-        }
-      ],
-      "duration_ms": 164465,
-      "name": "Lugar de Fala",
-      "url": "https://open.spotify.com/track/2rIYutqftz8iIrbrbizcDH"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Da Boca Pra Fora",
-        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
-      },
-      "artists": [
-        {
-          "name": "Jennifer e Stephany",
-          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
-        }
-      ],
-      "duration_ms": 201679,
-      "name": "Da Boca Pra Fora",
-      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
         "name": "Show de Solteiro",
         "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 124581,
       "name": "Show de Solteiro",
       "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
+        "name": "Da Boca Pra Fora",
+        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer e Stephany",
+          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
+        }
+      ],
+      "duration_ms": 201679,
+      "name": "Da Boca Pra Fora",
+      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
         "name": "Resenha Do Interior (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+        "name": "S\u00f3 Quero Sossego",
+        "url": "https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+          "name": "Val\u00e9ria Barros",
+          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
         }
       ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
+      "duration_ms": 172338,
+      "name": "S\u00f3 Quero Sossego",
+      "url": "https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -867,22 +883,6 @@
       "duration_ms": 128059,
       "name": "Vestidinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
-        "name": "S\u00f3 Quero Sossego",
-        "url": "https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e9ria Barros",
-          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
-        }
-      ],
-      "duration_ms": 172338,
-      "name": "S\u00f3 Quero Sossego",
-      "url": "https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Sofrer De Boa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4MzDK1qM9ATKVckhTF9Sr9"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        },
-        {
-          "name": "Traia V\u00e9ia",
-          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Sofrer De Boa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5wJJmKHa17nSxB5ROCUiAp"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
         "name": "Bora V\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/2yoRumu8kaWl6Wlk7RCEKG"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 186289,
       "name": "Festa Violenta - Ao Vivo",
       "url": "https://open.spotify.com/track/6lSls0O8U5DcL1yPSWxqst"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
+        "name": "Sofrer De Boa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4MzDK1qM9ATKVckhTF9Sr9"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        },
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Sofrer De Boa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5wJJmKHa17nSxB5ROCUiAp"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "P\u00e9ssimo Dia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6qq4K0aWD8K5JYx5O3x1ZC"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        }
-      ],
-      "duration_ms": 169340,
-      "name": "P\u00e9ssimo Dia - Ao Vivo",
-      "url": "https://open.spotify.com/track/38qFsp5MDV9xQ4BiYEZAYM"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
         "name": "Resenha Particular 2 (Ao Vivo / EP1)",
         "url": "https://open.spotify.com/album/6xG5OZFTZBu1XjwjB06h0B"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 197600,
       "name": "Coisas Exot\u00e9ricas / Me Apaixonei Pela Pessoa Errada - Ao Vivo",
       "url": "https://open.spotify.com/track/4EEojqHohgTIPlNo2lj4wh"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
+        "name": "P\u00e9ssimo Dia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6qq4K0aWD8K5JYx5O3x1ZC"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        }
+      ],
+      "duration_ms": 169340,
+      "name": "P\u00e9ssimo Dia - Ao Vivo",
+      "url": "https://open.spotify.com/track/38qFsp5MDV9xQ4BiYEZAYM"
     },
     {
       "added_at": "2026-02-06 03:03:01",

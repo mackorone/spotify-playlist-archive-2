@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-167 songs - 9 hr 38 min
+168 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 | 2026-02-08 |  |
 | [Why Not Try? \(Chill\)](https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Why Not Try? \(Chill\)](https://open.spotify.com/album/4pqYVl020D5Q97Z23o0qUs) | 2:36 | 2026-02-07 |  |
 | [Wishing Me Dead](https://open.spotify.com/track/68cOf9WYuULrqncSwLynKv) | [otobahn](https://open.spotify.com/artist/3uIcjCMqPqYfn2ColxJhpb) | [Wishing Me Dead](https://open.spotify.com/album/6CihvrHXu9YoY9XH9z1o53) | 5:06 | 2026-01-22 |  |
+| [With You](https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [With You](https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT) | 3:21 | 2026-02-13 |  |
 | [Wonderful Paradox](https://open.spotify.com/track/7LfF485Urzmt6zMcqNOVYu) | [Mad'J](https://open.spotify.com/artist/5trtjhxKBebFy3DnvgY1vy) | [Wonderful Paradox](https://open.spotify.com/album/39DtRuSIrgtoSb9TpkOOlC) | 3:44 | 2025-10-30 | 2026-01-17 |
 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 | 2025-11-04 | 2026-01-17 |
 | [Yes I Hope](https://open.spotify.com/track/4nYjSNumkVBOWJl7xbImKq) | [Roots Habits](https://open.spotify.com/artist/6jCRadZaIZtiXstamJAyJX) | [Yes I Hope](https://open.spotify.com/album/6vGfjWBItGXGUcbGpOAuft) | 3:39 | 2025-10-24 | 2025-12-02 |

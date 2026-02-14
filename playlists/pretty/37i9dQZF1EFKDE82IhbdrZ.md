@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 70 | [Breathing](https://open.spotify.com/track/12HgZnRqGPwIZJD0gPsUor) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:54 |
 | 71 | [Change Your Ticket](https://open.spotify.com/track/2skzofTV9Ys3eN70pghEHL) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:26 |
 | 72 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/4KkjSqBzF06TS1fhasBQWH) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 3:53 |
-| 73 | [Heartbreak Weather](https://open.spotify.com/track/3jf3c9EOFam6Q15sho0XWw) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:20 |
-| 74 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 |
+| 73 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 |
+| 74 | [Heartbreak Weather](https://open.spotify.com/track/3jf3c9EOFam6Q15sho0XWw) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:20 |
 | 75 | [how deep?](https://open.spotify.com/track/1nTzXNZCnZ0T7S8BqkL98r) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:34 |
 | 76 | [Loved You First](https://open.spotify.com/track/32HwMdkZuUmHg9uznhs9xM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:04 |
 | 77 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 |
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 203 | [Things He Handed Down](https://open.spotify.com/track/3nn4P7Tcxbc6uypqWGd7Zx) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:18 |
 | 204 | [If I Could Be Her](https://open.spotify.com/track/2K483oX73QGUKgx1qXVJk3) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Til the Casket Drops](https://open.spotify.com/album/57QGgDgbSf0Ij3QP41jF8D) | 2:49 |
 | 205 | [Co\-Pilot](https://open.spotify.com/track/6smZCaAKItX6uxvQUUKVnO) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Kristina Maria](https://open.spotify.com/artist/3owOnUCZD2qFcf5RHbv1Zg) | [Les Inséparables](https://open.spotify.com/album/6nbVBDBL2Uk58p2CL48B0Y) | 3:46 |
-| 206 | [Where Have You Been \(All My Night\)](https://open.spotify.com/track/11D6LSl8aDKHcadA5mLszu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:48 |
-| 207 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
+| 206 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
+| 207 | [Where Have You Been \(All My Night\)](https://open.spotify.com/track/11D6LSl8aDKHcadA5mLszu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:48 |
 | 208 | [Let Me Hold You](https://open.spotify.com/track/5RTYwdNrb6DNwfKrGFNV4G) | [Josh Krajcik](https://open.spotify.com/artist/0ngASMM5dPGOByz9QmIY7C) | [Blindly, Lonely, Lovely](https://open.spotify.com/album/7dugoBUZwtpVqnXo7rMTIh) | 4:05 |
 | 209 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
 | 210 | [Touch](https://open.spotify.com/track/2oRua7SgA8ZJy9h4ViBAl5) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:46 |
@@ -325,8 +325,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 315 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
 | 316 | [Timber](https://open.spotify.com/track/63uhHdBTWeqDWTMvvL9WGy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:58 |
 | 317 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
-| 318 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
-| 319 | [Ballerina](https://open.spotify.com/track/2HeIrXWLqBvBHMBMMQ3Zhv) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:28 |
+| 318 | [Ballerina](https://open.spotify.com/track/2HeIrXWLqBvBHMBMMQ3Zhv) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:28 |
+| 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcJgNgAAAAAqHyfiSTsL606vuzE1lFMf`
+Snapshot ID: `AcJlzAAAAAAbEVMHVDAzyiEtl3ZoXJvy`

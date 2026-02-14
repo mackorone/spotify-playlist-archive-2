@@ -1,6 +1,6 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Opick",
-  "num_followers": 167796,
+  "num_followers": 167927,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-02-12 17:00:57",
       "album": {
+        "name": "Nikah Sempurna",
+        "url": "https://open.spotify.com/album/50k5gWGBVJALWvmfXPHE4V"
+      },
+      "artists": [
+        {
+          "name": "Vadel Nasir",
+          "url": "https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Nikah Sempurna",
+      "url": "https://open.spotify.com/track/7xfVzvVzxRXfgmiHaERnY1"
+    },
+    {
+      "added_at": "2026-02-12 17:00:57",
+      "album": {
         "name": "Teman Istimewa",
         "url": "https://open.spotify.com/album/1T67wqNeB7PS05hdcSk9EC"
       },
@@ -335,6 +351,26 @@
       "duration_ms": 188671,
       "name": "Teman Istimewa",
       "url": "https://open.spotify.com/track/6oJGDCzAspawwHgLPYJrOj"
+    },
+    {
+      "added_at": "2026-02-12 17:00:57",
+      "album": {
+        "name": "Hatimulah Sandaran",
+        "url": "https://open.spotify.com/album/39UtKDoxLrzRbq1QBVFUaM"
+      },
+      "artists": [
+        {
+          "name": "Nabila Maharani",
+          "url": "https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW"
+        },
+        {
+          "name": "Tri Suaka",
+          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
+        }
+      ],
+      "duration_ms": 271153,
+      "name": "Hatimulah Sandaran",
+      "url": "https://open.spotify.com/track/0ZGYum0a1FsBVrFBIFIjZZ"
     },
     {
       "added_at": "2026-02-12 17:00:57",

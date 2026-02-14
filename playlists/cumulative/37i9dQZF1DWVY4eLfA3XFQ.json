@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83e\udd41 Tech house operators, featuring Jackie Hollander",
+  "description": "50% techno, 50% house \u26d3\ufe0f Tech house operators, featuring DJ Minx",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -910,6 +910,24 @@
     {
       "album": {
         "name": "Activate",
+        "url": "https://open.spotify.com/album/5xMB9NEfwoWIdoL00KX8Wj"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/5AA3QcxRWrdJmvrfUdGFlV"
+    },
+    {
+      "album": {
+        "name": "Activate",
         "url": "https://open.spotify.com/album/2xkdMLHlbuSGtdUtPntQlt"
       },
       "artists": [
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 166511,
       "name": "Ahoga",
       "url": "https://open.spotify.com/track/2HijZ3jluTBQszGJlBXqTK"
@@ -3893,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/0qVgvx0KUHlj1yIMoELY2l"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/6a9DlepajlUJPeQ2N6B40L"
+    },
+    {
+      "album": {
         "name": "BARBEE (On Acid)",
         "url": "https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h"
       },
@@ -5182,7 +5218,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 217968,
       "name": "Blow Your Mind",
       "url": "https://open.spotify.com/track/4DeTlsPjmgrjeM4DgMSoMQ"
@@ -7626,7 +7662,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 145846,
       "name": "Candela",
       "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
@@ -9990,7 +10026,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 176363,
       "name": "Cry For You (2025)",
       "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
@@ -10564,7 +10600,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 191718,
       "name": "Dance Machine",
       "url": "https://open.spotify.com/track/6NtE1qy1EE2txEpyMK9pCU"
@@ -14618,6 +14654,28 @@
       "duration_ms": 147187,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/6PoGuEaFg26ZtjNZZGJ9Jf"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Kendra Foster",
+          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
     },
     {
       "album": {
@@ -18887,6 +18945,28 @@
     },
     {
       "album": {
+        "name": "Girl on Girl",
+        "url": "https://open.spotify.com/album/5ZoICYgEzwuCGonP4w6qcB"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255454,
+      "name": "Girl on Girl",
+      "url": "https://open.spotify.com/track/6785lvSkoSl3I5CYtx3fMq"
+    },
+    {
+      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -19242,6 +19322,24 @@
       "duration_ms": 151882,
       "name": "Goa",
       "url": "https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF"
+    },
+    {
+      "album": {
+        "name": "Goes Like This",
+        "url": "https://open.spotify.com/album/3mes1yISqNTirgUHWBLQhK"
+      },
+      "artists": [
+        {
+          "name": "Avision",
+          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Goes Like This",
+      "url": "https://open.spotify.com/track/0j0VyKyQngfdIreIzZvCvC"
     },
     {
       "album": {
@@ -19660,7 +19758,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 153192,
       "name": "Green Nights",
       "url": "https://open.spotify.com/track/43OTS5qjTsNWe515us0Zd4"
@@ -24145,6 +24243,28 @@
     },
     {
       "album": {
+        "name": "Jaguar (Feat. Eloise Keeble)",
+        "url": "https://open.spotify.com/album/5C59pnQJln6MpUbi2IAFAd"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207429,
+      "name": "Jaguar (Feat. Eloise Keeble)",
+      "url": "https://open.spotify.com/track/0FlEMLNFhZ0UrF4hvnoWyY"
+    },
+    {
+      "album": {
         "name": "Jamming (FISHER Rework)",
         "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
       },
@@ -24958,6 +25078,28 @@
       "duration_ms": 166917,
       "name": "Kill The Vibe",
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
+    },
+    {
+      "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/3Gm9uilx7xgHervSuHrhEj"
+      },
+      "artists": [
+        {
+          "name": "HIISAK",
+          "url": "https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf"
+        },
+        {
+          "name": "Reeva",
+          "url": "https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150642,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/4owC4efdLUPtVFqoubrmj3"
     },
     {
       "album": {
@@ -26136,7 +26278,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 161818,
       "name": "Let Me Clear My Throat",
       "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
@@ -34365,6 +34507,28 @@
     },
     {
       "album": {
+        "name": "One More (feat. Ad-Apt)",
+        "url": "https://open.spotify.com/album/09sFieX0gGevzK0TWq27uZ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Ad-Apt",
+          "url": "https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185859,
+      "name": "One More (feat. Ad-Apt)",
+      "url": "https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs"
+    },
+    {
+      "album": {
         "name": "One More Song",
         "url": "https://open.spotify.com/album/7lh4LY0RCr8jLEvrK4mayQ"
       },
@@ -34598,7 +34762,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 175275,
       "name": "Opera Phantom",
       "url": "https://open.spotify.com/track/6xzkWS5a7Letn8AHkz4ee4"
@@ -34890,6 +35054,28 @@
       "duration_ms": 187500,
       "name": "Ouro Preto",
       "url": "https://open.spotify.com/track/5H1OKgJ2bPLK5LI1o4gLVc"
+    },
+    {
+      "album": {
+        "name": "Out OF Control",
+        "url": "https://open.spotify.com/album/4P6qxu5ivoUv8LEpwTubqx"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Aaron Veal",
+          "url": "https://open.spotify.com/artist/2zKQC2yK8SzmHcWhfrFnWL"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Out OF Control",
+      "url": "https://open.spotify.com/track/4T9m1fgJJzernwbN9aqjSA"
     },
     {
       "album": {
@@ -36866,6 +37052,28 @@
       "duration_ms": 203971,
       "name": "Pra Nao Dizer",
       "url": "https://open.spotify.com/track/3FdtdBduxDxNzzHBhB3Pks"
+    },
+    {
+      "album": {
+        "name": "PRADA",
+        "url": "https://open.spotify.com/album/056QBw19dsHLNEWqAdiya8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        },
+        {
+          "name": "7000 (7K)",
+          "url": "https://open.spotify.com/artist/5PKMvOxHZfVJkYgRDQQYc6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "PRADA",
+      "url": "https://open.spotify.com/track/1uTSXbjDujrvW3f67r7RJK"
     },
     {
       "album": {
@@ -39998,7 +40206,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 327392,
       "name": "Saquarema",
       "url": "https://open.spotify.com/track/3pbiigBVIFmCP3cRpDtcCb"
@@ -41398,7 +41606,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 172007,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/1N2sFj45WQQBRDTYGV0BdF"
@@ -42376,6 +42584,24 @@
       "duration_ms": 255234,
       "name": "Six Figures",
       "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
+    },
+    {
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/6O36KmDcrgLTGo89pRqll5"
+      },
+      "artists": [
+        {
+          "name": "Kieran San Jose",
+          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145459,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/2e9k1CQ5sq1KwMQBuItk1j"
     },
     {
       "album": {
@@ -43804,7 +44030,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 259687,
       "name": "Spiraling",
       "url": "https://open.spotify.com/track/4gxKCNZZap4cyJhFPo3akO"
@@ -46128,7 +46354,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-14",
       "duration_ms": 214838,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6y6EJwzmcfbxK4KQZ3mcne"
@@ -52932,6 +53158,24 @@
       "duration_ms": 228070,
       "name": "Worship Technology",
       "url": "https://open.spotify.com/track/6pRJ9VO7XB7W0CIcrOFmDy"
+    },
+    {
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/4Cqd6WPbg3ONt8vQqX4O1F"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161363,
+      "name": "Worth The Wait",
+      "url": "https://open.spotify.com/track/4bKpSEdFwnK89NdAMiqpU1"
     },
     {
       "album": {

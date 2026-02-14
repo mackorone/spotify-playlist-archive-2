@@ -2949,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201982,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH"
+    },
+    {
+      "album": {
         "name": "Wonderful Paradox",
         "url": "https://open.spotify.com/album/39DtRuSIrgtoSb9TpkOOlC"
       },

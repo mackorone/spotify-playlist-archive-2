@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,629 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,631 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Navegar](https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CARRANCA](https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK) | 2:34 |
 | 11 | [Eu Vou Bater Aí](https://open.spotify.com/track/0TGpnMhF1VHwns4KoJHOFY) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Eu Vou Bater Aí](https://open.spotify.com/album/2GaWcNLsQElu9M4adeCtdk) | 2:21 |
 | 12 | [saudade, saudade](https://open.spotify.com/track/4vWsnXbf6XGVVqBTbPZaVl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [saudade, saudade](https://open.spotify.com/album/6jghljedA79R0FIWFc9af3) | 3:00 |
-| 13 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
-| 14 | [Segredo Clichê](https://open.spotify.com/track/1S2LcqKdkhC3R7JW14T9h7) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [FELÍDIA](https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C) | 3:22 |
+| 13 | [Segredo Clichê](https://open.spotify.com/track/1S2LcqKdkhC3R7JW14T9h7) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [FELÍDIA](https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C) | 3:22 |
+| 14 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
 | 15 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
 | 16 | [Casca](https://open.spotify.com/track/5uhzSItR5e7IFMnTkhIRUB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 2:39 |
 | 17 | [Azul](https://open.spotify.com/track/6FAabpbqQbU8B4k78oux1m) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Azul](https://open.spotify.com/album/2RPr3q2h13RAgg08PiR1V4) | 2:48 |
 | 18 | [AMAReSÓ \- Ao Vivo Com Orquestra](https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [AMAReSÓ \(Ao Vivo Com Orquestra\)](https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i) | 3:00 |
 | 19 | [Não Quero Te Querer](https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Não Quero Te Querer](https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W) | 3:01 |
 | 20 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
-| 21 | [Tara](https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Tara](https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG) | 2:41 |
-| 22 | [Melô do Verão](https://open.spotify.com/track/7dDQ0y4ej5VqbzBESgqyvk) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [No Seu Radinho](https://open.spotify.com/album/0Yx6hgl8SSbfplO971ER2d) | 3:07 |
+| 21 | [Melô do Verão](https://open.spotify.com/track/7dDQ0y4ej5VqbzBESgqyvk) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [No Seu Radinho](https://open.spotify.com/album/0Yx6hgl8SSbfplO971ER2d) | 3:07 |
+| 22 | [Tara](https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Tara](https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG) | 2:41 |
 | 23 | [Fundo do Poço](https://open.spotify.com/track/4Xj06V7cnMRgMsHDZasGC3) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Estado Febril](https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd) | 2:40 |
 | 24 | [Eu Fim, Você Início](https://open.spotify.com/track/2N6ubA2tA0P1fCaAaTMRbv) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [TANTAS FORMAS DE DIZER ADEUS](https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi) | 3:20 |
 | 25 | [Sinais](https://open.spotify.com/track/6P6at3wi3tLu201xR9mQkd) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Literalmente Devaneios](https://open.spotify.com/album/1gWZCVHiEDQ8Ijx4rrzMuk) | 3:47 |
