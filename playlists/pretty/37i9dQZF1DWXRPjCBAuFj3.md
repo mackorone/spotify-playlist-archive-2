@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Aira e Tony Boy in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,686 likes - 110 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,703 likes - 110 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 82 | [giovani e svegli \#147 \(feat\. LILCR\)](https://open.spotify.com/track/33KFWLWKqxLzWVIyFzoAG7) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [RANDAGI 24.7](https://open.spotify.com/album/2L6rd8mVWDkv4ybxrXRD2c) | 2:32 |
 | 83 | [Thotiana](https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Famous Cryp](https://open.spotify.com/album/4f3xh6cp33tAaQVXEar0Cj) | 2:09 |
 | 84 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
-| 85 | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/track/7d61TYD3b29COOCNAap2b8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/album/0hy1MZJH0K6tyzqlHbbDqr) | 2:55 |
+| 85 | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/track/7d61TYD3b29COOCNAap2b8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/album/0hy1MZJH0K6tyzqlHbbDqr) | 2:55 |
 | 86 | [MUSTANG](https://open.spotify.com/track/0u5PoDpDJrnVs22BPYMj3b) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ) | [MUSTANG](https://open.spotify.com/album/0JDhmVdj8E8fdUvPan7fcw) | 2:18 |
 | 87 | [TOP PLAYER](https://open.spotify.com/track/0CSgonP6XiecNZf50jecwM) | [The Luxe](https://open.spotify.com/artist/3zhhnmtw4IO0PsXlzLbuLd) | [TOP PLAYER](https://open.spotify.com/album/2qESaiTWDAfjlA4iDF2tdp) | 2:09 |
 | 88 | [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 |

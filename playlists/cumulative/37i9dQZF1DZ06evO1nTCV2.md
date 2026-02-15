@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-279 songs - 17 hr 0 min
+280 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Blue Sky Blues](https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 5:18 | 2022-01-12 | 2023-01-07 |
 | [Breakdown \(Live\)](https://open.spotify.com/track/1OjL3GxpUySOMcmsWGRymB) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:42 | 2024-08-12 | 2024-08-14 |
 | [Broken Anyway \(Live\)](https://open.spotify.com/track/70dHBmG5GLYvPyZVtIKmpH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:49 | 2024-01-05 | 2024-08-15 |
-| [Burning Photographs](https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 4:12 | 2022-02-24 |  |
+| [Burning Photographs](https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 4:12 | 2022-02-24 | 2026-02-15 |
 | [Bye Bye Balloons](https://open.spotify.com/track/7g3kyS8muMEdA4AfqNw3OG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 1:55 | 2025-12-03 | 2025-12-21 |
 | [Call Me Back](https://open.spotify.com/track/4MsteXmAxiVv6qqK4udNmL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 4:08 | 2024-12-09 | 2025-03-23 |
 | [Call Me on Your Way Back Home](https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:09 | 2022-01-14 |  |
@@ -118,7 +118,7 @@
 | [Hotel Chelsea Nights](https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:10 | 2022-01-11 | 2026-02-14 |
 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 | 2023-07-23 | 2025-01-04 |
 | [How Much Light](https://open.spotify.com/track/3nXM6fSbUdWugKFCukr8ib) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/2H2NlBrpEBELrgPIyTS1Tl) | 3:15 | 2022-01-11 | 2022-02-23 |
-| [I Am Dracula](https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:38 | 2025-12-03 |  |
+| [I Am Dracula](https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:38 | 2025-12-03 | 2026-02-15 |
 | [I Can't Remember](https://open.spotify.com/track/23gqNeMwhNIDeO7ZJhe7ab) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:11 | 2022-05-15 | 2023-01-09 |
 | [I Got Lost](https://open.spotify.com/track/0x8ZFTeXx3kOPah13CvMw6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:34 | 2022-04-05 | 2022-07-15 |
 | [I Lost My Place](https://open.spotify.com/track/0UOljh32VrB0nwon0qhVXb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 5:11 | 2024-08-14 | 2024-08-15 |
@@ -224,6 +224,7 @@
 | [Stare at the TV](https://open.spotify.com/track/6MlCbqN85iGl4AIJTAQLSD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 2:44 | 2022-11-06 | 2022-12-19 |
 | [Starfire](https://open.spotify.com/track/2TpNrJWGjdjLK13IzcXQ67) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:50 | 2024-12-08 | 2025-02-19 |
 | [Stay With Me](https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:06 | 2022-01-14 | 2022-10-13 |
+| [Stormy Weather](https://open.spotify.com/track/7p9sPfhoDvzKJ8koZJOFiE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 1:08 | 2026-02-15 |  |
 | [Strawberry Wine](https://open.spotify.com/track/0L51VUczq7ZNaaoB6fxlAe) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 7:58 | 2022-01-11 | 2022-07-25 |
 | [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 | 2022-03-29 | 2023-12-20 |
 | [Style](https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 2:44 | 2022-01-11 | 2024-09-16 |
@@ -240,7 +241,7 @@
 | [The Man In Me \- Live from Bristol, UK\. 2023.](https://open.spotify.com/track/4aSrRsfy7Da0ToUZkfg9Gq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Man In Me \(Live from Bristol, UK\. 2023\)](https://open.spotify.com/album/6Kxh7vRBvv2iTz2Ux3EeaE) | 3:38 | 2024-09-01 | 2024-10-29 |
 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 | 2022-05-16 |  |
 | [The Rescue Blues](https://open.spotify.com/track/6lUY5R9gcTIUkddQkdcjuy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 3:38 | 2022-01-11 | 2022-05-17 |
-| [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 | 2025-12-03 |
+| [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 |  |
 | [The Tracks of my Tears \- Live from Newcastle, UK\. 2023](https://open.spotify.com/track/5EAoqZo78ggyMnPV5YO4rc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Tracks Of My Tears \(Live from Newcastle, UK\. 2023\)](https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov) | 3:14 | 2024-08-06 | 2024-09-21 |
 | [Theo Is Dreaming](https://open.spotify.com/track/0p6EmD0ixiLtlBbFOsgUIU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 1:21 | 2023-01-17 | 2023-08-20 |
 | [There Is a Light That Never Goes Out](https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [There Is a Light That Never Goes Out](https://open.spotify.com/album/4p7FbdliqsM0ZmbbCaEjeZ) | 4:33 | 2025-03-23 | 2025-08-10 |

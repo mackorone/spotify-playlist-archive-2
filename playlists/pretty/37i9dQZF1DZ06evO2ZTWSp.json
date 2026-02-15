@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 478463,
+  "num_followers": 478456,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADBorsu34ZkOqxlF/kZQ5Aq",
+  "snapshot_id": "aY5pgAAAAABMNL/U3QhJQsJrmpih9HFZ",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iko",
-        "url": "https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC"
+        "name": "Let 'em Say",
+        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
       },
       "artists": [
         {
-          "name": "N.A.S.A.",
-          "url": "https://open.spotify.com/artist/07WjVPM79OGQLOZ1jfUVk9"
-        },
-        {
-          "name": "Sam i",
-          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
-        },
-        {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Caroline Smith",
+          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
         }
       ],
-      "duration_ms": 211952,
-      "name": "Iko",
-      "url": "https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7"
+      "duration_ms": 200578,
+      "name": "Let 'em Say",
+      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
     },
     {
       "added_at": null,
@@ -815,22 +811,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'em Say",
-        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
+        "name": "Iko",
+        "url": "https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "N.A.S.A.",
+          "url": "https://open.spotify.com/artist/07WjVPM79OGQLOZ1jfUVk9"
         },
         {
-          "name": "Caroline Smith",
-          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
+          "name": "Sam i",
+          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 200578,
-      "name": "Let 'em Say",
-      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
+      "duration_ms": 211952,
+      "name": "Iko",
+      "url": "https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7"
     },
     {
       "added_at": null,

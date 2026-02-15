@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "We Gotta Groove - The Brother Studio Years (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tag1yvfPv1X8aoa5lql1z"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Carl's Song 1 - It Could Be Anything - 2025 Mix",
+      "url": "https://open.spotify.com/track/0EYwcNP72Wl3SSND69enJP"
+    },
+    {
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 39973,
       "name": "Meant For You - Remastered 2001",
       "url": "https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr"

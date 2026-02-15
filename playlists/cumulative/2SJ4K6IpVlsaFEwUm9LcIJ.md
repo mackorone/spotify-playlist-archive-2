@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-918 songs - 2 day 7 hr 14 min
+920 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Slow Burning Love \- 2019 Remaster](https://open.spotify.com/track/0EPITcEiMyISJXzjGlsX2n) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [In the Pocket \(2019 Remaster\)](https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP) | 3:43 | 2026-01-08 |  |
 | [Slow Rock](https://open.spotify.com/track/12NaMBVRkY4MZ1RRSEAkC8) | [Deadharrie](https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX) | [Slow Rock](https://open.spotify.com/album/7bkieWj5UfV98siUCcHHsz) | 2:54 | 2025-09-17 | 2025-11-15 |
 | [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 | 2025-05-19 | 2025-07-04 |
+| [Smokin' Room](https://open.spotify.com/track/0b5mG38TIGgU0T7T1IYfiJ) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rags To Rufus](https://open.spotify.com/album/127CLXCibn1ARC1CGExGav) | 4:22 | 2026-02-14 |  |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
 | [Snow](https://open.spotify.com/track/2YBkUWb9FVtP0QU9FX0lUl) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [Snow](https://open.spotify.com/album/50f0dY2lyEkXwjbm8JF8Qz) | 4:20 | 2025-05-14 | 2025-07-04 |
 | [Snowfall Serenade](https://open.spotify.com/track/4y3GGDrMxmoPRkZoPZ7WNc) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Raindrops](https://open.spotify.com/album/5L7VeMZzhPfTqF0cd6nPHB) | 4:01 | 2025-11-04 | 2026-01-15 |
@@ -743,6 +744,7 @@
 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 | 2025-04-23 | 2025-05-09 |
 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-21 | 2025-07-04 |
 | [Still Feels Like Tears \[Demo\]](https://open.spotify.com/track/7oW1kR6WNzw0NRBmDFbdVj) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Distant Call \- Collected Demos 2000 \- 2006](https://open.spotify.com/album/3R66mzyY7RONq48WPfxPky) | 3:10 | 2024-11-13 | 2025-01-12 |
+| [STILLWELL THEME](https://open.spotify.com/track/0NkQFp82glRfuu9YKbO8MT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [1000 Variations on the Same Song](https://open.spotify.com/album/0UUvgHaTGyQ27kM4eaJuN4) | 3:02 | 2026-02-14 |  |
 | [Stopword](https://open.spotify.com/track/1D5N1zQMGM5FzTb9288syg) | [Lect Drecs](https://open.spotify.com/artist/6ABEszArkQreaHzzjQaddo) | [My Aura](https://open.spotify.com/album/2KHOwUyQMhnlFQa9dRoSI1) | 2:04 | 2024-07-12 | 2024-09-08 |
 | [Streets of Mine](https://open.spotify.com/track/3U4SPwYCuRGgwaASbGWi2o) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 2:43 | 2025-12-05 | 2026-01-15 |
 | [Sua Estupidez \- Live From Teatro Tereza Raquel, Brazil/1971](https://open.spotify.com/track/3iSu4JLVjeeCMr7AIxNksR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/2cA8Oru1aDKbFaY6hBIg7X) | 3:49 | 2024-02-20 | 2024-03-10 |

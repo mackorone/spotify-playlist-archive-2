@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-806 songs - 1 day 19 hr 33 min
+807 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Don't hurry](https://open.spotify.com/track/30X4nwgqwbgoziq0F2tLLs) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [Don't hurry](https://open.spotify.com/album/3U5vBZK5EKPZPGUK35Bksa) | 2:12 | 2022-04-14 | 2022-04-21 |
 | [don't miss me](https://open.spotify.com/track/5bC5ZoyEJBRqeDEIkcKnab) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/3LLErH6o3MaASU78Gge3oT) | 2:03 | 2025-08-18 |  |
 | [Don't Wake Me Up](https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Don't Wake Me Up](https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC) | 3:06 | 2024-05-31 | 2024-06-22 |
-| [DONTWANNAGROWUP](https://open.spotify.com/track/2O4oFkpMfPDfIlNCVkS41H) | [LNA](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [DONTWANNAGROWUP](https://open.spotify.com/album/1N4TgU8PuxbbotcR3Kc5bW) | 2:45 | 2025-09-27 |  |
+| [DONTWANNAGROWUP](https://open.spotify.com/track/2O4oFkpMfPDfIlNCVkS41H) | [LNA](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [DONTWANNAGROWUP](https://open.spotify.com/album/1N4TgU8PuxbbotcR3Kc5bW) | 2:45 | 2025-09-27 | 2026-02-15 |
 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 | 2024-10-18 | 2024-12-10 |
 | [Double Fantasy \(with Future\) \- Radio Edit](https://open.spotify.com/track/0vuiKizDyUXdIge9npkEKn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 3:55 | 2023-04-21 | 2023-06-06 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-07-08 | 2024-04-19 |
@@ -497,6 +497,7 @@
 | [No More](https://open.spotify.com/track/51TIf6rPwW8m5jnsO5f37E) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [No More](https://open.spotify.com/album/3iUURxSXWzcIIoMZRe8EAx) | 3:21 | 2025-08-01 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 |  |
 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 | 2023-12-29 | 2024-03-30 |
+| [Not Even Gone](https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Not Even Gone](https://open.spotify.com/album/5uAJEBWK6rxWAKa87d66Hn) | 3:46 | 2026-02-13 |  |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-18 | 2024-03-30 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-29 | 2024-01-15 |
 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 | 2024-04-16 | 2024-06-16 |

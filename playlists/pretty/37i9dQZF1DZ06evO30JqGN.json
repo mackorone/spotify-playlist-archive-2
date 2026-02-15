@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 137542,
+  "num_followers": 137562,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACdCXarB4Ohgtv0m6tGoSvq",
+  "snapshot_id": "aY5pgAAAAAAMH1BO/0mJR+IYyMwr+cMI",
   "tracks": [
     {
       "added_at": null,
@@ -80,9 +80,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 143746,
-      "name": "Finally Over It",
-      "url": "https://open.spotify.com/track/4dlFGIn5KP6AaCZSujM7cj"
+      "duration_ms": 170784,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2vmDrjY4Py8lBYwzOp8utT"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 170784,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2vmDrjY4Py8lBYwzOp8utT"
+      "duration_ms": 143746,
+      "name": "Finally Over It",
+      "url": "https://open.spotify.com/track/4dlFGIn5KP6AaCZSujM7cj"
     },
     {
       "added_at": null,

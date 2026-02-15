@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-343 songs - 19 hr 13 min
+346 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-08 | 2025-12-01 |
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 | 2026-01-05 |
 | [In the Zone](https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6) | [Zoë Evans](https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo) | [In the Zone](https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj) | 2:38 | 2026-02-08 |  |
+| [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 | 2026-02-14 |  |
 | [Jaded Son](https://open.spotify.com/track/7Bbg46bDdlb4wmbmRiKWfJ) | [Bandana Sons](https://open.spotify.com/artist/5ZtCpzKBvWl7hr0RijnrUH) | [Jaded Son](https://open.spotify.com/album/4ynwas1gNy3V0ydmgvIBEg) | 5:10 | 2025-12-23 | 2026-01-15 |
 | [Jiggy Jiggy](https://open.spotify.com/track/2aFDHNti4Cu6r7TRF1ewpm) | [JAO](https://open.spotify.com/artist/21f6qfptoiJRqqRbRgepjb), [Smasher GMC](https://open.spotify.com/artist/2J1zUfRo32V3n1Bj9WqnFm) | [Jiggy Jiggy](https://open.spotify.com/album/7IlPPAik9r0YzmfqUNvQHz) | 2:30 | 2025-12-03 | 2026-01-05 |
 | [Johnny Drago](https://open.spotify.com/track/7JymuwXjghHmMRVZTXZvaA) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 3:10 | 2025-11-17 | 2026-01-05 |
@@ -193,6 +194,7 @@
 | [LOVEBOMB](https://open.spotify.com/track/6bfOFAwjQ6I4hYOZsRRnUs) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [LOVEBOMB](https://open.spotify.com/album/0JZTsRbdWFw66wIWymC6wD) | 3:10 | 2025-11-01 | 2025-12-01 |
 | [LoveFool](https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX) | [Delilah Earnshaw](https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2) | [LoveFool](https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI) | 4:29 | 2025-12-28 | 2026-01-25 |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-08 | 2025-12-01 |
+| [lovergirl](https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX) | [Taylor Contarino](https://open.spotify.com/artist/4sPdnfBqns9zDxWZPv7AhT) | [lovergirl](https://open.spotify.com/album/5hcolasUwTgiAJ4B7nAXs3) | 2:03 | 2026-02-14 |  |
 | [Lullaby](https://open.spotify.com/track/0xlQiqmo1CwSh91tdZJEcX) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Lullaby](https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q) | 5:25 | 2025-12-23 | 2026-01-15 |
 | [Límite \- Remix](https://open.spotify.com/track/6nJU2atw4dO9QUrWUbTwtA) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX), [Insi](https://open.spotify.com/artist/3EM8X2biSQbmXUiC1WmfsD) | [Límite \(Remix\)](https://open.spotify.com/album/5xUQ1y5NYqmxUlPuS1mfl3) | 3:03 | 2025-11-11 | 2025-12-01 |
 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 | 2025-12-26 | 2026-01-25 |
@@ -212,6 +214,7 @@
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-28 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-03 | 2025-12-01 |
 | [Más Allá del Margen](https://open.spotify.com/track/7FhYX2sr04P5S04wYUJzqZ) | [Cartel del Llano](https://open.spotify.com/artist/5bLRfs7eekXEQWz3mx6dyr), [Trotanotas](https://open.spotify.com/artist/546AdoBeQi8ItewcgXVOPM), [Aaron Beat](https://open.spotify.com/artist/6YRuzDo3xb63VeORuerqKR), [Kevin Espinoza](https://open.spotify.com/artist/313D4AfPhCWHh2xm6Ju5Qb), [Romanis](https://open.spotify.com/artist/1ILQdFavIFJrmafT8AelWf) | [Más Allá del Margen](https://open.spotify.com/album/0LpMFHgVbu2FyUO66YSWUd) | 4:27 | 2026-02-07 |  |
+| [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2026-02-14 |  |
 | [Nazar Me Ho Tum](https://open.spotify.com/track/1B0q03LH9E1W7AogVcRCj4) | [RONIE](https://open.spotify.com/artist/2cDCmLQDfXJBReBT87zo22) | [Safar](https://open.spotify.com/album/5VqEGWFrykkos7KuLPBkmT) | 2:35 | 2026-01-06 |  |
 | [Nebular \- Radio Edit](https://open.spotify.com/track/315OXgioK5tVKmhQkcWPQL) | [Aniderev](https://open.spotify.com/artist/46FaRfT6nNVUzxhZrCBJ9z) | [Nebular \(Radio Edit\)](https://open.spotify.com/album/3U7EGF3H1xi7wKx4RTOiGD) | 3:00 | 2025-11-17 | 2026-01-05 |
 | [Need To Know](https://open.spotify.com/track/0BOkxcQkVnyudtX8g5RSVi) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 2:56 | 2025-11-03 | 2025-12-01 |

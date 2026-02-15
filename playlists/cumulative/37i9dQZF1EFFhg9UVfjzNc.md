@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 15 hr 36 min
+152 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Pai de Amor \- Live](https://open.spotify.com/track/5qp1tzBKcKLT2jd8cmXL5r) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Pai de Amor \(Live\)](https://open.spotify.com/album/5QUzFdB8bwFIR1L6P9Mhpf) | 8:34 | 2023-06-27 | 2023-06-30 |
 | [Pai de Amor \- Live](https://open.spotify.com/track/751TdDZzsr7Wrv4naigRLL) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [André Aquino, Vol\. 2 \(Live\)](https://open.spotify.com/album/3y39KwTuUMQ4Gmz3R59bW6) | 8:34 | 2022-09-22 |  |
 | [Poesia Acústica \#7: Céu Azul](https://open.spotify.com/track/2FGhB10Gon36GgFcOTMQEW) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica \#7: Céu Azul](https://open.spotify.com/album/5IkIpMWgmSaXO0x9gzgelo) | 9:32 | 2022-09-22 | 2023-04-06 |
+| [Preço de Sangue \- Playback](https://open.spotify.com/track/5FBRavbyHlcwoTOx4jkivK) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Salmistas](https://open.spotify.com/artist/6WVtTtridZM8vFPbOIwrig) | [Preço de Sangue \(Playback\)](https://open.spotify.com/album/4JBN7delSj5edzZlwhBT6K) | 10:05 | 2026-02-14 |  |
 | [Profundo \- Ao Vivo](https://open.spotify.com/track/6OJeJs2kIDVLmsWN53THNF) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Profundo \(Ao Vivo\)](https://open.spotify.com/album/6fgLA6sJlIBPFQOmjLTKHo) | 6:46 | 2024-11-12 |  |
 | [Que o Incenso Suba](https://open.spotify.com/track/1GhwTkRpAGNLxvMAHfH8KM) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 5:18 | 2022-09-22 | 2023-12-14 |
 | [Que O Incenso Suba](https://open.spotify.com/track/21VLSQJOf5L8isar8COPbv) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:18 | 2023-12-13 |  |

@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-219 songs - 10 hr 53 min
+220 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Focused](https://open.spotify.com/track/1jUz3W4cXv56omhrUacbwH) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 2:43 | 2023-03-12 | 2024-08-09 |
 | [Fuck Opps](https://open.spotify.com/track/0b8uFzqvwKiwMQ3hhzrt68) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:50 | 2023-04-30 | 2023-05-08 |
 | [FWM \(with Yosohn\)](https://open.spotify.com/track/6FgLgiZfogBrRLUKTL9DpW) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yosohn](https://open.spotify.com/artist/28X3uK2mhWGNFwFy145ZD4) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:21 | 2022-10-28 | 2023-04-05 |
+| [GANG](https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [GANG](https://open.spotify.com/album/1x3J6WxUBpVsk58fDM2KLf) | 3:44 | 2026-02-15 |  |
 | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR) | 3:21 | 2025-12-09 |  |
 | [GFazos](https://open.spotify.com/track/6sAuhx4dGDAoLt0Y5Wk9Vz) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:32 | 2025-04-12 | 2025-07-22 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-10-28 | 2025-06-27 |
@@ -222,7 +223,7 @@
 | [Why Would I \(feat\. G Herbo\)](https://open.spotify.com/track/0yJQDJYcNJw8BJ6b511zDP) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summertime Butch 2](https://open.spotify.com/album/09CaYHMCoNfNkZaHpTMlaG) | 2:46 | 2025-08-22 | 2025-11-09 |
 | [Why Would I \(feat\. G Herbo\)](https://open.spotify.com/track/6PkOteET6dCYHf1dWUui5t) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summertime Butch 2](https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn) | 2:46 | 2025-07-18 | 2025-08-22 |
 | [Why Would I \(feat\. G Herbo\) \- Extended](https://open.spotify.com/track/6egdly2Q01O5EGDWcO3IQ4) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Why Would I \(feat\. G Herbo\) \[Extended\]](https://open.spotify.com/album/4I53Ib8xSNSB7ve1LfrVFW) | 3:28 | 2025-08-27 | 2025-10-26 |
-| [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 | 2022-10-28 |  |
+| [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 | 2022-10-28 | 2026-02-15 |
 | [Win Again](https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 2:53 | 2025-11-09 |  |
 | [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 | 2022-10-30 |  |
 | [WTHELLY \(with G Herbo\) \- Remix](https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [WTHELLY \(with G Herbo\) \[Remix\]](https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf) | 2:56 | 2025-06-26 | 2025-09-09 |

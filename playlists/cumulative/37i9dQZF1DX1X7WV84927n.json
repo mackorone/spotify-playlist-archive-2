@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "God Forgives",
+        "url": "https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134619,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/2nU7OKyo1EZqZQYnIVjTO1"
+    },
+    {
+      "album": {
         "name": "ANGEL SONG (feat. David Draiman)",
         "url": "https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11"
       },
@@ -9969,6 +9987,24 @@
     },
     {
       "album": {
+        "name": "HEARTLESS",
+        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266141,
+      "name": "HEARTLESS",
+      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
+    },
+    {
+      "album": {
         "name": "Heartstop",
         "url": "https://open.spotify.com/album/5b5IU7SwMXORyhQDcUqQLf"
       },
@@ -17921,6 +17957,24 @@
     },
     {
       "album": {
+        "name": "PHASES",
+        "url": "https://open.spotify.com/album/2Th9N0sa9Xgp9KKUGvu6Qb"
+      },
+      "artists": [
+        {
+          "name": "SCATTERBRAIN",
+          "url": "https://open.spotify.com/artist/1qpatyjM6ORYIn2BuQbEuZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226316,
+      "name": "PHASES",
+      "url": "https://open.spotify.com/track/4lIN5l57LDzzyqKDADGpDN"
+    },
+    {
+      "album": {
         "name": "Pictures of You",
         "url": "https://open.spotify.com/album/5EC1eyGZyHGTTMQzO4YqSl"
       },
@@ -20116,7 +20170,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 352839,
       "name": "Scales Are Falling",
       "url": "https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha"
@@ -21980,7 +22034,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 206180,
       "name": "Sulfur",
       "url": "https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8"
@@ -26912,7 +26966,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 215200,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"

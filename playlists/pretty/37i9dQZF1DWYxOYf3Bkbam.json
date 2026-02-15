@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 63356,
+  "num_followers": 63393,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "El Guachito",
+      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
-      },
-      "artists": [
-        {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "El Guachito",
-      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+        "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
+        "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
       "artists": [
         {
-          "name": "Los Reyes Del Chamame",
-          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
         }
       ],
-      "duration_ms": 125826,
-      "name": "Asi Se Baila El Chamame",
-      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+      "duration_ms": 455840,
+      "name": "Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos - En Vivo",
+      "url": "https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
-        "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
       "artists": [
         {
-          "name": "Los Majestuosos Del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 455840,
-      "name": "Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos - En Vivo",
-      "url": "https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5"
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Las Penas del Provinciano",
+      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 379080,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Las Penas del Provinciano",
-      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Alguien mejor que yo",
         "url": "https://open.spotify.com/album/23LbesRfpNyt5prZ1aLJ4p"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 199233,
       "name": "Alguien mejor que yo",
       "url": "https://open.spotify.com/track/1kGMLfK5hSytnStZqz8iNs"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K"
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
         }
       ],
-      "duration_ms": 198371,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA"
+      "duration_ms": 142200,
+      "name": "Barrio la Toma",
+      "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

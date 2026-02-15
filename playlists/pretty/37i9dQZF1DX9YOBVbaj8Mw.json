@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19309,
+  "num_followers": 19307,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "September Night",
-        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
-        }
-      ],
-      "duration_ms": 380093,
-      "name": "Song for Sarah",
-      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Pie\u015bni Ludu",
         "url": "https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 178960,
       "name": "Ko\u0142omyja",
       "url": "https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "September Night",
+        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+        }
+      ],
+      "duration_ms": 380093,
+      "name": "Song for Sarah",
+      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "LIPSTICK ON THE GLASS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Vanishing",
         "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 510066,
       "name": "Haunting",
       "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "LIPSTICK ON THE GLASS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA"
     },
     {
       "added_at": "2025-04-06 08:27:45",

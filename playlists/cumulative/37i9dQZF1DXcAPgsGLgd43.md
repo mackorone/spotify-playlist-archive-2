@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-497 songs - 1 day 2 hr 36 min
+498 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [El Fogón](https://open.spotify.com/track/36sVlzJkxh7LRCxIQQ8O11) | [THEOUTSIDE](https://open.spotify.com/artist/0DpZ0tykgI2ksmmx9GwnEt), [AL SON DEL TAMBÓ](https://open.spotify.com/artist/2XEB5EQ8GHK1EXzckvBF6n) | [El Fogón](https://open.spotify.com/album/77EvwFVfp5c1fIxl6afQhb) | 2:50 | 2025-01-24 | 2025-05-17 |
 | [El Hoyo](https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [El Hoyo](https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr) | 3:35 | 2023-12-01 | 2023-12-21 |
 | [El Nacimiento](https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [El Nacimiento](https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1) | 3:23 | 2024-02-02 | 2024-02-05 |
+| [El Tiempo](https://open.spotify.com/track/6hRYhilZFq9XJtPnftuqvQ) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug), [Di\-Eis](https://open.spotify.com/artist/5QbrXQr7Feilm8DGSm6lHB) | [El Tiempo](https://open.spotify.com/album/6psj0mHDzAPFyPg9XB1qCm) | 3:06 | 2026-02-13 |  |
 | [El Tikital \- Day Mix](https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Morena](https://open.spotify.com/artist/3BWeOnJwxUekZWj9kPGGKM), [Jay Rah](https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv) | [El Tikital \(Day Mix\)](https://open.spotify.com/album/1FXhQE5t2L23FM4OwJq915) | 2:30 | 2025-02-28 | 2025-05-24 |
 | [Enamorando](https://open.spotify.com/track/58iaVWJ2Zwdge5MNRaWT5Y) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Enamorando](https://open.spotify.com/album/2DkEc0HxOp6CfLOOgoUrXW) | 3:37 | 2024-08-30 | 2024-10-26 |
 | [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 | 2024-02-18 |
@@ -383,7 +384,7 @@
 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 | 2023-11-10 |  |
 | [Reina de la Pista](https://open.spotify.com/track/5ZmOi8QTdksIUcyjvwYQGx) | [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Reina de la Pista](https://open.spotify.com/album/0QjabydE5tFFlPCfrofKfC) | 2:47 | 2025-10-17 |  |
 | [Resistencia](https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Blow \(ITA\)](https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq) | [Resistencia](https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E) | 2:43 | 2024-02-16 | 2024-05-03 |
-| [Revolu](https://open.spotify.com/track/1yDUEtPpsEYzM3eM2wI72t) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Revolu](https://open.spotify.com/album/4fG7T74X5cICSV4tGPBmBp) | 2:51 | 2025-11-07 |  |
+| [Revolu](https://open.spotify.com/track/1yDUEtPpsEYzM3eM2wI72t) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Revolu](https://open.spotify.com/album/4fG7T74X5cICSV4tGPBmBp) | 2:51 | 2025-11-07 | 2026-02-15 |
 | [Rico Rola](https://open.spotify.com/track/376UNzeHi1Bx99RPBGTzgl) | [CASA AMIGOS](https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3), [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Rico Rola](https://open.spotify.com/album/02WJDUh4iIRBroPxxMoS0b) | 2:10 | 2025-12-22 |  |
 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-05-23 |  |
 | [Ritmo](https://open.spotify.com/track/5Fc6juKKeI1G163te8UKjo) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [Ritmo](https://open.spotify.com/album/3537zCnqcxxG74usD1BLg6) | 2:40 | 2025-11-14 | 2026-02-14 |

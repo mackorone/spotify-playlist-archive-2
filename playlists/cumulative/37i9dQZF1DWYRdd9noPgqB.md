@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-448 songs - 1 day 0 hr 35 min
+449 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 | 2025-11-13 |  |
 | [Hey Lou](https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Hey Lou](https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2) | 3:40 | 2023-11-16 | 2024-03-01 |
 | [History Repeating \- Knee Length Mix](https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp), [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV) | 4:02 | 2024-02-01 | 2024-04-12 |
+| [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 | 2026-02-12 |  |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-06 |  |
 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 | 2024-12-12 | 2025-01-10 |
 | [Hooked On The Line](https://open.spotify.com/track/5J9JzqFuIo8cjybuELMN6l) | [Beth Morris](https://open.spotify.com/artist/2jnpUtu70dLxZHgoFM7isS) | [Hooked On The Line](https://open.spotify.com/album/1eFwYR6JQPfzqH98w6HYfZ) | 3:18 | 2025-05-22 | 2025-10-24 |
@@ -431,7 +432,7 @@
 | [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 | 2024-09-13 |
 | [Voyage en Italie \- Rework By nit](https://open.spotify.com/track/4Y2DyBlShSiG4B1CzQlrAl) | [Lilicub](https://open.spotify.com/artist/4qb1iMTG9N0RulBWuV621J), [nit](https://open.spotify.com/artist/40HtWrk52wYoKa7OvTded8) | [Voyage en Italie \(Rework By nit\)](https://open.spotify.com/album/5BFjNMhtTL91SH4VnVpfLA) | 3:30 | 2025-05-15 | 2025-10-03 |
 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 | 2024-01-04 | 2024-04-19 |
-| [Wait For Me](https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Wait For Me](https://open.spotify.com/album/72eW4GfBdULIVENa700Fah) | 2:39 | 2025-09-04 |  |
+| [Wait For Me](https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Wait For Me](https://open.spotify.com/album/72eW4GfBdULIVENa700Fah) | 2:39 | 2025-09-04 | 2026-02-15 |
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-02 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2025-11-13 | 2026-01-16 |
 | [Wasted Time](https://open.spotify.com/track/4zuis8Tg4TrhoQfRaKtCJ0) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Wasted Time](https://open.spotify.com/album/2Yx8F5G25DlYYh6CbAJLUj) | 3:44 | 2025-09-18 | 2025-12-04 |

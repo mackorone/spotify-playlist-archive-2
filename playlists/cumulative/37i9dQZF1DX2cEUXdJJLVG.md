@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-461 songs - 1 day 3 hr 28 min
+462 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [SHAWTS](https://open.spotify.com/track/2K55xVGnOBFwIlZLsPlYp5) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [SHAWTS](https://open.spotify.com/album/7dkctnbRQ9tsMauVbu4B6s) | 3:23 | 2022-09-09 | 2024-03-08 |
 | [She Said House](https://open.spotify.com/track/1gdU5esJvG2QqvOAuWvm3e) | [Shabi](https://open.spotify.com/artist/5rGlP49zcapuK6wZayPfYj) | [On My Mind EP](https://open.spotify.com/album/7iVBzpsC4t8usztG0SCdd5) | 5:56 | 2025-05-19 |  |
 | [Shedding](https://open.spotify.com/track/4EzIrPHgxqHbNB3ikyo0io) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Elodie Jeannette](https://open.spotify.com/artist/1S8dJy0rk4PoWBW59sxNXp) | [Shedding](https://open.spotify.com/album/5VkJBbs31x4t480lF7E5WR) | 2:42 | 2024-09-26 |  |
+| [Shine](https://open.spotify.com/track/4a7yccbzUaSQINozvymjfX) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Starbase 17](https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg) | 5:25 | 2026-02-14 |  |
 | [Shots](https://open.spotify.com/track/00pRQgbk4YSdyd4Do2RBDZ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/38qnXFBW26kjxrzLY3fRc5) | 4:31 | 2023-04-20 | 2023-05-26 |
 | [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 | 2022-09-09 | 2023-04-29 |
 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 | 2022-09-09 | 2023-07-08 |
@@ -461,7 +462,7 @@
 | [Without You](https://open.spotify.com/track/0r8vxCY5ZP9Q49FJBzwdH0) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 2:26 | 2024-05-31 | 2026-01-30 |
 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 | 2024-03-21 |
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 | 2024-09-27 |
-| [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 | 2024-07-04 |  |
+| [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 | 2024-07-04 | 2026-02-15 |
 | [You don't listen](https://open.spotify.com/track/7JjRTtAWZND9U2XoH4Il6D) | [Moodssupply](https://open.spotify.com/artist/2EqKTm9ltVzMpSWZHpSOy2) | [You don't listen](https://open.spotify.com/album/2uK8gE6zUjiZ8vfBZvL5Y3) | 2:32 | 2025-01-10 |  |
 | [You Got It](https://open.spotify.com/track/3HDzfqVlr9Fe3ZvPFOUnwP) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [FREE UP](https://open.spotify.com/album/6LjosUEO0uYlyNKpUtL3Tm) | 4:03 | 2025-08-30 |  |
 | [You're Home](https://open.spotify.com/track/3kfalsko8zp5Mvt0sPMuvL) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [You're Home](https://open.spotify.com/album/4ynSL73wIneH2Z9jP2SGgG) | 2:08 | 2024-10-17 | 2025-12-13 |

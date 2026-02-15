@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,918 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,923 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 34 | [Rebellion Rises](https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:26 |
 | 35 | [Positive Vibration \- Live](https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:16 |
 | 36 | [Weekend's Long](https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI) | 4:27 |
-| 37 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
-| 38 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:39 |
+| 37 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:39 |
+| 38 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
 | 39 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 |
 | 40 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 |
 | 41 | [Drive](https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Drive](https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 |
 | 50 | [This Train \(feat\. Willie Nelson\)](https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:38 |
 
-Snapshot ID: `aY0YAAAAAAB/K1zKCmAL2qVWvlbNiHKs`
+Snapshot ID: `aY5pgAAAAAAaxVT0ZIOwauIvzMb3VuD2`

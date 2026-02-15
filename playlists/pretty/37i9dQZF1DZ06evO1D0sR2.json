@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABm8uV7DUUsgZPZk5pgVywp",
+  "snapshot_id": "aY5pgAAAAADKMe5edlCyTdK4E7Hp0bln",
   "tracks": [
     {
       "added_at": null,
@@ -387,34 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy Is Here (Live)",
-        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Brittney Wright",
-          "url": "https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw"
-        },
-        {
-          "name": "David Wilford",
-          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
-        },
-        {
-          "name": "Trina Hairston",
-          "url": "https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz"
-        },
-        {
-          "name": "Gathering Place Worship Choir",
-          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
         }
       ],
-      "duration_ms": 643515,
-      "name": "The Great I Am - Live",
-      "url": "https://open.spotify.com/track/6CfklnHt4juAJH97bIWCEp"
+      "duration_ms": 340431,
+      "name": "Blood Still Works",
+      "url": "https://open.spotify.com/track/5udnzt45TCAMZDwwV9C822"
     },
     {
       "added_at": null,
@@ -443,18 +427,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Brittney Wright",
+          "url": "https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        },
+        {
+          "name": "Trina Hairston",
+          "url": "https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
         }
       ],
-      "duration_ms": 340431,
-      "name": "Blood Still Works",
-      "url": "https://open.spotify.com/track/5udnzt45TCAMZDwwV9C822"
+      "duration_ms": 643515,
+      "name": "The Great I Am - Live",
+      "url": "https://open.spotify.com/track/6CfklnHt4juAJH97bIWCEp"
     },
     {
       "added_at": null,
@@ -860,13 +860,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Zebulon Ellis",
-          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+          "name": "Tiffany Andrews",
+          "url": "https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP"
         }
       ],
-      "duration_ms": 201765,
-      "name": "Praise To The Rock - Live",
-      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
+      "duration_ms": 475254,
+      "name": "Promise Keeper - Live",
+      "url": "https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN"
     },
     {
       "added_at": null,
@@ -944,13 +944,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Tiffany Andrews",
-          "url": "https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP"
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
         }
       ],
-      "duration_ms": 475254,
-      "name": "Promise Keeper - Live",
-      "url": "https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN"
+      "duration_ms": 201765,
+      "name": "Praise To The Rock - Live",
+      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
     },
     {
       "added_at": null,

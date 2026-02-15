@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Angel Du$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,264,706 likes - 78 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,264,360 likes - 78 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 77 | [Save me now](https://open.spotify.com/track/59ledUSDBtJ0f4YEAf8Fxi) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 3:02 |
 | 78 | [sour diesel](https://open.spotify.com/track/14IFj2I5KD5hzxjFi6d5ds) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [LOTTO](https://open.spotify.com/album/5oX9RPR1fBvHzpgtmxVdPI) | 3:50 |
 
-Snapshot ID: `AAAAAOrWRlDr7I62iomU31Ol0xGNebCP`
+Snapshot ID: `AAAAAE0P1+WKfT7vOq64ZnqIQcON/Kml`

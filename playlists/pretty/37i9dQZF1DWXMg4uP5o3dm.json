@@ -1,6 +1,6 @@
 {
   "description": "alternative meets electronic.",
-  "num_followers": 493917,
+  "num_followers": 493948,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
         "name": "Level Days",
         "url": "https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 186150,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "glass house (feat. Braden Bales)",
-        "url": "https://open.spotify.com/album/4mrdG4VhjZD8ID201pF151"
-      },
-      "artists": [
-        {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY"
-        },
-        {
-          "name": "Braden Bales",
-          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "glass house (feat. Braden Bales)",
-      "url": "https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
         "name": "MY DEMONS",
         "url": "https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 209500,
       "name": "MY DEMONS",
       "url": "https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
+        "name": "glass house (feat. Braden Bales)",
+        "url": "https://open.spotify.com/album/4mrdG4VhjZD8ID201pF151"
+      },
+      "artists": [
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY"
+        },
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "glass house (feat. Braden Bales)",
+      "url": "https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "Body Bag (ROMES Remix)",
-        "url": "https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM"
-      },
-      "artists": [
-        {
-          "name": "DEVORA",
-          "url": "https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY"
-        },
-        {
-          "name": "ROMES",
-          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "Body Bag - ROMES Remix",
-      "url": "https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
         "name": "Bipolar Rhapsody",
         "url": "https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG"
       },
@@ -1671,18 +1651,22 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "Can't Get You Out of My Head",
-        "url": "https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV"
+        "name": "Body Bag (ROMES Remix)",
+        "url": "https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM"
       },
       "artists": [
         {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+          "name": "DEVORA",
+          "url": "https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY"
+        },
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
         }
       ],
-      "duration_ms": 190728,
-      "name": "Can't Get You Out of My Head",
-      "url": "https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo"
+      "duration_ms": 195714,
+      "name": "Body Bag - ROMES Remix",
+      "url": "https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU"
     },
     {
       "added_at": "2026-02-06 17:06:41",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
+        "name": "Can't Get You Out of My Head",
+        "url": "https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Can't Get You Out of My Head",
+      "url": "https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
         "name": "Conditions III",
         "url": "https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR"
       },
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "Can't Get Away",
-        "url": "https://open.spotify.com/album/7veuTzAuzG1rH6aOfhmnli"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Can't Get Away",
-      "url": "https://open.spotify.com/track/1ej0845F6kewdR41vhAJyk"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
         "name": "Same",
         "url": "https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 195573,
       "name": "Same",
       "url": "https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
+        "name": "Have Fun",
+        "url": "https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Have Fun",
+      "url": "https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9"
     }
   ],
   "unique_name": "Alternative Beats",

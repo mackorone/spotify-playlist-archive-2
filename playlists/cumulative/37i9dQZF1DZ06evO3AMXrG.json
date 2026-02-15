@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Bendito Vicio",
+        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271285,
+      "name": "Bendito Vicio",
+      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
+    },
+    {
+      "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/4O1tWQDZLiE3cE4fRv6a0C"
       },

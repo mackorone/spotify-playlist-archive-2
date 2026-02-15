@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77406,
+  "num_followers": 77414,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Under Tangled Silence",
-        "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 310814,
-      "name": "Waxcap",
-      "url": "https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 182189,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Under Tangled Silence",
+        "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 310814,
+      "name": "Waxcap",
+      "url": "https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Big Boy Tracks",
+        "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Big Boy Tracks",
+      "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Speed Dating",
         "url": "https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 181099,
       "name": "Dragon",
       "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Big Boy Tracks",
-        "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
-      },
-      "artists": [
-        {
-          "name": "Ahadadream",
-          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
-        },
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Big Boy Tracks",
-      "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
     },
     {
       "added_at": "2025-12-03 12:15:55",

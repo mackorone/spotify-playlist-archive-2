@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14288,
+  "num_followers": 14289,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACSj+fgc4qafDwONn9xaHQ4",
+  "snapshot_id": "aY5pgAAAAAAxpFPfAZQiYwfpc+5FSPcV",
   "tracks": [
     {
       "added_at": null,
@@ -338,11 +338,15 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 362109,
-      "name": "Akamdinelu",
-      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
+      "duration_ms": 246674,
+      "name": "Onememma (feat. Chioma Jesus)",
+      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
     },
     {
       "added_at": null,
@@ -414,15 +418,11 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 246674,
-      "name": "Onememma (feat. Chioma Jesus)",
-      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
+      "duration_ms": 362109,
+      "name": "Akamdinelu",
+      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+        "name": "Onyeoma (Good God)",
+        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+      "duration_ms": 265538,
+      "name": "Onyeoma (Good God)",
+      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyeoma (Good God)",
-        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 265538,
-      "name": "Onyeoma (Good God)",
-      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
     },
     {
       "added_at": null,

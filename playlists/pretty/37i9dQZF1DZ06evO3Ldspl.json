@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 10786,
+  "num_followers": 10790,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABkpPYNLaB3cYMkPlC/xUvi",
+  "snapshot_id": "aY5pgAAAAADJJ+i/TbctDy1n2BEDdPsv",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 30 Mejores",
-        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
       },
       "artists": [
-        {
-          "name": "Rafael Orozco",
-          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
-        },
         {
           "name": "Binomio de Oro",
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 256293,
-      "name": "El Higuer\u00f3n",
-      "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
+      "duration_ms": 257306,
+      "name": "Relicario de Besos",
+      "url": "https://open.spotify.com/track/16KEt1cp8tN0Et7BqPd4Vb"
     },
     {
       "added_at": null,
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+        "name": "Los 30 Mejores",
+        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
       "artists": [
+        {
+          "name": "Rafael Orozco",
+          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
+        },
         {
           "name": "Binomio de Oro",
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 257306,
-      "name": "Relicario de Besos",
-      "url": "https://open.spotify.com/track/16KEt1cp8tN0Et7BqPd4Vb"
+      "duration_ms": 256293,
+      "name": "El Higuer\u00f3n",
+      "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 311573,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
+      "duration_ms": 251350,
+      "name": "Nuestra Separaci\u00f3n",
+      "url": "https://open.spotify.com/track/098CkrzOpQ4vP4FieXch5c"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 251350,
-      "name": "Nuestra Separaci\u00f3n",
-      "url": "https://open.spotify.com/track/098CkrzOpQ4vP4FieXch5c"
+      "duration_ms": 311573,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186133,
+  "num_followers": 186184,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
-        "name": "People Watching (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "The Treadmill",
-      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
         "name": "Bleed (feat. Omar Apollo)",
         "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 266600,
       "name": "If I Ever Feel Better",
       "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -551,6 +551,22 @@
       "duration_ms": 201813,
       "name": "Lonely Touch",
       "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -627,6 +643,22 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
       },
@@ -671,22 +703,6 @@
       "duration_ms": 124133,
       "name": "Cryptid",
       "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
-        "name": "The Express",
-        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
-      },
-      "artists": [
-        {
-          "name": "Belleruche",
-          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Anything You Want - Not That",
-      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
+        "name": "The Express",
+        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
+      },
+      "artists": [
+        {
+          "name": "Belleruche",
+          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Anything You Want - Not That",
+      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "De Cara a la Pared",
-      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
         "name": "Paradis bleu",
         "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
       },
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "De Cara a la Pared",
+      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
         "name": "Ordinary Creature",
         "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 220226,
       "name": "Ordinary Creature",
       "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -1327,6 +1327,22 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
-        "name": "Matahari",
-        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Vacances",
-      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 282765,
       "name": "Sua Alma",
       "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
+        "name": "Matahari",
+        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Vacances",
+      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
         "name": "Hopes",
         "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
@@ -1639,6 +1655,22 @@
       "duration_ms": 164500,
       "name": "Hopes",
       "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
+    },
+    {
+      "added_at": "2026-02-13 13:38:10",
+      "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2026-02-13 13:38:10",
@@ -1663,22 +1695,6 @@
     {
       "added_at": "2026-02-13 13:38:10",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
       },
@@ -1691,26 +1707,6 @@
       "duration_ms": 209613,
       "name": "Driving on the Highway",
       "url": "https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N"
-    },
-    {
-      "added_at": "2026-02-13 13:38:10",
-      "album": {
-        "name": "Livin Alright",
-        "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 176543,
-      "name": "Livin Alright",
-      "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
     }
   ],
   "unique_name": "D\u00eener entre amis",

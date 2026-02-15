@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Gur Sidhu & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,777 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,806 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heaven](https://open.spotify.com/track/2NMhGp758inYRK2E0DnbyP) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 3:14 |
+| 1 | [Heaven](https://open.spotify.com/track/2NMhGp758inYRK2E0DnbyP) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 3:14 |
 | 2 | [Back Outside](https://open.spotify.com/track/20MyZS88tDnCTbZ5r3jNx8) | [Sardara](https://open.spotify.com/artist/7DKnu2yh5Um6jLx1AJMIjA), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Next Stop](https://open.spotify.com/album/7Fb0MYZJiLOJLkPLor9Fmk) | 2:17 |
 | 3 | [XLR8](https://open.spotify.com/track/7F8IqCKtiEanfbTtxhh9O0) | [Aishmode](https://open.spotify.com/artist/5dxbGkGHxzfb5PdZREkjtD), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd) | [XLR8](https://open.spotify.com/album/1E5nmVm5lWwongnwOxDHny) | 1:52 |
 | 4 | [Ranjheya](https://open.spotify.com/track/0ZjjObMteJKa6rMMKHIstr) | [Eklvya Kapoor](https://open.spotify.com/artist/4jmNRraohpnIzkQdHM7nJY), [EERIE APE](https://open.spotify.com/artist/1RCq8PeLUy1cRvQzKcFi68) | [Ranjheya](https://open.spotify.com/album/0rfSocZNclxlxKPsYS44KU) | 2:56 |
 | 5 | [Front Runner Philosopher](https://open.spotify.com/track/64YuZrh7Z9xYkBNv9xHw01) | [Garry Sohal](https://open.spotify.com/artist/4qfwOA6aYfTeq51AK3oRyl) | [Front Runner Philosopher](https://open.spotify.com/album/1IHknEIajHlesDVtsDvHaq) | 2:59 |
 | 6 | [JACK BOYS](https://open.spotify.com/track/66sx2uLZqBcA1xRI3w0KrH) | [AAZZAD](https://open.spotify.com/artist/5nKtqAfzif2POIB7V94U4L) | [JACK BOYS](https://open.spotify.com/album/7pK815T3Gbbl4XFtI7Bx97) | 2:24 |
-| 7 | [Bonafide](https://open.spotify.com/track/3rsiE2E0c87GG3UrkQ9Avy) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 3:45 |
+| 7 | [Bonafide](https://open.spotify.com/track/3rsiE2E0c87GG3UrkQ9Avy) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 3:45 |
 | 8 | [CODERED](https://open.spotify.com/track/6xo0o3pkL4BsJbJ8umV3G5) | [Lucky](https://open.spotify.com/artist/5Rnz5W2r1Z0c8fGvvSKzCH) | [CODERED](https://open.spotify.com/album/5uwkfalslERbNZ0rQl9AlE) | 2:37 |
 | 9 | [NAZARBANDH](https://open.spotify.com/track/1XMCUoITqrdk1hzLYcXQy3) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [YNG DRTY BSTRD](https://open.spotify.com/album/2Wg9QaAYBpUkLrfLh3yGEo) | 2:09 |
 | 10 | [Custom](https://open.spotify.com/track/0oBQwoSOx13KFMOCCoCZ19) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Saheb](https://open.spotify.com/artist/3ukEIJ46BpHQxnrWSbqaIq), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Custom](https://open.spotify.com/album/5xFz9KZUCoaxLWkJvko6YS) | 2:55 |

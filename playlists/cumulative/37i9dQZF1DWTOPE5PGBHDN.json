@@ -4653,20 +4653,24 @@
     },
     {
       "album": {
-        "name": "No hay nah",
+        "name": "No Hay Nah",
         "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
       },
       "artists": [
         {
           "name": "Sayuri & Sopholov",
           "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
         }
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188764,
-      "name": "No hay nah",
+      "name": "No Hay Nah",
       "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
     },
     {

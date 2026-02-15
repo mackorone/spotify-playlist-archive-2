@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,393 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,419 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 5 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 |
 | 6 | [J'attends que la nuit](https://open.spotify.com/track/5BNSKMQeldT2crarXj22Oi) | [Bleu nuage](https://open.spotify.com/artist/4PSY0dGrFXLJvR9vuNYTq2) | [J'attends que la nuit](https://open.spotify.com/album/4G26g6FaTg1iprwntIwoYI) | 3:11 |
 | 7 | [Veridis Quo \- Edit](https://open.spotify.com/track/39piMAGrzEeTV0yAxHRyoA) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Veridis Quo \(Edit\)](https://open.spotify.com/album/1CeIjHjsxOIo1jQkPduUfx) | 2:44 |
-| 8 | [heureux \- Mosimann Remix](https://open.spotify.com/track/3FhSaJWRHwLql2Ze69B7jj) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1), [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [heureux \(Mosimann Remix\)](https://open.spotify.com/album/2ISHcJDFSCPPNB6dDQQhZr) | 2:57 |
+| 8 | [heureux \(feat\. Mosimann\) \- Mosimann Remix](https://open.spotify.com/track/3FhSaJWRHwLql2Ze69B7jj) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1), [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [heureux \(Mosimann Remix\)](https://open.spotify.com/album/2ISHcJDFSCPPNB6dDQQhZr) | 2:57 |
 | 9 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 10 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 11 | [Self Control](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Self Control](https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni) | 2:52 |

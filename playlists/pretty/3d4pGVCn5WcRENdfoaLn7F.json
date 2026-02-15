@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 498,
+  "num_followers": 500,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACnqMsiLia4HlfxsbvgT7+7EVm6PoZ",
+  "snapshot_id": "AAACoAT7ZnoYek250cwxBsTNOux8WCgG",
   "tracks": [
     {
       "added_at": "2026-02-07 19:33:06",
@@ -1331,6 +1331,38 @@
       "duration_ms": 301333,
       "name": "Mr. Collision",
       "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
+    },
+    {
+      "added_at": "2026-02-14 17:13:02",
+      "album": {
+        "name": "The appointment (losing an old friend)",
+        "url": "https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R"
+      },
+      "artists": [
+        {
+          "name": "Trenic",
+          "url": "https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "The appointment (losing an old friend)",
+      "url": "https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj"
+    },
+    {
+      "added_at": "2026-02-14 17:59:49",
+      "album": {
+        "name": "March",
+        "url": "https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP"
+      },
+      "artists": [
+        {
+          "name": "Crafty McVillain",
+          "url": "https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP"
+        }
+      ],
+      "duration_ms": 283317,
+      "name": "March",
+      "url": "https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

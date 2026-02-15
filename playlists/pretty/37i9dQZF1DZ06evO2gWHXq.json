@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 228101,
+  "num_followers": 228106,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAChLm47DVtv5JJ/GLRYaQzu",
+  "snapshot_id": "aY5pgAAAAAAPVVtjW7a8JluRhBhQXYWy",
   "tracks": [
     {
       "added_at": null,
@@ -31,30 +31,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA M\u00c9XICO",
-        "url": "https://open.spotify.com/album/4Gp4XjYDMPh6chsHcm0chk"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 207109,
-      "name": "VIVA M\u00c9XICO",
-      "url": "https://open.spotify.com/track/2kh6djQUWo8pqR8FagrMaA"
     },
     {
       "added_at": null,
@@ -707,6 +683,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Round 1 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Round 1",
+      "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Round 7",
+        "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 214864,
+      "name": "Round 7",
+      "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Pido a la Noche",
         "url": "https://open.spotify.com/album/5A2O82embthnUakFLo7US1"
       },
@@ -735,46 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Round 7",
-        "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 214864,
-      "name": "Round 7",
-      "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Round 1 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Round 1",
-      "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tengo Que Probar",
         "url": "https://open.spotify.com/album/6RaWvAhFPcp3AthMNLi9ob"
       },
@@ -799,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Me ir\u00e9",
-      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 2 Caras",
         "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
       },
@@ -831,6 +791,22 @@
       "duration_ms": 205568,
       "name": "Round 3 (feat. C-Kan)",
       "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Me ir\u00e9",
+      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
     },
     {
       "added_at": null,
@@ -895,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Meny Mendez",
-          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
-      "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -935,6 +891,26 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
+      "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
     },
     {
       "added_at": null,
@@ -983,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Ya no hay nada",
-      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1011,6 +971,22 @@
       "duration_ms": 194754,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ya no hay nada",
+      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
     },
     {
       "added_at": null,
@@ -1159,6 +1135,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIVA M\u00c9XICO",
+        "url": "https://open.spotify.com/album/4Gp4XjYDMPh6chsHcm0chk"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 207109,
+      "name": "VIVA M\u00c9XICO",
+      "url": "https://open.spotify.com/track/2kh6djQUWo8pqR8FagrMaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
       },
@@ -1195,38 +1195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuern\u00fa (Remix)",
-        "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
       "artists": [
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Galindo Again",
-          "url": "https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Maicke Casiano",
-          "url": "https://open.spotify.com/artist/1s1kprQ0YxAfGStUKtO3n7"
+          "name": "I-Majesty",
+          "url": "https://open.spotify.com/artist/4yNVJTZaepHWcdaicjksLR"
         }
       ],
-      "duration_ms": 459413,
-      "name": "Cuern\u00fa - Remix",
-      "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
+      "duration_ms": 225400,
+      "name": "Qu\u00edmica (feat. i-Majesty)",
+      "url": "https://open.spotify.com/track/7HuVcnjU28gSmHPjvPchpY"
     }
   ],
   "unique_name": "This Is MC Davo",

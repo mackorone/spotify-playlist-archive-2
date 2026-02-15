@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,696 likes - 82 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,694 likes - 82 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 81 | [BLUNTONOMICS](https://open.spotify.com/track/2XwxYnx9hyCVKjuFb4PO7X) | [colle$ttye](https://open.spotify.com/artist/5zyCX6rodkWMsgb2lj8KO1), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [BLUNTONOMICS](https://open.spotify.com/album/5iZsSHLrvUBakGasvSzQYW) | 2:39 |
 | 82 | [SAY IT TO ME.](https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:28 |
 
-Snapshot ID: `AAAAAPsre7jBsiemVK4gkTiUzga62INf`
+Snapshot ID: `AAAAAC0zoYXrIP1ipMn/yAqM5zXpW5Ar`

@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-677 songs - 1 day 9 hr 24 min
+678 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [If We’ll Ever Be Remembered](https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [If We’ll Ever Be Remembered](https://open.spotify.com/album/39oISAQPcYRNjQqKvYroME) | 3:30 | 2022-04-29 | 2022-05-16 |
 | [Impossible \(feat\. John Martin\)](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Impossible \(feat\. John Martin\)](https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6) | 3:08 | 2022-01-07 | 2022-03-12 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2022-01-21 | 2022-01-25 |
-| [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 | 2025-05-16 |  |
+| [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 | 2025-05-16 | 2026-02-15 |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-05-17 | 2025-10-18 |
 | [In My Head](https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [In My Head](https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr) | 3:35 | 2025-02-07 | 2025-11-29 |
 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 | 2024-07-12 | 2024-09-21 |
@@ -635,6 +635,7 @@
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-19 | 2025-04-16 |
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-10-04 | 2025-01-30 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-07-01 |  |
+| [Vision Blurred](https://open.spotify.com/track/0MBZH1gMOjrF9OVyhrDAo3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Vision Blurred](https://open.spotify.com/album/49nuuneGqTobuf0FytxCyI) | 3:05 | 2026-02-13 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-29 |  |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 | 2025-05-17 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-04-21 | 2024-05-18 |

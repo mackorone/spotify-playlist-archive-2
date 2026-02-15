@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 雷同二友
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,329 likes - 107 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,334 likes - 107 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [練習](https://open.spotify.com/track/6P238Irwr8CjfgYcJHCMC6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [練習](https://open.spotify.com/album/5CcpPqUdOmbp6bRSoTp3YE) | 3:51 |
+| 1 | [練習 Baby Steps](https://open.spotify.com/track/6P238Irwr8CjfgYcJHCMC6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [練習 Baby Steps](https://open.spotify.com/album/5CcpPqUdOmbp6bRSoTp3YE) | 3:51 |
 | 2 | [Is that you?](https://open.spotify.com/track/4AvnZWwNyEmGJbbSBDFXkb) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Is that you?](https://open.spotify.com/album/1sN60G1sBTHF9Qul33oNcz) | 3:39 |
 | 3 | [最好的解藥](https://open.spotify.com/track/7eQF1qG1OstWDi3LKjKDKQ) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [最好的解藥](https://open.spotify.com/album/5zkpc1f4RBEAn6EhuVePeA) | 3:13 |
 | 4 | [枇杷](https://open.spotify.com/track/7kk5iqxiUHOaLPfnqSNHOW) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [枇杷](https://open.spotify.com/album/2se1VXV7AhCI5J3vVh3UJR) | 3:39 |

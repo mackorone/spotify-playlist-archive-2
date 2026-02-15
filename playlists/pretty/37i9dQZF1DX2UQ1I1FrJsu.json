@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 143846,
+  "num_followers": 143946,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 256560,
       "name": "Corcovado (Quiet Nights Of Quiet Stars)",
       "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Untitled (Rise)",
+        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 305829,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Untitled (Rise)",
-        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 305829,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
     },
     {
       "added_at": "2026-02-13 05:00:40",

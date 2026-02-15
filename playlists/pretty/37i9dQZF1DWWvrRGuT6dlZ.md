@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: NAZU\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,064 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,062 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 99 | [寫好的手信](https://open.spotify.com/track/6Lpb3G0DjLMwwcpczu2lEp) | [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj), [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [寫好的手信](https://open.spotify.com/album/3V4KbORBPdPfx3Jto0B8Kk) | 5:09 |
 | 100 | [Sangka Kau Suci](https://open.spotify.com/track/1VMQZjVkpMZeeh4rVwlIhW) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Sangka Kau Suci](https://open.spotify.com/album/7DknT8hWtqJGjc7FHGuisY) | 3:25 |
 
-Snapshot ID: `AAAAAOg29qUAkWLlFoHFtYqjVG2uEqCb`
+Snapshot ID: `AAAAAPImWnUXJlMHSlXRAN888bIRQIA1`

@@ -15488,8 +15488,8 @@
           "url": "https://open.spotify.com/artist/0VV4w7YPOUcNuW0UCVyUiq"
         },
         {
-          "name": "Fharid On The Beat",
-          "url": "https://open.spotify.com/artist/6MU8So0Itna1DqElU4t9vC"
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
         }
       ],
       "date_added": "2025-12-22",
@@ -24242,7 +24242,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 203833,
       "name": "LAS NEAS",
       "url": "https://open.spotify.com/track/4VPetBH68wPQ67N8LwwJAI"
@@ -46478,6 +46478,40 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "album": {
+        "name": "Trae Chicas",
+        "url": "https://open.spotify.com/album/2nSQyNzSDfxcHP8kvaS64E"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "Trae Chicas",
+      "url": "https://open.spotify.com/track/4lriStZyuWfdsGa2aitclz"
     },
     {
       "album": {

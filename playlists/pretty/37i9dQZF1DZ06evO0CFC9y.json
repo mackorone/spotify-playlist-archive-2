@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABTm2rM+0X65Cru48LeAsCY",
+  "snapshot_id": "aY5pgAAAAACy9YZfCNZslYXJcxGHecrB",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Bleeds the Black Sun...",
-        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 210474,
-      "name": "Holy Visions",
-      "url": "https://open.spotify.com/track/5DcTkTG3Z4uoQTxIv4LgPZ"
+      "duration_ms": 226026,
+      "name": "Beautiful Thieves",
+      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silver Bleeds the Black Sun...",
+        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 210474,
+      "name": "Holy Visions",
+      "url": "https://open.spotify.com/track/5DcTkTG3Z4uoQTxIv4LgPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shut Your Mouth And Open Your Eyes",
         "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 132000,
       "name": "A Single Second",
       "url": "https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "Beautiful Thieves",
-      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
     },
     {
       "added_at": null,

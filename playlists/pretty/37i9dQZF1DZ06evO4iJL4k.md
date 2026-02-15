@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,831 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,913 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 42 | [Não Sou Daqui](https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:48 |
 | 43 | [Dutumob](https://open.spotify.com/track/048DxjBJekj6Ipk7OxtkF5) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:54 |
 | 44 | [Me Deixe Leve](https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:54 |
-| 45 | [Distante](https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9) | 2:52 |
+| 45 | [7 Meiota](https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:10 |
 | 46 | [Quero Paz](https://open.spotify.com/track/2jtg6PA6LmQQa7fS0a7MbF) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:29 |
 | 47 | [Nova Sorte](https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:10 |
-| 48 | [7 Meiota](https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:10 |
+| 48 | [Distante](https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9) | 2:52 |
 | 49 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/5GflWMue0Hausplsa02rLr) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8) | 4:02 |
 | 50 | [Livre & Triste](https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:40 |
 
-Snapshot ID: `aY0YAAAAAAADU2nKUwC5RQsX42oPgK1O`
+Snapshot ID: `aY5pgAAAAABT/tiEhiEcvH0rRxWvXZdb`

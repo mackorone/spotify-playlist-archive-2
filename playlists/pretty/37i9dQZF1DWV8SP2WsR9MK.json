@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 123882,
+  "num_followers": 123930,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -739,34 +739,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
-      },
-      "artists": [
-        {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        },
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Eberhard Weber",
-          "url": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 385973,
-      "name": "Nimbus",
-      "url": "https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Imaginary Day",
         "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
       },
@@ -795,6 +767,34 @@
       "duration_ms": 386133,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
+      },
+      "artists": [
+        {
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        },
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Eberhard Weber",
+          "url": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 385973,
+      "name": "Nimbus",
+      "url": "https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "We'll Be Together Again",
-        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "The Next Step",
         "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 354293,
       "name": "Minor Blues",
       "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "We'll Be Together Again",
+        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
+      },
+      "artists": [
+        {
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Standard Brands",
         "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 348066,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
     },
     {
       "added_at": "2025-09-10 12:20:14",

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: yubiori
 
-3,003 songs - 7 day 20 hr 14 min
+3,004 songs - 7 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,7 +903,7 @@
 | [Last scene](https://open.spotify.com/track/6xJ892EOZotDPZxxzu2n3R) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Kanashī dekigoto \-The overkill\-](https://open.spotify.com/album/4lroNwCV22vfbY1z1LkdiG) | 4:22 | 2023-11-07 | 2023-11-29 |
 | [Lazy](https://open.spotify.com/track/2kZo01ECeedfL95z4zpVKf) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Lazy](https://open.spotify.com/album/3pAueoomvTwfDObLNimgOL) | 3:42 | 2024-01-16 | 2024-01-24 |
 | [LAZY](https://open.spotify.com/track/4hOX56ThfbrHQyNfBisB92) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [LAZY](https://open.spotify.com/album/0OCm5RpB0BYQhrYpH3unft) | 3:45 | 2024-04-16 | 2024-09-04 |
-| [Le matin](https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 4:42 | 2026-01-15 |  |
+| [Le matin](https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 4:42 | 2026-01-15 | 2026-02-15 |
 | [Lee Un Vile](https://open.spotify.com/track/1W6OsVcIwmrfU8BQsiCDn2) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Lee Un Vile](https://open.spotify.com/album/02yXEG4Pjz67C3pufDY2p7) | 3:38 | 2024-01-16 | 2024-01-24 |
 | [Left Unsaid](https://open.spotify.com/track/1AZzLOkvh2qA0pKwmJDY7Y) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA](https://open.spotify.com/album/07rIpcwC3NjdShBJn6GRAh) | 4:31 | 2024-01-30 | 2024-02-07 |
 | [LEGO DE GO](https://open.spotify.com/track/1VLHlAvWkjSBVLPsJ6J8L1) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [LEGO DE GO](https://open.spotify.com/album/5O1Qntcsi765q5ejlTACYa) | 3:10 | 2024-07-02 | 2024-07-10 |
@@ -2220,6 +2220,7 @@
 | [カーテンコール](https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [カーテンコール](https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W) | 2:54 | 2024-09-17 | 2024-12-11 |
 | [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
 | [ガーリーボーイ](https://open.spotify.com/track/0oRSPM7JaC60w4yuTjiMNX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ガーリーボーイ](https://open.spotify.com/album/67WHlE87BwJnEyt8CdjdV2) | 3:32 | 2024-03-12 | 2024-04-19 |
+| [ガールズトーク](https://open.spotify.com/track/2GEBhQNTwxfyHMPEMpNorJ) | [ailly](https://open.spotify.com/artist/56Z0E4q8XNBOd6wSt5mviP) | [ガールズトーク](https://open.spotify.com/album/0IjdwdBMANLOu6f2bw6BCm) | 3:00 | 2026-02-11 |  |
 | [ガールフレンド](https://open.spotify.com/track/6oqp1spnXa6dw5Y2jM8wiy) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ガールフレンド](https://open.spotify.com/album/43Ggl0UkT7sQ0x5SqFWxCS) | 2:49 | 2024-07-09 | 2024-07-17 |
 | [キスをしに](https://open.spotify.com/track/1VxzoYhB5uCRWrmlGKjWQ1) | [猫蛙](https://open.spotify.com/artist/4LoPTaiMDcYYOohGwm5T11) | [キスをしに](https://open.spotify.com/album/1L2cqfSVDXtvTBZAn1txwi) | 2:05 | 2025-03-11 | 2025-03-19 |
 | [キャラバン](https://open.spotify.com/track/1qXtgsCxVLKy3O6py8QOBS) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [キャラバン](https://open.spotify.com/album/69eePYSw1LlMDOvMZwEcQu) | 3:01 | 2025-09-30 | 2025-11-05 |

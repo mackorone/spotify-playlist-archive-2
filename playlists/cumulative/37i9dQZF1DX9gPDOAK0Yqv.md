@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-854 songs - 2 day 15 hr 27 min
+855 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Dig](https://open.spotify.com/track/6vZ3YlHYhu5ylbZb18LvGT) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Indifferent](https://open.spotify.com/album/1nkXDUfwWHb8MAHaxqJbVT) | 2:38 | 2024-10-17 | 2024-11-08 |
 | [Digital Dream](https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Digital Dream](https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr) | 3:14 | 2024-02-01 | 2024-07-17 |
 | [Disaster](https://open.spotify.com/track/0wtL1OF0pIuyVHW80faSKx) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Disaster](https://open.spotify.com/album/7aKimU3WkMXCZjQIUzqpps) | 3:45 | 2023-10-06 | 2023-10-24 |
+| [DNA](https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [DNA](https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO) | 3:16 | 2026-02-12 |  |
 | [Do It Again \- Massano Remix](https://open.spotify.com/track/02f2n3usAnFXyRejWROsHs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Do It Again \(Massano Remix\)](https://open.spotify.com/album/2EDBQsqGzhECP0x0QX8Qin) | 3:20 | 2025-10-09 |  |
 | [Do You](https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Do You EP](https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb) | 3:41 | 2025-07-25 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/47ioAhvtRfZBddY2FDJTja) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G) | [Don't Be Afraid](https://open.spotify.com/album/3Jw8czNsfsOOdtLjYlRGc6) | 3:12 | 2025-04-24 | 2025-04-30 |
@@ -221,7 +222,7 @@
 | [End Of The Beginning](https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [End Of The Beginning](https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78) | 3:40 | 2023-12-15 | 2024-04-23 |
 | [Endless Night](https://open.spotify.com/track/4HAjaDnlER0y8ievujne9P) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [In My Head](https://open.spotify.com/album/31BvViYa9rtNukhDqdCQdP) | 3:59 | 2025-01-16 | 2025-02-14 |
 | [Energy Of Life](https://open.spotify.com/track/4TvWgymXM4iswW8NCwZZSh) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Energy Of Life](https://open.spotify.com/album/2Ad0p8tuq3cLBqRxKC7yoy) | 3:20 | 2023-06-02 | 2023-06-10 |
-| [Enough](https://open.spotify.com/track/6CCMEOmpBDtetTzmP8if9o) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Enough](https://open.spotify.com/album/6vT0TayGsjWbeBu8mS7yQV) | 3:15 | 2025-07-18 |  |
+| [Enough](https://open.spotify.com/track/6CCMEOmpBDtetTzmP8if9o) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Enough](https://open.spotify.com/album/6vT0TayGsjWbeBu8mS7yQV) | 3:15 | 2025-07-18 | 2026-02-15 |
 | [Enter Machina \- widerberg Remix](https://open.spotify.com/track/3z6VgWenqNydesiIAUzt1Z) | [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Enter Machina \(widerberg Remix\)](https://open.spotify.com/album/5VNwexObDwBDLd0SbJG2vk) | 3:18 | 2024-02-29 | 2024-05-24 |
 | [Entrance](https://open.spotify.com/track/61qsLCbqMIYKWcHi0QRv9q) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Add\-us](https://open.spotify.com/artist/2LjaWk8PYlB8M4Cz6MLHGJ) | [Entrance](https://open.spotify.com/album/6vnQGepBinBhQjBUdm1hxL) | 3:16 | 2025-12-04 |  |
 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 | 2023-03-03 | 2023-03-22 |

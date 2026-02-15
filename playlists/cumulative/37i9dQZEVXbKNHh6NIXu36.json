@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -5640,7 +5640,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 159565,
       "name": "Baby Bell",
       "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
@@ -9190,6 +9190,28 @@
       "duration_ms": 132375,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/3iCckMWZpbgQCsZLBjHv3t"
+    },
+    {
+      "album": {
+        "name": "BLN",
+        "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167153,
+      "name": "BLN",
+      "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
     },
     {
       "album": {
@@ -17364,7 +17386,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
@@ -24328,6 +24350,24 @@
       "duration_ms": 198438,
       "name": "Gute Frauen lieben schlechte M\u00e4nner",
       "url": "https://open.spotify.com/track/3F2TVWHPsZoqhN0f3iPif3"
+    },
+    {
+      "album": {
+        "name": "Kinderlieder zum Tanzen",
+        "url": "https://open.spotify.com/album/1L7Xlx55nojhdaJxc3elpC"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175790,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/6ogNEis5cmjtWmhTfb85aI"
     },
     {
       "album": {
@@ -35672,7 +35712,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -41609,6 +41649,28 @@
     },
     {
       "album": {
+        "name": "Nur Mailbox",
+        "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Nur Mailbox",
+      "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
+    },
+    {
+      "album": {
         "name": "LOVE MY LIFE",
         "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
       },
@@ -43460,6 +43522,32 @@
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
+    },
+    {
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
     },
     {
       "album": {
@@ -46252,7 +46340,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -49004,7 +49092,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -54316,7 +54404,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -59566,6 +59654,28 @@
       "duration_ms": 145960,
       "name": "Uykusuz Geceler",
       "url": "https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9"
+    },
+    {
+      "album": {
+        "name": "UZI",
+        "url": "https://open.spotify.com/album/6j5RD6zFJgvcAWksvUZ6hI"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "UZI",
+      "url": "https://open.spotify.com/track/4gAYiVZJiAO72GclV4CHGz"
     },
     {
       "album": {

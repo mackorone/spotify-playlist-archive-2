@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 257392,
+  "num_followers": 257390,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANiwL9l6nZMdDXlJfvqnEXdugPVn",
+  "snapshot_id": "AAAAAPtLYJucm5JacH8SP+lMApqyYf4F",
   "tracks": [
     {
       "added_at": "2026-02-06 10:29:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
-    },
-    {
-      "added_at": "2026-02-06 10:29:00",
-      "album": {
         "name": "shoot",
         "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 214300,
       "name": "shoot",
       "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
+    },
+    {
+      "added_at": "2026-02-06 10:29:00",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": "2026-02-06 10:29:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 212790,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
-    },
-    {
-      "added_at": "2026-02-06 10:29:00",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 242746,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
+    },
+    {
+      "added_at": "2026-02-06 10:29:00",
+      "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 212790,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
     },
     {
       "added_at": "2026-02-06 10:29:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
-        "name": "life update",
-        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
-      },
-      "artists": [
-        {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
-        }
-      ],
-      "duration_ms": 245647,
-      "name": "hey, i'm tired",
-      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
-    },
-    {
-      "added_at": "2026-02-06 10:29:00",
-      "album": {
         "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
+    },
+    {
+      "added_at": "2026-02-06 10:29:00",
+      "album": {
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
     },
     {
       "added_at": "2026-02-06 10:29:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
-        "name": "KOLORCOASTER",
-        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
       "artists": [
         {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
         }
       ],
-      "duration_ms": 166595,
-      "name": "INDIGO (with u)",
-      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
+      "duration_ms": 170508,
+      "name": "Zero Pressure",
+      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
     },
     {
       "added_at": "2026-02-06 10:29:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
-        "name": "BINIverse",
-        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
+        "name": "KOLORCOASTER",
+        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
       },
       "artists": [
         {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 170508,
-      "name": "Zero Pressure",
-      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
+      "duration_ms": 166595,
+      "name": "INDIGO (with u)",
+      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
     },
     {
       "added_at": "2026-02-06 10:29:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
+        "name": "Ohaguro",
+        "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Ohaguro",
+      "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
+    },
+    {
+      "added_at": "2026-02-06 10:29:00",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
-        "name": "Ohaguro",
-        "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Ohaguro",
-      "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
-    },
-    {
-      "added_at": "2026-02-06 10:29:00",
-      "album": {
         "name": "Black Tie",
         "url": "https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 241458,
-      "name": "grateful",
-      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
-    },
-    {
-      "added_at": "2026-02-06 10:29:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "added_at": "2026-02-06 10:29:00",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
     },
     {
       "added_at": "2026-02-06 10:29:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-02-06 10:29:00",
       "album": {
+        "name": "substack girl",
+        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "substack girl",
+      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
+    },
+    {
+      "added_at": "2026-02-06 10:29:00",
+      "album": {
         "name": "Before i leave",
         "url": "https://open.spotify.com/album/7mawlJhUwLI7JyjI5xbeo7"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 203079,
       "name": "Before i leave",
       "url": "https://open.spotify.com/track/2IeZiPqF5dW3Ar0Stn0Las"
-    },
-    {
-      "added_at": "2026-02-06 10:29:00",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     }
   ],
   "unique_name": "tapioca",

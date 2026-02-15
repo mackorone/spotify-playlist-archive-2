@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1566555,
+  "num_followers": 1566663,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADy4UoRRVc0WHGFx4l4tBPc",
+  "snapshot_id": "aY5pgAAAAAC8/upuyzdN6QaA+RJsHkez",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 283733,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "Shadow Of Your Love",
+        "url": "https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 234906,
-      "name": "Hair Of The Dog",
-      "url": "https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh"
+      "duration_ms": 185573,
+      "name": "Shadow Of Your Love",
+      "url": "https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Of Your Love",
-        "url": "https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm"
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 185573,
-      "name": "Shadow Of Your Love",
-      "url": "https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1"
+      "duration_ms": 234906,
+      "name": "Hair Of The Dog",
+      "url": "https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Down On The Farm",
-      "url": "https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM"
+      "duration_ms": 187333,
+      "name": "It's Alright - Live In Houston / 1992",
+      "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Era '87-'93",
-        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 187333,
-      "name": "It's Alright - Live In Houston / 1992",
-      "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
+      "duration_ms": 208506,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
       "duration_ms": 262776,
       "name": "The General",
       "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0ivarc4umuzp5I3J7lPDJc"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0ivarc4umuzp5I3J7lPDJc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ABSU\u042fD",
         "url": "https://open.spotify.com/album/0dMoESugZcGjrttbxxxqdV"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 203138,
       "name": "ABSU\u042fD",
       "url": "https://open.spotify.com/track/7q4Miqc5itaPtd20K2gH4N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "New Rose",
-      "url": "https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 214240,
       "name": "Move To The City - Live",
       "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja"
     },
     {
       "added_at": null,

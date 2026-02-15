@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 334672,
+  "num_followers": 334745,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABf9Y1WPO0C9UF7Vv+inoKC",
+  "snapshot_id": "aY5pgAAAAABE4CajvCIWoS1YirtcyFec",
   "tracks": [
     {
       "added_at": null,
@@ -287,38 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Music (Full Moon Edition)",
         "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
     },
     {
       "added_at": null,

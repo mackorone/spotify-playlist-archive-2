@@ -4,7 +4,7 @@
 
 > Bask in the sound of soul, old and new.
 
-166 songs - 9 hr 58 min
+167 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-11-24 |  |
 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 | 2025-10-12 |  |
 | [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2024-02-28 | 2025-03-08 |
-| [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 | 2026-01-15 |  |
+| [Float](https://open.spotify.com/track/053cVLAvWvv8VIRolBs9nP) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 2:57 | 2026-01-28 |  |
+| [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 | 2026-01-15 | 2026-02-15 |
 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-09-28 | 2025-03-05 |
 | [Forget](https://open.spotify.com/track/4P02fYUDA6IzpVKElRnAcq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/3YwwkGzEWWOOqZBkBeGPx8) | 3:30 | 2025-03-09 | 2025-04-19 |
 | [Forget](https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9) | 3:30 | 2023-11-24 | 2024-04-19 |

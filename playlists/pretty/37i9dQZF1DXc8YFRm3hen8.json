@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 NTVG",
-  "num_followers": 191713,
+  "num_followers": 191764,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-02-13 03:00:20",
       "album": {
+        "name": "Ramma + Cindy Cats - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        }
+      ],
+      "duration_ms": 286035,
+      "name": "Bicho de Ciudad - Spotify Sessions",
+      "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
+    },
+    {
+      "added_at": "2026-02-13 03:00:20",
+      "album": {
         "name": "Pasos Al Costado",
         "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 267440,
       "name": "En Redondel",
       "url": "https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K"
-    },
-    {
-      "added_at": "2026-02-13 03:00:20",
-      "album": {
-        "name": "Ramma + Cindy Cats - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
-      },
-      "artists": [
-        {
-          "name": "Ramma",
-          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
-        },
-        {
-          "name": "Cindy Cats",
-          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
-        }
-      ],
-      "duration_ms": 286035,
-      "name": "Bicho de Ciudad - Spotify Sessions",
-      "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
     },
     {
       "added_at": "2026-02-13 03:00:20",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-02-13 03:00:20",
       "album": {
-        "name": "Divididos",
-        "url": "https://open.spotify.com/album/5umNRvNHP6ubJNA8q5Da8v"
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 263758,
-      "name": "Monte de olvidos",
-      "url": "https://open.spotify.com/track/5ZpD8XTJvSSXUw8p2APtjj"
+      "duration_ms": 220755,
+      "name": "La Forma de Estar Solo",
+      "url": "https://open.spotify.com/track/4QeJ4rDjV4lZtZ4Xyj0exO"
     }
   ],
   "unique_name": "Rock del D\u00eda",

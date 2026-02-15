@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,223 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,228 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 12 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 |
 | 13 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
 | 14 | [Fantasía](https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Fantasía](https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ) | 2:29 |
-| 15 | [Exatamente Igual](https://open.spotify.com/track/4sP8S3OWKfMu9IEtX1sYkS) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 3:17 |
-| 16 | [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 |
+| 15 | [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 |
+| 16 | [Exatamente Igual](https://open.spotify.com/track/4sP8S3OWKfMu9IEtX1sYkS) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 3:17 |
 | 17 | [São Amores](https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:55 |
 | 18 | [SEREIA](https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx) | 2:35 |
 | 19 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Priscila](https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
 | 50 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 |
 
-Snapshot ID: `aY0YAAAAAADG7UFuxE3iP310BaWZvZ2P`
+Snapshot ID: `aY5pgAAAAABtQdtNVETkDlxnqVGx9u5m`

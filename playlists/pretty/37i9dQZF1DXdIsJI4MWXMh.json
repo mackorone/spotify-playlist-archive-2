@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 79481,
+  "num_followers": 79522,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+      },
+      "artists": [
+        {
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+        }
+      ],
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 235600,
       "name": "Golpes y Besos",
       "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
-      },
-      "artists": [
-        {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
-        }
-      ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 217375,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 235994,
       "name": "El Chorito de Violeta",
       "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 217375,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "El Cocho",
-        "url": "https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 195353,
-      "name": "El Cocho",
-      "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "El Cocho",
+        "url": "https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 195353,
+      "name": "El Cocho",
+      "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Una Asesina",
-        "url": "https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD"
-      },
-      "artists": [
-        {
-          "name": "Kevin y Sus Lumaquinos",
-          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
-        }
-      ],
-      "duration_ms": 242472,
-      "name": "Una Asesina",
-      "url": "https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Todos a la Pista",
         "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 270883,
       "name": "Como Quisiera Poder",
       "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Una Asesina",
+        "url": "https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD"
+      },
+      "artists": [
+        {
+          "name": "Kevin y Sus Lumaquinos",
+          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
+        }
+      ],
+      "duration_ms": 242472,
+      "name": "Una Asesina",
+      "url": "https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
+        "name": "Mix del Recuerdo",
+        "url": "https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
         }
       ],
-      "duration_ms": 163790,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
+      "duration_ms": 303345,
+      "name": "Mix del Recuerdo - Que de Raro Tiene/El T\u00edo Borrachales /Tragos de Amargo Licor / El Mil Amores 1",
+      "url": "https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Mix del Recuerdo",
-        "url": "https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt"
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
       },
       "artists": [
         {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 303345,
-      "name": "Mix del Recuerdo - Que de Raro Tiene/El T\u00edo Borrachales /Tragos de Amargo Licor / El Mil Amores 1",
-      "url": "https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT"
+      "duration_ms": 163790,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Hecho y Derecho",
-        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+        "name": "Tu Amor Barato",
+        "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        },
+        {
+          "name": "Incondicionales",
+          "url": "https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Con Quien Te Olvido",
-      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
+      "duration_ms": 196862,
+      "name": "Tu Amor Barato",
+      "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1651,6 +1655,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Hecho y Derecho",
+        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+      },
+      "artists": [
+        {
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Con Quien Te Olvido",
+      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "La Vida No Vale Nada",
         "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 204255,
       "name": "La Vida No Vale Nada",
       "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Tu Amor Barato",
-        "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        },
-        {
-          "name": "Incondicionales",
-          "url": "https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog"
-        }
-      ],
-      "duration_ms": 196862,
-      "name": "Tu Amor Barato",
-      "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "En 3d y a Todo Color",
-        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
         }
       ],
-      "duration_ms": 223085,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     }
   ],
   "unique_name": "Ranchera Chilena",

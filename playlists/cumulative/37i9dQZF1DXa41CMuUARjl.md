@@ -2,7 +2,7 @@
 
 ### [All New Dance](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
 
-> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Chloé Caillet + Andre Zimmer,  KI/KI, Max Styler, Danny L Harle, DJ Minx, & more!
+> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Chloé Caillet + Andre Zimmer, KI/KI, Max Styler, Danny L Harle, DJ Minx, & more!
 
 33,501 songs - 84 day 14 hr 38 min
 
@@ -11871,7 +11871,7 @@
 | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2) | 2:40 | 2024-02-23 | 2024-03-02 |
 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/5nS4GAbtHTLQzmLRf7kkg5) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass \(Sam Feldt Remix\)](https://open.spotify.com/album/5pV6QQhxoKOEI9keLU3YFV) | 2:18 | 2022-04-29 | 2022-05-07 |
 | [GREEN LIGHT](https://open.spotify.com/track/0oWVKarVQALS2Y4HbzEz88) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GREEN LIGHT](https://open.spotify.com/album/1t4Atr7CQBnfViFQl9J1zC) | 2:00 | 2025-06-20 | 2025-06-28 |
-| [Green Light](https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Green Light](https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor) | 3:07 | 2026-02-13 |  |
+| [Green Light](https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Green Light](https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor) | 3:07 | 2026-02-13 |  |
 | [Green Light](https://open.spotify.com/track/5TWHuMFLR2SrFPBZ2pBC77) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Green Light](https://open.spotify.com/album/4ajr5pYUPH8ZJPlrGAGTsL) | 2:43 | 2020-10-02 | 2020-10-09 |
 | [Green Light \(feat\. Kate Wild\)](https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\)](https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj) | 2:37 | 2021-08-14 | 2021-08-21 |
 | [Green Light \(ft\. Megan Linnell\)](https://open.spotify.com/track/2ms2VLHcIj35LXNoQDPFqz) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [Green Light \(ft\. Megan Linnell\)](https://open.spotify.com/album/3ptZBCybCyHo1GjR7Xy831) | 3:33 | 2022-03-25 | 2022-04-02 |

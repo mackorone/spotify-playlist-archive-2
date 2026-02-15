@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-664 songs - 1 day 11 hr 47 min
+666 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Du hast mich ganz in der Hand \(I've Got You Under My Skin\)](https://open.spotify.com/track/61IzE2msyKWuVmbrFhz9Sb) | [Harald Juhnke](https://open.spotify.com/artist/7bny6ijof5zpSXItB4GOJa) | [Juhnke singt Sinatra](https://open.spotify.com/album/2mQDPrwiQcwNhmVLeUSKk4) | 3:32 | 2024-07-24 |  |
 | [Dub Experiance](https://open.spotify.com/track/14QRI6RvmHaXvtaIo9RDBz) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub From The Roots](https://open.spotify.com/album/1dlblPBgyeZ6F28MRXSWYV) | 3:40 | 2025-06-27 |  |
 | [Easy To Love](https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:20 | 2024-07-24 | 2025-02-10 |
-| [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 | 2024-07-24 |  |
+| [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 | 2024-07-24 | 2026-02-15 |
+| [Easy To Love](https://open.spotify.com/track/5N6uDGbLMGtkhObpMIdN4Q) | [Billie Holiday](https://open.spotify.com/artist/3AlWwctV5pn3Wos12XSGub) | [Grandes del Jazz](https://open.spotify.com/album/5OptfFH9g91KXEh0T7n0zl) | 3:00 | 2026-02-14 |  |
 | [Easy To Love](https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:29 | 2025-06-27 | 2025-07-10 |
 | [Easy To Love](https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:36 | 2025-01-09 | 2025-04-12 |
 | [El Alchohol](https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 4:16 | 2024-07-24 | 2025-06-28 |
@@ -648,7 +649,8 @@
 | [You Can Do No Wrong \- Remastered 2022](https://open.spotify.com/track/2VdtqoWNtdxGbkLHbEzqo2) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The King of Rockabilly \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux) | 2:22 | 2024-07-24 | 2026-02-13 |
 | [You Don't Know This Man](https://open.spotify.com/track/0RuWBmJgd6VXAGVx0kYIgo) | [Carolee Carmello](https://open.spotify.com/artist/05AYNNHK2QrbfVD1iawhp2) | [Parade \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2pIKRHaTrSHGh4yLBJMy9z) | 2:12 | 2024-07-24 |  |
 | [You Don't Remind Me](https://open.spotify.com/track/0myKUjAqkq7ChI1Fm8hd9c) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:49 | 2025-06-27 |  |
-| [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 | 2024-07-24 |  |
+| [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 | 2024-07-24 | 2026-02-15 |
+| [You Go To My Head](https://open.spotify.com/track/4nx7JRB6PajaFxZrrnBm2j) | [Billie Holiday](https://open.spotify.com/artist/3AlWwctV5pn3Wos12XSGub) | [Grandes del Jazz](https://open.spotify.com/album/5OptfFH9g91KXEh0T7n0zl) | 2:55 | 2026-02-14 |  |
 | [You Might Be](https://open.spotify.com/track/1POqDpmhzmqX0q6SIrKSnd) | [Bit Riot](https://open.spotify.com/artist/4g83Kk0qKY55Cs5OUoYoDk), [Tupreme](https://open.spotify.com/artist/4jXA5QTCivCbCzGn0c4jCb) | [You Might Be](https://open.spotify.com/album/1MeI84axh1pQ1SP28BP5xM) | 4:00 | 2024-07-24 |  |
 | [You Never Know](https://open.spotify.com/track/35wTwYw2BZs5t9rFpg14Pk) | [Donna McKechnie](https://open.spotify.com/artist/72BQq4TmDRWwv4XtiGM4ZF) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 | 2024-07-24 |  |
 | [You Remind Me](https://open.spotify.com/track/0l9eRY4OJhLkaQlh28Eh6j) | [Chris Porter](https://open.spotify.com/artist/4657QEJIOQnfUJq3hyuNtc) | [You Remind Me](https://open.spotify.com/album/5t9t1MXA6rsbysqK673nM8) | 2:58 | 2024-07-24 | 2025-06-28 |

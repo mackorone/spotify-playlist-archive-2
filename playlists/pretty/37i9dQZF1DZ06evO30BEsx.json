@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1876,
+  "num_followers": 1878,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAC6ixbZsVxM+WTGKVIsIO+B",
+  "snapshot_id": "aY5pgAAAAADqmlxK8grlkMo+pdGYCKPp",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faur\u00e9: Complete Chamber Music for Strings",
-        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
+        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
+        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        },
+        {
           "name": "Michel Dalberto",
           "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
         }
       ],
-      "duration_ms": 232995,
-      "name": "Faur\u00e9: Sicilienne, Op. 78",
-      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
+      "duration_ms": 185080,
+      "name": "Saint-Sa\u00ebns: Le carnaval des animaux: XIII. Le cygne",
+      "url": "https://open.spotify.com/track/4kPOuzgsbpOEKCrCgAng4G"
     },
     {
       "added_at": null,
@@ -435,30 +439,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
-        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
+        "name": "Faur\u00e9: Complete Chamber Music for Strings",
+        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        },
-        {
           "name": "Michel Dalberto",
           "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
         }
       ],
-      "duration_ms": 185080,
-      "name": "Saint-Sa\u00ebns: Le carnaval des animaux: XIII. Le cygne",
-      "url": "https://open.spotify.com/track/4kPOuzgsbpOEKCrCgAng4G"
+      "duration_ms": 232995,
+      "name": "Faur\u00e9: Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 817826,
-      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 181197,
       "name": "Cohen / Orch. Ducros: Hallelujah",
       "url": "https://open.spotify.com/track/5LVKR4ytJ1vn9H4dD5GwhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 817826,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
     },
     {
       "added_at": null,
@@ -1035,13 +1035,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+        "name": "Sensations - Over the Rainbow (From \"The Wizard of Oz\")",
+        "url": "https://open.spotify.com/album/6RsYVC41W34RaGmbZcvldE"
       },
       "artists": [
         {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -1050,11 +1050,19 @@
         {
           "name": "Jerome Ducros",
           "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Towards the Light",
-      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
+      "duration_ms": 253253,
+      "name": "Over the Rainbow (From \"The Wizard of Oz\")",
+      "url": "https://open.spotify.com/track/2ml9Di37kZ6FjDC4pj94A5"
     },
     {
       "added_at": null,
@@ -1087,13 +1095,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensations - Over the Rainbow (From \"The Wizard of Oz\")",
-        "url": "https://open.spotify.com/album/6RsYVC41W34RaGmbZcvldE"
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
       "artists": [
         {
-          "name": "Harold Arlen",
-          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -1102,19 +1110,11 @@
         {
           "name": "Jerome Ducros",
           "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 253253,
-      "name": "Over the Rainbow (From \"The Wizard of Oz\")",
-      "url": "https://open.spotify.com/track/2ml9Di37kZ6FjDC4pj94A5"
+      "duration_ms": 200360,
+      "name": "Towards the Light",
+      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
     },
     {
       "added_at": null,
@@ -1195,6 +1195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Capucelli",
+        "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+        }
+      ],
+      "duration_ms": 290306,
+      "name": "Delibes: Lakm\u00e9, Act 1: Duo des fleurs (Transcr. Ducros for Cello Ensemble)",
+      "url": "https://open.spotify.com/track/52LED4jd2BKyd9FWQH2s0k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Studying with Relaxing Classical Music",
         "url": "https://open.spotify.com/album/6wOT3uLx11ITi5lsdICEWk"
       },
@@ -1215,34 +1235,6 @@
       "duration_ms": 82306,
       "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
       "url": "https://open.spotify.com/track/0KpCsWZBwGh3f4zTUjqTF3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Armand Amar",
-          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
-        }
-      ],
-      "duration_ms": 342626,
-      "name": "Boreas",
-      "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
     },
     {
       "added_at": null,
@@ -1275,22 +1267,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capucelli",
-        "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
       "artists": [
         {
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
+        },
+        {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         },
         {
           "name": "Capucelli",
           "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 290306,
-      "name": "Delibes: Lakm\u00e9, Act 1: Duo des fleurs (Transcr. Ducros for Cello Ensemble)",
-      "url": "https://open.spotify.com/track/52LED4jd2BKyd9FWQH2s0k"
+      "duration_ms": 342626,
+      "name": "Boreas",
+      "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Rubio
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,314 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,310 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [La Primera Luz](https://open.spotify.com/track/3NiBKMMrU7gyWMtuuGivZN) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [La Primera Luz](https://open.spotify.com/album/2AxbnQKs5sRvx0xpYSBKNm) | 4:45 |
 | 100 | [Lo que siento](https://open.spotify.com/track/4Mb76g48JCUm7QXa9hgubF) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Lo que siento](https://open.spotify.com/album/6TOz62eybIRIzp9l6KP5vV) | 3:37 |
 
-Snapshot ID: `AAAAAKORciydvntKiPta1xKOkyRgjeT/`
+Snapshot ID: `AAAAAB8ODv521WxClJBxdRok+HNcnDSC`

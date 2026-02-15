@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191281,
+  "num_followers": 191270,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Truce (Acoustic)",
-        "url": "https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 222983,
-      "name": "Truce - Acoustic",
-      "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "August Parker",
         "url": "https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 199000,
       "name": "Eight",
       "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Truce (Acoustic)",
+        "url": "https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 222983,
+      "name": "Truce - Acoustic",
+      "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Never Again",
-        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
-      },
-      "artists": [
-        {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "I Don\u00b4t Feel",
         "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 208944,
       "name": "I Don\u00b4t Feel",
       "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 153164,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "My Child, My Friend - Anchor",
         "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 152146,
       "name": "My Child, My Friend",
       "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 153164,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Bleeding Colours",
-        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
-      },
-      "artists": [
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 220543,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Leaving - Reminisce",
         "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 324453,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Bleeding Colours",
+        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
+      },
+      "artists": [
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "duration_ms": 220543,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Sincerely, Sevens",
+        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Moonlit Parade",
         "url": "https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 217949,
       "name": "EMBERS",
       "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Sincerely, Sevens",
-        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
-      },
-      "artists": [
-        {
-          "name": "Loki Project",
-          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
+      },
+      "artists": [
+        {
+          "name": "Loki Project",
+          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Where's The Fun In That?",
         "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 148125,
       "name": "Where's The Fun In That?",
       "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+      },
+      "artists": [
+        {
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
-      },
-      "artists": [
-        {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "The Seasons: Winter",
         "url": "https://open.spotify.com/album/1Ky0DgdzRVJmFdYA4cuuVf"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 198806,
       "name": "When Everything Was Right",
       "url": "https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1327,22 +1343,6 @@
       "duration_ms": 246773,
       "name": "no difference (ft. LUWTEN)",
       "url": "https://open.spotify.com/track/3Pve3DY4yQ2CxXdaESmSZ2"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-02-12 23:00:28",

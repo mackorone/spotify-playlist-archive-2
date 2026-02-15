@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...  \ud83d\udc96 Playa Limbo en portada.",
-  "num_followers": 556104,
+  "num_followers": 556167,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2026-02-13 06:00:04",
+      "album": {
         "name": "Conmigo Sin Ti",
         "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 193714,
       "name": "Conmigo Sin Ti",
       "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
-    },
-    {
-      "added_at": "2026-02-13 06:00:04",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2026-02-13 06:00:04",
-      "album": {
         "name": "Una Lady Como T\u00fa",
         "url": "https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 213026,
       "name": "Una Lady Como T\u00fa",
       "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
+    },
+    {
+      "added_at": "2026-02-13 06:00:04",
+      "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 115007,
-      "name": "Querida Yo",
-      "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
+      "duration_ms": 211946,
+      "name": "\u00bfC\u00f3mo Pagarte?",
+      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
+      "duration_ms": 115007,
+      "name": "Querida Yo",
+      "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
-    },
-    {
-      "added_at": "2026-02-13 06:00:04",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 279000,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2026-02-13 06:00:04",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 217322,
+      "name": "Aunque Sea Un Momento",
+      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
+    },
+    {
+      "added_at": "2026-02-13 06:00:04",
+      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 206253,
       "name": "Caminar de Tu Mano (feat. Fonseca)",
       "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
-    },
-    {
-      "added_at": "2026-02-13 06:00:04",
-      "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 217322,
-      "name": "Aunque Sea Un Momento",
-      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
+        "name": "Otra Vez (One More Time)",
+        "url": "https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "duration_ms": 193161,
+      "name": "Otra Vez (One More Time)",
+      "url": "https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj"
+    },
+    {
+      "added_at": "2026-02-13 06:00:04",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -1359,26 +1375,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2026-02-13 06:00:04",
-      "album": {
-        "name": "LA 8VA MARAVILLA",
-        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 204861,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/1heIify4NygHEzqrozuVKK"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1403,6 +1399,26 @@
       "duration_ms": 225680,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
+    },
+    {
+      "added_at": "2026-02-13 06:00:04",
+      "album": {
+        "name": "LA 8VA MARAVILLA",
+        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 204861,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/1heIify4NygHEzqrozuVKK"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1435,22 +1451,6 @@
       "duration_ms": 249973,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
-    },
-    {
-      "added_at": "2026-02-13 06:00:04",
-      "album": {
-        "name": "Otra Vez (One More Time)",
-        "url": "https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM"
-      },
-      "artists": [
-        {
-          "name": "CD9",
-          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
-        }
-      ],
-      "duration_ms": 193161,
-      "name": "Otra Vez (One More Time)",
-      "url": "https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
-    },
-    {
-      "added_at": "2026-02-13 06:00:04",
-      "album": {
         "name": "Enam\u00f3rate De Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2026-02-13 06:00:04",
       "album": {
-        "name": "Sirope",
-        "url": "https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc"
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 311177,
-      "name": "A Que No Me Dejas",
-      "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
+      "duration_ms": 244893,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
     },
     {
       "added_at": "2026-02-13 06:00:04",
@@ -1615,6 +1599,22 @@
       "duration_ms": 304426,
       "name": "Alucinado",
       "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
+    },
+    {
+      "added_at": "2026-02-13 06:00:04",
+      "album": {
+        "name": "Sirope",
+        "url": "https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 311177,
+      "name": "A Que No Me Dejas",
+      "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
     },
     {
       "added_at": "2026-02-13 06:00:04",

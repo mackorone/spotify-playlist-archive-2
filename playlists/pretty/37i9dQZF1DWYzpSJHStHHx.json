@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484014,
+  "num_followers": 483992,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
-      },
-      "artists": [
-        {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "News of the Universe",
         "url": "https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212075,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "I AM NOT SO TALL",
-        "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
-      },
-      "artists": [
-        {
-          "name": "Camp Blu",
-          "url": "https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I AM NOT SO TALL",
-      "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Out Of Here",
         "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 151838,
       "name": "Out Of Here",
       "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "I AM NOT SO TALL",
+        "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
+      },
+      "artists": [
+        {
+          "name": "Camp Blu",
+          "url": "https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I AM NOT SO TALL",
+      "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 124636,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Welcome Back (To The//Glow)",
         "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 285824,
       "name": "Welcome Back (To The//Glow)",
       "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 124636,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
       },
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
+        "name": "Stargazer",
+        "url": "https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID"
       },
       "artists": [
         {
-          "name": "Lavalove",
-          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+          "name": "Yellow The Sun",
+          "url": "https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag"
         }
       ],
-      "duration_ms": 187345,
-      "name": "Keep on",
-      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+      "duration_ms": 182186,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Stargazer",
-        "url": "https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
       },
       "artists": [
         {
-          "name": "Yellow The Sun",
-          "url": "https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag"
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
+      "duration_ms": 187345,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
     },
     {
       "added_at": "2026-01-23 05:00:19",

@@ -1,29 +1,13 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 297101,
+  "num_followers": 297148,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAAm7+/YAA0DsdvwZ/943TOv",
+  "snapshot_id": "aY5pgAAAAACFyE5ghAkyneduXl1l/8Ji",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where's My Phone?",
-        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Where's My Phone?",
-      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
-    },
     {
       "added_at": null,
       "album": {
@@ -139,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+        "name": "Where's My Phone?",
+        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
       },
       "artists": [
         {
@@ -148,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 180999,
-      "name": "Once More to See You",
-      "url": "https://open.spotify.com/track/3NE5nGm06kB8QQbQqJaOke"
+      "duration_ms": 189853,
+      "name": "Where's My Phone?",
+      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
     },
     {
       "added_at": null,
@@ -171,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
       "artists": [
         {
@@ -180,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Liquid Smooth",
-      "url": "https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9"
+      "duration_ms": 180999,
+      "name": "Once More to See You",
+      "url": "https://open.spotify.com/track/3NE5nGm06kB8QQbQqJaOke"
     },
     {
       "added_at": null,
@@ -199,6 +183,22 @@
       "duration_ms": 137141,
       "name": "Me and My Husband",
       "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Liquid Smooth",
+      "url": "https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Brand New City",
-      "url": "https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 156145,
       "name": "A Pearl",
       "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Brand New City",
+      "url": "https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Abbey",
-      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 136667,
       "name": "Pink in the Night",
       "url": "https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Abbey",
+      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 109824,
-      "name": "Class of 2013",
-      "url": "https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 135313,
       "name": "Remember My Name",
       "url": "https://open.spotify.com/track/6QqUgSjdtWhqsEdz72XhCD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 109824,
+      "name": "Class of 2013",
+      "url": "https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D"
     },
     {
       "added_at": null,

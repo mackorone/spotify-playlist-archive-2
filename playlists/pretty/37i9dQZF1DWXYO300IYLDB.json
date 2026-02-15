@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138400,
+  "num_followers": 138390,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -303,6 +303,26 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -323,22 +343,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "Car",
         "url": "https://open.spotify.com/album/3xyXLClEJrzpQhLnitBVnb"
       },
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Everywhere, Everything (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+      "duration_ms": 194543,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 243720,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
-        "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "\u305d\u3063\u3051\u306a\u3044",
-      "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "Get Lucky",
         "url": "https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 231983,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
+        "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "\u305d\u3063\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+        "name": "Six Degrees",
+        "url": "https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
+      "duration_ms": 194838,
+      "name": "Six Degrees",
+      "url": "https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Six Degrees",
-        "url": "https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA"
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
       },
       "artists": [
         {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        },
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 194838,
-      "name": "Six Degrees",
-      "url": "https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt"
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "I Know (A Little)",
-        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "I Know (A Little)",
-      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "Forever Howlong",
         "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 257547,
       "name": "Goodbye (Don\u2019t Tell Me)",
       "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "I Know (A Little)",
+        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "I Know (A Little)",
+      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Heaven (Butterflies)",
-        "url": "https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Heaven (Butterflies)",
-      "url": "https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 197000,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "Heaven (Butterflies)",
+        "url": "https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Heaven (Butterflies)",
+      "url": "https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
+        "name": "Ding-dong",
+        "url": "https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl"
+      },
+      "artists": [
+        {
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+        }
+      ],
+      "duration_ms": 153642,
+      "name": "Ding-dong",
+      "url": "https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
-        "name": "Ding-dong",
-        "url": "https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl"
-      },
-      "artists": [
-        {
-          "name": "Mao Abe",
-          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
-        }
-      ],
-      "duration_ms": 153642,
-      "name": "Ding-dong",
-      "url": "https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0"
     },
     {
       "added_at": "2026-02-05 15:00:09",

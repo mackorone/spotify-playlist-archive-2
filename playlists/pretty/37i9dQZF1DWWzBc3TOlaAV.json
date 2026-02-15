@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 994014,
+  "num_followers": 994133,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Tommy (Remastered 2013 Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5OISW6z3D02yCZn06mR1or"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 180943,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/60C8zGPTdAAmDshHnMuyfc"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2024-07-05 23:26:53",

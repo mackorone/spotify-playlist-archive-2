@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-367 songs - 1 day 2 hr 57 min
+368 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [mellow](https://open.spotify.com/track/1VJ77OFm7zzfLcAaV7feNd) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [mellow](https://open.spotify.com/album/67z28TWSWLl0K40wnmVmal) | 5:44 | 2022-01-07 | 2025-12-03 |
 | [melt](https://open.spotify.com/track/1OBYLRZN5dnufdxtTlmBZ1) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Sui](https://open.spotify.com/album/7iX6y044SXbJ9Rg0GWxgMh) | 2:40 | 2022-01-07 | 2025-11-28 |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
-| [MIRAGE](https://open.spotify.com/track/0eVoDBK5Ye4KD7mAWCsvAG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MIRAGE](https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI) | 2:12 | 2026-01-31 |  |
+| [MIRAGE](https://open.spotify.com/track/0eVoDBK5Ye4KD7mAWCsvAG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MIRAGE](https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI) | 2:12 | 2026-01-31 | 2026-02-15 |
 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 | 2024-06-15 |  |
 | [Mirrors of Still Light](https://open.spotify.com/track/3SWw83rPPkoTA2Vkg7GSiH) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Mirrors of Still Light](https://open.spotify.com/album/5yFNswrkN1lATKr3USIrW2) | 3:36 | 2025-08-20 | 2025-09-03 |
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 | 2025-04-17 |
@@ -240,6 +240,7 @@
 | [Rain](https://open.spotify.com/track/412C2GI5PBX8xkXyMsYfsA) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Rain](https://open.spotify.com/album/7BszHuPZtbiKu0z4nZoF07) | 1:37 | 2025-12-02 |  |
 | [raitenn](https://open.spotify.com/track/6TN0dfPDwMchr4wrVYmc63) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kingen](https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf) | 3:02 | 2023-03-11 | 2023-08-19 |
 | [Rear View](https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:22 | 2023-01-13 | 2025-05-07 |
+| [reflexion](https://open.spotify.com/track/1y9G6HMl6O8KjiqFtbSSln) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [reflexion](https://open.spotify.com/album/4GPjix84e1rc8JLsmEBkk9) | 1:56 | 2026-02-10 |  |
 | [Refu](https://open.spotify.com/track/0nr7iWQZW0bHDeK4SiuZnD) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Lu](https://open.spotify.com/album/5siMengKn4MqakEPyEv2sI) | 7:28 | 2025-03-21 |  |
 | [Remain Radiant \-ambient](https://open.spotify.com/track/0UyFZbBpuRbysRftjbIJQF) | [★STAR GUiTAR](https://open.spotify.com/artist/2c2u1DQ1MHOkHL1tVMV3n6), [Akiyoshi Yasuda](https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW) | [Everything gold can stay](https://open.spotify.com/album/4f7gVQcQCO68BqyeLDKLNA) | 2:44 | 2025-10-03 | 2025-12-03 |
 | [Respiro, Life and Fallen Leaves](https://open.spotify.com/track/4hQdPxjmJh4WA1iUMcOQ3j) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [KOMOREVIA](https://open.spotify.com/album/2W0deqWRQnSdvfJOccMtSw) | 4:52 | 2026-01-09 |  |

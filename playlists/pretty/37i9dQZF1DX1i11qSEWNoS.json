@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 641539,
+  "num_followers": 641591,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 116465,
-      "name": "MONEY ON THE DASH - SPED UP",
-      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
         "name": "WHO'S THAT",
         "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
       },
@@ -847,26 +827,6 @@
       "duration_ms": 140009,
       "name": "WHO'S THAT",
       "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -887,6 +847,26 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -931,6 +911,26 @@
       "duration_ms": 125076,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
         "name": "Erinner mich",
         "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 151409,
       "name": "Erinner mich",
       "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1207,6 +1203,26 @@
       "duration_ms": 156176,
       "name": "KNUTSCHFLECK",
       "url": "https://open.spotify.com/track/4cfqkdJ1CdSnwmM4UdfPiY"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
         "name": "All of the Lights",
         "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 120000,
       "name": "All of the Lights",
       "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1503,26 +1503,18 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "Transgender",
-        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
+        "name": "Biertornado",
+        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Police In Paris",
-          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+          "name": "PA69",
+          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
         }
       ],
-      "duration_ms": 176516,
-      "name": "Transgender",
-      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+      "duration_ms": 218417,
+      "name": "Biertornado",
+      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1547,18 +1539,26 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "Biertornado",
-        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
+        "name": "Transgender",
+        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
       },
       "artists": [
         {
-          "name": "PA69",
-          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
         }
       ],
-      "duration_ms": 218417,
-      "name": "Biertornado",
-      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+      "duration_ms": 176516,
+      "name": "Transgender",
+      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
-      },
-      "artists": [
-        {
-          "name": "DJ Redblack",
-          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 122585,
-      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
-      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
         "name": "Explodiert",
         "url": "https://open.spotify.com/album/6oT5hbuwAZBggkH8WlzyFb"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 158895,
       "name": "Explodiert",
       "url": "https://open.spotify.com/track/6TwxfbWv60uq6SoskPJM8i"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
+      },
+      "artists": [
+        {
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 122585,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
+      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1755,26 +1755,22 @@
     {
       "added_at": "2026-02-12 23:00:33",
       "album": {
-        "name": "Bar Song (Tipsy Techno)",
-        "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
       },
       "artists": [
         {
-          "name": "GRATIFY",
-          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
         },
         {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "Norman Alexander",
-          "url": "https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 135242,
-      "name": "Bar Song (Tipsy Techno)",
-      "url": "https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh"
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1795,6 +1791,30 @@
       "duration_ms": 160886,
       "name": "HERZBLATT (AUA AUA)",
       "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
+    },
+    {
+      "added_at": "2026-02-12 23:00:33",
+      "album": {
+        "name": "Bar Song (Tipsy Techno)",
+        "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
+      },
+      "artists": [
+        {
+          "name": "GRATIFY",
+          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Norman Alexander",
+          "url": "https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts"
+        }
+      ],
+      "duration_ms": 135242,
+      "name": "Bar Song (Tipsy Techno)",
+      "url": "https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh"
     },
     {
       "added_at": "2026-02-12 23:00:33",
@@ -1839,26 +1859,6 @@
       "duration_ms": 154285,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
-    },
-    {
-      "added_at": "2026-02-12 23:00:33",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     }
   ],
   "unique_name": "schiebt anders",

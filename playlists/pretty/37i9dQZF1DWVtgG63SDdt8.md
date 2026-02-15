@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,399 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,432 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 33 | [Oh You Bring](https://open.spotify.com/track/5IMoWQsNHcX70rtAUimNU9) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Oh You Bring](https://open.spotify.com/album/2i8NNT7kXq1IgnZXOXIBsl) | 4:04 |
 | 34 | [Lay Our Crowns \- Live](https://open.spotify.com/track/2BUfPaphxpLcniQi8R5MVr) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Jacob Cantrell](https://open.spotify.com/artist/3vRlp48MEXs2uuVGKhZtro), [Rachel Jacques](https://open.spotify.com/artist/7cuz3y2iNqIv0mzn8swTDY) | [Lay Our Crowns \(Live\)](https://open.spotify.com/album/6EKndFkzp3AhmmwATF9Ufk) | 5:34 |
 | 35 | [Blood Of Christ](https://open.spotify.com/track/4FpSdYB6a8U97dVgZaThML) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Blood Of Christ](https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l) | 7:15 |
-| 36 | [God Is Able \- Live](https://open.spotify.com/track/09QVYxXcq3niEC4DzLvDVC) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa) | [The Commons Chapel Deluxe](https://open.spotify.com/album/2Dr3EBtHU1PY6HYn5DK3DH) | 4:43 |
+| 36 | [God Is Able](https://open.spotify.com/track/09QVYxXcq3niEC4DzLvDVC) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa) | [The Commons Chapel \(Deluxe\)](https://open.spotify.com/album/2Dr3EBtHU1PY6HYn5DK3DH) | 4:43 |
 | 37 | [YOUR WAY'S BETTER](https://open.spotify.com/track/6vxUmCFmAu8eZ9fxh7KSRb) | [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [YOUR WAY'S BETTER](https://open.spotify.com/album/1vcGeEluIVhjmlfqpEhWii) | 5:25 |
 | 38 | [Can You See It](https://open.spotify.com/track/3BfYZUQzROsleMiBRgiaNs) | [NCS Collective](https://open.spotify.com/artist/3VJODy3fkkgfZmlDqlO8sY), [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Can You See It](https://open.spotify.com/album/6tMxqRt8dHLcFOlmcARaBf) | 4:35 |
 | 39 | [He Lives](https://open.spotify.com/track/6HRrYSbJHcy4oKdgU1pqzs) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ), [Brian Connelly](https://open.spotify.com/artist/568sD5Ea5m8svijwp9cmZe) | [He Lives](https://open.spotify.com/album/6TPj51KKvfmiRtwcEJ3Sid) | 4:24 |

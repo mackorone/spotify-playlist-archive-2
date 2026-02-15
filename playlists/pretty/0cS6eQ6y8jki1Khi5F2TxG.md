@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cS6eQ6y8jki1Khi5F2TxG.md) - [plain]
 
 > Music is Universal🌈 Party with this pride playlist full of LGBTQIA+ anthems and iconic pop songs, with Lady Gaga, Chappell Roan, Troye Sivan and more!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 25,950 likes - 96 songs - 5 hr 39 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 25,946 likes - 96 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/0cS6eQ6y8jki1Khi5F2TxG.md) - [plain]
 | 11 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 12 | [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 |
 | 13 | [Guess featuring billie eilish](https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:23 |
-| 14 | [Lotje](https://open.spotify.com/track/7zFjsKFkljAWO6ijUEgILv) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/3fO874HKRPQnlnXM6Uufiz) | 2:46 |
+| 14 | [Lotje](https://open.spotify.com/track/7zFjsKFkljAWO6ijUEgILv) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/3fO874HKRPQnlnXM6Uufiz) | 2:46 |
 | 15 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
 | 16 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 17 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |

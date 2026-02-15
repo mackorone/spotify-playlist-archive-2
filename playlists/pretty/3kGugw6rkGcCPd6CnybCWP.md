@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 75 songs - 4 hr 26 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 78 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 73 | [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 |
 | 74 | [Dreaming of you](https://open.spotify.com/track/470owFy9zXfoCVqXlWgOX4) | [Huggis Hill](https://open.spotify.com/artist/4w4L2XzPmIkhX5eP35IP7c) | [Dreaming of you](https://open.spotify.com/album/3TBYX9eWTrcy6ehh9U4E6N) | 3:13 |
 | 75 | [With You](https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [With You](https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT) | 3:21 |
+| 76 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 |
+| 77 | [Velvet Afterglow](https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79) | [The Drixes](https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s) | [Velvet Afterglow](https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ) | 3:53 |
+| 78 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 |
 
-Snapshot ID: `AAANSBNTAsz86kRvLy3OJvdBz1g2gj8f`
+Snapshot ID: `AAANSxOQPBEnzdxQhAPmHpl5K5kd1WDg`

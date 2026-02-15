@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 267130,
+  "num_followers": 267172,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 185734,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185734,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Tonto Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 284706,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "No Es una Novela",
-      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Sangre De Mis Venas",
         "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 249034,
       "name": "Sangre De Mis Venas",
       "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "No Es una Novela",
+      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Bachatas Para La Historia",
         "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 210991,
       "name": "Eso da Pa To",
       "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Cari\u00f1o de Mi Vida",
+        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
+      },
+      "artists": [
+        {
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "La Historia de Mi Vida: El Final, Vol. 1",
         "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 243500,
       "name": "Bellas",
       "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Cari\u00f1o de Mi Vida",
-        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
-      },
-      "artists": [
-        {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
     },
     {
       "added_at": "2024-08-23 04:59:00",

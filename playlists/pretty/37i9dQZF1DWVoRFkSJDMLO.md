@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > World music from the continent to the islands with Sofia Ly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,193 likes - 65 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,218 likes - 65 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DON'T LOVE ME](https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/7wOSqpCqcAd6CEns2C9onZ) | 3:01 |
 | 2 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
 | 3 | [Who’s Better](https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Who's Better](https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1) | 2:54 |
-| 4 | [They Love Me](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [They Love Me](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
+| 4 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 5 | [Pam Pam Pam](https://open.spotify.com/track/0rAaMscdc9Rrs0fMc3BXKD) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Echelon Beatz](https://open.spotify.com/artist/61znra23oiOShvDCDC32Gh) | [Pam Pam Pam](https://open.spotify.com/album/2M8vkoHzc8l77iWO5wgYgE) | 2:59 |
 | 6 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 7 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |

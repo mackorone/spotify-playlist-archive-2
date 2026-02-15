@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 盧可沛 \(Look\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,004 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,003 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

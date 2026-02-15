@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1607026,
+  "num_followers": 1606946,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Love Songs For Robots",
-        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 292953,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/5E8MFkrcyd9w621kmLhDFO"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Falling Faster Than You Can Run",
         "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 250209,
       "name": "Don't Get Too Close",
       "url": "https://open.spotify.com/track/7j2HvuXMC7lcU5DpNfDPhG"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Love Songs For Robots",
+        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 292953,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/5E8MFkrcyd9w621kmLhDFO"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Roll",
-        "url": "https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH"
-      },
-      "artists": [
-        {
-          "name": "Ethan Parker",
-          "url": "https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "Roll",
-      "url": "https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
         "url": "https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 238298,
       "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
       "url": "https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Roll",
+        "url": "https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH"
+      },
+      "artists": [
+        {
+          "name": "Ethan Parker",
+          "url": "https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l"
+        }
+      ],
+      "duration_ms": 205625,
+      "name": "Roll",
+      "url": "https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "The Lingering",
-        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 183877,
-      "name": "How We Used to Love",
-      "url": "https://open.spotify.com/track/6XkChVvxj0Cakfae17NaK3"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "The War Inside (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 226967,
       "name": "I'm so in Love with You (feat. Seth Avett)",
       "url": "https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "The Lingering",
+        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 183877,
+      "name": "How We Used to Love",
+      "url": "https://open.spotify.com/track/6XkChVvxj0Cakfae17NaK3"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "PANDAMONIUM!",
-        "url": "https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU"
-      },
-      "artists": [
-        {
-          "name": "Trash Panda",
-          "url": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
-        }
-      ],
-      "duration_ms": 204865,
-      "name": "So Sweet",
-      "url": "https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Love You the Most",
         "url": "https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 171928,
       "name": "Love You the Most",
       "url": "https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "PANDAMONIUM!",
+        "url": "https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU"
+      },
+      "artists": [
+        {
+          "name": "Trash Panda",
+          "url": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
+        }
+      ],
+      "duration_ms": 204865,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6"
     },
     {
       "added_at": "2025-06-26 15:53:58",

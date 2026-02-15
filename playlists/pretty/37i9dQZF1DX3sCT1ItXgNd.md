@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop e español\. Foto: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,273 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,235 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 50 | [Como antes](https://open.spotify.com/track/02EhNgUPJyhXE4bYkawztZ) | [Funzo](https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Como antes](https://open.spotify.com/album/3dHqtk62eJUiKyVcQOdzjP) | 3:09 |
 
-Snapshot ID: `AAAAAMh+hDHhwiAQJHjrWaU/VCL/VoaL`
+Snapshot ID: `AAAAACjkyRIMN9BbH27M+l/A2+OuDSui`

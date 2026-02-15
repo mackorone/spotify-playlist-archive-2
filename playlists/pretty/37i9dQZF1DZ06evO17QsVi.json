@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1227138,
+  "num_followers": 1227232,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADkwFiweZbvb6RSXkSF0Wlj",
+  "snapshot_id": "aY5pgAAAAADeyKqJ8p6T5XpXGKdG0dlZ",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Troublesome '96",
+      "url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pac's Life",
         "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 220266,
       "name": "Soon As I Get Home",
       "url": "https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Troublesome '96",
-      "url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 300573,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loyal To The Game",
         "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 203520,
       "name": "Loyal To The Game",
       "url": "https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 300573,
-      "name": "Temptations",
-      "url": "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Untouchable",
         "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 300693,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
     },
     {
       "added_at": null,

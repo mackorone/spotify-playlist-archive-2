@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover:
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,623 likes - 90 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,695 likes - 90 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Isaia Huron
 
-1,658 songs - 3 day 11 hr 50 min
+1,659 songs - 3 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/track/5uuZhQMRejxWHF0CCkDLsi) | [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/album/5LBj5DyCxppA5x34N4KMIi) | 3:45 | 2022-04-08 | 2022-05-28 |
 | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/track/6kW0nkWiLGEEuEigY2orHw) | [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Should Come Over](https://open.spotify.com/album/6z8HADY94k7HxGJfUy4etZ) | 3:45 | 2022-07-15 | 2022-10-29 |
 | [Boo Thang Bootcamp](https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Boo Thang Bootcamp](https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o) | 2:55 | 2025-09-19 | 2025-12-13 |
+| [BOSS](https://open.spotify.com/track/62TrNd7HbXRidoNSaMTGDF) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [S.A.H \(SIDE A\_SIDE B\)](https://open.spotify.com/album/7sIbbNmqrbO3eCpP3Oz8AM) | 3:07 | 2026-02-14 |  |
 | [Boujee Baby](https://open.spotify.com/track/0Mq7egfvtSRmwVjkGkmPfI) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Boujee Baby](https://open.spotify.com/album/4RmhI3BdBeIY7JjzsndQfQ) | 2:51 | 2025-06-20 | 2025-10-11 |
 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 | 2023-02-17 | 2023-07-08 |
 | [Boyfriend Jeans](https://open.spotify.com/track/1xgieOt8rdDEdVIyjWOkGy) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Boyfriend Jeans](https://open.spotify.com/album/0HVpGJKrSuX6FxhkTPD27E) | 2:50 | 2023-08-25 | 2024-01-11 |
@@ -461,7 +462,7 @@
 | [Energy](https://open.spotify.com/track/12q3pDcjI9HYZwd5rhSSvY) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Loss Of Valuable Energy \(L.O.V.E.\)](https://open.spotify.com/album/0goRiyw1IR5vSWD8UNfnmy) | 3:16 | 2022-05-20 | 2022-07-16 |
 | [Energy](https://open.spotify.com/track/4Zghtgj5NOb3wqlBuat3FI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 4:10 | 2023-08-11 | 2024-03-30 |
 | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC) | 3:10 | 2022-08-12 | 2022-11-26 |
-| [energy!](https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [energy!](https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV) | 3:32 | 2026-01-16 |  |
+| [energy!](https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [energy!](https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV) | 3:32 | 2026-01-16 | 2026-02-15 |
 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 | 2022-08-12 | 2023-01-21 |
 | [Envy](https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Envy](https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax) | 4:07 | 2022-05-06 | 2022-07-10 |
 | [Escape Plan](https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Escape Plan](https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy) | 3:35 | 2024-02-09 | 2024-03-16 |

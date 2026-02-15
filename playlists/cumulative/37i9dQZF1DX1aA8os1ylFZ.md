@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-707 songs - 1 day 12 hr 26 min
+708 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [On My Way](https://open.spotify.com/track/2Mt0oXSaPRQLjiSKYVzBsT) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [On My Way](https://open.spotify.com/album/6hBKOBKupHmwdwcQQG4Iuc) | 3:31 | 2024-11-21 | 2025-11-10 |
 | [One Call Away \(feat\. Chris Brown\)](https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:31 | 2025-03-07 |  |
 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 | 2022-07-22 | 2023-01-13 |
+| [One More Time](https://open.spotify.com/track/2aW0YxPMcioaMvioYZgYf1) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [One More Time](https://open.spotify.com/album/2UgBgSaNVEblHh3IXBqHXN) | 2:40 | 2026-02-13 |  |
 | [Online](https://open.spotify.com/track/7oPafvnkhwW6BPEmIvdzVk) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [Djemeia](https://open.spotify.com/artist/1Sx36c12X39Dnwp3NHRgsJ) | [Online](https://open.spotify.com/album/2U4iDmJzwom2wsG7u0bN0v) | 2:45 | 2023-09-21 | 2024-03-01 |
 | [Only a Matter of Time](https://open.spotify.com/track/6QpPVC3iLIlWuYsm5kwIke) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Only a Matter of Time](https://open.spotify.com/album/6R51FMt4t1OXoVEC2VxLuN) | 3:14 | 2021-12-16 | 2023-01-13 |
 | [Only One](https://open.spotify.com/track/1nD05bbfyNSyYxKUjF8BNo) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Only One](https://open.spotify.com/album/39D2GatZ2RuT6BGln1tNK1) | 2:31 | 2023-01-12 | 2023-09-01 |
@@ -490,7 +491,7 @@
 | [PPL](https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [PPL](https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk) | 3:14 | 2023-09-21 | 2023-10-13 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-26 | 2023-09-01 |
 | [Preach](https://open.spotify.com/track/6wAFJrqup7D88zL1bB4QS4) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Preach](https://open.spotify.com/album/4vMuWB97ayjrzYVwDog2wp) | 2:55 | 2021-12-16 | 2023-01-13 |
-| [Pressure](https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:46 | 2025-06-27 |  |
+| [Pressure](https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:46 | 2025-06-27 | 2026-02-15 |
 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 | 2025-11-20 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2023-01-12 | 2023-01-27 |
 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 | 2025-08-14 |  |

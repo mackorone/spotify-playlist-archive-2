@@ -4,7 +4,7 @@
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-130 songs - 5 hr 38 min
+131 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [California Dreamin' \- Remastered 2007](https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 3:24 | 2022-09-17 |  |
 | [California Girls](https://open.spotify.com/track/2RLP5aLMGkH8S3veAjAL6w) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 2:45 | 2023-01-24 | 2023-02-28 |
 | [California Girls \- Remix/Remastered 2001](https://open.spotify.com/track/6bJuuCtXYiwOcKT9s8uRh8) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:40 | 2022-09-17 |  |
+| [Carl's Song 1 \- It Could Be Anything \- 2025 Mix](https://open.spotify.com/track/0EYwcNP72Wl3SSND69enJP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [We Gotta Groove \- The Brother Studio Years \(Super Deluxe Edition\)](https://open.spotify.com/album/3tag1yvfPv1X8aoa5lql1z) | 3:27 | 2026-02-15 |  |
 | [Caroline, No \- Mono](https://open.spotify.com/track/5RSQKtG1KNwrzFMEePpjt6) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 | 2022-10-12 | 2023-12-30 |
 | [Carry Me Home](https://open.spotify.com/track/00m7M9QbLzD8hTqHytYypv) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Carry Me Home / You Need A Mess Of Help To Stand Alone](https://open.spotify.com/album/20K9FpnNLWHHRdVW5hw0Zb) | 3:26 | 2022-10-30 | 2022-11-22 |
 | [Carry Me Home](https://open.spotify.com/track/5Ohn8E8hjkz8f5ed8i6ifv) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All This Is That / Carry Me Home / You Need A Mess Of Help To Stand Alone](https://open.spotify.com/album/4iF9umaUMiPWmTteogYpMF) | 3:26 | 2022-11-21 | 2023-01-05 |
@@ -97,7 +98,7 @@
 | [Long Promised Road \- Remastered 2009](https://open.spotify.com/track/4x3wjsXr6MtWNXii5gA1Ai) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 3:32 | 2022-09-17 | 2025-08-31 |
 | [Lookin' At Tomorrow \(A Welfare Song\) \- Remastered 2009](https://open.spotify.com/track/2lkwyf1LLKLyWP0kVmxf5e) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 1:58 | 2023-12-31 | 2024-07-24 |
 | [Marcella \- 2021 Mix](https://open.spotify.com/track/1DYMaKz5aEskxuOOlP7a9A) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer \(Expanded Edition Super Deluxe\)](https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8) | 3:45 | 2022-09-17 | 2022-10-02 |
-| [Meant For You \- Remastered 2001](https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:39 | 2022-10-12 |  |
+| [Meant For You \- Remastered 2001](https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:39 | 2022-10-12 | 2026-02-15 |
 | [Never Learn Not To Love \- Remastered 2001](https://open.spotify.com/track/6gjhpFtiZv6PT05XIaIK5Q) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:33 | 2022-09-17 | 2022-10-15 |
 | [Our Prayer](https://open.spotify.com/track/1IysBwoeG9FSWCY8qLNqzL) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA) | 1:04 | 2022-09-17 | 2024-07-24 |
 | [Pacific Coast Highway](https://open.spotify.com/track/1gHfAEgJtueNvZAc49Stgt) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [That's Why God Made the Radio](https://open.spotify.com/album/1XtjXmGBlpgUm5OWFqarj4) | 1:47 | 2022-09-17 | 2022-10-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 71150,
+  "num_followers": 71182,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "Carlos Gardel",
+        "url": "https://open.spotify.com/album/7dJE0Yi1vCL10OgysqFbJS"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/2LdjqsBZHy5RdUUzdbtcka"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "Carlos Gardel",
-        "url": "https://open.spotify.com/album/7dJE0Yi1vCL10OgysqFbJS"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/2LdjqsBZHy5RdUUzdbtcka"
     },
     {
       "added_at": "2024-07-05 02:05:16",

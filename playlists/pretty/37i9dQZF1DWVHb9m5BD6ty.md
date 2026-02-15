@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The newest from UK & Ireland driving the current\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,393 likes - 69 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,395 likes - 69 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 68 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
 | 69 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
 
-Snapshot ID: `AAAAAC8tuXLKtD+ExmaJx3qbuCaeebMF`
+Snapshot ID: `AAAAALpn+efMls66to4vO1MDMW2W+ell`

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 553,
+  "num_followers": 606,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOx1HD3ih6wCEuqJ0CX6L5PGtdfe",
+  "snapshot_id": "AAAAAFd1tOc13TNiSygoDIjm89mvx6ly",
   "tracks": [
     {
       "added_at": "2025-05-01 22:27:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Mammalian Sighing Reflex",
         "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 252593,
       "name": "12 Blown Tires",
       "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "i wish things were different",
         "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
       "artists": [
         {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+      "duration_ms": 220377,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1647,6 +1631,22 @@
       "duration_ms": 162099,
       "name": "Runner",
       "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
+      },
+      "artists": [
+        {
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+        }
+      ],
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     }
   ],
   "unique_name": "Lofi Indie",

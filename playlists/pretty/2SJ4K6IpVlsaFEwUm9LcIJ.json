@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to jan-feb 2026",
-  "num_followers": 24054,
+  "num_followers": 24060,
   "original_name": "now is not the time, the time is now",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAN4z4Z9RiUxlcaHqQEXRNV65VZKj6g",
+  "snapshot_id": "AAAN5t2c3SoK71IQFe12kjHL2awxHI1Z",
   "tracks": [
     {
       "added_at": "2026-01-08 20:03:59",
@@ -883,6 +883,42 @@
       "duration_ms": 187266,
       "name": "Comunh\u00e3o",
       "url": "https://open.spotify.com/track/2lStGDJa1Z2hA7NskFdKJE"
+    },
+    {
+      "added_at": "2026-02-14 17:06:11",
+      "album": {
+        "name": "1000 Variations on the Same Song",
+        "url": "https://open.spotify.com/album/0UUvgHaTGyQ27kM4eaJuN4"
+      },
+      "artists": [
+        {
+          "name": "Frog",
+          "url": "https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "STILLWELL THEME",
+      "url": "https://open.spotify.com/track/0NkQFp82glRfuu9YKbO8MT"
+    },
+    {
+      "added_at": "2026-02-14 04:11:37",
+      "album": {
+        "name": "Rags To Rufus",
+        "url": "https://open.spotify.com/album/127CLXCibn1ARC1CGExGav"
+      },
+      "artists": [
+        {
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 262213,
+      "name": "Smokin' Room",
+      "url": "https://open.spotify.com/track/0b5mG38TIGgU0T7T1IYfiJ"
     }
   ],
   "unique_name": "now is not the time, the time is now",

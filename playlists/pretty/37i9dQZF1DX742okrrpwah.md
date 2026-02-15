@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Charli xcx, Central Cee et KeBlack au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,408 likes - 94 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,415 likes - 94 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 41 | [Colombina](https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Colombina](https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0) | 2:49 |
 | 42 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 |
 | 43 | [Masque à gaz](https://open.spotify.com/track/6LrLmO0JGikhqdNRXkMXPM) | [Alkpote](https://open.spotify.com/artist/0QcZD8V0Ug1KINWBSyG0dB), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Les Ultimes Marches de l'Empereur](https://open.spotify.com/album/383FrnWa8a1MX7foDHtAQB) | 3:36 |
-| 44 | [They Love Me](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [They Love Me](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
+| 44 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 45 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:22 |
 | 46 | [Mouth Go LaLa](https://open.spotify.com/track/780PwJDNueCJoPs3uQ9jvD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Mouth Go LaLa](https://open.spotify.com/album/6PACqViUcHMi7Nm0hn9JSI) | 2:41 |
 | 47 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |

@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-103 songs - 8 hr 5 min
+104 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [It's Not About You \(It's About Me\)](https://open.spotify.com/track/6UXYjqgQvV6JYIJjoxG5Vc) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:14 | 2022-06-05 | 2025-02-09 |
 | [Just Another Face In the Crowd](https://open.spotify.com/track/4PbatvH2aKPvZ8cF15892v) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 5:50 | 2024-02-25 |  |
 | [Just Me And You](https://open.spotify.com/track/2LwAnUO0yqMyEbAgXAqM9N) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:35 | 2022-05-26 | 2022-10-13 |
-| [Kiss You All Over](https://open.spotify.com/track/0Edm8k4zRcVhHQMHJYrKAy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:09 | 2022-05-25 |  |
+| [Kiss You All Over](https://open.spotify.com/track/0Edm8k4zRcVhHQMHJYrKAy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:09 | 2022-05-25 | 2026-02-15 |
 | [Let Somebody Love You](https://open.spotify.com/track/4FNDRMB2ql57XkWYv6OFzr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:44 | 2022-05-25 | 2023-12-24 |
 | [Let Somebody Love You](https://open.spotify.com/track/6jwpjWDFYCgtNUYfx7KE7B) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 4:45 | 2024-01-04 |  |
 | [Living All Alone](https://open.spotify.com/track/6c1Xd2ZERcoUmhLvYVrYIX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 5:09 | 2022-05-25 |  |
@@ -86,6 +86,7 @@
 | [Soon Come Again](https://open.spotify.com/track/2sl9F5mEvpIXpQMZ0Hk5N9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:33 | 2025-02-05 | 2025-02-15 |
 | [Souvenirs](https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:26 | 2022-05-25 | 2023-01-16 |
 | [The Answer Is You](https://open.spotify.com/track/0MMkuqkCRPHekNJjzOpEZn) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:07 | 2022-05-25 |  |
+| [The Kids](https://open.spotify.com/track/2waK7aXfepgmy06EB9OUoF) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:41 | 2026-02-15 |  |
 | [The Love Too Good to Last](https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:06 | 2022-05-25 |  |
 | [The Night Bird Gets the Love](https://open.spotify.com/track/5RBwLqfIzfHF4Iv5f5VL4q) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 5:22 | 2022-06-13 | 2022-10-06 |
 | [The Sunshine In My Life](https://open.spotify.com/track/48LPycvXjuqWW11js0YcrN) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:26 | 2024-08-20 | 2025-05-11 |

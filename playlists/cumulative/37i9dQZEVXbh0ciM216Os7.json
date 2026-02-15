@@ -26162,7 +26162,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 246176,
       "name": "HAYAWAN",
       "url": "https://open.spotify.com/track/4wbhGIF2rbKbN8lc8V9zP4"
@@ -31278,7 +31278,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
@@ -38075,6 +38075,28 @@
     },
     {
       "album": {
+        "name": "Maddy O' Maddy",
+        "url": "https://open.spotify.com/album/73Jd7GsgSvU4YSS20nbk97"
+      },
+      "artists": [
+        {
+          "name": "Ichroniq",
+          "url": "https://open.spotify.com/artist/1zhrgXXeG1tzgZ4zxxaWl9"
+        },
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154588,
+      "name": "Maddy O' Maddy",
+      "url": "https://open.spotify.com/track/3cWQ8p4i43TyuIHVMPGH3j"
+    },
+    {
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E"
       },
@@ -39974,7 +39996,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 250237,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
@@ -43386,7 +43408,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 153293,
       "name": "Not Free Money (with DENM)",
       "url": "https://open.spotify.com/track/0GlDJWpDdKoOMAWs4doqPa"
@@ -68532,7 +68554,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 256755,
       "name": "When It's Cold I'd Like to Die",
       "url": "https://open.spotify.com/track/1uSxWX6zhhqwoopRS0wWaa"

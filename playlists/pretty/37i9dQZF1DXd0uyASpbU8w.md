@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Blxckie, Jill Scott, Sun\-El Musician and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,541 likes - 58 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,608 likes - 58 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 7 | [Available \(feat\. Ch'cco, Ney The Bae & TDK Macassette\)](https://open.spotify.com/track/1VbQK6NSX6Nylu4lA72jFd) | [The Incredibles](https://open.spotify.com/artist/6kt4fKXUX5QJi0KfUsDkJG), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [TDK Macassette](https://open.spotify.com/artist/0O4y3iGgXMpYCpFpBb6itp) | [Available \(feat\. Ch'cco, Ney The Bae, TDK Macassette\)](https://open.spotify.com/album/4lgDhr0qnjWV9rKCyjWBjy) | 4:38 |
 | 8 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 9 | [Say You Love Me](https://open.spotify.com/track/5SGTs6sia9Clt7lFXbxmhD) | [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Say You Love Me](https://open.spotify.com/album/4hE8UHMOBm7nm1Lmh9iSTA) | 3:41 |
-| 10 | [They Love Me](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [They Love Me](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
+| 10 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 11 | [DEARLY](https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [DEARLY](https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w) | 3:01 |
 | 12 | [Khumbula \(feat\. Nobantu Vilakazi, 031 Choppa, Jay Sax & Mzizi\)](https://open.spotify.com/track/1yqoQCmrxuoAheiGOfilhc) | [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2), [Shishiliza](https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC), [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9) | [Khumbula \(feat\. Nobantu Vilakazi, 031 Choppa, Jay Sax & Mzizi\)](https://open.spotify.com/album/1sTp7fuz9Xd3BDHqCmBCWq) | 3:51 |
 | 13 | [Intliziyo](https://open.spotify.com/track/2ISlloVwfFnnDc4Z4OubES) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Intliziyo](https://open.spotify.com/album/2PbGO4N6ztb3EAc4tvIAxv) | 5:16 |

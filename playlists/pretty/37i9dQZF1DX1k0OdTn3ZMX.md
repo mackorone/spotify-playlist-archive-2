@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with UnityTX
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,732 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,791 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 84 | [Mistake To Wonder](https://open.spotify.com/track/69OtaMMyiQ0XtAJnLD9F43) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Mistake To Wonder](https://open.spotify.com/album/244783FBmHrJ3pk35UEbbX) | 3:12 |
 | 85 | [solace](https://open.spotify.com/track/4DH3Ny3Q0i4uGtluVJnVuo) | [Reece Young](https://open.spotify.com/artist/1bdqTbBpPy0SGAmxYun3Hh) | [solace](https://open.spotify.com/album/3xuRmqkMXB5ytGQ5OxpWv9) | 2:30 |
 
-Snapshot ID: `AAAAACgYSiwpZhxZuByWJd6Mx/1XFl+C`
+Snapshot ID: `AAAAAMWpxHxWElakJBFApk29MHwWUzuy`

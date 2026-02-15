@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,475 likes - 97 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,472 likes - 97 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 2 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
 | 3 | [Walk Of Shame](https://open.spotify.com/track/7ew9BuDhkZbuW6BHk6r4Mr) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Walk Of Shame](https://open.spotify.com/album/7zzn5bRWnKTHyx5DC1zQ9W) | 2:48 |
-| 4 | [Slip Slip \(feat MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 |
+| 4 | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 |
 | 5 | [Begge To](https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Begge To](https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj) | 3:06 |
 | 6 | [Den Sidste Dråbe](https://open.spotify.com/track/5rtNYAmh5tDz3viB3Mqzzv) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Den Sidste Dråbe](https://open.spotify.com/album/6epxWewaSsnJyz7MiDwyUP) | 3:06 |
 | 7 | [Dét der er med livet](https://open.spotify.com/track/3GUL2HDpzfFxECfL89Mx8S) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Dét der er med livet](https://open.spotify.com/album/2rzNQKFTo7azF1ix4XU4OR) | 3:16 |

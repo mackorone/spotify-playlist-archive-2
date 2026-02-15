@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Tu Jhoothi Main Makkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,173 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,598 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

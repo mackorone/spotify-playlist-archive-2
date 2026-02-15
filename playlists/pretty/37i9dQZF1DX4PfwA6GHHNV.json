@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22818,
+  "num_followers": 22826,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 234000,
       "name": "Me Balan\u00e7a Toda",
       "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
+        "name": "RINGUE",
+        "url": "https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk"
       },
       "artists": [
         {
@@ -1026,11 +1026,19 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Hobb The Goat",
+          "url": "https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ"
         }
       ],
-      "duration_ms": 191463,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
+      "duration_ms": 182455,
+      "name": "RINGUE",
+      "url": "https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1123,8 +1131,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "RINGUE",
-        "url": "https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
       },
       "artists": [
         {
@@ -1134,19 +1142,11 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Hobb The Goat",
-          "url": "https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ"
         }
       ],
-      "duration_ms": 182455,
-      "name": "RINGUE",
-      "url": "https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n"
+      "duration_ms": 191463,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
-      },
-      "artists": [
-        {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "12 de Junho",
         "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 190588,
       "name": "12 de Junho",
       "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+      },
+      "artists": [
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2026-01-30 16:49:09",

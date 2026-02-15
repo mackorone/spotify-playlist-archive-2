@@ -4,7 +4,7 @@
 
 > Lo más fresco de los corridones\. Hermanos Espinoza en portada.
 
-1,773 songs - 3 day 17 hr 59 min
+1,774 songs - 3 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [COMO DEBE SER](https://open.spotify.com/track/1RiGu5j80yrXx6ZhkDY0k5) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 2:28 | 2024-12-13 | 2025-03-29 |
 | [Como Es Arriba Es Abajo](https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Como Es Arriba Es Abajo](https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb) | 2:45 | 2023-04-07 | 2023-07-01 |
 | [Como Esta Carnal](https://open.spotify.com/track/2TbRrrT3NFqrQohxZcKg7h) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Como Esta Carnal](https://open.spotify.com/album/3jPvYnxQhTg658G7r634Km) | 3:25 | 2024-03-08 | 2024-07-13 |
+| [Como La Espuma](https://open.spotify.com/track/2ROXhSpgypPfeXOjM0rbuK) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [Como La Espuma](https://open.spotify.com/album/3auhoGj4DZXUvpb49GdsgN) | 3:26 | 2026-02-14 |  |
 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 | 2023-10-13 | 2023-12-16 |
 | [Como Soñe](https://open.spotify.com/track/473mtjB2MZjeP4Ze2mPiTy) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Como Soñe](https://open.spotify.com/album/13RauZUlmByhvKHxedwkfC) | 2:18 | 2025-08-08 | 2025-12-06 |
 | [Como Un Carnal](https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Como Un Carnal](https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb) | 3:46 | 2024-10-18 | 2025-01-18 |

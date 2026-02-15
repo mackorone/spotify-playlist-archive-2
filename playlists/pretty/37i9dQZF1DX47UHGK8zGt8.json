@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 605558,
+  "num_followers": 605618,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 252600,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Varrendo a Lua",
         "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Pode Se Achegar",
         "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "ME LIGA",
-        "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
-        }
-      ],
-      "duration_ms": 133212,
-      "name": "ME LIGA",
-      "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 204007,
       "name": "Outono",
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "ME LIGA",
+        "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        }
+      ],
+      "duration_ms": 133212,
+      "name": "ME LIGA",
+      "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 218604,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Carnaval de Sof\u00e1",
         "url": "https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 186375,
       "name": "Bola de Sab\u00e3o",
       "url": "https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Ney Matogrosso Interpreta Cartola",
-        "url": "https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "OutroEu",
         "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Ney Matogrosso Interpreta Cartola",
+        "url": "https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Zero a Cem",
-        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Zero a Cem",
-      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 106452,
       "name": "Carinhoso",
       "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Zero a Cem",
+        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Zero a Cem",
+      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Descubra Sua For\u00e7a",
-        "url": "https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 160825,
-      "name": "Descubra Sua For\u00e7a",
-      "url": "https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Todo Caminho \u00c9 Sorte",
         "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 229480,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Descubra Sua For\u00e7a",
+        "url": "https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 160825,
+      "name": "Descubra Sua For\u00e7a",
+      "url": "https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1583,6 +1583,22 @@
       "duration_ms": 160699,
       "name": "Pensando em Voc\u00ea",
       "url": "https://open.spotify.com/track/28SnPmRvZwsd4KtyENLWZd"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+      },
+      "artists": [
+        {
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1627,22 +1643,6 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1755,42 +1755,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Radiante",
-        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 191743,
-      "name": "Cora\u00e7\u00e3o Radiante",
-      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Mela\u00e7o",
         "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
@@ -1807,6 +1771,22 @@
       "duration_ms": 163240,
       "name": "Mela\u00e7o",
       "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Radiante",
+        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 191743,
+      "name": "Cora\u00e7\u00e3o Radiante",
+      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1843,6 +1823,26 @@
       "duration_ms": 182711,
       "name": "Deixa Eu Gostar de Voc\u00ea",
       "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "added_at": "2026-02-06 12:58:31",

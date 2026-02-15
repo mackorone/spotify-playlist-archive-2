@@ -4,7 +4,7 @@
 
 > Hand\-picked releases from the new wave in soul\. Cover: EASY FREAK
 
-623 songs - 1 day 12 hr 0 min
+624 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Nothing Sweeter](https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Nothing Sweeter](https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc) | 4:25 | 2024-01-18 | 2025-02-11 |
 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 | 2021-12-16 | 2022-10-29 |
 | [OBIA](https://open.spotify.com/track/5WyyPzEmOHUXeeU6MaY7u7) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [OBIA](https://open.spotify.com/album/5EsVcjcNIwW7Bv7ZtiyKmW) | 4:03 | 2024-12-20 | 2025-08-10 |
+| [Oceans Apart](https://open.spotify.com/track/1MZQt3aRLpGd9kn2otzxPX) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm), [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Starbase 17](https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg) | 3:54 | 2026-02-14 |  |
 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 | 2023-03-02 | 2024-05-24 |
 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 | 2025-04-03 | 2026-02-04 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-14 | 2025-01-24 |

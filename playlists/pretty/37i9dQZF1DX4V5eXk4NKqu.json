@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Ca7riel & Paco Amoroso.",
-  "num_followers": 167987,
+  "num_followers": 167994,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-02-02 16:17:35",
       "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-02-02 16:17:35",
+      "album": {
         "name": "IND 2 JFK",
         "url": "https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 194523,
       "name": "Hora Dorada",
       "url": "https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i"
-    },
-    {
-      "added_at": "2026-02-02 16:17:35",
-      "album": {
-        "name": "miau",
-        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 206366,
-      "name": "miau",
-      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
     },
     {
       "added_at": "2026-02-02 16:17:35",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-02-02 16:17:35",
       "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
+    },
+    {
+      "added_at": "2026-02-02 16:17:35",
+      "album": {
         "name": "LE CHILL 2",
         "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 172335,
       "name": "NO SALES DE MI CABEZA",
       "url": "https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c"
-    },
-    {
-      "added_at": "2026-02-02 16:17:35",
-      "album": {
-        "name": "Te Fuiste",
-        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
     },
     {
       "added_at": "2026-02-02 16:17:35",

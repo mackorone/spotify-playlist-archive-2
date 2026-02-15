@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-281 songs - 16 hr 50 min
+282 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Indexical reminder of a morning well spent](https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:43 | 2025-07-03 | 2025-09-20 |
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2025-07-03 | 2025-09-20 |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-11-11 | 2025-01-24 |
-| [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 | 2024-07-04 |  |
+| [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 | 2024-07-04 | 2026-02-15 |
 | [It Ain't Me Babe](https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:21 | 2025-07-03 | 2025-09-20 |
 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 | 2024-10-03 | 2025-01-24 |
 | [It Isn't Me](https://open.spotify.com/track/1bLF11yYGWJ2dthC7kIXjC) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [It Isn't Me](https://open.spotify.com/album/2u8ZrvmRIfT9FzKgK66k95) | 2:44 | 2024-07-26 | 2025-01-24 |
@@ -136,6 +136,7 @@
 | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 | 2025-07-03 | 2025-09-20 |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2025-07-03 | 2025-09-20 |
 | [Jaouad](https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Jaouad](https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD) | 5:01 | 2024-12-20 | 2025-01-24 |
+| [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 | 2026-02-12 |  |
 | [Just As I Remember](https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 2:18 | 2024-11-13 | 2025-01-24 |
 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2025-07-03 | 2025-09-20 |
 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-26 | 2025-07-04 |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 | 2026-02-14 |
+| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 |  |
 | [A3zam Ayam](https://open.spotify.com/track/38bL58Q5kf7RbC2WIciW3Q) | [Akram Adel](https://open.spotify.com/artist/3TL9vhTxFtRnEBMPhLM2ia) | [A3zam Ayam](https://open.spotify.com/album/2m9kuiPhaFlzZ8WF5bT07V) | 2:03 | 2024-03-12 | 2025-03-24 |
 | [Ahlan Ramadan](https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm) | [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Ahlan Ramadan](https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6) | 3:34 | 2024-03-12 |  |
 | [Ahlan Ramadan](https://open.spotify.com/track/2IBydskU0pX1NtsPYRe0Ch) | [Mohamed Tarek](https://open.spotify.com/artist/0I7sMQsYXAug5uQtZnzTIb), [Ibrahim Al Dardasawi](https://open.spotify.com/artist/36Vbky7ZIPAceSgzGaApoC) | [Ahlan Ramadan](https://open.spotify.com/album/2NWc9tnxVJc1TK1U51p0EN) | 3:05 | 2024-03-12 |  |
@@ -68,6 +68,6 @@
 | [مرحب شهر الصوم](https://open.spotify.com/track/2dukxPxYLqSL8p0JqAEeFG) | [Abd El Aziz Mahmoud](https://open.spotify.com/artist/0Ck6zEWZW4tN5exqSWrrGq) | [مرحب شهر الصوم](https://open.spotify.com/album/2qwjTs4ZIBzIkxfc0ev3cE) | 8:26 | 2024-03-12 |  |
 | [ميدلي رمضان](https://open.spotify.com/track/430jY4BOiQA7SqF5sXWykE) | [أنس سيد](https://open.spotify.com/artist/0DmkKZLfe3VtI1HbbWWSaf), [مريم سيد](https://open.spotify.com/artist/6YRksz8nqpD1fanVyHFs0U), [جودي سيد](https://open.spotify.com/artist/485v2FBZCREjmKe3CZlvms) | [ميدلي رمضان](https://open.spotify.com/album/4Lx6o6ofZps9JVHdnSYq1H) | 3:24 | 2024-03-14 |  |
 | [هل هلالك يا رمضان](https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [هل هلالك يا رمضان](https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5) | 1:28 | 2024-03-12 |  |
-| [يا مرحبا رمضان](https://open.spotify.com/track/1DEKJaG7dEhGRr7pwlYwZE) | [أنس سيد](https://open.spotify.com/artist/0DmkKZLfe3VtI1HbbWWSaf) | [يا مرحبا رمضان](https://open.spotify.com/album/1bWEH5ONUKIzR9RDBenaVL) | 3:22 | 2024-03-25 |  |
+| [يا مرحبا رمضان](https://open.spotify.com/track/1DEKJaG7dEhGRr7pwlYwZE) | [أنس سيد](https://open.spotify.com/artist/0DmkKZLfe3VtI1HbbWWSaf) | [يا مرحبا رمضان](https://open.spotify.com/album/1bWEH5ONUKIzR9RDBenaVL) | 3:22 | 2024-03-25 | 2026-02-15 |
 
 \*This playlist was first scraped on 2024-03-12. Prior content cannot be recovered.

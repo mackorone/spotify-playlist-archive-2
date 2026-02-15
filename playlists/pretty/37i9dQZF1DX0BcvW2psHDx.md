@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 
 > T1 ‘치어플리 챌린지’ 당첨 작품입니다\. ‘강효은’님 축하합니다!<br/><br/>T1 공식 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,450 likes - 200 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,686 likes - 200 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

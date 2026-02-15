@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/47ZuHutG1JNtCB9Pg5QZFZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Sharp Dressed Man",
+      "url": "https://open.spotify.com/track/15mLZ2fY0LoJyjWs1wrtgs"
+    },
+    {
+      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
       },
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 179333,
       "name": "Sharp Dressed Man",
       "url": "https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv"

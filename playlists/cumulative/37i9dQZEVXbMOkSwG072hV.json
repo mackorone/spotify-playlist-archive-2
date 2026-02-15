@@ -7252,7 +7252,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 315943,
       "name": "Au\u00ea (A F\u00e9 Ganhou)",
       "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
@@ -12970,7 +12970,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 148360,
       "name": "Cabeleira Do Zez\u00e9",
       "url": "https://open.spotify.com/track/7rwXwVOfULqhoa8vdOSLJx"
@@ -14668,6 +14668,36 @@
     {
       "album": {
         "name": "Carn\u00edvoro",
+        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Carn\u00edvoro",
+      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
+    },
+    {
+      "album": {
+        "name": "Carn\u00edvoro",
         "url": "https://open.spotify.com/album/45lGEvqXqQd7RLietEj16l"
       },
       "artists": [
@@ -14690,7 +14720,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 216000,
       "name": "Carn\u00edvoro",
       "url": "https://open.spotify.com/track/6zWfgvh1e1FCdtfUVj370i"
@@ -47392,7 +47422,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 182822,
       "name": "MEGA SUMMER",
       "url": "https://open.spotify.com/track/2qYHRcrbIPciE2XzAdUJxa"
@@ -57798,7 +57828,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "O Que Sobrou Do Amor?",
       "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
@@ -58538,7 +58568,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 182222,
       "name": "Oi Linda",
       "url": "https://open.spotify.com/track/0iG9z2JyiDYWpPQQIXZsUd"
@@ -59404,7 +59434,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"

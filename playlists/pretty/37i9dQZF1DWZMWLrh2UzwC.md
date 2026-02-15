@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Charli xcx, CORTIS, Faizal Tahir, Usop, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,835 likes - 118 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,836 likes - 118 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 42 | [HEREAFTER](https://open.spotify.com/track/192G8d9odKSjqzHR4BehqG) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [HEREAFTER](https://open.spotify.com/album/4beah2FGZigXMUSqLEyYH8) | 3:15 |
 | 43 | [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 |
 | 44 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
-| 45 | [Lead Me](https://open.spotify.com/track/4Ct6YsGfOACrJKRUDdCkKk) | [Pinstripes](https://open.spotify.com/artist/5dUbNX84qNsg1uh4n39aS1) | [Lead Me](https://open.spotify.com/album/5y1tkiwmo1bvJapwX32q63) | 2:57 |
+| 45 | [Lead Me](https://open.spotify.com/track/4Ct6YsGfOACrJKRUDdCkKk) | [Pinstripes](https://open.spotify.com/artist/55sDlhEtcEfwIzApR6AHgH) | [Lead Me](https://open.spotify.com/album/5y1tkiwmo1bvJapwX32q63) | 2:57 |
 | 46 | [One After Another](https://open.spotify.com/track/5AzKHoUhkjpKNA9Ukn58kh) | [Dimes](https://open.spotify.com/artist/2KtEEvQeBMwBpAnQB7YlvY) | [One After Another](https://open.spotify.com/album/48eSY9Smeph1iot2R4vhQO) | 4:17 |
 | 47 | [Laron](https://open.spotify.com/track/089z82fMKMW8RjWLQux1WN) | [Aswan Anwar](https://open.spotify.com/artist/602eCGa4Tw328tNsxMGLt3), [Adeep Nahar](https://open.spotify.com/artist/3qHfyEPUWDeHD60Uuh6pZs) | [Laron](https://open.spotify.com/album/1ap0glUoBePRsFmiUCAnXC) | 4:21 |
 | 48 | [Hey! Pandang Aku](https://open.spotify.com/track/6NyTYIEDWZUAogfzxgrtcP) | [Bendol](https://open.spotify.com/artist/2VIxrMgH8k98SBOl3S6Q7n) | [Hey! Pandang Aku](https://open.spotify.com/album/0OUM3X8V0ks2U4uwvcfsl2) | 2:47 |

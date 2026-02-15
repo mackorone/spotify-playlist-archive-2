@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rizky Febian, Raisa, Charli xcx dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,423 likes - 113 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,475 likes - 113 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 15 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 16 | [Teman Istimewa](https://open.spotify.com/track/6oJGDCzAspawwHgLPYJrOj) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs), [Etenia Croft](https://open.spotify.com/artist/4redGmIrV9gk8A8SXJR2s0) | [Teman Istimewa](https://open.spotify.com/album/1T67wqNeB7PS05hdcSk9EC) | 3:08 |
 | 17 | [Hatimulah Sandaran](https://open.spotify.com/track/0ZGYum0a1FsBVrFBIFIjZZ) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW), [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [Hatimulah Sandaran](https://open.spotify.com/album/39UtKDoxLrzRbq1QBVFUaM) | 4:31 |
-| 18 | [Sihir](https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sihir](https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF) | 3:26 |
+| 18 | [Sihir](https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sihir](https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF) | 3:28 |
 | 19 | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/track/2oCwCA993mA26HpPRxYppU) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/album/5VecZTVhy0Dijjt7nIOH71) | 3:06 |
 | 20 | [Lika & Liku](https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Lika & Liku](https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v) | 2:21 |
 | 21 | [FALL AGAIN](https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FALL AGAIN](https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn) | 3:08 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 31 | [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 |
 | 32 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
 | 33 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 |
-| 34 | [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/4G5tdW6NHLvRngYXHSjreB), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 |
+| 34 | [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/55ReTHE3UQOwlEuqz1bX0S), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 |
 | 35 | [Fling Thing](https://open.spotify.com/track/26IzakXuYh93ernkNyQUPu) | [Cece Caramel](https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY) | [Fling Thing](https://open.spotify.com/album/1bqZeIiqDIkQReZvV5FDKv) | 3:26 |
 | 36 | [KABUR](https://open.spotify.com/track/4fBtXc7In7aWsmP4e63XAc) | [Kelompok Penerbang Roket](https://open.spotify.com/artist/4CrAgvXjMysuImxrwMqXSG) | [KABUR](https://open.spotify.com/album/2AyGB3ayHTOVC5iy21xgbZ) | 3:16 |
 | 37 | [Di Balik Senyap](https://open.spotify.com/track/2fyfrAc8mncLRrHUgYlCpW) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Di Balik Senyap](https://open.spotify.com/album/1Iu5uc5rQV4W7nHBEe2eNF) | 5:46 |

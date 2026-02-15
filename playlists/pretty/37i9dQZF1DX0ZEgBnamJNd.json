@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 53776,
+  "num_followers": 53789,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Dusty In Memphis",
-        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
       "artists": [
         {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 148053,
-      "name": "Son Of A Preacher Man",
-      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -287,18 +287,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+        "name": "Dusty In Memphis",
+        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "The Rolling Stones Singles Collection: The London Years",
         "url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "It's A Man's Man's Man's World",
-        "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
       "artists": [
         {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 167373,
-      "name": "It's A Man's, Man's, Man's World",
-      "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -763,6 +747,22 @@
       "duration_ms": 163600,
       "name": "Eight Days A Week - Remastered 2009",
       "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "It's A Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v"
     },
     {
-      "added_at": "2020-08-04 16:10:54",
-      "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Oh Well, Pt. 1 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
-    },
-    {
       "added_at": "2020-04-20 05:39:13",
       "album": {
         "name": "The Ultimate Jackie Wilson",
@@ -955,6 +939,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2020-08-04 16:10:54",
+      "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Oh Well, Pt. 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
     },
     {
       "added_at": "2020-04-20 05:39:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 625813,
+  "num_followers": 625865,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAB3Mkryx6+4ckrkbo8apf0K",
+  "snapshot_id": "aY5pgAAAAADPQaat9xcH1pCnKFB2fXR7",
   "tracks": [
     {
       "added_at": null,
@@ -95,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+        "name": "Northern Attitude (with Hozier)",
+        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
       "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 283466,
-      "name": "From Eden",
-      "url": "https://open.spotify.com/track/0bkW98npv8EsWQ2fXFzK56"
+      "duration_ms": 267256,
+      "name": "Northern Attitude (with Hozier)",
+      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
     },
     {
       "added_at": null,
@@ -143,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Northern Attitude (with Hozier)",
-        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude (with Hozier)",
-      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 219214,
       "name": "Angel Of Small Death & The Codeine Scene",
       "url": "https://open.spotify.com/track/1SCXzqKZdif5b33POmzwI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Unknown / Nth",
-      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 267406,
       "name": "Say My Name - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/3hbKcj640iYmPQgecainOr"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "Eat Your Young",
-      "url": "https://open.spotify.com/track/3hbKcj640iYmPQgecainOr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bones (with Hozier)",
         "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 240147,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+      "duration_ms": 283466,
+      "name": "From Eden",
+      "url": "https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Francesca",
-      "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
       },
@@ -371,42 +355,6 @@
       "duration_ms": 266611,
       "name": "Arsonist's Lullabye",
       "url": "https://open.spotify.com/track/7lpmIGFw7Kc9qIdq4cGs34"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 271696,
-      "name": "Blood Upon the Snow (From \"God of War Ragnar\u00f6k\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
     },
     {
       "added_at": null,
@@ -436,9 +384,61 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 277655,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
+      "duration_ms": 240147,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow (From \"God of War Ragnar\u00f6k\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "De Selby (Part 2)",
+      "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "De Selby (Part 2)",
-      "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever Is A Feeling",
         "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unreal Unearth: Unaired",
         "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
@@ -579,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/6hXiNksbHFrVLOGlLb3sU6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -607,6 +575,22 @@
       "duration_ms": 259253,
       "name": "NFWMB",
       "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/6hXiNksbHFrVLOGlLb3sU6"
     },
     {
       "added_at": null,

@@ -6774,7 +6774,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 208000,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
@@ -14012,6 +14012,32 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "album": {
+        "name": "Vision Blurred",
+        "url": "https://open.spotify.com/album/49nuuneGqTobuf0FytxCyI"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Vision Blurred",
+      "url": "https://open.spotify.com/track/0MBZH1gMOjrF9OVyhrDAo3"
     },
     {
       "album": {

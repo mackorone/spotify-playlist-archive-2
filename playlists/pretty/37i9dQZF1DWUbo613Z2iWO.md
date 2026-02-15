@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Isaia Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,422 likes - 215 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,429 likes - 215 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 11 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
 | 12 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
 | 13 | [Break Me In](https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Break Me In](https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg) | 2:52 |
-| 14 | [energy!](https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [energy!](https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV) | 3:32 |
+| 14 | [BOSS](https://open.spotify.com/track/62TrNd7HbXRidoNSaMTGDF) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [S.A.H \(SIDE A\_SIDE B\)](https://open.spotify.com/album/7sIbbNmqrbO3eCpP3Oz8AM) | 3:07 |
 | 15 | [SAFE](https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [SAFE](https://open.spotify.com/album/0Xg7mjikHBTIdeaH8Te4OV) | 3:33 |
 | 16 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
 | 17 | [No Sikes, No Tradesies](https://open.spotify.com/track/2jxhMpIYepmo5asrPxTOcQ) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Sweet Nothings](https://open.spotify.com/album/2fyeGCncCmMTDjbjxWOag9) | 2:32 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 214 | [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 |
 | 215 | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/album/0XkbSe7ojMuYEcjLOTVC2v) | 2:58 |
 
-Snapshot ID: `AAAAAM9Q43+K/96hqRwsw0fJ2BcK0YgU`
+Snapshot ID: `AAAAAFQ/mLeBDSQxLxH91mVcBag4j1Q/`

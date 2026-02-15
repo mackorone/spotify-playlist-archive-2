@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d4\u05d9\u05dc\u05d4 \u05e8\u05d5\u05d7",
-  "num_followers": 33270,
+  "num_followers": 33278,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-02-12 22:00:16",
       "album": {
-        "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
-        "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
-      },
-      "artists": [
-        {
-          "name": "Peled",
-          "url": "https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS"
-        },
-        {
-          "name": "Shredhead",
-          "url": "https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
-    },
-    {
-      "added_at": "2026-02-12 22:00:16",
-      "album": {
         "name": "African Coast",
         "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 182638,
       "name": "African Coast",
       "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
+    },
+    {
+      "added_at": "2026-02-12 22:00:16",
+      "album": {
+        "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
+        "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
+      },
+      "artists": [
+        {
+          "name": "Peled",
+          "url": "https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS"
+        },
+        {
+          "name": "Shredhead",
+          "url": "https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
     },
     {
       "added_at": "2026-02-12 22:00:16",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-02-12 22:00:16",
       "album": {
-        "name": "\u05d0\u05d4\u05d1\u05ea \u05d7\u05d9\u05d9",
-        "url": "https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm"
-      },
-      "artists": [
-        {
-          "name": "Boom Pam",
-          "url": "https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J"
-        },
-        {
-          "name": "Shai Tsabari",
-          "url": "https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "\u05d0\u05d4\u05d1\u05ea \u05d7\u05d9\u05d9",
-      "url": "https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs"
-    },
-    {
-      "added_at": "2026-02-12 22:00:16",
-      "album": {
         "name": "Sun & Lemonade",
         "url": "https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 179000,
       "name": "Sun & Lemonade",
       "url": "https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1"
+    },
+    {
+      "added_at": "2026-02-12 22:00:16",
+      "album": {
+        "name": "\u05d0\u05d4\u05d1\u05ea \u05d7\u05d9\u05d9",
+        "url": "https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm"
+      },
+      "artists": [
+        {
+          "name": "Boom Pam",
+          "url": "https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J"
+        },
+        {
+          "name": "Shai Tsabari",
+          "url": "https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "\u05d0\u05d4\u05d1\u05ea \u05d7\u05d9\u05d9",
+      "url": "https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs"
     },
     {
       "added_at": "2026-02-12 22:00:16",

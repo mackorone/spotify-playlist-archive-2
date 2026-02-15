@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=syubry5nQIGXmrIMz5HRQA">JEDSOUL</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW?si=w\-fNzqCCSpWSvolvGB5PXQ">rjtheweirdo</a>\. Updates every Wednesday.
 
-3,867 songs - 8 day 2 hr 59 min
+3,873 songs - 8 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Child](https://open.spotify.com/track/0ZofeQOzeUSlbJoSuAivFJ) | [PKYB](https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ) | [Child](https://open.spotify.com/album/0mpGOZlTKJmtUh4Fu82I4K) | 3:55 | 2024-11-15 | 2024-12-05 |
 | [Chit Chat](https://open.spotify.com/track/0Y6FENzAbqsYu9efmQpsLc) | [Ju Kaia](https://open.spotify.com/artist/0FyDbCVcgGKT9gihAG0jlO) | [Chit Chat](https://open.spotify.com/album/5M7JzUNglYywKyytTynR9Q) | 3:25 | 2021-12-01 | 2022-01-13 |
 | [Chivalry Ain’t Dead](https://open.spotify.com/track/3E0RSY2SYcBCBx703yEZsU) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03) | [Chivalry Ain’t Dead](https://open.spotify.com/album/1XUYNqHfSQiF3qqS4YUYqu) | 2:14 | 2025-07-25 | 2026-01-16 |
+| [Choose](https://open.spotify.com/track/0H9Zh0k1DLrjYpipQu7bYg) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Choose](https://open.spotify.com/album/3A9SdjMibU11v6vGvYxPcO) | 3:56 | 2026-02-14 |  |
 | [Choosey Lover](https://open.spotify.com/track/4ta2TkbQvBqnbl1aQI8HyH) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Choosey Lover](https://open.spotify.com/album/7lIEgz2l9Vj2XJ0IWvp6Qj) | 3:09 | 2022-07-01 | 2023-01-12 |
 | [CHROME HEARTED](https://open.spotify.com/track/6P1ESGp1a0KRkT8uQ2hvok) | [Danny Singh](https://open.spotify.com/artist/7Bf3aMOg613pAzkrloHfdx) | [CHROME HEARTED](https://open.spotify.com/album/0QarxwSrkY0DxbBlBwEDAt) | 3:22 | 2024-03-29 | 2024-06-20 |
 | [Church](https://open.spotify.com/track/5fZM36ZapKLmexDKuBW4pO) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Church](https://open.spotify.com/album/3cqwldvKTmGpKrXrkkmWJJ) | 3:49 | 2025-10-25 | 2026-01-16 |
@@ -2349,6 +2350,7 @@
 | [nosedive](https://open.spotify.com/track/532neynwa0xjqPWziBjSMa) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [nosedive](https://open.spotify.com/album/3o0z53mbwaD2B3cG3M7uPd) | 3:35 | 2022-02-16 | 2022-03-12 |
 | [Nostalgia](https://open.spotify.com/track/0AVJqxP92URE44WBzBHryV) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Nostalgia](https://open.spotify.com/album/5xpn1PhgoDhgn6c5rPDDLO) | 3:04 | 2024-10-26 | 2024-12-05 |
 | [Nostalgia](https://open.spotify.com/track/3lQwxQ0LcQ2wXKUytW9SK7) | [J\-Felix](https://open.spotify.com/artist/4C0wCCOXzZcOvdwdg4x8I4), [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [The Mint Experiment Volume 1](https://open.spotify.com/album/3xisuEQkOGPRIj5ldxkg7p) | 3:04 | 2023-01-18 | 2023-03-11 |
+| [Not a Love Song](https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Not a Love Song](https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO) | 3:04 | 2026-02-14 |  |
 | [Not About You](https://open.spotify.com/track/0V5O0XJRWJFtgEnBOL4qa7) | [Sy'Rai](https://open.spotify.com/artist/77UHD0ajx6cBSHHfpjiUsQ) | [Not About You](https://open.spotify.com/album/7sfQyYMKf7o5loW4Unsndp) | 3:53 | 2024-05-03 | 2024-07-02 |
 | [Not Fair](https://open.spotify.com/track/0Rjqksbt0cIVpnsdgNYL09) | [Victoria Jane](https://open.spotify.com/artist/4yzd8hpbhNHSo2AiJik0FA) | [Demos Vol 2](https://open.spotify.com/album/6blK5L9Ff90ZQ8uuHaZ6pl) | 2:38 | 2024-03-01 | 2024-05-04 |
 | [Not For You](https://open.spotify.com/track/1TJMSVfL6F6wh5mpU8Pqqi) | [Monifé](https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0), [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [Not For You](https://open.spotify.com/album/0T75AphjQSn8g1rjz2LJ8q) | 3:12 | 2024-03-01 | 2024-05-04 |
@@ -2881,6 +2883,7 @@
 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 | 2024-01-11 |
 | [Sadder Days](https://open.spotify.com/track/43DEVwmJ2AGyHoeMLC0kMW) | [Claire Reneé](https://open.spotify.com/artist/1Wp8w74ZupCeCZfZwewX25) | [Sadder Days](https://open.spotify.com/album/0vTgciEuJrJgOnmIX40bMn) | 4:08 | 2023-08-03 | 2023-10-04 |
 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 | 2024-02-21 | 2024-05-04 |
+| [SAFE](https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [SAFE](https://open.spotify.com/album/0Xg7mjikHBTIdeaH8Te4OV) | 3:33 | 2026-02-14 |  |
 | [safe & warm](https://open.spotify.com/track/3eHD7MT148ZWG9dM4uI5PV) | [BRICK!](https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v) | [safe & warm](https://open.spotify.com/album/7LtVwQGIjXfJ4bvsyyg8qz) | 2:44 | 2022-02-23 | 2022-03-17 |
 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 | 2024-03-01 | 2024-05-04 |
 | [Safe Than Sorry \(MajorStage Live\)](https://open.spotify.com/track/2RDHbrWTCkdmRneF1WlQJP) | [Eric Penn](https://open.spotify.com/artist/2zteg0RniUJB7gWVm9LfO1), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [Safe Than Sorry \(MajorStage Live\)](https://open.spotify.com/album/2cO4RIWkvEZ1mk3HGZLLSi) | 3:31 | 2023-08-30 | 2023-11-30 |
@@ -3507,6 +3510,7 @@
 | [TRIBAL](https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Juws](https://open.spotify.com/artist/53xeEBZ8oXkA7iSQOT1Bbm) | [TRIBAL](https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4) | 2:20 | 2024-06-07 | 2024-07-20 |
 | [trick \(feat\. SWAVAY\)](https://open.spotify.com/track/16DYKDlACCslT3K158JVAc) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [anemoia](https://open.spotify.com/album/0d4MLEf1yzSnVrTTpGgVr7) | 2:20 | 2025-08-08 |  |
 | [Trickin'](https://open.spotify.com/track/06BMFPUT2iNtnzlpMnwOQ8) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Trickin'](https://open.spotify.com/album/3321dSMSdH1wJN929uP1TF) | 2:24 | 2023-03-03 | 2024-01-11 |
+| [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 | 2026-02-14 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-11-30 |
 | [Triggers](https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Triggers](https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu) | 2:35 | 2022-10-28 | 2022-12-01 |
 | [Trip](https://open.spotify.com/track/47gtpP2UeCTvGy17LxnCer) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Moon in Pisces](https://open.spotify.com/album/2dqSwIbWxvfCk3QEwXheuV) | 3:28 | 2022-11-30 | 2023-01-12 |
@@ -3692,6 +3696,7 @@
 | [What Do We Know?](https://open.spotify.com/track/5UIGKPkte6mv6eiyK5CNPn) | [Caleb Taylor](https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH) | [What Do We Know?](https://open.spotify.com/album/5e0olK6a6yTTA5stLIFjOz) | 3:05 | 2024-01-25 | 2024-04-24 |
 | [what do ya miss?](https://open.spotify.com/track/6TMhaUV5u3LIHzcTGSpEom) | [Matt Storm](https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ) | [what do ya miss?](https://open.spotify.com/album/1jeYMiSSwERFGeqQWUkKfi) | 2:39 | 2023-03-31 | 2023-08-04 |
 | [What Do You Do](https://open.spotify.com/track/76To8vko0V30a8PT3q312Z) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [What Do You Do](https://open.spotify.com/album/2kgnbjCeCHMHOsPwxay0ue) | 3:08 | 2023-09-08 | 2023-11-30 |
+| [What Does Your Heart Say?](https://open.spotify.com/track/1HweujonOvuWBoA1GxBNut) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Lovely](https://open.spotify.com/album/5G50bJQZWZopxco2EXlR02) | 3:16 | 2026-02-14 |  |
 | [What I Want](https://open.spotify.com/track/6uBvuZtI9CmI5o9bSE4NXa) | [Sada James](https://open.spotify.com/artist/7pg5KgFoUPgW7eMHiCSn9n) | [What I Want](https://open.spotify.com/album/4437TAMs8dghFGbvhJ2iNV) | 2:51 | 2024-11-15 | 2024-12-05 |
 | [What If I](https://open.spotify.com/track/0tI20ixW5dvD7hC9nGV9D9) | [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23) | [What If I](https://open.spotify.com/album/1yjmkRlJry6FYF4M9O2lhp) | 2:26 | 2025-05-16 | 2025-10-26 |
 | [WHAT IF IT WAS EASY?](https://open.spotify.com/track/3FprkpnHzcLgFGMao6Nlie) | [Kiah Victoria](https://open.spotify.com/artist/2JqGe5yK5vhJSJb0wPa7J9) | [WHAT IF IT WAS EASY?](https://open.spotify.com/album/005NradQNn0lkzUeiUeKgI) | 2:57 | 2024-05-17 | 2024-08-31 |
@@ -3793,6 +3798,7 @@
 | [Witness](https://open.spotify.com/track/4LfSwi3vWDMQYqNsxsIesm) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Witness](https://open.spotify.com/album/3zfQMqcvn7NwEBjZhKyX0C) | 3:58 | 2024-02-21 | 2024-04-24 |
 | [Wolves](https://open.spotify.com/track/0ZQMCdRjNARo53RXcFa2r6) | [Cynáa\-Nicole](https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c), [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [Wolves](https://open.spotify.com/album/2qxlrseOMntoycNLDcL5K1) | 3:50 | 2023-02-03 | 2023-04-13 |
 | [Woman Needs Love](https://open.spotify.com/track/5VkjHn4QKTtkwbvrf6k0qb) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Woman Needs Love](https://open.spotify.com/album/57Yodyh6cdGlsb9EEmGFiy) | 3:24 | 2023-06-30 | 2023-08-26 |
+| [won't be the same](https://open.spotify.com/track/4dHzG11qkHLZBWqZRE9vDn) | [Mal London](https://open.spotify.com/artist/3fDtug6dI80VyEWO3vcT0U) | [won't be the same](https://open.spotify.com/album/7LuYCTsG8SKfUanUr88Yv2) | 2:11 | 2026-02-14 |  |
 | [Won't Cry](https://open.spotify.com/track/5jjmzCnRglEY9RXYgESA4v) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Won't Cry](https://open.spotify.com/album/4FJ18NpkM684zcTsSWe2wS) | 2:29 | 2023-04-26 | 2023-08-04 |
 | [Won't Go](https://open.spotify.com/track/4PCo4gpjSJxyYLTMCAgpJy) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Won't Go](https://open.spotify.com/album/2aApeE8JQuKfTqliCTaNN1) | 2:08 | 2023-06-07 | 2023-08-04 |
 | [Won't leave her](https://open.spotify.com/track/24peLC0CnJ8ozSvrueM26e) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Won't leave her](https://open.spotify.com/album/6Z8jxoGOFSsPlpC8FV3VGP) | 2:40 | 2024-01-19 | 2024-03-23 |

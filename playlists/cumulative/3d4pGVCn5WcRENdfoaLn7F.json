@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "March",
+        "url": "https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP"
+      },
+      "artists": [
+        {
+          "name": "Crafty McVillain",
+          "url": "https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283317,
+      "name": "March",
+      "url": "https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG"
+    },
+    {
+      "album": {
         "name": "Mastodonte",
         "url": "https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr"
       },
@@ -3196,6 +3214,24 @@
       "duration_ms": 260031,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA"
+    },
+    {
+      "album": {
+        "name": "The appointment (losing an old friend)",
+        "url": "https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R"
+      },
+      "artists": [
+        {
+          "name": "Trenic",
+          "url": "https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413333,
+      "name": "The appointment (losing an old friend)",
+      "url": "https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj"
     },
     {
       "album": {

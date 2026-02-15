@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0sIR9dt3gebNw8qwLxScxv"
+      },
+      "artists": [
+        {
+          "name": "Psychic Armour",
+          "url": "https://open.spotify.com/artist/0hSyMcuH2m0tgn3xi8LqN6"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153161,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/09ldOu23gZPJYwH0QMw6pp"
+    },
+    {
+      "album": {
         "name": "Bal des contraires",
         "url": "https://open.spotify.com/album/7mAEj6YE3FGY6rcvzzFocY"
       },
@@ -792,6 +810,24 @@
       "duration_ms": 244521,
       "name": "Better Watch Your Step",
       "url": "https://open.spotify.com/track/5qzGcqTYmpxksVhs4dppzP"
+    },
+    {
+      "album": {
+        "name": "Late Heavy Bombardment",
+        "url": "https://open.spotify.com/album/1C1IMtmixEROSLujxwa5K0"
+      },
+      "artists": [
+        {
+          "name": "Belly Hatcher",
+          "url": "https://open.spotify.com/artist/7icadCRyMcsXXqZvZCo8En"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Big Bus",
+      "url": "https://open.spotify.com/track/2OHJu3CEvMFuSC2epoPFVQ"
     },
     {
       "album": {
@@ -1264,6 +1300,24 @@
       "duration_ms": 209680,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Showers",
+        "url": "https://open.spotify.com/album/2fgiLkEUVrlsF21jE5t4Ju"
+      },
+      "artists": [
+        {
+          "name": "Christian Sean",
+          "url": "https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148296,
+      "name": "Cold Water",
+      "url": "https://open.spotify.com/track/6uikwXRiAwoLwlKGkeFM9W"
     },
     {
       "album": {
@@ -2025,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Once For All",
+        "url": "https://open.spotify.com/album/3Ffm48rlRJxHpwfJQ5PAO1"
+      },
+      "artists": [
+        {
+          "name": "Fish sound",
+          "url": "https://open.spotify.com/artist/3jrblMZzLE1zyarI4QXIZu"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150952,
+      "name": "Easy to See",
+      "url": "https://open.spotify.com/track/3rA0qIsRvOqL1LMV32YArW"
+    },
+    {
+      "album": {
         "name": "EAT",
         "url": "https://open.spotify.com/album/1i1y5lZDYe3I2vfQhARC93"
       },
@@ -2580,7 +2652,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 288346,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
@@ -3552,6 +3624,24 @@
       "duration_ms": 279397,
       "name": "La photo",
       "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+    },
+    {
+      "album": {
+        "name": "Eternal Surfer",
+        "url": "https://open.spotify.com/album/07lbso0DsJ9rlmLuaTNF5o"
+      },
+      "artists": [
+        {
+          "name": "Bonewaves",
+          "url": "https://open.spotify.com/artist/6iFFuQH8Ra7XzbfdqwozyE"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236458,
+      "name": "La Taupe",
+      "url": "https://open.spotify.com/track/2ctW3ljNtsdNv3UntOvMh1"
     },
     {
       "album": {
@@ -6135,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "Let's Not Overthink This",
+        "url": "https://open.spotify.com/album/4np6szGjqUgeak75Opf2qV"
+      },
+      "artists": [
+        {
+          "name": "The Fake Friends",
+          "url": "https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200005,
+      "name": "Sucker Born Every Minute",
+      "url": "https://open.spotify.com/track/4h3b2PmjjHeLBsjZtpGR3A"
+    },
+    {
+      "album": {
         "name": "Sudation",
         "url": "https://open.spotify.com/album/1IwxMJRiYNAxmppVqSuVhq"
       },
@@ -6150,6 +6258,24 @@
       "duration_ms": 234979,
       "name": "Sudation",
       "url": "https://open.spotify.com/track/7hWG3WtGtKtkiWf0ZwRyc6"
+    },
+    {
+      "album": {
+        "name": "Super Impose / Live Leak",
+        "url": "https://open.spotify.com/album/25TN1b8Dfcs4ZirgsiF3wT"
+      },
+      "artists": [
+        {
+          "name": "Last Waltzon",
+          "url": "https://open.spotify.com/artist/79T273iKWd4Tfji4eQlst2"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Super Impose",
+      "url": "https://open.spotify.com/track/28hxJxxV9MexXi4XV3kS4N"
     },
     {
       "album": {
@@ -6326,7 +6452,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 234826,
       "name": "The New Year",
       "url": "https://open.spotify.com/track/51hPoRUnQBZcnDeCYKfeAb"
@@ -6698,6 +6824,24 @@
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
+    },
+    {
+      "album": {
+        "name": "ego.alt",
+        "url": "https://open.spotify.com/album/7oSkkA2IOjHVZ0eVgLf05R"
+      },
+      "artists": [
+        {
+          "name": "Julien Fillion",
+          "url": "https://open.spotify.com/artist/41meYWkE4vtiq0GELl6UVo"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291416,
+      "name": "v(.)id",
+      "url": "https://open.spotify.com/track/3ORFKDDcnkzQqJ4qCZ3SmW"
     },
     {
       "album": {

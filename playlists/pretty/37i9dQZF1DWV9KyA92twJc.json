@@ -1267,18 +1267,22 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
-        "url": "https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s"
+        "name": "THE VANDALIST",
+        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
       "artists": [
         {
-          "name": "\u05ea\u05de\u05e8 \u05e8\u05d9\u05d9\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
         }
       ],
-      "duration_ms": 147296,
-      "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
-      "url": "https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd"
+      "duration_ms": 207804,
+      "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
+      "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1299,22 +1303,18 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "THE VANDALIST",
-        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
+        "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
+        "url": "https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s"
       },
       "artists": [
         {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+          "name": "\u05ea\u05de\u05e8 \u05e8\u05d9\u05d9\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i"
         }
       ],
-      "duration_ms": 207804,
-      "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
-      "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
+      "duration_ms": 147296,
+      "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
+      "url": "https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd"
     },
     {
       "added_at": "2026-01-16 15:38:53",

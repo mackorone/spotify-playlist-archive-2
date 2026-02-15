@@ -1,33 +1,13 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638577,
+  "num_followers": 1638559,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAAxwEj0EG0LVQ0njsPG1j9r",
+  "snapshot_id": "aY5pgAAAAAB+zfomojDbOSJVqZn80JPO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Home",
-        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Alessia Labate",
-          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
-        }
-      ],
-      "duration_ms": 120624,
-      "name": "Not Home",
-      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
-    },
     {
       "added_at": null,
       "album": {
@@ -359,6 +339,26 @@
       "duration_ms": 210288,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Home",
+        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "duration_ms": 120624,
+      "name": "Not Home",
+      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 191861,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 165388,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 161097,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
     }
   ],
   "unique_name": "This Is Alan Walker",

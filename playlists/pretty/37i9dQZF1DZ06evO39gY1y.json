@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 253492,
+  "num_followers": 253540,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACHYdoqJy3fDVpnhC+OzG2s",
+  "snapshot_id": "aY5pgAAAAABdI83swNivep/JP9C2D3vz",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,34 @@
       "duration_ms": 184500,
       "name": "Afrutadita",
       "url": "https://open.spotify.com/track/5bwHiSQsfb3yFR02kxYeL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Poderes",
+        "url": "https://open.spotify.com/album/4DWhSOhqBQq24IwNqPIuRG"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 258421,
+      "name": "Super Poderes",
+      "url": "https://open.spotify.com/track/3nvZhn4wNgWsb089sc2Wag"
     },
     {
       "added_at": null,
@@ -739,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -779,6 +787,26 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": null,
@@ -823,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPNV (Mudarnos para No Volver)",
-        "url": "https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Despu\u00e9s de la Tormenta",
-      "url": "https://open.spotify.com/track/32rNUR1LvC7gIsVDv0rZqL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El \u00daltimo Tango",
         "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
       },
@@ -867,6 +871,30 @@
       "duration_ms": 250382,
       "name": "El \u00daltimo Tango",
       "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MPNV (Mudarnos para No Volver)",
+        "url": "https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Despu\u00e9s de la Tormenta",
+      "url": "https://open.spotify.com/track/32rNUR1LvC7gIsVDv0rZqL"
     },
     {
       "added_at": null,
@@ -1035,26 +1063,6 @@
       "duration_ms": 214500,
       "name": "Suave",
       "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MPNV (Mudarnos para No Volver)",
-        "url": "https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Papalote",
-      "url": "https://open.spotify.com/track/66EFQ2qfWurweQwTvQrgxo"
     },
     {
       "added_at": null,

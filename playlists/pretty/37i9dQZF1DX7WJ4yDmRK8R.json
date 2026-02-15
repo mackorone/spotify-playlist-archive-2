@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Iseo & Dodosound en cover ",
-  "num_followers": 408472,
+  "num_followers": 408492,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Paria",
+      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
         "name": "Bersinar",
         "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
       },
@@ -795,26 +811,6 @@
       "duration_ms": 225047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
-        "name": "Que me quemen tus ojos",
-        "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        },
-        {
-          "name": "Macha Y El Bloque Depresivo",
-          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Que me quemen tus ojos",
-      "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -835,18 +831,22 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+        "name": "Que me quemen tus ojos",
+        "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
         }
       ],
-      "duration_ms": 149026,
-      "name": "Paria",
-      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
+      "duration_ms": 159453,
+      "name": "Que me quemen tus ojos",
+      "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "Heads Are Gonna Roll",
-        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
-      },
-      "artists": [
-        {
-          "name": "The Hippos",
-          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
         "name": "A Good Day for the Damned",
         "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 206523,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
+        "name": "Heads Are Gonna Roll",
+        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
+      },
+      "artists": [
+        {
+          "name": "The Hippos",
+          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Lost It",
+      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
+        "name": "Here in The Heights",
+        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 223347,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
-        "name": "Here in The Heights",
-        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 223347,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Ma and Pa",
-      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 220693,
       "name": "Beer",
       "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Doormat",
+      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Doormat",
-      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "God Bless Satan",
-        "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
-      },
-      "artists": [
-        {
-          "name": "Mephiskapheles",
-          "url": "https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl"
-        }
-      ],
-      "duration_ms": 195527,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
         "name": "The Slash",
         "url": "https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 280626,
       "name": "Skinhead",
       "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
+        "name": "God Bless Satan",
+        "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
+      },
+      "artists": [
+        {
+          "name": "Mephiskapheles",
+          "url": "https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl"
+        }
+      ],
+      "duration_ms": 195527,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
         "name": "Indie Singles Collection 1991-1996",
         "url": "https://open.spotify.com/album/3gwVOnYIvRJFJyrJzaPnWF"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 186266,
       "name": "On My Radio",
       "url": "https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     }
   ],
   "unique_name": "The Essential Ska",

@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
@@ -9002,7 +9002,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 183813,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
@@ -10592,7 +10592,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 130800,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10"
@@ -18436,7 +18436,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -33299,6 +33299,24 @@
     },
     {
       "album": {
+        "name": "Na Za D\u00e9sol\u00e9",
+        "url": "https://open.spotify.com/album/1rLDCAOf1YrN1viEJTelte"
+      },
+      "artists": [
+        {
+          "name": "Black Cat",
+          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Na Za D\u00e9sol\u00e9",
+      "url": "https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18"
+    },
+    {
+      "album": {
         "name": "Namek",
         "url": "https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7"
       },
@@ -45141,6 +45159,28 @@
     },
     {
       "album": {
+        "name": "T'avais raison",
+        "url": "https://open.spotify.com/album/6TZKnoVw8CXksbmw4tjkFZ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181083,
+      "name": "T'avais raison",
+      "url": "https://open.spotify.com/track/39zpVyhyhefIUTW8XXxv01"
+    },
+    {
+      "album": {
         "name": "17%",
         "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
       },
@@ -47580,7 +47620,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 198693,
       "name": "Toute la nuit",
       "url": "https://open.spotify.com/track/3ReDT1HLea9eTWEPtwE7fP"
@@ -49544,7 +49584,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 111764,
       "name": "VIANO",
       "url": "https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"

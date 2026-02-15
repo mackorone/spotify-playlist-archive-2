@@ -1,13 +1,29 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 200722,
+  "num_followers": 200755,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAAkOiKL6YsDiiuhCPFWNWo6",
+  "snapshot_id": "aY5pgAAAAABUzHUCdcTnjQ0iQCqFvmXr",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psycho Killer (September 1975 Demo)",
+        "url": "https://open.spotify.com/album/4Cpegfi3SGBmquJP10QR1G"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 255983,
+      "name": "Psycho Killer - September 1975 Demo",
+      "url": "https://open.spotify.com/track/2AVY4lKnZQ0NRXJczP33aQ"
+    },
     {
       "added_at": null,
       "album": {
@@ -491,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Arthur Russell",
-          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
         }
       ],
-      "duration_ms": 257685,
-      "name": "Psycho Killer (Acoustic Version) [feat. Arthur Russell] - 2024 Remaster",
-      "url": "https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv"
+      "duration_ms": 250066,
+      "name": "The Book I Read",
+      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
     },
     {
       "added_at": null,
@@ -523,22 +535,6 @@
       "duration_ms": 387560,
       "name": "The Great Curve - 2005 Remaster",
       "url": "https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "The Book I Read",
-      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
     },
     {
       "added_at": null,
@@ -575,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Don't Worry About the Government",
+      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -587,22 +599,6 @@
       "duration_ms": 204520,
       "name": "Seen and Not Seen - 2005 Remaster",
       "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Pulled Up",
-      "url": "https://open.spotify.com/track/6qSzRfSevJwvfCL1Y2gK45"
     },
     {
       "added_at": null,
@@ -639,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Pulled Up",
+      "url": "https://open.spotify.com/track/6qSzRfSevJwvfCL1Y2gK45"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -651,22 +663,6 @@
       "duration_ms": 267333,
       "name": "Perfect World - 2005 Remaster",
       "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Don't Worry About the Government",
-      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
     },
     {
       "added_at": null,

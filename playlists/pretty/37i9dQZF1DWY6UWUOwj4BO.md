@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,349 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,389 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 2 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 |
 | 3 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
 | 4 | [The Fate of Ophelia \- Alone In My Tower Acoustic Version](https://open.spotify.com/track/3Z2nTctPsTsgqqJm5fCSvG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Fate of Ophelia \(Alone In My Tower Acoustic Version\)](https://open.spotify.com/album/60pPcuYWCIAdcErvx2TLGB) | 3:45 |
-| 5 | [heureux \- Acoustique](https://open.spotify.com/track/4UJJtISILVxeUoRXpPqdpn) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [heureux \(Remix\)](https://open.spotify.com/album/3OlOSEPXVna6V5iBuoNHN1) | 2:25 |
+| 5 | [heureux \(feat\. Grégoire Jokic\) \- Acoustique](https://open.spotify.com/track/4UJJtISILVxeUoRXpPqdpn) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1), [Grégoire Jokic](https://open.spotify.com/artist/6FDcfa9dc1dT6QIvDcIItq) | [heureux \(Remix\)](https://open.spotify.com/album/3OlOSEPXVna6V5iBuoNHN1) | 2:25 |
 | 6 | [Too Sweet](https://open.spotify.com/track/5oCyK3vuoQWzczWNwabnL9) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Too Sweet](https://open.spotify.com/album/7gK9u2KYK8wU6q1o4Mmbiz) | 3:18 |
 | 7 | [Vaitimbora \- Acoustic](https://open.spotify.com/track/1uLA9u8N6GgqQ5kZ4pZCsg) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora \(Acoustic\)](https://open.spotify.com/album/6JzDVUugnZpQYIEImbclJL) | 1:54 |
 | 8 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 |

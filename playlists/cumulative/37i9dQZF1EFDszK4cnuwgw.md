@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-84 songs - 4 hr 33 min
+85 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Karma Krys](https://open.spotify.com/track/0P7eod3BXbvrLxFiOOfR4c) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 3:21 | 2024-06-13 |  |
 | [Klub Stories](https://open.spotify.com/track/4C46orOZ07HhFoInkxYIRO) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Wap5tar](https://open.spotify.com/artist/0ysitIDksCRjXWiyCNaRHC) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:43 | 2024-06-13 |  |
 | [Kold World](https://open.spotify.com/track/5pVlBFnZcXzW613mB9pQVG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:57 | 2024-06-13 |  |
+| [Lasagna](https://open.spotify.com/track/4Elh59m7WL8zLHxGd6rUgc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Lasagna](https://open.spotify.com/album/17UFLnKSALSwQF20X3JpJo) | 2:53 | 2026-02-14 |  |
 | [Lumidee](https://open.spotify.com/track/2KihIG1ZqhFqOU6Q0kzcB9) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Snakes & Ladders](https://open.spotify.com/album/2DDBLFf03iaP8u2NVXN0ZO) | 3:30 | 2024-06-13 |  |
 | [M.A \(Intro\)](https://open.spotify.com/track/5rJ8QqvXG2hQuGr0muuoIk) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 2:13 | 2024-06-13 |  |
 | [Maaan \(Got Me F'd Up\)](https://open.spotify.com/track/2ZIe9Spi6ysxIafCfgLkKo) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:48 | 2024-06-13 |  |

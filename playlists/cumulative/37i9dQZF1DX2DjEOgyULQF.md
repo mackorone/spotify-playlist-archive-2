@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-329 songs - 15 hr 44 min
+330 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Lichen Pillow \- Spa](https://open.spotify.com/track/2nX7khSpIWDFaYoLpPZvDA) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Lichen Pillow](https://open.spotify.com/album/14I1aDJmh1wHCjrUzgA631) | 3:28 | 2023-04-28 | 2025-11-16 |
 | [Light Flow](https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Light Flow](https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE) | 2:59 | 2024-12-20 |  |
 | [Like Water](https://open.spotify.com/track/5cbaZZoB2iYsP7FQHmKRzq) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Light](https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi) | 3:26 | 2023-04-28 | 2023-07-14 |
-| [Limitless](https://open.spotify.com/track/4Z9CDkOyfnVtS2gUgmZe3i) | [Soulström](https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6) | [Limitless](https://open.spotify.com/album/06SkRwuEyIo7ZlAcuFVmvv) | 2:18 | 2025-09-10 |  |
+| [Limitless](https://open.spotify.com/track/4Z9CDkOyfnVtS2gUgmZe3i) | [Soulström](https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6) | [Limitless](https://open.spotify.com/album/06SkRwuEyIo7ZlAcuFVmvv) | 2:18 | 2025-09-10 | 2026-02-15 |
 | [Liora](https://open.spotify.com/track/5zJtd9HHO0K1s0itagJpJA) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Liora](https://open.spotify.com/album/1pxslN8y8JWJ9TmbPUU0SR) | 4:27 | 2025-07-22 |  |
 | [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 | 2026-01-29 |
 | [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 |  |
@@ -322,6 +322,7 @@
 | [Watercolor](https://open.spotify.com/track/3t99n6xfreqB2M8DkInWsy) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Watercolor](https://open.spotify.com/album/63JYstDBGYwj9NkN6b2RHZ) | 2:46 | 2026-01-28 |  |
 | [Wave Son](https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Wave Son](https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE) | 2:38 | 2024-05-01 |  |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 | 2025-03-21 |
+| [Weekend Sun](https://open.spotify.com/track/0XhSIil6uSW7uk1etKrY0v) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Weekend Sun](https://open.spotify.com/album/3kJVq2PmC7dv4JB2Dl7CEg) | 2:39 | 2026-01-28 |  |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 | 2024-06-04 |
 | [Where The Brooks Meet](https://open.spotify.com/track/5cHqSqKnEgI0cisKbURs9E) | [Elemental Zenith](https://open.spotify.com/artist/0FrO30oOOv1iUUHtQa1Ipo) | [Where The Brooks Meet](https://open.spotify.com/album/0bofFssElhFqHYGa6djOAZ) | 2:48 | 2025-05-21 | 2025-12-07 |
 | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM) | 3:27 | 2025-09-10 |  |

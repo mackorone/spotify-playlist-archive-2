@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8570,
+  "num_followers": 8571,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAAI81sYhofSsBSuwUBEVg6S",
+  "snapshot_id": "aY5pgAAAAADvvdLQ8mI5jN9rTpqkgRAW",
   "tracks": [
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 296026,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/2N4n6rctAvK92eAqMMP8Pt"
+      "duration_ms": 163173,
+      "name": "A Dios",
+      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 163173,
-      "name": "A Dios",
-      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
+      "duration_ms": 296026,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/2N4n6rctAvK92eAqMMP8Pt"
     },
     {
       "added_at": null,

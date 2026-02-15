@@ -1,13 +1,65 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2689,
+  "num_followers": 2690,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARX49pMn7Zjh3XZ5a0kqDuSCLJtTa+",
+  "snapshot_id": "AAARYmfxgjCEkxHDASWdDaRK2esgq8vR",
   "tracks": [
+    {
+      "added_at": "2026-02-14 13:04:13",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/4fuYsMZNsLN7hcNOxBAs3b"
+      },
+      "artists": [
+        {
+          "name": "Bruno Costa",
+          "url": "https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2"
+        }
+      ],
+      "duration_ms": 273807,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/15Q9SQko1GwHLb9jEbC4cc"
+    },
+    {
+      "added_at": "2026-02-14 07:10:16",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/0XqhGYiiGzr38728SB7IMr"
+      },
+      "artists": [
+        {
+          "name": "Angelo Raguso",
+          "url": "https://open.spotify.com/artist/05z2LcBXV8pdayRRSouURw"
+        },
+        {
+          "name": "Fabio Piletto",
+          "url": "https://open.spotify.com/artist/51nT0ktJWgt5nGwCer3M1u"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/7ghVFZmTeb8oxYu2EnKfBA"
+    },
+    {
+      "added_at": "2026-02-14 04:33:48",
+      "album": {
+        "name": "Liberty / Equanimity",
+        "url": "https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4"
+      },
+      "artists": [
+        {
+          "name": "Capitan Anderson",
+          "url": "https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4"
+        }
+      ],
+      "duration_ms": 340748,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/64vnvKNR4XDM2DoFxBwAH0"
+    },
     {
       "added_at": "2026-02-13 23:16:06",
       "album": {

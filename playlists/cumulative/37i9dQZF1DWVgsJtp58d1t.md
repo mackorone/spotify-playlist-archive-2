@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: J\. Cole
 
-5,700 songs - 12 day 1 hr 17 min
+5,701 songs - 12 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4077,6 +4077,7 @@
 | [Reasons](https://open.spotify.com/track/15FdDuufWadAY8prAlTlth) | [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23) | [Reasons](https://open.spotify.com/album/2NpEJjSIzohW1BGm4sBkhq) | 2:27 | 2022-06-24 | 2022-07-23 |
 | [REBIRTH OF SLICK \(COOL LIKE DAT\)](https://open.spotify.com/track/2mcw3TBOZLMJ5DveyfcA3k) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [REBIRTH OF SLICK \(COOL LIKE DAT\)](https://open.spotify.com/album/6AZsAsjSYahsVDKGMcgiYN) | 3:04 | 2025-08-08 | 2025-08-30 |
 | [RECIPE FOR LOVE](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 | 2024-07-12 | 2024-07-14 |
+| [Reckless](https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Reckless](https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym) | 2:18 | 2026-02-14 |  |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 | 2023-04-15 |
 | [Reclusive](https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Reclusive](https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz) | 3:06 | 2026-01-26 |  |
 | [recognize](https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [recognize](https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx) | 3:13 | 2022-10-14 | 2022-10-29 |
@@ -5005,7 +5006,7 @@
 | [Therapy Sessions ft\. Lingo](https://open.spotify.com/track/2hMoSGwdahqcCfS4atHyyx) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Lingo](https://open.spotify.com/artist/4GAxjhBYTZkWJgoB7y1g9h) | [I'm Him 2](https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp) | 3:38 | 2025-03-21 | 2025-04-26 |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 | 2024-08-03 |
 | [There's Just Something About Her](https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [There's Just Something About Her](https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar) | 3:12 | 2025-09-26 | 2025-10-04 |
-| [They Love Me](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [They Love Me](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 | 2026-02-13 |  |
+| [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 | 2026-02-13 |  |
 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-04 | 2022-11-21 |
 | [They Want It, But No](https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 | 2022-11-04 | 2022-11-26 |
 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 | 2023-11-17 | 2023-11-30 |

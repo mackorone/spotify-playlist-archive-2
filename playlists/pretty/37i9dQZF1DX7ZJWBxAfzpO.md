@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 10 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 10 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

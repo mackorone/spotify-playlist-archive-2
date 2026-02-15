@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in every corner of modern punk rock\. Cover: Joyce Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,846 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,860 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 54 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
 | 55 | [A Hero's Grave](https://open.spotify.com/track/2HO6HRGaJCEaOy1Ij00Ktm) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [A Hero's Grave](https://open.spotify.com/album/69B0lt3Uzk0DB7R1bktyP6) | 3:05 |
 | 56 | [Rejects](https://open.spotify.com/track/7e10ktiWNDxCZQKLRP2cm8) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 2:54 |
-| 57 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 |
-| 58 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 |
+| 57 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 |
+| 58 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 |
 | 59 | [Common Sense](https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Common Sense](https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6) | 3:11 |
 | 60 | [Holding On](https://open.spotify.com/track/7jN7smoJBinwHMfxmu3gxi) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons/West](https://open.spotify.com/album/5ntbH8ZQsmgZELd2zWCRCs) | 3:35 |
 | 61 | [Oblivion](https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Oblivion](https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO) | 3:12 |
-| 62 | [Hablame Bonito](https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Hablame Bonito](https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y) | 2:55 |
-| 63 | [Rain](https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Even If I Never Get There](https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7) | 2:43 |
+| 62 | [Rain](https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Even If I Never Get There](https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7) | 2:43 |
+| 63 | [Hablame Bonito](https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Hablame Bonito](https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y) | 2:55 |
 | 64 | [Spineless](https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Keep Planting Flowers](https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR) | 3:23 |
 | 65 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
 | 66 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 68 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 |
 | 69 | [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 |
 | 70 | [S2L](https://open.spotify.com/track/5tYLtTRxtITNZ4QIUWQVI5) | [Grave Secrets](https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo) | [S2L](https://open.spotify.com/album/3qiGxtR72UMbFBI1nzlKUi) | 2:18 |
-| 71 | [Burnout](https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Burnout](https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd) | 2:28 |
-| 72 | [Will](https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM) | [Love Rarely](https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM) | [Will](https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe) | 3:18 |
+| 71 | [Will](https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM) | [Love Rarely](https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM) | [Will](https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe) | 3:18 |
+| 72 | [Burnout](https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Burnout](https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd) | 2:28 |
 | 73 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 |
 | 74 | [All In](https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Burnout \(Deluxe\)](https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7) | 3:36 |
-| 75 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [SLEEP WHEN I'M DEAD](https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9) | 2:26 |
-| 76 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 |
-| 77 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 |
+| 75 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 |
+| 76 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 |
+| 77 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [SLEEP WHEN I'M DEAD](https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9) | 2:26 |
 | 78 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
 | 79 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 |
 | 80 | [Pub Watch](https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Pub Watch](https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L) | 3:20 |

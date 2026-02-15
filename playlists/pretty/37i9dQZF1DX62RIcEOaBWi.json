@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 575707,
+  "num_followers": 575690,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "ASI ES LA VIDA",
         "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "a nuevos lugares",
         "url": "https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 161875,
       "name": "noche de san juan",
       "url": "https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Follow You / Cutthroat",
-        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Follow You / Cutthroat",
+        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Some Say",
-        "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 175601,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Porfa no te vayas",
         "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Some Say",
+        "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 175601,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Desde Mi Azotea",
+        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+      },
+      "artists": [
+        {
+          "name": "Navajita Platea",
+          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Noches de bohemia - Radio Edit",
+      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 176881,
       "name": "Palabra Prohibida",
       "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Desde Mi Azotea",
-        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
-      },
-      "artists": [
-        {
-          "name": "Navajita Platea",
-          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Noches de bohemia - Radio Edit",
-      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Nuclear",
+        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 229406,
+      "name": "No Te Preocupes por Mi",
+      "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 217476,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Nuclear",
-        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 229406,
-      "name": "No Te Preocupes por Mi",
-      "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 185482,
       "name": "Sue\u00f1o (con Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/71M1szVbVYZM5M6QlIm6aC"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2603,26 +2603,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "A Contracorriente",
-        "url": "https://open.spotify.com/album/4GAsbhINFlN5K9PZ6vEaCW"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        },
-        {
-          "name": "Amaia Montero",
-          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Puede Ser (with Amaia Montero)",
-      "url": "https://open.spotify.com/track/1TtwCkFbGv89XmuUNmoINt"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -2643,6 +2623,26 @@
       "duration_ms": 199880,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "A Contracorriente",
+        "url": "https://open.spotify.com/album/4GAsbhINFlN5K9PZ6vEaCW"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        },
+        {
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Puede Ser (with Amaia Montero)",
+      "url": "https://open.spotify.com/track/1TtwCkFbGv89XmuUNmoINt"
     },
     {
       "added_at": "2025-07-18 14:13:17",

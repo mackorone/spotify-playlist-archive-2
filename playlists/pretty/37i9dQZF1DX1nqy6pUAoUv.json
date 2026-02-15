@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170826,
+  "num_followers": 170827,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Save My Life (Radio Edit)",
-        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Save My Life - Radio Edit",
-      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Save My Life (Radio Edit)",
+        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Save My Life - Radio Edit",
+      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Beyond The Bloodhounds",
         "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 257920,
       "name": "You Led Me To The Wrong",
       "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Black Sun",
-        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
-      },
-      "artists": [
-        {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Black Sun",
-      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Gold Record",
         "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Black Sun",
+        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+        }
+      ],
+      "duration_ms": 206634,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 286139,
-      "name": "Bullet Holes in the Sky",
-      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 286139,
+      "name": "Bullet Holes in the Sky",
+      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Songs Of",
-        "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
-      },
-      "artists": [
-        {
-          "name": "Spencer Burton",
-          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Unmistakable Love",
-      "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 229810,
       "name": "My Heart Aches",
       "url": "https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Songs Of",
+        "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Unmistakable Love",
+      "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306216,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "I Will Be Your Shield",
         "url": "https://open.spotify.com/album/1rcdnPaa79UeiOmkLHbDGU"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 211693,
       "name": "I Will Be Your Shield",
       "url": "https://open.spotify.com/track/4RvvquKe1Ohb2eU4d3eJWn"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 306216,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2025-09-02 20:08:27",

@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: TOOBOE
 
-1,608 songs - 4 day 1 hr 6 min
+1,609 songs - 4 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Alone and hallway window](https://open.spotify.com/track/1HVpMLk4rsUgSqIC2KAuiK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Tales of the Night](https://open.spotify.com/album/7qlCw6DMMLAJchFfTFjXDe) | 3:19 | 2024-09-17 | 2025-01-15 |
 | [AM](https://open.spotify.com/track/0FjXon3qU032Gbxn4mfgRZ) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [AM](https://open.spotify.com/album/1u1MptFMEBl54GesuSxghf) | 3:49 | 2023-11-14 | 2023-11-22 |
 | [AM](https://open.spotify.com/track/3PIbikkz34top9WuKEvXiF) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [AM](https://open.spotify.com/album/5Nepx5m7eUkT6cGPfZw5P1) | 2:35 | 2025-03-25 | 2025-07-09 |
+| [AM](https://open.spotify.com/track/6oibBt86wWiJNs6IBd21lj) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [AM](https://open.spotify.com/album/0XIV6MTXs8L5rqcrSGyB2M) | 3:19 | 2026-02-11 |  |
 | [and goodbye](https://open.spotify.com/track/2q0yivuouiWPPYVzrnwgZC) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [ジオメトリック / and goodbye](https://open.spotify.com/album/3m5kqS9jeEo7YAqm5H2qXe) | 3:39 | 2024-09-24 | 2025-01-22 |
 | [Another World \- Alt\. ver.](https://open.spotify.com/track/0Ig0YS2HO6bPBhWgJ0OLXr) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Another World \(Alt\. ver.\)](https://open.spotify.com/album/57dmGLpMBQyVWOVlvFOcnV) | 5:30 | 2025-01-21 | 2025-03-08 |
 | [Anthem](https://open.spotify.com/track/3iDnDV4DW7s2qcUkSSB9tt) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [BREAK](https://open.spotify.com/album/1Eb5E83ZUfv4FINHVRCrfU) | 4:20 | 2024-02-13 | 2024-02-28 |
@@ -891,7 +892,7 @@
 | [エロティック](https://open.spotify.com/track/6sDohyBdbQmvTCzAEl8y8J) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [夏服](https://open.spotify.com/album/2W0ZRLKoz4M684ZNx6hKoW) | 3:30 | 2026-02-11 |  |
 | [エンドレスジャーニー](https://open.spotify.com/track/5VfJkGBRJdBpmkEiVOJI6y) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [START](https://open.spotify.com/album/2s1WUZU5oDyCa5q9nMuk2Z) | 3:04 | 2025-04-08 | 2025-04-16 |
 | [エンドレス・ユニバース](https://open.spotify.com/track/6FeN6P96XeaeBrGqZrlqXn) | [POOL ICE MOON](https://open.spotify.com/artist/6GY3lVxLVIY72z1SLHrYqk) | [エンドレス・ユニバース](https://open.spotify.com/album/5z8EvIMoc0BWEk3O197GHp) | 3:49 | 2024-01-31 | 2024-02-07 |
-| [エンドロール](https://open.spotify.com/track/6vIwKLsUcUj3ISqQ2WqkEH) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [エンドロール](https://open.spotify.com/album/58WdVP8DntfxHSPY8E89ZY) | 4:08 | 2026-02-11 |  |
+| [エンドロール](https://open.spotify.com/track/6vIwKLsUcUj3ISqQ2WqkEH) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [エンドロール](https://open.spotify.com/album/58WdVP8DntfxHSPY8E89ZY) | 4:08 | 2026-02-11 | 2026-02-15 |
 | [エンドロールが終わっても](https://open.spotify.com/track/4hTHdOA2HlepiSflL1qOKW) | [Moon In June](https://open.spotify.com/artist/1pfSAdbaYwRontpr916mmr) | [エンドロールが終わっても](https://open.spotify.com/album/2nYYR8IN6e8GlHBszYzV9o) | 3:42 | 2025-02-18 | 2025-03-05 |
 | [エンヴィーガール](https://open.spotify.com/track/1Gbw7iYwKLNxQzK0qeVi9k) | [Gum\-9](https://open.spotify.com/artist/1YSj6FRViBXAzCzoKKaoGn) | [エンヴィーガール](https://open.spotify.com/album/4O7uU7xaGFBOW1Jfqs6Ymi) | 2:59 | 2025-11-18 | 2025-12-03 |
 | [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 | 2024-02-06 | 2024-09-25 |

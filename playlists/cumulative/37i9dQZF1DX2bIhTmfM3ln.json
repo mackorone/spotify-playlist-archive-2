@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 126206,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/7HBNQu4Fe6DHm6T1KRSIVc"
@@ -4080,6 +4080,28 @@
       "duration_ms": 146666,
       "name": "Days Pass By",
       "url": "https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn"
+    },
+    {
+      "album": {
+        "name": "DEARLY",
+        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "DEARLY",
+      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
     },
     {
       "album": {
@@ -6008,7 +6030,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 164458,
       "name": "For Life",
       "url": "https://open.spotify.com/track/3AQQQuvDhbER2K6a9ZajdE"
@@ -17040,6 +17062,24 @@
       "duration_ms": 176842,
       "name": "The Love Song (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
+    },
+    {
+      "album": {
+        "name": "THEY LOVE ME",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "THEY LOVE ME",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72384,
+  "num_followers": 72387,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACX1axf4vU2des0p6A4MG8P",
+  "snapshot_id": "aY5pgAAAAABGS8j9sX7sjohzCNF7GUEG",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,26 @@
       "duration_ms": 196992,
       "name": "Colorful",
       "url": "https://open.spotify.com/track/1ZNA97eexX3HC41WgD0dab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Bitz",
+        "url": "https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Funky Bitz",
+      "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
     },
     {
       "added_at": null,
@@ -195,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toulouse (Bobby Anthony Vocal Mix)",
+        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Toulouse - Bobby Anthony Vocal Mix",
+      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoria (with Alok) [Remixes]",
         "url": "https://open.spotify.com/album/6GtBFfPxRTQSOWUz6Pta2O"
       },
@@ -223,22 +259,6 @@
       "duration_ms": 226153,
       "name": "Euphoria (with Alok) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/6d0duxbMzPZJ4t0510fqhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toulouse (Bobby Anthony Vocal Mix)",
-        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Toulouse - Bobby Anthony Vocal Mix",
-      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
     },
     {
       "added_at": null,
@@ -447,30 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
-      },
-      "artists": [
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "XYL\u00d8",
-          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
       },
@@ -511,6 +507,30 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
     },
     {
       "added_at": null,
@@ -607,34 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now I See You",
-        "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "LE\u00d8N",
-          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
-        },
-        {
-          "name": "Aeni",
-          "url": "https://open.spotify.com/artist/1VBgJ5HRetfyv7SW8PQdEF"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 167336,
-      "name": "Now I See You",
-      "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KYGO (The Remixes)",
         "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
       },
@@ -663,6 +655,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now I See You",
+        "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LE\u00d8N",
+          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
+        },
+        {
+          "name": "Aeni",
+          "url": "https://open.spotify.com/artist/1VBgJ5HRetfyv7SW8PQdEF"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 167336,
+      "name": "Now I See You",
+      "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nights With You",
         "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
       },
@@ -675,30 +695,6 @@
       "duration_ms": 149200,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We're Still Young",
-        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "We're Still Young",
-      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
       "added_at": null,
@@ -727,6 +723,30 @@
       "duration_ms": 158769,
       "name": "Love You for the Summer - Kohen Remix",
       "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're Still Young",
+        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "We're Still Young",
+      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
       "added_at": null,
@@ -779,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Need You To Know",
         "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
     },
     {
       "added_at": null,
@@ -995,8 +1015,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Comes",
-        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
       "artists": [
         {
@@ -1004,17 +1024,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
         }
       ],
-      "duration_ms": 211771,
-      "name": "Tomorrow Comes",
-      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -1043,8 +1059,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+        "name": "Tomorrow Comes",
+        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
       "artists": [
         {
@@ -1052,13 +1068,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
         }
       ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
+      "duration_ms": 211771,
+      "name": "Tomorrow Comes",
+      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
     },
     {
       "added_at": null,
@@ -1135,30 +1155,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hero (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Hero - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
     }
   ],
   "unique_name": "This Is Nicky Romero",

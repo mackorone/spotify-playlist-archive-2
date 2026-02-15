@@ -4,7 +4,7 @@
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 54 min
+76 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Menace](https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 2:24 | 2023-06-07 |  |
 | [Menace 2 \(Migos, Lil Yachty\)](https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:24 | 2024-05-20 | 2025-12-01 |
 | [Modern Day](https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:01 | 2023-06-07 | 2025-05-29 |
+| [Moses](https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Excuse My French \(Deluxe 2.0\)](https://open.spotify.com/album/1l3H0aPipDIi5XAbthkciZ) | 4:32 | 2026-02-15 |  |
 | [MotorSport](https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 5:03 | 2023-06-07 |  |
 | [My Family \- from "The Addams Family"](https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [My Family \(feat\. Migos\) \[from "The Addams Family"\]](https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2) | 2:57 | 2023-06-07 |  |
 | [Narcos](https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:15 | 2023-06-07 |  |
@@ -60,7 +61,7 @@
 | [Open It Up](https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:05 | 2023-06-07 | 2024-11-12 |
 | [Peek A Boo](https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Peek A Boo](https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b) | 4:07 | 2023-06-07 | 2025-04-07 |
 | [Picasso \(feat\. Future\)](https://open.spotify.com/track/2kPlWEOm2tQlaZRE01IbBQ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:32 | 2024-05-19 | 2024-05-20 |
-| [Pipe It Up](https://open.spotify.com/track/3Y92OZ52FYwlIaeA3dMcCD) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Yung Rich Nation](https://open.spotify.com/album/34DPoSeDW5fw2QW9Hl5Y92) | 3:26 | 2024-01-21 |  |
+| [Pipe It Up](https://open.spotify.com/track/3Y92OZ52FYwlIaeA3dMcCD) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Yung Rich Nation](https://open.spotify.com/album/34DPoSeDW5fw2QW9Hl5Y92) | 3:26 | 2024-01-21 | 2026-02-15 |
 | [Pure Water \(with Migos\)](https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:12 | 2023-06-07 |  |
 | [Racks 2 Skinny](https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Racks 2 Skinny](https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK) | 2:58 | 2023-06-07 |  |
 | [RAW SHIT \(feat\. Migos\)](https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:36 | 2023-06-07 |  |

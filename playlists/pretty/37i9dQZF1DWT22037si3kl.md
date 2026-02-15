@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,442 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,454 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 33 | [SP](https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [SP](https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX) | 2:35 |
 | 34 | [É Que os Menino É Bom](https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [É Que os Menino É Bom](https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE) | 2:25 |
 | 35 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
-| 36 | [ADO aADO](https://open.spotify.com/track/1jaLswTSnOmawTzDH8SeBq) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP) | [Super Negro Vol.1](https://open.spotify.com/album/59Z3pymUOfVG6vhNifn84p) | 2:36 |
+| 36 | [NOITE DE TRAP](https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP), [D.A.A.N](https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v) | [NOITE DE TRAP](https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f) | 2:07 |
 | 37 | [Eu Meto Bronca](https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Eu Meto Bronca](https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl) | 2:37 |
-| 38 | [NOITE DE TRAP](https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP), [D.A.A.N](https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v) | [NOITE DE TRAP](https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f) | 2:07 |
+| 38 | [ADO aADO](https://open.spotify.com/track/1jaLswTSnOmawTzDH8SeBq) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP) | [Super Negro Vol.1](https://open.spotify.com/album/59Z3pymUOfVG6vhNifn84p) | 2:36 |
 | 39 | [placo no pulso](https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf) | [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP), [Caio Shock](https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp) | [placo no pulso](https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X) | 2:56 |
 | 40 | [Uen Uen Uen](https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6) | [Uen Uen Uen](https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv) | 3:28 |
 | 41 | [IMPÉRIO](https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [IMPÉRIO](https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S) | 2:30 |

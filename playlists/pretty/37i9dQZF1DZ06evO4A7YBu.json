@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 42218,
+  "num_followers": 42225,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAAJF8JAajgmzCZy43FkwrR+",
+  "snapshot_id": "aY5pgAAAAAAx0GT6JdPBLsYOgKpjnqkc",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "This Is Not",
-      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 260306,
       "name": "Otsego Placebo",
       "url": "https://open.spotify.com/track/4N0Nj84Jnnu5BngBU5IuT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "This Is Not",
+      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 191470,
-      "name": "Z0mbie",
-      "url": "https://open.spotify.com/track/3gjxkZ22HCvjdhV06wh4PK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 161893,
       "name": "Hollow (Project Regeneration)",
       "url": "https://open.spotify.com/track/3O4xkk0dkAuq21uZHiXhcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 191470,
+      "name": "Z0mbie",
+      "url": "https://open.spotify.com/track/3gjxkZ22HCvjdhV06wh4PK"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/6mUR4wsbcBvsUoL8vMwbSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 215280,
       "name": "Bring You Down (Project Regeneration)",
       "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/6mUR4wsbcBvsUoL8vMwbSG"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "No Submission",
-      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beneath...Between...Beyond...",
         "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 166133,
       "name": "Head",
       "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "No Submission",
+      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
     }
   ],
   "unique_name": "This Is Static-X",

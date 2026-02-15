@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Any Young Mechanic on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,825 likes - 78 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,855 likes - 78 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 | 77 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 |
 | 78 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 |
 
-Snapshot ID: `AAAAAMGDFSRngL1wBUjmK/v/X7upXuwu`
+Snapshot ID: `AAAAAFMkup9cKlD83Z868qdLPl6K3R4F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,026 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,015 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 47 | [So Cold](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI) | [So Cold](https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW) | 3:10 |
 | 48 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 |
 | 49 | [Breathing](https://open.spotify.com/track/1SpPYZXLuUJ7BxiK16PNeb) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/6PkMBdWyPN8jeNtyHcB3N2) | 3:42 |
-| 50 | [Sight Of You](https://open.spotify.com/track/2rw5o91jFj0YD8NzahuZYs) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Sight Of You](https://open.spotify.com/album/1yOhJSW1qqd1X1tvzKKsZn) | 4:11 |
+| 50 | [Fly Fly Fly](https://open.spotify.com/track/5jCiINCQpLYmJOrQLWJKea) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Drown In Darkness](https://open.spotify.com/album/3erxhaWVPRBTYsrPWmmmHw) | 3:13 |
 
 Snapshot ID: `AAAAALRrWqChzQ3nUTIxeDy7hi0IB97D`

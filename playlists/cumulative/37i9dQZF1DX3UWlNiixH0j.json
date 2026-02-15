@@ -16934,7 +16934,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 282000,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2"
@@ -41634,6 +41634,24 @@
       "duration_ms": 212480,
       "name": "\u30ac\u30fc\u30ea\u30fc\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/0oRSPM7JaC60w4yuTjiMNX"
+    },
+    {
+      "album": {
+        "name": "\u30ac\u30fc\u30eb\u30ba\u30c8\u30fc\u30af",
+        "url": "https://open.spotify.com/album/0IjdwdBMANLOu6f2bw6BCm"
+      },
+      "artists": [
+        {
+          "name": "ailly",
+          "url": "https://open.spotify.com/artist/56Z0E4q8XNBOd6wSt5mviP"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "\u30ac\u30fc\u30eb\u30ba\u30c8\u30fc\u30af",
+      "url": "https://open.spotify.com/track/2GEBhQNTwxfyHMPEMpNorJ"
     },
     {
       "album": {

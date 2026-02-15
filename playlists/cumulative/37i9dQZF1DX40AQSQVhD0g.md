@@ -4,7 +4,7 @@
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-279 songs - 16 hr 35 min
+280 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 | 2022-02-14 |  |
 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 | 2022-02-14 |  |
 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 | 2022-02-14 | 2022-09-28 |
+| [Con el Corazón](https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1) | 3:09 | 2026-02-13 |  |
 | [Confianza](https://open.spotify.com/track/100ii8vyiQcsG8xgjF91o9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Sellos De Mi ADN](https://open.spotify.com/album/7AlJP43RzNgHtOLyBMh9Pj) | 3:36 | 2022-02-14 | 2022-07-29 |
 | [Confundida](https://open.spotify.com/track/3XMDKSbYx71lTbdTt60Yhu) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Confundida](https://open.spotify.com/album/0agcnt1yXpLvl7BYyZlxzM) | 2:32 | 2022-07-19 | 2022-07-29 |
 | [Confundida](https://open.spotify.com/track/6bTzVDkquLTnPhaBHL89pf) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Confundida](https://open.spotify.com/album/3qh2ZmXjrgtuPrEnyGkdqp) | 2:32 | 2022-07-19 | 2022-10-04 |
@@ -284,7 +285,7 @@
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2022-10-03 | 2024-05-08 |
 | [Y Como Quieres Que Te Quiera](https://open.spotify.com/track/0lupD4hTJaH9h3SHMGymIK) | [Fabian Gomez](https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3) | [Y Como Quieres Que Te Quiera?](https://open.spotify.com/album/6zGj3iA3V82YD3Eb9I6Bj1) | 3:00 | 2022-02-14 | 2022-07-27 |
 | [Y Llegaste Tú](https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Contigo Por Siempre](https://open.spotify.com/album/10bfwCIfySATCoekmUjeab) | 3:16 | 2022-02-14 |  |
-| [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 | 2022-02-14 |  |
+| [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 | 2022-02-14 | 2026-02-15 |
 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 | 2022-02-14 | 2024-05-08 |
 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 | 2022-02-14 | 2025-12-11 |
 

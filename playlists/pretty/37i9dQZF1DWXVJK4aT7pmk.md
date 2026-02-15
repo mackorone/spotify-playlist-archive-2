@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Thiarajxtt & Bir
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,462 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492,906 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 11 | [Midnight Call](https://open.spotify.com/track/37Uxo75YZUGjCfV1WnZE4k) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 2:43 |
 | 12 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 |
 | 13 | [Sirra](https://open.spotify.com/track/3QsGq1Xd1n8qc9hwSPzQgj) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:26 |
-| 14 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 1:59 |
+| 14 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 2:00 |
 | 15 | [LAAVAN](https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [LAAVAN](https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah) | 3:05 |
 | 16 | [Deewane](https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:26 |
 | 17 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 |

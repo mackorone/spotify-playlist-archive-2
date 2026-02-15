@@ -4,7 +4,7 @@
 
 > Some of the most beautiful love songs en français <3
 
-205 songs - 12 hr 33 min
+206 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Et si tu n'existais pas](https://open.spotify.com/track/3vIl0TRgS1UpxSTL8a19WF) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 3:27 | 2021-01-30 | 2022-11-14 |
 | [Et si tu n'existais pas](https://open.spotify.com/track/7aSXnm1hOSvDTAJJUqavOS) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Best Of L'Album Souvenir](https://open.spotify.com/album/1i5iA41fk0Hv1p1DS3LVfo) | 3:28 | 2021-01-30 | 2022-07-27 |
 | [Explosion](https://open.spotify.com/track/0JKO9jlTWf5yzIMSyiS78i) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [La grande nuit vidéo](https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv) | 2:30 | 2022-01-18 | 2022-07-29 |
+| [Facile](https://open.spotify.com/track/6r9bGYQzXAY29e6JzadyrY) | [MARISOL](https://open.spotify.com/artist/3nDAA2eQulfDw50we3zdhW) | [Facile](https://open.spotify.com/album/1F1T4PKb3jQisCWIh394zG) | 3:57 | 2026-02-14 |  |
 | [Faufile](https://open.spotify.com/track/3pgnyg25pkcNlcKuaKnh6b) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Big Boy](https://open.spotify.com/album/3VEHArYf1TweZAxKlX0P8R) | 2:32 | 2026-01-30 |  |
 | [Flamme](https://open.spotify.com/track/5mNzJwI6K103A3I46l081D) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Flamme](https://open.spotify.com/album/2IHawKPF8EooRyVBYz3y1d) | 2:44 | 2023-01-26 | 2026-01-31 |
 | [Fous n'importe où](https://open.spotify.com/track/5MKId9F23fnNNyQdU8F3Fn) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Joli chaos](https://open.spotify.com/album/1S6ndRRa3VdPZv8eodOgUq) | 3:57 | 2022-01-18 | 2022-07-17 |

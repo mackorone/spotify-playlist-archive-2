@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 498 likes - 82 songs - 4 hr 52 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 500 likes - 84 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 80 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 |
 | 81 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
 | 82 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
+| 83 | [The appointment \(losing an old friend\)](https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [The appointment \(losing an old friend\)](https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R) | 6:53 |
+| 84 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 |
 
-Snapshot ID: `AAACnqMsiLia4HlfxsbvgT7+7EVm6PoZ`
+Snapshot ID: `AAACoAT7ZnoYek250cwxBsTNOux8WCgG`

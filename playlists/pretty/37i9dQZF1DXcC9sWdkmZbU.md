@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,353 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,385 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 33 | [This Is My Father's World \- From Pippa And The Singing Tree](https://open.spotify.com/track/2B59Pvir5WHVZYicWhjiAB) | [The Getty Girls](https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [This Is My Father's World \(From Pippa And The Singing Tree\)](https://open.spotify.com/album/7qaxZz4ttunI9fG24X1lN3) | 3:00 |
 | 34 | [Your Ways \(Isaiah 55\) \- Live](https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Your Ways \(Isaiah 55\) \[Live\]](https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q) | 4:02 |
 | 35 | [Christ The Lord Is Risen Today](https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Spring Songs](https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR) | 3:12 |
-| 36 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
-| 37 | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS) | [The Corner Room](https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg) | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F) | 2:40 |
+| 36 | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS) | [The Corner Room](https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg) | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F) | 2:40 |
+| 37 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
 | 38 | [How Great Is Our God](https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 4:00 |
 | 39 | [Your Name \(Psalm 40\) \- Live](https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:50 |
 | 40 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |

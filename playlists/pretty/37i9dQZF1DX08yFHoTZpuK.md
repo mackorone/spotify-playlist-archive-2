@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,932 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,977 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 31 | [WANDALAND](https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [WANDALAND](https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j) | 2:39 |
 | 32 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
 | 33 | [WOKE UP x XDM](https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [XDM Unidentified Waves](https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205) | 3:09 |
-| 34 | [Don't Cry \- feat\. Sagiri Sól](https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Don't Cry \(feat\. Sagiri Sól\)](https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA) | 4:26 |
-| 35 | [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 |
+| 34 | [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 |
+| 35 | [Don't Cry \- feat\. Sagiri Sól](https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Don't Cry \(feat\. Sagiri Sól\)](https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA) | 4:26 |
 | 36 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
 | 37 | [go!](https://open.spotify.com/track/5t2y268snYiNava21XWxMZ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 2:11 |
 | 38 | [Quiet Town of Tokyo](https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:06 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 47 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
 | 48 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
 | 49 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
-| 50 | [HI!GA!MI!](https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [F!C!O!](https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [HI!GA!MI!](https://open.spotify.com/album/7LCTafhxWY92qtbfPqBZE3) | 3:09 |
+| 50 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
 
 Snapshot ID: `AAAAANgfrOzJt9xr+eUGPVHOj/Q26R7x`

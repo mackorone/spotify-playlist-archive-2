@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 55348,
+  "num_followers": 55354,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABfiA4CsmlcCmN/6p53KkZJ",
+  "snapshot_id": "aY5pgAAAAAAzxWE+sYOmespcSB7NyR3N",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
       "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 161010,
-      "name": "Talk Olympics",
-      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
+      "duration_ms": 87893,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
     },
     {
       "added_at": null,
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
       },
       "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 87893,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
+      "duration_ms": 161010,
+      "name": "Talk Olympics",
+      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satellite Business 2.0",
-        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Satellite Business 2.0",
-      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Location (feat. Little Simz)",
         "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 245045,
       "name": "Location (feat. Little Simz)",
       "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
       "added_at": null,

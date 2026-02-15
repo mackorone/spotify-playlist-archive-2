@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
-  "num_followers": 82286,
+  "num_followers": 82307,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -281,7 +281,7 @@
       "artists": [
         {
           "name": "El Primo Manolo Y Sus Rieleros",
-          "url": "https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh"
+          "url": "https://open.spotify.com/artist/6UaJJN4846IQA9ZFoybyJI"
         }
       ],
       "duration_ms": 180280,
@@ -403,8 +403,8 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "Que Me Importa",
-        "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
       "artists": [
         {
@@ -412,13 +412,17 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/0e6D3qB0KX2prNMoN7EciR"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 208541,
-      "name": "Que Me Importa",
-      "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -587,8 +591,8 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+        "name": "Que Me Importa",
+        "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
       "artists": [
         {
@@ -596,17 +600,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/0e6D3qB0KX2prNMoN7EciR"
         }
       ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+      "duration_ms": 208541,
+      "name": "Que Me Importa",
+      "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "Chapayeka (Puro Chucky) (En Vivo)",
-        "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
+        "name": "El Beneficio De La Duda (En Vivo)",
+        "url": "https://open.spotify.com/album/7w82mNnGvXaO6XI728hz3a"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 182750,
-      "name": "Mi \u00danico Camino (En Vivo)",
-      "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
+      "duration_ms": 274954,
+      "name": "El Beneficio De La Duda (En Vivo)",
+      "url": "https://open.spotify.com/track/3yIoIPMrHQ5uZoTFaPQgB3"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "El Beneficio De La Duda (En Vivo)",
-        "url": "https://open.spotify.com/album/7w82mNnGvXaO6XI728hz3a"
+        "name": "Chapayeka (Puro Chucky) (En Vivo)",
+        "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 274954,
-      "name": "El Beneficio De La Duda (En Vivo)",
-      "url": "https://open.spotify.com/track/3yIoIPMrHQ5uZoTFaPQgB3"
+      "duration_ms": 182750,
+      "name": "Mi \u00danico Camino (En Vivo)",
+      "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
-        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
-      "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
-    },
-    {
-      "added_at": "2026-01-23 07:31:02",
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 172898,
       "name": "Tus Verdades (En Vivo)",
       "url": "https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM"
+    },
+    {
+      "added_at": "2026-01-23 07:31:02",
+      "album": {
+        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
+      "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "Recordando Ariel Camacho (Live)",
-        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "El Karma - Live",
-      "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
-    },
-    {
-      "added_at": "2026-01-23 07:31:02",
-      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
+    },
+    {
+      "added_at": "2026-01-23 07:31:02",
+      "album": {
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "El Karma - Live",
+      "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1571,22 +1571,6 @@
       "duration_ms": 183842,
       "name": "Mi Luna, Mi Estrella",
       "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
-    },
-    {
-      "added_at": "2026-01-23 07:31:02",
-      "album": {
-        "name": "Recordando Ariel Camacho (Live)",
-        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 212688,
-      "name": "Hablemos - Live",
-      "url": "https://open.spotify.com/track/1puzMBz3y9RgaqfXAGv383"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1659,6 +1643,22 @@
       "duration_ms": 172000,
       "name": "Fruta Prohibida - En Vivo",
       "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "added_at": "2026-01-23 07:31:02",
+      "album": {
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 212688,
+      "name": "Hablemos - Live",
+      "url": "https://open.spotify.com/track/1puzMBz3y9RgaqfXAGv383"
     },
     {
       "added_at": "2026-01-23 07:31:02",

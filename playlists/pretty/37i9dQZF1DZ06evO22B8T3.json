@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1306248,
+  "num_followers": 1306271,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAAADYutlunT63KKFy0HPVK3",
+  "snapshot_id": "aY5pgAAAAAB1oXzhEyN2T5+f6aZwzy6t",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confiado y Tranquilo",
+        "url": "https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 212819,
+      "name": "Confiado y Tranquilo",
+      "url": "https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 218840,
       "name": "Necio (feat. LIT killah)",
       "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confiado y Tranquilo",
-        "url": "https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 212819,
-      "name": "Confiado y Tranquilo",
-      "url": "https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 191186,
       "name": "A Veces (feat. Feid)",
       "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": null,
@@ -875,18 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
+        "name": "Que Hicimo'",
+        "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
       },
       "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 172561,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
+      "duration_ms": 165000,
+      "name": "Que Hicimo'",
+      "url": "https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB"
     },
     {
       "added_at": null,
@@ -907,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hicimo'",
-        "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
       },
       "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Que Hicimo'",
-      "url": "https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB"
+      "duration_ms": 172561,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     }
   ],
   "unique_name": "This Is Paulo Londra",

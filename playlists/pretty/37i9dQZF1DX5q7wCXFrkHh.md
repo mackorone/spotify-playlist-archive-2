@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,488 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,554 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 69 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
 | 70 | [Blue Note Boogie](https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE) | [James P\. Johnson](https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi) | [Blue Boogie: Boogie Woogie, Stride And The Piano Blues](https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5) | 3:58 |
 | 71 | [Sophisticated Lady](https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:15 |
-| 72 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 |
-| 73 | [Memories Of Paris](https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:23 |
+| 72 | [Memories Of Paris](https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:23 |
+| 73 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 |
 | 74 | [I'm Your Pal](https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 3:58 |
 | 75 | [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 |
 | 76 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 |
-| 77 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |
-| 78 | [Moanin'](https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Sam Jones](https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [This Here Is Bobby Timmons / Easy Does It](https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b) | 5:08 |
+| 77 | [Moanin'](https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Sam Jones](https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [This Here Is Bobby Timmons / Easy Does It](https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b) | 5:08 |
+| 78 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |
 | 79 | [Theme From "Mr\. Broadway"](https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of New York](https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH) | 2:27 |
 | 80 | [Now He Sings, Now He Sobs](https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs \(Expanded Edition\)](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 7:03 |
 | 81 | [My Blue Heaven](https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 3:10 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 95 | [Wolverine Blues](https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:25 |
 | 96 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/0Dg8zEmH6R1l67u1bsNKr0) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 6:43 |
 | 97 | [Hot Sauce](https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 3:53 |
-| 98 | [They Can't Take That Away From Me](https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Duke Jordan Trio & Quintet](https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8) | 4:34 |
-| 99 | [My foolish heart](https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [No Blues](https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC) | 4:57 |
+| 98 | [My foolish heart](https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [No Blues](https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC) | 4:57 |
+| 99 | [They Can't Take That Away From Me](https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Duke Jordan Trio & Quintet](https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8) | 4:34 |
 | 100 | [Frankie and Johnnie](https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 2:31 |
 
 Snapshot ID: `AAAAAHYrMf/XwTFLetw/EsXb1wAXMxbH`

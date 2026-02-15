@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 43380,
+  "num_followers": 43400,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABsEpEi7TMbBB5LdHcdaDka",
+  "snapshot_id": "aY5pgAAAAAD2pKO55ag2U90z2BOg6eoS",
   "tracks": [
     {
       "added_at": null,
@@ -267,30 +267,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         }
       ],
-      "duration_ms": 204120,
-      "name": "Baller (with GloRilla, Sexyy Red & Monaleo)",
-      "url": "https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm"
+      "duration_ms": 202285,
+      "name": "BOP (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
     },
     {
       "added_at": null,
@@ -315,26 +311,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "REDRUM Wizard (Gangsta Grillz)",
-        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
       "artists": [
         {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         }
       ],
-      "duration_ms": 202285,
-      "name": "BOP (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
+      "duration_ms": 204120,
+      "name": "Baller (with GloRilla, Sexyy Red & Monaleo)",
+      "url": "https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm"
     },
     {
       "added_at": null,

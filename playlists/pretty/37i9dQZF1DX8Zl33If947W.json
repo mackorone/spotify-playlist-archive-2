@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 201567,
+  "num_followers": 201737,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "LIEBE IN GEFAHR",
-        "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 164936,
-      "name": "Jeden Tag mehr",
-      "url": "https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
+        "name": "LIEBE IN GEFAHR",
+        "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 164936,
+      "name": "Jeden Tag mehr",
+      "url": "https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -523,8 +523,8 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Beste",
-        "url": "https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV"
+        "name": "\u00dcbermorgen",
+        "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
         }
       ],
-      "duration_ms": 128354,
-      "name": "Beste",
-      "url": "https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv"
+      "duration_ms": 163043,
+      "name": "\u00dcbermorgen",
+      "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -603,8 +603,8 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "\u00dcbermorgen",
-        "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
+        "name": "Beste",
+        "url": "https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
         }
       ],
-      "duration_ms": 163043,
-      "name": "\u00dcbermorgen",
-      "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+      "duration_ms": 128354,
+      "name": "Beste",
+      "url": "https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
         "name": "UDOPIUM - Das Beste (Special Edition)",
         "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 165000,
       "name": "Ja sagen",
       "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -987,22 +987,22 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "2012",
-        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
+        "name": "M\u00e4rchen aus Hollywood",
+        "url": "https://open.spotify.com/album/4uioPKee37JpLak8Dyhy6Z"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
         },
         {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
         }
       ],
-      "duration_ms": 170200,
-      "name": "2012",
-      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+      "duration_ms": 279935,
+      "name": "M\u00e4rchen aus Hollywood",
+      "url": "https://open.spotify.com/track/2V7MwHRxzmImYP3HeGOY1a"
     }
   ],
   "unique_name": "Liebeslieder",

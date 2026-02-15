@@ -3949,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "CHIANTI",
+        "url": "https://open.spotify.com/album/07dqymk9kyXv1TGvMWWFDX"
+      },
+      "artists": [
+        {
+          "name": "Charlesbourgeoisie",
+          "url": "https://open.spotify.com/artist/5mZGhPIfde3MKnAxQ9DP1l"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "CHIANTI",
+      "url": "https://open.spotify.com/track/3o1r51xIdf6DIydxaMNdaT"
+    },
+    {
+      "album": {
         "name": "Le Roi",
         "url": "https://open.spotify.com/album/1vupLW3SxaTTqGyZ5m449q"
       },
@@ -18274,6 +18292,32 @@
       "duration_ms": 114923,
       "name": "SUR MES JEANS",
       "url": "https://open.spotify.com/track/1RPGpBI7yqUsZ9P2ocDYBM"
+    },
+    {
+      "album": {
+        "name": "SUR MOI",
+        "url": "https://open.spotify.com/album/4TIncoZAq6JfF2XlKL98bt"
+      },
+      "artists": [
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        },
+        {
+          "name": "lb66",
+          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+        },
+        {
+          "name": "Shadow Wizard Money Gang",
+          "url": "https://open.spotify.com/artist/34ESFFvfP5f465MC2V6E64"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128785,
+      "name": "SUR MOI",
+      "url": "https://open.spotify.com/track/5QoAyEU98raTjuVfNo9Ue0"
     },
     {
       "album": {

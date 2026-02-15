@@ -2,7 +2,7 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: Mello, Vurr Flashy, Karma K en meer...
+> Nieuw: Mello, Jordan, Vurr Flashy, Karma K en meer...
 
 417 songs - 17 hr 58 min
 

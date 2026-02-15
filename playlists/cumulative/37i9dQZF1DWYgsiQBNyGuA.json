@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "November Scorpio",
+        "url": "https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242485,
+      "name": "GRACE",
+      "url": "https://open.spotify.com/track/4l2vgeTkpKTfEh48l5Hert"
+    },
+    {
+      "album": {
         "name": "Queen Alone",
         "url": "https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR"
       },
@@ -2445,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265297,
+      "name": "Liftin' Me Up",
+      "url": "https://open.spotify.com/track/2VQQfH4ZSvlmgTYw3sGWrH"
+    },
+    {
+      "album": {
         "name": "Light Work",
         "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
       },
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 233056,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
@@ -4582,7 +4618,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,238 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,239 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 2 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 |
 | 3 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 4 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
-| 5 | [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 |
+| 5 | [Runaround Sue](https://open.spotify.com/track/7Jc7mgV9J5DzYPWycCFyqg) | [The Belmonts](https://open.spotify.com/artist/02oFrWT7l0AKMEnJI6iTIB), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dream, Dream!](https://open.spotify.com/album/0q8dM3iEHtaJ0j52vL4IZd) | 2:52 |
 | 6 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
 | 7 | [Let's Twist Again](https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [It's Pony Time/Let's Twist Again](https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0) | 2:17 |
 | 8 | [The Lion Sleeps Tonight](https://open.spotify.com/track/4x6QL8zCkeKRlRx05NBPQh) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [The Lion Sleeps Tonight \(Remastered Edition\)](https://open.spotify.com/album/4sAMWr353GNND1wpCl5ELj) | 2:41 |
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 188 | [Daughter Of Light](https://open.spotify.com/track/5tpL0OquIwmUJzLPdazwzx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:12 |
 | 189 | [Wasn't It You](https://open.spotify.com/track/10Kc9dCFGsDpJtD6AXh2GM) | [The Action](https://open.spotify.com/artist/2lsMbm0cnSilhA7gZq5d36) | [Keep On Holding On](https://open.spotify.com/album/4YseHyxnLXpZ0W2MKB8yM0) | 2:52 |
 | 190 | [Disco Tech](https://open.spotify.com/track/2DZNCsROS75UeAfUIJBQ03) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:09 |
-| 191 | [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 |
+| 191 | [I Need You](https://open.spotify.com/track/1I8CgNZDmGPX0kcBPkcOOl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/6FdtrfulrgcChnVtVyw4an) | 3:13 |
 | 192 | [You're Just What I Was Looking For Today](https://open.spotify.com/track/7Cv0mask9BAzdrdpyRsT1l) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Spare Parts](https://open.spotify.com/album/3kKjyQSagLmDnPn93mWBsC) | 3:50 |
 | 193 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
 | 194 | [My Lovin' Eyes \- Re\-Recorded Version](https://open.spotify.com/track/0YBaCpel1nmXxUHU9BjjIq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [100 Minutes With Carole King](https://open.spotify.com/album/5ga2nqmQ62J9PaDQhXQ0f2) | 3:01 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcJl6gAAAADhQ/65bpvRx07dm8dPM0GN`
+Snapshot ID: `AcJrigAAAAC7ZQKwoff8vnrHFlARZb5D`

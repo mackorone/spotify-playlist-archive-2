@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 77275,
+  "num_followers": 77286,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
+        "name": "Rough Guide To Palestine",
+        "url": "https://open.spotify.com/album/51jzaF1wPXfCZQ2g5THxUD"
+      },
+      "artists": [
+        {
+          "name": "Sanaa Moussa",
+          "url": "https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Wea'younha",
+      "url": "https://open.spotify.com/track/5tQoBqsMYWUYzGrA4iUWyN"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
         "name": "Chura",
         "url": "https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/2FCybmEGNqquzBkIGO9RNX"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/6s8leDjyyr6rUPpu2Qu0ds"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "Ella Enta - Live Session",
-      "url": "https://open.spotify.com/track/0O1Fa5JhUMU0n8AInGOCk9"
     }
   ],
   "unique_name": "Acoustic Arabic",

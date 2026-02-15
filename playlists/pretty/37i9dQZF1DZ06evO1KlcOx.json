@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7893,
+  "num_followers": 7894,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACRCAMCAEw9+8SASiaLtx4F",
+  "snapshot_id": "aY5pgAAAAAC9kasfiomgvYgrg+T4hAsw",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 127680,
-      "name": "When We Fall",
-      "url": "https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR"
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+      "duration_ms": 127680,
+      "name": "When We Fall",
+      "url": "https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 408946,
-      "name": "Moon Is Sharp",
-      "url": "https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wide",
         "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 45266,
       "name": "Black Blood",
       "url": "https://open.spotify.com/track/0TkXfH8zPdYgaySFmjwcmI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 408946,
+      "name": "Moon Is Sharp",
+      "url": "https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 544533,
-      "name": "Vapor Trails",
-      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 201040,
       "name": "A Light Change",
       "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 544533,
+      "name": "Vapor Trails",
+      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 281680,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 514133,
       "name": "She Loves Me That Way",
       "url": "https://open.spotify.com/track/6SAtmwkARP0M3BF11EsVqy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 92786,
-      "name": "Holofernes",
-      "url": "https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 281680,
-      "name": "Clearing",
-      "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
+      "duration_ms": 92786,
+      "name": "Holofernes",
+      "url": "https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 367933,
-      "name": "Mary, On the Wall - Second Heart Tone",
-      "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 344160,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 367933,
+      "name": "Mary, On the Wall - Second Heart Tone",
+      "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Atone",
-      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Atone",
+      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 169750,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 367720,
-      "name": "Down to the Ocean",
-      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 367720,
+      "name": "Down to the Ocean",
+      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 226493,
       "name": "No Other",
       "url": "https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Heart Current",
-      "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Heart Current",
+      "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -695,38 +695,6 @@
       "duration_ms": 313680,
       "name": "A Lie",
       "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 335360,
-      "name": "You Never Came",
-      "url": "https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "added_at": null,
@@ -747,6 +715,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 335360,
+      "name": "You Never Came",
+      "url": "https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 322146,
-      "name": "Opened Space",
-      "url": "https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z"
+      "duration_ms": 231125,
+      "name": "Unclean mind",
+      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231125,
-      "name": "Unclean mind",
-      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
+      "duration_ms": 322146,
+      "name": "Opened Space",
+      "url": "https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z"
     }
   ],
   "unique_name": "This Is Grouper",

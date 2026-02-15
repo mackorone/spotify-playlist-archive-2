@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 92959,
+  "num_followers": 92976,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAADNIBYElzzsiGqSIU1z1QLIlRuKU",
   "tracks": [
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "NAFTA II",
+        "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 178454,
+      "name": "Andate",
+      "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
+    },
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 180923,
       "name": "COMETIERRA REMIX",
       "url": "https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "NAFTA II",
-        "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 178454,
-      "name": "Andate",
-      "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Conducci\u00f3n Temeraria",
         "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 212044,
       "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
-      },
-      "artists": [
-        {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Seremos Idiotas",
-        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 197790,
-      "name": "Seremos Idiotas",
-      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Seremos Idiotas",
+        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Seremos Idiotas",
+      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Quemarropa",
         "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 180891,
       "name": "Porque",
       "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Que No",
-        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Que No",
-      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 169363,
       "name": "Soy un volc\u00e1n",
       "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Que No",
+        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Que No",
+      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1591,8 +1591,8 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+        "name": "Te Odio",
+        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
       },
       "artists": [
         {
@@ -1600,13 +1600,13 @@
           "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
         },
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
         }
       ],
-      "duration_ms": 156771,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+      "duration_ms": 213956,
+      "name": "Te odio",
+      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Amor de Instagramer",
         "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 147000,
       "name": "Amor de Instagramer",
       "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     }
   ],
   "unique_name": "Radio Indie",

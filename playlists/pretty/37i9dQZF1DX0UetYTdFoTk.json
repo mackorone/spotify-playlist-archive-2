@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover:  Tamer Ashour.",
-  "num_followers": 208586,
+  "num_followers": 208629,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "Ana W Bass",
-        "url": "https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ"
-      },
-      "artists": [
-        {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
-        }
-      ],
-      "duration_ms": 248405,
-      "name": "Ana W Bass",
-      "url": "https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "Kol Hayaty",
         "url": "https://open.spotify.com/album/3L0hXZN4rDa9VTslS1qBLC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 236559,
       "name": "Yetalemo",
       "url": "https://open.spotify.com/track/7FgBRZYvvEqyRNvnMX8QHE"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "Ana W Bass",
+        "url": "https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "duration_ms": 248405,
+      "name": "Ana W Bass",
+      "url": "https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo"
     },
     {
       "added_at": "2025-10-08 07:02:25",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "Red Bull Sika",
-        "url": "https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        },
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "Nerga3 Le Awel Yom",
-      "url": "https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "El Hob Dayaani",
         "url": "https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 190581,
       "name": "El Hob Dayaani",
       "url": "https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "Habibi Elli",
+        "url": "https://open.spotify.com/album/5aSjZMQpfrCBnGodq3u0Xo"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Chaker",
+          "url": "https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0"
+        },
+        {
+          "name": "Rima Yussef",
+          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Habibi Elli",
+      "url": "https://open.spotify.com/track/6WMT7X0aCuWHrNWzPng4BS"
     }
   ],
   "unique_name": "Arabic Love Songs",

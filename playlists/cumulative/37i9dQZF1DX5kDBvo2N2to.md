@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-495 songs - 1 day 2 hr 16 min
+496 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Ce Soir?](https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Ce Soir?](https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1) | 3:18 | 2024-08-22 | 2024-11-09 |
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 | 2025-12-20 |
 | [cherry flip](https://open.spotify.com/track/6lXI82PJUgsMjJCtKP79Jc) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [cherry flip](https://open.spotify.com/album/7rUD0Vje4bYqjrlI2jfGpR) | 3:29 | 2026-02-12 |  |
+| [Clairvoyant](https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n) | 3:33 | 2026-02-12 |  |
 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 | 2024-06-28 | 2024-09-20 |
 | [Cold As Ice](https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cold As Ice](https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO) | 3:30 | 2025-01-16 | 2025-06-27 |
 | [Cutting Ties](https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Cutting Ties](https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp) | 4:21 | 2025-10-09 |  |
@@ -491,7 +492,7 @@
 | [Wedding Present](https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Wedding Present](https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs) | 4:05 | 2025-03-27 | 2025-04-22 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-04-11 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-28 | 2025-04-11 |
-| [Where It Hurts](https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Where It Hurts](https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm) | 3:00 | 2025-10-02 |  |
+| [Where It Hurts](https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Where It Hurts](https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm) | 3:00 | 2025-10-02 | 2026-02-15 |
 | [Where's My Mind](https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Where's My Mind](https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h) | 3:56 | 2025-10-30 |  |
 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 | 2026-02-12 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 | 2025-04-18 |

@@ -1,12 +1,12 @@
 {
   "description": "bolsa nova \u00e9 pra caber \ud83d\udcb5 ne?!?! // Emilly Guedes, LAY",
-  "num_followers": 97823,
+  "num_followers": 97849,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPbbt6Ajx1fKZsGGOyloMoGozZ2j",
+  "snapshot_id": "AAAAAL0RdCHFK4W58q7Zxkf3VzdsWygv",
   "tracks": [
     {
       "added_at": "2026-02-06 16:47:39",
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-02-06 16:47:39",
       "album": {
+        "name": "bandida chata (original)",
+        "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
+      },
+      "artists": [
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        },
+        {
+          "name": "VITOR VRIL",
+          "url": "https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8"
+        }
+      ],
+      "duration_ms": 200649,
+      "name": "Bandida chata",
+      "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
+    },
+    {
+      "added_at": "2026-02-06 16:47:39",
+      "album": {
         "name": "Uma Palavra",
         "url": "https://open.spotify.com/album/3JHviWUiHa0KjaenAiVZqK"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 131200,
       "name": "Uma Palavra",
       "url": "https://open.spotify.com/track/6Xr7f68EcpVcBvSdsf6chq"
-    },
-    {
-      "added_at": "2026-02-06 16:47:39",
-      "album": {
-        "name": "bandida chata (original)",
-        "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
-      },
-      "artists": [
-        {
-          "name": "Ana Rima",
-          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
-        },
-        {
-          "name": "VITOR VRIL",
-          "url": "https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8"
-        }
-      ],
-      "duration_ms": 200649,
-      "name": "Bandida chata",
-      "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
     },
     {
       "added_at": "2026-02-06 16:47:39",

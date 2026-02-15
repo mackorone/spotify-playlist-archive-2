@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 374911,
+  "num_followers": 374999,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAA/FgnSZSywdlJULviSe7yC",
+  "snapshot_id": "aY5pgAAAAACHEBVCMOj1rXwx91Fnbfdf",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 179354,
+      "name": "Roulin",
+      "url": "https://open.spotify.com/track/4CW60MJtsp5GckOQLcC2NK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 224845,
       "name": "1%",
       "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$extape",
-        "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 244894,
-      "name": "$extape",
-      "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
     },
     {
       "added_at": null,
@@ -579,22 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+        "name": "$extape",
+        "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 179354,
-      "name": "Roulin",
-      "url": "https://open.spotify.com/track/4CW60MJtsp5GckOQLcC2NK"
+      "duration_ms": 244894,
+      "name": "$extape",
+      "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > old asl
 
-658 songs - 1 day 12 hr 9 min
+660 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Now I'm Up to My Neck with Offers](https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:47 | 2023-10-02 |  |
 | [Nun Major](https://open.spotify.com/track/18pwD0HrweX8oCgIkayRb4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [ShorelineDoThatShit](https://open.spotify.com/album/1FcJAZ1CkDSBRiQu47wrBU) | 2:31 | 2022-02-02 |  |
 | [nuts \(feat\. rainy bear\)](https://open.spotify.com/track/2SabxRgV7VMc1LRHgw0HIo) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [rainy bear](https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ) | [nuts \(feat\. rainy bear\)](https://open.spotify.com/album/6BLWg8PQC0yCeCeWSddKaI) | 1:25 | 2022-01-09 |  |
+| [Obsession](https://open.spotify.com/track/1mK4v6sSCbKR2mMAWG2zMy) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:17 | 2026-02-14 |  |
 | [Odd Look](https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Odd Look](https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX) | 4:13 | 2025-01-01 |  |
 | [Ok Cool](https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Ok Cool](https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom) | 2:57 | 2022-02-16 |  |
 | [On the Low \(feat\. Kodak Black\)](https://open.spotify.com/track/3esaWH2z62yl2daClRTk3U) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA) | [Mafia Bidness](https://open.spotify.com/album/7tlluarkbgdrGwRdZk7Mr4) | 2:55 | 2023-05-27 |  |
@@ -578,6 +579,7 @@
 | [The First Punch](https://open.spotify.com/track/5FyYyTIwKv4JWRPfLZ2TOS) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:25 | 2024-10-21 |  |
 | [The fo Five](https://open.spotify.com/track/0p2GWx4qFzfq9UWd0SrODU) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [THA PLAYA$ MANUAL](https://open.spotify.com/album/5n08iLe0rtrvQ3wg3UhWN3) | 3:21 | 2022-01-28 |  |
 | [The Ghost of You](https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:14 | 2025-07-09 |  |
+| [The Hellfire Club](https://open.spotify.com/track/41UyHzuAgQSBH1PZngjE73) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Heroine](https://open.spotify.com/album/5v8sXBKPvCrUryqtmZ2r2U) | 5:06 | 2026-02-15 |  |
 | [The Internet is Where We Met](https://open.spotify.com/track/22hh7XuHzMYw7u6uqS4xcE) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [The Internet is Where We Met](https://open.spotify.com/album/6Ubui4pNQJEhN6gCHYZ95z) | 2:38 | 2023-11-03 |  |
 | [The Law of Recognition](https://open.spotify.com/track/2C3iuuYK5x902AzEvDAeHN) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/5igbasqf8d2tj4EN2uE9jm) | 2:09 | 2022-04-28 |  |
 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-05-22 |  |

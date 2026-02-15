@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,677 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,678 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Brokeback Mountain 3](https://open.spotify.com/track/6kIRgHIOJjO6QbQcoSyJ33) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N) | 2:11 |
 | 50 | [Forsaken](https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:42 |
 
-Snapshot ID: `aY0YAAAAAAABIl0eknbMZ3IBp40iFrVy`
+Snapshot ID: `aY5pgAAAAAB35u02uxlFhRE6Cf/qCXo8`

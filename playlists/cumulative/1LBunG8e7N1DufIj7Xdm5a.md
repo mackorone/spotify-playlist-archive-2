@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,074 songs - 9 day 0 hr 29 min
+4,077 songs - 9 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1479,6 +1479,7 @@
 | [Girl](https://open.spotify.com/track/7JG7dxj8GwERf3E0pnoiMI) | [ChiaroScuro](https://open.spotify.com/artist/5eseuLgyBu4fzbBag8nSOq) | [Girl](https://open.spotify.com/album/6x278PB2qLrNKpRT7BpCzr) | 2:50 | 2025-05-27 |  |
 | [Girl Factory](https://open.spotify.com/track/2Ru5TBt6G9mhw4J8bbfTNr) | [Sniffany & The Nits](https://open.spotify.com/artist/7ERaPawHEVtydVDH6DuolH) | [The Greatest Nits](https://open.spotify.com/album/1i4d22vnDL1wnTxhMdQZt9) | 2:33 | 2025-11-05 |  |
 | [Giro in blues](https://open.spotify.com/track/62xz2nvpSSXiI5Alfk22Cx) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Giro in blues](https://open.spotify.com/album/5teUeBhajlKMvuqCQX4lHe) | 3:13 | 2025-05-27 |  |
+| [Giro in Blues\_](https://open.spotify.com/track/5PaaBH3Uop0lFvkSmAFiN4) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Giro in Blues\_](https://open.spotify.com/album/4HkzjpuwzzCx1r3drVdUss) | 3:30 | 2026-02-13 |  |
 | [Girotondo di Stelle](https://open.spotify.com/track/4JXzOm4XyRbjqvDkUrz7sf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Italiano](https://open.spotify.com/album/7IrQUjWQhPAXuhNFYaDVI0) | 2:17 | 2025-05-31 |  |
 | [Giulia](https://open.spotify.com/track/2yBfR6xnS4nQ1RPxzO16Ek) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Giulia](https://open.spotify.com/album/3GxwK6vzAPdzY8VW9ql1nF) | 4:01 | 2026-01-04 |  |
 | [Give Me a Sign](https://open.spotify.com/track/2TcGKksrODCi8qxu2Riqfx) | [Ore\-Kun](https://open.spotify.com/artist/6P3eLuqFuDuPkrGmXB9eDF) | [Give Me a Sign](https://open.spotify.com/album/6EQA6VxltoT73LtOrUiiED) | 4:32 | 2024-10-31 |  |
@@ -3135,6 +3136,7 @@
 | [Sink Down With Me](https://open.spotify.com/track/5VkKJFJwlhKBywNRSo9OGD) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq) | [Sink Down With Me](https://open.spotify.com/album/2pwt3sDQPFUvIRRP9kK4eR) | 4:44 | 2025-12-04 |  |
 | [sins \(let me in\)](https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [sins \(let me in\)](https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg) | 2:08 | 2025-05-16 |  |
 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 | 2025-06-23 |  |
+| [Sintonía](https://open.spotify.com/track/6e6Aet1KdKaEwJAEb3TTRC) | [Ya Estamos Listos](https://open.spotify.com/artist/6osYtihDBfuqiqULsM3PWb) | [Sintonía](https://open.spotify.com/album/6DOtUV0Vle9n9ppQrcpcl0) | 3:34 | 2026-02-14 |  |
 | [Sirene](https://open.spotify.com/track/4GfmttVYJchxam6eE0AB6j) | [Kire Baby](https://open.spotify.com/artist/30vsrnFWTxsKbN6iuuLHIp) | [Sirene](https://open.spotify.com/album/4Jzj34lkXACouzIprdlw3l) | 2:08 | 2025-06-05 |  |
 | [six](https://open.spotify.com/track/6w8DJ9tsA6l9yVrQ01HvyY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:09 | 2025-08-20 |  |
 | [sixteen](https://open.spotify.com/track/5Xvxl9TF2z5lyVovpxgoeb) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:34 | 2025-08-20 |  |
@@ -3156,6 +3158,7 @@
 | [Sleepless 111](https://open.spotify.com/track/39oJJg2c3XehyVi70ZcWix) | [CURRENTMOODGIRL](https://open.spotify.com/artist/24pePTKrry9Zv7xrmHRqF7) | [Sleepless 111](https://open.spotify.com/album/5wEsgO3Ky6z2MfRgb3uFaY) | 3:10 | 2025-12-04 |  |
 | [Sleesh](https://open.spotify.com/track/4UHL6lqpCs9MdwqWoTJcy9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:16 | 2025-08-28 |  |
 | [Slow Burn](https://open.spotify.com/track/0SxdicIbMhORL9rAdKujOG) | [Thirty Seconds](https://open.spotify.com/artist/3ngDPIubjXf7wfE0oN6zoh) | [Slow Burn](https://open.spotify.com/album/7sn1viT482pLSRx20ErvEK) | 2:13 | 2025-05-16 |  |
+| [SLOW DOWN](https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD) | [Ghostshaft](https://open.spotify.com/artist/5wxd8HLXD387D9PedWRLw8) | [SLOW DOWN](https://open.spotify.com/album/3TEYxk5CLucLCzVmGaiVry) | 4:19 | 2026-02-14 |  |
 | [Smail Repairs](https://open.spotify.com/track/52mU4L93uVEW8d1xiUeycE) | [Mari Andri](https://open.spotify.com/artist/1hwSTTmts2CZ4Zf2z7DuSI) | [Smail Repairs](https://open.spotify.com/album/1TctB1UrjnVOQRyoHds3xp) | 3:02 | 2026-01-06 |  |
 | [Smile](https://open.spotify.com/track/3qMrbdTzbfK102InfVi43d) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Smile](https://open.spotify.com/album/1cG64IGY9YHPWvOdGGuuCY) | 1:52 | 2025-06-05 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/7zjOFk9le4tiTWvq3hYYuF) | [Jodi Stapler](https://open.spotify.com/artist/4WdzM51AF4SAryiDVc4RvK) | [Smoke & Mirrors](https://open.spotify.com/album/5ckSJdh2stkM5Z6CkQpqcJ) | 4:06 | 2026-01-08 |  |
@@ -3572,6 +3575,7 @@
 | [Thunder in the Night](https://open.spotify.com/track/1USE3QUkEMjdOcWWElzv0B) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Heavy Metal](https://open.spotify.com/album/3qU2fVHByONqza3flWiPev) | 3:33 | 2025-09-19 |  |
 | [Thunder in the Night \(another\)](https://open.spotify.com/track/5puWBDDFheERNyW0liLo2R) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Heavy Metal](https://open.spotify.com/album/3qU2fVHByONqza3flWiPev) | 2:37 | 2025-09-19 |  |
 | [Ti Amo Offline](https://open.spotify.com/track/032kRyH2Zsew7wo1y5NRIJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop vol.2 \(POV viral social streaming music fun funny compilation\)](https://open.spotify.com/album/2fTUyZ5WwsVuhfL75uIND0) | 2:24 | 2025-09-17 |  |
+| [Ti cancello](https://open.spotify.com/track/6NdEElEXu289ZiRVH1hqYa) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Ti cancello](https://open.spotify.com/album/0ctgTjPHLMsJjbao8BF5sY) | 2:15 | 2026-02-14 |  |
 | [Ti cercherò nei sogni](https://open.spotify.com/track/00cVcACqrfP4SeQObPQYxX) | [Marco Tobia](https://open.spotify.com/artist/03GV1BPNJYaXeo748CRhn8) | [Ti cercherò nei sogni](https://open.spotify.com/album/7veGDNdJE55rxQQCsk1kfQ) | 2:34 | 2025-07-26 |  |
 | [Ti cercherò nei sogni](https://open.spotify.com/track/5tE5lCdl1BunvoZCYD9WjV) | [Marco Tobia](https://open.spotify.com/artist/03GV1BPNJYaXeo748CRhn8) | [11 novembre](https://open.spotify.com/album/1WJtkZgT9lAIGoF4MVX243) | 2:34 | 2025-06-05 |  |
 | [TI DICO IO COSA C'È](https://open.spotify.com/track/3gkpbrEJL2HmhLBnn7c2Uf) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [TI DICO IO COSA C'È](https://open.spotify.com/album/64GcefvGGpbarC1Y5eEBci) | 4:04 | 2026-01-04 |  |
@@ -3691,7 +3695,6 @@
 | [Ukukhanya](https://open.spotify.com/track/0GnDEWE4BVfwYDujkpbc0t) | [Kwasa](https://open.spotify.com/artist/2Hn7Y0x68wmMUAdugqZpnM) | [Ukukhanya](https://open.spotify.com/album/1fuB9TKmZIMxifpsVXErPz) | 2:24 | 2025-06-04 |  |
 | [Ultraviolet GT](https://open.spotify.com/track/3Gx9KqZzJWYKsZorL9VTNW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 3:28 | 2025-05-09 |  |
 | [Um Sentimento de Empolgação](https://open.spotify.com/track/7iVZ5oTe5XMB6FZIr6gDOL) | [akayama joao](https://open.spotify.com/artist/6A5QcwzvKrjllstEJnADfg), [Akajon](https://open.spotify.com/artist/1BjpSJSLfcThOqOJP5m8O3) | [Um Sentimento de Empolgação](https://open.spotify.com/album/1YHSiWEP50y6OGc32uKruI) | 2:27 | 2025-04-27 |  |
-| [Un giro in Blues](https://open.spotify.com/track/5PaaBH3Uop0lFvkSmAFiN4) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Un giro in Blues](https://open.spotify.com/album/4HkzjpuwzzCx1r3drVdUss) | 3:30 | 2026-02-13 |  |
 | [Un secondo](https://open.spotify.com/track/57dBr1lAYrkV5FOlhMhw5N) | [Enrico Gal](https://open.spotify.com/artist/06pwYuKE1xa1fZloj2uK6b) | [Un secondo](https://open.spotify.com/album/39J3hMrYrR4wpJ5Ec6MRqt) | 3:22 | 2025-06-25 |  |
 | [Un Solo Segundo](https://open.spotify.com/track/0I0m9UYzULy8gMBkY05QMa) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:21 | 2025-07-29 |  |
 | [Un' onda](https://open.spotify.com/track/3UmS2HUoeK4JGGUOMMFapJ) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Un' onda](https://open.spotify.com/album/60HBMqhAwyWOs81RK7YafS) | 4:38 | 2025-05-27 |  |

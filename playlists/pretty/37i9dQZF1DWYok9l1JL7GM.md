@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,590 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,641 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 25 | [Laffy Taffy](https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ) | [D4L](https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz) | [Down for Life](https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp) | 3:44 |
 | 26 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 |
 | 27 | [Half On a Sack](https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:26 |
-| 28 | [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 |
-| 29 | [What You Know](https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 4:34 |
+| 28 | [What You Know](https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 4:34 |
+| 29 | [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 |
 | 30 | [I'm N Luv \(Wit a Stripper\) \(feat\. Mike Jones\)](https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:59 |
 | 31 | [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 |
 | 32 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 |

@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 593874,
+  "num_followers": 593947,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "You Make Me Feel - Radio Version",
+      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Rise The Remixes",
         "url": "https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 427605,
       "name": "We are Psychedelic - GMS Remix",
       "url": "https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "You Make Me Feel - Radio Version",
-      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Mystical Experience",
-        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Flegma",
-          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
-        }
-      ],
-      "duration_ms": 550985,
-      "name": "Mystical Experience",
-      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 488571,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+        }
+      ],
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Nova Sinfonia",
-        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
-      },
-      "artists": [
-        {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 268591,
-      "name": "Nova Sinfonia",
-      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Shingara",
         "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 317746,
       "name": "Shingara",
       "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Nova Sinfonia",
+        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
+      },
+      "artists": [
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 268591,
+      "name": "Nova Sinfonia",
+      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
     },
     {
       "added_at": "2025-08-15 04:00:20",

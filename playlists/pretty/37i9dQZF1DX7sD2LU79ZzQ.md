@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Yovie Widianto, Dinda Ghania
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,330 likes - 110 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,345 likes - 110 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 10 | [Syukur Alhamdulillah](https://open.spotify.com/track/5sIBo7kbyrmJMwRZK4oTV1) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Syukur Alhamdulillah](https://open.spotify.com/album/4iYYkBunBCeyuGkTQpDlX3) | 3:29 |
 | 11 | [Romantika Badar dan Uhud](https://open.spotify.com/track/4r9P1UdGspzSRkNfw65fwv) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Romantika Badar dan Uhud](https://open.spotify.com/album/1aeS2fGQTLE0EDN4QRxfHC) | 3:05 |
 | 12 | [Senyawa dan Candu](https://open.spotify.com/track/0Bl2w9sW8a4xKX5eO4zcGQ) | [RE:UNION](https://open.spotify.com/artist/03Bhc7GvoiLE79N9OT2eU3) | [Senyawa dan Candu](https://open.spotify.com/album/0i6qb3PQg8G1ovLS0QKNbG) | 3:09 |
-| 13 | [Sihir](https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sihir](https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF) | 3:26 |
+| 13 | [Sihir](https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sihir](https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF) | 3:28 |
 | 14 | [17 To 70](https://open.spotify.com/track/7zqEJIcaQoOjnH7aO7N86w) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [17 To 70](https://open.spotify.com/album/0IkQeHJmQ9XiH2maQlAneu) | 2:52 |
 | 15 | [Sesi Potret](https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Sesi Potret](https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv) | 4:03 |
 | 16 | [I Do](https://open.spotify.com/track/5BMqVX8p5Qjsw6IhVfJEu7) | [Shanty](https://open.spotify.com/artist/7d2iWImkHTGIJ1upSfN45E) | [I Do](https://open.spotify.com/album/46pRZxUrD0ysqUjI3a8J3G) | 3:16 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 20 | [Lika & Liku](https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Lika & Liku](https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v) | 2:21 |
 | 21 | [Kita Buat Menyenangkan](https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kita Buat Menyenangkan](https://open.spotify.com/album/57chfzR7TAIGbjPtZVEl9x) | 4:09 |
 | 22 | [FALL AGAIN](https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FALL AGAIN](https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn) | 3:08 |
-| 23 | [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/4G5tdW6NHLvRngYXHSjreB), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 |
+| 23 | [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/55ReTHE3UQOwlEuqz1bX0S), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 |
 | 24 | [Teganya Kau](https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Teganya Kau](https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE) | 3:27 |
 | 25 | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/track/2oCwCA993mA26HpPRxYppU) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/album/5VecZTVhy0Dijjt7nIOH71) | 3:06 |
 | 26 | [1000X](https://open.spotify.com/track/6ze1gnRU4GZVroIjLG68cX) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [1000X](https://open.spotify.com/album/6Af2yNV7t9ThcHfYboQLQN) | 4:12 |

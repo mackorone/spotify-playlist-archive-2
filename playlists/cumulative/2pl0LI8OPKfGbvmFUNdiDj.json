@@ -2853,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Interest Free",
+        "url": "https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ"
+      },
+      "artists": [
+        {
+          "name": "Lost Trends",
+          "url": "https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157567,
+      "name": "Interest Free",
+      "url": "https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4"
+    },
+    {
+      "album": {
         "name": "Jaded Son",
         "url": "https://open.spotify.com/album/4ynwas1gNy3V0ydmgvIBEg"
       },
@@ -3423,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "lovergirl",
+        "url": "https://open.spotify.com/album/5hcolasUwTgiAJ4B7nAXs3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Contarino",
+          "url": "https://open.spotify.com/artist/4sPdnfBqns9zDxWZPv7AhT"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123714,
+      "name": "lovergirl",
+      "url": "https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q"
       },
@@ -3790,6 +3826,24 @@
       "duration_ms": 267180,
       "name": "M\u00e1s All\u00e1 del Margen",
       "url": "https://open.spotify.com/track/7FhYX2sr04P5S04wYUJzqZ"
+    },
+    {
+      "album": {
+        "name": "Nastasia",
+        "url": "https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE"
+      },
+      "artists": [
+        {
+          "name": "Static Switch",
+          "url": "https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164279,
+      "name": "Nastasia",
+      "url": "https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH"
     },
     {
       "album": {

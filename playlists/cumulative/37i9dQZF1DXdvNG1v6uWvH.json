@@ -356,7 +356,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 225775,
       "name": ".snakmedmigselv",
       "url": "https://open.spotify.com/track/00If3Z0YknTUy1S0PO66Lz"
@@ -69764,7 +69764,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 195008,
       "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
       "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
@@ -81346,6 +81346,24 @@
       "duration_ms": 171216,
       "name": "I Like Ur Look",
       "url": "https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A"
+    },
+    {
+      "album": {
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
     },
     {
       "album": {
@@ -138550,7 +138568,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 190180,
       "name": "Rodeo Man (Radio Edit)",
       "url": "https://open.spotify.com/track/3XeEmnzcpXK97rEN894adR"
@@ -146134,7 +146152,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 186666,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
@@ -171143,6 +171161,28 @@
     },
     {
       "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
+    },
+    {
+      "album": {
         "name": "To Be Alright",
         "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
       },
@@ -172921,24 +172961,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
-      "duration_ms": 0,
-      "name": "Track 16",
-      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
-    },
-    {
-      "album": {
         "name": "Trailer In The Sky",
         "url": "https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9"
       },
@@ -174202,6 +174224,24 @@
       "duration_ms": 262454,
       "name": "Turn The Page",
       "url": "https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil"
+    },
+    {
+      "album": {
+        "name": "TURN UP",
+        "url": "https://open.spotify.com/album/0Or1zn4ufq0j0q3HK1kNe5"
+      },
+      "artists": [
+        {
+          "name": "OKARO",
+          "url": "https://open.spotify.com/artist/768oWAbPZ3zDTuARKBThtC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154956,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/26dyVJVRK3UprC1CQi1AFT"
     },
     {
       "album": {

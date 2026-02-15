@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 427849,
+  "num_followers": 427814,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2025-07-08 16:22:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
-      },
-      "artists": [
-        {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
-        }
-      ],
-      "duration_ms": 190191,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "Fireball (feat. John Ryan)",
         "url": "https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 235012,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "duration_ms": 190191,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
     }
   ],
   "unique_name": "Sommerklassiker",

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-467 songs - 1 day 5 hr 19 min
+469 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 | 2022-01-28 | 2023-05-13 |
 | [bad blood](https://open.spotify.com/track/7lqyiS447jxNlaMpzsYfkY) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [bad blood](https://open.spotify.com/album/0IYR6AlNwF9HW1u4Jzf1oo) | 3:08 | 2021-12-17 | 2022-06-12 |
 | [Bad News](https://open.spotify.com/track/2tFedHU8BK2n9y345jAaO7) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Bad News](https://open.spotify.com/album/09j5cMuAxke4rblpRXq9Qp) | 2:20 | 2025-01-24 | 2025-08-16 |
-| [Bad Spell \- Acoustic](https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX) | 3:14 | 2023-10-06 |  |
+| [Bad Spell \- Acoustic](https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX) | 3:14 | 2023-10-06 | 2026-02-15 |
 | [Bad Spell \- Acoustic](https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK) | 3:14 | 2023-09-15 | 2024-04-19 |
 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 | 2023-02-03 | 2025-06-14 |
 | [Bees Making Honey](https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bees Making Honey](https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4) | 2:49 | 2022-08-26 | 2022-09-17 |
@@ -262,6 +262,7 @@
 | [Make Love](https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Make Love](https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u) | 3:47 | 2023-10-27 | 2024-01-05 |
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2021-12-17 | 2023-03-11 |
 | [Man On Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf) | 3:49 | 2021-12-17 | 2022-12-03 |
+| [Man's World](https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Man's World](https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD) | 2:42 | 2026-02-13 |  |
 | [Maybe Someday](https://open.spotify.com/track/5hPQhhwqgJfPDUJIwYAzql) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Maybe Someday](https://open.spotify.com/album/2i59MYGjnrbk9qtiTNcZ19) | 2:55 | 2023-03-24 | 2023-05-20 |
 | [Mercy](https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Mercy](https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57) | 3:40 | 2026-02-13 |  |
 | [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 | 2024-08-23 |  |
@@ -352,6 +353,7 @@
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-12-17 | 2022-07-29 |
 | [Shake! Shake! Shake!](https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40), [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Shake! Shake! Shake!](https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8) | 3:08 | 2022-11-11 | 2024-11-23 |
 | [She](https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [She](https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4) | 3:48 | 2022-10-07 | 2022-12-10 |
+| [Shoot From The Hip](https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Shoot From The Hip](https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS) | 5:47 | 2026-02-13 |  |
 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart and Josh Cunningham](https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 | 2023-08-25 | 2026-02-14 |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-04-08 | 2025-03-08 |
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-09-09 | 2026-01-24 |
@@ -359,7 +361,7 @@
 | [Sober](https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Sober](https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC) | 2:59 | 2021-12-17 | 2023-09-16 |
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:38 | 2023-10-06 | 2024-04-19 |
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 | 2025-05-10 |
-| [Sorry You're Blue](https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Sorry You're Blue](https://open.spotify.com/album/4c2fvHVg0Ogsd1HdbLhMG0) | 2:30 | 2024-03-08 |  |
+| [Sorry You're Blue](https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Sorry You're Blue](https://open.spotify.com/album/4c2fvHVg0Ogsd1HdbLhMG0) | 2:30 | 2024-03-08 | 2026-02-15 |
 | [Soul Searching](https://open.spotify.com/track/3hpZLgDKo3wrQ5PLwaNZyI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Soul Searching](https://open.spotify.com/album/32KrKYPFcywOHSorWmlp6o) | 3:57 | 2022-10-14 | 2022-11-12 |
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-12-17 | 2026-02-14 |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2022-01-28 | 2024-04-19 |

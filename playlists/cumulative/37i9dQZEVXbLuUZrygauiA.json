@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 175584,
       "name": "6 DE FEBRERO",
       "url": "https://open.spotify.com/track/6l18mUHOGVZRr5wTyITX0M"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 64876,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4NHU9i2koEyY25HBJEPEYO"
@@ -34716,7 +34716,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 149866,
       "name": "Last of a Dying Breed",
       "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
@@ -36962,7 +36962,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db"
@@ -40385,6 +40385,28 @@
     },
     {
       "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222366,
+      "name": "MI GATA",
+      "url": "https://open.spotify.com/track/3mSdneOr4nDLQD70hpoBaj"
+    },
+    {
+      "album": {
         "name": "Mi Gata",
         "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
       },
@@ -43342,6 +43364,28 @@
       "duration_ms": 130641,
       "name": "M\u00eda M\u00eda",
       "url": "https://open.spotify.com/track/5frA4yUrm67JdmgrJOjJgg"
+    },
+    {
+      "album": {
+        "name": "LA 8VA MARAVILLA",
+        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239628,
+      "name": "M\u00edrame Baby",
+      "url": "https://open.spotify.com/track/4GFg2xNBur9IngFW0fktUD"
     },
     {
       "album": {
@@ -59264,7 +59308,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -68886,7 +68930,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/1qXYKmTTd4e0YdugtGmb5R"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 340 likes - 68 songs - 4 hr 19 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 341 likes - 69 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 66 | [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 |
 | 67 | [Down \- '25](https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 4:39 |
 | 68 | [Tear Down the Sky](https://open.spotify.com/track/4sKd8sVdwGOqQgOWTSuIsU) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:51 |
+| 69 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 |
 
-Snapshot ID: `AAABOhvYU1Oivt4D+dpRsf/gZdhN6Boh`
+Snapshot ID: `AAABO7DCT/oATH/UnYRsfHSIak+a0xyG`

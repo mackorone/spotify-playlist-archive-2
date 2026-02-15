@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1306559,
+  "num_followers": 1306425,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-02-09 16:03:12",
       "album": {
+        "name": "LO MISMO DE SIEMPRE",
+        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "DROGA",
+      "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
+    },
+    {
+      "added_at": "2026-02-09 16:03:12",
+      "album": {
         "name": "Scat Pack",
         "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
-    },
-    {
-      "added_at": "2026-02-09 16:03:12",
-      "album": {
-        "name": "LO MISMO DE SIEMPRE",
-        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "DROGA",
-      "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
     },
     {
       "added_at": "2026-02-09 16:03:12",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-02-09 16:03:12",
       "album": {
-        "name": "Cosa Nuestra: Cap\u00edtulo 0",
-        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "SILENCIO",
-      "url": "https://open.spotify.com/track/4q8bfTmtDfgLGmDc5IuoIQ"
-    },
-    {
-      "added_at": "2026-02-09 16:03:12",
-      "album": {
         "name": "Quiero +",
         "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 128487,
       "name": "Quiero +",
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "added_at": "2026-02-09 16:03:12",
+      "album": {
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "SILENCIO",
+      "url": "https://open.spotify.com/track/4q8bfTmtDfgLGmDc5IuoIQ"
     },
     {
       "added_at": "2026-02-09 16:03:12",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-02-09 16:03:12",
       "album": {
-        "name": "GuabanSexxx",
-        "url": "https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 161055,
-      "name": "GuabanSexxx",
-      "url": "https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff"
-    },
-    {
-      "added_at": "2026-02-09 16:03:12",
-      "album": {
         "name": "Do Not Disturb",
         "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 240000,
       "name": "Traviesa (feat. Eladio Carrion)",
       "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
+    },
+    {
+      "added_at": "2026-02-09 16:03:12",
+      "album": {
+        "name": "GuabanSexxx",
+        "url": "https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 161055,
+      "name": "GuabanSexxx",
+      "url": "https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff"
     },
     {
       "added_at": "2026-02-09 16:03:12",
@@ -2135,18 +2135,18 @@
     {
       "added_at": "2026-02-09 16:03:12",
       "album": {
-        "name": "MALDAD",
-        "url": "https://open.spotify.com/album/1JYbriQSB62WblO44Y1Ojd"
+        "name": "SELEDA.",
+        "url": "https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq"
       },
       "artists": [
         {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 183000,
-      "name": "MALDAD",
-      "url": "https://open.spotify.com/track/4gqj2SjyYNBBsaNbTy3nL2"
+      "duration_ms": 131388,
+      "name": "SELEDA.",
+      "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
     },
     {
       "added_at": "2026-02-09 16:03:12",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2026-02-09 16:03:12",
       "album": {
-        "name": "SELEDA.",
-        "url": "https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq"
+        "name": "MALDAD",
+        "url": "https://open.spotify.com/album/1JYbriQSB62WblO44Y1Ojd"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 131388,
-      "name": "SELEDA.",
-      "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
+      "duration_ms": 183000,
+      "name": "MALDAD",
+      "url": "https://open.spotify.com/track/4gqj2SjyYNBBsaNbTy3nL2"
     },
     {
       "added_at": "2026-02-09 16:03:12",

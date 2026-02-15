@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-186 songs - 10 hr 59 min
+187 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,11 +98,12 @@
 | [Let Me Blow Your Mind](https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H) | [Shawn Lee's Ping Pong Orchestra](https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR) | [Hits the Hits](https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo) | 3:51 | 2025-07-18 |  |
 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 | 2025-07-18 |  |
 | [Live & Let Go \(with DISPATCH\)](https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [LOOK! I'm Alive](https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU) | 4:03 | 2025-07-25 | 2025-08-02 |
-| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-07-18 |  |
+| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-07-18 | 2026-02-15 |
 | [Lonely Touch](https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lonely Touch](https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM) | 3:21 | 2026-01-09 |  |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2025-07-18 |  |
 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 | 2025-07-18 |  |
 | [Love's a Stranger](https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Warhaus](https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3) | 3:26 | 2025-07-18 |  |
+| [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-13 |  |
 | [Lucy](https://open.spotify.com/track/6O1vElqf77upV8az275UZs) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lucy](https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa) | 3:38 | 2025-07-18 |  |
 | [Man On My Mind](https://open.spotify.com/track/2NRapgmqFRRnflBV7p9ZzT) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Lake Tear of the Clouds](https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW) | 3:42 | 2025-08-21 | 2026-01-17 |
 | [Manga](https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Manga](https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9) | 2:50 | 2025-07-18 | 2026-01-31 |

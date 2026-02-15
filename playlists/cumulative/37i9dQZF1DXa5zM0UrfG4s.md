@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-431 songs - 19 hr 44 min
+432 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Borde gå hem](https://open.spotify.com/track/3gUiM93ojFPguligTylTwk) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Borde gå hem](https://open.spotify.com/album/69EATUW5p3jmER1XKvF4nJ) | 2:36 | 2022-10-15 | 2023-02-17 |
 | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 | 2022-06-30 |  |
 | [Bygda](https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bygda](https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5) | 2:46 | 2021-12-16 | 2025-01-17 |
+| [Bygda](https://open.spotify.com/track/4bM5KnzjYWui6jr20pU3ZW) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bygda](https://open.spotify.com/album/5mOY8DE3sFf1y1B90SlWj8) | 3:13 | 2026-02-12 |  |
 | [Bygda Vår](https://open.spotify.com/track/7yhjOBAgtIExnt9uRRmgiO) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygda Vår](https://open.spotify.com/album/62WlPC9vdBQV8zjE4HdiJP) | 4:06 | 2023-09-13 | 2023-09-22 |
 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2023-09-13 | 2024-08-18 |
 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 | 2023-06-15 | 2025-07-19 |
@@ -72,7 +73,7 @@
 | [Cowboyhatten](https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Cowboyhatten](https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS) | 2:51 | 2025-09-11 |  |
 | [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 | 2024-10-17 |  |
 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 | 2024-05-02 | 2024-10-18 |
-| [Dagsfylla](https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7) | [Kaptein EPA](https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Løvendahl](https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz) | [Dagsfylla](https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt) | 1:51 | 2021-12-16 |  |
+| [Dagsfylla](https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7) | [Kaptein EPA](https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Løvendahl](https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz) | [Dagsfylla](https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt) | 1:51 | 2021-12-16 | 2026-02-15 |
 | [Dama Di](https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Dama Di](https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS) | 2:51 | 2026-01-15 |  |
 | [DANSAR ALDRIG NYKTER](https://open.spotify.com/track/1JgM35QWMB4P8ZfhSBSgXx) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DANSAR ALDRIG NYKTER](https://open.spotify.com/album/0W4QW4TQvbRM8GWCCttuC8) | 2:28 | 2023-10-12 | 2023-12-13 |
 | [Danse på panseret](https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [Danse på panseret](https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F) | 2:24 | 2023-05-11 | 2024-04-26 |

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Danno in cover.",
-  "num_followers": 48611,
+  "num_followers": 48613,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "PALAZZINE",
-        "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
+        "name": "L'amico degli amici",
+        "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
       },
       "artists": [
         {
-          "name": "Jamil",
-          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
         }
       ],
-      "duration_ms": 151999,
-      "name": "PALAZZINE",
-      "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
+      "duration_ms": 242880,
+      "name": "Cosa vuoi da me",
+      "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "L'amico degli amici",
-        "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
+        "name": "PALAZZINE",
+        "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
       },
       "artists": [
         {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+          "name": "Jamil",
+          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
         }
       ],
-      "duration_ms": 242880,
-      "name": "Cosa vuoi da me",
-      "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
+      "duration_ms": 151999,
+      "name": "PALAZZINE",
+      "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 290128,
       "name": "Never",
       "url": "https://open.spotify.com/track/3nIoWJulA29AQ7DtkUkNrF"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
+        "name": "Rapper Italiano",
+        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Rapper italiano",
+      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
         "name": "Modus Operandi",
         "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 186750,
       "name": "Modus Operandi",
       "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
-        "name": "Rapper Italiano",
-        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Rapper italiano",
-      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
+        "name": "KLOAKA",
+        "url": "https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 150749,
+      "name": "IL BUIO NELLE MANI",
+      "url": "https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 204512,
       "name": "Schiaffetto Correttivo - P.te 2",
       "url": "https://open.spotify.com/track/2YaIP3cwj5xYzzt53qzrRh"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "Era Tutto Un Sogno",
-        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Tutti Contenti (feat. Salmo)",
-      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -2079,8 +2059,8 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "KLOAKA",
-        "url": "https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF"
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
       },
       "artists": [
         {
@@ -2092,9 +2072,29 @@
           "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 150749,
-      "name": "IL BUIO NELLE MANI",
-      "url": "https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1"
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
+        "name": "Era Tutto Un Sogno",
+        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Tutti Contenti (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
         "name": "Guns & Butter",
         "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 158117,
       "name": "Cassaforte (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/3oS5RnHrBilRqYm2z2gj0u"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "Disco Inverno",
-        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
-      },
-      "artists": [
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Aeroplani",
-      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2515,18 +2499,18 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+        "name": "Disco Inverno",
+        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
       },
       "artists": [
         {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
         }
       ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
+      "duration_ms": 189346,
+      "name": "Aeroplani",
+      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2547,6 +2531,22 @@
       "duration_ms": 96741,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 275202,
-      "name": "Chi Paga",
-      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
         "name": "Flaneur",
         "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
       },
@@ -2667,34 +2651,18 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
       "artists": [
         {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
         }
       ],
-      "duration_ms": 262693,
-      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
-      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
-        "name": "IL CUORE E LA FAME",
-        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "4 Secondi",
-      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
+      "duration_ms": 275202,
+      "name": "Chi Paga",
+      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2719,6 +2687,38 @@
       "duration_ms": 73846,
       "name": "IncrEdible Freestyle, pt. IV",
       "url": "https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
+        "name": "IL CUORE E LA FAME",
+        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "4 Secondi",
+      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
+      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2895,26 +2895,6 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "MIND SOUL & BODY",
-        "url": "https://open.spotify.com/album/6XOkk85os1H8lL945jBar1"
-      },
-      "artists": [
-        {
-          "name": "Roy Zen",
-          "url": "https://open.spotify.com/artist/2azLwmHQ6KwyMFETQBsrLi"
-        },
-        {
-          "name": "Riccardino",
-          "url": "https://open.spotify.com/artist/5bQQAPECTO5PNCuaHYB9pm"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "VIZI CAPITALI",
-      "url": "https://open.spotify.com/track/78b0aztW6ygsDMJeNiwaTQ"
-    },
-    {
-      "added_at": "2026-02-12 23:01:35",
-      "album": {
         "name": "BLOOD IN BLOOD OUT",
         "url": "https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI"
       },
@@ -2935,18 +2915,22 @@
     {
       "added_at": "2026-02-12 23:01:35",
       "album": {
-        "name": "RISCHIO IL CULO (O.V.)",
-        "url": "https://open.spotify.com/album/0KOTWP0aOolTPPLoDZFavL"
+        "name": "MIND SOUL & BODY",
+        "url": "https://open.spotify.com/album/6XOkk85os1H8lL945jBar1"
       },
       "artists": [
         {
-          "name": "Joe Cassano",
-          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
+          "name": "Roy Zen",
+          "url": "https://open.spotify.com/artist/2azLwmHQ6KwyMFETQBsrLi"
+        },
+        {
+          "name": "Riccardino",
+          "url": "https://open.spotify.com/artist/5bQQAPECTO5PNCuaHYB9pm"
         }
       ],
-      "duration_ms": 108146,
-      "name": "RISCHIO IL CULO - O.V.",
-      "url": "https://open.spotify.com/track/6wUSmUoxrIlrHlQcHocvUN"
+      "duration_ms": 190843,
+      "name": "VIZI CAPITALI",
+      "url": "https://open.spotify.com/track/78b0aztW6ygsDMJeNiwaTQ"
     },
     {
       "added_at": "2026-02-12 23:01:35",
@@ -2975,6 +2959,22 @@
       "duration_ms": 219069,
       "name": "Blocchi Di Marmo",
       "url": "https://open.spotify.com/track/3vroWIW7Nr49JRnKSizPjd"
+    },
+    {
+      "added_at": "2026-02-12 23:01:35",
+      "album": {
+        "name": "RISCHIO IL CULO (O.V.)",
+        "url": "https://open.spotify.com/album/0KOTWP0aOolTPPLoDZFavL"
+      },
+      "artists": [
+        {
+          "name": "Joe Cassano",
+          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
+        }
+      ],
+      "duration_ms": 108146,
+      "name": "RISCHIO IL CULO - O.V.",
+      "url": "https://open.spotify.com/track/6wUSmUoxrIlrHlQcHocvUN"
     },
     {
       "added_at": "2026-02-12 23:01:35",

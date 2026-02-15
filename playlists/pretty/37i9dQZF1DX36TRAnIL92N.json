@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 469847,
+  "num_followers": 470010,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 493667,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
         "name": "4am In A Rave / Speed Is A Deed",
         "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
       },
@@ -275,6 +291,22 @@
       "duration_ms": 147121,
       "name": "4am In A Rave (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-02-04 21:44:56",
@@ -303,38 +335,6 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
-        "name": "Charlotte de Witte",
-        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 493667,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
     },
     {
       "added_at": "2026-02-04 21:44:56",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
-        "name": "Up Down Jumper",
-        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Up Down Jumper",
-      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
         "name": "See Me Coming",
         "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 256511,
       "name": "See Me Coming",
       "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
+        "name": "Up Down Jumper",
+        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Up Down Jumper",
+      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
     },
     {
       "added_at": "2026-02-04 21:44:56",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 169950,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
         "name": "Let the Bass Kick",
         "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146100,
       "name": "Let the Bass Kick",
       "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 169950,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
     },
     {
       "added_at": "2026-02-04 21:44:56",

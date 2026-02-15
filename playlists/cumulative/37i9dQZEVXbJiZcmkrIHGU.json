@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 275773,
       "name": "Alle Jl\u00e4ser huh",
       "url": "https://open.spotify.com/track/6YqYOnjh0vkMp5cfzKHmbM"
@@ -7540,7 +7540,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -11793,6 +11793,28 @@
     },
     {
       "album": {
+        "name": "BLN",
+        "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167153,
+      "name": "BLN",
+      "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
+    },
+    {
+      "album": {
         "name": "Blocckind (feat. VOLO & Hanybal)",
         "url": "https://open.spotify.com/album/4dDqpgvj56uE1bxzSA7XNZ"
       },
@@ -11878,6 +11900,24 @@
       "duration_ms": 156776,
       "name": "Blockjunge",
       "url": "https://open.spotify.com/track/7liiiDKC9RGse15pDsze8I"
+    },
+    {
+      "album": {
+        "name": "BLOCKKIDS",
+        "url": "https://open.spotify.com/album/14hKqYA0CCaPrbtpcMVZBc"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147893,
+      "name": "BLOCKKIDS",
+      "url": "https://open.spotify.com/track/2IzZDG0nsfZD8H9AKi2aPc"
     },
     {
       "album": {
@@ -21496,7 +21536,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 179960,
       "name": "D\u00e4 Plan",
       "url": "https://open.spotify.com/track/3Wj44AtK8gStaPWY1qJb0A"
@@ -23092,7 +23132,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 156529,
       "name": "Erlk\u00f6nig",
       "url": "https://open.spotify.com/track/5YqhT9Jiw4wz1qliKQksoZ"
@@ -23776,7 +23816,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -30626,7 +30666,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 161632,
       "name": "Gute Laune",
       "url": "https://open.spotify.com/track/40NEnuv5VHboABOWbRZgxQ"
@@ -31292,7 +31332,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 205842,
       "name": "Handwerker",
       "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
@@ -47787,6 +47827,28 @@
     },
     {
       "album": {
+        "name": "Millieu 26",
+        "url": "https://open.spotify.com/album/0dUuFD6AjukOi2TFrQ60l3"
+      },
+      "artists": [
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138315,
+      "name": "Millieu 26",
+      "url": "https://open.spotify.com/track/4KsQEEgcy7dA1yVGkI2ozm"
+    },
+    {
+      "album": {
         "name": "Million (feat. Lucio101, Nizi19, Omar101 & Karamel19)",
         "url": "https://open.spotify.com/album/6V499PNwFrA4KKKp6AaAtx"
       },
@@ -50146,6 +50208,28 @@
       "duration_ms": 178640,
       "name": "Musik",
       "url": "https://open.spotify.com/track/3qbIqM093hzlcTtgjWef0K"
+    },
+    {
+      "album": {
+        "name": "MUTTER",
+        "url": "https://open.spotify.com/album/2o2kbAz1RPL8hGkiKtHiXC"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "MUTTER",
+      "url": "https://open.spotify.com/track/6AX3qLyLXuzs0VTyaCb90l"
     },
     {
       "album": {
@@ -53183,6 +53267,28 @@
     },
     {
       "album": {
+        "name": "Nur Mailbox",
+        "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Nur Mailbox",
+      "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
+    },
+    {
+      "album": {
         "name": "SUPERSIZE",
         "url": "https://open.spotify.com/album/0Bqa98j4wo16fbKVDCv2eQ"
       },
@@ -53340,7 +53446,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 212250,
       "name": "Oben unten - Party Edit",
       "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
@@ -55495,6 +55601,32 @@
     },
     {
       "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
+    },
+    {
+      "album": {
         "name": "Rookie de l'ann\u00e9e",
         "url": "https://open.spotify.com/album/7DnUxvmq4OTTlAE88P7TAq"
       },
@@ -56992,7 +57124,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 236893,
       "name": "Pirate",
       "url": "https://open.spotify.com/track/4rZCs12mDDseNSfpOIu5rc"
@@ -58082,7 +58214,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 192573,
       "name": "Prinzessin",
       "url": "https://open.spotify.com/track/6xxqvqzRighH5hQ5QwzFtq"
@@ -63086,7 +63218,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
@@ -73028,7 +73160,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 206026,
       "name": "Tschingderassabum",
       "url": "https://open.spotify.com/track/5qEyqquRgKxpv0VKvcNXbC"
@@ -74696,6 +74828,28 @@
       "duration_ms": 145960,
       "name": "Uykusuz Geceler",
       "url": "https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9"
+    },
+    {
+      "album": {
+        "name": "UZI",
+        "url": "https://open.spotify.com/album/6j5RD6zFJgvcAWksvUZ6hI"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "UZI",
+      "url": "https://open.spotify.com/track/4gAYiVZJiAO72GclV4CHGz"
     },
     {
       "album": {
@@ -80516,7 +80670,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 249266,
       "name": "Wolkeplatz",
       "url": "https://open.spotify.com/track/2kY8nciDE4zEn6y2BCd7Fk"

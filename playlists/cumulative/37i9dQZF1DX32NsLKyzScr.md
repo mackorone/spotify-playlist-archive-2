@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,362 songs - 3 day 2 hr 1 min
+1,363 songs - 3 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,7 +899,7 @@
 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2022-10-07 | 2025-08-02 |
 | [Pump It Up](https://open.spotify.com/track/3tFz7n9OKBDMvrQmqE0oMR) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW) | [Pump It Up](https://open.spotify.com/album/2ttfC47P8tqCeHbge1rcag) | 2:52 | 2020-09-21\* | 2021-01-23 |
 | [Pump Pump](https://open.spotify.com/track/2XZ2MGJeyAeUVoDg4U2bMO) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Fake](https://open.spotify.com/album/24s9nNeIlOzCHW2Hf0tUN7) | 3:09 | 2020-09-21\* | 2020-11-27 |
-| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 |  |
+| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 | 2026-02-15 |
 | [Punisher](https://open.spotify.com/track/2wrnoLYgHFZi7uCOIBMge9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Punisher](https://open.spotify.com/album/7oHZGknKLXJeZjiqvGrqYs) | 3:00 | 2020-09-21\* | 2021-01-23 |
 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 | 2023-11-13 | 2024-01-11 |
 | [Pyro](https://open.spotify.com/track/4NFHCQx4IcrNPERC8Vn79a) | [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Pyro](https://open.spotify.com/album/1gM4NZCQNOohwbr0BL30f4) | 3:07 | 2020-09-21\* | 2020-11-03 |
@@ -1245,6 +1245,7 @@
 | [Turn The Lights Off \(with Jaxstyle\) \- HILLS & Dansyn Remix](https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Turn The Lights Off \(with Jaxstyle\) \[HILLS & Dansyn Remix\]](https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD) | 2:53 | 2026-01-23 |  |
 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2021-04-30 | 2021-09-18 |
 | [Twinkle Twinkle](https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Twinkle Twinkle](https://open.spotify.com/album/06LkBMhuqiHBQKr72PjONc) | 3:09 | 2021-03-11 | 2021-09-18 |
+| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-13 |  |
 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 | 2025-05-23 |  |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 | 2022-01-04 | 2022-07-09 |
 | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/album/6yD8EL3S9KrIysOAHv08LE) | 3:03 | 2021-09-11 | 2022-04-23 |

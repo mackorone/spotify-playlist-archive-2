@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 122766,
+  "num_followers": 122793,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "The Ever Shifting Fields",
-        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
-      },
-      "artists": [
-        {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
-        }
-      ],
-      "duration_ms": 277133,
-      "name": "In Collusion with the Waves",
-      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 260346,
       "name": "Total Perspective Vortex",
       "url": "https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "The Ever Shifting Fields",
+        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
+      },
+      "artists": [
+        {
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+        }
+      ],
+      "duration_ms": 277133,
+      "name": "In Collusion with the Waves",
+      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Sacrifice & Isolation",
+        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
+      },
+      "artists": [
+        {
+          "name": "Collapse Under The Empire",
+          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
+        }
+      ],
+      "duration_ms": 311555,
+      "name": "What the Heart Craves For",
+      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "41 Longfield Street Late \u201880s",
         "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 474353,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Sacrifice & Isolation",
-        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
-      },
-      "artists": [
-        {
-          "name": "Collapse Under The Empire",
-          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
-        }
-      ],
-      "duration_ms": 311555,
-      "name": "What the Heart Craves For",
-      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "I Dreamt Our Whole City Burned",
-        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 284076,
-      "name": "I Dreamt Our Whole City Burned",
-      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Dusk/Dawn",
         "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 182760,
       "name": "Tear Trails",
       "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "I Dreamt Our Whole City Burned",
+        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 284076,
+      "name": "I Dreamt Our Whole City Burned",
+      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
-      },
-      "artists": [
-        {
-          "name": "Amulets",
-          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
-        },
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        }
-      ],
-      "duration_ms": 278067,
-      "name": "Lifelike",
-      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 283200,
       "name": "A Letter from the Past",
       "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+      },
+      "artists": [
+        {
+          "name": "Amulets",
+          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 278067,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
+      },
+      "artists": [
+        {
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
+        }
+      ],
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Lakeshore",
         "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "A Dream to Call My Own (feat. Janell Rosa)",
         "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
-      },
-      "artists": [
-        {
-          "name": "Rain No Rain",
-          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Samadhi",
-      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Barren",
         "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 616188,
       "name": "Barren",
       "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
+      },
+      "artists": [
+        {
+          "name": "Rain No Rain",
+          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
-      },
-      "artists": [
-        {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
-        }
-      ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "As She Bends Towards the Sun",
         "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 287388,
       "name": "As She Bends Towards the Sun",
       "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2025-09-25 12:08:17",

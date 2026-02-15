@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 192954,
+  "num_followers": 192964,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Sof\u00e1",
         "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 264053,
       "name": "Cu\u00eddame",
       "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Cantamos en mi terraza? #2",
         "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 274407,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Se Vos",
-        "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Pedro Rossi",
-          "url": "https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC"
-        }
-      ],
-      "duration_ms": 276252,
-      "name": "Se Vos",
-      "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Mil Caminos",
         "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 234104,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Se Vos",
+        "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Pedro Rossi",
+          "url": "https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC"
+        }
+      ],
+      "duration_ms": 276252,
+      "name": "Se Vos",
+      "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Es Broma, En Serio",
-        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Es Broma, En Serio",
-      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "No Estes Triste (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf"
       },
@@ -1475,18 +1455,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+        "name": "Es Broma, En Serio",
+        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
+      "duration_ms": 292000,
+      "name": "Es Broma, En Serio",
+      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1519,6 +1503,22 @@
       "duration_ms": 165504,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Love Song - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
         "url": "https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 183786,
       "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
       "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Love Song - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 369000,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "V\u00edctimas del Cielo (En Casa)",
         "url": "https://open.spotify.com/album/091ZOngC8UF9JAk0fICMcT"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 243605,
       "name": "V\u00edctimas del Cielo",
       "url": "https://open.spotify.com/track/46hRbN7XUKEwcoXB9InpeL"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 369000,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
     },
     {
       "added_at": "2026-01-23 03:00:06",

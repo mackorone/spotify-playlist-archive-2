@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 125165,
+  "num_followers": 125177,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACSDhwBtKG0SuNicK03/pjN",
+  "snapshot_id": "aY5pgAAAAAATBjzfJ8yGgfiulm0ol4/S",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just One Of Those Things",
         "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 164800,
       "name": "The Party's Over",
       "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Red Sails In The Sunset",
+      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 167546,
       "name": "Ac\u00e9rcate M\u00e1s",
       "url": "https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Red Sails In The Sunset",
-      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nat King Cole's 8 Top Pops",
-        "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Walkin' My Baby Back Home",
-      "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis Amigos",
         "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 207960,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nat King Cole's 8 Top Pops",
+        "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unforgettable Nat King Cole Sings The Great Songs",
+        "url": "https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Around The World - Remastered",
+      "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
     },
     {
       "added_at": null,
@@ -699,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
       "artists": [
         {
@@ -708,25 +740,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 168520,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "Answer Me, My Love",
-      "url": "https://open.spotify.com/track/4i7bU18iUPKxPMrld9W48M"
+      "duration_ms": 139226,
+      "name": "How I'd Love To Love You",
+      "url": "https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 139226,
-      "name": "How I'd Love To Love You",
-      "url": "https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co"
+      "duration_ms": 175600,
+      "name": "Answer Me, My Love",
+      "url": "https://open.spotify.com/track/4i7bU18iUPKxPMrld9W48M"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 133066,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Unforgettable Nat King Cole Sings The Great Songs",
-        "url": "https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Around The World - Remastered",
-      "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Ain't Misbehavin (I'm Savin My Love For You)",
-      "url": "https://open.spotify.com/track/7puWC4GVdR4Eqzh6okLwQI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 163933,
       "name": "Love Letters - Remastered",
       "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Ain't Misbehavin (I'm Savin My Love For You)",
+      "url": "https://open.spotify.com/track/7puWC4GVdR4Eqzh6okLwQI"
     }
   ],
   "unique_name": "This Is Nat King Cole",

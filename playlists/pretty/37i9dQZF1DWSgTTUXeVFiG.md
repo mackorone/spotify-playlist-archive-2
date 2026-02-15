@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,635 likes - 50 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,657 likes - 50 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 31 | [Tito Nieves Medley \(Sonambulo / El Amor Más Bonito / Almohada\) \- Live](https://open.spotify.com/track/2kSv1nvmn6OLDaUlvsryYp) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 8:05 |
 | 32 | [Quimbara \- Live](https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 6:01 |
 | 33 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
-| 34 | [Sonido Bestial \- En Vivo](https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX) | [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Un Sonido Bestial El Concierto \(En Vivo\)](https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg) | 6:11 |
+| 34 | [Boranda](https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [45 Aniversario](https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR) | 13:32 |
 | 35 | [Descarga Fania \- Live](https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 9:17 |
-| 36 | [Boranda](https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [45 Aniversario](https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR) | 13:32 |
+| 36 | [Sonido Bestial \- En Vivo](https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX) | [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Un Sonido Bestial El Concierto \(En Vivo\)](https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg) | 6:11 |
 | 37 | [Lobo Domesticado "En Vivo"](https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [40 Anniversary \(Live Hits\)](https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL) | 4:46 |
 | 38 | [Llorarás \- En Vivo Desde Nueva York/2000](https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [The Greatest Salsa Ever](https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9) | 3:38 |
 | 39 | [Discúlpeme Señora \- Live Version](https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS) | [El Canario](https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:49 |

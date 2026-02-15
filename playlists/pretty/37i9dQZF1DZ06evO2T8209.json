@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 735003,
+  "num_followers": 735037,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABrFT28irPTZQX6d7ipa3w2",
+  "snapshot_id": "aY5pgAAAAABO/lbZ+e4jT1KoO1BKQqTZ",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Potato Salad",
-        "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Potato Salad",
-      "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
+      "duration_ms": 166372,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+        "name": "Potato Salad",
+        "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 166372,
-      "name": "Tamale",
-      "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
+      "duration_ms": 182493,
+      "name": "Potato Salad",
+      "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
     },
     {
       "added_at": null,

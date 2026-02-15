@@ -1690,10 +1690,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 152213,
       "name": "COOLEST MONKEY IN THE JUNGLE",
       "url": "https://open.spotify.com/track/1D23GEeQ32aqLw5ZnY3Ivp"
+    },
+    {
+      "album": {
+        "name": "BEWARE THE BOOK OF ELI",
+        "url": "https://open.spotify.com/album/3db4t7T0VckyUVi7iFzX2x"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "COOLEST MONKEY IN THE JUNGLE",
+      "url": "https://open.spotify.com/track/6k1qIMHisshjNGDruEtCRt"
     },
     {
       "album": {

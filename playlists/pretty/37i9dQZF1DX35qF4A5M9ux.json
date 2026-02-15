@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 424913,
+  "num_followers": 425090,
   "original_name": "Salsa Viejita",
   "owner": {
     "name": "Spotify",
@@ -287,8 +287,8 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -367,8 +367,8 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
-      },
-      "artists": [
-        {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
-    },
-    {
-      "added_at": "2025-10-24 20:04:20",
-      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 296920,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
+    },
+    {
+      "added_at": "2025-10-24 20:04:20",
+      "album": {
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
+      },
+      "artists": [
+        {
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 239397,
-      "name": "Agua Caliente",
-      "url": "https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH"
-    },
-    {
-      "added_at": "2025-10-24 20:04:20",
-      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+    },
+    {
+      "added_at": "2025-10-24 20:04:20",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 239397,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 344786,
-      "name": "Nadie Igual Que tu",
-      "url": "https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k"
-    },
-    {
-      "added_at": "2025-10-24 20:04:20",
-      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 281640,
       "name": "T\u00fa Me Haces Falta",
       "url": "https://open.spotify.com/track/36831vgWmRrE5GaiwgjIwJ"
+    },
+    {
+      "added_at": "2025-10-24 20:04:20",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 344786,
+      "name": "Nadie Igual Que tu",
+      "url": "https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 320040,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/7N2EXSUvmjcJGkuhMHZjrb"
-    },
-    {
-      "added_at": "2025-10-24 20:04:20",
-      "album": {
         "name": "Colecci\u00f3n De Oro",
         "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 278986,
       "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
       "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+    },
+    {
+      "added_at": "2025-10-24 20:04:20",
+      "album": {
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 320040,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/7N2EXSUvmjcJGkuhMHZjrb"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Guajiro Natural",
-        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
-    },
-    {
-      "added_at": "2025-10-24 20:04:20",
-      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "added_at": "2025-10-24 20:04:20",
+      "album": {
+        "name": "Guajiro Natural",
+        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
+        "name": "Reg\u00e1lame Una Noche",
+        "url": "https://open.spotify.com/album/1pr3TkFTzeQewXcoyXbpIq"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Reg\u00e1lame una Noche",
+      "url": "https://open.spotify.com/track/6F3YJ3vWzatHA3nz6GwDoA"
+    },
+    {
+      "added_at": "2025-10-24 20:04:20",
+      "album": {
         "name": "Solo Salsa",
         "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
       },
@@ -1963,18 +1979,18 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Reg\u00e1lame Una Noche",
-        "url": "https://open.spotify.com/album/1pr3TkFTzeQewXcoyXbpIq"
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 278186,
-      "name": "Reg\u00e1lame una Noche",
-      "url": "https://open.spotify.com/track/6F3YJ3vWzatHA3nz6GwDoA"
+      "duration_ms": 309573,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR"
     },
     {
       "added_at": "2025-10-24 20:04:20",
@@ -1995,22 +2011,6 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 309573,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR"
-    },
-    {
-      "added_at": "2025-10-24 20:04:20",
-      "album": {
         "name": "Manos de Tijera",
         "url": "https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9"
       },
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-10-24 20:04:20",
       "album": {
-        "name": "Grandes Hits - los Titanes",
-        "url": "https://open.spotify.com/album/58DwVt091gM8kOtVpjOnuQ"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 249878,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/3EpEMEdNdgCBDLOtSLFAyh"
-    },
-    {
-      "added_at": "2025-10-24 20:04:20",
-      "album": {
         "name": "En Tiempo de Amor",
         "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 275840,
       "name": "Ser\u00e1 Que Si",
       "url": "https://open.spotify.com/track/1hAxMwmqRk0hCbbXOLn4IV"
+    },
+    {
+      "added_at": "2025-10-24 20:04:20",
+      "album": {
+        "name": "Grandes Hits - los Titanes",
+        "url": "https://open.spotify.com/album/58DwVt091gM8kOtVpjOnuQ"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 249878,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/3EpEMEdNdgCBDLOtSLFAyh"
     }
   ],
   "unique_name": "Salsa Viejita",

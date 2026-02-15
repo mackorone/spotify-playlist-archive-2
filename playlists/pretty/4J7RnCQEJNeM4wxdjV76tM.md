@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > old asl
 
-[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 657 songs - 1 day 12 hr 2 min
+[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 659 songs - 1 day 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -665,5 +665,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 655 | [Side B!+$\#es](https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Federal 3X](https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi) | 3:24 |
 | 656 | [Heavy In Your Arms](https://open.spotify.com/track/3YZ4ccGSysav9mPqbni9JU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:45 |
 | 657 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
+| 658 | [Obsession](https://open.spotify.com/track/1mK4v6sSCbKR2mMAWG2zMy) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:17 |
+| 659 | [The Hellfire Club](https://open.spotify.com/track/41UyHzuAgQSBH1PZngjE73) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Heroine](https://open.spotify.com/album/5v8sXBKPvCrUryqtmZ2r2U) | 5:06 |
 
-Snapshot ID: `AAAEVdu60WK4A92sMF8j65WnQvAM/e2j`
+Snapshot ID: `AAAEV6zzCNOr6e8ooHQ/ZMZgZ2OW4g4p`

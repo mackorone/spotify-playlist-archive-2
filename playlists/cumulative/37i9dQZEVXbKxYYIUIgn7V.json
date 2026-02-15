@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "11 Jecke (Bei 3 ist hier Karneval)",
+        "url": "https://open.spotify.com/album/1doKljwntevCDbqRZKiRm7"
+      },
+      "artists": [
+        {
+          "name": "@47_k\u00f611sch",
+          "url": "https://open.spotify.com/artist/7bHmLfrQQVPQTIChPBYh5b"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "11 Jecke (Bei 3 ist hier Karneval)",
+      "url": "https://open.spotify.com/track/7oZok9vYx223mL1Rrw9a5x"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/6II0CjU8B2JyEgWBBVvtjN"
       },
@@ -14669,6 +14687,28 @@
     },
     {
       "album": {
+        "name": "En Derine",
+        "url": "https://open.spotify.com/album/2nGA1RqvIEJ3OY1ecAe1TH"
+      },
+      "artists": [
+        {
+          "name": "WTSOUNDS",
+          "url": "https://open.spotify.com/artist/27N70iRV4BrxqvFnR6CT28"
+        },
+        {
+          "name": "WTFRANK",
+          "url": "https://open.spotify.com/artist/0oP6PRV97lvonUAdTvzeqN"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147407,
+      "name": "En Derine",
+      "url": "https://open.spotify.com/track/1Y0dPkNvAXzfWqhXknO8Ji"
+    },
+    {
+      "album": {
         "name": "Euphories",
         "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
       },
@@ -19302,7 +19342,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 159390,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD"
@@ -26616,7 +26656,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
@@ -31598,7 +31638,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -37156,7 +37196,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -47986,7 +48026,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 181565,
       "name": "That's the Way It Is",
       "url": "https://open.spotify.com/track/3IN5K5LG1EGzFak9e0GNrC"
@@ -56238,7 +56278,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 170181,
       "name": "zwei fremde",
       "url": "https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA"

@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: Mello, Vurr Flashy, Karma K en meer...
+> Nieuw: Mello, Jordan, Vurr Flashy, Karma K en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,419 likes - 86 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,405 likes - 86 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tnf Jacket](https://open.spotify.com/track/2Eow9G2CYzHaUWvmksfgBj) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [Tnf Jacket](https://open.spotify.com/album/4dfl71dwPClpM1oXw2Pbhp) | 2:45 |
-| 2 | [Ferillis](https://open.spotify.com/track/7hbkeJXjNYwtvumREs7r7P) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Ferillis](https://open.spotify.com/album/2n20khJ5HMB2B7xEKgyiu9) | 1:57 |
-| 3 | [PSALM 23](https://open.spotify.com/track/2FjkuA0qqDl4DU6G40a1GD) | [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII) | [PSALM 23](https://open.spotify.com/album/3tnA1I24I3GLjjWhyBTyKL) | 2:14 |
-| 4 | [Emoties](https://open.spotify.com/track/4amxDIpmwnGRrJFYouREQK) | [Kerron](https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf) | [Emoties](https://open.spotify.com/album/1Yqdn8fUUkYnxiX5WtbNk7) | 2:25 |
-| 5 | [Herinneringen](https://open.spotify.com/track/7xUYUHOdmc5yfQrpZ82Cbw) | [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh) | [Herinneringen](https://open.spotify.com/album/17VcnF6vT6OqZ59WUR2twn) | 2:59 |
-| 6 | [Focus mode](https://open.spotify.com/track/3AV4B0I5rkHyyNwWOvk469) | [Jordan](https://open.spotify.com/artist/0b3RMzjORTOTEREn3mv3fF) | [Focus mode](https://open.spotify.com/album/1hlcvrb6x1BolMWPQbRQi7) | 2:36 |
-| 7 | [Vertrek](https://open.spotify.com/track/3490uDN0wgAjlYuSpFy1Go) | [ENDS](https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu), [Ertu](https://open.spotify.com/artist/7gJQoFazS3G5AiVwbOVVV5) | [Vertrek](https://open.spotify.com/album/4E6PwnbmHFI3TURlXXwRrE) | 2:11 |
-| 8 | [Minor](https://open.spotify.com/track/21F8F0dFQdYMRWL2SDrEy3) | [WV](https://open.spotify.com/artist/2xWvtE4mK5ZQTT86pB99Mh) | [Minor](https://open.spotify.com/album/380YDD6v6s2ddbrEc3tlYV) | 2:47 |
-| 9 | [Nasty Valentine](https://open.spotify.com/track/4YpurA219M0G3HtbBbU2x4) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Nasty Valentine](https://open.spotify.com/album/2LtOnkde4KSlgQG2AAVzTv) | 2:00 |
-| 10 | [Liefde is moeilijk](https://open.spotify.com/track/4lyyczrNysFKBP7OzKKnHP) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ) | [Liefde is moeilijk](https://open.spotify.com/album/7rq8eKuce1Ga0t9qPZEsWd) | 2:19 |
-| 11 | [Carplay 2.0](https://open.spotify.com/track/74u3COGtqhc6mmQxPyyLBP) | [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7), [SG 34](https://open.spotify.com/artist/0x8CyMxW62CdkNIZziZK89) | [Carplay 2.0](https://open.spotify.com/album/4agrRsz8OVON7kw7pzgp7E) | 2:36 |
-| 12 | [ONLY US](https://open.spotify.com/track/5RrlCVoQC6h5lzLNLPVOLd) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN), [Hos](https://open.spotify.com/artist/7ifVl6NLsutQy73RYugPwo) | [ONLY US](https://open.spotify.com/album/1TBVplPQkq25ackvDgHeoY) | 3:02 |
-| 13 | [Niet Alleen](https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Niet Alleen](https://open.spotify.com/album/68gEYFDR7LxGuiS1PC9Cdt) | 2:23 |
-| 14 | [Bij Zinnen](https://open.spotify.com/track/1OznBrEz4CKS2Y3svYQxlg) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [willymakeamilli](https://open.spotify.com/artist/4DVTlo97P1cDrE6Zzz9wOx), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5) | [Bij Zinnen](https://open.spotify.com/album/4gEsKfDjG1mrOiDPI9uEoM) | 2:24 |
-| 15 | [SERIEUZE MENSEN](https://open.spotify.com/track/7yVSKvuDKcC15eU8eKcpvy) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [SERIEUZE MENSEN](https://open.spotify.com/album/30F1ewuPXFILtPPvB7BQzv) | 3:00 |
-| 16 | [Jailhouse](https://open.spotify.com/track/4Xe6qtLYPoPsRec7rVdH0g) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Jailhouse](https://open.spotify.com/album/4tCD8z5D2i6gbBlFRrdScX) | 2:00 |
-| 17 | [Gesprek Met Mezelf](https://open.spotify.com/track/3TptBF3W1kVKAPeWEpcfC8) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [Gesprek Met Mezelf](https://open.spotify.com/album/0bz5SOCMBc1zF4GJr9Ur5A) | 2:25 |
+| 2 | [Focus mode](https://open.spotify.com/track/3AV4B0I5rkHyyNwWOvk469) | [Jordan](https://open.spotify.com/artist/0b3RMzjORTOTEREn3mv3fF) | [Focus mode](https://open.spotify.com/album/1hlcvrb6x1BolMWPQbRQi7) | 2:36 |
+| 3 | [Ferillis](https://open.spotify.com/track/7hbkeJXjNYwtvumREs7r7P) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Ferillis](https://open.spotify.com/album/2n20khJ5HMB2B7xEKgyiu9) | 1:57 |
+| 4 | [Minor](https://open.spotify.com/track/21F8F0dFQdYMRWL2SDrEy3) | [WV](https://open.spotify.com/artist/2xWvtE4mK5ZQTT86pB99Mh) | [Minor](https://open.spotify.com/album/380YDD6v6s2ddbrEc3tlYV) | 2:47 |
+| 5 | [ONLY US](https://open.spotify.com/track/5RrlCVoQC6h5lzLNLPVOLd) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN), [Hos](https://open.spotify.com/artist/7ifVl6NLsutQy73RYugPwo) | [ONLY US](https://open.spotify.com/album/1TBVplPQkq25ackvDgHeoY) | 3:02 |
+| 6 | [Gesprek Met Mezelf](https://open.spotify.com/track/3TptBF3W1kVKAPeWEpcfC8) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [Gesprek Met Mezelf](https://open.spotify.com/album/0bz5SOCMBc1zF4GJr9Ur5A) | 2:25 |
+| 7 | [PSALM 23](https://open.spotify.com/track/2FjkuA0qqDl4DU6G40a1GD) | [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII) | [PSALM 23](https://open.spotify.com/album/3tnA1I24I3GLjjWhyBTyKL) | 2:14 |
+| 8 | [Emoties](https://open.spotify.com/track/4amxDIpmwnGRrJFYouREQK) | [Kerron](https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf) | [Emoties](https://open.spotify.com/album/1Yqdn8fUUkYnxiX5WtbNk7) | 2:25 |
+| 9 | [Herinneringen](https://open.spotify.com/track/7xUYUHOdmc5yfQrpZ82Cbw) | [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh) | [Herinneringen](https://open.spotify.com/album/17VcnF6vT6OqZ59WUR2twn) | 2:59 |
+| 10 | [Vertrek](https://open.spotify.com/track/3490uDN0wgAjlYuSpFy1Go) | [ENDS](https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu), [Ertu](https://open.spotify.com/artist/7gJQoFazS3G5AiVwbOVVV5) | [Vertrek](https://open.spotify.com/album/4E6PwnbmHFI3TURlXXwRrE) | 2:11 |
+| 11 | [Nasty Valentine](https://open.spotify.com/track/4YpurA219M0G3HtbBbU2x4) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Nasty Valentine](https://open.spotify.com/album/2LtOnkde4KSlgQG2AAVzTv) | 2:00 |
+| 12 | [Liefde is moeilijk](https://open.spotify.com/track/4lyyczrNysFKBP7OzKKnHP) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ) | [Liefde is moeilijk](https://open.spotify.com/album/7rq8eKuce1Ga0t9qPZEsWd) | 2:19 |
+| 13 | [Carplay 2.0](https://open.spotify.com/track/74u3COGtqhc6mmQxPyyLBP) | [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7), [SG 34](https://open.spotify.com/artist/0x8CyMxW62CdkNIZziZK89) | [Carplay 2.0](https://open.spotify.com/album/4agrRsz8OVON7kw7pzgp7E) | 2:36 |
+| 14 | [Niet Alleen](https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Niet Alleen](https://open.spotify.com/album/68gEYFDR7LxGuiS1PC9Cdt) | 2:23 |
+| 15 | [Bij Zinnen](https://open.spotify.com/track/1OznBrEz4CKS2Y3svYQxlg) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [willymakeamilli](https://open.spotify.com/artist/4DVTlo97P1cDrE6Zzz9wOx), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5) | [Bij Zinnen](https://open.spotify.com/album/4gEsKfDjG1mrOiDPI9uEoM) | 2:24 |
+| 16 | [SERIEUZE MENSEN](https://open.spotify.com/track/7yVSKvuDKcC15eU8eKcpvy) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [SERIEUZE MENSEN](https://open.spotify.com/album/30F1ewuPXFILtPPvB7BQzv) | 3:00 |
+| 17 | [Jailhouse](https://open.spotify.com/track/4Xe6qtLYPoPsRec7rVdH0g) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Jailhouse](https://open.spotify.com/album/4tCD8z5D2i6gbBlFRrdScX) | 2:00 |
 | 18 | [Me Eige Beleid](https://open.spotify.com/track/0DP4RUWiohZPeAvMEyggLy) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Me Eige Beleid](https://open.spotify.com/album/1Pcuj2jdB4rWRSuCiQv35M) | 2:58 |
 | 19 | [Life](https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Life](https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y) | 2:09 |
 | 20 | [LIEVER ALLEEN](https://open.spotify.com/track/5OTr7fjuxbBMamywkeGesA) | [YB YB](https://open.spotify.com/artist/0BTt9oHCLaKlU9bK5gBqiR) | [LIEVER ALLEEN](https://open.spotify.com/album/2aqsjpOeUdM7VjQKGDUGlL) | 2:02 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 85 | [Op de Counter](https://open.spotify.com/track/3yCFs0RQZy2HKthpg51pF7) | [BOKKI](https://open.spotify.com/artist/4ANqWVazc3lo9jYITK2Ceb) | [Op de Counter](https://open.spotify.com/album/7tWjg1IJE2C0hghR2YFfpa) | 2:18 |
 | 86 | [Probleem](https://open.spotify.com/track/3djhoyCQQP4Tv5zErWGskZ) | [MR7](https://open.spotify.com/artist/1JCHGpXp6v55OMHEkEXJuA) | [Probleem](https://open.spotify.com/album/3jarmRsn4GdDA3sliphmj9) | 2:12 |
 
-Snapshot ID: `AAAAAB6yyElBYcUjfPLpvZGP80iJ3DYr`
+Snapshot ID: `AAAAAPghS+0kGW8tD156RUgy0SlbrTGg`

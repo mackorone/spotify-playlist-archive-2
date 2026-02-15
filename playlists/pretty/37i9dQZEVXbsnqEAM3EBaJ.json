@@ -91,6 +91,34 @@
     {
       "added_at": "2026-02-13 03:00:00",
       "album": {
+        "name": "Under The Night Sky",
+        "url": "https://open.spotify.com/album/3Lx1yVqQzrmuCxZKA6Vrqm"
+      },
+      "artists": [
+        {
+          "name": "Aboy Beats",
+          "url": "https://open.spotify.com/artist/5SDAk4xNUjGlh6pE0OlVRc"
+        },
+        {
+          "name": "Vangelis Solen",
+          "url": "https://open.spotify.com/artist/4FcFmEzHSbqBvalGdCO1LU"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "stephen.",
+          "url": "https://open.spotify.com/artist/06axVhMRpYyfkMrvLtQB6s"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Under The Night Sky",
+      "url": "https://open.spotify.com/track/0OKd4Y5nISK68d2NxZhqjX"
+    },
+    {
+      "added_at": "2026-02-13 03:00:00",
+      "album": {
         "name": "Love Notes",
         "url": "https://open.spotify.com/album/6G3vQf1sKR8pvvPkDR7L1a"
       },
@@ -227,42 +255,6 @@
     {
       "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "JANE DOE (from \"Chainsaw Man\") [Spanish Version]",
-        "url": "https://open.spotify.com/album/3WfRtbyKdiJ4fiU4UXvxaW"
-      },
-      "artists": [
-        {
-          "name": "Iris ~Pamela Calvo~",
-          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
-        },
-        {
-          "name": "ChemyNoSurfea",
-          "url": "https://open.spotify.com/artist/4TDi1l3plDjy9HZXn7OmIo"
-        }
-      ],
-      "duration_ms": 227887,
-      "name": "JANE DOE (from \"Chainsaw Man\") - Spanish Version",
-      "url": "https://open.spotify.com/track/5LIJ14j7IDOcnSRk8lYdgW"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
-        "name": "Set The Dark On Fire",
-        "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
-      },
-      "artists": [
-        {
-          "name": "Edenbridge",
-          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
-        }
-      ],
-      "duration_ms": 331053,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
         "name": "Mama Kin (2024 Mix)",
         "url": "https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy"
       },
@@ -279,42 +271,6 @@
     {
       "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 229322,
-      "name": "Play The Old Shit",
-      "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
-        "name": "Ki Chororo",
-        "url": "https://open.spotify.com/album/1gbEmEIUZTR9teDGCuD0JQ"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 224736,
-      "name": "Ki Chororo",
-      "url": "https://open.spotify.com/track/0C97btEEwC56pQYBU5U8GG"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
         "name": "Streets of Minneapolis (Bob Clearmountain Radio Mix)",
         "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
@@ -327,42 +283,6 @@
       "duration_ms": 270825,
       "name": "Streets of Minneapolis - Bob Clearmountain Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
-        "name": "Sweet Palm Wine",
-        "url": "https://open.spotify.com/album/2h3Qyy2nF36atsBcrPbcYB"
-      },
-      "artists": [
-        {
-          "name": "Noendo",
-          "url": "https://open.spotify.com/artist/3LZSkU8cE6VWax2eImyxTY"
-        },
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 258552,
-      "name": "Sweet Palm Wine",
-      "url": "https://open.spotify.com/track/7cKn7oqphz5lz4kGz3kMbq"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
-        "name": "Hagamos Que",
-        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Hagamos Que",
-      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
       "added_at": "2026-02-13 03:00:00",
@@ -427,22 +347,6 @@
     {
       "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
-        "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 177015,
-      "name": "Anything Is Possible",
-      "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
         "name": "FADE",
         "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
       },
@@ -491,26 +395,6 @@
     {
       "added_at": "2026-02-13 03:00:00",
       "album": {
-        "name": "THE SPELL",
-        "url": "https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        },
-        {
-          "name": "Thomas Jenssen",
-          "url": "https://open.spotify.com/artist/1CsiZJ13f1oUIxiV1X9NBm"
-        }
-      ],
-      "duration_ms": 175111,
-      "name": "THE SPELL",
-      "url": "https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
         "name": "Minnesota Nazis",
         "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
       },
@@ -523,26 +407,6 @@
       "duration_ms": 219616,
       "name": "Minnesota Nazis",
       "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
-    },
-    {
-      "added_at": "2026-02-13 03:00:00",
-      "album": {
-        "name": "Bedroom Posters (feat. Good Charlotte)",
-        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 218635,
-      "name": "Bedroom Posters (feat. Good Charlotte)",
-      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
       "added_at": "2026-02-13 03:00:00",

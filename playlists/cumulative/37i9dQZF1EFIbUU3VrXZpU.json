@@ -1400,6 +1400,24 @@
     {
       "album": {
         "name": "You Will Regret (Reloaded)",
+        "url": "https://open.spotify.com/album/4DkkDn10C4ZXjJAkDkCryx"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145760,
+      "name": "Catch Me Outside",
+      "url": "https://open.spotify.com/track/1hVHF4piGsHg5MKwxG7XwR"
+    },
+    {
+      "album": {
+        "name": "You Will Regret (Reloaded)",
         "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
       },
       "artists": [
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 145760,
       "name": "Catch Me Outside",
       "url": "https://open.spotify.com/track/4rgwri7LajWVZvdj2N81SS"

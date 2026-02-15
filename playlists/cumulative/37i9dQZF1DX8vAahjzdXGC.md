@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Rizky Febian, Raisa, Charli xcx dan masih banyak lagi dari dalam dan mancanegara.
 
-30,317 songs - 71 day 22 hr 17 min
+30,317 songs - 71 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13621,7 +13621,7 @@
 | [Kau Buatku Menangis](https://open.spotify.com/track/4MGZp7XTVv1tr1xIFTTVfq) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Kau Buatku Menangis](https://open.spotify.com/album/61JqQPVSWNqDohYhASYxKi) | 4:33 | 2022-12-15 | 2022-12-24 |
 | [Kau Cinta Matiku](https://open.spotify.com/track/5Hp42MkalRuVZ3Ke9ahNZ0) | [Gya](https://open.spotify.com/artist/5plT8sNGUbyQO8pahtRh3n) | [Kau Cinta Matiku](https://open.spotify.com/album/1DMT4eIRwoSy2G040N5QJ9) | 3:34 | 2020-08-07 | 2023-06-02 |
 | [Kau Cinta Putihku](https://open.spotify.com/track/5LdyyA6W6SHy4DvNbczWVN) | [Dewi Gita](https://open.spotify.com/artist/2mdhF7tOeaoeCRXGosuYsr) | [Kau Cinta Putihku](https://open.spotify.com/album/4CqgJRLxltvyftGan7VO67) | 3:53 | 2022-02-17 | 2022-02-25 |
-| [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/4G5tdW6NHLvRngYXHSjreB), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 | 2026-02-12 |  |
+| [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/55ReTHE3UQOwlEuqz1bX0S), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 | 2026-02-12 |  |
 | [Kau dan Merpati](https://open.spotify.com/track/3ZZaQLpp2wUZj0Ic9GNFWr) | [Juwita Kana](https://open.spotify.com/artist/6Rr6noj4M7Y3b1wHipE2hC) | [Kau dan Merpati](https://open.spotify.com/album/3hgO4mKuagLEoU3F9EDySq) | 4:50 | 2021-10-16 | 2021-10-22 |
 | [Kau Hanya Belum Mengerti](https://open.spotify.com/track/54Hnt4AyPXn7a7FxhbK0Zl) | [Hursa](https://open.spotify.com/artist/1h9rmVUlTld8HUdnsALwZa) | [Kau Hanya Belum Mengerti](https://open.spotify.com/album/3uHuPRLZnQUl4zFrwPphIS) | 4:28 | 2025-05-29 | 2025-06-06 |
 | [Kau Hapus Namaku](https://open.spotify.com/track/086CAR1nVDY2UJVyrR1bLN) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [Trakast](https://open.spotify.com/artist/3jVitNjKopPlrS3eOOroRM) | [Kau Hapus Namaku](https://open.spotify.com/album/26qYnFAGfVF8OJaGj2dZpZ) | 3:24 | 2022-02-24 | 2022-03-04 |
@@ -23312,7 +23312,7 @@
 | [Signs](https://open.spotify.com/track/52D5HEMZJFT2w0mUxtIGQp) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 4:41 | 2025-11-13 | 2025-11-21 |
 | [Signs](https://open.spotify.com/track/7hLeWn6DmpzX2cZB7aFSzA) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Signs](https://open.spotify.com/album/4E1fGcosxVVwOXagB0urMX) | 4:32 | 2025-12-04 | 2025-12-12 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-24 | 2022-04-01 |
-| [Sihir](https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sihir](https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF) | 3:26 | 2026-02-12 |  |
+| [Sihir](https://open.spotify.com/track/4hJiFb0IHJWyiIfZVvPZbd) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sihir](https://open.spotify.com/album/7gSimviS2efHYDjzhn5iGF) | 3:28 | 2026-02-12 |  |
 | [Sihir](https://open.spotify.com/track/0kBCXDt8odHptUhO7qO9ar) | [Juliette](https://open.spotify.com/artist/3D8nTpWtMvOKTU0ovYthOj) | [Sihir](https://open.spotify.com/album/4OgZK2vDhu3w5nIwVprbzq) | 3:03 | 2020-05-29 | 2020-06-05 |
 | [Sik Asiknya Cuman Di Bersyandya](https://open.spotify.com/track/0p4gp0ZyuxWzgYGmGs7gRt) | [Rahmat Tahalu](https://open.spotify.com/artist/1KgiS9L9gXZUa40X3zoBE9) | [Sik Asiknya Cuman Di Bersyandya](https://open.spotify.com/album/0rXvm8k5cgz29eiqjTN93z) | 4:06 | 2023-11-09 | 2023-11-17 |
 | [Sikap feat\. Dzulfahmi](https://open.spotify.com/track/0ZIegcxFKmJAwYepBPP1Za) | [Dzee](https://open.spotify.com/artist/6bYFniwXe8cEuiL2Z6jhZP), [Bilal Muhammad](https://open.spotify.com/artist/0TqJb2NT5E2JetawegFXn5), [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio) | [Sikap feat\. Dzulfahmi](https://open.spotify.com/album/6COxjceJKBW1gLW3YUj58H) | 4:07 | 2024-03-28 | 2024-04-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Gordo & Reinier Zonneveld
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,595 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,605 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 17 | [Beat Is Jumping](https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Beat Is Jumping](https://open.spotify.com/album/3W210elro9LvnY46RJBNAn) | 2:19 |
 | 18 | [Transmission](https://open.spotify.com/track/4mibonjnCp3wKEzoEphoTs) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Transmission](https://open.spotify.com/album/6SAmBQXySShXE2X5Cm2SuN) | 3:06 |
 | 19 | [Drums Down Low](https://open.spotify.com/track/5glUmbq2OQEyROYTocKEAB) | [Emmanuel David](https://open.spotify.com/artist/7FdHwHOUgc6MNFbhXvAleN), [ED\_PRJCT](https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR), [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Drums Down Low](https://open.spotify.com/album/2uv2uRaoMzgccd9zdKb1cg) | 2:44 |
-| 20 | [Green Light](https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Green Light](https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor) | 3:07 |
+| 20 | [Green Light](https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Green Light](https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor) | 3:07 |
 | 21 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 |
 | 22 | [Funky Bitz](https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Funky Bitz](https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP) | 3:21 |
 | 23 | [3AM](https://open.spotify.com/track/4ekPN8q9in7XPXHbT4cYTo) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [3AM](https://open.spotify.com/album/5celvKkIqMsgDGb4A3RUKX) | 3:04 |

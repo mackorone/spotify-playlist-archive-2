@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Jo Black, Zaan Sonnekus, Loufi, Mr Heinz en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,650 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,664 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Kroeg Cowboys](https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv), [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Kroeg Cowboys](https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc) | 3:07 |
 | 50 | [Desiré](https://open.spotify.com/track/2F71qV5WzGwY9nx8jWDKth) | [Desmond Wells](https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19) | [Desiré](https://open.spotify.com/album/15hBM0vQPPHWfHsGOxttuP) | 3:33 |
 | 51 | [Vissie Vissie](https://open.spotify.com/track/0ek7g63ku2FVAJOSllBJJM) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ), [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vissie Vissie](https://open.spotify.com/album/0kyuz4oAgbgZq7QSswDPHA) | 2:53 |
-| 52 | [Niks Meer.](https://open.spotify.com/track/0AZQ1Mxts1Zo7HiS3pk2ex) | [Rikus Can Der Vlies ](https://open.spotify.com/artist/2Ik58q2nVrcW1GZ9o9m16Q) | [Niks Meer.](https://open.spotify.com/album/4XnueoNkcwR98g8OubiNmP) | 4:10 |
+| 52 | [Niks Meer.](https://open.spotify.com/track/0AZQ1Mxts1Zo7HiS3pk2ex) | [Rikus Van Der Vlies](https://open.spotify.com/artist/2Ik58q2nVrcW1GZ9o9m16Q) | [Niks Meer.](https://open.spotify.com/album/4XnueoNkcwR98g8OubiNmP) | 4:10 |
 | 53 | [Bosveldnooi](https://open.spotify.com/track/3J9WFrc0fYg5x1oBd8b5SH) | [HKJK](https://open.spotify.com/artist/2BPNIvdjCfa4kWT1PjDfW2) | [Bosveldnooi](https://open.spotify.com/album/1EwuUEAJBMo15mgUVJ0bEl) | 2:28 |
 | 54 | [Boertjie Voor My Deur](https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Boertjie Voor My Deur](https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe) | 3:25 |
 | 55 | [Gee My](https://open.spotify.com/track/63RE6HlVTqRxUa1JtWkxD2) | [EDEN](https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu) | [Gee My](https://open.spotify.com/album/4TEThWYT5kqRB5XjIgHMua) | 2:41 |

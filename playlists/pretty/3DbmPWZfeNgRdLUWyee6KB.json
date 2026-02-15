@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1254,
+  "num_followers": 1255,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQYAHFDoKTZdwt7V/ErjyAs+XNKQhy",
+  "snapshot_id": "AAAQZL4rmwggt5V9Ai3CT6sVYVDeoRIP",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -73,6 +73,46 @@
       "url": "https://open.spotify.com/track/3UFy1nOeLLtp1iZ916oK9u"
     },
     {
+      "added_at": "2026-02-15 01:42:35",
+      "album": {
+        "name": "BARK",
+        "url": "https://open.spotify.com/album/25rraJ2LBBLpjvYso8sus1"
+      },
+      "artists": [
+        {
+          "name": "Malaya",
+          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
+        },
+        {
+          "name": "OBI ALI",
+          "url": "https://open.spotify.com/artist/1IfibYZptPrskRP9aFelO0"
+        }
+      ],
+      "duration_ms": 104896,
+      "name": "BARK",
+      "url": "https://open.spotify.com/track/5Nlz8HtWk4bULZ58wXfN90"
+    },
+    {
+      "added_at": "2026-02-15 01:42:29",
+      "album": {
+        "name": "BARK",
+        "url": "https://open.spotify.com/album/25rraJ2LBBLpjvYso8sus1"
+      },
+      "artists": [
+        {
+          "name": "Malaya",
+          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
+        },
+        {
+          "name": "OBI ALI",
+          "url": "https://open.spotify.com/artist/1IfibYZptPrskRP9aFelO0"
+        }
+      ],
+      "duration_ms": 104896,
+      "name": "BARK",
+      "url": "https://open.spotify.com/track/5Nlz8HtWk4bULZ58wXfN90"
+    },
+    {
       "added_at": "2026-02-08 23:07:21",
       "album": {
         "name": "LET ME BE",
@@ -136,7 +176,7 @@
           "url": "https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ"
         }
       ],
-      "duration_ms": 235927,
+      "duration_ms": 237200,
       "name": "My Black Cat",
       "url": "https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM"
     },
@@ -2871,6 +2911,38 @@
       "duration_ms": 221479,
       "name": "HOPE (MOM)",
       "url": "https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH"
+    },
+    {
+      "added_at": "2026-02-14 11:02:05",
+      "album": {
+        "name": "Tonno & Mais",
+        "url": "https://open.spotify.com/album/6oD2jXFjAcyLMUX2IroM45"
+      },
+      "artists": [
+        {
+          "name": "ANNAPURNA",
+          "url": "https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ"
+        }
+      ],
+      "duration_ms": 190379,
+      "name": "Tonno & Mais",
+      "url": "https://open.spotify.com/track/0hO4qLR5aBkgjurivChdBD"
+    },
+    {
+      "added_at": "2026-02-14 11:02:14",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5"
+      },
+      "artists": [
+        {
+          "name": "Ella Kenz",
+          "url": "https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e"
+        }
+      ],
+      "duration_ms": 196097,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H"
     }
   ],
   "unique_name": "New Indie Music",

@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 340,
+  "num_followers": 341,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABOhvYU1Oivt4D+dpRsf/gZdhN6Boh",
+  "snapshot_id": "AAABO7DCT/oATH/UnYRsfHSIak+a0xyG",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1099,6 +1099,22 @@
       "duration_ms": 291153,
       "name": "Tear Down the Sky",
       "url": "https://open.spotify.com/track/4sKd8sVdwGOqQgOWTSuIsU"
+    },
+    {
+      "added_at": "2026-02-14 17:59:59",
+      "album": {
+        "name": "March",
+        "url": "https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP"
+      },
+      "artists": [
+        {
+          "name": "Crafty McVillain",
+          "url": "https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP"
+        }
+      ],
+      "duration_ms": 283317,
+      "name": "March",
+      "url": "https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG"
     }
   ],
   "unique_name": "Local Rock Bands",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAAnyZ9fd98PDGjj0/YViFAj",
+  "snapshot_id": "aY5pgAAAAABNkUT1K8gH1jRWesJ81big",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Future Odyssey",
-        "url": "https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Albin Myers",
-          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
         }
       ],
-      "duration_ms": 201210,
-      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
-      "url": "https://open.spotify.com/track/1bUqaX8ucv4VTMtKlAd8mW"
+      "duration_ms": 171743,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
     },
     {
       "added_at": null,
@@ -215,18 +207,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
+        "name": "Neon Future Odyssey",
+        "url": "https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK"
       },
       "artists": [
         {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Albin Myers",
+          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
+      "duration_ms": 201210,
+      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
+      "url": "https://open.spotify.com/track/1bUqaX8ucv4VTMtKlAd8mW"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,

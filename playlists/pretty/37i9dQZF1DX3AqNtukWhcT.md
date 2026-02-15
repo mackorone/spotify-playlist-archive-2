@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Soft and soothing beats for all your yoga practices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,160 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,206 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 49 | [spirulina](https://open.spotify.com/track/6RTXsP4KJKDhBSATyR4ZSB) | [green print](https://open.spotify.com/artist/39W25if0IxsMNwE37DBgZu) | [spirulina](https://open.spotify.com/album/5q0CUqbosogIw2TbpQTI9k) | 2:07 |
 | 50 | [Blume](https://open.spotify.com/track/3grDCNoz10P59lIs1JLbvi) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Blume](https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B) | 2:34 |
 
-Snapshot ID: `AAAAAC64AK1+ZuLsYbAQvC8Cs62U+Po+`
+Snapshot ID: `AAAAAFNx15OgCqIdx3r3KJtFvsldLzni`

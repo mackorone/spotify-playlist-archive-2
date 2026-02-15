@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Sebastián Yatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,586 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,528 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Cervatillo](https://open.spotify.com/track/2imti1tGK8BNvQ7Y4iYr7a) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Cervatillo](https://open.spotify.com/album/05VPesl3x88FhifTQ3AeJ3) | 2:34 |
 | 50 | [Piensa en mí](https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Piensa en mí](https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev) | 2:53 |
 | 51 | [Cualquiera te roba](https://open.spotify.com/track/1O0ZtnhigQYsKiaDtW3QJV) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Cualquiera te roba](https://open.spotify.com/album/3xxOpuCQjX4YnJxDXQN5rL) | 2:39 |
-| 52 | [No hay nah](https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc) | [No hay nah](https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W) | 3:08 |
+| 52 | [No Hay Nah](https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [No Hay Nah](https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W) | 3:08 |
 | 53 | [Cuánta Razón](https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cuánta Razón](https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab) | 3:05 |
 | 54 | [Toco madera](https://open.spotify.com/track/0pEdOc9cVgn5hyFqOn3nns) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Toco madera](https://open.spotify.com/album/5olISeCcVZ5I5XhEdGLf1d) | 3:16 |
 | 55 | [Palabras](https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Canto Pa No Llorar](https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf) | 3:02 |

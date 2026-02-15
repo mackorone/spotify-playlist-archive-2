@@ -4,7 +4,7 @@
 
 > ❄️❄️❄️
 
-304 songs - 15 hr 54 min
+305 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 | 2025-03-27 |  |
 | [Glimt i Øyet](https://open.spotify.com/track/6KkiKNruXUDQAIP43Ap9LG) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Glimt i Øyet](https://open.spotify.com/album/4De11wbb5m0QqyQTK4yOyr) | 2:20 | 2024-06-27 | 2024-07-18 |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-10 |  |
-| [God Morgen](https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [God Morgen](https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ) | 2:51 | 2025-02-06 |  |
+| [God Morgen](https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [God Morgen](https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ) | 2:51 | 2025-02-06 | 2026-02-15 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-06-13 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-29 |  |
 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 | 2024-06-27 | 2024-10-13 |
@@ -139,6 +139,7 @@
 | [I veit](https://open.spotify.com/track/2BVufDWowBtrpyN2rIHmzy) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [I veit](https://open.spotify.com/album/14aX895lIZdOR9iq3ZDvMj) | 2:27 | 2025-07-03 | 2025-07-18 |
 | [i'm in the corner, alone](https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [i'm in the corner, alone](https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv) | 2:20 | 2025-05-02 | 2025-06-28 |
 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 | 2025-09-04 | 2025-11-14 |
+| [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 | 2026-02-12 |  |
 | [If I'm So Bad](https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [YOUNG: Part 1 & 2](https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV) | 2:17 | 2026-01-22 |  |
 | [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 | 2025-03-20 |
 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 | 2025-08-14 |  |

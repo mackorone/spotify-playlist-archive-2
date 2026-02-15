@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-1,996 songs - 5 day 3 hr 37 min
+1,997 songs - 5 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,7 +724,7 @@
 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-04 | 2024-02-09 |
 | [RED](https://open.spotify.com/track/1jWFyVDcJMsrJhOvSCZpLo) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [RED](https://open.spotify.com/album/6PqoriDdo4acuaWOEw6xgu) | 4:03 | 2022-06-07 | 2022-06-11 |
 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-11 | 2024-10-02 |
-| [remember](https://open.spotify.com/track/1N3aRV3skqgOkKmjyPkoH8) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [remember](https://open.spotify.com/album/1gYO2DYihDGB14Wm7KnbFJ) | 2:53 | 2025-12-09 |  |
+| [remember](https://open.spotify.com/track/1N3aRV3skqgOkKmjyPkoH8) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [remember](https://open.spotify.com/album/1gYO2DYihDGB14Wm7KnbFJ) | 2:53 | 2025-12-09 | 2026-02-15 |
 | [revenge](https://open.spotify.com/track/2lwHHCBquik2hf0k4gp6AO) | [umitachi](https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI) | [Stand up](https://open.spotify.com/album/1Mv2KO4XWpqSgtWej7xAJb) | 1:53 | 2024-04-30 | 2024-05-22 |
 | [rip\-off](https://open.spotify.com/track/0RPZPRlxpBvZkvgkwlhwU2) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [rip\-off](https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y) | 3:51 | 2025-08-05 | 2025-11-19 |
 | [rise](https://open.spotify.com/track/5qsfuw2YP4ZuoN3JLRafnY) | [yardlands](https://open.spotify.com/artist/7ebpEJGpj5bIAqlVylWOHf) | [rise](https://open.spotify.com/album/0000xgAyMIZGsrpj9zEbbp) | 4:20 | 2022-06-07 | 2022-07-15 |
@@ -1459,6 +1459,7 @@
 | [ランバダ・ワンダラン](https://open.spotify.com/track/1FuAolAANaQOXMujGyYwSh) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ランバダ・ワンダラン](https://open.spotify.com/album/4mtkpXSgGqyi106AX8GmCY) | 5:02 | 2023-07-18 | 2023-08-09 |
 | [ラヴの元型](https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [ラヴの元型](https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc) | 3:26 | 2024-03-12 | 2024-05-25 |
 | [ラヴィング](https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ラヴィング](https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq) | 3:44 | 2024-01-09 | 2024-01-24 |
+| [ラヴィング](https://open.spotify.com/track/59xh3LFvPldQlJbLVnFC6K) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [5gの平和](https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh) | 3:44 | 2026-02-10 |  |
 | [ラーメンライス](https://open.spotify.com/track/0ycQpzijGEvtlgu9qMQyn8) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [ラーメンライス](https://open.spotify.com/album/18HtNNzMaq7c53ClhkIwiq) | 2:49 | 2023-05-30 | 2023-06-07 |
 | [リアライズ](https://open.spotify.com/track/6EUIU3lk0k61p67JdmJk0N) | [gyouninven](https://open.spotify.com/artist/1sYc6sSH2Oazo9seO3xdiH) | [会話と解話](https://open.spotify.com/album/3U7xfXLvn1D45iZnKdCzgL) | 4:27 | 2023-01-10 | 2023-01-18 |
 | [リグレットベイビーズ](https://open.spotify.com/track/51cpDgNDiulaRy3BL8rglS) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:13 | 2024-04-23 | 2024-07-17 |

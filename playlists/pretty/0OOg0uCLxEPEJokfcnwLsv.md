@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 704 likes - 99 songs - 6 hr 13 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 710 likes - 104 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 97 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
 | 98 | [Reason We All Share](https://open.spotify.com/track/5jvrlhTDejDARcAQfAmWT8) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Reason We All Share](https://open.spotify.com/album/7IN9coSLqiMdGcPZocsTft) | 3:12 |
 | 99 | [Rock it to the Moon](https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 2:41 |
+| 100 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 |
+| 101 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 |
+| 102 | [Forever And Ever](https://open.spotify.com/track/6FkZz1WwonBHvyu6ytNIux) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Forever And Ever](https://open.spotify.com/album/1Uu9MJvs7qF8meXMwCLPUk) | 4:06 |
+| 103 | [Sun Shines Down](https://open.spotify.com/track/1LL9j1yd94svPseLWDKc8P) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sun Shines Down](https://open.spotify.com/album/4N92uYwtSzNA2P09jRqdpZ) | 3:52 |
+| 104 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 |
 
-Snapshot ID: `AAAE5xx2koKZHcPhwDaf5f5qbf+v4KN4`
+Snapshot ID: `AAAE7PLkUmMAq8gOIjDTTZO+W3vk6P5B`

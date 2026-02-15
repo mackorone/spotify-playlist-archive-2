@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-131 songs - 7 hr 46 min
+132 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Cumbia Vallenata](https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:16 | 2022-06-01 | 2025-06-14 |
 | [Cumbia Vallenata \- En Vivo](https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Cumbia Vallenata \(En Vivo\)](https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH) | 3:37 | 2025-08-10 |  |
 | [Cuántas Mentiras](https://open.spotify.com/track/3tvk1SzPEbdvjtWMWQuXLD) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6m0s7o4LG4nnAbElx9QwIr) | 3:17 | 2022-06-07 | 2022-06-09 |
-| [Desnúdame Con La Boca](https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enfermo De Amor](https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH) | 3:44 | 2022-06-03 |  |
+| [Desnúdame Con La Boca](https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enfermo De Amor](https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH) | 3:44 | 2022-06-03 | 2026-02-15 |
 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 | 2022-06-01 |  |
 | [Desvelado \- En Vivo](https://open.spotify.com/track/22ygsTxbazCWHhloEsEFU7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Desvelado \(En Vivo\)](https://open.spotify.com/album/6LJAgDBVTLgv5YFyX7uCbs) | 5:26 | 2025-04-25 | 2025-05-22 |
 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 | 2022-06-01 | 2025-11-01 |
@@ -117,6 +117,7 @@
 | [Tarjeta Roja](https://open.spotify.com/track/5qthAx863ljpv5HLiX9mFj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Paco Barrón y sus Norteños Clan](https://open.spotify.com/artist/1Uz4WPsI4VylKT6lhJiDO5) | [Mano A Mano](https://open.spotify.com/album/0cnHfiGIPLUCmg7eE135Te) | 2:42 | 2022-06-01 | 2024-11-03 |
 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 | 2022-06-01 |  |
 | [Te Voy A Amar \- En Vivo](https://open.spotify.com/track/5Z2uCELdECtX0Ar9YzoOQ0) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Te Voy A Amar \(En Vivo\)](https://open.spotify.com/album/1x2NskCBNshzTbfR5YmCG8) | 4:10 | 2025-07-04 | 2025-10-04 |
+| [Tejana](https://open.spotify.com/track/4utx3o6K9hFuGfoauBLKZ3) | [Amanda Puryear El](https://open.spotify.com/artist/5CBkKbKmXR8vcvqxWg4Sb3), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Daily Dosage](https://open.spotify.com/album/5Z8atjvIoRzj19Gn97sbJj) | 2:11 | 2026-02-15 |  |
 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde Las Vegas](https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB) | 6:40 | 2025-08-26 |  |
 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 6:40 | 2022-06-01 | 2025-08-26 |
 | [Triste Recuerdo \- En Vivo](https://open.spotify.com/track/47sQQ03vFruVyCPaEutNii) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 4:34 | 2025-10-22 | 2025-11-08 |

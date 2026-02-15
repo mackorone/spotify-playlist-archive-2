@@ -4,7 +4,7 @@
 
 > Quevedo, Bad Gyal & Chencho Corleone, Arcangel & Feid, Charlie XCX y el resto de novedades de la semana.
 
-4,543 songs - 9 day 16 hr 14 min
+4,544 songs - 9 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [60s](https://open.spotify.com/track/3aZ4OmG8njOnaAJ68BDwPp) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [60s](https://open.spotify.com/album/43QupmPllfsXHgitctidXY) | 2:26 | 2025-03-06 | 2025-03-14 |
 | [666 \(Demonio\)](https://open.spotify.com/track/7pUknHoKfItKMKZLlnQeQI) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [666 \(Demonio\)](https://open.spotify.com/album/1rKwD5W3ibnSgwLaTKEq7S) | 3:00 | 2025-02-20 | 2025-02-28 |
 | [69](https://open.spotify.com/track/5wJXYVXeN0bhXn1SprPaJf) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [69](https://open.spotify.com/album/2Fx3UvKJgkMzKc7ocwXsG5) | 3:24 | 2025-03-27 | 2025-04-04 |
+| [6AM](https://open.spotify.com/track/2IVvsN4tANmUHjiwYnpeFX) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [6AM](https://open.spotify.com/album/0aIiaRf5GbmlLbWAqwruBT) | 3:08 | 2026-02-13 |  |
 | [7 COLORES](https://open.spotify.com/track/6m7vEcNIr97aGqQ2tHJH1c) | [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [+ MONEY + ENEMIES](https://open.spotify.com/album/5gxHCLDUafRP3xv65NrKOq) | 2:36 | 2025-02-20 | 2025-02-28 |
 | [7 Dias](https://open.spotify.com/track/4399pdqfywDAeHJ2YKv4ja) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [7 Dias](https://open.spotify.com/album/1IAgMjZ6sm4k1W9Pcab4eR) | 2:42 | 2025-11-27 | 2025-12-05 |
 | [7 Trompetas](https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [7 Trompetas](https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg) | 2:49 | 2024-12-19 | 2025-01-03 |

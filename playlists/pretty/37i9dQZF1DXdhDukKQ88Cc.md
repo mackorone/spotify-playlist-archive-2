@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥 cover: Artigeardit
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,285 likes - 64 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,271 likes - 64 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 27 | [Vent På Mig](https://open.spotify.com/track/19AESr4lB9GpTJtJbwkTJA) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z), [Darsha](https://open.spotify.com/artist/3CXYkk3JZTFzfMlxOLs6Ix) | [Vent På Mig](https://open.spotify.com/album/35r8asFSRukDUjobenm0J2) | 2:49 |
 | 28 | [C h v o r v i R i d a g](https://open.spotify.com/track/4Ys990zG55m3szny0pwaZu) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 2:32 |
 | 29 | [Nazario](https://open.spotify.com/track/1i8wOqiOku6X4QMugTOWXz) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Nazario](https://open.spotify.com/album/5t05shQ43pGuVjcQOEucET) | 2:19 |
-| 30 | [dø sammen](https://open.spotify.com/track/1wmrFp1aEKH82qOoGXt97G) | [Lille Fucker](https://open.spotify.com/artist/6Sr0XZt2vowfPAzp9Mv1ck) | [](https://open.spotify.com/album/null) | 1:31 |
+| 30 | [dø sammen](https://open.spotify.com/track/1wmrFp1aEKH82qOoGXt97G) | [Lille Fucker](https://open.spotify.com/artist/6Sr0XZt2vowfPAzp9Mv1ck) | [frøst](https://open.spotify.com/album/0Ni2jhSIgPM3XYGJJCAb6U) | 1:31 |
 | 31 | [FALSK FORHÅBNING](https://open.spotify.com/track/2wu8dTUpUXBjv4hggzP4xC) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [NOGET MÅ GI'](https://open.spotify.com/album/2M9hwv5KpmzSOMN9WfMn1D) | 2:25 |
 | 32 | [BLING BLAW](https://open.spotify.com/track/11uBjAczlKEf00u19iS1ZN) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [BLING BLAW](https://open.spotify.com/album/35oZ325EhPKXnVmv8AOfZq) | 2:08 |
 | 33 | [Bipolar](https://open.spotify.com/track/1ZtTGHFQwhltWz9jNVPBxp) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Bipolar](https://open.spotify.com/album/4fnTUUw8cxDHm1u58Z3JRM) | 2:51 |

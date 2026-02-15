@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: BLK ODYSSY",
-  "num_followers": 1326292,
+  "num_followers": 1326237,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 220007,
-      "name": "Baby!",
-      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
-    },
-    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Lonely Fight",
@@ -991,6 +975,22 @@
       "duration_ms": 229169,
       "name": "Lonely Fight",
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 220007,
+      "name": "Baby!",
+      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
     },
     {
       "added_at": "2024-07-12 06:42:32",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
-      "added_at": "2024-06-21 07:44:39",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
-    },
-    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Babe",
@@ -1063,6 +1047,22 @@
       "duration_ms": 188711,
       "name": "Babe",
       "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
+    },
+    {
+      "added_at": "2024-06-21 07:44:39",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
     },
     {
       "added_at": "2025-10-17 06:22:08",
@@ -1125,26 +1125,6 @@
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
     },
     {
-      "added_at": "2025-06-13 04:00:56",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
-    },
-    {
       "added_at": "2024-05-24 06:53:46",
       "album": {
         "name": "LET U LEAD (with Billy Lemos)",
@@ -1163,6 +1143,26 @@
       "duration_ms": 150857,
       "name": "LET U LEAD (with Billy Lemos)",
       "url": "https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN"
+    },
+    {
+      "added_at": "2025-06-13 04:00:56",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
-    },
-    {
       "added_at": "2024-07-26 09:18:29",
       "album": {
         "name": "DISTRACTION / SCREAM MY NAME",
@@ -1243,6 +1227,22 @@
       "duration_ms": 160007,
       "name": "SCREAM MY NAME",
       "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
     },
     {
-      "added_at": "2025-09-12 20:05:34",
-      "album": {
-        "name": "JUICY",
-        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 192221,
-      "name": "JUICY",
-      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
-    },
-    {
       "added_at": "2024-08-16 04:08:50",
       "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
@@ -1511,6 +1495,22 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+    },
+    {
+      "added_at": "2025-09-12 20:05:34",
+      "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 192221,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -1565,6 +1565,22 @@
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
+      "added_at": "2024-08-30 06:47:05",
+      "album": {
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA"
+    },
+    {
       "added_at": "2025-05-09 04:12:41",
       "album": {
         "name": "he's still just not that into you!",
@@ -1585,22 +1601,6 @@
       "url": "https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F"
     },
     {
-      "added_at": "2024-08-30 06:47:05",
-      "album": {
-        "name": "Aeon",
-        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA"
-    },
-    {
       "added_at": "2025-05-02 04:00:39",
       "album": {
         "name": "LVRS PARADISE (SIDE A)",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3"
     },
     {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
-        "name": "W1LL U L13?",
-        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 139399,
-      "name": "W1LL U L13?",
-      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Low End Love Songs",
@@ -1647,6 +1631,22 @@
       "duration_ms": 210957,
       "name": "Spend More Time With Your Friends",
       "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "W1LL U L13?",
+        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 139399,
+      "name": "W1LL U L13?",
+      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
     },
     {
-      "added_at": "2025-08-08 06:41:07",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF"
-    },
-    {
       "added_at": "2025-09-07 01:24:20",
       "album": {
         "name": "New Martyrs (Ride 4 U)",
@@ -1779,6 +1763,22 @@
       "duration_ms": 210052,
       "name": "New Martyrs (Ride 4 U)",
       "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
+    },
+    {
+      "added_at": "2025-08-08 06:41:07",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF"
     },
     {
       "added_at": "2025-06-06 06:46:18",
@@ -1881,20 +1881,20 @@
       "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
     },
     {
-      "added_at": "2025-09-26 19:38:36",
+      "added_at": "2024-06-14 07:30:32",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/3cqwldvKTmGpKrXrkkmWJJ"
+        "name": "Dream About You All Through The Night.",
+        "url": "https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP"
       },
       "artists": [
         {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
         }
       ],
-      "duration_ms": 229706,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/5fZM36ZapKLmexDKuBW4pO"
+      "duration_ms": 229310,
+      "name": "Dream About You All Through The Night.",
+      "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -1913,20 +1913,20 @@
       "url": "https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq"
     },
     {
-      "added_at": "2024-06-14 07:30:32",
+      "added_at": "2025-09-26 19:38:36",
       "album": {
-        "name": "Dream About You All Through The Night.",
-        "url": "https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP"
+        "name": "Church",
+        "url": "https://open.spotify.com/album/3cqwldvKTmGpKrXrkkmWJJ"
       },
       "artists": [
         {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
         }
       ],
-      "duration_ms": 229310,
-      "name": "Dream About You All Through The Night.",
-      "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
+      "duration_ms": 229706,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/5fZM36ZapKLmexDKuBW4pO"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -1971,6 +1971,22 @@
       "duration_ms": 209874,
       "name": "SATIVA!",
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
+    },
+    {
+      "added_at": "2024-09-13 09:09:19",
+      "album": {
+        "name": "What\u2019s It Take to Be a Star?",
+        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168176,
+      "name": "What\u2019s It Take to Be a Star?",
+      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2045,6 +2061,26 @@
       "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
     },
     {
+      "added_at": "2024-06-07 12:28:44",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 87301,
+      "name": "Wasted Words (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
+    },
+    {
       "added_at": "2025-05-23 04:00:52",
       "album": {
         "name": "pilot.",
@@ -2077,26 +2113,6 @@
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
-      "added_at": "2024-06-07 12:28:44",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 87301,
-      "name": "Wasted Words (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
-    },
-    {
       "added_at": "2025-11-07 07:39:57",
       "album": {
         "name": "Two",
@@ -2111,22 +2127,6 @@
       "duration_ms": 120719,
       "name": "Verse 7",
       "url": "https://open.spotify.com/track/4D0GBIrVbExS3Cl9jqX7oK"
-    },
-    {
-      "added_at": "2024-09-13 09:09:19",
-      "album": {
-        "name": "What\u2019s It Take to Be a Star?",
-        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168176,
-      "name": "What\u2019s It Take to Be a Star?",
-      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
     },
     {
       "added_at": "2025-04-04 04:43:43",
@@ -2233,20 +2233,20 @@
       "url": "https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/6XOwX1dEzysUrWRbJjJVta"
+      "duration_ms": 228262,
+      "name": "Your Ecstasy",
+      "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 228262,
-      "name": "Your Ecstasy",
-      "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
-    },
-    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "CHARLOTTE",
@@ -2295,6 +2279,22 @@
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/6XOwX1dEzysUrWRbJjJVta"
     },
     {
       "added_at": "2025-02-28 07:11:38",
@@ -2313,20 +2313,20 @@
       "url": "https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
+      "added_at": "2025-03-14 07:00:38",
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
+        "name": "Before Bleu",
+        "url": "https://open.spotify.com/album/2R9Bi5esA82U43CdRA7Gey"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Zeke Bleu",
+          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Sign Of The Times",
-      "url": "https://open.spotify.com/track/7y5egxn65Qj7mpRSIFNHTk"
+      "duration_ms": 158193,
+      "name": "Hollow Ground",
+      "url": "https://open.spotify.com/track/3Qs629rdNfGOgdj9lFDSYB"
     },
     {
       "added_at": "2025-09-12 20:05:34",
@@ -2345,22 +2345,6 @@
       "url": "https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd"
     },
     {
-      "added_at": "2025-03-14 07:00:38",
-      "album": {
-        "name": "Before Bleu",
-        "url": "https://open.spotify.com/album/2R9Bi5esA82U43CdRA7Gey"
-      },
-      "artists": [
-        {
-          "name": "Zeke Bleu",
-          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
-        }
-      ],
-      "duration_ms": 158193,
-      "name": "Hollow Ground",
-      "url": "https://open.spotify.com/track/3Qs629rdNfGOgdj9lFDSYB"
-    },
-    {
       "added_at": "2025-10-10 08:11:09",
       "album": {
         "name": "CAOS",
@@ -2375,6 +2359,22 @@
       "duration_ms": 197410,
       "name": "CAOS",
       "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Sign Of The Times",
+      "url": "https://open.spotify.com/track/7y5egxn65Qj7mpRSIFNHTk"
     },
     {
       "added_at": "2024-09-13 09:09:19",

@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 84709,
+  "num_followers": 84732,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "No Witch",
-        "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
-      },
-      "artists": [
-        {
-          "name": "The Cave Singers",
-          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Distant Sures",
-      "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Small Town Heroes",
         "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 153546,
       "name": "Blue Ridge Mountain",
       "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "No Witch",
+        "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
+      },
+      "artists": [
+        {
+          "name": "The Cave Singers",
+          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Distant Sures",
+      "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
     },
     {
       "added_at": "2024-08-28 14:05:36",

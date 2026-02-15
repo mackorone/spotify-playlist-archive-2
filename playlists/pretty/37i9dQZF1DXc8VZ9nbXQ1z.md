@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,642 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,731 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 99 | [Der Mückenschwarm \- andhim 20yrs SVT Remix](https://open.spotify.com/track/1sJjV9KqZJ4m7WI3SCzgIY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Der Mückenschwarm \(andhim 20yrs SVT Remix\)](https://open.spotify.com/album/0yB4dLIvUeqk0uMjE4xqsp) | 5:02 |
 | 100 | [Pulsacions \- Jimi Jules Remix](https://open.spotify.com/track/1Fw3xphrmQwvNy3VnX4SKp) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq), [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Sincopat Remixed 07](https://open.spotify.com/album/5KmJCQ8KLqhlJnd74nlXNL) | 7:53 |
 
-Snapshot ID: `AAAAAN3HjGr0L/sDYnaPomBxQIvsmq/g`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

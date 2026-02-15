@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 687375,
+  "num_followers": 687454,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -691,54 +691,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Pure Mood",
-        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 259957,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Dandys Rule OK",
-        "url": "https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 249962,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS"
-    },
-    {
-      "added_at": "2024-10-15 03:39:28",
-      "album": {
-        "name": "Eyedazzler",
-        "url": "https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls"
-      },
-      "artists": [
-        {
-          "name": "Alison's Halo",
-          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
-        }
-      ],
-      "duration_ms": 244172,
-      "name": "Raindrop",
-      "url": "https://open.spotify.com/track/6t56M2FiiLhebISr4GJwvF"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Raise",
         "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
       },
@@ -767,6 +719,54 @@
       "duration_ms": 249426,
       "name": "Run Into Flowers",
       "url": "https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS"
+    },
+    {
+      "added_at": "2024-10-15 03:39:28",
+      "album": {
+        "name": "Eyedazzler",
+        "url": "https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls"
+      },
+      "artists": [
+        {
+          "name": "Alison's Halo",
+          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
+        }
+      ],
+      "duration_ms": 244172,
+      "name": "Raindrop",
+      "url": "https://open.spotify.com/track/6t56M2FiiLhebISr4GJwvF"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dandys Rule OK",
+        "url": "https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 249962,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Pure Mood",
+        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 259957,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Miserable Miracles",
-        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 315968,
-      "name": "In The Hanging Gardens",
-      "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Splashdown: The Complete Creation Recordings 1990-1992",
         "url": "https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 191146,
       "name": "Splashdown",
       "url": "https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Miserable Miracles",
+        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 315968,
+      "name": "In The Hanging Gardens",
+      "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
     },
     {
       "added_at": "2021-06-03 02:39:04",

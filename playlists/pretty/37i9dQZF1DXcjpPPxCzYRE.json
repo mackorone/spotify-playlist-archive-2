@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 437444,
+  "num_followers": 437490,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "In The Lonely Hour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 237426,
       "name": "Conversations in the Dark",
       "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "In The Lonely Hour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204706,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
-        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Chus Santana",
-          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
-        }
-      ],
-      "duration_ms": 221837,
-      "name": "4 de Febrero",
-      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -975,18 +955,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "moments of glory",
-        "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
+        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
+        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
         }
       ],
-      "duration_ms": 126115,
-      "name": "moments of glory",
-      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
+      "duration_ms": 221837,
+      "name": "4 de Febrero",
+      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1003,6 +987,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "moments of glory",
+        "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 126115,
+      "name": "moments of glory",
+      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Pro Mundo Ouvir",
-        "url": "https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        }
-      ],
-      "duration_ms": 190583,
-      "name": "Pro Mundo Ouvir",
-      "url": "https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Fuegos Artificiales",
         "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 195700,
       "name": "Una Versi\u00f3n Mejor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7cQGVXDULnR2m9QEYYxEFu"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Pro Mundo Ouvir",
+        "url": "https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        }
+      ],
+      "duration_ms": 190583,
+      "name": "Pro Mundo Ouvir",
+      "url": "https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "La Jarrita del Tiempo",
-        "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 241738,
-      "name": "La Jarrita del Tiempo",
-      "url": "https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "em plou a dins",
         "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 176288,
       "name": "em plou a dins",
       "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "La Jarrita del Tiempo",
+        "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 241738,
+      "name": "La Jarrita del Tiempo",
+      "url": "https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Ada Road",
+        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
+      },
+      "artists": [
+        {
+          "name": "MAVICA",
+          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Ada Road",
+      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1655,22 +1671,6 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Ada Road",
-        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
-      },
-      "artists": [
-        {
-          "name": "MAVICA",
-          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Ada Road",
-      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
-      },
-      "artists": [
-        {
-          "name": "Volver",
-          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Albino Rhino",
         "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
@@ -1907,6 +1891,38 @@
       "duration_ms": 249861,
       "name": "Albino Rhino",
       "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
+      },
+      "artists": [
+        {
+          "name": "Volver",
+          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "No quiero olvidar",
+        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 201441,
+      "name": "No quiero olvidar",
+      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "No quiero olvidar",
-        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
+        "name": "Me Tienes Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
       "artists": [
         {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+          "name": "Maifr\u00e9n",
+          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
         }
       ],
-      "duration_ms": 201441,
-      "name": "No quiero olvidar",
-      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
+      "duration_ms": 161250,
+      "name": "Me Tienes Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1963,18 +1979,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Me Tienes Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
+        "name": "The Inner City",
+        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
       },
       "artists": [
         {
-          "name": "Maifr\u00e9n",
-          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Me Tienes Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+      "duration_ms": 180808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1991,22 +2007,6 @@
       "duration_ms": 295500,
       "name": "A la muerte",
       "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "The Inner City",
-        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 180808,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
     },
     {
       "added_at": "2026-01-16 05:55:21",

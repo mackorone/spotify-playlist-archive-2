@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 177596,
+  "num_followers": 177684,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "The Love Songs Collection",
+        "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 373893,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "The Love Songs Collection",
-        "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 373893,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
     },
     {
       "added_at": "2025-06-03 20:18:35",

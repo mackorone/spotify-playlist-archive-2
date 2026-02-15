@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 122744,
+  "num_followers": 122765,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -469,6 +469,34 @@
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "TAKA",
+        "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "TAKA",
+      "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
+    },
+    {
       "added_at": "2024-10-09 21:20:16",
       "album": {
         "name": "Moon Music",
@@ -503,34 +531,6 @@
       "duration_ms": 254346,
       "name": "The End",
       "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "TAKA",
-        "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
-      },
-      "artists": [
-        {
-          "name": "Ahadadream",
-          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
-        },
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "contra",
-          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "TAKA",
-      "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
     },
     {
       "added_at": "2024-09-16 18:33:06",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Can\u2019t Walk Away",
-        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "Can\u2019t Walk Away",
-      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "BREAD",
         "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 271917,
       "name": "Cafun\u00e9",
       "url": "https://open.spotify.com/track/2VUx43mmxFTq3aTqB1D4x2"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Can\u2019t Walk Away",
+        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "Can\u2019t Walk Away",
+      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cartwheels",
-        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Cartwheels",
-      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Garden State Vampire",
         "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 240917,
       "name": "Everybody's Different",
       "url": "https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Exactly As It Seems",
+        "url": "https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4"
+      },
+      "artists": [
+        {
+          "name": "Home Counties",
+          "url": "https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n"
+        }
+      ],
+      "duration_ms": 279053,
+      "name": "Uptight",
+      "url": "https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Wikidest DJ",
         "url": "https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 176205,
       "name": "Wikidest DJ",
       "url": "https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Exactly As It Seems",
-        "url": "https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4"
-      },
-      "artists": [
-        {
-          "name": "Home Counties",
-          "url": "https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n"
-        }
-      ],
-      "duration_ms": 279053,
-      "name": "Uptight",
-      "url": "https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "GOODTIME",
-        "url": "https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy"
-      },
-      "artists": [
-        {
-          "name": "Shelailai",
-          "url": "https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "GOODTIME",
-      "url": "https://open.spotify.com/track/3CN6YEns6bX9k88E49tFbu"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/3mr3f08assS0OeICVBci5s"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 189767,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/6PCiKb4TDIEtLZppK9fqzM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "GOODTIME",
+        "url": "https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy"
+      },
+      "artists": [
+        {
+          "name": "Shelailai",
+          "url": "https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "GOODTIME",
+      "url": "https://open.spotify.com/track/3CN6YEns6bX9k88E49tFbu"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "What Type Of Girl Am I?",
-      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "LDN PLNQ",
         "url": "https://open.spotify.com/album/3RfEykb15wH4GY9REsmm3E"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 254125,
       "name": "LDN PLNQ",
       "url": "https://open.spotify.com/track/4LWZjrwwKq6IsC0LLq3Dcr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "What Type Of Girl Am I?",
+      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/7JkXyHCZGVaCrogkuS1j6K"
-      },
-      "artists": [
-        {
-          "name": "Nu:Tone",
-          "url": "https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        },
-        {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
-        }
-      ],
-      "duration_ms": 202465,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "THE FUTURE IS ANCESTRAL",
         "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 141943,
       "name": "JARAHA",
       "url": "https://open.spotify.com/track/6tZKAwKAHLlmqBRgbGcygk"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/7JkXyHCZGVaCrogkuS1j6K"
+      },
+      "artists": [
+        {
+          "name": "Nu:Tone",
+          "url": "https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "duration_ms": 202465,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Tha Rhythm",
-        "url": "https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 195831,
-      "name": "Tha Rhythm",
-      "url": "https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Hey Hey Hey",
         "url": "https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 173873,
       "name": "Hey Hey Hey",
       "url": "https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Tha Rhythm",
+        "url": "https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 195831,
+      "name": "Tha Rhythm",
+      "url": "https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje"
     },
     {
       "added_at": "2024-09-16 11:00:00",

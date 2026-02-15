@@ -10375,6 +10375,24 @@
     },
     {
       "album": {
+        "name": "Bonita Bonita",
+        "url": "https://open.spotify.com/album/4d6AsONzovycRb8EpmLcwT"
+      },
+      "artists": [
+        {
+          "name": "4AMTapes",
+          "url": "https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274841,
+      "name": "Bonita Bonita",
+      "url": "https://open.spotify.com/track/7GCsNCwK3yFJgTs2U7fkW9"
+    },
+    {
+      "album": {
         "name": "4AMTapes",
         "url": "https://open.spotify.com/album/1udjEYm5unTMFcdg1mQCiO"
       },
@@ -10422,7 +10440,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 221904,
       "name": "Bonita Bonita - 1950's Soul Jazz",
       "url": "https://open.spotify.com/track/6T8rd4DtgOXFNhPjkfwEH1"
@@ -40330,7 +40348,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 149866,
       "name": "Last of a Dying Breed",
       "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
@@ -43288,7 +43306,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db"
@@ -50676,7 +50694,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 147319,
       "name": "M\u00e1s caf\u00e9 y menos estr\u00e9s",
       "url": "https://open.spotify.com/track/5QeyrUznSqT9wnMhtNaygH"
@@ -50764,6 +50782,28 @@
       "duration_ms": 154536,
       "name": "M\u00edrame Ahora - Salud mi Reina",
       "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
+    },
+    {
+      "album": {
+        "name": "LA 8VA MARAVILLA",
+        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239628,
+      "name": "M\u00edrame Baby",
+      "url": "https://open.spotify.com/track/4GFg2xNBur9IngFW0fktUD"
     },
     {
       "album": {
@@ -52510,7 +52550,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 256232,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/6dUaQnDfuU82Ue8966VFnq"
@@ -69372,7 +69412,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 545332,
       "name": "Solo Hay Uno",
       "url": "https://open.spotify.com/track/5jH44HEgVQ5VbrVc833Nx7"
@@ -70698,7 +70738,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -80736,7 +80776,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/1qXYKmTTd4e0YdugtGmb5R"

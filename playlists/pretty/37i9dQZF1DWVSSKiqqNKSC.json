@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 526430,
+  "num_followers": 526497,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 298374,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "The Most From Beny More",
         "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 248999,
       "name": "Esto te pone la cabeza mala",
       "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Me Dicen Cuba / Rosa la Peligrosa",
+        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 298374,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
     },
     {
       "added_at": "2025-03-07 06:00:25",

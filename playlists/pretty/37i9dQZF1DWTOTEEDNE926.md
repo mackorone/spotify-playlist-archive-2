@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 
 > las mujeres ya no lloran ✨ Bad Gyal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,952 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,987 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 | 19 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 20 | [Heterocromía](https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:45 |
 | 21 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
-| 22 | [No hay nah](https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc) | [No hay nah](https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W) | 3:08 |
+| 22 | [No Hay Nah](https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [No Hay Nah](https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W) | 3:08 |
 | 23 | [NOTYPE](https://open.spotify.com/track/4ZRtXnyW2BPAxsAVpe42Fy) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:30 |
 | 24 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 |
 | 25 | [Frágil](https://open.spotify.com/track/7BVMtLpd7edHeOizt4RWz9) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:40 |

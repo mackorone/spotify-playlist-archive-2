@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,889 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,888 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,20 +30,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [CLAP](https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [CLAP](https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ) | 2:06 |
 | 21 | [Kaputt machst](https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kaputt machst](https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL) | 2:29 |
 | 22 | [Papa](https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Papa](https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK) | 2:43 |
-| 23 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
+| 23 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
 | 24 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
 | 25 | [stadt der geister](https://open.spotify.com/track/1j0yRrOMlhONZM0QE724uu) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/3ivlFjL0X3qZOdOyRuYtb3) | 2:53 |
-| 26 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
+| 26 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
 | 27 | [people pleaser](https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [people pleaser](https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua) | 3:09 |
 | 28 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
-| 29 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
-| 30 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
-| 31 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
-| 32 | [Keiner Weiß](https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keiner Weiß](https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk) | 2:48 |
+| 29 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
+| 30 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
+| 31 | [Keiner Weiß](https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keiner Weiß](https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk) | 2:48 |
+| 32 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
 | 33 | [2 wochen](https://open.spotify.com/track/1gR5R1CNB2xG0Bx29NWHS6) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [2 wochen](https://open.spotify.com/album/68zcM6bt6lF1S5Ruyk63Xz) | 2:27 |
-| 34 | [Disco](https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Disco](https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L) | 3:10 |
+| 34 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
 | 35 | [frieden](https://open.spotify.com/track/2SlpgnjraLCGUuxGlkplg2) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [wo ein herz bricht](https://open.spotify.com/album/5BmrppMudOMh2Q5AnCuNDh) | 3:07 |
-| 36 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
+| 36 | [Disco](https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Disco](https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L) | 3:10 |
 | 37 | [Rocket Science](https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Soft Skin](https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E) | 3:14 |
 | 38 | [Cajito \(No Balão\)](https://open.spotify.com/track/6QkMTUvcWRH3bHfd74DBmX) | [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd) | [Cajito \(No Balão\)](https://open.spotify.com/album/3bSh5PIkFF3bvfhy2RgqGE) | 2:03 |
 | 39 | [Outrun](https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Outrun](https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 45 | [Falling](https://open.spotify.com/track/6QrY3u0SfUBFWIkjIna4pj) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [Falling](https://open.spotify.com/album/6Wzlkgr2yMgMIpLwQitt5V) | 5:27 |
 | 46 | [Mad Machine 2.0](https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Mad Machine 2.0](https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc) | 2:41 |
 | 47 | [Bittersweet](https://open.spotify.com/track/2mZ8H8DgGcLHLRTEzP3138) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Bittersweet](https://open.spotify.com/album/3CaXGFfNIM4XgzaD43Wupk) | 2:52 |
-| 48 | [Fight or Flight](https://open.spotify.com/track/06qlN8ovtAA9sx3RygOK9y) | [FINE.](https://open.spotify.com/artist/4asOB3NDvX82XNePNZpqQj) | [Fight or Flight](https://open.spotify.com/album/5bSbw1FFAWymjfrGKxhkEH) | 2:54 |
-| 49 | [180](https://open.spotify.com/track/2RjH4Cwz8bGiYhZ4zu3Fa9) | [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [180](https://open.spotify.com/album/7u0rAQQ0OdLe6I3ySeBflV) | 1:58 |
+| 48 | [180](https://open.spotify.com/track/2RjH4Cwz8bGiYhZ4zu3Fa9) | [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [180](https://open.spotify.com/album/7u0rAQQ0OdLe6I3ySeBflV) | 1:58 |
+| 49 | [Fight or Flight](https://open.spotify.com/track/06qlN8ovtAA9sx3RygOK9y) | [FINE.](https://open.spotify.com/artist/4asOB3NDvX82XNePNZpqQj) | [Fight or Flight](https://open.spotify.com/album/5bSbw1FFAWymjfrGKxhkEH) | 2:54 |
 | 50 | [du und ich](https://open.spotify.com/track/7smsI2SHOCBlRpIjgsrlch) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd) | [Kätzchen & Kettensägen](https://open.spotify.com/album/4UD5zXjtOQnT9ouFy59GFT) | 2:23 |
 
 Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

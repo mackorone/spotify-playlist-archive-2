@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 176000,
       "name": "Papalote",
       "url": "https://open.spotify.com/track/66EFQ2qfWurweQwTvQrgxo"
@@ -1996,6 +1996,36 @@
       "duration_ms": 233142,
       "name": "Suena En Mi Barrio",
       "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
+    },
+    {
+      "album": {
+        "name": "Super Poderes",
+        "url": "https://open.spotify.com/album/4DWhSOhqBQq24IwNqPIuRG"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258421,
+      "name": "Super Poderes",
+      "url": "https://open.spotify.com/track/3nvZhn4wNgWsb089sc2Wag"
     },
     {
       "album": {

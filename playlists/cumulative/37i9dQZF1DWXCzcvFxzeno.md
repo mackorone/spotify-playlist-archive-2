@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-347 songs - 23 hr 54 min
+348 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Dopamine](https://open.spotify.com/track/0fo5N7yteZrGgpdX796nei) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Dopamine](https://open.spotify.com/album/3rJcwBRcB9SGyw2fUTNWxn) | 2:01 | 2025-03-19 | 2025-04-12 |
 | [DRONE \- LESSSS EDIT](https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [DRONE \(LESSSS EDIT\)](https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE) | 2:52 | 2025-03-07 |  |
 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 | 2024-04-09 | 2024-07-15 |
-| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 |  |
+| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 | 2026-02-15 |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-27 | 2024-11-14 |
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
 | [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 | 2025-11-07 |  |
@@ -281,6 +281,7 @@
 | [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 |  |
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |
 | [Shadows Come Alive](https://open.spotify.com/track/6QZCslOxp8ARvtHNsoNdxg) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Shadows Come Alive](https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L) | 2:59 | 2024-11-29 | 2025-05-04 |
+| [Shake That Bunda](https://open.spotify.com/track/7uWIyd4hf5UYIOxBMFRT1S) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Shake That Bunda](https://open.spotify.com/album/08GthPNa2ax2Kv7O5Kv5lL) | 2:40 | 2026-02-13 |  |
 | [Shanti](https://open.spotify.com/track/2lV0ugOkfP0vQ4Z4oKEsF4) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [Shanti](https://open.spotify.com/album/3qwT2VYkWGjg79LdHTIhWb) | 4:37 | 2025-03-19 | 2025-04-05 |
 | [SHIVA](https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [SHIVA](https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u) | 3:40 | 2025-04-04 |  |
 | [Shivaya \- Remix](https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Shivaya \(Remix\)](https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn) | 3:22 | 2024-10-24 |  |

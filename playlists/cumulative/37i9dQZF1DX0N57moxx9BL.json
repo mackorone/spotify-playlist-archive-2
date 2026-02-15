@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Art of Dying",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Stephen Stanley",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/55bAheFPgMQHbMR8WNs97r"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184032,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/5lzec28JNA1x8Rjnz3zr1a"
+    },
+    {
+      "album": {
         "name": "Kenotic Metanoia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7tlOspCNKpF5qRIyFPcxTG"
       },
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 207188,
       "name": "Lighting up the Darkness (feat. LKD)",
       "url": "https://open.spotify.com/track/5YPAJtV7lnCvw2gcKuX0ko"
@@ -3083,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "NO MORE LIES",
+        "url": "https://open.spotify.com/album/1BNlnEJaQTYdQYuj6bes9u"
+      },
+      "artists": [
+        {
+          "name": "Sean Daily",
+          "url": "https://open.spotify.com/artist/57PqS7EAbP8iX4d3v9J2L1"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "NO MORE LIES",
+      "url": "https://open.spotify.com/track/6F031EwtYi9axdT7Sc43Jp"
+    },
+    {
+      "album": {
         "name": "No One",
         "url": "https://open.spotify.com/album/2PySo2wK6JkC2qWAJZN2d7"
       },
@@ -3380,6 +3416,24 @@
       "duration_ms": 255980,
       "name": "Pls Snd Hlp",
       "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+    },
+    {
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218015,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv"
     },
     {
       "album": {
@@ -4338,7 +4392,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 216560,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
@@ -4628,7 +4682,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 198571,
       "name": "This Time",
       "url": "https://open.spotify.com/track/4ZDv9xKThAvUQORM2fteWe"
@@ -4761,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "Voice In The Desert",
+        "url": "https://open.spotify.com/album/7lNCds075PkTB79gbiEITw"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252581,
+      "name": "Voice In The Desert",
+      "url": "https://open.spotify.com/track/72VqSEtiCpjQfrDdCyCPA4"
+    },
+    {
+      "album": {
         "name": "Death Stare",
         "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
       },
@@ -4884,7 +4956,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 215986,
       "name": "We Never Die",
       "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,813 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,821 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 9 | [A Ordem Natural das Coisas \(feat\. Mc Tha\)](https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 3:55 |
 | 10 | [Deixa acontecer](https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Um Gosto de Sol](https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V) | 3:14 |
 | 11 | [Mesmas Cores & Mesmos Valores](https://open.spotify.com/track/6r9YsN2G3BjljAKop4ZriS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 2:06 |
-| 12 | [Vença](https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 4:17 |
-| 13 | [Oyá \- Sorriso Negro \- Ao Vivo](https://open.spotify.com/track/72h3iFRtmZSxvY2pAuIkaC) | [Prettos](https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB), [Magnu Sousá](https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP), [Maurilio de Oliveira](https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal dos Prettos \(Ao Vivo\)](https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv) | 4:37 |
+| 12 | [Oyá \- Sorriso Negro \- Ao Vivo](https://open.spotify.com/track/72h3iFRtmZSxvY2pAuIkaC) | [Prettos](https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB), [Magnu Sousá](https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP), [Maurilio de Oliveira](https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal dos Prettos \(Ao Vivo\)](https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv) | 4:37 |
+| 13 | [Vença](https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 4:17 |
 | 14 | [AmarElo \(Sample: Sujeito de Sorte \- Belchior\)](https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 5:20 |
 | 15 | [Finado Neguim memo?](https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 2:42 |
 | 16 | [A Laje](https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Kandace Lindsey](https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E) | [O Mundo Dá Voltas](https://open.spotify.com/album/1fmt1VeCfsXnQTVQ9CgY8y) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Levanta e Anda](https://open.spotify.com/track/0gbRoCASJO6l75d7A5XsXc) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Levanta e Anda](https://open.spotify.com/album/2N1TNLiSMyJFNvn4zP5XN6) | 2:53 |
 | 50 | [Melhor Remédio](https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:00 |
 
-Snapshot ID: `aY0YAAAAAAB4yyD3jfsPjJYMlUuyKOpG`
+Snapshot ID: `aY5pgAAAAAC4q5cc8yc3AxnEGRMnr84s`

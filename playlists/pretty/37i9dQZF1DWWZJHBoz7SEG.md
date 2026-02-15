@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Día del amor y rolitas para dedicar en compañía de Julieta Venegas y Natalia Lafourcade PD: escucha la 14, 15 y 16 😻
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,715 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,162 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 70 | [FOTOS](https://open.spotify.com/track/3xrGDzJDj0wxxqo0Ha30gq) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [FOTOS](https://open.spotify.com/album/0jagR5KMkd3xYz6N6pjirt) | 3:40 |
 | 71 | [Once Once](https://open.spotify.com/track/4IpEg6PczovzV303ReE2Lq) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Lokerandia Deluxe](https://open.spotify.com/album/2SMM9jveuewc8FONu2pq1D) | 2:24 |
 | 72 | [Alzypher Vol\. 23](https://open.spotify.com/track/6LmQGM2qED3EL6ib52XpBH) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [Alzypher Vol\. 23](https://open.spotify.com/album/09iTZNUeamOD5klE9yBlly) | 2:13 |
-| 73 | [No hay nah](https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc) | [No hay nah](https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W) | 3:08 |
+| 73 | [No Hay Nah](https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [No Hay Nah](https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W) | 3:08 |
 | 74 | [bi333n](https://open.spotify.com/track/0DKhZC4VISPMkvP3zt8qj4) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [bi333n](https://open.spotify.com/album/2AqdCoRqdTKY6ktlALb2Pe) | 3:16 |
 | 75 | [Solo Tú](https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Solo Tú](https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo) | 2:51 |
 | 76 | [Cuánta Razón](https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cuánta Razón](https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab) | 3:05 |

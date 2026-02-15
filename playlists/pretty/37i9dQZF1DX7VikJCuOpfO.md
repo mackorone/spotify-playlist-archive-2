@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Carolina Ross 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,763 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,769 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 54 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 |
 | 55 | [Se Cancela La Llorada](https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Se Cancela La Llorada](https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv) | 3:00 |
 | 56 | [Se Me Hizo Tarde](https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [Se Me Hizo Tarde](https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl) | 3:43 |
-| 57 | [Bailando De A Cartón](https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Bailando De A Cartón](https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi) | 3:24 |
-| 58 | [Le Hace Falta un Beso](https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB) | [Emiliano Zahena](https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6) | [Ebrio de Amor](https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc) | 2:53 |
+| 57 | [Le Hace Falta un Beso](https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB) | [Emiliano Zahena](https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6) | [Ebrio de Amor](https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc) | 2:53 |
+| 58 | [Bailando De A Cartón](https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Bailando De A Cartón](https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi) | 3:24 |
 | 59 | [Te Confirmo](https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Te Confirmo](https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8) | 3:42 |
-| 60 | [Imposible Olvidarte](https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Temas de Mis Películas](https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq) | 2:49 |
-| 61 | [Costumbres](https://open.spotify.com/track/625ReH2UV67Qc466BptoAI) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Costumbres](https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT) | 4:19 |
+| 60 | [Costumbres](https://open.spotify.com/track/625ReH2UV67Qc466BptoAI) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Costumbres](https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT) | 4:19 |
+| 61 | [Imposible Olvidarte](https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Temas de Mis Películas](https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq) | 2:49 |
 | 62 | [Cuándo Se Ha Visto](https://open.spotify.com/track/2f22XJZsgMvo4tQlRICvjH) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Cuándo Se Ha Visto](https://open.spotify.com/album/2mYR3EjQrhTxCQy9B7QsKb) | 2:28 |
 | 63 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |
 | 64 | [Hojas de Otoño](https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:08 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 78 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 79 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
 | 80 | [Juro Que Nunca Volveré](https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Juro Que Nunca Volveré](https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP) | 2:38 |
-| 81 | [Esta vez te digo adios](https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Esta vez te digo adios](https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA) | 3:48 |
-| 82 | [La Desconocida](https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Nadie Me Escribe La Vida](https://open.spotify.com/album/100q2avXshpAXbj9djyoaz) | 2:54 |
+| 81 | [La Desconocida](https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Nadie Me Escribe La Vida](https://open.spotify.com/album/100q2avXshpAXbj9djyoaz) | 2:54 |
+| 82 | [Esta vez te digo adios](https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Esta vez te digo adios](https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA) | 3:48 |
 | 83 | [Mi gran país](https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7) | [Jose Julian](https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87) | [Mi gran país](https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5) | 2:57 |
 | 84 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
 | 85 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |

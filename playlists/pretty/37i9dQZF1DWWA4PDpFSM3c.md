@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,463 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,530 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 40 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
 | 41 | [Gala Gala Paruthunna](https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L) | [Nihal](https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl) | [Pokiri](https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX) | 4:33 |
 | 42 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
-| 43 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 |
+| 43 | [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 |
 | 44 | [Mella Mellagaa](https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [ABCD \- American Born Confused Desi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt) | 4:03 |
-| 45 | [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 |
+| 45 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 |
 | 46 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 |
 | 47 | [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 |
 | 48 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 |

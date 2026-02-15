@@ -4,7 +4,7 @@
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-122 songs - 8 hr 39 min
+123 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [最特別的人](https://open.spotify.com/track/3R3mXD5H3xSTYKXAKwUnAT) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [最特別的人 Say It](https://open.spotify.com/album/77zflKsLQVGVPZDLsGq7bm) | 3:32 | 2024-08-05 | 2024-10-12 |
 | [最近的遠方](https://open.spotify.com/track/4bZLFvymNNYoltTTGWjUX5) | [黃偉晉](https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D), [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [最近的遠方](https://open.spotify.com/album/0OjGjTluCDRQFsw2BEyuuL) | 3:50 | 2024-06-20 | 2024-08-06 |
 | [月牙灣](https://open.spotify.com/track/1b5IRT3iraxjHOsKZx93sW) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [愛‧歌姬](https://open.spotify.com/album/3jFtKa1iT9rD5Xb40mHgQ1) | 5:08 | 2024-10-11 |  |
-| [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2025-06-25 |  |
+| [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2025-06-25 | 2026-02-15 |
 | [末日瘋癲](https://open.spotify.com/track/6wATXCWK07j0T0DjHAD4F1) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [THE PENROSE ROOM 鏡房](https://open.spotify.com/album/29JSCngK4DwyyNEzGZcLaS) | 2:52 | 2024-10-11 | 2025-06-26 |
 | [永不失聯的愛](https://open.spotify.com/track/46fURCnWErjFdNM2yBJ2c8) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:18 | 2023-11-27 |  |
 | [沒那麽簡單](https://open.spotify.com/track/4xZIMRwaaBx7CZMmM6KLuh) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [簡單不簡單](https://open.spotify.com/album/1L5TJ2XkW8pXgSwHYMZsJJ) | 5:10 | 2024-06-06 |  |
@@ -112,6 +112,7 @@
 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 | 2023-11-27 |  |
 | [紅豆](https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [唱遊](https://open.spotify.com/album/2RwMTosAa4E9IXLEgThlO9) | 4:16 | 2025-06-25 | 2025-09-21 |
 | [給我一個理由忘記](https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [寂寞不痛](https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR) | 4:45 | 2023-11-27 |  |
+| [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 | 2025-06-25 |  |
 | [背對背擁抱](https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [JJ林俊傑100天](https://open.spotify.com/album/6D0BwgO8fScZhwVFP6k6N9) | 3:54 | 2024-06-06 |  |
 | [胭脂扣 \(音樂劇主題曲\)](https://open.spotify.com/track/20LxgHYtaAeiByIjAbHmEt) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [胭脂扣 \(音樂劇主題曲\)](https://open.spotify.com/album/51o5zrvxRS4aA9MttqkGaJ) | 3:42 | 2024-10-11 | 2025-06-26 |
 | [舞狀元](https://open.spotify.com/track/0qwXdUpsJTxCgfVIe5tMOo) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [舞狀元](https://open.spotify.com/album/1OmjwR8j9Dpxwd8zZPDCcE) | 3:14 | 2024-08-05 | 2024-10-12 |

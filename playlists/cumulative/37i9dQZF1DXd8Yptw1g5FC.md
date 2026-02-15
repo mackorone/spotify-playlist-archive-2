@@ -4,7 +4,7 @@
 
 > Ceren Sagu ve haftanın en iyi çıkışları!
 
-5,917 songs - 12 day 13 hr 9 min
+5,917 songs - 12 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3063,6 +3063,7 @@
 | [KIRIK](https://open.spotify.com/track/1x8qjtIjZpUQ7xM8zPba3F) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [KIRIK](https://open.spotify.com/album/2nHKz0MUqVFKmGcfEo484n) | 2:32 | 2025-12-04 | 2025-12-12 |
 | [Kirli Gündem](https://open.spotify.com/track/6nESv87XYQUTGVCpfOoKoy) | [$hiro](https://open.spotify.com/artist/50grzYxbB2XSnESRfGI0O7), [SEUL](https://open.spotify.com/artist/4mfXwa4o12HBWJsexfs2H5) | [Kirli Gündem](https://open.spotify.com/album/3wBJXajiDh9F5oNmRaYfyA) | 2:00 | 2025-04-10 | 2025-04-18 |
 | [Kirli Kalbin](https://open.spotify.com/track/3FjSFxPgqyPFTFzHwPgfQk) | [Deniz Zeren](https://open.spotify.com/artist/2p9tsDUMc9KaWYHg0xlHgQ) | [Kirli Kalbin](https://open.spotify.com/album/5fWJbhRos3O7uFhBsNExrv) | 2:44 | 2025-12-04 | 2025-12-12 |
+| [KIRMIZI](https://open.spotify.com/track/0nqAY6TvIZZKmYnMa3Fu3P) | [Ege Çubukçu](https://open.spotify.com/artist/0XLP18nHemdh5CQhoM3RjZ) | [AŞK KAOS KLİŞE](https://open.spotify.com/album/0tkxyKS6VHYSqsSsmx9u44) | 3:17 | 2026-02-12 |  |
 | [Kirpi \(Radio Edit\)](https://open.spotify.com/track/6YdwA3MnXFyVRpma4aQD5V) | [Sinağrit Baba](https://open.spotify.com/artist/2bJhIAjbzM9HMNSJRd80vH) | [Kirpi](https://open.spotify.com/album/1hVq51ebpkiGnMgByD7H0u) | 3:43 | 2025-08-21 | 2025-08-29 |
 | [Kirpiğin Kaşına Değdiği Zaman](https://open.spotify.com/track/3le6yLPoa7h31QfpragQuP) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Kirpiğin Kaşına Değdiği Zaman](https://open.spotify.com/album/1BLf41j9LhmFLJYhLk5y9Y) | 3:46 | 2025-04-10 | 2025-04-18 |
 | [KIRSIN DÖKSÜN](https://open.spotify.com/track/4fisKWTvmLPtg1x9X5YUbF) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ) | [KIRSIN DÖKSÜN](https://open.spotify.com/album/47RCS5GVOGnwC39G38BDIV) | 3:51 | 2025-06-12 | 2025-06-20 |
@@ -4938,7 +4939,6 @@
 | [toybeat](https://open.spotify.com/track/3xxEgM4L0ZQRtO2QEO9lWN) | [nazire](https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop) | [toybeat](https://open.spotify.com/album/0Li1WmzgBRkhfpwOeGMCNA) | 2:31 | 2025-08-21 | 2025-08-29 |
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-20 |
 | [TOZPEMBE](https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [TOZPEMBE](https://open.spotify.com/album/6kUsjDLFky1XSIs2PefSyQ) | 2:18 | 2025-10-30 | 2025-11-07 |
-| [Track 17](https://open.spotify.com/track/0nqAY6TvIZZKmYnMa3Fu3P) | [Ege Çubukçu](https://open.spotify.com/artist/0XLP18nHemdh5CQhoM3RjZ) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Transcend](https://open.spotify.com/track/2cbyiv8mzoTCCzCAx2SdYW) | [Erdem Tunali](https://open.spotify.com/artist/0nKW0tidLmlNBpIhcRmwta), [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Transcend](https://open.spotify.com/album/00pjxxOfsIntUfRjFtmf1l) | 4:28 | 2025-11-27 | 2025-12-05 |
 | [Transit \(feat\. Killa P\)](https://open.spotify.com/track/7mR1z8YGtFKBEJ8Y0lIg7E) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Transit](https://open.spotify.com/album/5dY2qizbHFrIZm3HMPZXJZ) | 3:22 | 2025-08-07 | 2025-08-15 |
 | [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 | 2026-01-23 | 2026-01-30 |

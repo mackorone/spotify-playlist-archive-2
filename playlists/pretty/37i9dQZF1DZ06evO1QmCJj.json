@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47333,
+  "num_followers": 47335,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACKhIFl6rIMdrCFGXBjiJEW",
+  "snapshot_id": "aY5pgAAAAADdYrk498pibnSPfOpOJogN",
   "tracks": [
     {
       "added_at": null,
@@ -563,62 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA BRUJA, LA NI\u00d1A Y EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/6cmOLNiylju3S0GhKG4s72"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 236215,
-      "name": "YO TE ESPERAR\u00c9 - Live",
-      "url": "https://open.spotify.com/track/1boYDONOQ8TVM3njEs6psa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 187161,
-      "name": "MI COLETA",
-      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trendy",
-        "url": "https://open.spotify.com/album/2LoKfksKDwsDHmCECMiWxC"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 183564,
-      "name": "Trendy",
-      "url": "https://open.spotify.com/track/0DyDC12aCF5JLgR2zZkS9t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caramello",
         "url": "https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn"
       },
@@ -639,6 +583,62 @@
       "duration_ms": 197760,
       "name": "Caramello",
       "url": "https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 187161,
+      "name": "MI COLETA",
+      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA BRUJA, LA NI\u00d1A Y EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/6cmOLNiylju3S0GhKG4s72"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 236215,
+      "name": "YO TE ESPERAR\u00c9 - Live",
+      "url": "https://open.spotify.com/track/1boYDONOQ8TVM3njEs6psa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trendy",
+        "url": "https://open.spotify.com/album/2LoKfksKDwsDHmCECMiWxC"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 183564,
+      "name": "Trendy",
+      "url": "https://open.spotify.com/track/0DyDC12aCF5JLgR2zZkS9t"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887 likes - 86 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886 likes - 86 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 85 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 | 86 | [Mi Fido Di Te](https://open.spotify.com/track/3YKmi0tPQL4mpcDIvXQbUV) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [Mi Fido Di Te](https://open.spotify.com/album/2jgeoZfOlI6KCyBPvPApxz) | 3:09 |
 
-Snapshot ID: `AcJl9AAAAACe7lWQQqE8Y1LSmxle5rtT`
+Snapshot ID: `AcJrdgAAAACiKMM1pBUTWxci2vhYZPY9`

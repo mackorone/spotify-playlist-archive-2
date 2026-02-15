@@ -1,33 +1,13 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 158259,
+  "num_followers": 158272,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADszVJcpMK5/5Pb/8/oYEQb",
+  "snapshot_id": "aY5pgAAAAABdr5NU6McpfKDSTHLFb5oo",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00daltimo Minuto",
-        "url": "https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 211150,
-      "name": "El \u00daltimo Minuto",
-      "url": "https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U"
-    },
     {
       "added_at": null,
       "album": {
@@ -219,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+        "name": "El \u00daltimo Minuto",
+        "url": "https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps"
       },
       "artists": [
         {
@@ -228,13 +208,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 215722,
-      "name": "Una Noche Cualquiera",
-      "url": "https://open.spotify.com/track/2eVbSvyRzbOlnL0A5qcxQ7"
+      "duration_ms": 211150,
+      "name": "El \u00daltimo Minuto",
+      "url": "https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U"
     },
     {
       "added_at": null,
@@ -251,6 +231,26 @@
       "duration_ms": 206843,
       "name": "Unidos Para Amarnos",
       "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215722,
+      "name": "Una Noche Cualquiera",
+      "url": "https://open.spotify.com/track/2eVbSvyRzbOlnL0A5qcxQ7"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200703,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 157175,
       "name": "Nunca Cambies",
       "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200703,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 215446,
+      "name": "Mi Gran Problema",
+      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 234093,
       "name": "Mi Enemigo El Amor - En Vivo",
       "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 215446,
-      "name": "Mi Gran Problema",
-      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 187050,
       "name": "Cien Por Ciento Sincero",
       "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Arr\u00e1ncame La Vida",
-      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Arr\u00e1ncame La Vida",
+      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

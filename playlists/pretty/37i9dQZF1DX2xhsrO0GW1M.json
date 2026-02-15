@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1063902,
+  "num_followers": 1063821,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Carnavas",
-        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "There\u2019d Better Be A Mirrorball",
         "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Carnavas",
+        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Dive Deep",
-        "url": "https://open.spotify.com/album/3oHLZFnFrqaRckM76Wsvgn"
+        "name": "Surfer Rosa (Remastered)",
+        "url": "https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI"
       },
       "artists": [
         {
-          "name": "Rolling Blackouts Coastal Fever",
-          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 313500,
-      "name": "Dive Deep",
-      "url": "https://open.spotify.com/track/6yoKgVW3LYI0vD5Qq9YRg5"
+      "duration_ms": 236973,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1"
     }
   ],
   "unique_name": "Indiespensables",

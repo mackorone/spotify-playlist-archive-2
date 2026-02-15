@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: The Martins",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: The Binions",
   "name": "Faithful Melodies",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 162567,
       "name": "99 1/2 - Studio Version",
       "url": "https://open.spotify.com/track/2nibTRJU1WdEUylLAz3jvu"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/4CD844Jfe9wQz0mbsJ0EWc"
+      },
+      "artists": [
+        {
+          "name": "The Binions",
+          "url": "https://open.spotify.com/artist/6xc0GvFpDI5F5ULa847OS0"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323024,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/6EMZ90Npwx7qzIpbZ5swuW"
     },
     {
       "album": {
@@ -142,7 +160,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 183306,
       "name": "Are You Washed in the Blood?",
       "url": "https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 141994,
       "name": "Brighten The Corner Where You Are",
       "url": "https://open.spotify.com/track/6vjCj6upYYjvpZpf6hmhAs"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 183000,
       "name": "Every Promise Made is a Promise Kept",
       "url": "https://open.spotify.com/track/4fD2HtT3auHHTSmVU2Qld8"
@@ -528,6 +546,24 @@
       "duration_ms": 219560,
       "name": "Faith Like That",
       "url": "https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9"
+    },
+    {
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/69NVlgYUEb2jH8LBoNKdOB"
+      },
+      "artists": [
+        {
+          "name": "The Craguns",
+          "url": "https://open.spotify.com/artist/16RFWCYLet7qXmRfmGdzkB"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248649,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/4nAE2FMHvs3UqZXUvf7xUn"
     },
     {
       "album": {
@@ -632,7 +668,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 207827,
       "name": "God Who Redeems",
       "url": "https://open.spotify.com/track/5XWbqp5JY4T42XWQXhnwBu"
@@ -987,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "He Is Who He Is",
+        "url": "https://open.spotify.com/album/0HrSbWJhzK53D8ad9O2nUJ"
+      },
+      "artists": [
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "He Is Who He Is",
+      "url": "https://open.spotify.com/track/1yKenD4aBdZaGGoVAXgDBV"
+    },
+    {
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
       },
@@ -1114,6 +1168,24 @@
       "duration_ms": 233986,
       "name": "I Cast My Bread Upon the Water",
       "url": "https://open.spotify.com/track/33MymV61MWpNGsjDUv69s5"
+    },
+    {
+      "album": {
+        "name": "Safely Home",
+        "url": "https://open.spotify.com/album/4KF0AoTkXQyCfyTVZlVzSd"
+      },
+      "artists": [
+        {
+          "name": "Bob Joyce",
+          "url": "https://open.spotify.com/artist/3O5SjjZIAQaynncGgZ0Fhx"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282950,
+      "name": "I Gotta Keep Going",
+      "url": "https://open.spotify.com/track/7lgEu0pywV5eyy3zyo9BzD"
     },
     {
       "album": {
@@ -2977,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "The Fishing Pole",
+        "url": "https://open.spotify.com/album/3QTI9LNfiIqk2hVZqkANZi"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "The Fishing Pole",
+      "url": "https://open.spotify.com/track/7kERMxS9CdeEwwW3wlmWEq"
+    },
+    {
+      "album": {
         "name": "Hope For Tomorrow",
         "url": "https://open.spotify.com/album/6FvZ3JWxzH0bsilLnATbJZ"
       },
@@ -3377,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "Through It All (feat. Hillcrest Nashville)",
+        "url": "https://open.spotify.com/album/7oRqrD5p1vjGQ9xuEDDISr"
+      },
+      "artists": [
+        {
+          "name": "Sunday Drive",
+          "url": "https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY"
+        },
+        {
+          "name": "Hillcrest Nashville",
+          "url": "https://open.spotify.com/artist/1tJxp3TsAB4fyE1q1TR9Pc"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271778,
+      "name": "Through It All (feat. Hillcrest Nashville)",
+      "url": "https://open.spotify.com/track/0bHStAVJbMqZWgvGkQdIXD"
+    },
+    {
+      "album": {
         "name": "Good Seed",
         "url": "https://open.spotify.com/album/3K1mnlx3gFQh4Iy9uTjjOB"
       },
@@ -3406,7 +3518,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 201000,
       "name": "Time To Let Go And Let God",
       "url": "https://open.spotify.com/track/38GUyM2U1kqURiSluSCNOY"
@@ -3554,7 +3666,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 229747,
       "name": "Until It Was Me",
       "url": "https://open.spotify.com/track/53jE9nJt7SDFTJPEWd2rGC"

@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 97915,
+  "num_followers": 97950,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAB33KOgXx88ky4gkIcuSZ6E",
+  "snapshot_id": "aY5pgAAAAACqu6Kk5aVk1/Io24/Y3Qg8",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De La Escuelita Graduado",
-        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 163918,
-      "name": "De La Escuelita Graduado",
-      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 3 De Siempre",
         "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 175777,
       "name": "Los 3 De Siempre",
       "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De La Escuelita Graduado",
+        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 163918,
+      "name": "De La Escuelita Graduado",
+      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristian Rey",
-        "url": "https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 146881,
-      "name": "Cristian Rey",
-      "url": "https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre De Rancho",
         "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 168881,
       "name": "Sangre De Rancho",
       "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristian Rey",
+        "url": "https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 146881,
+      "name": "Cristian Rey",
+      "url": "https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53"
     },
     {
       "added_at": null,

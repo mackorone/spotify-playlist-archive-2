@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Melissa Carper & Theo Lawrence ",
-  "num_followers": 313066,
+  "num_followers": 313070,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ6Aad6tr4SMkHyV9xKRK7POZrZK",
+  "snapshot_id": "AAAAAFInd+tl3MHBNhrgfxEQY+OYgV6l",
   "tracks": [
     {
       "added_at": "2026-02-06 05:00:30",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "That's How Rumors Get Started",
         "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 189093,
       "name": "Stone Me",
       "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+      },
+      "artists": [
+        {
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
-      },
-      "artists": [
-        {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "True Love's Face",
-        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "True Love's Face",
-      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "True Love's Face",
+        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "True Love's Face",
+      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "War Surplus",
-        "url": "https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK"
-      },
-      "artists": [
-        {
-          "name": "Becky Warren",
-          "url": "https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk"
-        }
-      ],
-      "duration_ms": 144640,
-      "name": "Off My Back",
-      "url": "https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "Finger on the Button",
         "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 224132,
       "name": "Finger on the Button",
       "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "War Surplus",
+        "url": "https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK"
+      },
+      "artists": [
+        {
+          "name": "Becky Warren",
+          "url": "https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk"
+        }
+      ],
+      "duration_ms": 144640,
+      "name": "Off My Back",
+      "url": "https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Patsy Cline",
-        "url": "https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv"
+        "name": "No Reason / Spud Infinity",
+        "url": "https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 154026,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm"
+      "duration_ms": 334802,
+      "name": "Spud Infinity",
+      "url": "https://open.spotify.com/track/6w8XLI2OnMRxwYi5SX5YGZ"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "No Reason / Spud Infinity",
-        "url": "https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617"
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 334802,
-      "name": "Spud Infinity",
-      "url": "https://open.spotify.com/track/6w8XLI2OnMRxwYi5SX5YGZ"
+      "duration_ms": 154026,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm"
     },
     {
       "added_at": "2026-02-06 05:00:30",

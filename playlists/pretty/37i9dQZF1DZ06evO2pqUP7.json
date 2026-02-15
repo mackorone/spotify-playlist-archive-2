@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69870,
+  "num_followers": 69876,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACAkGW6YAsG8hiGmmm10Vrn",
+  "snapshot_id": "aY5pgAAAAADbkNVV7JgLyiak95YFxJ6s",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los M\u00e1gicos",
+        "url": "https://open.spotify.com/album/1qQmiMijIXD2v7WIEekNLb"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 246290,
+      "name": "DUCATI (feat. Hades66)",
+      "url": "https://open.spotify.com/track/6UohJGgFLfVimuuLqp96l5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMW (REMIX)",
         "url": "https://open.spotify.com/album/1SKNhaSlDjP48DV9n7zmnW"
       },
@@ -463,34 +491,6 @@
       "duration_ms": 384000,
       "name": "OMW - Remix",
       "url": "https://open.spotify.com/track/1idR5YBsDGrAGrv4AXqgpz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los M\u00e1gicos",
-        "url": "https://open.spotify.com/album/1qQmiMijIXD2v7WIEekNLb"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "DUCATI (feat. Hades66)",
-      "url": "https://open.spotify.com/track/6UohJGgFLfVimuuLqp96l5"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 229955,
+      "name": "Mi Favorita",
+      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nadie (feat. Sech & Sharo Towers) [Remix]",
         "url": "https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 270186,
       "name": "Nadie (feat. Sech & Sharo Towers) - Remix",
       "url": "https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 229955,
-      "name": "Mi Favorita",
-      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epapale",
-        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Epapale",
-      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 190951,
       "name": "Amigos Na' Mas",
       "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epapale",
+        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Epapale",
+      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Toque Mi Naik",
         "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 143925,
       "name": "No Toque Mi Naik",
       "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,

@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Drown In Darkness",
+        "url": "https://open.spotify.com/album/3erxhaWVPRBTYsrPWmmmHw"
+      },
+      "artists": [
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193511,
+      "name": "Fly Fly Fly",
+      "url": "https://open.spotify.com/track/5jCiINCQpLYmJOrQLWJKea"
+    },
+    {
+      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 251200,
       "name": "Sight Of You",
       "url": "https://open.spotify.com/track/2rw5o91jFj0YD8NzahuZYs"

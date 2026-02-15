@@ -4,7 +4,7 @@
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 56 min
+81 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Balada para No Dormir \- Bonus Track](https://open.spotify.com/track/1HE0o9BFJ0alWtLdi1fXfY) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6) | 3:48 | 2023-12-30 | 2024-12-01 |
 | [Baño de Ruda](https://open.spotify.com/track/1RonotN63dWXzprapZyw3w) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/6dlkv3zp2mKTfDaoaAAV7h) | 3:09 | 2023-12-30 | 2026-02-11 |
 | [Baño de Ruda](https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td) | 3:09 | 2026-02-11 |  |
-| [Changó](https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 4:04 | 2023-12-30 |  |
+| [Changó](https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 4:04 | 2023-12-30 | 2026-02-15 |
+| [Changó](https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 4:04 | 2026-02-15 |  |
 | [Clapzz](https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:49 | 2023-12-30 | 2024-12-02 |
 | [Comediantes de Velorio](https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:14 | 2023-12-30 |  |
 | [Dando Vueltas](https://open.spotify.com/track/1u6kewVKZOOd3UAqlhN7gQ) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Hallowinners II: La Venganza](https://open.spotify.com/album/3iAw7fQiXPCOAuIeo1Wyqc) | 2:52 | 2023-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Suaaaaaaave 📸 MC Davo y Sabino
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,373 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,370 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 59 | [Myspace](https://open.spotify.com/track/6e9Xo4xy7RhXC6NeyYJslE) | [3delincuentes](https://open.spotify.com/artist/4pZ6gf5YV5DdZt3f4HDU62) | [Myspace](https://open.spotify.com/album/2zETGB8cujMtY5cABuSuvd) | 3:27 |
 | 60 | [Tenía Todo](https://open.spotify.com/track/4a6vHohHaNTeL1m4BVLpnk) | [Coral Casino](https://open.spotify.com/artist/1WA1MPB5ELQeb9ioPjASjz) | [Tenía Todo](https://open.spotify.com/album/1vfbxgEDk0kmFs5ZrwiDQO) | 3:20 |
 
-Snapshot ID: `AAAAACWgRH/FHx5UB6AaaPJasoqfFSUW`
+Snapshot ID: `AAAAACjeQodbb3PaXejZ7KDmfRwsK5Lh`

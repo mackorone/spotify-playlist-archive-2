@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 230786,
       "name": "eden",
       "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
@@ -17268,6 +17268,24 @@
       "duration_ms": 238800,
       "name": "\u71b1\u6d77",
       "url": "https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30f3\u30b8\u30e3\u30fc\u30fb\u30ad\u30e3\u30c3\u30c8\u30fb\u30a2\u30d7\u30ea\u30b7\u30a8\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u6226",
+          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441845,
+      "name": "\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/7K26FvD1eR5TBahHnrS4uA"
     },
     {
       "album": {

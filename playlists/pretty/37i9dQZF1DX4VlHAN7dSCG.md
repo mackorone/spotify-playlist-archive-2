@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 傷心欲絕 \(Wayne's so Sad\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,772 likes - 71 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,771 likes - 71 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 37 | [彩虹 \- 滾石撞樂隊2 \(原唱:梁靜茹\)](https://open.spotify.com/track/0FWi5X1ouSMs0sozulyqqi) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [滾石撞樂隊2 \- 彩虹](https://open.spotify.com/album/3Li3rQxiS8gomSbxrp8oe4) | 4:21 |
 | 38 | [我是真的愛你 \- 滾石撞樂隊2 \(原唱:李宗盛\)](https://open.spotify.com/track/07ddfCmFh0ahh10rq9CKzb) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [滾石撞樂隊2 \- 我是真的愛你](https://open.spotify.com/album/2cqzxCdEs1iX6aC5q7nXas) | 4:11 |
 | 39 | [我是誰我是誰我是誰\(GX版\)](https://open.spotify.com/track/22VWtSne9Yhv7ifQ9J36ZZ) | [GX \(鼓鼓 呂思緯、蕭秉治\)](https://open.spotify.com/artist/288ePKcM3N0VLXFIGuv4LV) | [GX 1st MINI ALBUM](https://open.spotify.com/album/31ShII00nJmvfMcnx5ujR7) | 4:25 |
-| 40 | [高中熱音社指南](https://open.spotify.com/track/5mgMulW2i2cqLABDjMXzV0) | [共振效應 Resonance Effect](https://open.spotify.com/artist/6NqHU787X96L2d3ItfceoM), [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [王嘉駿 Jun Wang](https://open.spotify.com/artist/3qlclL7WjdGRnrcIQFYaut) | [高中熱音社指南](https://open.spotify.com/album/75wiXr7c6OTsQSkrtvjW4z) | 3:49 |
+| 40 | [高中熱音社指南 Rock Music Club](https://open.spotify.com/track/5mgMulW2i2cqLABDjMXzV0) | [共振效應 Resonance Effect](https://open.spotify.com/artist/6NqHU787X96L2d3ItfceoM), [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [王嘉駿 Jun Wang](https://open.spotify.com/artist/3qlclL7WjdGRnrcIQFYaut) | [高中熱音社指南 Rock Music Club](https://open.spotify.com/album/75wiXr7c6OTsQSkrtvjW4z) | 3:49 |
 | 41 | [搬家 Little Zebra](https://open.spotify.com/track/2RHByhR9WiNmhOtAwpHVcN) | [Da Da Yue Dui](https://open.spotify.com/artist/2vhqrXGRTaYwFTeO61R9Fm) | [搬家 Little Zebra](https://open.spotify.com/album/69WbXoInLbrtceuz2QJUtN) | 4:32 |
 | 42 | [下天堂](https://open.spotify.com/track/0XLn3HZLmrBlDrRloVDmoh) | [PALLAS 帕拉斯](https://open.spotify.com/artist/68nyNWIzLu7qVyTYc1Zglj) | [下天堂](https://open.spotify.com/album/6AzTOaU2dExNDbJrMgPQY8) | 3:58 |
 | 43 | [你壞壞 我愛愛 \(feat\. 瘦子E.SO\)](https://open.spotify.com/track/03ruN1fQocKbSN4r4t43tR) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [你壞壞 我愛愛 \(feat\. 瘦子E.SO\)](https://open.spotify.com/album/1VUQ07itxawT7OFYo17MGQ) | 3:07 |

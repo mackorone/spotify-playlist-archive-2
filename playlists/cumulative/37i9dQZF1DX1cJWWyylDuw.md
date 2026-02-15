@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Face Yourself
 
-768 songs - 2 day 1 hr 3 min
+769 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Disconnectome](https://open.spotify.com/track/36zHsDMqdUgiL3dJAQud9H) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Simulation](https://open.spotify.com/album/1MI4MDPfyFPOFCEF7ykJWW) | 3:18 | 2021-12-17 | 2022-04-07 |
 | [Disease](https://open.spotify.com/track/0pgq34BPcxMI2mbcPM2asZ) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [Disease](https://open.spotify.com/album/0DKBiS0Zg1aJf1cMsAydL5) | 3:13 | 2021-12-17 | 2022-07-25 |
 | [Disfigured](https://open.spotify.com/track/5GV3docVmNAbEk7An8iX3S) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Disfigured](https://open.spotify.com/album/1aghj04fhxEzEeTzE3S6gp) | 1:37 | 2025-09-19 | 2026-02-14 |
+| [DISSOLVING PATTERNS](https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u) | [DeathStroke](https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ), [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS), [Dave Simonich](https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln) | [DISSOLVING PATTERNS](https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA) | 3:28 | 2026-02-13 |  |
 | [Diverge](https://open.spotify.com/track/1xzscZpTPwC5oEyhrn2VUF) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU), [Tom Brümmer](https://open.spotify.com/artist/3w3ZJWklV00aPydFB4ozAE) | [Diverge](https://open.spotify.com/album/7ppr2w2VoBqwGwlbHXl5sw) | 3:17 | 2021-12-31 | 2022-06-20 |
 | [Divinity](https://open.spotify.com/track/1B8pErf0fcrQ9FPFCUZOGd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Divinity](https://open.spotify.com/album/4HcCyswvV6GYaWxux4cy5w) | 3:16 | 2021-12-17 | 2022-07-29 |
 | [Doom Sequence](https://open.spotify.com/track/3XbSTn9JFKZ8gTT3EGahlA) | [In Fear](https://open.spotify.com/artist/2HbS5oR1eY6yJARuVUtAz8) | [Doom Sequence](https://open.spotify.com/album/4Xi0r9bzqijq3OKzkbFiBL) | 3:11 | 2024-08-23 | 2025-01-18 |
@@ -241,7 +242,7 @@
 | [Ether](https://open.spotify.com/track/7nd1HbUlmmqV0Szg9unUnZ) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Ether](https://open.spotify.com/album/1f5Vitdv9u9B4ot0ao8615) | 3:05 | 2025-10-17 |  |
 | [Eulogy of Ashes](https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Eulogy of Ashes](https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff) | 4:03 | 2023-04-14 | 2024-08-24 |
 | [Evergreen](https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U) | [In Gloom](https://open.spotify.com/artist/3jp1hk4EYTFMZfPD1Dn3A2) | [In Gloom II: True Violence and All the Terror That Comes With It](https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X) | 3:39 | 2025-05-02 | 2025-08-06 |
-| [EVERMORE](https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [EVERMORE](https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3) | 3:41 | 2025-08-08 |  |
+| [EVERMORE](https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [EVERMORE](https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3) | 3:41 | 2025-08-08 | 2026-02-15 |
 | [Everything Bleeds](https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY) | 2:42 | 2023-06-16 | 2025-03-15 |
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
 | [EVOLVE](https://open.spotify.com/track/3J8zKMWojpAtSvyJbDHhJZ) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [EVOLVE](https://open.spotify.com/album/52jS26ckoo4FxrDuzH75JV) | 3:01 | 2025-11-04 |  |

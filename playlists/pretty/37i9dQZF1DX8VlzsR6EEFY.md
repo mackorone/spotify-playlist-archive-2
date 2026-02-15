@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Mala Maña y Valen en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,675 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,686 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 84 | [Inconcluso](https://open.spotify.com/track/6gNabaGwN05HLUTcAfpMAR) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Inconcluso](https://open.spotify.com/album/1wZqSOuo2jzDqg5KTghNvj) | 2:36 |
 | 85 | [S.O.S](https://open.spotify.com/track/3rsbBwx4iQtmdWOIeWLNJa) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [S.O.S](https://open.spotify.com/album/1pMRvAQAizHhGOvsjO0eEv) | 2:55 |
 
-Snapshot ID: `AAAAACWp0mqt8Q9wGCWGHlQs2lIA6cFb`
+Snapshot ID: `AAAAABJhQDLGWh2yayManTccqPbLDjZz`

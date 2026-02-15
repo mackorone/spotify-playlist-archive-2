@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 1109,
+  "num_followers": 1110,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACw46cLEyRxttccUstSaY81",
+  "snapshot_id": "aY5pgAAAAABWyOlxXMBRueJ4LABX5xLC",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Velas Encendidas",
+        "url": "https://open.spotify.com/album/49E2apylgdz013orZ7Og0o"
+      },
+      "artists": [
+        {
+          "name": "Gerencia AGC",
+          "url": "https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Jul Diez",
+          "url": "https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5"
+        }
+      ],
+      "duration_ms": 190042,
+      "name": "Velas Encendidas",
+      "url": "https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta Privada Desde El 602 (En Vivo)",
+        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 143813,
+      "name": "Beretta (De Los Cerros La Escuela) - En Vivo",
+      "url": "https://open.spotify.com/track/5ryP0nQEAl9uMrfmADVSgv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sue\u00f1os De La Calle (Vol. 1)",
         "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
@@ -295,46 +335,6 @@
       "duration_ms": 143189,
       "name": "Sue\u00f1os De La Calle: Sue\u00f1os De La Calle",
       "url": "https://open.spotify.com/track/0UFOcVbGpZw4Xl58wJoDZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta Privada Desde El 602 (En Vivo)",
-        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 143813,
-      "name": "Beretta (De Los Cerros La Escuela) - En Vivo",
-      "url": "https://open.spotify.com/track/5ryP0nQEAl9uMrfmADVSgv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Velas Encendidas",
-        "url": "https://open.spotify.com/album/49E2apylgdz013orZ7Og0o"
-      },
-      "artists": [
-        {
-          "name": "Gerencia AGC",
-          "url": "https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Jul Diez",
-          "url": "https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5"
-        }
-      ],
-      "duration_ms": 190042,
-      "name": "Velas Encendidas",
-      "url": "https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23"
     },
     {
       "added_at": null,
@@ -539,6 +539,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 192209,
+      "name": "HARLEY DAVIDSON",
+      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 132043,
+      "name": "El Lokeron - En Vivo",
+      "url": "https://open.spotify.com/track/7o3xGMAKUq5qIEZpv7eqlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sue\u00f1os De La Calle (Vol. 1)",
         "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
@@ -567,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CON LA COCHI [VOL II (EN VIVO)]",
-        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
       "artists": [
         {
@@ -576,9 +608,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 132043,
-      "name": "El Lokeron - En Vivo",
-      "url": "https://open.spotify.com/track/7o3xGMAKUq5qIEZpv7eqlg"
+      "duration_ms": 258340,
+      "name": "Mujer Mujer (Live)",
+      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
     },
     {
       "added_at": null,
@@ -592,9 +624,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 192209,
-      "name": "HARLEY DAVIDSON",
-      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
+      "duration_ms": 179373,
+      "name": "DE M\u00c9XICO SOY",
+      "url": "https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn"
     },
     {
       "added_at": null,
@@ -619,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 258340,
-      "name": "Mujer Mujer (Live)",
-      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CON LA COCHI [VOL II (EN VIVO)]",
         "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 185391,
       "name": "Mami - En Vivo",
       "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "DE M\u00c9XICO SOY",
-      "url": "https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn"
     },
     {
       "added_at": null,
@@ -887,18 +887,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+        "name": "Sue\u00f1os De La Calle (Vol. 1)",
+        "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
       "artists": [
         {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 183530,
-      "name": "COMPA BLADI - En Vivo",
-      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
+      "duration_ms": 213060,
+      "name": "Sue\u00f1os De La Calle: #SinMexicanos",
+      "url": "https://open.spotify.com/track/5vM2etlxhDSAAaVQuEP95p"
     },
     {
       "added_at": null,
@@ -943,30 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os De La Calle (Vol. 1)",
-        "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 213060,
-      "name": "Sue\u00f1os De La Calle: #SinMexicanos",
-      "url": "https://open.spotify.com/track/5vM2etlxhDSAAaVQuEP95p"
+      "duration_ms": 183530,
+      "name": "COMPA BLADI - En Vivo",
+      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
     }
   ],
   "unique_name": "This Is Danny Felix",

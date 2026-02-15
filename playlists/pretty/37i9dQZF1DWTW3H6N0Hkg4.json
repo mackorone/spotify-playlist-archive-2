@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 322173,
+  "num_followers": 322300,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
         "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 245031,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "M\u00fasica Sin Limites - Tropical",
-        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
-      },
-      "artists": [
-        {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "20 Joyas de la Historia Musical",
         "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 154052,
       "name": "Pero Tu No Estas",
       "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "M\u00fasica Sin Limites - Tropical",
+        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Las Viejas Mas Bailadas",
-        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
-      },
-      "artists": [
-        {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
-        }
-      ],
-      "duration_ms": 185115,
-      "name": "Amor A\u00f1ejo",
-      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 192933,
       "name": "Carta De Recuerdo",
       "url": "https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Las Viejas Mas Bailadas",
+        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 185115,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Paloma Mensajera",
-      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Tequendama de Oro, Vol. 4",
         "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 224493,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Paloma Mensajera",
+      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "La Sirenita",
-      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 247920,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "La Sirenita",
+      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Se Nos Paso La Mano En Sabor",
-        "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Ag\u00fcita De Mel\u00f3n",
-      "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Coleccion De Oro Puro",
         "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
-        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
+        "name": "Se Nos Paso La Mano En Sabor",
+        "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
         }
       ],
-      "duration_ms": 246127,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/0TMMqkwo2nuWGFWrq0IYxB"
+      "duration_ms": 185306,
+      "name": "Ag\u00fcita De Mel\u00f3n",
+      "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 172813,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
+        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 246127,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/0TMMqkwo2nuWGFWrq0IYxB"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+        "name": "20 Super\u00e9xitos Originales",
+        "url": "https://open.spotify.com/album/4f7zlhcg4b7kuEZhPlKX6f"
       },
       "artists": [
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Los Wawanco",
+          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
+        },
+        {
+          "name": "Hern\u00e1n Rojas",
+          "url": "https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7"
         }
       ],
-      "duration_ms": 158760,
-      "name": "El Sonido de los Mirlos",
-      "url": "https://open.spotify.com/track/4MRbkMRzKLEPsgVvmSnDIJ"
+      "duration_ms": 147826,
+      "name": "No Te Vayas, Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1339,22 +1343,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "20 Super\u00e9xitos Originales",
-        "url": "https://open.spotify.com/album/4f7zlhcg4b7kuEZhPlKX6f"
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
       "artists": [
         {
-          "name": "Los Wawanco",
-          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
-        },
-        {
-          "name": "Hern\u00e1n Rojas",
-          "url": "https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7"
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "duration_ms": 147826,
-      "name": "No Te Vayas, Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi"
+      "duration_ms": 158760,
+      "name": "El Sonido de los Mirlos",
+      "url": "https://open.spotify.com/track/4MRbkMRzKLEPsgVvmSnDIJ"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Suavecito Suavecito",
+      "url": "https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 227288,
       "name": "Pero La Recuerdo - Cumbia Santa Maria -",
       "url": "https://open.spotify.com/track/41amq6NLZaFLUzDfkMYS7V"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "No Te Voy A Perdonar, Volumen 4",
-        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 232756,
-      "name": "No Te Voy A Perdonar",
-      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
     }
   ],
   "unique_name": "Cumbias Viejitas",

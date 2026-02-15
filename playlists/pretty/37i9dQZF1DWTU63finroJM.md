@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: wane
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,443 likes - 37 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,446 likes - 37 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,25 +19,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 9 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 |
 | 10 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
 | 11 | [WHY WHY WHY](https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [WHY WHY WHY](https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y) | 2:43 |
-| 12 | [man down](https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [man down](https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB) | 2:08 |
-| 13 | [London Massive](https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [London Massive](https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz) | 2:05 |
+| 12 | [London Massive](https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [London Massive](https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz) | 2:05 |
+| 13 | [man down](https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [man down](https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB) | 2:08 |
 | 14 | [DIY](https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [DIY](https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE) | 2:28 |
 | 15 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
 | 16 | [J'Suis Pas Bo](https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !](https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn) | 2:31 |
-| 17 | [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 |
-| 18 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
+| 17 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
+| 18 | [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 |
 | 19 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |
 | 20 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
 | 21 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 22 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
 | 23 | [ふわ輪](https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふわ輪](https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY) | 3:30 |
-| 24 | [Les inséparables](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [L'oiseau bleu](https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM) | 2:47 |
-| 25 | [evergreen](https://open.spotify.com/track/2CpvIkHvGiidJmS6MtEgxN) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:49 |
+| 24 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 |
+| 25 | [Les inséparables](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [L'oiseau bleu](https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM) | 2:47 |
 | 26 | [Precious](https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [Precious](https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK) | 2:32 |
-| 27 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 |
-| 28 | [Insecurity](https://open.spotify.com/track/5OvQtruSErQghU31RE8ITe) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Insecurity](https://open.spotify.com/album/0aFrAXbbZZF82pRhaT7O1Q) | 3:31 |
-| 29 | [EL FUNAO](https://open.spotify.com/track/1LNR9lc3291dwiFrCEarzG) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [EL FUNAO](https://open.spotify.com/album/1wZB8YmbN89NHZlDWbJjZ9) | 1:54 |
-| 30 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 |
+| 27 | [evergreen](https://open.spotify.com/track/2CpvIkHvGiidJmS6MtEgxN) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:49 |
+| 28 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 |
+| 29 | [Insecurity](https://open.spotify.com/track/5OvQtruSErQghU31RE8ITe) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Insecurity](https://open.spotify.com/album/0aFrAXbbZZF82pRhaT7O1Q) | 3:31 |
+| 30 | [EL FUNAO](https://open.spotify.com/track/1LNR9lc3291dwiFrCEarzG) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [EL FUNAO](https://open.spotify.com/album/1wZB8YmbN89NHZlDWbJjZ9) | 1:54 |
 | 31 | [Bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
 | 32 | [Me Perdi](https://open.spotify.com/track/4FaoxGpwXMyahuOsb0mowj) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Me Perdi](https://open.spotify.com/album/0dXKFJxIx8YHwc9GMYggyA) | 2:31 |
 | 33 | [Type](https://open.spotify.com/track/1wlABGWT6u3CCHCMuFSKAH) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Type](https://open.spotify.com/album/6vBv82o0TEGGwRX9nYnBAX) | 2:55 |

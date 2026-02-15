@@ -1,6 +1,6 @@
 {
   "description": "Powerful female voices, like you've never heard before.  Cover: Norah Jones.",
-  "num_followers": 14529,
+  "num_followers": 14531,
   "original_name": "Women of Spotify Singles",
   "owner": {
     "name": "Spotify",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 271825,
-      "name": "Light On - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
-    },
-    {
       "added_at": "2024-08-01 11:59:45",
       "album": {
         "name": "Spotify Singles",
@@ -823,6 +807,22 @@
       "duration_ms": 250801,
       "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 271825,
+      "name": "Light On - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-03-21 00:56:25",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "Stayaway - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
         "name": "Close Your Eyes - Spotify Singles",
         "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
       },
@@ -1388,17 +1404,17 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 251498,
-      "name": "Stayaway - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+      "duration_ms": 232706,
+      "name": "Out Of Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1415,22 +1431,6 @@
       "duration_ms": 185975,
       "name": "Veneno - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Out Of Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-03-21 00:56:25",
       "album": {
-        "name": "At Your Best (You Are Love) - Spotify Singles",
-        "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
         }
       ],
-      "duration_ms": 317890,
-      "name": "At Your Best (You Are Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
+      "duration_ms": 180581,
+      "name": "I-89 - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-03-21 00:56:25",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+        "name": "At Your Best (You Are Love) - Spotify Singles",
+        "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
       },
       "artists": [
         {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 180581,
-      "name": "I-89 - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
+      "duration_ms": 317890,
+      "name": "At Your Best (You Are Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1724,22 +1724,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
       },
       "artists": [
@@ -1751,6 +1735,22 @@
       "duration_ms": 259834,
       "name": "The Joke - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4yJnoVnotlMN9i0nMBeiDz"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1916,22 +1916,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },
       "artists": [
@@ -1943,6 +1927,22 @@
       "duration_ms": 159007,
       "name": "Work from Home - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0qs6VLNCReflbJv8IQ8PvD"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2016,22 +2016,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "All Love - Recorded At Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/2DLFwe8no6XgJfhrPJJzkf"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
       },
       "artists": [
@@ -2043,6 +2027,22 @@
       "duration_ms": 330149,
       "name": "The Garden - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/237AYJ77HK6Lf6DwQ6r7BJ"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "All Love - Recorded At Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/2DLFwe8no6XgJfhrPJJzkf"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2392,22 +2392,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t"
-      },
-      "artists": [
-        {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        }
-      ],
-      "duration_ms": 217570,
-      "name": "He Like That - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/45rT6cjM0p49BI4r6Q8izo"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
       },
       "artists": [
@@ -2435,6 +2419,22 @@
       "duration_ms": 168677,
       "name": "Havana - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/6kG9AQkHgCaFUh4ckB0g2j"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        }
+      ],
+      "duration_ms": 217570,
+      "name": "He Like That - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/45rT6cjM0p49BI4r6Q8izo"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2617,6 +2617,22 @@
       "url": "https://open.spotify.com/track/6O1mb8Q7GaEYXLguecJwwg"
     },
     {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "Gimme More - Spotify Singles",
+      "url": "https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG"
+    },
+    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -2635,22 +2651,6 @@
       "duration_ms": 207458,
       "name": "Everywhere I'm Goin' (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD"
-    },
-    {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "Gimme More - Spotify Singles",
-      "url": "https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2704,22 +2704,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 161941,
-      "name": "Want You In My Room - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/3brtbfC3XB210HgYYDxcf2"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
       },
       "artists": [
@@ -2736,17 +2720,17 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 253514,
-      "name": "Los Ageless - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
+      "duration_ms": 161941,
+      "name": "Want You In My Room - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/3brtbfC3XB210HgYYDxcf2"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2763,6 +2747,22 @@
       "duration_ms": 161371,
       "name": "Tipsy - Spotify Singles",
       "url": "https://open.spotify.com/track/5SjcWE3c7dn0xQbrRLeczT"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 253514,
+      "name": "Los Ageless - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2848,22 +2848,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 312586,
-      "name": "One More Try - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0QeopWycQsDAo0p1sp3OcQ"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
       },
       "artists": [
@@ -2875,6 +2859,22 @@
       "duration_ms": 248743,
       "name": "The walker \u2013 Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 312586,
+      "name": "One More Try - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0QeopWycQsDAo0p1sp3OcQ"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -3101,6 +3101,22 @@
       "url": "https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC"
     },
     {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 224937,
+      "name": "Loyal - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc"
+    },
+    {
       "added_at": "2024-08-01 11:59:45",
       "album": {
         "name": "Spotify Singles",
@@ -3131,22 +3147,6 @@
       "duration_ms": 206733,
       "name": "The Great Pretender - Spotify Singles",
       "url": "https://open.spotify.com/track/23pT5oehBgjEfysUkwWouv"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 224937,
-      "name": "Loyal - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc"
     },
     {
       "added_at": "2023-03-21 00:56:25",

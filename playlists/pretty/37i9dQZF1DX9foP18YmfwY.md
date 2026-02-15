@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,799 likes - 70 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,896 likes - 70 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 46 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 | 47 | [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 |
 | 48 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
-| 49 | [Quem Como Deus? \- Ao Vivo](https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Quem Como Deus? \(Ao Vivo\)](https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye) | 6:06 |
-| 50 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
+| 49 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
+| 50 | [Quem Como Deus? \- Ao Vivo](https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Quem Como Deus? \(Ao Vivo\)](https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye) | 6:06 |
 | 51 | [Caminho no Deserto](https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Caminho no Deserto](https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr) | 6:45 |
 | 52 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |
 | 53 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |

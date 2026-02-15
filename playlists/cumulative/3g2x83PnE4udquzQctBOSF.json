@@ -4565,6 +4565,24 @@
     },
     {
       "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/4fuYsMZNsLN7hcNOxBAs3b"
+      },
+      "artists": [
+        {
+          "name": "Bruno Costa",
+          "url": "https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273807,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/15Q9SQko1GwHLb9jEbC4cc"
+    },
+    {
+      "album": {
         "name": "KIBOU",
         "url": "https://open.spotify.com/album/2U8kyPxMXBQAIWFY4xhZl0"
       },
@@ -5209,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "Liberty / Equanimity",
+        "url": "https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4"
+      },
+      "artists": [
+        {
+          "name": "Capitan Anderson",
+          "url": "https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340748,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/64vnvKNR4XDM2DoFxBwAH0"
+    },
+    {
+      "album": {
         "name": "Lick Lick",
         "url": "https://open.spotify.com/album/1DASRqjuhlJz4GEJpNxqQA"
       },
@@ -5428,6 +5464,28 @@
       "duration_ms": 170307,
       "name": "Lonely Girl",
       "url": "https://open.spotify.com/track/58sqgpGAPAWNKvSIhVompE"
+    },
+    {
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/0XqhGYiiGzr38728SB7IMr"
+      },
+      "artists": [
+        {
+          "name": "Angelo Raguso",
+          "url": "https://open.spotify.com/artist/05z2LcBXV8pdayRRSouURw"
+        },
+        {
+          "name": "Fabio Piletto",
+          "url": "https://open.spotify.com/artist/51nT0ktJWgt5nGwCer3M1u"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/7ghVFZmTeb8oxYu2EnKfBA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-206 songs - 15 hr 8 min
+207 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Clover Club](https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47) | [Skylineer](https://open.spotify.com/artist/59QpQv4bZfkh1PgqVrxwii) | [Clover Club](https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL) | 3:53 | 2025-11-10 |  |
 | [Contemplations](https://open.spotify.com/track/7EwmPnpDQsAhGNdFvI9tKE) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Contemplations](https://open.spotify.com/album/6TyHCzyKbB1ON15RPiCdYu) | 2:35 | 2025-01-20 | 2025-02-14 |
 | [Costa del Soul](https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9) | 5:18 | 2024-01-09 | 2024-04-19 |
-| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 |  |
+| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 | 2026-02-15 |
 | [Days Of Soul](https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 6:13 | 2022-05-06 | 2023-05-12 |
 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 | 2022-05-06 |  |
 | [Divine Morning](https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7) | [Delorme & Co](https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W) | [Divine Morning](https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS) | 3:33 | 2023-08-15 |  |
@@ -195,6 +195,7 @@
 | [Turn It Out](https://open.spotify.com/track/5YQHdie7ADuFsqrDoB1AXZ) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 5:29 | 2022-05-06 | 2023-08-19 |
 | [Two of a Kind \(feat\. Chuck Loeb\)](https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 3:56 | 2022-05-06 |  |
 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 | 2022-05-06 |  |
+| [Unmemorable](https://open.spotify.com/track/7IUmdk8OUhRyFhn769gBNe) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [Unmemorable](https://open.spotify.com/album/1MReWwCa8KWZbHoieWvJhA) | 2:22 | 2026-02-13 |  |
 | [Use Me](https://open.spotify.com/track/5dKyIGGTiQ8xqyvhHfg1Sf) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 3:42 | 2022-05-06 | 2022-10-05 |
 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 | 2022-08-16 |  |
 | [West Coast Coolin'](https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [West Coast Coolin'](https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx) | 4:30 | 2022-05-06 |  |

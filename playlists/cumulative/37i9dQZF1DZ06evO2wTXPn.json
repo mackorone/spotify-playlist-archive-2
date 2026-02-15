@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 214733,
       "name": "Otra Liza (Con KURT)",
       "url": "https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5"
@@ -1208,6 +1208,24 @@
       "duration_ms": 157066,
       "name": "Polvo de Gigantes",
       "url": "https://open.spotify.com/track/3SiGPL00m2bqQ7HCchTL0F"
+    },
+    {
+      "album": {
+        "name": "Por Si Te Quieres Quedar",
+        "url": "https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214268,
+      "name": "Por Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
     },
     {
       "album": {

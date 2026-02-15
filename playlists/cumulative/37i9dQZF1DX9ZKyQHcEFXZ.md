@@ -4,7 +4,7 @@
 
 > El título lo dice todo! Twerk out work out!
 
-568 songs - 1 day 7 hr 33 min
+569 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bella y Sensual](https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:24 | 2026-01-09 |  |
 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 | 2022-12-08 | 2022-12-21 |
 | [Bellacoso](https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Bellacoso](https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG) | 4:17 | 2021-12-09 | 2023-04-01 |
-| [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2024-01-03 |  |
+| [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2024-01-03 | 2026-02-15 |
 | [Besito Rosa](https://open.spotify.com/track/0u2VkLea3IKOmsS3ofp5eQ) | [Adrian Activo](https://open.spotify.com/artist/4Yx3U9aG06jweuVuaca2zR), [Lodri](https://open.spotify.com/artist/67kP6rkT1i8jy26a2hJrzJ), [SuxxyPuxxy](https://open.spotify.com/artist/6ZqEBlljkDOtHcCVwKeHxt) | [Besito Rosa](https://open.spotify.com/album/1xMDMW1NzHuHTzX39RNFvz) | 2:52 | 2025-06-27 | 2025-08-30 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2024-05-01 | 2025-05-28 |
 | [Bien Loco](https://open.spotify.com/track/0Ps4UneYQVkuPb9zXkqFVI) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Bien Loco](https://open.spotify.com/album/1qgOSPbkZvvTSqaAwa8T0m) | 3:32 | 2024-05-01 | 2024-06-09 |
@@ -565,6 +565,7 @@
 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 | 2021-12-09 | 2022-12-08 |
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2021-12-09 | 2023-10-14 |
 | [Yo Sé Que Tú Quieres](https://open.spotify.com/track/4Aao0TQ5SvTitMxZb9oY7F) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Sé Que Tú Quieres](https://open.spotify.com/album/1KN1u76viK52AhHlWUxmJj) | 3:28 | 2024-04-15 | 2024-04-27 |
+| [Yo te conozco :\):](https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3) | 1:58 | 2026-01-09 |  |
 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 | 2021-12-09 | 2022-12-08 |
 | [Yo Te Quiero](https://open.spotify.com/track/67bG5H7iT26q8ADWsfVWQM) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [El Disco De Reggaeton 04](https://open.spotify.com/album/6EREkQF1kzKOJJeBaXQDwK) | 3:27 | 2021-12-09 | 2022-07-29 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-07-26 | 2024-05-02 |

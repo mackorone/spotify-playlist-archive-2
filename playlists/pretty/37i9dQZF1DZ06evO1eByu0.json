@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162475,
+  "num_followers": 162476,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACJX+pamAqFzgY3NwCFwW9B",
+  "snapshot_id": "aY5pgAAAAACYrjiZTAdiynmZxQ0O2YAP",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simples Assim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 281272,
-      "name": "N\u00e3o h\u00e1 Deus maior - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
         "url": "https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 427365,
       "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
       "url": "https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simples Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 281272,
+      "name": "N\u00e3o h\u00e1 Deus maior - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 167137,
-      "name": "Homenzinho Torto",
-      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 272721,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250662,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250662,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 308268,
       "name": "Vento do Esp\u00edrito",
       "url": "https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394941,
+  "num_followers": 394949,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
-        "name": "1991",
-        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
+        "name": "Burning Flower",
+        "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
         }
       ],
-      "duration_ms": 227391,
-      "name": "1991",
-      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
+      "duration_ms": 177898,
+      "name": "Burning Flower",
+      "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
-        "name": "Burning Flower",
-        "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
+        "name": "1991",
+        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 177898,
-      "name": "Burning Flower",
-      "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
+      "duration_ms": 227391,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
+        "name": "\u706b\u661f\u4eba",
+        "url": "https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 234929,
+      "name": "\u706b\u661f\u4eba",
+      "url": "https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6"
+    },
+    {
+      "added_at": "2026-02-04 04:45:03",
+      "album": {
         "name": "99 Steps",
         "url": "https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 197870,
       "name": "99 Steps",
       "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
-    },
-    {
-      "added_at": "2026-02-04 04:45:03",
-      "album": {
-        "name": "\u706b\u661f\u4eba",
-        "url": "https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 234929,
-      "name": "\u706b\u661f\u4eba",
-      "url": "https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
-        "name": "\u4fee\u7f85",
-        "url": "https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 236083,
-      "name": "\u4fee\u7f85",
-      "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
-    },
-    {
-      "added_at": "2026-02-04 04:45:03",
-      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 260778,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
+    },
+    {
+      "added_at": "2026-02-04 04:45:03",
+      "album": {
+        "name": "MASCARA",
+        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "MASCARA",
+      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
-        "name": "MASCARA",
-        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
+        "name": "\u4fee\u7f85",
+        "url": "https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 215040,
-      "name": "MASCARA",
-      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
+      "duration_ms": 236083,
+      "name": "\u4fee\u7f85",
+      "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
-        "name": "BE CLASSIC (English ver.)",
-        "url": "https://open.spotify.com/album/7dStltvEbsKi2qjY48nYuu"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "BE CLASSIC (English ver.)",
-      "url": "https://open.spotify.com/track/4UOwAdn4wjjjX0r62fPTbO"
-    },
-    {
-      "added_at": "2026-02-04 04:45:03",
-      "album": {
         "name": "WORK HARD",
         "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 173604,
       "name": "WORK HARD",
       "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
+    },
+    {
+      "added_at": "2026-02-04 04:45:03",
+      "album": {
+        "name": "BE CLASSIC (English ver.)",
+        "url": "https://open.spotify.com/album/7dStltvEbsKi2qjY48nYuu"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "BE CLASSIC (English ver.)",
+      "url": "https://open.spotify.com/track/4UOwAdn4wjjjX0r62fPTbO"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
-        "name": "FLIP FLAP",
-        "url": "https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "FLIP FLAP",
-      "url": "https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd"
-    },
-    {
-      "added_at": "2026-02-04 04:45:03",
-      "album": {
         "name": "The 1",
         "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 178000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+    },
+    {
+      "added_at": "2026-02-04 04:45:03",
+      "album": {
+        "name": "FLIP FLAP",
+        "url": "https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "FLIP FLAP",
+      "url": "https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
-        "name": "(how could i be)honest?",
-        "url": "https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "(how could i be)honest?",
-      "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
-    },
-    {
-      "added_at": "2026-02-04 04:45:03",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2026-02-04 04:45:03",
+      "album": {
+        "name": "(how could i be)honest?",
+        "url": "https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "(how could i be)honest?",
+      "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "\u6708\u9762\u7740\u9678\u8a08\u753b - Moon Landing Plan",
+      "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
+    },
+    {
+      "added_at": "2026-02-04 04:45:03",
+      "album": {
         "name": "THRIFTED",
         "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 161066,
       "name": "THRIFTED",
       "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2026-02-04 04:45:03",
-      "album": {
-        "name": "by my side",
-        "url": "https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6"
-      },
-      "artists": [
-        {
-          "name": "SUTEZENI",
-          "url": "https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt"
-        }
-      ],
-      "duration_ms": 289713,
-      "name": "by my side",
-      "url": "https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu"
     },
     {
       "added_at": "2026-02-04 04:45:03",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-02-04 04:45:03",
       "album": {
+        "name": "by my side",
+        "url": "https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6"
+      },
+      "artists": [
+        {
+          "name": "SUTEZENI",
+          "url": "https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt"
+        }
+      ],
+      "duration_ms": 289713,
+      "name": "by my side",
+      "url": "https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu"
+    },
+    {
+      "added_at": "2026-02-04 04:45:03",
+      "album": {
         "name": "Method",
         "url": "https://open.spotify.com/album/4aUsq3mLnh2IBx9lfkmtW2"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 189373,
       "name": "Method",
       "url": "https://open.spotify.com/track/7c3GBmtajxIslZjQHX0KX7"
-    },
-    {
-      "added_at": "2026-02-04 04:45:03",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 242920,
-      "name": "\u6708\u9762\u7740\u9678\u8a08\u753b - Moon Landing Plan",
-      "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
     },
     {
       "added_at": "2026-02-04 04:45:03",

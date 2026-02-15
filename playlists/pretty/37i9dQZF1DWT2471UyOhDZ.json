@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Buck Meek",
-  "num_followers": 93728,
+  "num_followers": 93723,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "Iceberg",
-      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Spike Island",
         "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 282459,
       "name": "Spike Island",
       "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "Iceberg",
+      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "You're All I Got",
-      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 144901,
       "name": "Back on the Road",
       "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "The Scythe",
-        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "The Scythe",
-      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 224287,
       "name": "Kneel",
       "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "An Artist Is An Artist",
+        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 191448,
+      "name": "An Artist Is An Artist",
+      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Get Sunk",
         "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
       },
@@ -1123,6 +1139,22 @@
       "duration_ms": 235106,
       "name": "No Love",
       "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Of Amber",
+      "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Of Amber",
-      "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Every Dawn's a Mountain",
         "url": "https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 268626,
       "name": "Allbarone",
       "url": "https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "An Artist Is An Artist",
-        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 191448,
-      "name": "An Artist Is An Artist",
-      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "The Forest Is The Path (Extended Edition)",
-        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 179122,
-      "name": "This Is The Silence",
-      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Serious",
         "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
       },
@@ -1411,18 +1379,34 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Drug Dealer",
-        "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 238986,
-      "name": "Drug Dealer",
-      "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1439,6 +1423,22 @@
       "duration_ms": 148440,
       "name": "Still Above",
       "url": "https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Drug Dealer",
+        "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Drug Dealer",
+      "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Everybody's trying to figure me out",
-        "url": "https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF"
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Everybody's trying to figure me out",
-      "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
+      "duration_ms": 268768,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Bell",
-        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
+        "name": "Everybody's trying to figure me out",
+        "url": "https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF"
       },
       "artists": [
         {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 268768,
-      "name": "Bell",
-      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
+      "duration_ms": 233200,
+      "name": "Everybody's trying to figure me out",
+      "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
     },
     {
       "added_at": "2026-01-12 08:37:59",

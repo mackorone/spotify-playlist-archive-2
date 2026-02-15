@@ -1,12 +1,12 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Von Quar",
-  "num_followers": 47048,
+  "num_followers": 47047,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAQz7gxyMz4gxf/8qeJ67LxldvHJ",
+  "snapshot_id": "AAAAALwsUdF0TIdHJwlLRlI5lOpgAEzC",
   "tracks": [
     {
       "added_at": "2026-02-05 23:00:09",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
+        "name": "moving in",
+        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 245342,
+      "name": "moving in",
+      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 158708,
       "name": "bl\u00e5 n\u00e6tter",
       "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
-        "name": "moving in",
-        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 245342,
-      "name": "moving in",
-      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "What Men Do",
-        "url": "https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc"
-      },
-      "artists": [
-        {
-          "name": "Barbro",
-          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
-        }
-      ],
-      "duration_ms": 180268,
-      "name": "What Men Do",
-      "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
         "name": "S\u00f8n",
         "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 164734,
       "name": "Satellitter",
       "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
+        "name": "What Men Do",
+        "url": "https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc"
+      },
+      "artists": [
+        {
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+        }
+      ],
+      "duration_ms": 180268,
+      "name": "What Men Do",
+      "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+        "name": "Verona",
+        "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
       },
       "artists": [
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 182860,
-      "name": "Sang Til Min Far",
-      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
+      "duration_ms": 198812,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 182860,
+      "name": "Sang Til Min Far",
+      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
         "name": "Barn Af Venedig",
         "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 239000,
       "name": "Barn Af Venedig",
       "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
-        "name": "Verona",
-        "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198812,
-      "name": "Verona",
-      "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "affirmations",
-        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
-      },
-      "artists": [
-        {
-          "name": "Mercedess",
-          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "affirmations",
-      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "Tunge F\u00f8lelser",
-        "url": "https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U"
+        "name": "februar",
+        "url": "https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j"
       },
       "artists": [
         {
-          "name": "Zira",
-          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
+          "name": "Y\u00f6r",
+          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
         }
       ],
-      "duration_ms": 155447,
-      "name": "Tunge F\u00f8lelser",
-      "url": "https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv"
+      "duration_ms": 208314,
+      "name": "februar",
+      "url": "https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "februar",
-        "url": "https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j"
+        "name": "affirmations",
+        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
       },
       "artists": [
         {
-          "name": "Y\u00f6r",
-          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
         }
       ],
-      "duration_ms": 208314,
-      "name": "februar",
-      "url": "https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT"
+      "duration_ms": 200000,
+      "name": "affirmations",
+      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
+        "name": "Tunge F\u00f8lelser",
+        "url": "https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U"
+      },
+      "artists": [
+        {
+          "name": "Zira",
+          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
+        }
+      ],
+      "duration_ms": 155447,
+      "name": "Tunge F\u00f8lelser",
+      "url": "https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
+        "name": "Ind I Solen",
+        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
+      },
+      "artists": [
+        {
+          "name": "Kayak",
+          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
+        }
+      ],
+      "duration_ms": 227037,
+      "name": "Ind I Solen",
+      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
         "name": "Til Enden Og Tilbage (feat. Ungklang)",
         "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 189831,
       "name": "Til Enden Og Tilbage (feat. Ungklang)",
       "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
-        "name": "Ind I Solen",
-        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
-      },
-      "artists": [
-        {
-          "name": "Kayak",
-          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
-        }
-      ],
-      "duration_ms": 227037,
-      "name": "Ind I Solen",
-      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
     }
   ],
   "unique_name": "ung kniv ",

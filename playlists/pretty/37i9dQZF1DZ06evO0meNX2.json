@@ -1,29 +1,13 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 42583,
+  "num_followers": 42603,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABh5BbmHhFFaqOgMdQY7bnT",
+  "snapshot_id": "aY5pgAAAAABAma2eP4+fVvjb3UTAYnD2",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "TODO PENDEJO",
-        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190359,
-      "name": "TODO PENDEJO",
-      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
-    },
     {
       "added_at": null,
       "album": {
@@ -247,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 222732,
       "name": "De A De Veras",
       "url": "https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Jagdish Chintala
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
 
 481 songs - 1 day 4 hr 54 min
 

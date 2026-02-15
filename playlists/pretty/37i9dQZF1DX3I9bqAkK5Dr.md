@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Jagdish Chintala
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,246 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,251 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Seenu Gaani Dawath](https://open.spotify.com/track/2vbfIUYmq9H9B2CVaZrtYK) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [Seenu Gaani Dawath](https://open.spotify.com/album/5UgeFsY9v8Sc5VOTQhgF6C) | 3:01 |
 | 75 | [Padipoya](https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8) | [Padipoya](https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz) | 2:56 |
 
-Snapshot ID: `AAAAAHQGCVn+VV/HsBz/F5r5bK0xLj3R`
+Snapshot ID: `AAAAAJS+0XqyRjflDx58Aifx1Hq8BEM4`

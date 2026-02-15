@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 169090,
       "name": "8 MARAVILLAS",
       "url": "https://open.spotify.com/track/7zla86c6VZD0tlWYOHW3Sx"
@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Alveg eins",
+        "url": "https://open.spotify.com/album/051Kr8wLuqpgIwxa1eewZC"
+      },
+      "artists": [
+        {
+          "name": "Egill Airi",
+          "url": "https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128932,
+      "name": "Alveg eins",
+      "url": "https://open.spotify.com/track/5U4RGfW51mxh8ea67DHDrp"
+    },
+    {
+      "album": {
         "name": "Always Follow Your Dreams,No Matter What It Take",
         "url": "https://open.spotify.com/album/50PbqD8gneh1c1r6h5TvA7"
       },
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -19687,6 +19705,24 @@
     },
     {
       "album": {
+        "name": "Ghost Mode",
+        "url": "https://open.spotify.com/album/1boHpMOzfe2mJfPyyPjIHk"
+      },
+      "artists": [
+        {
+          "name": "RYXER",
+          "url": "https://open.spotify.com/artist/5BmNvm7Z4kR8WovPjkuTcd"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174599,
+      "name": "Ghost Mode",
+      "url": "https://open.spotify.com/track/0g9oEVdGulrLSmqgasLvTw"
+    },
+    {
+      "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
@@ -19930,6 +19966,28 @@
       "duration_ms": 180000,
       "name": "Gleyma \u00fe\u00e9r og dansa",
       "url": "https://open.spotify.com/track/1Reyis0tKooavvFprdA5WS"
+    },
+    {
+      "album": {
+        "name": "gleymm\u00e9rei",
+        "url": "https://open.spotify.com/album/4tUdfuCnu1pBIo4jmGllPq"
+      },
+      "artists": [
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/3rUSk3kcpl4Nseu1DqFNpJ"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "gleymm\u00e9rei",
+      "url": "https://open.spotify.com/track/13nuTMrsX7oRj80QzD2sQX"
     },
     {
       "album": {
@@ -35924,7 +35982,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"

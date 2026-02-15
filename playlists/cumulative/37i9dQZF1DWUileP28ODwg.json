@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Brandon Lake and Jelly Roll",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Jenn Johnson & Brian Johnson",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 202458,
       "name": "1,000,000 Reasons Why",
       "url": "https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu"
@@ -1293,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Call Out To Jesus",
+        "url": "https://open.spotify.com/album/49CJxQIuZ8s6f2QLyWO8EU"
+      },
+      "artists": [
+        {
+          "name": "God Behind Bars Music",
+          "url": "https://open.spotify.com/artist/4VCPkwan3LdbjCUcE93UzM"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247441,
+      "name": "Call Out To Jesus",
+      "url": "https://open.spotify.com/track/2L5wuE14BQp1EyXwwOTO2Z"
+    },
+    {
+      "album": {
         "name": "Call Your Name",
         "url": "https://open.spotify.com/album/4vaSuASnMqTwnG8wIAfAPg"
       },
@@ -1366,6 +1388,24 @@
       "duration_ms": 193269,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie"
+    },
+    {
+      "album": {
+        "name": "Cedar & Stone",
+        "url": "https://open.spotify.com/album/4EiIWPjKcHJ1CmUulSMyg7"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193888,
+      "name": "Cedar & Stone",
+      "url": "https://open.spotify.com/track/5ZdQn2B05wH1I53CB1ijd3"
     },
     {
       "album": {
@@ -1916,7 +1956,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 255398,
       "name": "Doesn't He",
       "url": "https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k"
@@ -2342,7 +2382,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 226480,
       "name": "Favorite Parts",
       "url": "https://open.spotify.com/track/2DKVZg39ZTVZq54RPyKJo8"
@@ -3048,7 +3088,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 231083,
       "name": "God Is Faithful",
       "url": "https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH"
@@ -3895,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/65YKtFEiN07pnXIfSxMdqZ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/01zr8Gxq3ojECgvT8ciXJD"
+    },
+    {
+      "album": {
         "name": "Hard Fought Hallelujah",
         "url": "https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5"
       },
@@ -4048,6 +4106,28 @@
       "duration_ms": 182597,
       "name": "Have Your Way",
       "url": "https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo"
+    },
+    {
+      "album": {
+        "name": "He Cares For You",
+        "url": "https://open.spotify.com/album/1dVt3GrFlTrpJK1O9FlXoa"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Kendrick Williams Jr",
+          "url": "https://open.spotify.com/artist/6THqYD4nwDVdkVHVDr9ktp"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264141,
+      "name": "He Cares For You",
+      "url": "https://open.spotify.com/track/0PmTvLXJXeluO9dsHjMmym"
     },
     {
       "album": {
@@ -4239,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "NO SKIPS (DELUXE)",
+        "url": "https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189921,
+      "name": "heaven knows i tried - acoustic",
+      "url": "https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71"
+    },
+    {
+      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
       },
@@ -4315,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "Help My Unbelief",
+        "url": "https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206799,
+      "name": "Help My Unbelief - Acoustic",
+      "url": "https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt"
+    },
+    {
+      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
       },
@@ -4348,6 +4464,28 @@
       "duration_ms": 244160,
       "name": "Here",
       "url": "https://open.spotify.com/track/0UuMg7nCoCLnaG9qG7B9Ft"
+    },
+    {
+      "album": {
+        "name": "Here In Your Arms",
+        "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172702,
+      "name": "Here In Your Arms",
+      "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
     },
     {
       "album": {
@@ -5020,7 +5158,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 221623,
       "name": "I Got Saved",
       "url": "https://open.spotify.com/track/43TAruEvss1VoLQp9I0P2S"
@@ -5699,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/7L43akka38rICHpCWMXuXC"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233575,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/0cKZ96VfjE9Ay6kuhSusn9"
+    },
+    {
+      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
@@ -5750,6 +5906,24 @@
       "duration_ms": 200120,
       "name": "JESUS",
       "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
+    },
+    {
+      "album": {
+        "name": "Jesus All Along",
+        "url": "https://open.spotify.com/album/1cXA93YllT9Tqo1FU7Cf4m"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210403,
+      "name": "Jesus All Along",
+      "url": "https://open.spotify.com/track/72eLmmLLH2a10hiKb8xEss"
     },
     {
       "album": {
@@ -6610,7 +6784,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 251400,
       "name": "Lord of the Dance",
       "url": "https://open.spotify.com/track/4j18e9RtZIctujKELsaSKD"
@@ -7886,7 +8060,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 201906,
       "name": "Only For A Moment - Radio Version",
       "url": "https://open.spotify.com/track/6DKcuCEUZ4hfJ38tgHnR0Z"
@@ -9660,7 +9834,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 286152,
       "name": "Still The King",
       "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
@@ -10586,7 +10760,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 222238,
       "name": "The Mercy Room",
       "url": "https://open.spotify.com/track/5I7WPi3OheSMwPRf8AGPpC"
@@ -11858,10 +12032,28 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 192445,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/3IsymeG164xqab7pmeblhi"
+    },
+    {
+      "album": {
+        "name": "Where Would I Be",
+        "url": "https://open.spotify.com/album/7cbj9Vgx8sgEczqzF9Z1Eg"
+      },
+      "artists": [
+        {
+          "name": "Peter Burton",
+          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225140,
+      "name": "Where Would I Be - Live",
+      "url": "https://open.spotify.com/track/6Rmgg4Wu66Sjt0VpscGM52"
     },
     {
       "album": {

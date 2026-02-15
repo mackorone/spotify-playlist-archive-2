@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-677 songs - 1 day 22 hr 53 min
+678 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,9 +198,10 @@
 | [Here's To The Nights](https://open.spotify.com/track/5Ct9fD9hFSJuyFEzUlRG6w) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Here’s To The Nights](https://open.spotify.com/album/35Y28ilNoufC6tjau8ZdSB) | 4:06 | 2023-12-30 |  |
 | [How Can We Be Lovers](https://open.spotify.com/track/0ZUjPkZKjzRi6bgIuJovfY) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:55 | 2023-12-30 |  |
 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 | 2023-12-30 |  |
-| [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 | 2023-12-30 |  |
+| [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 | 2023-12-30 | 2026-02-15 |
 | [How Do I Live \(Plié\)](https://open.spotify.com/track/1VWZBRhJCy2TAQBO9nryWi) | [Nate Fifield](https://open.spotify.com/artist/1G1Aqwpne900Zzhw3nxNol) | [Pop Hits for Ballet Class, Vol\. 1](https://open.spotify.com/album/2hS9jwGmDYaQiZAZdoJTnf) | 3:41 | 2024-07-10 |  |
 | [How Do I Live \- Extended Mix](https://open.spotify.com/track/7jVkRbHbcw9wO5tNlBOiWR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [You Light Up My Life](https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk) | 4:57 | 2024-07-10 |  |
+| [How Do I Live \- Songbook Version](https://open.spotify.com/track/5xM53GMJzt0g16Ke9islN4) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [\(Songbook\) A Collection Of Hits](https://open.spotify.com/album/4EXfiuerqSnUhJ7S4CS0Vj) | 4:03 | 2026-02-14 |  |
 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 | 2023-12-30 |  |
 | [How Many Times, How Many Lies](https://open.spotify.com/track/41wBXvAim2xfInCEqhy3hW) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:55 | 2025-07-19 |  |
 | [How Many Times, How Many Lies](https://open.spotify.com/track/7FUNXj1tiocAaBSvD7stT6) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:55 | 2023-12-30 | 2025-07-20 |
@@ -223,7 +224,7 @@
 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 | 2024-01-24 |  |
 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 | 2023-12-30 |  |
 | [I Don't Need You To](https://open.spotify.com/track/4ueBIcziMpSFAPW6ulYK8M) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:37 | 2024-07-04 |  |
-| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 | 2026-02-14 |
+| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 |  |
 | [I Don't Wanna Smile](https://open.spotify.com/track/4uPN4lISfBaXTDj4QIAgdm) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:43 | 2023-12-30 |  |
 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 | 2023-12-30 |  |
 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1cTATYMdB3N8Hq3TEwSZ0F) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing \(Official HD Video\)](https://open.spotify.com/album/3osPdU4wgtinhHvwKtLHNP) | 4:52 | 2024-01-21 | 2024-02-01 |

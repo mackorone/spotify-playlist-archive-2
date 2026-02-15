@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: El Kanka.",
-  "num_followers": 348308,
+  "num_followers": 348326,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Con Cierto Aire a Ti",
         "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 178773,
       "name": "Hoy Ten Miedo De Mi",
       "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Cuerpo a Cuerpo (Remasterizado)",
         "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 302000,
       "name": "Sin Tu Latido - Remasterizado",
       "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Pensando en ti",
-        "url": "https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 195537,
-      "name": "Pensando en ti",
-      "url": "https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Qu\u00e9 bonito",
         "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 186801,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "Pensando en ti",
+        "url": "https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 195537,
+      "name": "Pensando en ti",
+      "url": "https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
+        "name": "San Jos\u00e9, Almer\u00eda",
+        "url": "https://open.spotify.com/album/3K7yTOr0HcWK0ar43zC1tH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "duration_ms": 222746,
+      "name": "San Jos\u00e9, Almer\u00eda",
+      "url": "https://open.spotify.com/track/14KTHyfbq3kEATrTKblhg9"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
       "artists": [
         {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "San Jos\u00e9, Almer\u00eda",
-        "url": "https://open.spotify.com/album/3K7yTOr0HcWK0ar43zC1tH"
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
         }
       ],
-      "duration_ms": 222746,
-      "name": "San Jos\u00e9, Almer\u00eda",
-      "url": "https://open.spotify.com/track/14KTHyfbq3kEATrTKblhg9"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "La apuesta",
-        "url": "https://open.spotify.com/album/2Z8imVuFIWzmY6BsX2rEkt"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "La apuesta",
-      "url": "https://open.spotify.com/track/5utQQTgG5DuKGRtczUbnmz"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 233000,
       "name": "La Belleza",
       "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "La apuesta",
+        "url": "https://open.spotify.com/album/2Z8imVuFIWzmY6BsX2rEkt"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "La apuesta",
+      "url": "https://open.spotify.com/track/5utQQTgG5DuKGRtczUbnmz"
     },
     {
       "added_at": "2026-02-05 23:00:28",

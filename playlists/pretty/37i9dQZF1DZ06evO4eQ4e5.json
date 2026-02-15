@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 86019,
+  "num_followers": 86033,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADROSkk+/gzU3A7bCn459vN",
+  "snapshot_id": "aY5pgAAAAAC/e8TCIKS0vdcg/pkMEZOF",
   "tracks": [
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "El Nido (with Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 220329,
       "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
       "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "El Nido (with Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
     },
     {
       "added_at": null,

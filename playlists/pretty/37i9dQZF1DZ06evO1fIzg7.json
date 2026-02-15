@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20629,
+  "num_followers": 20635,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACAKPW4lTIrNgaahQuoGYTR",
+  "snapshot_id": "aY5pgAAAAAAbcvSXHUs7auQEdsxuCUDu",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
+        "name": "Disco Crash",
+        "url": "https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv"
       },
       "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         },
         {
-          "name": "Wuh Oh",
-          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+          "name": "Gilbere Fort\u00e9",
+          "url": "https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK"
         }
       ],
-      "duration_ms": 182799,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
+      "duration_ms": 191118,
+      "name": "Fuck With You",
+      "url": "https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG"
     },
     {
       "added_at": null,
@@ -375,26 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco Crash",
-        "url": "https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv"
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
       },
       "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         },
         {
-          "name": "Gilbere Fort\u00e9",
-          "url": "https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK"
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
         }
       ],
-      "duration_ms": 191118,
-      "name": "Fuck With You",
-      "url": "https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG"
+      "duration_ms": 182799,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "If I Can't Dance",
+      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
         "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 302106,
       "name": "True Faith - BBC Session",
       "url": "https://open.spotify.com/track/5smOkIgfWYhfZmAoDM71Qk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Today The Sun's On Us",
-      "url": "https://open.spotify.com/track/3KqFrUNkrv3TntnvM3hx8T"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Today The Sun's On Us",
+      "url": "https://open.spotify.com/track/3KqFrUNkrv3TntnvM3hx8T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 243613,
       "name": "Lost in the Sunshine",
       "url": "https://open.spotify.com/track/2fNMPwLiYbw6yYwwOy2vrj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "If I Can't Dance",
-      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "Come with Us",
-      "url": "https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Visions, Vol. 1",
         "url": "https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 210528,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "Come with Us",
+      "url": "https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV"
     },
     {
       "added_at": null,
@@ -723,54 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Beyond the Universe",
-      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 273915,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only Child",
         "url": "https://open.spotify.com/album/5eWXw9T1dhm982KAjqh2WB"
       },
@@ -795,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "China Heart",
-      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
@@ -820,9 +756,41 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 289906,
-      "name": "Everything is Sweet",
-      "url": "https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a"
+      "duration_ms": 253480,
+      "name": "Beyond the Universe",
+      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 273915,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
     },
     {
       "added_at": null,
@@ -843,6 +811,38 @@
       "duration_ms": 183266,
       "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
       "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Everything is Sweet",
+      "url": "https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "China Heart",
+      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
     },
     {
       "added_at": null,

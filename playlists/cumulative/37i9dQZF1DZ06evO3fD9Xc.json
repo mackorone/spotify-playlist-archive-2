@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 205217,
       "name": "Como No Adorarla",
       "url": "https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx"
@@ -1226,6 +1226,28 @@
       "duration_ms": 176123,
       "name": "No Me Pidas Perd\u00f3n",
       "url": "https://open.spotify.com/track/05zTquAfe4VLaOpvMunKCQ"
+    },
+    {
+      "album": {
+        "name": "No Puedo Odiarte",
+        "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126386,
+      "name": "No Puedo Odiarte",
+      "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
     },
     {
       "album": {

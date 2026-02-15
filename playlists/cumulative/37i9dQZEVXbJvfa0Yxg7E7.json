@@ -6749,6 +6749,28 @@
     },
     {
       "album": {
+        "name": "Bygda",
+        "url": "https://open.spotify.com/album/5mOY8DE3sFf1y1B90SlWj8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193686,
+      "name": "Bygda",
+      "url": "https://open.spotify.com/track/4bM5KnzjYWui6jr20pU3ZW"
+    },
+    {
+      "album": {
         "name": "Bygdegut (her er eg)",
         "url": "https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP"
       },
@@ -12061,6 +12083,24 @@
     },
     {
       "album": {
+        "name": "En million",
+        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146918,
+      "name": "En million",
+      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
+    },
+    {
+      "album": {
         "name": "En Shot",
         "url": "https://open.spotify.com/album/2kEYdmpt1rOiQUmlfxPE01"
       },
@@ -12542,7 +12582,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -18338,7 +18378,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 184399,
       "name": "Heime",
       "url": "https://open.spotify.com/track/1psMkHjedxf8wIXh2b914x"
@@ -36898,7 +36938,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 163636,
       "name": "Rett inn, rett ut",
       "url": "https://open.spotify.com/track/2pxMFJNOOFu1sZqdtmQJh6"
@@ -40858,7 +40898,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 157173,
       "name": "Sommernatta",
       "url": "https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca"
@@ -47167,6 +47207,24 @@
     },
     {
       "album": {
+        "name": "Ung for alltid",
+        "url": "https://open.spotify.com/album/3A4lGTODEzOrOyu0KQajip"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161571,
+      "name": "Ung for alltid",
+      "url": "https://open.spotify.com/track/5LqAXeCGSP6ZRHlzb7ikwf"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -48832,6 +48890,24 @@
       "duration_ms": 116750,
       "name": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
       "url": "https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN"
+    },
+    {
+      "album": {
+        "name": "Mannen Som D\u00f8de St\u00e5ende",
+        "url": "https://open.spotify.com/album/1ul3KoQqUUswYy9WBwWhUt"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182488,
+      "name": "Western Union Flows",
+      "url": "https://open.spotify.com/track/419w1eWWETAV5WGAKyHsLj"
     },
     {
       "album": {

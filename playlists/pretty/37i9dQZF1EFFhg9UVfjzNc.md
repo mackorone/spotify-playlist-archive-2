@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 116 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 117 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 112 | [Apocalipse 5](https://open.spotify.com/track/1zAbs0HlGxAYsYAmWjUjOz) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 6:08 |
 | 113 | [Majestoso](https://open.spotify.com/track/2c5k2pYT0W6LaMpadpZkHB) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 6:38 |
 | 114 | [O céu é o meu lar](https://open.spotify.com/track/51u1BOC0ymaNgJni7Ofkyn) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 8:14 |
-| 115 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
-| 116 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
+| 115 | [Preço de Sangue \- Playback](https://open.spotify.com/track/5FBRavbyHlcwoTOx4jkivK) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Salmistas](https://open.spotify.com/artist/6WVtTtridZM8vFPbOIwrig) | [Preço de Sangue \(Playback\)](https://open.spotify.com/album/4JBN7delSj5edzZlwhBT6K) | 10:05 |
+| 116 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
+| 117 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
 
-Snapshot ID: `AcJl6gAAAABKI/NwiK4gIo1MxDSokEUT`
+Snapshot ID: `AcJrigAAAADJGx+jzRkJTfP2FHKvCAlz`

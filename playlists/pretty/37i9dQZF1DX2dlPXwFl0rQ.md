@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Carolina Ross en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,384 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,412 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 19 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 20 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
 | 21 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
-| 22 | [Frijolero](https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh) | [Somos Frijoleros](https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Frijolero](https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF) | 3:33 |
-| 23 | [Cuéntame](https://open.spotify.com/track/2EJtZFG7Wge8koHgxGvJPk) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Cuéntame](https://open.spotify.com/album/2pHBf1JT1yv1shEwADmryw) | 2:33 |
+| 22 | [Cuéntame](https://open.spotify.com/track/2EJtZFG7Wge8koHgxGvJPk) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Cuéntame](https://open.spotify.com/album/2pHBf1JT1yv1shEwADmryw) | 2:33 |
+| 23 | [Frijolero](https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh) | [Somos Frijoleros](https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Frijolero](https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF) | 3:33 |
 | 24 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
 | 25 | [Ese Que Se Fue](https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ese Que Se Fue](https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf) | 2:22 |
 | 26 | [Qué Me Vas a Dar](https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:15 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 61 | [Doble T](https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B) | [Doble T](https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs) | 2:39 |
 | 62 | [Se Cancela La Llorada](https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Se Cancela La Llorada](https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv) | 3:00 |
 | 63 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 |
-| 64 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
-| 65 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
+| 64 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
+| 65 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
 | 66 | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Deja Que Salga la Luna \(En Vivo\)](https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY) | 3:17 |
 | 67 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
 | 68 | [Ni Pedo](https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ni Pedo](https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF) | 2:22 |

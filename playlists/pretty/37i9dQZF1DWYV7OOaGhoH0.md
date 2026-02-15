@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Cat Clyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,714,821 likes - 103 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,714,684 likes - 103 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

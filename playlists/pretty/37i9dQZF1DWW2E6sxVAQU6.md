@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,189 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,191 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 2 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
+| 1 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
+| 2 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 3 | [Vado al massimo](https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:03 |
 | 4 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
 | 5 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 26 | [Mezze verità](https://open.spotify.com/track/7rdw5FwyUOuXtTQCKRtsWy) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Playlist: Sottotono](https://open.spotify.com/album/3PNhqVcLql4ffwqtzIKXMr) | 4:18 |
 | 27 | [Linda Bella Linda \- 2004 Digital Remaster](https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z) | [Daniel Sentacruz Ensemble](https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26) | [Daniel Sentacruz Ensemble: Solo Grandi Successi](https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0) | 3:42 |
 | 28 | [Buona Giornata](https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Made In Italy](https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF) | 3:38 |
-| 29 | [Bentivoglio Angelina](https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW) | [Quintorigo](https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP) | [Grigio](https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY) | 4:14 |
-| 30 | [Bada Bambina](https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:54 |
-| 31 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
+| 29 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
+| 30 | [Bentivoglio Angelina](https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW) | [Quintorigo](https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP) | [Grigio](https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY) | 4:14 |
+| 31 | [Bada Bambina](https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:54 |
 | 32 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
 | 33 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
 | 34 | [Sbatti Ben Su Del BeBop](https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss) | [Ladri Di Biciclette](https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe) | [Made In Italy](https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9) | 4:09 |

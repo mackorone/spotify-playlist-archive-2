@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 185607,
+  "num_followers": 185643,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 205952,
+      "name": "Doce, Dengosa, Polida",
+      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 190769,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "Doce, Dengosa, Polida",
-      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
-        "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Eu Sou S\u00f3 Minha - Live",
-      "url": "https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Te Ouvir",
         "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 215757,
       "name": "Te Ouvir",
       "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
+        "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Eu Sou S\u00f3 Minha - Live",
+      "url": "https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187733,
       "name": "Falar De Amor - Remix",
       "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -771,6 +771,26 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Klismman",
+          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Klismman",
-          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "N\u00famero Privado",
-        "url": "https://open.spotify.com/album/2uFoe2NyWu5c4c9L63nD0L"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "N\u00famero Privado",
-      "url": "https://open.spotify.com/track/5fqWlrsAjCQqvqDs34qevS"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "N\u00famero Privado",
+        "url": "https://open.spotify.com/album/2uFoe2NyWu5c4c9L63nD0L"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "N\u00famero Privado",
+      "url": "https://open.spotify.com/track/5fqWlrsAjCQqvqDs34qevS"
     },
     {
       "added_at": "2026-01-30 14:06:41",

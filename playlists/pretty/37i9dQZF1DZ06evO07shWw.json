@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9134,
+  "num_followers": 9137,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABupEvsqOYN30mObuoUqSdA",
+  "snapshot_id": "aY5pgAAAAADJ0AwPiMkSLDIUIaX/TtG8",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 211925,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lady Like (Deluxe)",
         "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
       },
@@ -207,26 +223,6 @@
       "duration_ms": 190200,
       "name": "Feeling Things",
       "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 187341,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
     },
     {
       "added_at": null,
@@ -263,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 187341,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -279,26 +295,6 @@
       "duration_ms": 206760,
       "name": "Runnin (with JP Saxe)",
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "On Fire (Ingrid Andress Version)",
-      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
     },
     {
       "added_at": null,
@@ -355,34 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
         },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        },
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
-      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+      "duration_ms": 213000,
+      "name": "On Fire (Ingrid Andress Version)",
+      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
     },
     {
       "added_at": null,
@@ -415,6 +399,38 @@
       "duration_ms": 174034,
       "name": "How Honest Do You Want Me To Be?",
       "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
       "added_at": null,

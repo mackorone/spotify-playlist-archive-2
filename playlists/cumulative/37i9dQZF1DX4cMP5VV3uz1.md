@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-596 songs - 1 day 10 hr 19 min
+597 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Charlie Says](https://open.spotify.com/track/1YqNj0rVwjyj7rq6PhTCKA) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Neumonic](https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52) | [Charlie Says](https://open.spotify.com/album/5p3MyOKbzIy7djL8XzxKvt) | 3:52 | 2025-11-14 |  |
 | [Close My Eyes](https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Close My Eyes](https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE) | 3:24 | 2025-10-02 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-19 | 2024-07-27 |
-| [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-10-02 |  |
+| [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-10-02 | 2026-02-15 |
 | [Cluster](https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc) | [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Cluster](https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el) | 4:09 | 2024-03-01 | 2024-09-20 |
 | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu) | 2:54 | 2025-07-25 | 2026-01-23 |
 | [Come With It](https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2) | [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Come With It](https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy) | 3:20 | 2025-10-09 |  |
@@ -354,6 +354,7 @@
 | [No Excuses \- TS7 Remix](https://open.spotify.com/track/2loTmdS8xWSSZoSJgNfang) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [No Excuses \(TS7 Remix\)](https://open.spotify.com/album/6rplj6nvRrzIp66lyXGg0l) | 2:34 | 2022-09-30 | 2023-04-14 |
 | [No Fugazi](https://open.spotify.com/track/5sY6O3uGqIrq1aaEj8ed8M) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [No Fugazi](https://open.spotify.com/album/3Zw9zz8E7Dtm8JRbXJ9diJ) | 2:47 | 2025-05-08 | 2025-08-31 |
 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2024-11-22 | 2025-08-23 |
+| [No Pressure](https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Big Enough Reason](https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1) | 3:25 | 2026-02-13 |  |
 | [No Tomorrow \(P Money x Whiney Remix\)](https://open.spotify.com/track/51uRkSahJICiVwrPe7GgzY) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [No Tomorrow \(P Money x Whiney Remix\)](https://open.spotify.com/album/05lBv1T8JVw4LGyxFHGjVg) | 4:09 | 2024-02-23 | 2024-09-06 |
 | [Nobody Else](https://open.spotify.com/track/4JHhRWSZFtAJgm33DRzdLn) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Countdown](https://open.spotify.com/album/3VTNCCky0zVBUEEVjRBolz) | 4:12 | 2025-11-28 | 2026-02-13 |
 | [Nobody Likes The Records That I Play](https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Nobody Likes The Records That I Play](https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj) | 3:13 | 2024-02-23 | 2024-09-06 |

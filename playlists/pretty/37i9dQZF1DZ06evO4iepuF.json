@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABYIhptXnOBJos0PMS4HtZ7",
+  "snapshot_id": "aY5pgAAAAABh/sYIIacJ7VuRJ1GKh/oq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "kd 2019-2022 sc songs (compilation)",
+        "url": "https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 51891,
+      "name": "kys delete ur songs",
+      "url": "https://open.spotify.com/track/07nOL4L0tXqL8O9ufMEeFT"
+    },
     {
       "added_at": null,
       "album": {
@@ -123,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "kd 2019-2022 sc songs (compilation)",
-        "url": "https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 51891,
-      "name": "kys delete ur songs",
-      "url": "https://open.spotify.com/track/07nOL4L0tXqL8O9ufMEeFT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIRECTIONS",
         "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIRECTIONS",
-        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 137299,
-      "name": "I NEED THAT",
-      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no inbetween",
         "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
       },
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "one touch",
-        "url": "https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI"
+        "name": "DIRECTIONS",
+        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
       },
       "artists": [
         {
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 97904,
-      "name": "one touch",
-      "url": "https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY"
+      "duration_ms": 137299,
+      "name": "I NEED THAT",
+      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
       "duration_ms": 109557,
       "name": "COPE",
       "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "one touch",
+        "url": "https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 97904,
+      "name": "one touch",
+      "url": "https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ppl go blush",
-        "url": "https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 73395,
-      "name": "ppl go blush",
-      "url": "https://open.spotify.com/track/1ch58lPqUtYxKgoehzJ0WY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "superposition",
         "url": "https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ppl go blush",
+        "url": "https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 73395,
+      "name": "ppl go blush",
+      "url": "https://open.spotify.com/track/1ch58lPqUtYxKgoehzJ0WY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DIRECTIONS",
         "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
       },
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 176000,
-      "name": "stagnant waters",
-      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
+      "duration_ms": 151500,
+      "name": "bumpin' tails",
+      "url": "https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "outcast (they all hate me)",
-        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
+        "name": "a little silly :3",
+        "url": "https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 182624,
-      "name": "outcast",
-      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
+      "duration_ms": 90463,
+      "name": "a little silly :3",
+      "url": "https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb"
     },
     {
       "added_at": null,
@@ -428,15 +428,15 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 151500,
-      "name": "bumpin' tails",
-      "url": "https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt"
+      "duration_ms": 176000,
+      "name": "stagnant waters",
+      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "a little silly :3",
-        "url": "https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK"
+        "name": "kd 2019-2022 sc songs (compilation)",
+        "url": "https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 90463,
-      "name": "a little silly :3",
-      "url": "https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb"
+      "duration_ms": 83226,
+      "name": "sweet friend",
+      "url": "https://open.spotify.com/track/3sXkmYUPdzoI6lHh8sc0oO"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
       "duration_ms": 159000,
       "name": "cursed2all4s",
       "url": "https://open.spotify.com/track/268Q8ZqFfUo3tGThTeEnbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "outcast (they all hate me)",
+        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "outcast",
+      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "intergalactic fractal",
-        "url": "https://open.spotify.com/album/2QyKIZdMkffelqWfcpvt37"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 71623,
-      "name": "intergalactic fractal",
-      "url": "https://open.spotify.com/track/5cWLlJafnB5ALhSUmS72mi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "im part of the PAWblem\u200b!\u200b!",
         "url": "https://open.spotify.com/album/660oyPv15JOys26fZXNdE7"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 100005,
       "name": "im part of the PAWblem\u200b!\u200b!",
       "url": "https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "intergalactic fractal",
+        "url": "https://open.spotify.com/album/2QyKIZdMkffelqWfcpvt37"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 71623,
+      "name": "intergalactic fractal",
+      "url": "https://open.spotify.com/track/5cWLlJafnB5ALhSUmS72mi"
     },
     {
       "added_at": null,
@@ -647,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "see into forever",
+        "url": "https://open.spotify.com/album/0r2ggV3LC7MVjH4a4fHFgP"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 114661,
+      "name": "see into forever",
+      "url": "https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in my heart",
         "url": "https://open.spotify.com/album/7sm8W3YCS0Mq5H06ArFOqx"
       },
@@ -667,22 +699,6 @@
       "duration_ms": 134126,
       "name": "in my heart",
       "url": "https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "see into forever",
-        "url": "https://open.spotify.com/album/0r2ggV3LC7MVjH4a4fHFgP"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 114661,
-      "name": "see into forever",
-      "url": "https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "kd 2019-2022 sc songs (compilation)",
-        "url": "https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 99148,
-      "name": "light show",
-      "url": "https://open.spotify.com/track/2ecNmSWMWHPuLoqEtmpI2e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can you take it?",
         "url": "https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8"
       },
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "pastpresentfuture + instrumentals",
-        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
+        "name": "butterfly in paradise !!",
+        "url": "https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6"
       },
       "artists": [
         {
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 143732,
-      "name": "Death At Your Expense",
-      "url": "https://open.spotify.com/track/6ukpi5r6LknK5r7Eftq83b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "transcendental",
-        "url": "https://open.spotify.com/album/5kQhZxQZESj4xLovR3AP72"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 114687,
-      "name": "transcendental",
-      "url": "https://open.spotify.com/track/29YcryRu1oJ5XjcZB0DMJG"
+      "duration_ms": 104651,
+      "name": "butterfly in paradise !!",
+      "url": "https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 73680,
       "name": "perfect to me",
       "url": "https://open.spotify.com/track/776WFFOiyQLwxFMwK9qmK9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "kd 2019-2022 sc songs (compilation)",
+        "url": "https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 99148,
+      "name": "light show",
+      "url": "https://open.spotify.com/track/2ecNmSWMWHPuLoqEtmpI2e"
     }
   ],
   "unique_name": "This Is Kittydog",

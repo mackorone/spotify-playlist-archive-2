@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159074,
+  "num_followers": 159068,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -255,30 +255,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Brisa Errada",
-        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DaluzzZ",
-          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "Brisa Errada",
-      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "A Casa \u00c9 Tua",
         "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
       },
@@ -303,8 +279,32 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "OCANV",
-        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/3DoNQvfS2tDXdrt0cpCmZX"
       },
       "artists": [
         {
@@ -312,17 +312,25 @@
           "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
         },
         {
-          "name": "Thiago Castanho",
-          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
         },
         {
-          "name": "Marc\u00e3o Britto",
-          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
+          "name": "Slaasty",
+          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
+        },
+        {
+          "name": "Valey",
+          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
+        },
+        {
+          "name": "Bymd.wav",
+          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
         }
       ],
-      "duration_ms": 225138,
-      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
+      "duration_ms": 160000,
+      "name": "444",
+      "url": "https://open.spotify.com/track/6vmLLWTn3AvJSZ4oSUXGPt"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -419,6 +427,30 @@
       "duration_ms": 133000,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "OCANV",
+        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Thiago Castanho",
+          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
+        },
+        {
+          "name": "Marc\u00e3o Britto",
+          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
+        }
+      ],
+      "duration_ms": 225138,
+      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -663,38 +695,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/3DoNQvfS2tDXdrt0cpCmZX"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "DJ JR No Beat",
-          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
-        },
-        {
-          "name": "Slaasty",
-          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
-        },
-        {
-          "name": "Valey",
-          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
-        },
-        {
-          "name": "Bymd.wav",
-          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "444",
-      "url": "https://open.spotify.com/track/6vmLLWTn3AvJSZ4oSUXGPt"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Primeira Vez (Studio Rec #8)",
         "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
       },
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
+        "name": "AIRBNB",
+        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "AIRBNB",
+      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
         "name": "Voos Internacionais, Vol. 2",
         "url": "https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 143721,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
-        "name": "AIRBNB",
-        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "AIRBNB",
-      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
         "name": "Minha Morena (Doce de Coco)",
         "url": "https://open.spotify.com/album/17RziSmih4wRjbWDFw4SiF"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 175201,
       "name": "Minha Morena (Doce de Coco)",
       "url": "https://open.spotify.com/track/1iVDGNYNyBezkmdfsLT95T"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Modo Avi\u00e3o",
         "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Comemorar?",
-        "url": "https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 190833,
-      "name": "Comemorar?",
-      "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Comemorar?",
+        "url": "https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 190833,
+      "name": "Comemorar?",
+      "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
     },
     {
       "added_at": "2026-02-13 15:20:30",

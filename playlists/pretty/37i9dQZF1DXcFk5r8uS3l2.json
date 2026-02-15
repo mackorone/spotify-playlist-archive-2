@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1066335,
+  "num_followers": 1066524,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -251,6 +267,22 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "Deep Stays Down",
+      "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -271,22 +303,6 @@
       "duration_ms": 180150,
       "name": "The Mule",
       "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "Deep Stays Down",
-      "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -351,22 +367,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "South Gotta Change",
         "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -419,22 +435,6 @@
       "duration_ms": 152824,
       "name": "Greyhound Bus Blues",
       "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
       },
@@ -527,6 +511,38 @@
       "duration_ms": 245838,
       "name": "You Hear Georgia",
       "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -567,22 +583,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Million Voices Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Back Where I Started",
-      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Sweet Southern Sounds",
         "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Million Voices Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Back Where I Started",
+      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 301395,
       "name": "Upside",
       "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -659,6 +659,22 @@
       "duration_ms": 402240,
       "name": "13 Years",
       "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "I\u2019m Done Runnin'",
-        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 185751,
-      "name": "I'm Done Runnin'",
-      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Mileage",
         "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Out of All the Stars",
-        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+        "name": "I\u2019m Done Runnin'",
+        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
       },
       "artists": [
         {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 239241,
-      "name": "Out of All the Stars",
-      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
+      "duration_ms": 185751,
+      "name": "I'm Done Runnin'",
+      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Out of All the Stars",
+        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Out of All the Stars",
+      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Make It All Work Out",
         "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 185133,
       "name": "Make It All Work Out",
       "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 170399,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
         }
       ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+      "duration_ms": 170399,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -875,18 +875,34 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
       },
       "artists": [
         {
-          "name": "Moose Miller",
-          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 251197,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+      },
+      "artists": [
+        {
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Madame President",
+      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -907,18 +923,38 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
       },
       "artists": [
         {
-          "name": "Grace Bowers & The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Madame President",
-      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
+      },
+      "artists": [
+        {
+          "name": "The Imaginaries",
+          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -951,26 +987,6 @@
       "duration_ms": 255573,
       "name": "I Could Just Die Right Now",
       "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
-      },
-      "artists": [
-        {
-          "name": "The Imaginaries",
-          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1139,6 +1155,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Days of Mellow",
+        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 154980,
+      "name": "Days of Mellow",
+      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
@@ -1171,18 +1203,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Days of Mellow",
-        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
       "artists": [
         {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 154980,
-      "name": "Days of Mellow",
-      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1211,26 +1247,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
       },
@@ -1243,6 +1259,38 @@
       "duration_ms": 323826,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Mortality Blues",
+        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 195490,
+      "name": "Mortality Blues",
+      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1263,18 +1311,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Mortality Blues",
-        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 195490,
-      "name": "Mortality Blues",
-      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1299,38 +1347,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Love On My Brain",
-        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 273121,
-      "name": "Love On My Brain",
-      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Devil That You Know",
         "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
       },
@@ -1343,6 +1359,22 @@
       "duration_ms": 198496,
       "name": "Devil That You Know",
       "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 347674,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1415,18 +1447,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
       },
       "artists": [
         {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
         }
       ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+      "duration_ms": 220970,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1447,18 +1479,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
       "artists": [
         {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
         }
       ],
-      "duration_ms": 220970,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1631,6 +1663,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU"
       },
@@ -1663,38 +1711,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Sorry You're Blue",
-        "url": "https://open.spotify.com/album/4c2fvHVg0Ogsd1HdbLhMG0"
-      },
-      "artists": [
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        }
-      ],
-      "duration_ms": 150194,
-      "name": "Sorry You're Blue",
-      "url": "https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Bad Spell (Acoustic)",
-        "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 194970,
-      "name": "Bad Spell - Acoustic",
-      "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
     }
   ],
   "unique_name": "Blues Roots",

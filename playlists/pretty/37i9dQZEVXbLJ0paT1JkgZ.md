@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,303 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,313 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 34 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 |
 | 35 | [Marbella](https://open.spotify.com/track/7piIoom78DuFKQARwLrWoe) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Tony El Golden Boy](https://open.spotify.com/artist/4wxWSbH2lE1GDEtaBvykBM), [Lamelodiadelhampa](https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr), [JhonAlex](https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI), [Germanini](https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR), [Renaglock](https://open.spotify.com/artist/14SlnqKt21OL7zHU6TGnJB), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [IGNACIO ON THE BEAT](https://open.spotify.com/artist/6toXJN7YZeYxC2ZNjFoDiG) | [Marbella](https://open.spotify.com/album/1SzHncQOuLZMkbehKORuAa) | 4:06 |
 | 36 | [Puñaladas](https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas](https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD) | 2:19 |
-| 37 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 37 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
 | 38 | [30 Mil Pies](https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [30 Mil Pies](https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU) | 3:07 |
 | 39 | [TU Y YO](https://open.spotify.com/track/2tZNPwTLefIc2hUasTohfB) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [TU Y YO](https://open.spotify.com/album/0zIVCVPhluii2owRVJn9Nm) | 2:35 |
 | 40 | [Destello...](https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:09 |
 | 50 | [Te Vas](https://open.spotify.com/track/5MjGl97aQlcBBvbYBHbXWv) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q), [Daimi](https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W) | [Te Vas](https://open.spotify.com/album/3KRctwAg6GnZEfLTtPPFa2) | 3:00 |
 
-Snapshot ID: `MSKKQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MSPeGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

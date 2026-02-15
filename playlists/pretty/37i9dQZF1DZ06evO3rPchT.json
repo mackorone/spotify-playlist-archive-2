@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 85201,
+  "num_followers": 85232,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABmdRYFrHDQkMXyKW3WKFMB",
+  "snapshot_id": "aY5pgAAAAABYektzuBGo/QzbD4heQq6x",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 238496,
-      "name": "Come Back As A Redneck (feat. HARDY)",
-      "url": "https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 238496,
+      "name": "Come Back As A Redneck (feat. HARDY)",
+      "url": "https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 161159,
+      "name": "ALL SHE LEFT WAS ME",
+      "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "s\u00f8n of dad (deluxe)",
         "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 272712,
       "name": "Father\u2019s S\u00f8n - Acoustic",
       "url": "https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 161159,
-      "name": "ALL SHE LEFT WAS ME",
-      "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
     },
     {
       "added_at": null,

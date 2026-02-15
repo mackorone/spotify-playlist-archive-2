@@ -12949,6 +12949,28 @@
     },
     {
       "album": {
+        "name": "Rags To Rufus",
+        "url": "https://open.spotify.com/album/127CLXCibn1ARC1CGExGav"
+      },
+      "artists": [
+        {
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262213,
+      "name": "Smokin' Room",
+      "url": "https://open.spotify.com/track/0b5mG38TIGgU0T7T1IYfiJ"
+    },
+    {
+      "album": {
         "name": "Gates of Heaven / Snake Eyes (again)",
         "url": "https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ"
       },
@@ -13556,6 +13578,24 @@
       "duration_ms": 190742,
       "name": "Still Feels Like Tears [Demo]",
       "url": "https://open.spotify.com/track/7oW1kR6WNzw0NRBmDFbdVj"
+    },
+    {
+      "album": {
+        "name": "1000 Variations on the Same Song",
+        "url": "https://open.spotify.com/album/0UUvgHaTGyQ27kM4eaJuN4"
+      },
+      "artists": [
+        {
+          "name": "Frog",
+          "url": "https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "STILLWELL THEME",
+      "url": "https://open.spotify.com/track/0NkQFp82glRfuu9YKbO8MT"
     },
     {
       "album": {

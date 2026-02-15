@@ -4,7 +4,7 @@
 
 > the final boss of house playlists\. \| minimal tech \- tech house \- rally house \- droid house \- club mix \- dj music \- workout music \- bass house
 
-2,436 songs - 5 day 17 hr 3 min
+2,437 songs - 5 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Changes](https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [The Complete Collection](https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE) | 5:04 | 2023-08-11 | 2023-08-26 |
 | [Cheap Thrills](https://open.spotify.com/track/1MFSuqSBKU0U8GsmXFPwm4) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Cheap Thrills](https://open.spotify.com/album/13HipGrp0IGY9gBMGwdLqb) | 3:37 | 2023-11-03 | 2023-11-10 |
 | [Check](https://open.spotify.com/track/5YTm0QynTEUvU24kuydZSF) | [Vincent Vaguer](https://open.spotify.com/artist/4Nsvg4aZ5qBGx3b3SgQrbx) | [Check](https://open.spotify.com/album/0f0ijgOOh2zwXvJwEDPKO9) | 3:43 | 2022-10-07 | 2022-10-15 |
+| [Check Up](https://open.spotify.com/track/429aPZch6lsUR0Jk9beOZI) | [Harry Collett](https://open.spotify.com/artist/1AdfIfCkBs03nAj2Muz7sG) | [Check Up](https://open.spotify.com/album/7ADmZqbwZRkn14ns7Jjd6F) | 3:12 | 2026-02-14 |  |
 | [Chicago](https://open.spotify.com/track/2kcnQbLV9sCt4emvnEfZxQ) | [Stephan Pokorny](https://open.spotify.com/artist/7ABfIl9NpixwiXuYfcA8se), [Sinan Kaya](https://open.spotify.com/artist/79n93umtw9cH0Z119MM6ML) | [Chicago](https://open.spotify.com/album/2PrGQPVgbykZzpnw5E86mO) | 6:42 | 2022-09-02 | 2022-09-10 |
 | [Chieftain](https://open.spotify.com/track/0Y3E1mOVneLRMBlAFpdSwN) | [Tombo](https://open.spotify.com/artist/0SsH1YtxJq7HTAsI7DIoqE) | [Chieftain](https://open.spotify.com/album/3G3DRL99lVdHzLxssu0k9y) | 2:47 | 2023-10-06 | 2023-10-14 |
 | [Choke \- Radio Edit](https://open.spotify.com/track/5pVP2pLHz3y7AddGioxUtn) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Choke](https://open.spotify.com/album/0PpYqXR9E2qCx4FSeWq596) | 3:33 | 2022-05-29 | 2022-06-04 |

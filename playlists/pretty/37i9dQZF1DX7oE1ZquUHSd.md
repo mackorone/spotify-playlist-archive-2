@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,955 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,027 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 50 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
 | 51 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 52 | [Invierno](https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:38 |
-| 53 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
-| 54 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
+| 53 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
+| 54 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
 | 55 | [El Tiempo Cura](https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH) | [El Tiempo Cura](https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0) | 3:28 |
 | 56 | [Dr\. Dedoverde \(Dr\. Greenthumb\) \- Spanish Version](https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:58 |
 | 57 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 62 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
 | 63 | [Por Amor al Odio \(Versión Jazz\)](https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg) | [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3), [Glaç](https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm) | [Donde Duele Inspira \(Versión Jazz\)](https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL) | 7:18 |
 | 64 | [Contra Todos](https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ) | [995](https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [995](https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5) | 5:19 |
-| 65 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
-| 66 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
+| 65 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
+| 66 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
 | 67 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
 | 68 | [Balance](https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:24 |
 | 69 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > Hoa xuân V\-Pop nở trên những khúc ca này\. Ảnh bìa: Hoàng Dũng
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,795 likes - 53 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,834 likes - 53 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

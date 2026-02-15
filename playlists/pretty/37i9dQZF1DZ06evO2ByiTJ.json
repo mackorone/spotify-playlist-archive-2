@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15690,
+  "num_followers": 15692,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADqBVf4lOtWUuNe/dt5amfT",
+  "snapshot_id": "aY5pgAAAAAB5IcVhwZsvlTzGeV6AP/rm",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ex\u00e9rcito de Deus",
+        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "Ex\u00e9rcito de Deus",
+      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ex\u00e9rcito de Deus",
-        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "Ex\u00e9rcito de Deus",
-      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Segredo Pra Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 258239,
+      "name": "O Segredo Pra Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muda o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 309150,
       "name": "Muda o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Segredo Pra Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "O Segredo Pra Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
     },
     {
       "added_at": null,
@@ -823,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+        "name": "Cumpra o Seu Chamado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
       "artists": [
+        {
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 247756,
-      "name": "O Melhor da Festa",
-      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
+      "duration_ms": 258670,
+      "name": "O Reino (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
     },
     {
       "added_at": null,
@@ -855,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumpra o Seu Chamado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
       },
       "artists": [
-        {
-          "name": "\u00c1lvaro Tito",
-          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
-        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 258670,
-      "name": "O Reino (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
+      "duration_ms": 247756,
+      "name": "O Melhor da Festa",
+      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ora Um Pouco Mais",
-        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 278517,
-      "name": "Ora Um Pouco Mais",
-      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Firme nas Promessas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 165653,
       "name": "Firme nas Promessas",
       "url": "https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ora Um Pouco Mais",
+        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 278517,
+      "name": "Ora Um Pouco Mais",
+      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
     }
   ],
   "unique_name": "This Is Elaine Martins",

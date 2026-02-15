@@ -4,7 +4,7 @@
 
 > sad beats\. deep vibes.
 
-87 songs - 5 hr 3 min
+88 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-08-25 | 2024-04-19 |
 | [Fading](https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf) | 4:27 | 2023-12-22 | 2024-04-19 |
 | [Felt A Little Like](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Felt A Little Like](https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1) | 3:37 | 2024-08-01 | 2025-03-03 |
+| [Fly Fly Fly](https://open.spotify.com/track/5jCiINCQpLYmJOrQLWJKea) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Drown In Darkness](https://open.spotify.com/album/3erxhaWVPRBTYsrPWmmmHw) | 3:13 | 2024-08-01 |  |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-08-25 |  |
 | [Ghostkeeper](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Ghostkeeper](https://open.spotify.com/album/0ZoNlJeutDZYpf1rSzGInO) | 5:31 | 2023-08-25 | 2024-04-19 |
 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2023-08-25 |  |
@@ -76,7 +77,7 @@
 | [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 | 2024-08-01 | 2026-01-02 |
 | [Shadows](https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:45 | 2023-08-25 |  |
 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-27 | 2023-11-11 |
-| [Sight Of You](https://open.spotify.com/track/2rw5o91jFj0YD8NzahuZYs) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Sight Of You](https://open.spotify.com/album/1yOhJSW1qqd1X1tvzKKsZn) | 4:11 | 2024-08-01 |  |
+| [Sight Of You](https://open.spotify.com/track/2rw5o91jFj0YD8NzahuZYs) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Sight Of You](https://open.spotify.com/album/1yOhJSW1qqd1X1tvzKKsZn) | 4:11 | 2024-08-01 | 2026-02-15 |
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2024-08-01 | 2025-05-21 |
 | [So Cold](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI) | [So Cold](https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW) | 3:10 | 2024-08-01 |  |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2023-08-25 | 2023-10-15 |

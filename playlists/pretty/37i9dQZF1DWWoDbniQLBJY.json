@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1813104,
+  "num_followers": 1812889,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 182373,
       "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Quer\u00e1monos lento",
-        "url": "https://open.spotify.com/album/4Hnnvyr62Z0q2ksKjqHO4z"
-      },
-      "artists": [
-        {
-          "name": "Manuel Lizarazo",
-          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
-        }
-      ],
-      "duration_ms": 139852,
-      "name": "Quer\u00e1monos lento",
-      "url": "https://open.spotify.com/track/2GZvRXUFYY1EMJTP4nnVhW"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Quer\u00e1monos lento",
+        "url": "https://open.spotify.com/album/4Hnnvyr62Z0q2ksKjqHO4z"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "duration_ms": 139852,
+      "name": "Quer\u00e1monos lento",
+      "url": "https://open.spotify.com/track/2GZvRXUFYY1EMJTP4nnVhW"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 255133,
       "name": "Mar\u00eda - Unplugged",
       "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
+      },
+      "artists": [
+        {
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 179501,
       "name": "Navegando",
       "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Solo M\u00eda",
-        "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 255669,
-      "name": "Solo M\u00eda",
-      "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "No Puedo Extra\u00f1arte",
         "url": "https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 192656,
       "name": "No Puedo Extra\u00f1arte",
       "url": "https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Solo M\u00eda",
+        "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 255669,
+      "name": "Solo M\u00eda",
+      "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Dimos Tanto",
         "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 189437,
       "name": "Dimos Tanto",
       "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2026-01-16 05:00:38",

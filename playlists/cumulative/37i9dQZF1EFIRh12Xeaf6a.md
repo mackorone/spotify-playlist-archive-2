@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-362 songs - 18 hr 22 min
+364 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 | 2023-12-30 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2023-12-30 |  |
 | [I Happen to Love You](https://open.spotify.com/track/5xXm5vwzXKIOdHt8fYXiBt) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [Underground](https://open.spotify.com/album/2mipvxkj3QDjpQjWaEdq7w) | 3:15 | 2023-12-30 |  |
-| [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 | 2023-12-30 |  |
+| [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 | 2023-12-30 | 2026-02-15 |
+| [I Need You](https://open.spotify.com/track/1I8CgNZDmGPX0kcBPkcOOl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/6FdtrfulrgcChnVtVyw4an) | 3:13 | 2026-02-14 |  |
 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 | 2023-12-30 |  |
 | [I Think It's Gonna Work out Fine \(with James Taylor\)](https://open.spotify.com/track/2cz5aUnfZpxK7Pp9D9vuew) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Get Closer](https://open.spotify.com/album/5WMzxTzHkHVXaleVFWNcfB) | 4:01 | 2023-12-30 |  |
 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 | 2023-12-30 |  |
@@ -245,7 +246,8 @@
 | [Really Rosie](https://open.spotify.com/track/4Af5QDykrTYYZ0uTPA6air) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:50 | 2025-05-31 |  |
 | [Ride the Music](https://open.spotify.com/track/2ksn4hYRvqgpS0GGr6LZJ8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:11 | 2023-12-30 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2025-11-22 |  |
-| [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 | 2023-12-30 |  |
+| [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 | 2023-12-30 | 2026-02-15 |
+| [Runaround Sue](https://open.spotify.com/track/7Jc7mgV9J5DzYPWycCFyqg) | [The Belmonts](https://open.spotify.com/artist/02oFrWT7l0AKMEnJI6iTIB), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dream, Dream!](https://open.spotify.com/album/0q8dM3iEHtaJ0j52vL4IZd) | 2:52 | 2026-02-14 |  |
 | [Sacred Heart of Stone](https://open.spotify.com/track/2PCAd74jNyJIc2HnOmR1M4) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 3:47 | 2025-01-09 | 2025-04-12 |
 | [Same Old Story](https://open.spotify.com/track/1NC4U3Q0PAZgpTeawDeB5P) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 4:49 | 2023-12-30 |  |
 | [Satisfied](https://open.spotify.com/track/4aAqN4Xzxd7UqG9KpTeVVI) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:54 | 2023-12-30 |  |

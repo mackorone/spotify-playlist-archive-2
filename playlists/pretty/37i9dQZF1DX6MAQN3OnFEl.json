@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 598080,
+  "num_followers": 598223,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "So Yesterday",
+      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 255360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "So Yesterday",
-      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
     },
     {
       "added_at": "2024-07-12 21:13:59",

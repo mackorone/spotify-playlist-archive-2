@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 287651,
+  "num_followers": 287689,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADoctx1NLavriOxt4q7Ol9E",
+  "snapshot_id": "aY5pgAAAAACxGa/yyiRmXq3OSL2cY4ih",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Starlite!",
-        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+        "name": "Flood / Glow",
+        "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
       },
       "artists": [
         {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
         },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 188336,
-      "name": "Friends (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
+      "duration_ms": 134413,
+      "name": "Glow (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/3Qy4hBI9YBIt3yNYPMXPn8"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 188336,
+      "name": "Friends (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flood / Glow",
-        "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 134413,
-      "name": "Glow (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/3Qy4hBI9YBIt3yNYPMXPn8"
     },
     {
       "added_at": null,

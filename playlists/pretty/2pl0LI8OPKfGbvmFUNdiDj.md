@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 570 likes - 54 songs - 3 hr 3 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 580 likes - 57 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 52 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 |
 | 53 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 |
 | 54 | [No More Heroes](https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr) | [Chris Corey](https://open.spotify.com/artist/4tGupj3nwiwHdv8hyHhJLZ) | [Midnight Forever](https://open.spotify.com/album/48WzX6lRKNkIVlScImDdGZ) | 3:07 |
+| 55 | [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 |
+| 56 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 |
+| 57 | [lovergirl](https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX) | [Taylor Contarino](https://open.spotify.com/artist/4sPdnfBqns9zDxWZPv7AhT) | [lovergirl](https://open.spotify.com/album/5hcolasUwTgiAJ4B7nAXs3) | 2:03 |
 
-Snapshot ID: `AAADBbyjQuUiS0lQMx9E3S6e3bqIFPVw`
+Snapshot ID: `AAADCCAGllpoNNg7t7MT5TeZvwJEeJOo`

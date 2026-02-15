@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,921 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,828 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 49 | [Ain't Nobody Making Me High](https://open.spotify.com/track/3MneCEeEwmHI6yG4EucrNI) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Shy Bairns Get Nowt](https://open.spotify.com/album/7pp7ITOUmw1nU7pKK21boY) | 3:18 |
 | 50 | [Name the Band](https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Name the Band](https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ) | 1:32 |
 
-Snapshot ID: `AAAAAHOPtMcyluWrsV5SH38GuWdqnkzy`
+Snapshot ID: `AAAAAN32t8yATlZW6KPQwjB/vxXbeIzR`

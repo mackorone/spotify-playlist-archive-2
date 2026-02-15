@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60218,
+  "num_followers": 60223,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
         "name": "Liekinheitin",
         "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 182055,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Rakkaudenkipee",
-        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "Rakkaudenkipee",
-      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
         "name": "Syd\u00e4n (feat. Alina Burnet)",
         "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 225061,
       "name": "Syd\u00e4n (feat. Alina Burnet)",
       "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Don't Click Play",
-        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 148932,
-      "name": "Don\u2019t Click Play",
-      "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
         "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
         "url": "https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 189000,
       "name": "PETSHOP",
       "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
+        "name": "Don't Click Play",
+        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 148932,
+      "name": "Don\u2019t Click Play",
+      "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1107,6 +1107,38 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
+        "name": "Kaiken arvoinen",
+        "url": "https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L"
+      },
+      "artists": [
+        {
+          "name": "Behm",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Kaiken arvoinen",
+      "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
       },
@@ -1143,38 +1175,6 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Kaiken arvoinen",
-        "url": "https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L"
-      },
-      "artists": [
-        {
-          "name": "Behm",
-          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Kaiken arvoinen",
-      "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
-      },
-      "artists": [
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
         "name": "Don't Leave (Kylie)",
         "url": "https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Toimitusjohtaja",
-        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        }
-      ],
-      "duration_ms": 165438,
-      "name": "Toimitusjohtaja",
-      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
         "name": "Pieni ikuisuus",
         "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 195080,
       "name": "Susta l\u00f6ysin kodin",
       "url": "https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
+        "name": "Toimitusjohtaja",
+        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "duration_ms": 165438,
+      "name": "Toimitusjohtaja",
+      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
+        "name": "WEB",
+        "url": "https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Tahdon",
+      "url": "https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
         "name": "Sua Ei Oo (WILLEM Remix)",
         "url": "https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 214960,
       "name": "Matkustaja (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
-        "name": "WEB",
-        "url": "https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y"
-      },
-      "artists": [
-        {
-          "name": "louna0nline",
-          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Tahdon",
-      "url": "https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae"
     }
   ],
   "unique_name": "Nousussa",

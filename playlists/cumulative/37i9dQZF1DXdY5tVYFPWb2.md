@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-949 songs - 2 day 14 hr 35 min
+950 songs - 2 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Eastern Railroad](https://open.spotify.com/track/1ePjUavUg94dF598YFLiwt) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW) | 3:54 | 2022-09-27 | 2022-10-05 |
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-02-14 |
 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2024-04-16 |  |
-| [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 | 2023-12-12 |  |
+| [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 | 2023-12-12 | 2026-02-15 |
 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 | 2022-05-24 |  |
 | [ENDLESS MIDNIGHT](https://open.spotify.com/track/5RvLMyK4ZWPT1ViAB52SqS) | [KAGAMI](https://open.spotify.com/artist/3WWBjOsF2LWEct6GxZHxRo), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [ENDLESS MIDNIGHT](https://open.spotify.com/album/5MzijyDz7CCT0y1aeJ4ehG) | 3:42 | 2025-03-25 | 2025-04-16 |
 | [ENJOY THE RIDE](https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy), [Neil and Iraiza](https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y), [ALL STARS](https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr) | [ENJOY THE RIDE](https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP) | 3:21 | 2024-01-09 | 2024-01-24 |
@@ -901,6 +901,7 @@
 | [煙たがられて feat\. 細野晴臣](https://open.spotify.com/track/2L48NZsLCdJUZDiqNMIwaK) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [7+](https://open.spotify.com/album/6zqCDu9CpRqAgR8J9ZFmHc) | 3:49 | 2022-06-28 | 2022-07-06 |
 | [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 | 2022-09-30 |
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-29 |
+| [物語](https://open.spotify.com/track/7K26FvD1eR5TBahHnrS4uA) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ジンジャー・キャット・アプリシエーション](https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci) | 7:21 | 2026-02-03 |  |
 | [琥珀色の素肌](https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ) | 3:25 | 2024-04-16 |  |
 | [琥珀色の街、上海蟹の朝](https://open.spotify.com/track/2A0zCiphI5e6Vxat20qyEv) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [琥珀色の街、上海蟹の朝](https://open.spotify.com/album/5YQJ6lpTgJQI77JfnqEWSK) | 5:17 | 2023-11-10 |  |
 | [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 | 2023-01-21 |

@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "My Own World",
+        "url": "https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m"
+      },
+      "artists": [
+        {
+          "name": "Impulse Bangs",
+          "url": "https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230253,
+      "name": "My Own World",
+      "url": "https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC"
+    },
+    {
+      "album": {
         "name": "Nie wieder denken",
         "url": "https://open.spotify.com/album/31WtAgZUTznoy3qd5FbyIo"
       },
@@ -2182,6 +2200,24 @@
       "duration_ms": 179299,
       "name": "SATISFIED",
       "url": "https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg"
+    },
+    {
+      "album": {
+        "name": "Raw And Older",
+        "url": "https://open.spotify.com/album/0FStAceqeIATLvl6egELud"
+      },
+      "artists": [
+        {
+          "name": "Jules Martinez",
+          "url": "https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192125,
+      "name": "Semi-Virgin",
+      "url": "https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo"
     },
     {
       "album": {
@@ -2766,6 +2802,24 @@
       "duration_ms": 158000,
       "name": "U Cut Ur Hair",
       "url": "https://open.spotify.com/track/7qDR32mmli6Ix41rsujmbZ"
+    },
+    {
+      "album": {
+        "name": "Velvet Afterglow",
+        "url": "https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ"
+      },
+      "artists": [
+        {
+          "name": "The Drixes",
+          "url": "https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "Velvet Afterglow",
+      "url": "https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79"
     },
     {
       "album": {

@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 170501,
       "name": "Big Boy Blues",
       "url": "https://open.spotify.com/track/5JeFDCfyd6QvlKVFvws7oi"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 168763,
       "name": "Honey Where You Been So Long",
       "url": "https://open.spotify.com/track/6BzU24Sabe64hspKCx7hUk"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 172892,
       "name": "Lawd Send Me A Blues",
       "url": "https://open.spotify.com/track/6enaVlwavWEg1L2pwYUVbS"
@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Mother Of The Blues",
+        "url": "https://open.spotify.com/album/6gTpXx9iZ5Zc4ZlY6qvhFR"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173557,
+      "name": "Oh Papa Blues",
+      "url": "https://open.spotify.com/track/5DVTpL55E5x1qERTuf2U51"
+    },
+    {
+      "album": {
         "name": "First of the Great Blues Singers",
         "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
       },
@@ -4082,7 +4100,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 174846,
       "name": "Southern Blues",
       "url": "https://open.spotify.com/track/5zeFs3tJsUxWYrDE4GcLOC"
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 175726,
       "name": "Stack O'Lee Blues",
       "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 182465,
       "name": "Yonder Come The Blues",
       "url": "https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 558 likes - 246 songs - 16 hr 35 min
+[codym2011](https://open.spotify.com/user/codym2011) - 557 likes - 246 songs - 16 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

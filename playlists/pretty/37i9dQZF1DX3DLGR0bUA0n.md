@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,888 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,948 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 50 | [El Camionero](https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc) | [Los Kapsi](https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna) | [Camionero](https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP) | 3:49 |
 | 51 | [Lo Que Empieza Acaba](https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Gracias a la Vida](https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW) | 2:24 |
 | 52 | [Las Joyas De Mi Vida](https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Exitos de La Nobleza de Aguililla](https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h) | 4:07 |
-| 53 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 |
-| 54 | [La Ultima Copa](https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Inspirados por Ti](https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb) | 4:16 |
+| 53 | [La Ultima Copa](https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Inspirados por Ti](https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb) | 4:16 |
+| 54 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 |
 | 55 | [Cuanto Te Quiero](https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 2:43 |
 | 56 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 |
 | 57 | [Me Va a Extrañar](https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Solo para Ti](https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X) | 2:37 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 67 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
 | 68 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
 | 69 | [Me Gustas Mucho](https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu) | [La Victoria De Mexico](https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0) | [Exitos de La Victoria de Mexico: Volume 1](https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf) | 2:49 |
-| 70 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
-| 71 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
+| 70 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
+| 71 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
 | 72 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
 | 73 | [Mi Ranchito](https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 2:38 |
 | 74 | [30 Cartas](https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Para Que Vuelves](https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY) | 2:12 |

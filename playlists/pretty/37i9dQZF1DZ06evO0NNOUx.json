@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 184189,
+  "num_followers": 184335,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACge+7Pc6CSFFfR2GXIG43w",
+  "snapshot_id": "aY5pgAAAAABHL9YKWRmGwE7CINHaoh33",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 198082,
-      "name": "YOUR WAY'S BETTER",
-      "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THANKFUL",
         "url": "https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 136458,
       "name": "THANKFUL",
       "url": "https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 198082,
+      "name": "YOUR WAY'S BETTER",
+      "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
     },
     {
       "added_at": null,

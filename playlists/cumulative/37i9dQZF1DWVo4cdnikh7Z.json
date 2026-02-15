@@ -20238,10 +20238,6 @@
           "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
         },
         {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
           "name": "Sabarivasan Shanmugam",
           "url": "https://open.spotify.com/artist/6XVwZo1LF9Mrm2gyJcYoqx"
         }
@@ -27174,7 +27170,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 193821,
       "name": "Masth Malaika (From \"Mark\") (Tamil)",
       "url": "https://open.spotify.com/track/7m0D8Vv1Fac0I6rKSvBwvL"
@@ -51751,6 +51747,32 @@
     },
     {
       "album": {
+        "name": "Vaan Vaan (From \"Idhayam Murali\")",
+        "url": "https://open.spotify.com/album/4pgdlmDeJNfuDsc8quKbNQ"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277439,
+      "name": "Vaan Vaan - From \"Idhayam Murali\"",
+      "url": "https://open.spotify.com/track/5N2Z9rGyhSfUgTQ1eI3lPT"
+    },
+    {
+      "album": {
         "name": "Viruman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Rwd1j6rdOs7M9PLCkqcOi"
       },
@@ -52834,7 +52856,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 130800,
       "name": "Vazhi Piranthathey",
       "url": "https://open.spotify.com/track/1Y5oTaSk3GIKnljkh2P9Cx"

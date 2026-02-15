@@ -1,6 +1,6 @@
 {
   "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Kehlani",
-  "num_followers": 1035,
+  "num_followers": 1079,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1921,22 +1921,6 @@
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Heart Of A Woman",
-        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
-    },
-    {
       "added_at": "2025-04-11 05:23:17",
       "album": {
         "name": "Bout U",
@@ -1951,6 +1935,22 @@
       "duration_ms": 163481,
       "name": "Bout U",
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2001,22 +2001,6 @@
       "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
     },
     {
-      "added_at": "2025-11-14 11:13:06",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "FMT",
-      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Love Me JeJe",
@@ -2031,6 +2015,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2025-11-14 11:13:06",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "FMT",
+      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
       "added_at": "2025-05-30 04:19:50",
@@ -2309,22 +2309,6 @@
       "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
     },
     {
-      "added_at": "2025-10-03 04:48:40",
-      "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Crush (feat. Jorja Smith)",
@@ -2343,6 +2327,22 @@
       "duration_ms": 198082,
       "name": "Crush (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a"
+    },
+    {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2625,22 +2625,6 @@
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Baddest In The Room",
-        "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 158338,
-      "name": "Baddest In The Room",
-      "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
-    },
-    {
       "added_at": "2025-09-19 05:34:59",
       "album": {
         "name": "AM I THE DRAMA?",
@@ -2659,6 +2643,22 @@
       "duration_ms": 207400,
       "name": "Shower Tears (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Baddest In The Room",
+        "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 158338,
+      "name": "Baddest In The Room",
+      "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
     },
     {
       "added_at": "2025-10-17 05:35:16",
@@ -2717,20 +2717,24 @@
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
-      "added_at": "2025-11-21 10:48:08",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB"
+        "name": "Wake Up (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Skylar Blatt",
+          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 178846,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs"
+      "duration_ms": 173440,
+      "name": "Wake Up (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
     }
   ],
   "unique_name": "Channel-X",

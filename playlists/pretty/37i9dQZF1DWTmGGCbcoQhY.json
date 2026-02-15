@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1393185,
+  "num_followers": 1393285,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 268460,
-      "name": "La Mu\u00f1equita Fea",
-      "url": "https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI"
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 236518,
-      "name": "El Angel Del Amor",
-      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
+      "duration_ms": 268460,
+      "name": "La Mu\u00f1equita Fea",
+      "url": "https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Ya No Est\u00e0s Aqu\u00ec",
-        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
-        }
-      ],
-      "duration_ms": 262861,
-      "name": "Ya No Est\u00e0s Aqu\u00ec",
-      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Black Power",
         "url": "https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 267551,
       "name": "Ya No Me Perteneces",
       "url": "https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Ya No Est\u00e0s Aqu\u00ec",
+        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "duration_ms": 262861,
+      "name": "Ya No Est\u00e0s Aqu\u00ec",
+      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Amor T\u00f3xico",
-        "url": "https://open.spotify.com/album/48VIofynPJH1FbLciAyn5f"
-      },
-      "artists": [
-        {
-          "name": "Grupo K-L",
-          "url": "https://open.spotify.com/artist/6AZdWAXJzixK1BEq50ULbi"
-        }
-      ],
-      "duration_ms": 260928,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Triste y Vac\u00eda",
         "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 194506,
       "name": "El Viejo Panz\u00f3n",
       "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Amor T\u00f3xico",
+        "url": "https://open.spotify.com/album/48VIofynPJH1FbLciAyn5f"
+      },
+      "artists": [
+        {
+          "name": "Grupo K-L",
+          "url": "https://open.spotify.com/artist/6AZdWAXJzixK1BEq50ULbi"
+        }
+      ],
+      "duration_ms": 260928,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 352480,
       "name": "El Reo Ausente",
       "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "Pobre Corazon",
-      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
         "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 366503,
       "name": "Pa' La Paloma",
       "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Pobre Corazon",
+      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 244924,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 280826,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213744,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213744,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Del Barrio Para El Barrio (Vol. 1)",
         "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 199653,
       "name": "Enbrujo De Cumbia",
       "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 244924,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Los Reyes de la Cumbia",
+        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Rumba Cha Cha",
+      "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Talentos Ocultos, Vol. 1",
         "url": "https://open.spotify.com/album/4DPoeHldPyrqyhlVHdC4K4"
       },
@@ -1987,6 +2003,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Ea Ea La Cumbia Buena",
+        "url": "https://open.spotify.com/album/3rJDCQyJydiROr7TWP4Qvz"
+      },
+      "artists": [
+        {
+          "name": "Mister Cumbia",
+          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
+        }
+      ],
+      "duration_ms": 193366,
+      "name": "Ea Ea La Cumbia Buena",
+      "url": "https://open.spotify.com/track/0IbvznAfkM5itFW2fX6NdY"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Con Musica Del Barrio y Para El Barrio",
         "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
       },
@@ -1999,22 +2031,6 @@
       "duration_ms": 254253,
       "name": "El Baile De San Juan",
       "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
-        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Un Poblano en New York",
-      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -2035,38 +2051,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX"
+        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
+        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
       },
       "artists": [
         {
-          "name": "Efr\u00e9n David",
-          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "duration_ms": 271786,
-      "name": "Abandonado",
-      "url": "https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Tonto Carino",
-        "url": "https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        },
-        {
-          "name": "Janeth Guadalupe",
-          "url": "https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido (feat. Janeth Guadalupe)",
-      "url": "https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN"
+      "duration_ms": 188813,
+      "name": "Un Poblano en New York",
+      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
     }
   ],
   "unique_name": "Cumbia Sonidera",

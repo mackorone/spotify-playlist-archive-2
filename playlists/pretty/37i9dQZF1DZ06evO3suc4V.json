@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10236,
+  "num_followers": 10245,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAB1CIZBt9kvKxr87GzKOFW+",
+  "snapshot_id": "aY5pgAAAAACcwRnAohigs0gMvg1vO7tp",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 224933,
-      "name": "Where I'm From (feat. Mereba)",
-      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+      "duration_ms": 132925,
+      "name": "Romeo + Ravyn Lenae",
+      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
     },
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 132925,
-      "name": "Romeo + Ravyn Lenae",
-      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 233077,
       "name": "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Where I'm From (feat. Mereba)",
+      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blkswn",
         "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 188209,
       "name": "Glass Flows",
       "url": "https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
     },
     {
       "added_at": null,
@@ -394,15 +394,11 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 219051,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM"
+      "duration_ms": 205773,
+      "name": "From Scratch",
+      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
     },
     {
       "added_at": null,
@@ -611,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Room 25",
+        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163616,
+      "name": "Montego Bae",
+      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Crossroads",
         "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
       },
@@ -631,26 +647,6 @@
       "duration_ms": 212386,
       "name": "Don\u2019t Walk Away (feat. Jordan Ward & Ravyn Lenae)",
       "url": "https://open.spotify.com/track/2kxrJsFXKCUB3em2TWLG5c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Room 25",
-        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163616,
-      "name": "Montego Bae",
-      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
     },
     {
       "added_at": null,
@@ -839,6 +835,26 @@
       "duration_ms": 184839,
       "name": "Genesis - EP Version",
       "url": "https://open.spotify.com/track/1z8VQNzZ8mETuKjW1szX1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
     },
     {
       "added_at": null,

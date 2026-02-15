@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549 likes - 128 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 550 likes - 128 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 86 | [Honest With You](https://open.spotify.com/track/5lpueZOrw3vAJEKamjLXyG) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [YOU](https://open.spotify.com/album/5Eh8ODdlIAB91UYfgNUgFi) | 3:17 |
 | 87 | [Little White Lie](https://open.spotify.com/track/2W9nB27fIUYTXxH8m6hgd0) | [Filipa](https://open.spotify.com/artist/0qLIVG05oC1d125MrkKZk7) | [Little White Lie](https://open.spotify.com/album/6ZHdsxehEzq0ByQoEyavkr) | 3:24 |
 | 88 | [Cue](https://open.spotify.com/track/5iY2r5hGgMmbj1jD5U13Kk) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 3:34 |
-| 89 | [Trouble](https://open.spotify.com/track/6kLIm0hPEkybzAmAihr7Sh) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:09 |
-| 90 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 |
-| 91 | [The End](https://open.spotify.com/track/5gXpFC2Xn01QKEL8lIUWfg) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:38 |
-| 92 | [Lipstick](https://open.spotify.com/track/3wV8jVrLMcBniRIc1Rr2dQ) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:16 |
+| 89 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 |
+| 90 | [Trouble](https://open.spotify.com/track/6kLIm0hPEkybzAmAihr7Sh) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:09 |
+| 91 | [Lipstick](https://open.spotify.com/track/3wV8jVrLMcBniRIc1Rr2dQ) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:16 |
+| 92 | [The End](https://open.spotify.com/track/5gXpFC2Xn01QKEL8lIUWfg) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:38 |
 | 93 | [Let's get married](https://open.spotify.com/track/7bp8Hrl65fhUKiyoAfR5WA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:41 |
 | 94 | [someone's gotta be the last](https://open.spotify.com/track/3cpY2r6QYGqnG2ncZ1CwvU) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:00 |
 | 95 | [So Not Sober](https://open.spotify.com/track/2RVChbMVi7Q0CKFnKSTGMr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over \(It's Really Really Really Over Edition\)](https://open.spotify.com/album/60MSlGTw8G4KR2l05F3t7P) | 2:38 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 127 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcJl9AAAAAAYCciLexcFuD01/urA2sh5`
+Snapshot ID: `AcJrdgAAAADP0tkqHZoGl6FvU9NygQxy`

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A Story (UN)Told",
+        "url": "https://open.spotify.com/album/56gzfHPWmqfYYbj1ISkyqu"
+      },
+      "artists": [
+        {
+          "name": "Ursula",
+          "url": "https://open.spotify.com/artist/6BzI2DqZsIoTl1QseaCbjt"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208506,
+      "name": "(UN)Lucky",
+      "url": "https://open.spotify.com/track/4UdgTLn1uzI06iLUVF0kDS"
+    },
+    {
+      "album": {
         "name": "1000 Years Too Deep (Silence Mix)",
         "url": "https://open.spotify.com/album/1844iAEmvuUF7vYMaV1RuJ"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 220000,
       "name": "6 Foot Flea",
       "url": "https://open.spotify.com/track/0yP2Ek6XPKrMRLtCOguabq"
@@ -573,6 +591,28 @@
     },
     {
       "album": {
+        "name": "Hard Nox",
+        "url": "https://open.spotify.com/album/4JybRyiDHW5y5fEuGGCMRw"
+      },
+      "artists": [
+        {
+          "name": "Nox Arcana",
+          "url": "https://open.spotify.com/artist/2vmxXfIAWKLWbN1yGgHdou"
+        },
+        {
+          "name": "Meghan Walsh",
+          "url": "https://open.spotify.com/artist/0GBC4keKQSlg27S8OkNMou"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230219,
+      "name": "Beyond The Crimson Gate",
+      "url": "https://open.spotify.com/track/7D4StgNTM7UVTXXZR7MqmH"
+    },
+    {
+      "album": {
         "name": "When I Die",
         "url": "https://open.spotify.com/album/6KnUQkIUSSoAjUJG2Q7VsZ"
       },
@@ -602,7 +642,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 317997,
       "name": "Blast",
       "url": "https://open.spotify.com/track/6CiJ6Qx5lFZDbd0o8JCziN"
@@ -956,7 +996,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -1158,7 +1198,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 231226,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/4TDhqAaT6t6RFgFykF4u6h"
@@ -1375,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Dark Lovers",
+        "url": "https://open.spotify.com/album/3IaFQAcGKzrtrbjx7PLf0U"
+      },
+      "artists": [
+        {
+          "name": "Hex Formes",
+          "url": "https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM"
+        },
+        {
+          "name": "Nekomata Shadow",
+          "url": "https://open.spotify.com/artist/3z82q1A3eiHL7kW9owK3t9"
+        },
+        {
+          "name": "Scott Baker Graham",
+          "url": "https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Dark Lovers",
+      "url": "https://open.spotify.com/track/5rkn70pnzuzxsh764uayEx"
+    },
+    {
+      "album": {
         "name": "DC*",
         "url": "https://open.spotify.com/album/2Wp2cL6lXphdIB33IUHEK3"
       },
@@ -1422,7 +1488,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1520,7 +1586,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 162229,
       "name": "Dissemination",
       "url": "https://open.spotify.com/track/0f0Zj1ePtbUZ1QzZXeCulF"
@@ -1686,7 +1752,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 277626,
       "name": "Encouragement",
       "url": "https://open.spotify.com/track/4xnUGPmXaszCcVEIAWrdyC"
@@ -2036,7 +2102,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -2192,7 +2258,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -2442,7 +2508,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
@@ -2478,7 +2544,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 136000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6yxiMSrPbysUBvl3EKeww3"
@@ -2604,7 +2670,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 213250,
       "name": "Holy Gasoline - Edit",
       "url": "https://open.spotify.com/track/49bFx42WNt6Cha7VpwdqQQ"
@@ -2716,7 +2782,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -3022,7 +3088,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -3622,7 +3688,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 216697,
       "name": "Light Dust",
       "url": "https://open.spotify.com/track/25yGvrrEFaaGbg68W9fQAg"
@@ -3712,7 +3778,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 238250,
       "name": "Lovers of Evil",
       "url": "https://open.spotify.com/track/0N51Zo2VvTHyewvhIYjJd9"
@@ -4102,6 +4168,24 @@
       "duration_ms": 375000,
       "name": "MTHRFCKRS",
       "url": "https://open.spotify.com/track/76zqr2VewgO6cx5Pk5scph"
+    },
+    {
+      "album": {
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/4nwoo4IN5sxn3fuuYSMbRg"
+      },
+      "artists": [
+        {
+          "name": "Blake Harley",
+          "url": "https://open.spotify.com/artist/0QLKEJIWFE4TSLUUHskwwB"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162721,
+      "name": "My Love Is Loud",
+      "url": "https://open.spotify.com/track/504yptHqsQbUgY1o4KeHX8"
     },
     {
       "album": {
@@ -4644,7 +4728,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 224286,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/3YU1NPe6y6Z5BgWG1fwa0d"
@@ -5078,7 +5162,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -5288,7 +5372,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 185227,
       "name": "Shadows Across The South",
       "url": "https://open.spotify.com/track/56pes0DLQlEbp95SgFapku"
@@ -5422,6 +5506,24 @@
       "duration_ms": 141000,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
+    },
+    {
+      "album": {
+        "name": "Made In Oxford",
+        "url": "https://open.spotify.com/album/0qWsC0lAxeyN3x68Ymj1Ej"
+      },
+      "artists": [
+        {
+          "name": "Cowleyfornia",
+          "url": "https://open.spotify.com/artist/3pRAXmSDGzux7o7nz20nlu"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Slipping away",
+      "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
     },
     {
       "album": {
@@ -5838,7 +5940,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 378375,
       "name": "Succubus",
       "url": "https://open.spotify.com/track/5fJQ6sOlhFSGr3k3Rb3B0g"
@@ -6045,6 +6147,24 @@
     },
     {
       "album": {
+        "name": "Death Knocks",
+        "url": "https://open.spotify.com/album/7JAjGDhVAW3pcoHsTehLLZ"
+      },
+      "artists": [
+        {
+          "name": "Hoaxed",
+          "url": "https://open.spotify.com/artist/6Qp3V8BMdQRvQg696Ih863"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255599,
+      "name": "The Fallen",
+      "url": "https://open.spotify.com/track/5XzwgoKqb8CiBCIkVDQdWa"
+    },
+    {
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/1GJuzASfrQDIyGtS4qzv0F"
       },
@@ -6056,7 +6176,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/1r397D1b7MXO1hc08kaQD1"
@@ -6164,7 +6284,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -6204,7 +6324,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 219648,
       "name": "The Spell",
       "url": "https://open.spotify.com/track/52Ewu34tEpgvra33JFbsRR"
@@ -6240,7 +6360,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 223304,
       "name": "The Way You",
       "url": "https://open.spotify.com/track/4j1mLsjmWrbnly8yjrezjj"
@@ -6312,7 +6432,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 148308,
       "name": "The Wound",
       "url": "https://open.spotify.com/track/2oQI5FjSc63MnvdcW2UlXy"
@@ -6803,6 +6923,28 @@
     },
     {
       "album": {
+        "name": "Victim of God Remixes",
+        "url": "https://open.spotify.com/album/6umJD7p3oJtqoTlkdF3bQu"
+      },
+      "artists": [
+        {
+          "name": "Patriarchy",
+          "url": "https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki"
+        },
+        {
+          "name": "Monomorte",
+          "url": "https://open.spotify.com/artist/6lJoF3c7vHq5UWPioh5J7Y"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253127,
+      "name": "Victim Of God - Monomorte Remix",
+      "url": "https://open.spotify.com/track/0oLRZNdA4vyNqlLIrssLcF"
+    },
+    {
+      "album": {
         "name": "Cut To The Core (Vol. 2)",
         "url": "https://open.spotify.com/album/6j2Z6agLjQqtafbgujg1cf"
       },
@@ -7082,7 +7224,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -7266,7 +7408,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 148558,
       "name": "You Look So Alive",
       "url": "https://open.spotify.com/track/3gMDGYhdq1W4SBUfM7QEj1"

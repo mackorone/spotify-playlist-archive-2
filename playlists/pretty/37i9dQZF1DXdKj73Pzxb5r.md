@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Alahad
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,301 likes - 86 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,305 likes - 86 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

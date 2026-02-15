@@ -6925,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "Check Up",
+        "url": "https://open.spotify.com/album/7ADmZqbwZRkn14ns7Jjd6F"
+      },
+      "artists": [
+        {
+          "name": "Harry Collett",
+          "url": "https://open.spotify.com/artist/1AdfIfCkBs03nAj2Muz7sG"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192992,
+      "name": "Check Up",
+      "url": "https://open.spotify.com/track/429aPZch6lsUR0Jk9beOZI"
+    },
+    {
+      "album": {
         "name": "Chicago",
         "url": "https://open.spotify.com/album/2PrGQPVgbykZzpnw5E86mO"
       },

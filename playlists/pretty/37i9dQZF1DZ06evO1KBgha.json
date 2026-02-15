@@ -1,29 +1,13 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 373920,
+  "num_followers": 373938,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACtlUdOpTVGVHQ8qFSkMEKH",
+  "snapshot_id": "aY5pgAAAAACuwiM/+fSIiOEI+7+lvoXB",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belladona",
-        "url": "https://open.spotify.com/album/16ZpanWKTqPtQrkuUTroyB"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 212674,
-      "name": "Belladona",
-      "url": "https://open.spotify.com/track/065QdMHr2KoPSxtcli0fGC"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 182129,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belladona",
+        "url": "https://open.spotify.com/album/16ZpanWKTqPtQrkuUTroyB"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 212674,
+      "name": "Belladona",
+      "url": "https://open.spotify.com/track/065QdMHr2KoPSxtcli0fGC"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+        "name": "T\u00fa y Yo X Siempre",
+        "url": "https://open.spotify.com/album/1pa5BFb6W8qJRukSRku5bg"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 141631,
-      "name": "Tu Peor Pesadilla",
-      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
+      "duration_ms": 184449,
+      "name": "T\u00fa y Yo X Siempre",
+      "url": "https://open.spotify.com/track/0tRu6JVcrxamSl49SbOVe1"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 163403,
       "name": "Cambios",
       "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 141631,
+      "name": "Tu Peor Pesadilla",
+      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 148149,
-      "name": "Fue Lindo",
-      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambios de Luna",
         "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 184864,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 148149,
+      "name": "Fue Lindo",
+      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
     },
     {
       "added_at": null,
@@ -887,30 +903,6 @@
       "duration_ms": 182155,
       "name": "SAN TURRONA REMIX",
       "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toketeo",
-        "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Toketeo",
-      "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
     }
   ],
   "unique_name": "This Is Kenia Os",

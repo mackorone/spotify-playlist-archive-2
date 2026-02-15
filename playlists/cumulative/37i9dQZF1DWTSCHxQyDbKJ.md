@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Arlo Parks
 
-276 songs - 15 hr 13 min
+277 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2024-06-10 | 2024-09-10 |
 | [Dudu](https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Dudu](https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB) | 3:06 | 2025-07-07 |  |
 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 | 2024-06-10 | 2026-02-11 |
-| [Eden](https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g) | [Eden](https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe) | 2:51 | 2026-02-10 |  |
+| [Eden](https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g) | [Eden](https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe) | 2:51 | 2026-02-10 | 2026-02-15 |
 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-12-04 | 2025-02-11 |
 | [Empire](https://open.spotify.com/track/3hHlgSx6ezhonHwGyFcH3S) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Empire](https://open.spotify.com/album/5oS0HZVqZCNhoTV3yxNfpU) | 3:05 | 2024-06-10 | 2024-08-13 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2024-06-10 | 2026-02-11 |
@@ -239,6 +239,7 @@
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2024-06-10 | 2026-02-11 |
 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 | 2024-09-09 |  |
 | [Socks](https://open.spotify.com/track/69FRVk4lu4N60KiVvtTBb1) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Socks](https://open.spotify.com/album/08QYFEvpcrYZLSTn5yZqEr) | 3:45 | 2024-06-10 | 2024-07-04 |
+| [Somewhere](https://open.spotify.com/track/52Z7EBRzdQuU6kxhVT9LZp) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Somewhere](https://open.spotify.com/album/3j2Arsso32JifElbA1Vdk4) | 2:13 | 2026-02-10 |  |
 | [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 | 2025-04-07 |  |
 | [STRAP!](https://open.spotify.com/track/2qkf8hc9iDQPtJrin3CPiN) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [STRAP!](https://open.spotify.com/album/2tWnNwQCgwpDgVwuN9coKs) | 1:58 | 2024-06-10 | 2024-10-04 |
 | [STRAP!](https://open.spotify.com/track/1ADao6bcWmASlYzOBOb05x) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Gelatinous Man](https://open.spotify.com/album/5tgtsCwTYoffBARqhQtjzy) | 1:59 | 2024-12-04 | 2025-01-14 |

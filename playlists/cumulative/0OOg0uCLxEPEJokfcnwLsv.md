@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-305 songs - 18 hr 57 min
+310 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,11 +102,13 @@
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2026-01-07 | 2026-02-02 |
 | [Estrellas](https://open.spotify.com/track/1u6yb30nxGeF32KRImj1Hz) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:29 | 2026-01-11 | 2026-02-04 |
 | [Estupideces](https://open.spotify.com/track/5dzpZRtR52Pqxeg5PZtfpI) | [Croupiers](https://open.spotify.com/artist/3R0Fcr1lCsQy3W18te2HcB) | [Si Vieras Lo Rápido Que Pierdo La Elegancia](https://open.spotify.com/album/0aRngY5uGhtLEP9D4BwGAL) | 3:36 | 2026-02-07 |  |
+| [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 |  |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 | 2026-01-05 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-13 | 2026-01-05 |
 | [FLOWER CHILD](https://open.spotify.com/track/0PYoxGNSQo2kMZWwSE8lcH) | [Krista Hartman](https://open.spotify.com/artist/0kwEEdnKa1I4oELZFRA6kN) | [Transcend](https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu) | 4:22 | 2026-01-31 |  |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 | 2025-12-12 |
 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2025-12-16 | 2026-01-05 |
+| [Forever And Ever](https://open.spotify.com/track/6FkZz1WwonBHvyu6ytNIux) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Forever And Ever](https://open.spotify.com/album/1Uu9MJvs7qF8meXMwCLPUk) | 4:06 | 2026-02-14 |  |
 | [Forevermore](https://open.spotify.com/track/3KRoY2UGaqPYjCAE1s0VZ4) | [Emsea](https://open.spotify.com/artist/0kL5zjWSBa6fTL1clT465u) | [Forevermore](https://open.spotify.com/album/2kBRZdj6vBhuuG1gvl93W0) | 2:42 | 2026-02-07 |  |
 | [Furniture](https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Furniture](https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq) | 4:07 | 2025-12-30 | 2026-02-04 |
 | [Geister](https://open.spotify.com/track/2tT3k5a3U87GPpKgbWptRT) | [Elektrosauna](https://open.spotify.com/artist/031hMoHlvGjXfQusuM62pi) | [Geister](https://open.spotify.com/album/4lgWWLPTSCyNn6zS73Y5KX) | 6:10 | 2026-01-11 | 2026-02-04 |
@@ -127,6 +129,7 @@
 | [Hero of My Life](https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Hero of My Life](https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR) | 5:24 | 2026-01-10 | 2026-02-02 |
 | [Hold On](https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Hold On](https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj) | 2:38 | 2026-02-09 |  |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 |  |
+| [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-02-14 |  |
 | [Hypernormal](https://open.spotify.com/track/1ACaEDG5jQ8KfvKTUKjEu5) | [Dead Broke](https://open.spotify.com/artist/5pAHHsGlcYhq7bUJNvjKsu) | [Hypernormal](https://open.spotify.com/album/1uwOBbr56z90M0sxbWYr6M) | 3:17 | 2025-12-12 | 2026-01-05 |
 | [I Am Flawed](https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [I Am Flawed](https://open.spotify.com/album/20ZRfSRKjTMNCYtRXmWI36) | 3:16 | 2025-12-07 | 2025-12-28 |
 | [I Can't Take This Anymore](https://open.spotify.com/track/2ouztXs79VgYVFvyNyX1eG) | [Kyle Johnson](https://open.spotify.com/artist/5f70LoboNT1uZeukxfYsCB) | [I Can't Take This Anymore](https://open.spotify.com/album/4RBvJrfgrHTqty5TwfawD9) | 3:13 | 2026-02-07 |  |
@@ -162,6 +165,7 @@
 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 | 2026-02-09 |  |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-10-27 | 2025-11-22 |
 | [Maldita](https://open.spotify.com/track/2eTvToQcswkSYtFlopW35L) | [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Maldita](https://open.spotify.com/album/1rYProq1DseWQyV6kavpkZ) | 2:33 | 2026-01-29 |  |
+| [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 | 2026-02-14 |  |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-12-31 | 2026-01-21 |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 | 2026-01-05 |
 | [Memory Lapse](https://open.spotify.com/track/3vNql4MJZIrxkRAoVI7fSz) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk), [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K) | [The Lost Jams](https://open.spotify.com/album/6FoybyVEEiMq1kpsiGa5Ni) | 3:56 | 2025-12-01 | 2025-12-28 |
@@ -248,6 +252,7 @@
 | [Strength](https://open.spotify.com/track/7sDdpxYqkM1iNdlKeICNpQ) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9) | [Strength](https://open.spotify.com/album/77PRbZD0JWk9peqfMxVsM1) | 4:12 | 2025-11-26 | 2026-01-05 |
 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 | 2026-01-22 |  |
 | [Sugarcane](https://open.spotify.com/track/7DT3gXJVb2GlaQStjeZICK) | [Mark Docherty](https://open.spotify.com/artist/3vJG01buKegrF1Cn2Jr5n3) | [Dumb Love Cliches](https://open.spotify.com/album/2g4cWTgXfBZwlYTGJzzLAb) | 3:40 | 2025-11-02 | 2025-11-22 |
+| [Sun Shines Down](https://open.spotify.com/track/1LL9j1yd94svPseLWDKc8P) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sun Shines Down](https://open.spotify.com/album/4N92uYwtSzNA2P09jRqdpZ) | 3:52 | 2026-02-14 |  |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 | 2026-02-04 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-11-22 |

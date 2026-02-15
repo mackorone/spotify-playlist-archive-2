@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: waterbaby",
-  "num_followers": 68554,
+  "num_followers": 68718,
   "original_name": "Editors' Picks: Best Songs of January",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "I Know Where Mark Chen Lives",
-        "url": "https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 110101,
-      "name": "I Know Where Mark Chen Lives",
-      "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Lay Your Heartache Onto Mine [Songs From and Inspired by the Paramount+ Original Series Landman (Volume II)]",
         "url": "https://open.spotify.com/album/5g2F6CcSyH7sY4gLVFRMlf"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Death Wish",
-        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/1i5xNjqIuXAx1LDQiM3HZH"
       },
@@ -691,6 +659,38 @@
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/4jkYkvbjEuckbJs6Ts60Hk"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "I Know Where Mark Chen Lives",
+        "url": "https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 110101,
+      "name": "I Know Where Mark Chen Lives",
+      "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
+        "name": "Waiting For You (feat. Reggie Dartey)",
+        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "duration_ms": 198894,
+      "name": "Waiting For You (feat. Reggie Dartey)",
+      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
         "name": "Monolith",
         "url": "https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4"
       },
@@ -823,22 +843,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Smoke Screen",
-        "url": "https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE"
-      },
-      "artists": [
-        {
-          "name": "CQ Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 260978,
-      "name": "Smoke Screen",
-      "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Kiss&Tell",
         "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
       },
@@ -855,22 +859,18 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Waiting For You (feat. Reggie Dartey)",
-        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+        "name": "Smoke Screen",
+        "url": "https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE"
       },
       "artists": [
         {
-          "name": "Bnnyhunna",
-          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
         }
       ],
-      "duration_ms": 198894,
-      "name": "Waiting For You (feat. Reggie Dartey)",
-      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+      "duration_ms": 260978,
+      "name": "Smoke Screen",
+      "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
     },
     {
       "added_at": "2026-02-04 14:20:34",

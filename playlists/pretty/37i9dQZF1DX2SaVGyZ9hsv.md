@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 
 > Watch exclusive live performances from Spotify's Best New Artist Party\. Music Videos only available on premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,317 likes - 17 songs - 57 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 156,451 likes - 17 songs - 57 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 | 16 | [Treasure In The Hills](https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:09 |
 | 17 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
 
-Snapshot ID: `AAAAAHVbDw/Pi35S0usVWMDXGxGFE3bx`
+Snapshot ID: `AAAAAHWoU1DQIGGfzpwKRUvADoYbYr4G`

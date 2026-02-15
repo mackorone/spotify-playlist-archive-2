@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ceren Sagu ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,217 likes - 182 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,236 likes - 182 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 65 | [London Foolishly](https://open.spotify.com/track/3l9a9tjSr1EYHmykm5iHHS) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best \(Deluxe\)](https://open.spotify.com/album/4urPavgYRedC5o5v1Lf99o) | 3:21 |
 | 66 | [Hızır\-ı Nebi](https://open.spotify.com/track/5nx5KBRP4Ml6U9LFG83ZoM) | [Kutsal Evcimen](https://open.spotify.com/artist/0k8ww57wRG0ao6U741aTUv), [Tülay Maciran](https://open.spotify.com/artist/4j6jsMeLNhbGsukg8ofn92) | [Hızır\-ı Nebi](https://open.spotify.com/album/7GYhhUi4n7dLpCNNiqAgPV) | 5:24 |
 | 67 | [Ben Yoruldum](https://open.spotify.com/track/45yqZTRw3gSkf0aBbHzHfP) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Ben Yoruldum](https://open.spotify.com/album/4CbNz5a3wFq8PZ7XsJ8oVi) | 3:05 |
-| 68 | [Track 17](https://open.spotify.com/track/0nqAY6TvIZZKmYnMa3Fu3P) | [Ege Çubukçu](https://open.spotify.com/artist/0XLP18nHemdh5CQhoM3RjZ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 68 | [KIRMIZI](https://open.spotify.com/track/0nqAY6TvIZZKmYnMa3Fu3P) | [Ege Çubukçu](https://open.spotify.com/artist/0XLP18nHemdh5CQhoM3RjZ) | [AŞK KAOS KLİŞE](https://open.spotify.com/album/0tkxyKS6VHYSqsSsmx9u44) | 3:17 |
 | 69 | [İstanbul](https://open.spotify.com/track/26PKuN6hIn3O1zK7aF59CS) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [İstanbul](https://open.spotify.com/album/2ZgbgDLVJtHOEcGVpeVhf3) | 2:40 |
 | 70 | [Seni Çok Seviyorum](https://open.spotify.com/track/7JqU8j5UoiuLMRX3ML4GeT) | [Nalan](https://open.spotify.com/artist/2ro4mTRj9qAtITiacU8bJg) | [Seni Çok Seviyorum](https://open.spotify.com/album/6qN4b8heIdp6gkCVypYKHo) | 3:20 |
 | 71 | [HEP SEN](https://open.spotify.com/track/15Rxfa988C9bOi4TgD2pKg) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM), [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [HEP SEN](https://open.spotify.com/album/0H5iiy0W8FNBbkyNxaqkla) | 1:53 |

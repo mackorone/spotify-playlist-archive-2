@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Leah
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,933 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,013 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 59 | [Mia](https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Piesangskille](https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC) | 4:06 |
 | 60 | [Winter In Die Kaap](https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q), [Bella](https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh) | [Winter In Die Kaap](https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn) | 3:26 |
 | 61 | [Kom Klop Weer](https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4) | [EDEN](https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu) | [Kom Klop Weer](https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc) | 2:55 |
-| 62 | [Troumateriaal](https://open.spotify.com/track/2bxBLbKyJWd0406RLKr6wK) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Troumateriaal](https://open.spotify.com/album/7qWT35R3KlS5cNQegnYAEt) | 3:21 |
-| 63 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
+| 62 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
+| 63 | [Troumateriaal](https://open.spotify.com/track/2bxBLbKyJWd0406RLKr6wK) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Troumateriaal](https://open.spotify.com/album/7qWT35R3KlS5cNQegnYAEt) | 3:21 |
 | 64 | [Iemand Soos Jy](https://open.spotify.com/track/298k3iGimVSsClUG9KolBF) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Klein Dingetjies](https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI) | 2:57 |
 | 65 | [Oorwurm](https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oorwurm](https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9) | 3:25 |
 | 66 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
-| 67 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 |
-| 68 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 67 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 68 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 |
 | 69 | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 |
 | 70 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 |
 | 71 | [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 79 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
 | 80 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 |
 
-Snapshot ID: `AAAAAJ7s1ciookdXb1gYoxY4qAK70uSe`
+Snapshot ID: `AAAAAKdxpG3Oxmhc9g9As4n/rR6lzOhw`

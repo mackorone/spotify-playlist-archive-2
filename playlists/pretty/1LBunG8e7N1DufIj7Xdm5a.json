@@ -1,13 +1,29 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 278,
+  "num_followers": 279,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHf9dTj4uhQfMVmzm+TWfj4TbZiROk",
+  "snapshot_id": "AAAHggbN5HGhw8HVrWAVvDAKATYCjQCO",
   "tracks": [
+    {
+      "added_at": "2026-02-14 18:52:15",
+      "album": {
+        "name": "Ti cancello",
+        "url": "https://open.spotify.com/album/0ctgTjPHLMsJjbao8BF5sY"
+      },
+      "artists": [
+        {
+          "name": "EDY",
+          "url": "https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV"
+        }
+      ],
+      "duration_ms": 135504,
+      "name": "Ti cancello",
+      "url": "https://open.spotify.com/track/6NdEElEXu289ZiRVH1hqYa"
+    },
     {
       "added_at": "2026-02-07 22:51:48",
       "album": {
@@ -66691,7 +66707,7 @@
     {
       "added_at": "2026-02-13 21:51:04",
       "album": {
-        "name": "Un giro in Blues",
+        "name": "Giro in Blues_",
         "url": "https://open.spotify.com/album/4HkzjpuwzzCx1r3drVdUss"
       },
       "artists": [
@@ -66701,7 +66717,7 @@
         }
       ],
       "duration_ms": 210009,
-      "name": "Un giro in Blues",
+      "name": "Giro in Blues_",
       "url": "https://open.spotify.com/track/5PaaBH3Uop0lFvkSmAFiN4"
     },
     {
@@ -67399,6 +67415,38 @@
       "duration_ms": 101511,
       "name": "Solo Estoy Para Ti",
       "url": "https://open.spotify.com/track/6f54RpP1UrlAYwxRFmclB0"
+    },
+    {
+      "added_at": "2026-02-14 07:34:06",
+      "album": {
+        "name": "SLOW DOWN",
+        "url": "https://open.spotify.com/album/3TEYxk5CLucLCzVmGaiVry"
+      },
+      "artists": [
+        {
+          "name": "Ghostshaft",
+          "url": "https://open.spotify.com/artist/5wxd8HLXD387D9PedWRLw8"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD"
+    },
+    {
+      "added_at": "2026-02-14 14:57:46",
+      "album": {
+        "name": "Sinton\u00eda",
+        "url": "https://open.spotify.com/album/6DOtUV0Vle9n9ppQrcpcl0"
+      },
+      "artists": [
+        {
+          "name": "Ya Estamos Listos",
+          "url": "https://open.spotify.com/artist/6osYtihDBfuqiqULsM3PWb"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Sinton\u00eda",
+      "url": "https://open.spotify.com/track/6e6Aet1KdKaEwJAEb3TTRC"
     }
   ],
   "unique_name": "playlist spotify free",

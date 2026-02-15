@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Lockjaw and more",
+  "description": "With Die Oberherren, AlligatorX, Jon Drake and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 190545,
       "name": "'Til They Clean Me From the Side of the Road",
       "url": "https://open.spotify.com/track/4Pdv0IgOCgFHfbVhCVBUcJ"
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "And here we go",
+        "url": "https://open.spotify.com/album/49F89hdhnnjXPOM7hx5huP"
+      },
+      "artists": [
+        {
+          "name": "Relieved in Black",
+          "url": "https://open.spotify.com/artist/31QITbd52sbklbUpjOTU45"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "And here we go",
+      "url": "https://open.spotify.com/track/1dlCIfRpzHn7KMm1EIt2wP"
+    },
+    {
+      "album": {
         "name": "Appsolution",
         "url": "https://open.spotify.com/album/2zC2wmBVFSBXhUavezinYx"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 188082,
       "name": "Beat The Stone",
       "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 387600,
       "name": "Dukkha (Good Old Wine)",
       "url": "https://open.spotify.com/track/0Pl1Celco5onaXWQ4SjioI"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 225655,
       "name": "Fake",
       "url": "https://open.spotify.com/track/0bcWXKEhlE9AqGkH76w7x6"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 254166,
       "name": "Feeding the Fear",
       "url": "https://open.spotify.com/track/6nnzCIGfHbrWlqIwy4xNOX"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 267391,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 270000,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6xFjDwRy50q7CoWgXLWvDV"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 252335,
       "name": "Motorised Life",
       "url": "https://open.spotify.com/track/3Rgtp6vTf4KR7XHGd0k6XN"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -4080,7 +4098,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -4560,7 +4578,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0xIqTXXmN9xyR7SVFwVrnj"
@@ -4972,6 +4990,24 @@
       "duration_ms": 246750,
       "name": "Savour the Moment",
       "url": "https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc"
+    },
+    {
+      "album": {
+        "name": "Water Music",
+        "url": "https://open.spotify.com/album/5bsbZ3uj9V9eZJtr1f0rHY"
+      },
+      "artists": [
+        {
+          "name": "Mary By Force",
+          "url": "https://open.spotify.com/artist/3SmZQdsZssPfgEt4q1TSuL"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314414,
+      "name": "Scared Dancer",
+      "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
     },
     {
       "album": {
@@ -5844,7 +5880,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 269520,
       "name": "The Break Up Song",
       "url": "https://open.spotify.com/track/79KYP1BhYzgTeWPP4fmQ22"
@@ -6132,7 +6168,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 86192,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/0RgJgXJvGufFqvqOfVjzdQ"
@@ -6266,7 +6302,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -6580,7 +6616,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -6796,7 +6832,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -6930,7 +6966,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 160812,
       "name": "We're All Pretending",
       "url": "https://open.spotify.com/track/01YMRsDaqFwzL0crgns9ug"
@@ -7096,7 +7132,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
@@ -7114,7 +7150,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 215204,
       "name": "Worte",
       "url": "https://open.spotify.com/track/0h4W1Ap0luEobA7I8DhMzQ"
@@ -7436,7 +7472,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"

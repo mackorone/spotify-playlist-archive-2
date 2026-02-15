@@ -4,7 +4,7 @@
 
 > New music from Don Toliver, J\. Cole and Central Cee.
 
-2,658 songs - 5 day 17 hr 50 min
+2,659 songs - 5 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1848,6 +1848,7 @@
 | [Really Like That](https://open.spotify.com/track/0clgpNtf5iemK5gUYcBT1E) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Really Like That](https://open.spotify.com/album/2qZs8ZvM98PNcLDZxghfTm) | 2:49 | 2021-03-06 | 2021-03-15 |
 | [Reason](https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Reason](https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6) | 3:13 | 2025-09-19 | 2025-12-13 |
 | [Recession Proof](https://open.spotify.com/track/3ddAAWOPybU28SZW8Vzd3V) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Recession Proof](https://open.spotify.com/album/4CVhX43HbKAarxj9ehNin0) | 3:31 | 2020-07-03 | 2020-07-10 |
+| [Reckless](https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Reckless](https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym) | 2:18 | 2026-02-14 |  |
 | [Red](https://open.spotify.com/track/1xkjDgAeD0aNxGrS36W0Fn) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Red](https://open.spotify.com/album/676VcdOBUSv6CcS9SHYhrb) | 2:09 | 2021-07-04 | 2021-07-17 |
 | [Red](https://open.spotify.com/track/42wYsI2BUS9ABUnY9wZcGT) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Red](https://open.spotify.com/album/1VYCrQFhyQkOrxKvfYVKXv) | 2:12 | 2020-03-06 | 2020-03-13 |
 | [Red Eye](https://open.spotify.com/track/3qHgGyJY4GpXNOK4WL4NSo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Still Flexin, Still Steppin](https://open.spotify.com/album/6mhlquPOu46v4c7nXS35mX) | 2:36 | 2020-02-21 | 2020-03-14 |
@@ -1952,7 +1953,7 @@
 | [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 3:20 | 2021-10-30 | 2021-11-06 |
 | [Sanguine Paradise](https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Sanguine Paradise](https://open.spotify.com/album/49K82qcZN4u109e6Zw8io1) | 4:03 | 2019-05-26\* | 2019-08-16 |
 | [Sasuke](https://open.spotify.com/track/0ROE31C8Wu4neZoR9stM9e) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Sasuke](https://open.spotify.com/album/6hUnGxVRgPgUfctjN19fIE) | 4:11 | 2020-04-25 | 2020-05-01 |
-| [Satellite](https://open.spotify.com/track/0CtG3VBxkHbEuIexLCyVcZ) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Satellite](https://open.spotify.com/album/1yZdP07q7q9g62biQBoqaU) | 3:01 | 2025-12-19 |  |
+| [Satellite](https://open.spotify.com/track/0CtG3VBxkHbEuIexLCyVcZ) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Satellite](https://open.spotify.com/album/1yZdP07q7q9g62biQBoqaU) | 3:01 | 2025-12-19 | 2026-02-15 |
 | [Satish](https://open.spotify.com/track/4hbcs8vaamKTPevPIJsY7N) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Satish](https://open.spotify.com/album/1Qs0qbWADzRVQ7MxD5MvZe) | 3:15 | 2019-09-20 | 2019-11-15 |
 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:23 | 2024-07-26 | 2024-10-26 |
 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 | 2020-03-20 | 2020-07-03 |

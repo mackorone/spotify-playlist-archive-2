@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 704,
+  "num_followers": 710,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAE5xx2koKZHcPhwDaf5f5qbf+v4KN4",
+  "snapshot_id": "AAAE7PLkUmMAq8gOIjDTTZO+W3vk6P5B",
   "tracks": [
     {
       "added_at": "2026-01-29 01:31:47",
@@ -1599,6 +1599,86 @@
       "duration_ms": 161018,
       "name": "Rock it to the Moon",
       "url": "https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6"
+    },
+    {
+      "added_at": "2026-02-14 17:08:23",
+      "album": {
+        "name": "SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET",
+        "url": "https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq"
+      },
+      "artists": [
+        {
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE"
+    },
+    {
+      "added_at": "2026-02-14 17:28:08",
+      "album": {
+        "name": "Hurts (Dancing With Ghosts)",
+        "url": "https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT"
+      },
+      "artists": [
+        {
+          "name": "The New Old",
+          "url": "https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Hurts (Dancing With Ghosts)",
+      "url": "https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD"
+    },
+    {
+      "added_at": "2026-02-14 17:37:14",
+      "album": {
+        "name": "Forever And Ever",
+        "url": "https://open.spotify.com/album/1Uu9MJvs7qF8meXMwCLPUk"
+      },
+      "artists": [
+        {
+          "name": "Hazy Lane",
+          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Forever And Ever",
+      "url": "https://open.spotify.com/track/6FkZz1WwonBHvyu6ytNIux"
+    },
+    {
+      "added_at": "2026-02-14 17:42:05",
+      "album": {
+        "name": "Sun Shines Down",
+        "url": "https://open.spotify.com/album/4N92uYwtSzNA2P09jRqdpZ"
+      },
+      "artists": [
+        {
+          "name": "the dt's",
+          "url": "https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t"
+        }
+      ],
+      "duration_ms": 232624,
+      "name": "Sun Shines Down",
+      "url": "https://open.spotify.com/track/1LL9j1yd94svPseLWDKc8P"
+    },
+    {
+      "added_at": "2026-02-14 17:59:52",
+      "album": {
+        "name": "March",
+        "url": "https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP"
+      },
+      "artists": [
+        {
+          "name": "Crafty McVillain",
+          "url": "https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP"
+        }
+      ],
+      "duration_ms": 283317,
+      "name": "March",
+      "url": "https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG"
     }
   ],
   "unique_name": "Unsigned Rock",

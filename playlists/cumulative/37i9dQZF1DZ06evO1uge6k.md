@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-142 songs - 8 hr 47 min
+143 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Rhythmeen](https://open.spotify.com/track/0ENGJrM4g0kODzoWGHjqOr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 3:52 | 2022-09-17 | 2023-04-28 |
 | [Rough Boy](https://open.spotify.com/track/09C7ULYG1WhWgngwkkvVxN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:49 | 2022-09-17 | 2024-02-24 |
 | [Rough Boy](https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:49 | 2024-02-23 |  |
-| [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 | 2024-04-14 |  |
+| [Sharp Dressed Man](https://open.spotify.com/track/15mLZ2fY0LoJyjWs1wrtgs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/47ZuHutG1JNtCB9Pg5QZFZ) | 2:59 | 2026-02-15 |  |
+| [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 | 2024-04-14 | 2026-02-15 |
 | [Sharp Dressed Man \(2008 Remaster\)](https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:18 | 2024-02-24 |  |
 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 | 2022-09-17 | 2024-02-25 |
 | [She Loves My Automobile](https://open.spotify.com/track/4AeZKrbiPqJuVrJvrngTkR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 2:23 | 2023-03-02 | 2024-02-25 |

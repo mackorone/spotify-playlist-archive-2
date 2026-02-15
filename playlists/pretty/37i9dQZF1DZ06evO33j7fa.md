@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,673 likes - 38 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,682 likes - 38 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 37 | [Blossom \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 4:25 |
 | 38 | [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 |
 
-Snapshot ID: `aY0YAAAAAADCl7Pd0inTCzWNSQPml4Sx`
+Snapshot ID: `aY5pgAAAAAAMR5OV1TR9S7BKHK/d0Y9v`

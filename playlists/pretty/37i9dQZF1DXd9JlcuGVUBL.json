@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Zach Bryan",
-  "num_followers": 42737,
+  "num_followers": 42748,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
     },
     {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
-    },
-    {
       "added_at": "2025-06-26 22:00:36",
       "album": {
         "name": "Never Met Anyone Like You (feat. HARDY)",
@@ -647,6 +631,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
         "name": "I'm The Problem",
         "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
       },
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 240120,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 236055,
-      "name": "Remember Him That Way",
-      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "4\u00d74\u00d7U",
-        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 239453,
-      "name": "4\u00d74\u00d7U",
-      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
       "added_at": "2025-05-22 22:00:25",

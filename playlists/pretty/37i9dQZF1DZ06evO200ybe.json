@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 123895,
+  "num_followers": 123916,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADx7WxNEDdETcDaZtWIkt+M",
+  "snapshot_id": "aY5pgAAAAADaFEsX28BbuGkBZRYHIHB3",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Breeze (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards (eBooklet)",
-        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
       },
       "artists": [
         {
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 304906,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
+      "duration_ms": 284546,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B"
     },
     {
       "added_at": null,
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+        "name": "Essential Standards (eBooklet)",
+        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 412256,
-      "name": "Alone Together - Mono",
-      "url": "https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW"
+      "duration_ms": 304906,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
       "duration_ms": 192906,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 412256,
+      "name": "Alone Together - Mono",
+      "url": "https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Most Important Jazz Album Of 1964/65",
         "url": "https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 274794,
       "name": "Time On My Hands - Mono",
       "url": "https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "While My Lady Sleeps (take 10) - Alternate Take",
+      "url": "https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet Baker Sextet",
         "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 230053,
       "name": "Waltz For Susan",
       "url": "https://open.spotify.com/track/6JgXwEGxn21fhmMLrOXCLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "While My Lady Sleeps (take 10) - Alternate Take",
-      "url": "https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d"
     },
     {
       "added_at": null,

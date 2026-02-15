@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Garrett Kato
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,182 likes - 149 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,187 likes - 149 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

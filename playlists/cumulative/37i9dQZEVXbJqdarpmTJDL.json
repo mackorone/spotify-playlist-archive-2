@@ -2587,6 +2587,32 @@
     },
     {
       "album": {
+        "name": "ALCANTARA",
+        "url": "https://open.spotify.com/album/5TxLYjqyXamCUCb6z5b8B4"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ALCANTARA",
+      "url": "https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp"
+    },
+    {
+      "album": {
         "name": "ALE",
         "url": "https://open.spotify.com/album/65uAvBGzeb7dYE4IHXuSIM"
       },
@@ -2896,6 +2922,36 @@
       "duration_ms": 183000,
       "name": "ALITHIA",
       "url": "https://open.spotify.com/track/61sfFpr4TG2fV9PjQlU6vL"
+    },
+    {
+      "album": {
+        "name": "Respect The Classics",
+        "url": "https://open.spotify.com/album/5MBis4OdmskDVFptnf7zPZ"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Livar",
+          "url": "https://open.spotify.com/artist/4TBL1lQeOwRq0UMvwo7d65"
+        },
+        {
+          "name": "City Center",
+          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263216,
+      "name": "ALITHINO",
+      "url": "https://open.spotify.com/track/4AT728QCnektzxr2fsgNa9"
     },
     {
       "album": {
@@ -3566,6 +3622,28 @@
       "duration_ms": 186979,
       "name": "Amarties",
       "url": "https://open.spotify.com/track/2BpzWytgabzoy6xYi1H66R"
+    },
+    {
+      "album": {
+        "name": "AMAZING (Remix)",
+        "url": "https://open.spotify.com/album/5n9BmLtebD4J2uuKlgTKrj"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "AMAZING - Remix",
+      "url": "https://open.spotify.com/track/2lv40gMcnHgMTYnyBX1mL9"
     },
     {
       "album": {
@@ -5514,7 +5592,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 192486,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7tRutCwvwteHMWaxtHUKsj"
@@ -6608,7 +6686,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 182068,
       "name": "BELLINGHAM",
       "url": "https://open.spotify.com/track/3WCiqEEFSFICQZY4ZOSMYb"
@@ -11534,7 +11612,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 127058,
       "name": "DD",
       "url": "https://open.spotify.com/track/7tBWL5bqABYPWtK1457YUc"
@@ -33364,7 +33442,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 212244,
       "name": "Mosca",
       "url": "https://open.spotify.com/track/6dX52uQdpwEDkgAcNjOwuI"
@@ -36886,7 +36964,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 269314,
       "name": "Ores Mikres",
       "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
@@ -40636,7 +40714,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Primo",
       "url": "https://open.spotify.com/track/484mTE7ETTJk74VKjTTI5f"
@@ -49232,7 +49310,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 196453,
       "name": "Ti Kaname...",
       "url": "https://open.spotify.com/track/1N2nsQjWX4Jg3rrZDZLnbS"
@@ -51892,7 +51970,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 195164,
       "name": "UNDERDOGS",
       "url": "https://open.spotify.com/track/46kJk0QCZ5SDiRK5BNnHkT"
@@ -52814,6 +52892,24 @@
       "duration_ms": 192941,
       "name": "Vradia",
       "url": "https://open.spotify.com/track/7m2z3y1R6K7ZXBMYeEK9zn"
+    },
+    {
+      "album": {
+        "name": "Vrexei",
+        "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173544,
+      "name": "Vrexei",
+      "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
     },
     {
       "album": {

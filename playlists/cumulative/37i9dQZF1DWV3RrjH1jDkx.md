@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra Delara, Arif og mange flere!🎵
 
-9,542 songs - 20 day 15 hr 0 min
+9,542 songs - 20 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1911,7 +1911,7 @@
 | [DESEMBER](https://open.spotify.com/track/46Q4gGJ51C3dW7mRBIoYyD) | [Turab](https://open.spotify.com/artist/1MkGNTzngx2wG2S41E4LLQ) | [DESEMBER](https://open.spotify.com/album/3iLLi69ZRWacaiL8dALjgN) | 3:04 | 2024-11-14 | 2024-11-22 |
 | [Desilusionado](https://open.spotify.com/track/0iodlWLpHK7Zh0wj2wx0Pf) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Desilusionado](https://open.spotify.com/album/7MPwWGs93q49Bs1JNkG921) | 3:54 | 2025-05-01 | 2025-05-09 |
 | [Despair](https://open.spotify.com/track/7ooym9YG6gfeugKXTSGv29) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Despair](https://open.spotify.com/album/34cZf5fQe0iw5Q2YWVznsH) | 6:41 | 2025-12-04 | 2025-12-12 |
-| [Desperat](https://open.spotify.com/track/0lBkfMagL1oBH2eMut9Tad) | [Jay Sorrow](https://open.spotify.com/artist/0EaL2KcqElU2R12PDvAiuZ) | [Desperat](https://open.spotify.com/album/14A5nzPGMLAn8nhZjTY2kX) | 2:08 | 2026-02-12 |  |
+| [Desperat](https://open.spotify.com/track/0lBkfMagL1oBH2eMut9Tad) | [Jay Sorrow](https://open.spotify.com/artist/0EaL2KcqElU2R12PDvAiuZ) | [Desperat](https://open.spotify.com/album/14A5nzPGMLAn8nhZjTY2kX) | 2:09 | 2026-02-12 |  |
 | [Desperate Guy](https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Desperate Guy](https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9) | 2:36 | 2024-09-12 | 2024-09-20 |
 | [Desperation](https://open.spotify.com/track/2MuXakEI8f8cj3jxFiTqPh) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Desperation](https://open.spotify.com/album/4lkIYzj7vNLGf0x89OueLG) | 2:23 | 2025-11-06 | 2025-11-14 |
 | [DESPUÉS DE LA FERIA](https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [05050](https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx) | 3:06 | 2025-09-04 | 2025-09-13 |

@@ -4,7 +4,7 @@
 
 > Du neuf, du bon, du franco! Photo: Jules, Naomi
 
-4,029 songs - 8 day 20 hr 38 min
+4,030 songs - 8 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3675,6 +3675,7 @@
 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 | 2024-05-24 | 2024-06-07 |
 | [Traverser les saisons](https://open.spotify.com/track/41kw7pSz22k3RGmx7MRCzp) | [Ariane Simard](https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe) | [Traverser les saisons](https://open.spotify.com/album/17BlplPNkdFgLh41bs9Y9R) | 2:58 | 2025-08-29 | 2025-10-11 |
 | [Traverser les saisons \- remix](https://open.spotify.com/track/75nwaoi4yo4yOTn3t6WQgy) | [Ariane Simard](https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Traverser les saisons \(remix\)](https://open.spotify.com/album/61VRoHVp4jL00SmS99NRpm) | 2:58 | 2025-10-24 | 2025-11-15 |
+| [Triche pas \(Don't Cheat\)](https://open.spotify.com/track/5vAqhwQPL1LI1rci9Y8tHu) | [Levraimaki](https://open.spotify.com/artist/2hBHrHrchCd8FkdgUIx7YA) | [Triche pas \(Don't Cheat\)](https://open.spotify.com/album/5gI8n1DQ2T4YjBdTYGmni0) | 2:52 | 2026-02-13 |  |
 | [Triomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 | 2022-11-25 | 2022-12-17 |
 | [Triomphe](https://open.spotify.com/track/4PaVygkVBqsBEu8BTfvhDp) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Triomphe](https://open.spotify.com/album/2ApDsFVuNCll7S4bEQMA7C) | 4:04 | 2022-04-15 | 2022-04-23 |
 | [Triple V](https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:13 | 2025-04-11 | 2025-06-28 |

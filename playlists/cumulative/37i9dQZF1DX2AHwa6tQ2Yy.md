@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: Durand Jones & The Indications
 
-361 songs - 22 hr 22 min
+362 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Forgot About](https://open.spotify.com/track/3JnRyp1X0N1QxiaMwnXlEs) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Forgot About](https://open.spotify.com/album/1KdLuqgmPBrrOtkqFDDvxe) | 3:38 | 2022-06-02 | 2022-09-09 |
 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 | 2023-10-12 | 2025-07-11 |
 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-07-11 | 2025-09-23 |
+| [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 | 2026-02-12 |  |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 | 2025-07-11 |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 | 2025-07-11 |  |
 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-17 |  |
@@ -350,7 +351,7 @@
 | [Wakka Wakka Woman](https://open.spotify.com/track/2Y488MpwVlXClEU8D9noC3) | [Jungaji](https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg) | [Wakka Wakka Woman](https://open.spotify.com/album/3doC5UZpLa6F86zkfkvHVO) | 3:44 | 2023-08-31 | 2023-10-13 |
 | [WAY OUT \(feat\. Milan Ring, matt mcwaters, & ?uestlove\)](https://open.spotify.com/track/4MjQCE1rN1xjLLr8xcYFA9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf) | [WAY OUT \(feat\. Milan Ring, matt mcwaters, & ?uestlove\)](https://open.spotify.com/album/1uggfls8BO7LmNnyhtqpRP) | 3:17 | 2023-07-13 | 2023-08-11 |
 | [Way That We Feel](https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [Zoe Moon](https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob) | [Way That We Feel](https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG) | 3:10 | 2022-12-15 | 2023-03-10 |
-| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-07-11 |  |
+| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-07-11 | 2026-02-15 |
 | [Weightless](https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Bloom](https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH) | 4:06 | 2025-10-16 | 2025-11-28 |
 | [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 | 2025-11-27 |  |
 | [What It Is In Your Eyes](https://open.spotify.com/track/3N4yhM91yk4MAtkmccHJcR) | [Cleo](https://open.spotify.com/artist/1fZEd3sfVFAs3VNZhjoeml) | [What It Is In Your Eyes](https://open.spotify.com/album/1ZUxsJJBDyjy3reeJ8JMEx) | 4:13 | 2022-07-21 | 2022-09-09 |

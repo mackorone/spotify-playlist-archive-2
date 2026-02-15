@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-392 songs - 20 hr 10 min
+393 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Killa](https://open.spotify.com/track/0sVG8wDYt7IYy2M1KJu07y) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Killa](https://open.spotify.com/album/59YGPxS2fsNUGxB0SA4bSy) | 2:26 | 2025-06-06 |  |
 | [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 | 2025-04-21 | 2025-05-25 |
 | [Koka Gaani](https://open.spotify.com/track/0wGvJPMrtBckI9Bg0D0TBn) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Proud Jawani](https://open.spotify.com/album/0TK4ld6smZ0ELX3e0GdksR) | 2:40 | 2025-06-24 |  |
+| [Laal Bindi](https://open.spotify.com/track/2fBHYGAmW2crEVBPtuQFLo) | [Mohabbat Brar](https://open.spotify.com/artist/1knG4lAa9BNXhKCOfhA0VS) | [Laal Bindi](https://open.spotify.com/album/75HHfTMOVEVM3rLAuPwB2B) | 2:18 | 2026-02-13 |  |
 | [Lachi Wargi Naar](https://open.spotify.com/track/3YBuS789aDX08RbDv0FgGU) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Lachi Wargi Naar](https://open.spotify.com/album/4SCID0KlUOI1xuycGfGyrR) | 3:37 | 2025-01-08 |  |
 | [Lahore](https://open.spotify.com/track/0Fv8C5OjucKsasQtb7WlIn) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Deep Sidhu](https://open.spotify.com/artist/1c52W7HepD1XDSapOn2UiY) | [Lahore](https://open.spotify.com/album/3NloRIpQK823s5V46bhtpL) | 3:37 | 2022-02-28 | 2023-07-27 |
 | [Lahore \(from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/3sV0p3cH2qVJGarX99lHo4) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Lahore \(from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/2XO7ROc8zWM1akNJ7elyYX) | 2:02 | 2022-08-19 | 2023-10-21 |
@@ -242,7 +243,7 @@
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2021-12-18 | 2025-02-20 |
 | [Maroon Maroon](https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Maroon Maroon](https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T) | 3:47 | 2025-05-08 | 2025-11-05 |
 | [Maruye Da Boota](https://open.spotify.com/track/5JBakgUfXMtHBkqVyX2QBH) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Maruye Da Boota](https://open.spotify.com/album/4rJFeBJmdC1my6SZWCwJPS) | 3:03 | 2025-07-18 | 2025-09-10 |
-| [Matha Mittran Nu Tek](https://open.spotify.com/track/36aujBIehAcftH7m76N0cN) | [Parry Sarpanch](https://open.spotify.com/artist/52SmvAG0lEHA91f4GgGmfV) | [Matha Mittran Nu Tek](https://open.spotify.com/album/1lSHLFfzTw0HeiB7KF7Y7m) | 3:32 | 2026-01-23 |  |
+| [Matha Mittran Nu Tek](https://open.spotify.com/track/36aujBIehAcftH7m76N0cN) | [Parry Sarpanch](https://open.spotify.com/artist/52SmvAG0lEHA91f4GgGmfV) | [Matha Mittran Nu Tek](https://open.spotify.com/album/1lSHLFfzTw0HeiB7KF7Y7m) | 3:32 | 2026-01-23 | 2026-02-15 |
 | [Me and My Girlfriend](https://open.spotify.com/track/1cQQk3EyZsWrbIzRBz68P9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:23 | 2021-12-18 | 2022-01-11 |
 | [Medicine](https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Medicine](https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ) | 3:56 | 2025-01-08 |  |
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2021-12-18 | 2023-07-27 |

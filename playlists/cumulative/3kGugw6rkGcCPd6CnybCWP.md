@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-168 songs - 9 hr 42 min
+171 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Mulholland Drive](https://open.spotify.com/track/5TvDjzLUJNizl2KIHQ3aqv) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Mulholland Drive](https://open.spotify.com/album/0JYhnrBfLAwi34NVupv5eW) | 3:00 | 2026-02-09 |  |
 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 | 2025-10-30 |  |
 | [Mustang Kickback](https://open.spotify.com/track/5tyaldDDAxuXHfmMbGY6nQ) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Mustang Kickback](https://open.spotify.com/album/0MttNZcfK8o5DDo7YOB9wm) | 3:10 | 2025-11-02 | 2026-01-15 |
+| [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2026-02-14 |  |
 | [Nie wieder denken](https://open.spotify.com/track/19u4Ep9u8L5BsCgiZEDzXN) | [Endstation Sanifair](https://open.spotify.com/artist/2qBfpEPXX7Wunr7so7DGNc) | [Nie wieder denken](https://open.spotify.com/album/31WtAgZUTznoy3qd5FbyIo) | 3:54 | 2025-11-24 | 2026-01-17 |
 | [not ur muse](https://open.spotify.com/track/7aBKuGcK0y9RKT3ezTfx9J) | [Lumi Mar](https://open.spotify.com/artist/5xFxgq2tTejLjoDRzAuZaw) | [not ur muse](https://open.spotify.com/album/0zb6wtxREtziSDRzui3MqJ) | 4:05 | 2026-01-16 |  |
 | [Nothing We Can Do](https://open.spotify.com/track/2GcRdml2oURe3PpLEZmpfn) | [Laurie McMahon](https://open.spotify.com/artist/3Xr0YttuvFgDb6vgjONFT7) | [Nothing We Can Do](https://open.spotify.com/album/0nfkbEiPiQrwF9dIVEjGUV) | 3:36 | 2025-11-21 | 2026-01-17 |
@@ -128,6 +129,7 @@
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 |  |
 | [Satellite](https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ) | [Cold Equations](https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii) | [Satellite](https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN) | 4:11 | 2025-10-27 | 2025-12-02 |
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |
+| [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 | 2026-02-14 |  |
 | [Serene](https://open.spotify.com/track/2n3tPMnCBMR7d1uZxrUtqT) | [Redam](https://open.spotify.com/artist/0KfO6Tzsb8sOkQ84khWyrd) | [Serene](https://open.spotify.com/album/4HyhWK0yZzMSiL1d0GNSfQ) | 3:23 | 2025-11-11 | 2026-01-17 |
 | [Shadows on the floor](https://open.spotify.com/track/5527T3ToohQ1PYWneOj7lF) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Shadows on the floor](https://open.spotify.com/album/4ACvbc2kkeyXHb1QC1pK56) | 3:28 | 2026-01-12 |  |
 | [Shoot For Stars](https://open.spotify.com/track/6tchwVTKe8GxhWJdSVBPwA) | [Norma Siggs & The Numettes](https://open.spotify.com/artist/02dI7i7CLTR8LPwTXHw72G) | [A Wall Of Numsig](https://open.spotify.com/album/7xjSF0Ja2REUo95IZAV8sc) | 3:18 | 2025-10-24 | 2025-12-12 |
@@ -160,6 +162,7 @@
 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 | 2026-01-25 |  |
 | [Truth for Lies](https://open.spotify.com/track/4HozmRQnEWTChIfyu7Aj7z) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 | 2025-11-16 | 2026-01-17 |
 | [U Cut Ur Hair](https://open.spotify.com/track/7qDR32mmli6Ix41rsujmbZ) | [Ilona Stunz](https://open.spotify.com/artist/10IdIHd2qkAm4Q1IqfYotQ) | [These Days](https://open.spotify.com/album/1gNgWjjKfrL8tvl8MpwszK) | 2:38 | 2026-01-16 |  |
+| [Velvet Afterglow](https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79) | [The Drixes](https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s) | [Velvet Afterglow](https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ) | 3:53 | 2026-02-14 |  |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-11-02 | 2026-01-15 |
 | [wakingup](https://open.spotify.com/track/61IzD2tH1liMWYuvxleKUm) | [aerial.aiff](https://open.spotify.com/artist/56xvmBfz3DGvEjJKVi3JWg) | [wakingup](https://open.spotify.com/album/5r0O467KLIqvvKlufXYYI0) | 1:38 | 2025-11-04 | 2026-01-17 |
 | [Waste My Time](https://open.spotify.com/track/0AqnRH9UZihcBNyNR2ig0I) | [Burnside](https://open.spotify.com/artist/5QTKzZAlVEB7bDRbls3Saf) | [Waste My Time](https://open.spotify.com/album/0ujvM076fa316cZxoI9QLC) | 3:38 | 2025-10-30 | 2025-12-02 |

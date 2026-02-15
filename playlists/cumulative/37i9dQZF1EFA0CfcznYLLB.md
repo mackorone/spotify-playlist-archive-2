@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-415 songs - 21 hr 54 min
+416 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 | 2023-12-13 |  |
 | [Conversation](https://open.spotify.com/track/15y5mA2FpZlnb0vREdNAco) | [Dmitry Ashin](https://open.spotify.com/artist/3edLk4iRsslLKRHVGqMAoR) | [Interview](https://open.spotify.com/album/0TQ6gANy1GlAjLijEa0MUX) | 5:26 | 2023-12-13 | 2024-09-15 |
 | [Conversation](https://open.spotify.com/track/7svRagKnK3E72EQzSR0grI) | [Dmitry Ashin](https://open.spotify.com/artist/3edLk4iRsslLKRHVGqMAoR) | [Interview](https://open.spotify.com/album/29C3whYWvcT2FdKOdu92d6) | 5:26 | 2024-09-14 | 2025-07-10 |
-| [COOLEST MONKEY IN THE JUNGLE](https://open.spotify.com/track/1D23GEeQ32aqLw5ZnY3Ivp) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [BEWARE THE BOOK OF ELI](https://open.spotify.com/album/2hdRJLsW5qdvVZ0yaYpqO4) | 2:32 | 2023-12-13 |  |
+| [COOLEST MONKEY IN THE JUNGLE](https://open.spotify.com/track/1D23GEeQ32aqLw5ZnY3Ivp) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [BEWARE THE BOOK OF ELI](https://open.spotify.com/album/2hdRJLsW5qdvVZ0yaYpqO4) | 2:32 | 2023-12-13 | 2026-02-15 |
+| [COOLEST MONKEY IN THE JUNGLE](https://open.spotify.com/track/6k1qIMHisshjNGDruEtCRt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [BEWARE THE BOOK OF ELI](https://open.spotify.com/album/3db4t7T0VckyUVi7iFzX2x) | 2:32 | 2026-02-14 |  |
 | [Copy Me](https://open.spotify.com/track/4oFgLUoVJX3Y9W6RCpvcpD) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 | 2023-12-13 |  |
 | [Cost To Be Alive \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/3Y3PNfb2ZuRBZgdJ2sKySy) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:19 | 2023-12-13 |  |
 | [Crown Snatcher](https://open.spotify.com/track/25ehmvLg5D5TH0sd6RabSu) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 2:36 | 2023-12-13 |  |

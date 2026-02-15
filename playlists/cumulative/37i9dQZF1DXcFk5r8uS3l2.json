@@ -696,7 +696,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 194970,
       "name": "Bad Spell - Acoustic",
       "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
@@ -4801,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "album": {
         "name": "Maybe Someday",
         "url": "https://open.spotify.com/album/2i59MYGjnrbk9qtiTNcZ19"
       },
@@ -6493,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347674,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
+    },
+    {
+      "album": {
         "name": "Size Up",
         "url": "https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M"
       },
@@ -6630,7 +6666,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 150194,
       "name": "Sorry You're Blue",
       "url": "https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT"

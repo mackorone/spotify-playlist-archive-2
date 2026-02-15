@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 29307,
+  "num_followers": 29315,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADIra3AS3eHJPTZa0S41BUd",
+  "snapshot_id": "aY5pgAAAAAAq6+4KQ/v9bFxXVJsGjR+3",
   "tracks": [
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "304",
-        "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
-      },
-      "artists": [
-        {
-          "name": "E.K.E.",
-          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "304",
-      "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daddy (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
       },
@@ -951,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Trust Em",
+        "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 210102,
+      "name": "Don't Trust Em",
+      "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -967,18 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Trust Em",
-        "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
+        "name": "304",
+        "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
       },
       "artists": [
+        {
+          "name": "E.K.E.",
+          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
+        },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 210102,
-      "name": "Don't Trust Em",
-      "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
+      "duration_ms": 140769,
+      "name": "304",
+      "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
     },
     {
       "added_at": null,

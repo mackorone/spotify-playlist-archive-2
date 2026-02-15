@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Roddy Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,470 likes - 71 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,384 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

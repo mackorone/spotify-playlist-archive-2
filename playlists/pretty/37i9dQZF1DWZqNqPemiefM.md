@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Akira Kosemura
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,965 likes - 170 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,030 likes - 170 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 169 | [Meiso Ongaku 2](https://open.spotify.com/track/4oDopy5g0n075NXo1JavuZ) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Electronic Phantoms](https://open.spotify.com/album/0y8hFBOstlHWL97IYb1uAL) | 5:34 |
 | 170 | [Pray Play](https://open.spotify.com/track/0g31cCYqMBC6tBudGdPlZx) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/3USJbLcVYAPEbcRkXz7fYX) | 3:03 |
 
-Snapshot ID: `AAAAAFhpiuZ66aHXe2gOxV73sNDYhTgj`
+Snapshot ID: `AAAAAHVyuaUNoUwQirH3jKcUYfRngYkx`

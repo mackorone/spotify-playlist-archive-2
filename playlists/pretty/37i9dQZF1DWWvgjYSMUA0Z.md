@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,558 likes - 170 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,646 likes - 170 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 169 | [Spirit Link](https://open.spotify.com/track/3CDtAXgB3isSIkQpVAkXQX) | [Zen Portal](https://open.spotify.com/artist/5eedNZsISJXCHZyaHXebd4) | [Spirit Link](https://open.spotify.com/album/4ntkXfhBAZKv0ZRzdR0pV3) | 2:56 |
 | 170 | [Petal](https://open.spotify.com/track/5unOU1NabCBv04wxyWwoCe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Petal](https://open.spotify.com/album/27h5GuP3utJANajWzjhuKI) | 2:39 |
 
-Snapshot ID: `AAAAAG0Ase2cbUKw04PbayKlyHUbQ7C0`
+Snapshot ID: `AAAAAAQimVenzehraf1UfMlRK/BEEJq7`

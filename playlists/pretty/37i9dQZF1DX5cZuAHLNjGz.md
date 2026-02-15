@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,431,172 likes - 101 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,431,257 likes - 101 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 24 | [That Girl](https://open.spotify.com/track/1SV8Z3emrbM9FPb0fo2muW) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [That Girl](https://open.spotify.com/album/5vfl5JaulQrP3hn3dUWCd3) | 2:37 |
 | 25 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 |
 | 26 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 |
-| 27 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 1:59 |
+| 27 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 2:00 |
 | 28 | [Can't Be Us](https://open.spotify.com/track/3dfKpE2zvkw5HWeq4Ogo9Q) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Can't Be Us](https://open.spotify.com/album/7peAkFOATYjmq1TwByx96c) | 2:51 |
 | 29 | [Desi Hood](https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Walk in Victory](https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS) | 2:26 |
 | 30 | [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 |

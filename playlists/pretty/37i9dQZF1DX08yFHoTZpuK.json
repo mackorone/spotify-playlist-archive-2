@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 22932,
+  "num_followers": 22977,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-02-10 00:14:06",
       "album": {
-        "name": "Don't Cry (feat. Sagiri S\u00f3l)",
-        "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
-      },
-      "artists": [
-        {
-          "name": "80KIDZ",
-          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
-        },
-        {
-          "name": "Sagiri S\u00f3l",
-          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
-        }
-      ],
-      "duration_ms": 266909,
-      "name": "Don't Cry - feat. Sagiri S\u00f3l",
-      "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
-    },
-    {
-      "added_at": "2026-02-10 00:14:06",
-      "album": {
         "name": "Electricity (salute Remix)",
         "url": "https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 250675,
       "name": "Electricity (salute Remix)",
       "url": "https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i"
+    },
+    {
+      "added_at": "2026-02-10 00:14:06",
+      "album": {
+        "name": "Don't Cry (feat. Sagiri S\u00f3l)",
+        "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
+      },
+      "artists": [
+        {
+          "name": "80KIDZ",
+          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+        },
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "duration_ms": 266909,
+      "name": "Don't Cry - feat. Sagiri S\u00f3l",
+      "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
     },
     {
       "added_at": "2026-02-10 00:14:06",
@@ -891,34 +891,18 @@
     {
       "added_at": "2026-02-10 00:14:06",
       "album": {
-        "name": "HI!GA!MI!",
-        "url": "https://open.spotify.com/album/7LCTafhxWY92qtbfPqBZE3"
+        "name": "Love Flutter",
+        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
       },
       "artists": [
         {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        },
-        {
-          "name": "F!C!O!",
-          "url": "https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw"
-        },
-        {
-          "name": "Fellsius",
-          "url": "https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE"
-        },
-        {
-          "name": "Carpainter",
-          "url": "https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa"
-        },
-        {
-          "name": "ONJUICY",
-          "url": "https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD"
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
         }
       ],
-      "duration_ms": 189200,
-      "name": "HI!GA!MI!",
-      "url": "https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR"
+      "duration_ms": 243626,
+      "name": "Fabric",
+      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
     }
   ],
   "unique_name": "Tokyo Club Beat",

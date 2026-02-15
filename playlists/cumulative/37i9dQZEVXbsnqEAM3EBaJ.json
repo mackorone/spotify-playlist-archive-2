@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 177015,
       "name": "Anything Is Possible",
       "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
@@ -21676,7 +21676,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 178160,
       "name": "Hagamos Que",
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
@@ -27802,7 +27802,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 227887,
       "name": "JANE DOE (from \"Chainsaw Man\") - Spanish Version",
       "url": "https://open.spotify.com/track/5LIJ14j7IDOcnSRk8lYdgW"
@@ -28774,7 +28774,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 224736,
       "name": "Ki Chororo",
       "url": "https://open.spotify.com/track/0C97btEEwC56pQYBU5U8GG"
@@ -31230,7 +31230,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 331053,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
@@ -40786,7 +40786,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 229322,
       "name": "Play The Old Shit",
       "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
@@ -50568,7 +50568,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 258552,
       "name": "Sweet Palm Wine",
       "url": "https://open.spotify.com/track/7cKn7oqphz5lz4kGz3kMbq"
@@ -54840,7 +54840,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 175111,
       "name": "THE SPELL",
       "url": "https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t"
@@ -58148,6 +58148,36 @@
       "duration_ms": 261453,
       "name": "Under The Gun - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
       "url": "https://open.spotify.com/track/7ojinRhPIWAKoEYs8otazn"
+    },
+    {
+      "album": {
+        "name": "Under The Night Sky",
+        "url": "https://open.spotify.com/album/3Lx1yVqQzrmuCxZKA6Vrqm"
+      },
+      "artists": [
+        {
+          "name": "Aboy Beats",
+          "url": "https://open.spotify.com/artist/5SDAk4xNUjGlh6pE0OlVRc"
+        },
+        {
+          "name": "Vangelis Solen",
+          "url": "https://open.spotify.com/artist/4FcFmEzHSbqBvalGdCO1LU"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "stephen.",
+          "url": "https://open.spotify.com/artist/06axVhMRpYyfkMrvLtQB6s"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "Under The Night Sky",
+      "url": "https://open.spotify.com/track/0OKd4Y5nISK68d2NxZhqjX"
     },
     {
       "album": {

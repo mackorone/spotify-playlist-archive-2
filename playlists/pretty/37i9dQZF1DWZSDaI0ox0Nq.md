@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,875 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,880 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 35 | [Trenzas](https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Brian Chambouleyron](https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ), [Esteban Morgado](https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl), [Damian Bolotin](https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp), [Walter Castro](https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG), [Mono Hurtado](https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL) | [Patio De Tango](https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS) | 4:30 |
 | 36 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
 | 37 | [Muñeca Brava](https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temas Pendientes](https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB) | 2:45 |
-| 38 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
-| 39 | [Milonga Sentimental](https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [The Roots Of Tango \- Milonga Sentimental](https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw) | 2:38 |
+| 38 | [Milonga Sentimental](https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [The Roots Of Tango \- Milonga Sentimental](https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw) | 2:38 |
+| 39 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
 | 40 | [Mano a Mano](https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Puñal de Sombra](https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh) | 3:33 |
 | 41 | [Cafetín de Buenos Aires](https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Horacio Avilano](https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E), [Hernán Fredes](https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj), [Hernán Mastromarini](https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY) | [Buenos Aires](https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7) | 3:30 |
 | 42 | [Cafetín de Buenos Aires](https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Interpreta a Discépolo](https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF) | 3:30 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 52 | [Che bandoneon](https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu) | [Susy Leiva](https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz) | [Susy Leiva \- Grandes Exitos \-](https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG) | 2:58 |
 | 53 | [Quejas de Bandoneón](https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ) | [Las Del Abasto](https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:51 |
 | 54 | [Mi Buenos Aires Querido](https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [La Grela Quinteto de Tango](https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53) | [Mi Buenos Aires Querido](https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n) | 3:43 |
-| 55 | [Argentígena](https://open.spotify.com/track/0ZchY9PPDrUCIexK7FxnOH) | [María Laura Antonelli](https://open.spotify.com/artist/5tr45vqk4m3wj3HoMYjI9I) | [Argentígena](https://open.spotify.com/album/4yRJ2W2Re3eeHGlQzI0soI) | 3:38 |
+| 55 | [Sueño de Barrilete](https://open.spotify.com/track/2kJB9Hvpn3bqx2Mac8lMVP) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO), [Alejandro Drago](https://open.spotify.com/artist/2F3eT48CikD09vr9y5H1cM), [Federico Biraben](https://open.spotify.com/artist/7sS1IsanBa9WPvHCcjYkJU) | [Después](https://open.spotify.com/album/55Mgv7ouRbXJuZFXrO8csC) | 3:05 |
 
 Snapshot ID: `AAAAAEhnwGEFxVoyyCZISHGMbOriAWHV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,418 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,475 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [THE BLOOD](https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [THE BLOOD](https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w) | 2:38 |
 | 100 | [When It's Cold](https://open.spotify.com/track/2o9LVPMR3Ld9UCejac6y0W) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [When It's Cold](https://open.spotify.com/album/5gFPsSNALRqMZeqmiIcFWE) | 2:38 |
 
-Snapshot ID: `AAAAAORA6nTr7NPKI43ZMdW0IbMWMCWw`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

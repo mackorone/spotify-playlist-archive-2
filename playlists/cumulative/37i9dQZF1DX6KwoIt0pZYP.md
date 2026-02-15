@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,173 songs - 2 day 15 hr 45 min
+1,174 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,7 @@
 | [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 | 2023-04-20 | 2023-05-12 |
 | [Let Me](https://open.spotify.com/track/5Ebew5zVj06DNez06ACadp) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Let Me](https://open.spotify.com/album/30nb8zK9tjqp4QR61sdM60) | 3:04 | 2024-01-12 | 2024-04-13 |
 | [let me know](https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [let me know](https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw) | 3:28 | 2023-09-17 | 2023-10-07 |
-| [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 | 2022-01-28 |  |
+| [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 | 2022-01-28 | 2026-02-15 |
 | [Let Me Know When You Get Home](https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Let Me Know When You Get Home](https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR) | 3:24 | 2026-01-20 | 2026-02-07 |
 | [Let Me Love U](https://open.spotify.com/track/2n82NbbGsaaMMT4eqPX8ZK) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Let Me Love U](https://open.spotify.com/album/1BF6WHNLLq3uQJrH9jQj87) | 3:51 | 2023-02-23 | 2023-03-03 |
 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 | 2023-08-04 |  |
@@ -953,6 +953,7 @@
 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 | 2023-05-11 | 2023-05-19 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-08 | 2025-02-22 |
 | [stupid](https://open.spotify.com/track/5QPMBTEk7kbzEFnVmUbeGU) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [stupid](https://open.spotify.com/album/1nspvJx79he8aYYbtM3C4O) | 3:29 | 2023-01-26 | 2023-02-03 |
+| [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 | 2026-02-06 |  |
 | [Summer Nights](https://open.spotify.com/track/7ACCDls4FhDgW26K1Q5YzK) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Nights](https://open.spotify.com/album/79YhHsdp7Bi1InbvCGoQNE) | 1:37 | 2023-06-30 | 2023-07-08 |
 | [Summertime](https://open.spotify.com/track/6oFFjz1MwyU3qtaXnyqQ8X) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Summertime](https://open.spotify.com/album/72mAZGmywwA8WkAjyceo6T) | 2:38 | 2022-01-28 | 2022-07-29 |
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-04-15 | 2022-07-25 |

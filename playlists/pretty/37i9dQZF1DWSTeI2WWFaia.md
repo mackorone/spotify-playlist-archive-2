@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,183 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,571,143 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 44 | [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 |
 | 45 | [Look At Me](https://open.spotify.com/track/0HQrzSGRnLgOgTPzcZWIxP) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:29 |
 | 46 | [The Louvre](https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Louvre](https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH) | 4:09 |
-| 47 | [Don't Play With My Heart](https://open.spotify.com/track/3fqBsUKvgkkkpqUhu1pTVE) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Don't Play With My Heart](https://open.spotify.com/album/5kqM6ufz5al24SwGb5sLax) | 1:49 |
-| 48 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
+| 47 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
+| 48 | [Don't Play With My Heart](https://open.spotify.com/track/3fqBsUKvgkkkpqUhu1pTVE) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Don't Play With My Heart](https://open.spotify.com/album/5kqM6ufz5al24SwGb5sLax) | 1:49 |
 | 49 | [Vanity](https://open.spotify.com/track/7ncc5WvZy6rnG3KdDeyofA) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 2:19 |
 | 50 | [vitamins n minerals](https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [vitamins n minerals](https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0) | 2:30 |
 

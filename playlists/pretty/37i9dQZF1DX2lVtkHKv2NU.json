@@ -1,6 +1,6 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 324570,
+  "num_followers": 324616,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-10-03 06:00:10",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "J Abecia",
-          "url": "https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC"
-        }
-      ],
-      "duration_ms": 147451,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
-    },
-    {
-      "added_at": "2025-10-03 06:00:10",
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "added_at": "2025-10-03 06:00:10",
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "J Abecia",
+          "url": "https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC"
+        }
+      ],
+      "duration_ms": 147451,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
     },
     {
       "added_at": "2025-10-03 06:00:10",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-10-03 06:00:10",
       "album": {
-        "name": "Ma\u00f1ana Hablamos (1154)",
-        "url": "https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Ma\u00f1ana Hablamos (1154)",
-      "url": "https://open.spotify.com/track/4LNmjN9PJZkr9oWkaP8sDv"
-    },
-    {
-      "added_at": "2025-10-03 06:00:10",
-      "album": {
         "name": "Quisiera Enamorarme",
         "url": "https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 186200,
       "name": "Quisiera Enamorarme",
       "url": "https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D"
+    },
+    {
+      "added_at": "2025-10-03 06:00:10",
+      "album": {
+        "name": "Ma\u00f1ana Hablamos (1154)",
+        "url": "https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Ma\u00f1ana Hablamos (1154)",
+      "url": "https://open.spotify.com/track/4LNmjN9PJZkr9oWkaP8sDv"
     },
     {
       "added_at": "2025-10-03 06:00:10",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-10-03 06:00:10",
       "album": {
-        "name": "Sylvia Plath",
-        "url": "https://open.spotify.com/album/4YvQEEbnFEqUROQDsxJ6xN"
-      },
-      "artists": [
-        {
-          "name": "Torreblanca",
-          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
-        }
-      ],
-      "duration_ms": 310090,
-      "name": "Sylvia Plath",
-      "url": "https://open.spotify.com/track/5aBuF2Pa3x9gZKwnshRLhz"
-    },
-    {
-      "added_at": "2025-10-03 06:00:10",
-      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2025-10-03 06:00:10",
+      "album": {
+        "name": "Sylvia Plath",
+        "url": "https://open.spotify.com/album/4YvQEEbnFEqUROQDsxJ6xN"
+      },
+      "artists": [
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "duration_ms": 310090,
+      "name": "Sylvia Plath",
+      "url": "https://open.spotify.com/track/5aBuF2Pa3x9gZKwnshRLhz"
     },
     {
       "added_at": "2025-10-03 06:00:10",

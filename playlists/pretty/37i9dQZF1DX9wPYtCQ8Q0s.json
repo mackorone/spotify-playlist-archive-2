@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 316597,
+  "num_followers": 316564,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKE9awiQt0LMjY/2+MQci8Ah/fVq",
+  "snapshot_id": "AAAAAPKjHrLWgXPJE+N5csKpg/A8fwA7",
   "tracks": [
     {
       "added_at": "2026-02-06 03:01:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "Panda",
-        "url": "https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Panda",
-      "url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
         "name": "Collision Course",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 205280,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "Legends (with Lil Baby)",
-        "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 181448,
-      "name": "Legends (with Lil Baby)",
-      "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 227692,
       "name": "Evil Ways (feat. J. Cole)",
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "Legends (with Lil Baby)",
+        "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 181448,
+      "name": "Legends (with Lil Baby)",
+      "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "Back On My Baby Jesus Sh!t AGAIN",
-        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 94520,
-      "name": "ROOF",
-      "url": "https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
         "name": "Panini",
         "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 151040,
       "name": "Panini - DaBaby Remix",
       "url": "https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "Back On My Baby Jesus Sh!t AGAIN",
+        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 94520,
+      "name": "ROOF",
+      "url": "https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
         "name": "J CHRIST",
         "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 153766,
       "name": "J CHRIST",
       "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 241790,
-      "name": "Modern Day",
-      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
         "name": "Light It Up (with Tyga & Chris Brown)",
         "url": "https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 137448,
       "name": "Light It Up (with Tyga & Chris Brown)",
       "url": "https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 241790,
+      "name": "Modern Day",
+      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
     },
     {
       "added_at": "2026-02-06 03:01:18",

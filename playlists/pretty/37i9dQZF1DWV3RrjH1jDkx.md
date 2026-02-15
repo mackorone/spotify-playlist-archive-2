@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Delara, Arif og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,038 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,039 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 21 | [varm](https://open.spotify.com/track/5Y69pExc0faBiOkk3rlVx7) | [Kamilla Wigestrand](https://open.spotify.com/artist/6xUpRwC6tlHlinxjZiBzto) | [varm](https://open.spotify.com/album/6IPIVSE18n2ipVu6ofraAy) | 3:07 |
 | 22 | [Sunrise](https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Sunrise](https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf) | 2:23 |
 | 23 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 |
-| 24 | [Desperat](https://open.spotify.com/track/0lBkfMagL1oBH2eMut9Tad) | [Jay Sorrow](https://open.spotify.com/artist/0EaL2KcqElU2R12PDvAiuZ) | [Desperat](https://open.spotify.com/album/14A5nzPGMLAn8nhZjTY2kX) | 2:08 |
+| 24 | [Desperat](https://open.spotify.com/track/0lBkfMagL1oBH2eMut9Tad) | [Jay Sorrow](https://open.spotify.com/artist/0EaL2KcqElU2R12PDvAiuZ) | [Desperat](https://open.spotify.com/album/14A5nzPGMLAn8nhZjTY2kX) | 2:09 |
 | 25 | [KLUBBEN BRENNER](https://open.spotify.com/track/3X84Alf942LDhM3X7GAIgK) | [212](https://open.spotify.com/artist/65miL1NZE93rKSOVeBUdjm) | [KLUBBEN BRENNER](https://open.spotify.com/album/7gaXAmExw8AGUFsUYUVkU9) | 3:27 |
 | 26 | [Tok hennes hånd](https://open.spotify.com/track/2PdQTpQaZkGtb0tsSAEOfX) | [Mathilde Frei](https://open.spotify.com/artist/10USXs7iXIXqqqF3OC7Uhx) | [Tok hennes hånd](https://open.spotify.com/album/5jSbnBiyfbO6ywcjOqPAFV) | 2:27 |
 | 27 | [Sinatra](https://open.spotify.com/track/1OK3Aam7iFQ9dClJDWriYt) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Mannen Som Døde Stående](https://open.spotify.com/album/1ul3KoQqUUswYy9WBwWhUt) | 3:20 |

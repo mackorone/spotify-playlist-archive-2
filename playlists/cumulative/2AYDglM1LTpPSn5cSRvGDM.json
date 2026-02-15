@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 174374,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/0SlhHeNYhm4I1EjqaPZ7pc"
@@ -3404,6 +3404,32 @@
       "duration_ms": 173017,
       "name": "RVN (Raven)",
       "url": "https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L"
+    },
+    {
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/19arGGM7HK7xZSex3PDl2R"
+      },
+      "artists": [
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "ARi",
+          "url": "https://open.spotify.com/artist/2SsbWf10OcsMDQY5mNa1OH"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/4rU1salYSFqjhGDeO6CrCj"
     },
     {
       "album": {

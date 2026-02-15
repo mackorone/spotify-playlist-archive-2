@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,801 likes - 45 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,831 likes - 45 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 44 | [Land of the Midnight Sun](https://open.spotify.com/track/3ctXNf5E5ccLKspyTEIhXX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:38 |
 | 45 | [This Is What We Came Here For](https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:02 |
 
-Snapshot ID: `aY0YAAAAAADwcVht3CzP8b7QSSVNzx5s`
+Snapshot ID: `aY5pgAAAAADWkG4cvx41Ecf+SAK9Dzwj`

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Larry June & Curren$y & The Alchemist, Central Cee and more!
 
-9,367 songs - 17 day 22 hr 44 min
+9,368 songs - 17 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6734,6 +6734,7 @@
 | [REBUTTAL \(feat\. UnoTheActivist\)](https://open.spotify.com/track/10JO9inkd2wq3Od0BfbAXn) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [ORANGE](https://open.spotify.com/album/71vEBHj4KMIuJT9osFh2Hk) | 2:43 | 2024-03-29 | 2024-04-06 |
 | [RECIPE FOR LOVE \(feat\. Future\)](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 | 2024-07-12 | 2024-07-19 |
 | [Reckless](https://open.spotify.com/track/604LvqsdR9GNX5IdPAMUiS) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Reckless](https://open.spotify.com/album/1cbXkQCCUBQitL1upVVrGZ) | 3:04 | 2025-07-11 | 2025-07-19 |
+| [Reckless](https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Reckless](https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym) | 2:18 | 2026-02-14 |  |
 | [RECKLESS & RATCHET](https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [RECKLESS & RATCHET](https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx) | 2:57 | 2023-06-02 | 2023-06-10 |
 | [Reckless \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Monsoon Season](https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX) | 2:32 | 2025-07-25 | 2025-08-02 |
 | [Recognition](https://open.spotify.com/track/6hgNwnmKq1pFkhTFuMGRwb) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Recognition](https://open.spotify.com/album/4DbUpJVUovWTeYpNVx7LJF) | 1:51 | 2023-12-15 | 2024-01-13 |

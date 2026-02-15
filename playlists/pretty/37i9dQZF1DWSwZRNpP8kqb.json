@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 32332,
+  "num_followers": 32341,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -39,22 +39,6 @@
       "duration_ms": 210506,
       "name": "Zamba de Amor en Vuelo",
       "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "La Patria Digna",
-        "url": "https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy"
-      },
-      "artists": [
-        {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Endechas",
-      "url": "https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -119,6 +103,22 @@
       "duration_ms": 144000,
       "name": "Chacarera Pal Trichaco",
       "url": "https://open.spotify.com/track/5Kz1mW7iVOBpbohYaj1Hpl"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "La Patria Digna",
+        "url": "https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Endechas",
+      "url": "https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Coplas de Sangre, Vol. 5",
-        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
-      },
-      "artists": [
-        {
-          "name": "Mariana Carrizo",
-          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Nac\u00ed para Cantar",
         "url": "https://open.spotify.com/album/0DeuQ3Y1o2EOJBvv9b8tOb"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 176212,
       "name": "Esta Noche Canta Salta",
       "url": "https://open.spotify.com/track/4g3aPYLNrEbGGqiYWNRVGy"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Coplas de Sangre, Vol. 5",
+        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
+      },
+      "artists": [
+        {
+          "name": "Mariana Carrizo",
+          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Hasta El Cielo Mi Alma",
-        "url": "https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4"
-      },
-      "artists": [
-        {
-          "name": "Alma Chaque\u00f1a",
-          "url": "https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "La Llorona (Zamba)",
-      "url": "https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "K'arallanta",
         "url": "https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 294365,
       "name": "Jujuy Mujer",
       "url": "https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Hasta El Cielo Mi Alma",
+        "url": "https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4"
+      },
+      "artists": [
+        {
+          "name": "Alma Chaque\u00f1a",
+          "url": "https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "La Llorona (Zamba)",
+      "url": "https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
-        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
+        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+        "name": "Entre Algarroba y Durazno",
+        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Clara Cantore",
+          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
         }
       ],
-      "duration_ms": 249217,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
+      "duration_ms": 250329,
+      "name": "Entre Algarroba y Durazno",
+      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Entre Algarroba y Durazno",
-        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
       },
       "artists": [
         {
-          "name": "Clara Cantore",
-          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 250329,
-      "name": "Entre Algarroba y Durazno",
-      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
+      "duration_ms": 249217,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Pasaje al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
+      },
+      "artists": [
+        {
+          "name": "Claudia Pir\u00e1n",
+          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Volver\u00e8 Siempre a San Juan",
+      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 210771,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Pasaje al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Pir\u00e1n",
-          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Volver\u00e8 Siempre a San Juan",
-      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Joyas",
-        "url": "https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3"
-      },
-      "artists": [
-        {
-          "name": "Nacha Rold\u00e1n",
-          "url": "https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Quisiera Amarte Menos",
-      "url": "https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Anidar",
         "url": "https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 156368,
       "name": "Astilla de Tus Montes",
       "url": "https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Joyas",
+        "url": "https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3"
+      },
+      "artists": [
+        {
+          "name": "Nacha Rold\u00e1n",
+          "url": "https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Quisiera Amarte Menos",
+      "url": "https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "Amor del Monte",
-      "url": "https://open.spotify.com/track/23BlW00INye3PrZl18b1uT"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Noche, d\u00eda y madrugada",
         "url": "https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 238746,
       "name": "Baguala para las dos",
       "url": "https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "Amor del Monte",
+      "url": "https://open.spotify.com/track/23BlW00INye3PrZl18b1uT"
     },
     {
       "added_at": "2025-08-21 21:06:28",

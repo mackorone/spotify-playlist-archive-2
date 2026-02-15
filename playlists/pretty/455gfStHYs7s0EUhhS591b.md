@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,883 likes - 235 songs - 13 hr 48 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,882 likes - 235 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

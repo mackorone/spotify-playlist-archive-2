@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158029,
+  "num_followers": 158035,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Undiscovered (International Version)",
-        "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Undiscovered (International Version)",
+        "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "kendt mig en uge",
-        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 186843,
-      "name": "kendt mig en uge",
-      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "A Minute, A Moment...",
         "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "kendt mig en uge",
+        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "kendt mig en uge",
+      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "\u00d8delagt Byen (feat. Augusta Schackinger)",
         "url": "https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 157021,
       "name": "\u00d8delagt Byen (feat. Augusta Schackinger)",
       "url": "https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Faber",
-          "url": "https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X"
-        },
-        {
-          "name": "Metaxas",
-          "url": "https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9"
-        }
-      ],
-      "duration_ms": 226222,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4KZGnVN2Uner3QBMC0Tfoc"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 208998,
       "name": "Tabt Noget",
       "url": "https://open.spotify.com/track/4f7b2nMVkhM58F6nSnQTDZ"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Faber",
+          "url": "https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X"
+        },
+        {
+          "name": "Metaxas",
+          "url": "https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9"
+        }
+      ],
+      "duration_ms": 226222,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Lukas Graham (Blue Album)",
         "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 236866,
       "name": "What Happened To Perfect",
       "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Eternal, Pt. I",
+        "url": "https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg"
+      },
+      "artists": [
+        {
+          "name": "Coco O.",
+          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Hardest Thing",
+      "url": "https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "Hey Honey (fra filmen Honey)",
         "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 189557,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Eternal, Pt. I",
-        "url": "https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg"
-      },
-      "artists": [
-        {
-          "name": "Coco O.",
-          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Hardest Thing",
-      "url": "https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Mads Langer",
-        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Fact - Fiction",
-      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Black Beatles (Acoustic)",
         "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 211781,
       "name": "Black Beatles - Acoustic",
       "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Mads Langer",
+        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Fact - Fiction",
+      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
     },
     {
       "added_at": "2025-11-20 23:00:41",

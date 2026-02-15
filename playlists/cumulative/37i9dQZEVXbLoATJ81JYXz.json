@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Ain't Today",
+        "url": "https://open.spotify.com/album/6GexyDP7V43ceAa1PqKTEq"
+      },
+      "artists": [
+        {
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160980,
+      "name": "Ain't Today",
+      "url": "https://open.spotify.com/track/6jUSZ7pXIrPXAUusFXA5Iy"
+    },
+    {
+      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
       },
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 160326,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
@@ -11835,6 +11853,24 @@
     },
     {
       "album": {
+        "name": "DraMa",
+        "url": "https://open.spotify.com/album/5C7uvzzu76KtaDEBxJPwIs"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "DraMa",
+      "url": "https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH"
+    },
+    {
+      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
       },
@@ -14298,7 +14334,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 122181,
       "name": "EXTRA",
       "url": "https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3"
@@ -26039,6 +26075,24 @@
     },
     {
       "album": {
+        "name": "King Of Rock \u2019n\u2019 Roll",
+        "url": "https://open.spotify.com/album/05KhsNVV9DRIy5yku5r35t"
+      },
+      "artists": [
+        {
+          "name": "Korslagda",
+          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159864,
+      "name": "King Of Rock \u2019n\u2019 Roll",
+      "url": "https://open.spotify.com/track/6FyxfxtSlNobcVL2IbHZWq"
+    },
+    {
+      "album": {
         "name": "KINGSTON",
         "url": "https://open.spotify.com/album/2xAqPiWKqJM5YrvsqEk0UM"
       },
@@ -30346,7 +30400,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
@@ -30364,7 +30418,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -37192,6 +37246,28 @@
       "duration_ms": 176267,
       "name": "Psykos",
       "url": "https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ"
+    },
+    {
+      "album": {
+        "name": "Psykoser",
+        "url": "https://open.spotify.com/album/1g97WzBaMVqnnMt9vh5LA2"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173804,
+      "name": "Psykoser",
+      "url": "https://open.spotify.com/track/05WIutjuxxjZsI5wJNBg3p"
     },
     {
       "album": {
@@ -49330,7 +49406,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -50630,7 +50706,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 138947,
       "name": "Vila med mig",
       "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"
@@ -50941,6 +51017,24 @@
     },
     {
       "album": {
+        "name": "Viva L\u2019Amor",
+        "url": "https://open.spotify.com/album/212zx57XrNW8SbU7nFhznQ"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Viva L\u2019Amor",
+      "url": "https://open.spotify.com/track/0RcpZR36PfDvl4T02vepj6"
+    },
+    {
+      "album": {
         "name": "VOI",
         "url": "https://open.spotify.com/album/4IsIz3slcNGveMr1uJ8CuJ"
       },
@@ -51068,7 +51162,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14736,
+  "num_followers": 14738,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABqk2OMp6nYCsziTGcIAwXG",
+  "snapshot_id": "aY5pgAAAAADoU5rwj7qJHtB9FwjEzivy",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "Liebesfreud",
-      "url": "https://open.spotify.com/track/4bgGnxb4CmEuzOcj3FKH7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: \"Double\" Concerto for Two Violins in D minor; Violin Concertos Nos. 1 & 2 [Expanded Edition]",
         "url": "https://open.spotify.com/album/5ei1Nzj3ZmA7CnuXNNOIhX"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 232293,
       "name": "Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",
       "url": "https://open.spotify.com/track/4iYIRlCTOUE26lYwtvXEDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "Liebesfreud",
+      "url": "https://open.spotify.com/track/4bgGnxb4CmEuzOcj3FKH7j"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Williams - Greatest Hits 1969-1999",
-        "url": "https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Main Theme (From \"Schindler's List\")",
-      "url": "https://open.spotify.com/track/0oyL4K4fDTEFUbD9AHSvDc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart: The Violin Sonatas",
         "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
       },
@@ -863,6 +839,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "John Williams - Greatest Hits 1969-1999",
+        "url": "https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/0oyL4K4fDTEFUbD9AHSvDc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Violin Encores: Perlman",
         "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
       },
@@ -883,6 +883,34 @@
       "duration_ms": 167120,
       "name": "Elgar: Salut d'amour, Op. 12",
       "url": "https://open.spotify.com/track/4JvFH3QMshVwlRQNpJSrjD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: Violin Concerto, Op. 77",
+        "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Carlo Maria Giulini",
+          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        }
+      ],
+      "duration_ms": 608746,
+      "name": "Brahms: Violin Concerto in D Major, Op. 77: II. Adagio",
+      "url": "https://open.spotify.com/track/62BQmHEIHw9fBqB4jB7Jvk"
     },
     {
       "added_at": null,
@@ -935,58 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virtuoso Violin",
-        "url": "https://open.spotify.com/album/7jAJuBkjNtvJRO78fslikm"
-      },
-      "artists": [
-        {
-          "name": "Pablo de Sarasate",
-          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sarasate: Spanish Dances, Op. 23: II. Zapateado (Allegro)",
-      "url": "https://open.spotify.com/track/0l0wAg37zHIadmfSc282Hu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brahms: Violin Concerto, Op. 77",
-        "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Carlo Maria Giulini",
-          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        }
-      ],
-      "duration_ms": 608746,
-      "name": "Brahms: Violin Concerto in D Major, Op. 77: II. Adagio",
-      "url": "https://open.spotify.com/track/62BQmHEIHw9fBqB4jB7Jvk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 316426,
       "name": "Remembrances",
       "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virtuoso Violin",
+        "url": "https://open.spotify.com/album/7jAJuBkjNtvJRO78fslikm"
+      },
+      "artists": [
+        {
+          "name": "Pablo de Sarasate",
+          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Sarasate: Spanish Dances, Op. 23: II. Zapateado (Allegro)",
+      "url": "https://open.spotify.com/track/0l0wAg37zHIadmfSc282Hu"
     },
     {
       "added_at": null,
@@ -1039,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Solo Violin Sonatas",
-        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
-      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paganini: 24 Caprices",
         "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
       },
@@ -1079,110 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven: Violin Concerto, Op. 61",
-        "url": "https://open.spotify.com/album/3BqyqCJKKJb9G5Hw3dx0Zy"
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Carlo Maria Giulini",
-          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 564373,
-      "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto -",
-      "url": "https://open.spotify.com/track/6bTCLiehVxx9FBKJBw9Yyi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hero - Music from the Original Soundtrack",
-        "url": "https://open.spotify.com/album/413ti22XjH5D5mT4iMh3oL"
-      },
-      "artists": [
-        {
-          "name": "Tan Dun",
-          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Ancient Rao Ensemble of Changsha Museum",
-          "url": "https://open.spotify.com/artist/5JBF57BnpQopjv16Fd14Hq"
-        },
-        {
-          "name": "China Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0VF3x3I4s9XKIQAC9IbtcR"
-        },
-        {
-          "name": "China Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/6cg5Pl4EoLZlbJD9D4mExs"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "For the World",
-      "url": "https://open.spotify.com/track/5U2eLcIC0k1gHAnlJCLqai"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "Jewish Town (Krakow Ghetto, Winter '41)",
-      "url": "https://open.spotify.com/track/0uiSdYiuy2mogCULkoAmcp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 292133,
-      "name": "Becoming a Geisha (From \"Memoirs of a Geisha\" Soundtrack)",
-      "url": "https://open.spotify.com/track/1v8mEfH69e1ib1DD9Yp1X9"
+      "duration_ms": 210373,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
+      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
     },
     {
       "added_at": null,
@@ -1219,6 +1111,90 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hero - Music from the Original Soundtrack",
+        "url": "https://open.spotify.com/album/413ti22XjH5D5mT4iMh3oL"
+      },
+      "artists": [
+        {
+          "name": "Tan Dun",
+          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Ancient Rao Ensemble of Changsha Museum",
+          "url": "https://open.spotify.com/artist/5JBF57BnpQopjv16Fd14Hq"
+        },
+        {
+          "name": "China Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0VF3x3I4s9XKIQAC9IbtcR"
+        },
+        {
+          "name": "China Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/6cg5Pl4EoLZlbJD9D4mExs"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "For the World",
+      "url": "https://open.spotify.com/track/5U2eLcIC0k1gHAnlJCLqai"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beethoven: Violin Concerto, Op. 61",
+        "url": "https://open.spotify.com/album/3BqyqCJKKJb9G5Hw3dx0Zy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Carlo Maria Giulini",
+          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 564373,
+      "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto -",
+      "url": "https://open.spotify.com/track/6bTCLiehVxx9FBKJBw9Yyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Jewish Town (Krakow Ghetto, Winter '41)",
+      "url": "https://open.spotify.com/track/0uiSdYiuy2mogCULkoAmcp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bach: Solo Violin Sonatas",
         "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
       },
@@ -1235,6 +1211,34 @@
       "duration_ms": 267000,
       "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
       "url": "https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concertos from My Childhood",
+        "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
+      },
+      "artists": [
+        {
+          "name": "Oskar Rieding",
+          "url": "https://open.spotify.com/artist/3CIecSd967uqzr6ZmU3Aix"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Lawrence Foster",
+          "url": "https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx"
+        },
+        {
+          "name": "The Juilliard Orchestra",
+          "url": "https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Rieding: Violin Concerto in B Minor, Op. 35: III. Allegro moderato",
+      "url": "https://open.spotify.com/track/7rRdxmennBB1z4dgv8k518"
     }
   ],
   "unique_name": "This Is Itzhak Perlman",

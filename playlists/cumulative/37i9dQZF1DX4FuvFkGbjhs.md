@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Frost Children
 
-809 songs - 1 day 22 hr 53 min
+811 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [..FEISTY](https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 2:51 | 2025-11-28 |  |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-21 | 2025-07-18 |
 | [1/17](https://open.spotify.com/track/1EGSotfvgMDQFFtFoUdrv5) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/0P7LoMJJ9wKnXovFzTVt3j) | 4:12 | 2025-07-31 | 2025-08-15 |
+| [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 | 2026-02-13 |  |
 | [2018](https://open.spotify.com/track/6S9sqqVGCau6PzteziaEIn) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [2018](https://open.spotify.com/album/6adhvOA1OkiN4QmxpD4Zcx) | 3:46 | 2024-08-29 | 2024-11-01 |
 | [25 Metres](https://open.spotify.com/track/0vEty4cjnxyYJVv9Gsoqjy) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/1FKbZv8ZPuDt8ufBnyFiH0) | 2:39 | 2025-09-11 | 2026-01-16 |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-16 |  |
@@ -127,12 +128,13 @@
 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 | 2024-11-01 | 2025-03-21 |
 | [Chasing The Dragon](https://open.spotify.com/track/2alI78e8dyOiv0hDbros52) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Chasing The Dragon](https://open.spotify.com/album/42YqNwCKyiUCs3qWypflIK) | 3:38 | 2025-05-08 | 2025-10-24 |
 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 | 2025-09-25 | 2025-11-08 |
-| [Chenchi](https://open.spotify.com/track/5phC8jGsAO3MDOFptCOszh) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Chenchi](https://open.spotify.com/album/4RTo0BbmuK5PkvLuOkb1z9) | 3:28 | 2025-11-28 |  |
+| [Chenchi](https://open.spotify.com/track/5phC8jGsAO3MDOFptCOszh) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Chenchi](https://open.spotify.com/album/4RTo0BbmuK5PkvLuOkb1z9) | 3:28 | 2025-11-28 | 2026-02-15 |
 | [Chicago Town](https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Chicago Town](https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf) | 3:27 | 2024-07-11 | 2024-08-16 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2024-07-19 |
 | [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 | 2025-09-18 |  |
 | [Chrysalis](https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Chrysalis](https://open.spotify.com/album/5JUBmHorgabNcHUb8fbtxy) | 3:28 | 2025-05-29 | 2025-07-12 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-27 | 2024-10-04 |
+| [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-13 |  |
 | [Clean Heart](https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Clean Heart](https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV) | 3:52 | 2025-03-28 | 2025-06-20 |
 | [Cleopatras](https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Cleopatras](https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N) | 3:38 | 2024-10-10 | 2024-11-22 |
 | [Coffee In The Morning](https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Coffee in the Morning](https://open.spotify.com/album/0lO0JNz7Rz94RoSi8pW65l) | 1:23 | 2025-01-24 | 2025-03-15 |
@@ -594,7 +596,7 @@
 | [Rewind \- Edit](https://open.spotify.com/track/7EFAqxkts36d4XcPUxgylZ) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Rewind](https://open.spotify.com/album/00dOnSyqmuNccxCH7rXiMd) | 1:51 | 2025-05-29 | 2025-08-22 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-06-27 | 2024-07-19 |
 | [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 | 2025-06-06 | 2025-10-03 |
-| [Ripple](https://open.spotify.com/track/66iT3dYZpaVGO6OnCm82W7) | [trickpony](https://open.spotify.com/artist/6wEiI8TC6336dOSLNs8PbF) | [24/7 Heaven](https://open.spotify.com/album/4cyKKwiZ9g85rxTj23kfE8) | 4:34 | 2025-12-19 |  |
+| [Ripple](https://open.spotify.com/track/66iT3dYZpaVGO6OnCm82W7) | [trickpony](https://open.spotify.com/artist/6wEiI8TC6336dOSLNs8PbF) | [24/7 Heaven](https://open.spotify.com/album/4cyKKwiZ9g85rxTj23kfE8) | 4:34 | 2025-12-19 | 2026-02-15 |
 | [RLY RLY](https://open.spotify.com/track/6z4rVYcNfGKCJaKPLGtabf) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [RLY RLY](https://open.spotify.com/album/5rKtjuASFIbtv6hLsOfCMK) | 2:35 | 2024-07-04 | 2024-10-11 |
 | [Rock A Bye Baby](https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby](https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy) | 2:50 | 2025-08-21 | 2026-01-16 |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-17 | 2025-02-21 |

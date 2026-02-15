@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Lostboy Carlos
 
-1,036 songs - 2 day 3 hr 51 min
+1,038 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Chez la Psy](https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Retour à Baveuse City](https://open.spotify.com/album/77ZB9Vg6efYbkqQvzFTRlK) | 3:03 | 2023-07-07 | 2023-10-14 |
 | [Chez moi](https://open.spotify.com/track/6sLrf1TQv9cR8oJaDfkaUe) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:52 | 2024-09-13 | 2025-09-27 |
 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 3:06 | 2023-12-15 | 2024-03-23 |
+| [CHIANTI](https://open.spotify.com/track/3o1r51xIdf6DIydxaMNdaT) | [Charlesbourgeoisie](https://open.spotify.com/artist/5mZGhPIfde3MKnAxQ9DP1l) | [CHIANTI](https://open.spotify.com/album/07dqymk9kyXv1TGvMWWFDX) | 3:00 | 2026-02-14 |  |
 | [Chicago](https://open.spotify.com/track/3WZhrxWOX9morcWAKhljSi) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Le Roi](https://open.spotify.com/album/1vupLW3SxaTTqGyZ5m449q) | 2:36 | 2023-06-02 | 2024-03-30 |
 | [CHICOUTIMI BIKER](https://open.spotify.com/track/3vwT9Jcwhyf8s5SZP2v00G) | [The Alone](https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO) | [ÉBÈNE VOL\. 2](https://open.spotify.com/album/4F6MQ1yuFvJ9NePabpK2r9) | 3:14 | 2025-11-21 | 2025-12-04 |
 | [Chief Keef](https://open.spotify.com/track/5ilRPSFAdxFZReuKUPKzTh) | [Zayo](https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n) | [Chief Keef](https://open.spotify.com/album/1Wau0tDMwWxZuELIPdWTPe) | 2:01 | 2024-08-02 | 2025-09-27 |
@@ -906,6 +907,7 @@
 | [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 | 2023-01-06 |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-04-09 |
 | [SUR MES JEANS](https://open.spotify.com/track/1RPGpBI7yqUsZ9P2ocDYBM) | [JULIU$](https://open.spotify.com/artist/6ifeyY7Ovg6EJqCWUHabXQ), [ville](https://open.spotify.com/artist/4fir5zmF98wOaxSg7l1k2u) | [SUR MES JEANS](https://open.spotify.com/album/0UadjJFC5V6p0mQHLSbeQY) | 1:54 | 2026-01-16 |  |
+| [SUR MOI](https://open.spotify.com/track/5QoAyEU98raTjuVfNo9Ue0) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Shadow Wizard Money Gang](https://open.spotify.com/artist/34ESFFvfP5f465MC2V6E64) | [SUR MOI](https://open.spotify.com/album/4TIncoZAq6JfF2XlKL98bt) | 2:08 | 2026-02-14 |  |
 | [Sur moi](https://open.spotify.com/track/3KusaCNQdquUZDMDzdStEz) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Monolove](https://open.spotify.com/album/3fbyz48En69AVZPitTU8qA) | 2:30 | 2024-06-21 | 2024-09-21 |
 | [Survivant](https://open.spotify.com/track/58VZurLTMH9szEdaNndfj9) | [Meeko](https://open.spotify.com/artist/6mWepPXB2Ot85jKcT2843H) | [Survivant](https://open.spotify.com/album/1bhXd9glieV8NmK4Fu4UPB) | 3:10 | 2025-11-28 | 2025-12-04 |
 | [Switch Up](https://open.spotify.com/track/0I6VYa1ciWvg2HFJqJoXMm) | [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Switch Up](https://open.spotify.com/album/5z2vhjGLROaL8HWRmfmjRP) | 3:02 | 2024-08-30 | 2024-09-28 |

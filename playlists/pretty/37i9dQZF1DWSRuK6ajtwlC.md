@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷\. Los Primos del Este en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,669 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,725 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 16 | [Juan Colorado \- En Vivo](https://open.spotify.com/track/4KXigk1fRbCe1tO8PcHRXm) | [Ligeroz Del Río](https://open.spotify.com/artist/0uc8CY77kzCQEuiXKLEWrs) | [Juan Colorado \(En Vivo\)](https://open.spotify.com/album/2AHMwau6a1MPmlXmIAxwDy) | 4:36 |
 | 17 | [La Gozadera \- En Vivo](https://open.spotify.com/track/5kiRTlhM3qC4OdNeXSVieC) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:54 |
 | 18 | [Lo Tienes Todo](https://open.spotify.com/track/6HGGAgeqlSTQV4FvsxCrR5) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [De Puro Pedo Vol\. 3](https://open.spotify.com/album/7tBl3olvnyAfPrzk9qBdNF) | 2:59 |
-| 19 | [Provócame \(En Vivo 45 Aniversario\)](https://open.spotify.com/track/2JHJxI7O6s0uxajxWBkXLU) | [El Primo Manolo Y Sus Rieleros](https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh) | [Provócame \(En Vivo 45 Aniversario\)](https://open.spotify.com/album/3vTJLOrVFzvQ0vfvVBLud2) | 3:00 |
+| 19 | [Provócame \(En Vivo 45 Aniversario\)](https://open.spotify.com/track/2JHJxI7O6s0uxajxWBkXLU) | [El Primo Manolo Y Sus Rieleros](https://open.spotify.com/artist/6UaJJN4846IQA9ZFoybyJI) | [Provócame \(En Vivo 45 Aniversario\)](https://open.spotify.com/album/3vTJLOrVFzvQ0vfvVBLud2) | 3:00 |
 | 20 | [Egoísta](https://open.spotify.com/track/46lDMChvSP5nuaclhS9nA7) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n) | [A Paso Firme](https://open.spotify.com/album/01hml2RgrppLD0nVZpIybK) | 4:02 |
 | 21 | [Contigo Me Caso](https://open.spotify.com/track/3ba8ez37MuVZlrUAR6rmvd) | [DÁMASO](https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug) | [Contigo Me Caso](https://open.spotify.com/album/5oKdrwPCY3TH0fANXDgxWQ) | 3:22 |
 | 22 | [Bonita](https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Bonita](https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49) | 3:25 |

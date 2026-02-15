@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168280,
+  "num_followers": 168279,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 295360,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Metalepsis (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5N85k43iV7UKANFLklXkYL"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 290751,
-      "name": "8",
-      "url": "https://open.spotify.com/track/140l3V3IpQ0PLTvlGzeQIG"
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+        "name": "Metalepsis (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5N85k43iV7UKANFLklXkYL"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/140l3V3IpQ0PLTvlGzeQIG"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1323,22 +1323,6 @@
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1375,6 +1359,22 @@
       "duration_ms": 253417,
       "name": "Reckless Sensation",
       "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 253927,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
+      },
+      "artists": [
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        }
+      ],
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Luster",
         "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 214106,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1643,22 +1659,6 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Everything I Didn\u2019t Say",
-        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2026-02-09 02:11:35",

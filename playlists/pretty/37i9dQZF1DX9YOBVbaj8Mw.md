@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,309 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,307 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 49 | [Królowa łez](https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [30 lat Agnieszki Chylińskiej \- Kiedyś do Ciebie wrócę](https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky) | 5:10 |
 | 50 | [Nie pamiętam siebie](https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6) | [Dom Zły](https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt) | [Ku pogrzebaniu serc](https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9) | 6:54 |
 | 51 | [Edi](https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL) | [Grzegorz Kupczyk](https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu) | [Edi](https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv) | 3:23 |
-| 52 | [Song for Sarah](https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [September Night](https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i) | 6:20 |
-| 53 | [Kołomyja](https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB) | [Zazula](https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U) | [Pieśni Ludu](https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83) | 2:58 |
+| 52 | [Kołomyja](https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB) | [Zazula](https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U) | [Pieśni Ludu](https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83) | 2:58 |
+| 53 | [Song for Sarah](https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [September Night](https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i) | 6:20 |
 | 54 | [Better Off](https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:50 |
 | 55 | [Oberek Kujawski Ze Szwankowa](https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p) | [ZPiT Ziemia Bydgoska](https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY) | [Nie Ma Ziemi Nad Kujawy](https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j) | 1:47 |
 | 56 | [Ciągle](https://open.spotify.com/track/3ePTGOjZp25Z1OHBT0L8zQ) | [Cool Kids Of Death](https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc) | [Origami EP](https://open.spotify.com/album/0EFCMCxvJeAn39A19ZxIhC) | 2:31 |
-| 57 | [Fearless](https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [LIPSTICK ON THE GLASS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A) | 2:32 |
-| 58 | [Haunting](https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq) | [Blindead 23](https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J) | [Vanishing](https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja) | 8:30 |
+| 57 | [Haunting](https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq) | [Blindead 23](https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J) | [Vanishing](https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja) | 8:30 |
+| 58 | [Fearless](https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [LIPSTICK ON THE GLASS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A) | 2:32 |
 | 59 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
 | 60 | [Gospel Song](https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD) | [WSPÓŁGŁOSY](https://open.spotify.com/artist/54Qt7Nkw3WSs9B87ThONjK), [Marcel Baliński](https://open.spotify.com/artist/2pji5lbpgJtbFUXwGNKsNW) | [Współgłosy](https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA) | 1:31 |
 | 61 | [Critique of Swing in Two Parts, Pt\. 1](https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2) | [Pianohooligan](https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ), [Piotr Orzechowski](https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV) | [Critique of Swing in Two Parts, Pts\. 1 & 2](https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg) | 14:25 |

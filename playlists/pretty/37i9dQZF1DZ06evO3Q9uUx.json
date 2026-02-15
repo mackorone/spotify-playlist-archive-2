@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15908,
+  "num_followers": 15909,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADTCZKF1fHF/kEl/Z4y5tMm",
+  "snapshot_id": "aY5pgAAAAADpoRwesM7okOT8UGQRlcmg",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIANCA",
-        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "HARD WAY (feat. Becky G)",
-      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIRTHDAY BEHAVIOR",
         "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 144000,
       "name": "BIRTHDAY BEHAVIOR",
       "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "HARD WAY (feat. Becky G)",
+      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
     },
     {
       "added_at": null,
@@ -647,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIGHTS OUT",
-        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 198352,
-      "name": "LIGHTS OUT",
-      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
     },
     {
       "added_at": null,
@@ -687,38 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
       },
       "artists": [
         {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIANCA",
-        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "BAD GUY",
-      "url": "https://open.spotify.com/track/2iijN864tg1fz4OxklAieE"
+      "duration_ms": 198352,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 155666,
       "name": "Labels. (ft. Moneybagg Yo, BIA)",
       "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "BAD GUY",
+      "url": "https://open.spotify.com/track/2iijN864tg1fz4OxklAieE"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISSED OFF",
-        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 161177,
-      "name": "PISSED OFF",
-      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End of an Era",
         "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 170899,
       "name": "Is That Right",
       "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PISSED OFF",
+        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 161177,
+      "name": "PISSED OFF",
+      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+        "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 231325,
+      "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+      "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIANCA",
         "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
       },
@@ -1059,26 +1091,6 @@
       "duration_ms": 111975,
       "name": "READY SET",
       "url": "https://open.spotify.com/track/3wgZyFfN0IOrXKk33YjM4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "nights and weekends",
-        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 137003,
-      "name": "back it up",
-      "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
     }
   ],
   "unique_name": "This Is BIA",

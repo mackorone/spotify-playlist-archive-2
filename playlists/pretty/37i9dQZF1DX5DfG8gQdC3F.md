@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charli xcx, Danny L Harle & Dua Lipa, Ella Langley, Lykke Li, Owen Riegling and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,157 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,236 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 45 | [Pyar Again](https://open.spotify.com/track/2k113yC6rEY4trVxNVuAoy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Pyar Again](https://open.spotify.com/album/6ZUwszQ1d1oTGNarzNnJSi) | 2:17 |
 | 46 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 |
 | 47 | [By My Side](https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [By My Side](https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox) | 3:27 |
-| 48 | [They Love Me](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [They Love Me](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
+| 48 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 49 | [L'odeur de la pluie](https://open.spotify.com/track/4gEDXhCMj0H3u8CPJ84UXW) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [L'odeur de la pluie](https://open.spotify.com/album/4efmNHS0hUTnvB7ZfCPQEJ) | 3:54 |
 | 50 | [Thong](https://open.spotify.com/track/0nG4VdCwMNmBRy7lUQrSTB) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Thong](https://open.spotify.com/album/5j2LuMkJejaWjP1myWdUOk) | 4:34 |
 | 51 | [TIRED](https://open.spotify.com/track/1iQqrQtPfZ9fGe6vLD6hnF) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [TIRED](https://open.spotify.com/album/7Gkfk4oxSOgA8Tvt9Pf7XN) | 1:35 |

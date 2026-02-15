@@ -4,7 +4,7 @@
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-447 songs - 1 day 1 hr 22 min
+448 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 | 2025-12-03 |  |
 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 | 2022-11-30 | 2023-11-30 |
 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 | 2022-11-30 | 2023-11-30 |
-| [Back To School](https://open.spotify.com/track/78ED5dMZrI3dHGA0HYAOLW) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 3:24 | 2025-12-03 |  |
+| [Back To School](https://open.spotify.com/track/78ED5dMZrI3dHGA0HYAOLW) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 3:24 | 2025-12-03 | 2026-02-15 |
 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 | 2023-11-29 | 2024-04-19 |
 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 | 2023-11-29 | 2024-12-05 |
 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 | 2023-11-29 | 2024-12-05 |
@@ -93,6 +93,7 @@
 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 | 2022-11-30 | 2023-11-30 |
 | [dad](https://open.spotify.com/track/2kYLAEAIj873L4Zl5QfXa1) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [wishful thinking](https://open.spotify.com/album/7AzqzYUtZhGnQA2gnM6wXz) | 2:23 | 2025-12-03 |  |
 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 | 2023-11-29 | 2024-12-05 |
+| [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 | 2025-12-03 |  |
 | [Dealerz](https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9), [Late Verlane](https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3) | [Dealerz](https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT) | 2:46 | 2025-12-03 |  |
 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 | 2025-12-03 | 2026-01-15 |
 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-12-03 |  |

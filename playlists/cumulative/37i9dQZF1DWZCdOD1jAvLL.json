@@ -12007,6 +12007,24 @@
     },
     {
       "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "album": {
         "name": "Mudcat",
         "url": "https://open.spotify.com/album/7nx00mnr3aXir5YckFCaNl"
       },
@@ -14572,7 +14590,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 138461,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/5f3q2U4nESdYhs6dBaSdCA"

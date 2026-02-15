@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 210733,
       "name": "Celestial Cantabile",
       "url": "https://open.spotify.com/track/4CktDPZOXK9LL7xMs2A04c"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 99600,
       "name": "Freeze Frame",
       "url": "https://open.spotify.com/track/6qf2XVvOJWF8wEHQzVj6oo"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 121573,
       "name": "Hannett and Delia synth exchanges track 14",
       "url": "https://open.spotify.com/track/5l2LHOXAsgvIFH49f12uxz"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 163413,
       "name": "Hannett and Delia synth exchanges track 3",
       "url": "https://open.spotify.com/track/3HONDkJE1mdiddCZ0Cb2ti"
@@ -2026,6 +2026,28 @@
       "duration_ms": 59240,
       "name": "Know Your Car (Get out and Get Under)",
       "url": "https://open.spotify.com/track/5mFAUxtxUKV8HbNjhyqoGd"
+    },
+    {
+      "album": {
+        "name": "Late Night Horror / Frontier (1968 BBC Version)",
+        "url": "https://open.spotify.com/album/6xckPw8TAGiqov7UgwLDWr"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Late Night Horror / Frontier (1968 BBC Version)",
+      "url": "https://open.spotify.com/track/3HgTFEwUqYvbEINLNCdnre"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx, Central Cee, Fred again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,740 likes - 101 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,780 likes - 101 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

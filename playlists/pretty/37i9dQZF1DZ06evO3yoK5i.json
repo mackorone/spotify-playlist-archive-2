@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 248255,
+  "num_followers": 248309,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABPC4C4CCWUTXCqI/6rpQx/",
+  "snapshot_id": "aY5pgAAAAAA79AMrHoMHreUR+DAdjPvJ",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
-        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Il mio giorno preferito",
-      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
+        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 276746,
-      "name": "Un attimo di pace",
-      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
+      "duration_ms": 206884,
+      "name": "Il mio giorno preferito",
+      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 203026,
       "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
       "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276746,
+      "name": "Un attimo di pace",
+      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros",
-        "url": "https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Quanto amore sei",
-      "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 (Spanish Version)",
         "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 276920,
       "name": "Un Segundo de Paz",
       "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Quanto amore sei",
+      "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Estrella Gemela - Remastered 2021",
-      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 239253,
       "name": "Adesso tu",
       "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Estrella Gemela - Remastered 2021",
+      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Canzone per lei",
+      "url": "https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un pugno di stelle",
         "url": "https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 245880,
       "name": "Solo un volo",
       "url": "https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Canzone per lei",
-      "url": "https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfetto",
-        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 228080,
-      "name": "Sei Un Pensiero Speciale",
-      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+      "duration_ms": 250760,
+      "name": "Solo ieri",
+      "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

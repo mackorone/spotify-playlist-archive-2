@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Illusion Eterno ⭐️
 
-1,689 songs - 3 day 14 hr 2 min
+1,690 songs - 3 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1326,7 +1326,7 @@
 | [rain 🌧️](https://open.spotify.com/track/1MDBWXC3ccCcJVOJ4qy4rR) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [rain 🌧️](https://open.spotify.com/album/1ubGCOCH1bpWVt3KTbuhKK) | 4:04 | 2025-01-24 | 2025-04-05 |
 | [Ramo Buchón](https://open.spotify.com/track/2ZnLqrPjiN6Y9MAdPgauLX) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Discontrol](https://open.spotify.com/album/3qQJdKeqMz3JjhWXH3S9Fx) | 2:35 | 2025-10-10 | 2026-01-24 |
 | [Ramo Buchón](https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Ramo Buchón](https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8) | 3:33 | 2023-09-08 | 2023-11-25 |
-| [Rancherita](https://open.spotify.com/track/4K8xVCALzznaUOXpeViceU) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g) | [Rancherita](https://open.spotify.com/album/6P2XpBHkCAdk0lQhBFwd9y) | 2:29 | 2025-11-28 |  |
+| [Rancherita](https://open.spotify.com/track/4K8xVCALzznaUOXpeViceU) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g) | [Rancherita](https://open.spotify.com/album/6P2XpBHkCAdk0lQhBFwd9y) | 2:29 | 2025-11-28 | 2026-02-15 |
 | [Ranchero](https://open.spotify.com/track/6i2IDQkO9VeLtDsZxjm3vl) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Ranchero](https://open.spotify.com/album/2jnkhpZGj7tnkiMeXLlj8Q) | 2:54 | 2025-03-21 | 2025-06-07 |
 | [rascacielos](https://open.spotify.com/track/0ThTNgSxaupZCipQWsOWph) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Enero](https://open.spotify.com/album/6k0uGn4xDTNckdU9EDQ11y) | 2:57 | 2025-05-02 | 2025-08-30 |
 | [Rayando El Sol \(En Vivo\)](https://open.spotify.com/track/0E9C9ini7zV0vTzVvy6VwI) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Rayando El Sol \(En Vivo\)](https://open.spotify.com/album/4Z6FaZMiqPHbhdZsWYGyz2) | 3:04 | 2023-04-21 | 2023-05-27 |
@@ -1497,6 +1497,7 @@
 | [Te Fuiste Mi Amor](https://open.spotify.com/track/4p081voOnOQ9bj8hQEHAaz) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [Te Fuiste Mi Amor](https://open.spotify.com/album/5v0XaehEwwxMO1XCDDneLg) | 2:49 | 2022-06-03 | 2022-09-09 |
 | [Te Juro Jamás](https://open.spotify.com/track/5L5AYy2Vh2QeWDbJm5Tm4I) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Te Juro Jamás](https://open.spotify.com/album/7qmbZJx55TMAJgQblzEa5x) | 3:00 | 2025-12-05 | 2026-01-17 |
 | [Te La Pasas](https://open.spotify.com/track/3QakVpFmuYSjUcDqAOvsbU) | [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea) | [Te La Pasas](https://open.spotify.com/album/42dMHR2xyumQt9c39MzUau) | 2:44 | 2024-05-17 | 2024-08-31 |
+| [TE LLEVO SERENATA](https://open.spotify.com/track/1AmN7ru6Qcpw1iNYsUwcys) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh) | [ESPINAS](https://open.spotify.com/album/0HudMhD2UiosPzYR1YzCet) | 3:02 | 2026-02-14 |  |
 | [Te Marqué Pedo](https://open.spotify.com/track/5VwvakZb0Q3EfldiyXB3bL) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Escuadra9](https://open.spotify.com/artist/5PafMeRdMMYIHbMiaS7DMo) | [Te Marqué Pedo](https://open.spotify.com/album/0uhfUEItpOdl5xTnevLYjV) | 3:27 | 2024-08-30 | 2024-10-26 |
 | [Te Mereces A Mi](https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Te Mereces A Mi](https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN) | 2:20 | 2022-12-02 | 2023-04-22 |
 | [Te Quiero](https://open.spotify.com/track/5OciTjSw5a99tz2hE8YSa8) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Te Quiero](https://open.spotify.com/album/08xOzPlydNfHQB4IXFWkHf) | 3:57 | 2023-05-26 | 2023-07-29 |

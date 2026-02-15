@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,217 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,218 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 16 | [Together](https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Together](https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2) | 4:12 |
 | 17 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 |
 | 18 | [No Jonze](https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [No Jonze](https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob) | 2:37 |
-| 19 | [Kolo Kolo](https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:23 |
-| 20 | [Money](https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:44 |
+| 19 | [Money](https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:44 |
+| 20 | [Kolo Kolo](https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:23 |
 | 21 | [Girlie 'O' \- Remix](https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Girlie 'O' \(Remix\)](https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4) | 3:55 |
 | 22 | [Players](https://open.spotify.com/track/50Hp4O0dgseNnTHSMDOVyK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [A.W.A.M.](https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN) | 3:39 |
 | 23 | [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 44 | [Happy Day](https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Happy Day](https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD) | 4:20 |
 | 45 | [One Love](https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 2:33 |
 | 46 | [Grateful \(feat\. Soweto Spiritual Singers\)](https://open.spotify.com/track/2OUkyY3ibF5RNw29ssSFOD) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Soweto Spiritual Singers](https://open.spotify.com/artist/3232leMew7GVv6CsB87gb8) | [Grateful \(feat\. Soweto Spiritual Singers\)](https://open.spotify.com/album/1kY5A0DeMmBBIcIuB1zJb0) | 3:11 |
-| 47 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 |
-| 48 | [Murda](https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaydee](https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa) | [Seyi or Shay](https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm) | 3:48 |
+| 47 | [Murda](https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaydee](https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa) | [Seyi or Shay](https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm) | 3:48 |
+| 48 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 |
 | 49 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 | 50 | [Heal D World](https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Heal D World](https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY) | 3:44 |
 
-Snapshot ID: `aY0YAAAAAADwGGeM7gZwKNVMLyiPh+Bw`
+Snapshot ID: `aY5pgAAAAAALXGYUL6fpQOlgI/KXYNft`

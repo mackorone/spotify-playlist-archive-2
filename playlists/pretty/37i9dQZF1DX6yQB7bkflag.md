@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Tenxi, Yung Caters, Jemsii
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,160 likes - 126 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,159 likes - 126 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 25 | [I Like You Better Than Me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Like You Better Than Me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 |
 | 26 | [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 |
 | 27 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
-| 28 | [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/4G5tdW6NHLvRngYXHSjreB), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 |
+| 28 | [Kau Coba Rayu](https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [ERN](https://open.spotify.com/artist/55ReTHE3UQOwlEuqz1bX0S), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Kau Coba Rayu](https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR) | 3:16 |
 | 29 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 |
 | 30 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 |
 | 31 | [BaddieMelayuTerakhir](https://open.spotify.com/track/1MuZOrI5pjme1SgtEmU8Ck) | [Against Mel](https://open.spotify.com/artist/0RpKRBN5TzuJtdxfF7BAy2), [Dinho](https://open.spotify.com/artist/0ePACXwu27KdVfGS5SmXD5), [RYO](https://open.spotify.com/artist/3nfCxDVevITHrnUT4YouD0) | [BaddieMelayuTerakhir](https://open.spotify.com/album/2rnbmS5UdQQFhsNqsNtWN7) | 3:31 |

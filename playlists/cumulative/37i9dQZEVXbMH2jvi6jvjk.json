@@ -8933,6 +8933,24 @@
     },
     {
       "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248297,
+      "name": "butterflies.",
+      "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
+    },
+    {
+      "album": {
         "name": "Story To Tell: Vol 2",
         "url": "https://open.spotify.com/album/5oTL4CPQO4To71EcqI6a4I"
       },
@@ -16582,7 +16600,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 143746,
       "name": "Finally Over It",
       "url": "https://open.spotify.com/track/010a0zLOkBAMJvuscNdVxi"
@@ -19948,6 +19966,24 @@
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
+    },
+    {
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207023,
+      "name": "have to.",
+      "url": "https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz"
     },
     {
       "album": {
@@ -29496,7 +29532,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 252986,
       "name": "Life Sentence",
       "url": "https://open.spotify.com/track/0pchHye1t8VA9gTHK3hAAZ"
@@ -30688,7 +30724,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 395493,
       "name": "Lutho (feat. De Rose)",
       "url": "https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp"
@@ -31730,7 +31766,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 420190,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/40Df6EY2SezSKLvAkvNsbz"
@@ -32494,7 +32530,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 192751,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
@@ -38837,6 +38873,24 @@
     },
     {
       "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195015,
+      "name": "other side.",
+      "url": "https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ"
+    },
+    {
+      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
@@ -40247,6 +40301,28 @@
     },
     {
       "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/0PdDJXOjA8IhzVJYoHTNdU"
+      },
+      "artists": [
+        {
+          "name": "JayJayy",
+          "url": "https://open.spotify.com/artist/0Tp9c5DcGoHSU4V8bt4Q1U"
+        },
+        {
+          "name": "Mordecai",
+          "url": "https://open.spotify.com/artist/15Nx2Vsu6WjYBUPcBptftM"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350365,
+      "name": "Phesheya",
+      "url": "https://open.spotify.com/track/47wmNGuyHyGo8Qefh4aTKS"
+    },
+    {
+      "album": {
         "name": "Sesi Ka Rose",
         "url": "https://open.spotify.com/album/2I9MCGn7tYYadDyVm4yFPU"
       },
@@ -40924,7 +41000,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 290346,
       "name": "Poor Thang",
       "url": "https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h"
@@ -47090,7 +47166,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -51036,7 +51112,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 254013,
       "name": "The Let Out",
       "url": "https://open.spotify.com/track/2aNaJLXE4SXbm9L23qpHTG"
@@ -53660,7 +53736,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 196080,
       "name": "Two Six",
       "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
@@ -58562,7 +58638,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
@@ -59086,6 +59162,24 @@
       "duration_ms": 188529,
       "name": "WHITE NOISE",
       "url": "https://open.spotify.com/track/6dCcUEoqDOtQnfqsVxLEyS"
+    },
+    {
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132313,
+      "name": "white noise.",
+      "url": "https://open.spotify.com/track/4pMRw05NXRMuO6EYfXWsf1"
     },
     {
       "album": {
@@ -59810,6 +59904,24 @@
       "duration_ms": 391186,
       "name": "Woza",
       "url": "https://open.spotify.com/track/7ke2C0XWkZFo1PaVZjh2aF"
+    },
+    {
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223621,
+      "name": "wrong faces.",
+      "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"
     },
     {
       "album": {

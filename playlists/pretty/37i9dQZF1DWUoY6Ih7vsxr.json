@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 341607,
+  "num_followers": 341730,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Good day",
-      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "I Am The Best",
         "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 208730,
       "name": "I Am The Best",
       "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Good day",
+      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Heart Attack",
-        "url": "https://open.spotify.com/album/1VTC6SmzvyPnWsEuQ0clrb"
-      },
-      "artists": [
-        {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
-        }
-      ],
-      "duration_ms": 196522,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/7pm5uhK7xiEM9fQvuCE78l"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
         "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 239186,
       "name": "\ubbf8\uc778\uc544 Bonamana",
       "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Heart Attack",
+        "url": "https://open.spotify.com/album/1VTC6SmzvyPnWsEuQ0clrb"
+      },
+      "artists": [
+        {
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+        }
+      ],
+      "duration_ms": 196522,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/7pm5uhK7xiEM9fQvuCE78l"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Short Hair",
-        "url": "https://open.spotify.com/album/5JF8b6GKxOIve0KBuT7pzS"
-      },
-      "artists": [
-        {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Short Hair",
-      "url": "https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "\ub108\ub77c\uace0 It's You",
         "url": "https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 231493,
       "name": "\ub108\ub77c\uace0 It's You",
       "url": "https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Short Hair",
+        "url": "https://open.spotify.com/album/5JF8b6GKxOIve0KBuT7pzS"
+      },
+      "artists": [
+        {
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Short Hair",
+      "url": "https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\uae30\ub300",
-        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
-      },
-      "artists": [
-        {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "\uae30\ub300\ud574",
-      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
         }
       ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+      "duration_ms": 196826,
+      "name": "\uae30\ub300\ud574",
+      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -843,6 +827,22 @@
       "duration_ms": 195693,
       "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
       "url": "https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Mr.",
-      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Fiction And Fact",
         "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 225800,
       "name": "On Rainy Days",
       "url": "https://open.spotify.com/track/4Cdyx3bs8mMYVJWP3wHPXj"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Mr.",
+      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Snow Pink",
-        "url": "https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 234967,
-      "name": "My My",
-      "url": "https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Hot Summer - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 190546,
       "name": "Chu~\u2661",
       "url": "https://open.spotify.com/track/2NAT52rmZWuQWv3F3SolId"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Snow Pink",
+        "url": "https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 234967,
+      "name": "My My",
+      "url": "https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Seven Springs Of Apink",
-        "url": "https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "I don't Know",
-      "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "INFINITIZE",
         "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
       },
@@ -1075,8 +1059,24 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
+        "name": "Seven Springs Of Apink",
+        "url": "https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "I don't Know",
+      "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Shock Of The New Era",
+        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
       },
       "artists": [
         {
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 218566,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
+      "duration_ms": 225594,
+      "name": "Shock",
+      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Shock Of The New Era",
-        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 225594,
-      "name": "Shock",
-      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
+      "duration_ms": 218566,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Name is 4minute",
-        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
-      },
-      "artists": [
-        {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
-        }
-      ],
-      "duration_ms": 186775,
-      "name": "What's your name?",
-      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Tri-Angle - The 1st Album",
         "url": "https://open.spotify.com/album/1013imXHa490acqEZkQpeX"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 229560,
       "name": "Hug",
       "url": "https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Name is 4minute",
+        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 186775,
+      "name": "What's your name?",
+      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
     },
     {
       "added_at": "2024-03-27 14:24:46",

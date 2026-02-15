@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f with John Summit",
-  "num_followers": 468515,
+  "num_followers": 468932,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,22 @@
     {
       "added_at": "2026-02-13 05:00:35",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2026-02-13 05:00:35",
@@ -647,26 +643,26 @@
     {
       "added_at": "2026-02-13 05:00:35",
       "album": {
-        "name": "Silence (John Summit Remix)",
-        "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
       },
       "artists": [
         {
-          "name": "Delerium",
-          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
         },
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 274736,
-      "name": "Silence - John Summit Remix",
-      "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
+      "duration_ms": 153750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
     },
     {
       "added_at": "2026-02-13 05:00:35",
@@ -715,22 +711,26 @@
     {
       "added_at": "2026-02-13 05:00:35",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+        "name": "Silence (John Summit Remix)",
+        "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
         },
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+      "duration_ms": 274736,
+      "name": "Silence - John Summit Remix",
+      "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
     },
     {
       "added_at": "2026-02-13 05:00:35",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-02-13 05:00:35",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
-    },
-    {
-      "added_at": "2026-02-13 05:00:35",
-      "album": {
         "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
         "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 145777,
       "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
       "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
+    },
+    {
+      "added_at": "2026-02-13 05:00:35",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "added_at": "2026-02-13 05:00:35",
@@ -2119,6 +2119,26 @@
     {
       "added_at": "2026-02-13 05:00:35",
       "album": {
+        "name": "Heart Like Mine (feat. Rosa Linn)",
+        "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 149673,
+      "name": "Heart Like Mine (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
+    },
+    {
+      "added_at": "2026-02-13 05:00:35",
+      "album": {
         "name": "Crush Me Down (You Spin Me Around)",
         "url": "https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB"
       },
@@ -2139,26 +2159,6 @@
       "duration_ms": 121232,
       "name": "Crush Me Down (You Spin Me Around)",
       "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
-    },
-    {
-      "added_at": "2026-02-13 05:00:35",
-      "album": {
-        "name": "Heart Like Mine (feat. Rosa Linn)",
-        "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 149673,
-      "name": "Heart Like Mine (feat. Rosa Linn)",
-      "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
     }
   ],
   "unique_name": "EDM 2026",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,747 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,751 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 29 | [Ain't That Just Like A Woman](https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Fresh Berry's](https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6) | 2:12 |
 | 30 | [You Can't Catch Me](https://open.spotify.com/track/2LqlFFdnXyKky01Y2WKnFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Chess Box](https://open.spotify.com/album/2U6uSo9qSTzQ9HytKNIZuO) | 2:43 |
 | 31 | [Let's Do Our Thing Together](https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:22 |
-| 32 | [Come On \- Stereo Version](https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 1:47 |
-| 33 | [Wee Wee Hours](https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Hail! Hail! Rock 'N' Roll](https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV) | 5:14 |
+| 32 | [Wee Wee Hours](https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Hail! Hail! Rock 'N' Roll](https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV) | 5:14 |
+| 33 | [Come On \- Stereo Version](https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 1:47 |
 | 34 | [Louis To Frisco](https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [From St\. Louie To Frisco](https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD) | 2:20 |
 | 35 | [My Ding\-A\-Ling](https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Have Mercy \- His Complete Chess Recordings 1969 \- 1974](https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW) | 3:43 |
 | 36 | [Shake, Rattle And Roll](https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [I Want To Be Your Driver \- Stereo Remix](https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:20 |
 | 50 | [Oh Baby Doll](https://open.spotify.com/track/6AxUkSoQ9zQdLlBGni4rpf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:36 |
 
-Snapshot ID: `aY0YAAAAAAD0LRdC9mlqbcEjGDMFu4US`
+Snapshot ID: `aY5pgAAAAAASnILLqnvd3OPPieuEr+0W`

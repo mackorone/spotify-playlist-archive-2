@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Moy Bobadilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,403 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,569 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

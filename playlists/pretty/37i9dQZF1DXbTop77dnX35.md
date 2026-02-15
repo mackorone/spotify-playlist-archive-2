@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from ODUMODUBLVCK, Wande Coal, Yemi Alade, Zaylevelten and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,323 likes - 63 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,485 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [They Love Me](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [They Love Me](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
+| 1 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 2 | [DEARLY](https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [DEARLY](https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w) | 3:01 |
 | 3 | [Fire](https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Fire](https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ) | 2:52 |
 | 4 | [Muzz](https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Muzz](https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x) | 2:02 |

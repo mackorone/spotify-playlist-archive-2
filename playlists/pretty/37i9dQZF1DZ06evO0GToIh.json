@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 341753,
+  "num_followers": 342008,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAADJz0MOnc4rS3COIuEm3RQ1",
+  "snapshot_id": "aY5pgAAAAACF08Ce06l2zWTvVmOrFn3C",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Supero",
+        "url": "https://open.spotify.com/album/7xhjy2cYttFE5b9M6sAdZL"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Te Supero",
+      "url": "https://open.spotify.com/track/7yKPXRcVR31OMVjTWJOywD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -715,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 204246,
-      "name": "Traigo Saldo y Ganas de Rogar",
-      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden Vol. II",
         "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
       },
@@ -747,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Supero",
-        "url": "https://open.spotify.com/album/7xhjy2cYttFE5b9M6sAdZL"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 177366,
-      "name": "Te Supero",
-      "url": "https://open.spotify.com/track/7yKPXRcVR31OMVjTWJOywD"
+      "duration_ms": 204246,
+      "name": "Traigo Saldo y Ganas de Rogar",
+      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 127186,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
+      "duration_ms": 191941,
+      "name": "Vanidosa - En Vivo",
+      "url": "https://open.spotify.com/track/5bD8rppIQMN7kpQx4FY2DG"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 191941,
-      "name": "Vanidosa - En Vivo",
-      "url": "https://open.spotify.com/track/5bD8rppIQMN7kpQx4FY2DG"
+      "duration_ms": 127186,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
     },
     {
       "added_at": null,

@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 58 | [Bohém Himnusz](https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [Bohém Himnusz](https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6) | 3:17 |
 | 59 | [Az a szerelem](https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Az a szerelem](https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh) | 4:53 |
 
-Snapshot ID: `AAAAAJGqJS4ACLvLZVKTLYTFoQaZO8hb`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

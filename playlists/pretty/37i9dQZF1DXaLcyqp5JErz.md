@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,080 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,224 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 29 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
 | 30 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 |
 | 31 | [Não Há Barreiras \- Ao Vivo](https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:24 |
-| 32 | [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 |
-| 33 | [Quer Vitória \- Ao Vivo](https://open.spotify.com/track/3gXDmMNei3ZZacsIRGhHOs) | [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Ao Vivo](https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH) | 4:38 |
+| 32 | [Quer Vitória \- Ao Vivo](https://open.spotify.com/track/3gXDmMNei3ZZacsIRGhHOs) | [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Ao Vivo](https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH) | 4:38 |
+| 33 | [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 |
 | 34 | [Abraça\-Me \- Ao Vivo em BH](https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Abraça\-Me \(Paixão Fogo e Glória\) \[Ao Vivo em BH\]](https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX) | 14:07 |
 | 35 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
 | 36 | [Identidade](https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm) | 4:35 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag, endelig ny musik bl.a\. fra Karoline Mousing, Artigeardit og Baloosh ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,406 likes - 103 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,416 likes - 103 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Den Sidste Dråbe](https://open.spotify.com/track/5rtNYAmh5tDz3viB3Mqzzv) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Den Sidste Dråbe](https://open.spotify.com/album/6epxWewaSsnJyz7MiDwyUP) | 3:06 |
 | 2 | [Piger \(feat\. ICEKIID\)](https://open.spotify.com/track/2krMpiq40MNAIo6weIBonY) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:24 |
 | 3 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
-| 4 | [Slip Slip \(feat MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 |
+| 4 | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 |
 | 5 | [Der Kommer En Dag](https://open.spotify.com/track/0FdCmsOZQmExwEUda6WvNI) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Der Kommer En Dag](https://open.spotify.com/album/2qWaptQGTODsiCzrYt3QmS) | 2:38 |
 | 6 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
 | 7 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 23 | [Jeg vil og jeg kan](https://open.spotify.com/track/38MqGDMb4QvcDunQABSOOJ) | [Ninji](https://open.spotify.com/artist/29SGwyYCmkqbT2HbyGTlfw) | [Jeg vil og jeg kan](https://open.spotify.com/album/3gkjFSPLn1fLMdy1PGVN9L) | 3:18 |
 | 24 | [Listen To Your Teacher](https://open.spotify.com/track/0A8rnQEFNTKlVBqnJZgizu) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Listen To Your Teacher](https://open.spotify.com/album/7vlggFAaLLXU8YYxHrtJUa) | 2:54 |
 | 25 | [Flyv Charlie](https://open.spotify.com/track/3bmQvHsIpIGpOijBgKSye7) | [Giv dig hen](https://open.spotify.com/artist/1ilJZzKC1D1fPXCCqFtcKB), [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Flyv Charlie](https://open.spotify.com/album/5LaqxfyRA3iXNVDLdu83zZ) | 3:12 |
-| 26 | [dø sammen](https://open.spotify.com/track/1wmrFp1aEKH82qOoGXt97G) | [Lille Fucker](https://open.spotify.com/artist/6Sr0XZt2vowfPAzp9Mv1ck) | [](https://open.spotify.com/album/null) | 1:31 |
+| 26 | [dø sammen](https://open.spotify.com/track/1wmrFp1aEKH82qOoGXt97G) | [Lille Fucker](https://open.spotify.com/artist/6Sr0XZt2vowfPAzp9Mv1ck) | [frøst](https://open.spotify.com/album/0Ni2jhSIgPM3XYGJJCAb6U) | 1:31 |
 | 27 | [Undetected](https://open.spotify.com/track/51ZskQuomrxpgKrq2YI4Pf) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Undetected](https://open.spotify.com/album/1zq8WEwKGFE0oTMoHynk9s) | 2:48 |
 | 28 | [Hallå](https://open.spotify.com/track/0iPHUj2pjSEwNXVGYh3hKK) | [Emma Winther](https://open.spotify.com/artist/2ekgiJGJ8TQVbMSaWNIzbv), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hallå](https://open.spotify.com/album/5VLtN2flNziTYXdKwXoBq3) | 3:15 |
 | 29 | [Mention Me](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |

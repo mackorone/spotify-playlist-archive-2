@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,924 songs - 4 day 8 hr 43 min
+1,925 songs - 4 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-20 | 2024-04-22 |
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2021-09-05 | 2021-09-07 |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2023-12-30 | 2024-04-13 |
+| [FOUTINI](https://open.spotify.com/track/7mxIHpy7BXMpJL0uuqkcqI) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/0mGjVJqlJmNmQNREzN4uHf) | 3:59 | 2026-02-14 |  |
 | [Fratello](https://open.spotify.com/track/1IWAluPVHxuHGmL5NyYyGf) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 4:12 | 2021-03-27\* | 2021-11-22 |
 | [Free](https://open.spotify.com/track/3dTSb5eSmON3lo7zGRB6uE) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:33 | 2022-10-22 | 2022-11-11 |
 | [Free Mami](https://open.spotify.com/track/0z1tE5dOOxgsYIRCItKtjm) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 4:00 | 2023-11-11 | 2023-11-16 |
@@ -1113,7 +1114,7 @@
 | [MCHRDOUL](https://open.spotify.com/track/4PRj087uqj9SpKUSjQEcXn) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Soukaina fahsi](https://open.spotify.com/artist/0UCqlloLt5fQJA3I8KKMme) | [MCHRDOUL](https://open.spotify.com/album/1id4zKfODioF2bmqYEP4mh) | 3:04 | 2021-12-11 | 2022-01-28 |
 | [MCHRDOUL](https://open.spotify.com/track/2DGvHWVrCNUtpjTKO4OCM6) | [Taoufik Ighzer](https://open.spotify.com/artist/4ci66nizDoA40yxKYGai5S) | [MCHRDOUL](https://open.spotify.com/album/4EkPLXQ8Uu9l42aoDjApBF) | 3:04 | 2021-11-27 | 2021-12-11 |
 | [Mchta w Gdem](https://open.spotify.com/track/585Ki2LdPG0kIDO39gkTLu) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 3:06 | 2024-11-15 | 2024-12-27 |
-| [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-09-28 |  |
+| [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-09-28 | 2026-02-15 |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-07 | 2024-05-12 |
 | [Megalomania](https://open.spotify.com/track/0XMV5uwx5WjZkqxrk87vJ3) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Megalomania](https://open.spotify.com/album/4frrtbVbvsdzV7k5HsifNe) | 5:26 | 2021-03-27\* | 2021-06-11 |
 | [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 | 2025-02-26 |  |

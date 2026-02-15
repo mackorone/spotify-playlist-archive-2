@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75146,
+  "num_followers": 75145,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAARufG7fL5TipjBEYthZ13L",
+  "snapshot_id": "aY5pgAAAAAC3EjOMYBNf9uo3MEQPAOpr",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+        "name": "D R E A M S I C L E",
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 210600,
-      "name": "I'll Be The Moon",
-      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
+      "duration_ms": 128160,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D R E A M S I C L E",
-        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         },
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 128160,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
+      "duration_ms": 210600,
+      "name": "I'll Be The Moon",
+      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Background Music",
+      "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highway Queen (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 211485,
       "name": "Highway Queen (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Background Music",
-      "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
     },
     {
       "added_at": null,

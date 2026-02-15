@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 62578,
+  "num_followers": 62616,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACWD1nyKTTD/EOO/QrZIA8e",
+  "snapshot_id": "aY5pgAAAAAD0jSBC2A8nBt8X4hW97e4s",
   "tracks": [
     {
       "added_at": null,
@@ -64,21 +64,17 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 201463,
-      "name": "Last Of My Kind (feat. Paul Cauthen)",
-      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
+      "duration_ms": 224264,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
     },
     {
       "added_at": null,
@@ -144,17 +140,21 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 224264,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
+      "duration_ms": 201463,
+      "name": "Last Of My Kind (feat. Paul Cauthen)",
+      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
     },
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 148705,
-      "name": "Change Your Mind (feat. Shaboozey)",
-      "url": "https://open.spotify.com/track/6FXCkgH4PR9T15gx8osL5w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 158477,
       "name": "SPAGHETTII",
       "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 148705,
+      "name": "Change Your Mind (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/2FyrMwr4s13OYlhAFApwJW"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire and Gasoline - A COLORS ENCORE",
-        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 191162,
-      "name": "Fire and Gasoline - A COLORS ENCORE",
-      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 296185,
       "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
       "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire and Gasoline - A COLORS ENCORE",
+        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 191162,
+      "name": "Fire and Gasoline - A COLORS ENCORE",
+      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prosperity",
-        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Prosperity",
-      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cabelas",
         "url": "https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 177162,
       "name": "Cabelas",
       "url": "https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prosperity",
+        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Prosperity",
+      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,

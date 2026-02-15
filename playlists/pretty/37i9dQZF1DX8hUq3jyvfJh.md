@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,631 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,633 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Navegar](https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CARRANCA](https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK) | 2:34 |
 | 11 | [Eu Vou Bater Aí](https://open.spotify.com/track/0TGpnMhF1VHwns4KoJHOFY) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Eu Vou Bater Aí](https://open.spotify.com/album/2GaWcNLsQElu9M4adeCtdk) | 2:21 |
 | 12 | [saudade, saudade](https://open.spotify.com/track/4vWsnXbf6XGVVqBTbPZaVl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [saudade, saudade](https://open.spotify.com/album/6jghljedA79R0FIWFc9af3) | 3:00 |
-| 13 | [Segredo Clichê](https://open.spotify.com/track/1S2LcqKdkhC3R7JW14T9h7) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [FELÍDIA](https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C) | 3:22 |
-| 14 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
+| 13 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
+| 14 | [Segredo Clichê](https://open.spotify.com/track/1S2LcqKdkhC3R7JW14T9h7) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [FELÍDIA](https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C) | 3:22 |
 | 15 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
 | 16 | [Casca](https://open.spotify.com/track/5uhzSItR5e7IFMnTkhIRUB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 2:39 |
 | 17 | [Azul](https://open.spotify.com/track/6FAabpbqQbU8B4k78oux1m) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Azul](https://open.spotify.com/album/2RPr3q2h13RAgg08PiR1V4) | 2:48 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Venha Comigo](https://open.spotify.com/track/1wDEZqedy42frd4VVaY19k) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/3MI3xJpbJSXDMk4qmkwSul) | 3:45 |
 | 30 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 31 | [Mil e uma Noites](https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mil e uma Noites](https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx) | 3:06 |
-| 32 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
-| 33 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |
-| 34 | [Meu Jeitinho](https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ) | [Lavínia](https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR), [Tulipa Ruiz](https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U) | [Meu Jeitinho](https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db) | 2:30 |
+| 32 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |
+| 33 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
+| 34 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
 | 35 | [FALTA](https://open.spotify.com/track/0egGW1NkNCfcXUhZaBCiyY) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:11 |
-| 36 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
+| 36 | [Meu Jeitinho](https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ) | [Lavínia](https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR), [Tulipa Ruiz](https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U) | [Meu Jeitinho](https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db) | 2:30 |
 | 37 | [Azul Moderno](https://open.spotify.com/track/13sYLRl7Ihf1SngJZmb0Bb) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/5HpoKYWYXl0jxvV0zik5AJ) | 3:54 |
 | 38 | [Ain’t Got No](https://open.spotify.com/track/4MUOuZNzV7OEv1dcCxbGn5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Conceição Evaristo](https://open.spotify.com/artist/5TwjbcI0iMF9iVyXlqQsbJ) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/6lhd9FDNmM9ba9sqOAk6Ka) | 2:48 |
 | 39 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |

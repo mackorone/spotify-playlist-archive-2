@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABeQpYEAczJ1XEx8+eesl9q",
+  "snapshot_id": "aY5pgAAAAAB97Z3TlaJJY1XIYFsm0hc+",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "16",
-        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr"
       },
       "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 144637,
-      "name": "16",
-      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
+      "duration_ms": 126486,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY"
     },
     {
       "added_at": null,
@@ -91,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TSUNAMI",
-        "url": "https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr"
+        "name": "16",
+        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
       },
       "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 126486,
-      "name": "TSUNAMI",
-      "url": "https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY"
+      "duration_ms": 144637,
+      "name": "16",
+      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind Of Malevolence",
-        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
-      },
-      "artists": [
-        {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 139090,
-      "name": "Enter The Chat",
-      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ethical Plum",
         "url": "https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 166929,
       "name": "Ethical Plum",
       "url": "https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind Of Malevolence",
+        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 139090,
+      "name": "Enter The Chat",
+      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
-        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
-      },
-      "artists": [
-        {
-          "name": "Kai Whiston",
-          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 262928,
-      "name": "Kissing Practise",
-      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fade on Back",
         "url": "https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 185000,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
+        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
+      },
+      "artists": [
+        {
+          "name": "Kai Whiston",
+          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 262928,
+      "name": "Kissing Practise",
+      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
     }
   ],
   "unique_name": "This Is BAYLI",

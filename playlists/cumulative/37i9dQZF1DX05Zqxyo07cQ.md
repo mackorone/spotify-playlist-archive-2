@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-957 songs - 1 day 21 hr 55 min
+958 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 | 2025-11-13 |
 | [Hibernation](https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 3:36 | 2023-03-23 | 2024-01-18 |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2023-03-23 | 2024-02-09 |
+| [Highest Peak](https://open.spotify.com/track/1UhzqUHZoVczQXSz81GoP9) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Highest Peak](https://open.spotify.com/album/42ycmK2f0q42eao4Q7g5Jz) | 2:39 | 2026-01-27 |  |
 | [Hikari](https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Hikari](https://open.spotify.com/album/722j5U3DLZstV3QX4pqozB) | 2:52 | 2025-10-08 |  |
 | [Homelands](https://open.spotify.com/track/3Vl7cwxOxYhpgDDpFv7mG7) | [Staffa Iona](https://open.spotify.com/artist/4kWKLcO6SD1mOa5KHsI5Mw) | [Homelands](https://open.spotify.com/album/02mAAZSknW3RNscrlOl89i) | 3:00 | 2023-03-23 | 2024-01-18 |
 | [Hope Revived](https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Hope Revived](https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih) | 2:43 | 2025-11-12 | 2026-01-25 |
@@ -883,7 +884,7 @@
 | [Timeless Glow](https://open.spotify.com/track/1PtbVTP8BooABy9eQ0wymQ) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Timeless Glow](https://open.spotify.com/album/5XA7ddkuhLXLq0mxjh8cx4) | 3:32 | 2025-02-14 | 2025-05-26 |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [tint](https://open.spotify.com/track/7suP8ED5szP300Am4HRERx) | [austice](https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L) | [tint](https://open.spotify.com/album/0oNtp7nSYVgQUttDu2jCpk) | 2:56 | 2025-09-23 |  |
-| [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 |  |
+| [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 | 2026-02-15 |
 | [Torus](https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7) | [Vestigency](https://open.spotify.com/artist/7u5l7mW9E5nAgwRI2MnPZq) | [Torus](https://open.spotify.com/album/2Od6vhfJEKxqpvVP74frqH) | 2:32 | 2026-01-27 |  |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 | 2024-07-16 |
 | [Tout Autour De Nous](https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT) | [Iris Guilbert](https://open.spotify.com/artist/6YR85wKc8XLYVhRaFA2ql8) | [Tout Autour De Nous](https://open.spotify.com/album/0dJGlhXqFX9sftgM17o2Xh) | 3:08 | 2023-03-23 | 2024-03-21 |

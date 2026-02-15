@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Ella Mai
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,072 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,070 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [Saturday Afternoon](https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [roe](https://open.spotify.com/artist/3qG6tSR0XvGQiLHNwRp62f) | [Saturday Afternoon](https://open.spotify.com/album/6ltaJPaXpvtB4klzcqGhKc) | 3:46 |
 | 79 | [FEEL LOVE](https://open.spotify.com/track/4Gd8nOekd62DmCJdowwta5) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY!](https://open.spotify.com/album/08YX6S7IDTCyXjFd5PthPn) | 2:49 |
 
-Snapshot ID: `AAAAAMZiahtimZWOJsyqIHMmxdh/Wrh+`
+Snapshot ID: `AAAAAOCKKVvNQghXNyD9ChmvuIJnBNox`

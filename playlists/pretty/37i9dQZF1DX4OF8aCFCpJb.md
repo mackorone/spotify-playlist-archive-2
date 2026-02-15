@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,052 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,057 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 47 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 | 48 | [I mitt hjärta där bor gud](https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo) | [Efia Abu](https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy), [Drömbandet](https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW) | [Kärlek & Verkan](https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I) | 5:13 |
 | 49 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
-| 50 | [Så fakking fin](https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Så fakking fin](https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA) | 2:40 |
+| 50 | [Love We Deal With](https://open.spotify.com/track/4mpXlXzGmXf1objQcgFVMX) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Everyday](https://open.spotify.com/album/20jhBPM77Fuqx1bAj8q1Ot) | 3:58 |
 
 Snapshot ID: `AAAAAIG/BnjsF39YYER6V33mdFD2x8US`

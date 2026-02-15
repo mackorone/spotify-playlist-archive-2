@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,787 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,817 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 38 | [Yèkèrmo Sèw](https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Plays Mulatu](https://open.spotify.com/album/7p6BngLDdLeAeY38yptAjc) | 8:03 |
 | 39 | [SKY SO HIGH](https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [TRUE BLUE](https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP) | 4:36 |
 | 40 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
-| 41 | [the decoupling of the nuclear family](https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [the decoupling of the nuclear family](https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE) | 3:49 |
+| 41 | [the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY](https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY](https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE) | 3:49 |
 | 42 | [Seuss Pants](https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Suess Pants](https://open.spotify.com/album/7nNYEMB95NgOkCtxoY3iSv) | 6:41 |
 | 43 | [Will You Still Love Me Tomorrow](https://open.spotify.com/track/6l7BpiL6jfzcTVvemG721i) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Without Further Ado, Vol 1](https://open.spotify.com/album/3vkNGUlipZ7lxgJzaO6VXy) | 6:17 |
 | 44 | [iman](https://open.spotify.com/track/4GWcQfqUzEIGsx2xFuJjcF) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Alexandra Rotmann](https://open.spotify.com/artist/6eeo1fKlLOMYhc63wDQYUL) | [iman](https://open.spotify.com/album/7LS2caM4XRiYoSsypOfMKx) | 2:10 |

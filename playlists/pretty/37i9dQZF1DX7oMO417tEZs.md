@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: Fcukers
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,058 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,076 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 27 | [Foxtrot](https://open.spotify.com/track/0dqqy0ZtBdY4hk6mRWBgVX) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Foxtrot](https://open.spotify.com/album/2lRgazRzfPO8Hoqqbh7t72) | 1:33 |
 | 28 | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/track/3G4jMkTLfEHQPipzLdYs53) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/album/7II2YgFx0bEccnK4MNLN0o) | 3:40 |
 | 29 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
-| 30 | [the decoupling of the nuclear family](https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [the decoupling of the nuclear family](https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE) | 3:49 |
+| 30 | [the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY](https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY](https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE) | 3:49 |
 | 31 | [POP](https://open.spotify.com/track/4EYpFHf42mqFkp9UT7DWe9) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe) | [POP](https://open.spotify.com/album/2PR5JuYYkG3iYnc1ztSskg) | 1:48 |
 | 32 | [CALYPSO VIP](https://open.spotify.com/track/17Yc506DrPVDJwgW1Dogp7) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO VIP](https://open.spotify.com/album/2zVIdJj47fsbsAXe7yiMNf) | 2:44 |
 | 33 | [NEMO](https://open.spotify.com/track/57CtJJQRcYK0hfDKgN5CkD) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45), [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [NEMO](https://open.spotify.com/album/6conS8uzPywLrqEYqAnFLH) | 4:32 |

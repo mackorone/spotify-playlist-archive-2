@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319387,
+  "num_followers": 319385,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -851,30 +851,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 201264,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 201264,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "Aladdin",
         "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 154374,
       "name": "Aladdin",
       "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2025-10-31 16:26:13",

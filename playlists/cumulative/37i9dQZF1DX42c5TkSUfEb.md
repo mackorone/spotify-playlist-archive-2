@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-491 songs - 1 day 5 hr 45 min
+492 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 | 2023-03-17 | 2023-11-21 |
 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 | 2025-08-07 |  |
 | [I Found \(with Freya Ridings\)](https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU), [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [I Found \(with Freya Ridings\)](https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c) | 4:34 | 2025-05-15 |  |
+| [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-02-13 |  |
 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 | 2023-09-28 | 2023-11-17 |
 | [I Know, I Know](https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Know, I Know](https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf) | 3:00 | 2023-12-13 | 2024-05-17 |
 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 | 2025-05-15 | 2025-08-29 |
@@ -333,7 +334,7 @@
 | [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-14 | 2023-07-10 |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-23 | 2025-07-07 |
 | [only when i was with you](https://open.spotify.com/track/5GrGDLcNCM2GppSiLKteL7) | [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [february tape](https://open.spotify.com/album/3p6nOmT4UcHVWZWmbNlD9C) | 3:53 | 2024-07-25 | 2024-12-20 |
-| [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 | 2025-10-02 |  |
+| [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 | 2025-10-02 | 2026-02-15 |
 | [Ose](https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Oser](https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC) | 3:22 | 2024-04-15 | 2025-01-26 |
 | [Own It \(feat\. Jordana\)](https://open.spotify.com/track/6ITAd4qAw09I14eSFbbQdV) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Own It \(feat\. Jordana\)](https://open.spotify.com/album/3ngZ4bZnG9jkQGZJ8JSmO4) | 3:24 | 2025-12-18 | 2026-02-14 |
 | [pacifico](https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [pacifico](https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9) | 3:18 | 2025-05-23 | 2025-08-02 |

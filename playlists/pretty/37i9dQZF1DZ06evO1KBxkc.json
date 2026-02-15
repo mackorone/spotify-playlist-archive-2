@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 203767,
+  "num_followers": 203783,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAAD4P4CDd8ksmBLUt85hmFVe",
+  "snapshot_id": "aY5pgAAAAAD3vWNAfupgDPl+a1x53cAN",
   "tracks": [
     {
       "added_at": null,
@@ -299,42 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait (feat. A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Wait (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 157862,
-      "name": "Love Drugs and Sex",
-      "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Day69: Graduation Day",
         "url": "https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6"
       },
@@ -355,6 +319,42 @@
       "duration_ms": 151914,
       "name": "KEKE",
       "url": "https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 157862,
+      "name": "Love Drugs and Sex",
+      "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Wait (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
     },
     {
       "added_at": null,
@@ -975,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
       },
       "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 165710,
-      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
+      "duration_ms": 180466,
+      "name": "Glitchin",
+      "url": "https://open.spotify.com/track/5wXM2RNVFqFNPXNlLSDm1V"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

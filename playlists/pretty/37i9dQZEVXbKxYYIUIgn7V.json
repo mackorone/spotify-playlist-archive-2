@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Austria.",
-  "num_followers": 12714,
+  "num_followers": 12717,
   "original_name": "Viral 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MSKKQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MSPeGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Bazooka",
         "url": "https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Blumendisko",
+        "url": "https://open.spotify.com/album/6oXAEUnTApKVWaMsVYBylO"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "duration_ms": 160702,
+      "name": "Homeoffice",
+      "url": "https://open.spotify.com/track/11k0f96I27EykmXCrQAmkw"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/0jtSnVkqL6WRPKjpG5wKQI"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/2kGMz4gdfrAmZ1H6jR2li8"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Blumendisko",
-        "url": "https://open.spotify.com/album/6oXAEUnTApKVWaMsVYBylO"
-      },
-      "artists": [
-        {
-          "name": "RIAN",
-          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
-        }
-      ],
-      "duration_ms": 160702,
-      "name": "Homeoffice",
-      "url": "https://open.spotify.com/track/11k0f96I27EykmXCrQAmkw"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "A New Day Has Come",
         "url": "https://open.spotify.com/album/79BUFCc813MsPvj9cpbmVN"
@@ -125,23 +125,7 @@
       "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -157,55 +141,23 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "Party in der Gondel (Official)",
-        "url": "https://open.spotify.com/album/0OEFX0FwqTgzJuh6VB9XVe"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "CubaAusLibre",
-          "url": "https://open.spotify.com/artist/03tlHZxWzLGbqd2C9Eqf2J"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 148521,
-      "name": "Party in der Gondel (Official)",
-      "url": "https://open.spotify.com/track/7bWuXX0SS0N7BctaUQiw2I"
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/7826zI710TsTIJM2jao3EE"
-      },
-      "artists": [
-        {
-          "name": "Sean Ok",
-          "url": "https://open.spotify.com/artist/1bsrTaW6CckCpXMVCVRD2y"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/6TyQQqKQpaBCXPkhM7QmGq"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Ohne Gummi pudern",
-        "url": "https://open.spotify.com/album/6PPDSJ3o0tJynjtVjrbiJN"
-      },
-      "artists": [
-        {
-          "name": "TikiToki",
-          "url": "https://open.spotify.com/artist/4PILD0DBtXfR5OtqCYIjaR"
-        }
-      ],
-      "duration_ms": 172439,
-      "name": "Ohne Gummi pudern",
-      "url": "https://open.spotify.com/track/4sIL1XRz76D0OXgOW1Vq9J"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Paradies (Dancehall Version)",
         "url": "https://open.spotify.com/album/2tAMYCOHnOOT8jy3UNqUxA"
@@ -221,23 +173,39 @@
       "url": "https://open.spotify.com/track/6eVPz6D8lyiXyPZwU0Znh7"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "Versatile - The Dark Triad (Slowed + Low Honor)",
-        "url": "https://open.spotify.com/album/544701joUsTjzSZSxcqOtb"
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/7826zI710TsTIJM2jao3EE"
       },
       "artists": [
         {
-          "name": "slenderpill",
-          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+          "name": "Sean Ok",
+          "url": "https://open.spotify.com/artist/1bsrTaW6CckCpXMVCVRD2y"
         }
       ],
-      "duration_ms": 132571,
-      "name": "Versatile - The Dark Triad - Slowed + Low Honor",
-      "url": "https://open.spotify.com/track/0dLohoopycOGpzoaFROXvk"
+      "duration_ms": 222933,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/6TyQQqKQpaBCXPkhM7QmGq"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Party in der Gondel (Official)",
+        "url": "https://open.spotify.com/album/0OEFX0FwqTgzJuh6VB9XVe"
+      },
+      "artists": [
+        {
+          "name": "CubaAusLibre",
+          "url": "https://open.spotify.com/artist/03tlHZxWzLGbqd2C9Eqf2J"
+        }
+      ],
+      "duration_ms": 148521,
+      "name": "Party in der Gondel (Official)",
+      "url": "https://open.spotify.com/track/7bWuXX0SS0N7BctaUQiw2I"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "HEUTE MIT MIR X GOTH",
         "url": "https://open.spotify.com/album/2UmqJSgq7PCU82TzVRBXee"
@@ -253,23 +221,39 @@
       "url": "https://open.spotify.com/track/16GAchsKmQ5HOHu3EDuKvm"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "Baby Bell",
-        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+        "name": "Versatile - The Dark Triad (Slowed + Low Honor)",
+        "url": "https://open.spotify.com/album/544701joUsTjzSZSxcqOtb"
       },
       "artists": [
         {
-          "name": "Breitner",
-          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
         }
       ],
-      "duration_ms": 159565,
-      "name": "Baby Bell",
-      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
+      "duration_ms": 132571,
+      "name": "Versatile - The Dark Triad - Slowed + Low Honor",
+      "url": "https://open.spotify.com/track/0dLohoopycOGpzoaFROXvk"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Ohne Gummi pudern",
+        "url": "https://open.spotify.com/album/6PPDSJ3o0tJynjtVjrbiJN"
+      },
+      "artists": [
+        {
+          "name": "TikiToki",
+          "url": "https://open.spotify.com/artist/4PILD0DBtXfR5OtqCYIjaR"
+        }
+      ],
+      "duration_ms": 172439,
+      "name": "Ohne Gummi pudern",
+      "url": "https://open.spotify.com/track/4sIL1XRz76D0OXgOW1Vq9J"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
@@ -293,7 +277,39 @@
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Baby Bell",
+        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "duration_ms": 159565,
+      "name": "Baby Bell",
+      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "11 Jecke (Bei 3 ist hier Karneval)",
+        "url": "https://open.spotify.com/album/1doKljwntevCDbqRZKiRm7"
+      },
+      "artists": [
+        {
+          "name": "@47_k\u00f611sch",
+          "url": "https://open.spotify.com/artist/7bHmLfrQQVPQTIChPBYh5b"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "11 Jecke (Bei 3 ist hier Karneval)",
+      "url": "https://open.spotify.com/track/7oZok9vYx223mL1Rrw9a5x"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Du bist toll",
         "url": "https://open.spotify.com/album/3BYma6wGIv3gyBSqnTsclv"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/6qdnFE7DmhNyXOuDKhtA0X"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Yeralt\u0131",
         "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
@@ -325,47 +341,23 @@
       "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "Neoperreo",
-        "url": "https://open.spotify.com/album/1CDb0veteA8FgtNgdHOPBo"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Secret Society",
-          "url": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
-        },
-        {
-          "name": "ALIC3E",
-          "url": "https://open.spotify.com/artist/68nz21mYsAWL1Zq3lN8HAo"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 121570,
-      "name": "Neoperreo",
-      "url": "https://open.spotify.com/track/0ZfNtW6eYyEfY2ni14Thwu"
+      "duration_ms": 204768,
+      "name": "EoO",
+      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "MY JEALOUSY",
-        "url": "https://open.spotify.com/album/29hN0ogSIO1nh8yXWQu7ub"
-      },
-      "artists": [
-        {
-          "name": "vivi baby",
-          "url": "https://open.spotify.com/artist/2VEjtfZuEMFeHHc1Zp5L6R"
-        },
-        {
-          "name": "ovg!",
-          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
-        }
-      ],
-      "duration_ms": 150770,
-      "name": "MY JEALOUSY",
-      "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -385,99 +377,63 @@
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Neoperreo",
+        "url": "https://open.spotify.com/album/1CDb0veteA8FgtNgdHOPBo"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 204768,
-      "name": "EoO",
-      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "T\u00d6RKE T\u00d6RKE",
-        "url": "https://open.spotify.com/album/1LgU1COd1IGg52SdRad3zq"
-      },
-      "artists": [
-        {
-          "name": "DJ T\u00d6RKE",
-          "url": "https://open.spotify.com/artist/5gpxWxEen1TWxtw3sDU2do"
+          "name": "Secret Society",
+          "url": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
         },
         {
-          "name": "LOKIMITDERMASKE",
-          "url": "https://open.spotify.com/artist/12sYca2Uo32YM8nzx70cnQ"
+          "name": "ALIC3E",
+          "url": "https://open.spotify.com/artist/68nz21mYsAWL1Zq3lN8HAo"
         }
       ],
-      "duration_ms": 103058,
-      "name": "T\u00d6RKE T\u00d6RKE",
-      "url": "https://open.spotify.com/track/31SlSyT4hl4ydWooRKmfa7"
+      "duration_ms": 121570,
+      "name": "Neoperreo",
+      "url": "https://open.spotify.com/track/0ZfNtW6eYyEfY2ni14Thwu"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "Enchanted",
-        "url": "https://open.spotify.com/album/4tN7he6zP5ft8yv57lKptc"
+        "name": "MY JEALOUSY",
+        "url": "https://open.spotify.com/album/29hN0ogSIO1nh8yXWQu7ub"
       },
       "artists": [
         {
-          "name": "Joseph William Morgan",
-          "url": "https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03"
-        }
-      ],
-      "duration_ms": 235794,
-      "name": "Enchanted",
-      "url": "https://open.spotify.com/track/4wvEacvHvKyEuqNUfPnJrj"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Erlk\u00f6nig",
-        "url": "https://open.spotify.com/album/0eYMNcQ8Ngg5Yc9v4k0Fdu"
-      },
-      "artists": [
-        {
-          "name": "L\u016bcadelic",
-          "url": "https://open.spotify.com/artist/65WfmKecS1GdKkxURvvY1s"
-        }
-      ],
-      "duration_ms": 156529,
-      "name": "Erlk\u00f6nig",
-      "url": "https://open.spotify.com/track/5YqhT9Jiw4wz1qliKQksoZ"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Aff im Kopf - Remix",
-        "url": "https://open.spotify.com/album/3qTJxPuJwyacLCHbz0x7xB"
-      },
-      "artists": [
-        {
-          "name": "Caro Fux",
-          "url": "https://open.spotify.com/artist/68nzRrHBgc1gYa0AGsi1TE"
+          "name": "vivi baby",
+          "url": "https://open.spotify.com/artist/2VEjtfZuEMFeHHc1Zp5L6R"
         },
         {
-          "name": "HERZX",
-          "url": "https://open.spotify.com/artist/3u5jqmMFSD124CWIIxlYPY"
-        },
-        {
-          "name": "Pater Alexander",
-          "url": "https://open.spotify.com/artist/5mwkvsnBdtejRzFbFODKbN"
+          "name": "ovg!",
+          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Aff im Kopf - Remix",
-      "url": "https://open.spotify.com/track/73pcYrGzhe5LlGact8yaHe"
+      "duration_ms": 150770,
+      "name": "MY JEALOUSY",
+      "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Kinderlieder zum Tanzen",
+        "url": "https://open.spotify.com/album/1L7Xlx55nojhdaJxc3elpC"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "duration_ms": 175790,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/6ogNEis5cmjtWmhTfb85aI"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "6 Little Eggs",
         "url": "https://open.spotify.com/album/2AgeiobEyuWA4Q1ZIToOOB"
@@ -501,39 +457,99 @@
       "url": "https://open.spotify.com/track/5TKlp6Wjqdi0XjK78jTRAU"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "Kinderlieder zum Tanzen",
-        "url": "https://open.spotify.com/album/1L7Xlx55nojhdaJxc3elpC"
+        "name": "Erlk\u00f6nig",
+        "url": "https://open.spotify.com/album/0eYMNcQ8Ngg5Yc9v4k0Fdu"
       },
       "artists": [
         {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+          "name": "L\u016bcadelic",
+          "url": "https://open.spotify.com/artist/65WfmKecS1GdKkxURvvY1s"
         }
       ],
-      "duration_ms": 175790,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/6ogNEis5cmjtWmhTfb85aI"
+      "duration_ms": 156529,
+      "name": "Erlk\u00f6nig",
+      "url": "https://open.spotify.com/track/5YqhT9Jiw4wz1qliKQksoZ"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "LOVE U ANYWAY",
-        "url": "https://open.spotify.com/album/5Uw07d96DTHv2p5oW5ZCGL"
+        "name": "Welcome To Miami",
+        "url": "https://open.spotify.com/album/7rWigYurpfYaDV8gee88wf"
       },
       "artists": [
         {
-          "name": "benno!",
-          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+          "name": "Bass Mode",
+          "url": "https://open.spotify.com/artist/3xlHQqCy1K3Rl1bRiQ0WBS"
         }
       ],
-      "duration_ms": 154745,
-      "name": "LOVE U ANYWAY",
-      "url": "https://open.spotify.com/track/7zirvOKv5Yi0WsXuq8f7xi"
+      "duration_ms": 169692,
+      "name": "Welcome To Miami",
+      "url": "https://open.spotify.com/track/1sDujG051zXKNA9Na89qzD"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 229381,
+      "name": "LO QUE LE PAS\u00d3 A HAWAii",
+      "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "T\u00d6RKE T\u00d6RKE",
+        "url": "https://open.spotify.com/album/1LgU1COd1IGg52SdRad3zq"
+      },
+      "artists": [
+        {
+          "name": "DJ T\u00d6RKE",
+          "url": "https://open.spotify.com/artist/5gpxWxEen1TWxtw3sDU2do"
+        },
+        {
+          "name": "LOKIMITDERMASKE",
+          "url": "https://open.spotify.com/artist/12sYca2Uo32YM8nzx70cnQ"
+        }
+      ],
+      "duration_ms": 103058,
+      "name": "T\u00d6RKE T\u00d6RKE",
+      "url": "https://open.spotify.com/track/31SlSyT4hl4ydWooRKmfa7"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Aff im Kopf - Remix",
+        "url": "https://open.spotify.com/album/3qTJxPuJwyacLCHbz0x7xB"
+      },
+      "artists": [
+        {
+          "name": "Caro Fux",
+          "url": "https://open.spotify.com/artist/68nzRrHBgc1gYa0AGsi1TE"
+        },
+        {
+          "name": "HERZX",
+          "url": "https://open.spotify.com/artist/3u5jqmMFSD124CWIIxlYPY"
+        },
+        {
+          "name": "Pater Alexander",
+          "url": "https://open.spotify.com/artist/5mwkvsnBdtejRzFbFODKbN"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Aff im Kopf - Remix",
+      "url": "https://open.spotify.com/track/73pcYrGzhe5LlGact8yaHe"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -553,23 +569,39 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "Welcome To Miami",
-        "url": "https://open.spotify.com/album/7rWigYurpfYaDV8gee88wf"
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/4tN7he6zP5ft8yv57lKptc"
       },
       "artists": [
         {
-          "name": "Bass Mode",
-          "url": "https://open.spotify.com/artist/3xlHQqCy1K3Rl1bRiQ0WBS"
+          "name": "Joseph William Morgan",
+          "url": "https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03"
         }
       ],
-      "duration_ms": 169692,
-      "name": "Welcome To Miami",
-      "url": "https://open.spotify.com/track/1sDujG051zXKNA9Na89qzD"
+      "duration_ms": 235794,
+      "name": "Enchanted",
+      "url": "https://open.spotify.com/track/4wvEacvHvKyEuqNUfPnJrj"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Polje ru\u017ea",
+        "url": "https://open.spotify.com/album/3wVZqgdFjbVxYSGsDlD5U9"
+      },
+      "artists": [
+        {
+          "name": "Jakov Jozinovi\u0107",
+          "url": "https://open.spotify.com/artist/4H4vGracMapJrFXdnXbFDP"
+        }
+      ],
+      "duration_ms": 199777,
+      "name": "Polje ru\u017ea",
+      "url": "https://open.spotify.com/track/05iVWcSYTMJSR3hnJJroTa"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Apologies to the Queen Mary",
         "url": "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ"
@@ -585,55 +617,23 @@
       "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/5Uw07d96DTHv2p5oW5ZCGL"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
         }
       ],
-      "duration_ms": 229381,
-      "name": "LO QUE LE PAS\u00d3 A HAWAii",
-      "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
+      "duration_ms": 154745,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/7zirvOKv5Yi0WsXuq8f7xi"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "AUGENFARBE HAJAR",
-        "url": "https://open.spotify.com/album/3nAstgajNVTqCUOKbMbRCu"
-      },
-      "artists": [
-        {
-          "name": "Soyhan",
-          "url": "https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa"
-        }
-      ],
-      "duration_ms": 134716,
-      "name": "AUGENFARBE HAJAR",
-      "url": "https://open.spotify.com/track/5kGQ0rTmGaPGZErTWYk9zY"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "House with a Pool",
-        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
-      },
-      "artists": [
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "L\u00e4rm",
         "url": "https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ"
@@ -649,7 +649,43 @@
       "url": "https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "En Derine",
+        "url": "https://open.spotify.com/album/2nGA1RqvIEJ3OY1ecAe1TH"
+      },
+      "artists": [
+        {
+          "name": "WTSOUNDS",
+          "url": "https://open.spotify.com/artist/27N70iRV4BrxqvFnR6CT28"
+        },
+        {
+          "name": "WTFRANK",
+          "url": "https://open.spotify.com/artist/0oP6PRV97lvonUAdTvzeqN"
+        }
+      ],
+      "duration_ms": 147407,
+      "name": "En Derine",
+      "url": "https://open.spotify.com/track/1Y0dPkNvAXzfWqhXknO8Ji"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "House with a Pool",
+        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
+      },
+      "artists": [
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        }
+      ],
+      "duration_ms": 216880,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "Gute Laune (Party Remix)",
         "url": "https://open.spotify.com/album/59rTJNhTGiFRMp2TqhO8vc"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/7oRWSpx40nSgdcmTlWHphX"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
         "url": "https://open.spotify.com/album/6lJ6soZJ32CzhmXtRDeRv9"
@@ -689,63 +725,23 @@
       "url": "https://open.spotify.com/track/5mMY6AShezyO7zBsGwvvGt"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "TIKI TIKI",
-        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+        "name": "AUGENFARBE HAJAR",
+        "url": "https://open.spotify.com/album/3nAstgajNVTqCUOKbMbRCu"
       },
       "artists": [
         {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+          "name": "Soyhan",
+          "url": "https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa"
         }
       ],
-      "duration_ms": 121739,
-      "name": "TIKI TIKI - Slowed",
-      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
+      "duration_ms": 134716,
+      "name": "AUGENFARBE HAJAR",
+      "url": "https://open.spotify.com/track/5kGQ0rTmGaPGZErTWYk9zY"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Polje ru\u017ea",
-        "url": "https://open.spotify.com/album/3wVZqgdFjbVxYSGsDlD5U9"
-      },
-      "artists": [
-        {
-          "name": "Jakov Jozinovi\u0107",
-          "url": "https://open.spotify.com/artist/4H4vGracMapJrFXdnXbFDP"
-        }
-      ],
-      "duration_ms": 199777,
-      "name": "Polje ru\u017ea",
-      "url": "https://open.spotify.com/track/05iVWcSYTMJSR3hnJJroTa"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz"
-      },
-      "artists": [
-        {
-          "name": "Only Chris",
-          "url": "https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G"
-        },
-        {
-          "name": "MALARKEY",
-          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
-        },
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 139687,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "I'm Not What Happened To Me",
         "url": "https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L"
@@ -761,7 +757,95 @@
       "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "KATYUSHA",
+        "url": "https://open.spotify.com/album/1N6ikNoOz1sKOVgj4RvzrT"
+      },
+      "artists": [
+        {
+          "name": "BADGRUB",
+          "url": "https://open.spotify.com/artist/1oHVosfRZkSB6LA5pFAta2"
+        },
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "KATYUSHA",
+      "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        }
+      ],
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Achy Breaky Heart",
+        "url": "https://open.spotify.com/album/3orboiB6xLOIkKXvoywhVT"
+      },
+      "artists": [
+        {
+          "name": "Shifty Brent",
+          "url": "https://open.spotify.com/artist/1x0YcF98Fketh6iGtkAfSX"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/4PleDMxu2thEpWhlmCBs3B"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Wiener Tauben",
+        "url": "https://open.spotify.com/album/3PYtGy75BSze40TPy0KJyM"
+      },
+      "artists": [
+        {
+          "name": "CHURRO64",
+          "url": "https://open.spotify.com/artist/6klhPZOfMdj8KF0FK4ZAjy"
+        },
+        {
+          "name": "luisa schweig",
+          "url": "https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Wiener Tauben",
+      "url": "https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/77rPNlZk0Q1MISlzrNU8JG"
+      },
+      "artists": [
+        {
+          "name": "MA:RK",
+          "url": "https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD"
+    },
+    {
+      "added_at": "2026-02-14 13:58:03",
       "album": {
         "name": "HEAVENLY JUMPSTYLE",
         "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
@@ -785,124 +869,28 @@
       "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
     },
     {
-      "added_at": "2026-02-13 13:55:05",
+      "added_at": "2026-02-14 13:58:03",
       "album": {
-        "name": "That's the Way It Is",
-        "url": "https://open.spotify.com/album/7kZB9awZC29eaIpVRgF0BQ"
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz"
       },
       "artists": [
         {
-          "name": "Kastra",
-          "url": "https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC"
+          "name": "Only Chris",
+          "url": "https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G"
         },
         {
-          "name": "Lena Leon",
-          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
-        }
-      ],
-      "duration_ms": 181565,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/3IN5K5LG1EGzFak9e0GNrC"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Wiener Tauben",
-        "url": "https://open.spotify.com/album/3PYtGy75BSze40TPy0KJyM"
-      },
-      "artists": [
-        {
-          "name": "CHURRO64",
-          "url": "https://open.spotify.com/artist/6klhPZOfMdj8KF0FK4ZAjy"
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
         },
         {
-          "name": "luisa schweig",
-          "url": "https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I"
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
         }
       ],
-      "duration_ms": 177396,
-      "name": "Wiener Tauben",
-      "url": "https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Achy Breaky Heart",
-        "url": "https://open.spotify.com/album/3orboiB6xLOIkKXvoywhVT"
-      },
-      "artists": [
-        {
-          "name": "Shifty Brent",
-          "url": "https://open.spotify.com/artist/1x0YcF98Fketh6iGtkAfSX"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/4PleDMxu2thEpWhlmCBs3B"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "zwei fremde",
-        "url": "https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7"
-      },
-      "artists": [
-        {
-          "name": "Julia Wulf",
-          "url": "https://open.spotify.com/artist/4ObtPV2oJrfSRQBEFXhNfr"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "zwei fremde",
-      "url": "https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA"
-    },
-    {
-      "added_at": "2026-02-13 13:55:05",
-      "album": {
-        "name": "Makina Time",
-        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "Dj Konik",
-          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        }
-      ],
-      "duration_ms": 130090,
-      "name": "Makina Time",
-      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
+      "duration_ms": 139687,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j"
     }
   ],
   "unique_name": "Viral 50 - Austria",

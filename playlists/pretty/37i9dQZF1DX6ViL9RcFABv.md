@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Myles 6ix, Teetwo, TeniTeach
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,753 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,752 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 53 | [Paracetamol](https://open.spotify.com/track/7hu5edQuJCTMEnKbox10mC) | [S\. PEDRO](https://open.spotify.com/artist/5k3R2vdBtoL88QHXGqZN56) | [Paracetamol](https://open.spotify.com/album/40udlbaWhFIquxsn4yIPqg) | 2:49 |
 | 54 | [Patroa](https://open.spotify.com/track/3uSTx9xWkf7RTHdxRefuQ2) | [Archie](https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P) | [Patroa](https://open.spotify.com/album/32C3J9lftiE87G55F5ThXW) | 2:50 |
 | 55 | [Sótão dos Porquês](https://open.spotify.com/track/2WttNRFTl0Aez48Cq8uj2J) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Sótão dos Porquês](https://open.spotify.com/album/6eggTVxskSQRS8QkZHjmf4) | 2:56 |
-| 56 | [Ficar Óai](https://open.spotify.com/track/1nDOYhM8Xl18RAEzoN3ZAU) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Zé Amaro](https://open.spotify.com/artist/4RPhwXdkeoT1IYQ1sQIEvi) | [Ficar Óai](https://open.spotify.com/album/03GkXezi0YyOGnE5AbGrfX) | 3:12 |
+| 56 | [Ficar Óai \(feat\. Zé Amaro\)](https://open.spotify.com/track/1nDOYhM8Xl18RAEzoN3ZAU) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Zé Amaro](https://open.spotify.com/artist/4RPhwXdkeoT1IYQ1sQIEvi) | [Ficar Óai \(feat\. Zé Amaro\)](https://open.spotify.com/album/03GkXezi0YyOGnE5AbGrfX) | 3:12 |
 | 57 | [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 |
 | 58 | [Tem lá uma tristeza](https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Tem lá uma tristeza](https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY) | 2:40 |
 | 59 | [Maria do Café](https://open.spotify.com/track/32h70zsAWUjdJXV26dGBvJ) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8) | [Maria do Café](https://open.spotify.com/album/6bwB05lzSxzjf9McKQWxKC) | 3:15 |

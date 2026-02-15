@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4098452,
+  "num_followers": 4098700,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAACYNs0pjrI7i+9DPHUl2UPU",
+  "snapshot_id": "aY5pgAAAAACOeoj9t92Upw6/VdaosNoh",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 283520,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/0FDjc7fIiK29BWH45Ka7Vp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 268400,
       "name": "My Name Is",
       "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 283520,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0FDjc7fIiK29BWH45Ka7Vp"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 392826,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When I'm Gone",
         "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 281320,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 392826,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killshot",
-        "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 253579,
-      "name": "Killshot",
-      "url": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killshot",
+        "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 253579,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Need A Doctor",
         "url": "https://open.spotify.com/album/45IcnOlgrZDKNwwbNO7CAn"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 283733,
       "name": "I Need A Doctor",
       "url": "https://open.spotify.com/track/70ATm56tH7OrQ1zurYssz0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 265025,
-      "name": "Beautiful Pain",
-      "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 269554,
       "name": "Venom - Music From The Motion Picture",
       "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 265025,
+      "name": "Beautiful Pain",
+      "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
     },
     {
       "added_at": null,

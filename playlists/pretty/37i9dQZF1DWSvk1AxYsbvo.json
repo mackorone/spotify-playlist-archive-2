@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 25821,
+  "num_followers": 25828,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "\u96e8\u5f8c uuhu",
-        "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
-      },
-      "artists": [
-        {
-          "name": "Jeon Jin Hee",
-          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "light",
-      "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 195013,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "\u96e8\u5f8c uuhu",
+        "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "light",
+      "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/2QB19HyUC6dU3uoaA7TMzT"
-      },
-      "artists": [
-        {
-          "name": "soye",
-          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/0ssJ1aWcx4cfe7PVbQ29fz"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "Echo (feat .JUKJAE)",
         "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "Stairs",
-        "url": "https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k"
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/2QB19HyUC6dU3uoaA7TMzT"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
         }
       ],
-      "duration_ms": 167172,
-      "name": "L\u2019Amour, Les Baguettes, Paris",
-      "url": "https://open.spotify.com/track/0hteKETzxBHJXWwdUhZaKI"
+      "duration_ms": 170000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/0ssJ1aWcx4cfe7PVbQ29fz"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -787,6 +771,22 @@
       "duration_ms": 223000,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "Stairs",
+        "url": "https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 167172,
+      "name": "L\u2019Amour, Les Baguettes, Paris",
+      "url": "https://open.spotify.com/track/0hteKETzxBHJXWwdUhZaKI"
     },
     {
       "added_at": "2026-02-09 05:31:42",

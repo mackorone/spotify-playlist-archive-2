@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-473 songs - 1 day 0 hr 23 min
+474 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Angelina](https://open.spotify.com/track/7diSzKYr6oXl8YlIHfvLrg) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Drinks](https://open.spotify.com/album/05IO5tRFtJE3yDlRbykmdH) | 2:58 | 2025-05-08 | 2025-05-16 |
 | [Another Heart](https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Another Heart](https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d) | 2:22 | 2024-06-27 | 2024-10-04 |
 | [Antidote](https://open.spotify.com/track/386EuKw40zFJix1D0pGsBD) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Antidote](https://open.spotify.com/album/65kIBpcdf6PSftAIyyjl1q) | 3:19 | 2025-03-14 | 2025-04-18 |
+| [As I Am](https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [As I Am](https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC) | 3:27 | 2026-02-12 |  |
 | [as long as i'm lost with you](https://open.spotify.com/track/0eApAXWTVJInufUGjdnQRf) | [the great stoyan duo](https://open.spotify.com/artist/2AADXTogH3ieTwhgU2XwfF) | [as long as i'm lost with you](https://open.spotify.com/album/5ndKxXcnDgzqqYz1uzWbC3) | 3:13 | 2025-04-17 | 2025-04-25 |
 | [As Long as You Stay Here](https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [As Long as You Stay Here](https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb) | 1:55 | 2024-11-22 | 2025-01-31 |
 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2024-06-27 | 2025-08-01 |
@@ -369,7 +370,7 @@
 | [Silhouette](https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Silhouette](https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY) | 2:56 | 2025-09-05 |  |
 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 | 2024-11-29 | 2024-12-21 |
 | [silver lining](https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [silver lining](https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5) | 3:42 | 2024-06-27 | 2024-10-04 |
-| [Since We Met](https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Since We Met](https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh) | 2:24 | 2025-02-07 |  |
+| [Since We Met](https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Since We Met](https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh) | 2:24 | 2025-02-07 | 2026-02-15 |
 | [Since You Left Me](https://open.spotify.com/track/0UfcxYW66XV0svQw73D2nR) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Since You Left Me](https://open.spotify.com/album/2rpoWA4DCH3qCpem8aWnd3) | 2:31 | 2024-07-04 | 2024-09-07 |
 | [Skylines](https://open.spotify.com/track/1VZifdc2a0Fvbqpsj93chz) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Skylines](https://open.spotify.com/album/56gdvRrU2DDBbaoL4RxlFp) | 3:07 | 2025-05-15 | 2025-05-23 |
 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 | 2024-10-03 | 2025-01-16 |

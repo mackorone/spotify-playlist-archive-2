@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Sun\-El Musician
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,104 likes - 55 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,149 likes - 55 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

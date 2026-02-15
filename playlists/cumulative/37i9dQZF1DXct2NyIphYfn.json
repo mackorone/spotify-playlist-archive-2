@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Facile",
+        "url": "https://open.spotify.com/album/1F1T4PKb3jQisCWIh394zG"
+      },
+      "artists": [
+        {
+          "name": "MARISOL",
+          "url": "https://open.spotify.com/artist/3nDAA2eQulfDw50we3zdhW"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237955,
+      "name": "Facile",
+      "url": "https://open.spotify.com/track/6r9bGYQzXAY29e6JzadyrY"
+    },
+    {
+      "album": {
         "name": "Big Boy",
         "url": "https://open.spotify.com/album/3VEHArYf1TweZAxKlX0P8R"
       },

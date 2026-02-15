@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-15",
       "duration_ms": 176543,
       "name": "Livin Alright",
       "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
@@ -1804,6 +1804,24 @@
       "duration_ms": 206685,
       "name": "Love's a Stranger",
       "url": "https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ"
+    },
+    {
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "album": {

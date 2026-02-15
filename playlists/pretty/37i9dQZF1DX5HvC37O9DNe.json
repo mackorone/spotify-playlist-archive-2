@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc85 amo, troppo noi \ud83e\udec2",
-  "num_followers": 4213,
+  "num_followers": 4223,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 222794,
-      "name": "La musica non c'\u00e8",
-      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 222794,
+      "name": "La musica non c'\u00e8",
+      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
     },
     {
       "added_at": "2025-05-28 13:33:55",

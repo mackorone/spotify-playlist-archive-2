@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 731859,
+  "num_followers": 731852,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -363,30 +363,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Talk of the Town",
-      "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Talk of the Town",
+      "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "NOW IT'S GONE",
-        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        }
-      ],
-      "duration_ms": 143184,
-      "name": "NOW IT'S GONE",
-      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Appetite",
         "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Sippin",
-        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
+        "name": "Beat Is Jumping",
+        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
       },
       "artists": [
         {
-          "name": "Milco",
-          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
         },
         {
-          "name": "DEJA",
-          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 158075,
-      "name": "Sippin",
-      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
+      "duration_ms": 139436,
+      "name": "Beat Is Jumping",
+      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1203,38 +1203,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+        "name": "Sippin",
+        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
       },
       "artists": [
         {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Beat Is Jumping",
-        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+          "name": "Milco",
+          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
         },
         {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+          "name": "DEJA",
+          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
         }
       ],
-      "duration_ms": 139436,
-      "name": "Beat Is Jumping",
-      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
+      "duration_ms": 158075,
+      "name": "Sippin",
+      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1255,6 +1239,22 @@
       "duration_ms": 134570,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Satisfaction Skank",
-        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 199488,
-      "name": "Satisfaction Skank",
-      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "LEVELS",
+        "url": "https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9"
+      },
+      "artists": [
+        {
+          "name": "FUZION",
+          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
+        }
+      ],
+      "duration_ms": 198455,
+      "name": "LEVELS",
+      "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/7zRVJ1xwyE3udvxmPKhV3T"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "LEVELS",
-        "url": "https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9"
-      },
-      "artists": [
-        {
-          "name": "FUZION",
-          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
-        }
-      ],
-      "duration_ms": 198455,
-      "name": "LEVELS",
-      "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"
     },
     {
       "added_at": "2026-01-23 00:00:40",

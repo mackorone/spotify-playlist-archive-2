@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,404 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,448 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 24 | [King Of The Mountain](https://open.spotify.com/track/21ZTkAe7nw4kAR1aHyZXSx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial](https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j) | 4:53 |
 | 25 | [Symphony in Blue \- 2018 Remaster](https://open.spotify.com/track/1ADI3yWnCH2cgZE9y6Ss0j) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart \(2018 Remaster\)](https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8) | 3:36 |
 | 26 | [Delius \- 2018 Remaster](https://open.spotify.com/track/3dSd4f3KMC3efgKlODlnfZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:51 |
-| 27 | [Under The Ivy](https://open.spotify.com/track/7iHwqxpR1ZH1fl90n4fjOf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:08 |
-| 28 | [There Goes A Tenner](https://open.spotify.com/track/5Bqqqb6wgmWliES8hWXTz2) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 3:25 |
+| 27 | [There Goes A Tenner](https://open.spotify.com/track/5Bqqqb6wgmWliES8hWXTz2) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 3:25 |
+| 28 | [Under The Ivy](https://open.spotify.com/track/7iHwqxpR1ZH1fl90n4fjOf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:08 |
 | 29 | [Somewhere In Between \- 2018 Remaster](https://open.spotify.com/track/49nRB16eio3crw2VprMRHG) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:04 |
 | 30 | [Love And Anger \- 2018 Remaster](https://open.spotify.com/track/1u72fgtF6guGfTjwgeHvdQ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:42 |
 | 31 | [How To Be Invisible](https://open.spotify.com/track/26MIynckGNn231BFt9ZjDj) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial](https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j) | 5:32 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 43 | [Prelude \- 2018 Remaster](https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:25 |
 | 44 | [Moments Of Pleasure \- 2011 Remastered Version](https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes](https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i) | 5:17 |
 | 45 | [Houdini \- 2018 Remaster](https://open.spotify.com/track/18hSVEiQxA9mbIq23fyNfz) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming \(2018 Remaster\)](https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2) | 3:49 |
-| 46 | [Mná na hÉireann](https://open.spotify.com/track/0FceQXr3vhS0J3KnGwuBcp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:56 |
-| 47 | [The Red Shoes \- 2018 Remaster](https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:02 |
-| 48 | [An Architect's Dream \- 2018 Remaster](https://open.spotify.com/track/0RwmRvaoJKpTMnenlxYMxc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 4:54 |
+| 46 | [The Red Shoes \- 2018 Remaster](https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:02 |
+| 47 | [Mná na hÉireann](https://open.spotify.com/track/0FceQXr3vhS0J3KnGwuBcp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:56 |
+| 48 | [Aerial Tal \- 2018 Remaster](https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:01 |
 | 49 | [Wild Man](https://open.spotify.com/track/0XCWo7RVAkJXMD9fiK0bFZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 7:16 |
-| 50 | [You Want Alchemy? \- Remastered 2025](https://open.spotify.com/track/7CaLGgsH90UmCaRxgPXPkc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 3:57 |
+| 50 | [Deeper Understanding \- 2018 Remaster](https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:45 |
 
-Snapshot ID: `aY0YAAAAAABvQ9FECnWDbbgrFIRTgCZy`
+Snapshot ID: `aY5pgAAAAAAHRDdJibTGDFJ+T4/H4exe`

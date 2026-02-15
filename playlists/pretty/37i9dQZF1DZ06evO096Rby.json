@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 53414,
+  "num_followers": 53442,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY0YAAAAAABGwhuM3uGK6nVwNsXv3Muc",
+  "snapshot_id": "aY5pgAAAAABem9lcR87cAIAaxkWdDp57",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 155365,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": null,
@@ -571,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Banda y Norte\u00f1o",
-        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Aliados del tiempo - En Vivo",
-      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
       },
@@ -599,6 +603,22 @@
       "duration_ms": 153431,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Banda y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Aliados del tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
     },
     {
       "added_at": null,
@@ -787,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Los 5 Pesos",
-      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HDTPM",
         "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 157874,
       "name": "HDTPM",
       "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Los 5 Pesos",
+      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
     },
     {
       "added_at": null,
@@ -911,26 +931,6 @@
       "duration_ms": 234416,
       "name": "El Vaso Derrama - En Vivo",
       "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",
