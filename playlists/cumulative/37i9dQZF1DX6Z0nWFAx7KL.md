@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-354 songs - 17 hr 31 min
+355 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Full Speed](https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ) | [Bella Who](https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc), [DOM](https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP) | [Full Speed](https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq) | 4:11 | 2026-02-05 |  |
 | [Going Home](https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Max Vidima](https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6) | [Going Home](https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y) | 4:22 | 2022-09-15 | 2023-03-03 |
 | [Gold](https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Gold](https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y) | 3:40 | 2022-09-15 | 2024-07-27 |
+| [Golden Hour](https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO) | [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Golden Hour](https://open.spotify.com/album/5xhtKAwzlpmRIyQAla6upK) | 2:40 | 2026-02-13 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0x83X3XJbNHDJ56ZnNMRW8) | [gussago](https://open.spotify.com/artist/6qipj1ZYBScGdAEJFuj5Dd), [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Good Luck, Babe!](https://open.spotify.com/album/0gvT1BGZ6cBRJa3rvUGRz3) | 2:17 | 2025-02-27 | 2025-04-04 |
 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 | 2023-03-02 | 2024-03-21 |
 | [Happy Now?](https://open.spotify.com/track/55HEIbHdH5EH2RDr6U3kRt) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [88Birds](https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1) | [PHANTOMGRID](https://open.spotify.com/album/0XGuZEfwEPlOXjgr5KiE2B) | 5:19 | 2025-10-09 |  |
@@ -356,7 +357,7 @@
 | [Willing To Lose](https://open.spotify.com/track/35SzKreqd9kzvbnUFRM0tf) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Willing To Lose](https://open.spotify.com/album/4uPzhveNpN5GMe1j2o7iLr) | 2:20 | 2026-02-05 |  |
 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 | 2022-09-15 | 2023-03-23 |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2022-09-15 | 2022-11-17 |
-| [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 | 2024-12-05 |  |
+| [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 | 2024-12-05 | 2026-02-16 |
 | [Without You](https://open.spotify.com/track/70H0AMIuTm0brh3hznKvFu) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Without You](https://open.spotify.com/album/6BfoGzmHPWCL2DqWhehAcv) | 3:22 | 2025-02-28 | 2025-09-05 |
 | [Yellow](https://open.spotify.com/track/0Qo7CkcDDO6DqFvXD50kYm) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Yellow](https://open.spotify.com/album/3X0qecgrGCKkWRuZ0KfnZL) | 3:12 | 2024-10-03 | 2024-12-13 |
 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 | 2025-02-07 |  |

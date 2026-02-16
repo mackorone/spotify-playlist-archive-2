@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 16692,
+  "num_followers": 16705,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY5pgAAAAABT7AZSWhJY6qwUDhORIFPj",
+  "snapshot_id": "aY+7AAAAAABt7PuJ/YmvZVunPiKLxdCA",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,26 @@
       "duration_ms": 223458,
       "name": "My Heart Will Go On - triple j Like a Version",
       "url": "https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
     }
   ],
   "unique_name": "This Is MUNA",

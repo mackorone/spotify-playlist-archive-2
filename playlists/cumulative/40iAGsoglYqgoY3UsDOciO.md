@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-486 songs - 23 hr 29 min
+487 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [I am not a robot](https://open.spotify.com/track/078k8YeljP4EtllR0DqsQi) | [Markeq](https://open.spotify.com/artist/6w0JFZFstrYbJzT9O2Lryg) | [Invitation to travel](https://open.spotify.com/album/4i5vdmKFPJVyT0pN7uzCfd) | 2:55 | 2024-06-18 |  |
 | [I Can't Lie \(with Kodak Black\)](https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [I Can't Lie \(with Kodak Black\) \[Versions\]](https://open.spotify.com/album/61ZFEiyOrBAMzrYGd9HMnR) | 3:06 | 2023-07-26 |  |
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-07-26 |  |
+| [I'm From Africa](https://open.spotify.com/track/6oJCPKk3jtduUFincL3Gh8) | [Chris Kellah](https://open.spotify.com/artist/6KHK8bvEQe9wmK7QnIPh37) | [I'm From Africa](https://open.spotify.com/album/5CMvHn6oy2Xk8YyuoSniqh) | 3:10 | 2026-02-15 |  |
 | [I'm Not in Your Mind](https://open.spotify.com/track/1jHUU7DUC3UiLqWiwgo3FJ) | [Dave Mash](https://open.spotify.com/artist/5FpUEr9AwJ3HYNRxLI3dOb) | [I'm Not in Your Mind](https://open.spotify.com/album/6XXiod2gIxmQ7ekD4Ry7eM) | 3:09 | 2024-06-03 |  |
 | [I, Heart U](https://open.spotify.com/track/5y1yng2h1HK1D23b9ptcdg) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 3:28 | 2023-07-26 |  |
 | [iLOVEU](https://open.spotify.com/track/7eeZkbiR1x4omo8j3Vr4JJ) | [KadeAgain](https://open.spotify.com/artist/30M2RlxlFQjy4Lo2Y23Vqu) | [iLOVEU](https://open.spotify.com/album/33XQGJsoIXduqS8sjmx2a4) | 2:14 | 2025-11-15 |  |

@@ -1,13 +1,45 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 279,
+  "num_followers": 280,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHggbN5HGhw8HVrWAVvDAKATYCjQCO",
+  "snapshot_id": "AAAHhGG4Iuqd0BiBl4aMhZzYIeet0fF9",
   "tracks": [
+    {
+      "added_at": "2026-02-15 22:52:31",
+      "album": {
+        "name": "The Electric Guitar Monument",
+        "url": "https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf"
+      },
+      "artists": [
+        {
+          "name": "Abbracci",
+          "url": "https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO"
+        }
+      ],
+      "duration_ms": 132792,
+      "name": "Let it all out",
+      "url": "https://open.spotify.com/track/6feDqUIBfhQJWdCL0iDnfv"
+    },
+    {
+      "added_at": "2026-02-15 18:58:37",
+      "album": {
+        "name": "Pensiero Nero",
+        "url": "https://open.spotify.com/album/6tTjgArejhqTnb5l9sY6qO"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "duration_ms": 273050,
+      "name": "Pensiero Nero",
+      "url": "https://open.spotify.com/track/0nkg3BoJ3Xou1xYiiaFu7M"
+    },
     {
       "added_at": "2026-02-14 18:52:15",
       "album": {

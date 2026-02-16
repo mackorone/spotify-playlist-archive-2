@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover:  SINACH
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,490 likes - 80 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,548 likes - 80 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 79 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
 | 80 | [Glory to Your Name \(Yahweh Chant\)](https://open.spotify.com/track/20qyfm6CoXczO6HomsunrZ) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [Marcus McFarlin](https://open.spotify.com/artist/3GSPi1jXT6v4lJ2gV7LSzW) | [Glory to Your Name \(Yahweh Chant\)](https://open.spotify.com/album/6tXnQ7pvb4u5aij6gejcE0) | 5:09 |
 
-Snapshot ID: `AAAAAFSxzztqVOku7pjHFd8dNFjNHiHw`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

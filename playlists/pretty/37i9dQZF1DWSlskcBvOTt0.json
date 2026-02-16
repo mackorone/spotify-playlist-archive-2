@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 581018,
+  "num_followers": 581090,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
-        "name": "Back To Life",
-        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Samm (BE)",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
         "name": "Keep Me Close",
         "url": "https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 238415,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
         "name": "Natural Blues",
         "url": "https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 155476,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Satie",
-          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Mark Borino",
+          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/6ee6CcsF6D44Kv7LJDgrtX"
       },
@@ -1767,22 +1787,30 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+        "name": "Angeke",
+        "url": "https://open.spotify.com/album/3LHxLqMXWYxG00vMPAfAg5"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
         },
         {
-          "name": "Mark Borino",
-          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        },
+        {
+          "name": "Kenza",
+          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
+        },
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
         }
       ],
-      "duration_ms": 207804,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+      "duration_ms": 352051,
+      "name": "Angeke",
+      "url": "https://open.spotify.com/track/1qWoAi5DIfUYqC7nS5aBdS"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -1819,34 +1847,6 @@
       "duration_ms": 176528,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
-        "name": "Angeke",
-        "url": "https://open.spotify.com/album/3LHxLqMXWYxG00vMPAfAg5"
-      },
-      "artists": [
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        },
-        {
-          "name": "Thatohatsi",
-          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
-        },
-        {
-          "name": "Kenza",
-          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
-        },
-        {
-          "name": "Jnr SA",
-          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
-        }
-      ],
-      "duration_ms": 352051,
-      "name": "Angeke",
-      "url": "https://open.spotify.com/track/1qWoAi5DIfUYqC7nS5aBdS"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/4ySrNFGuhu4uJfFLwxAq7v"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 220322,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/6M8cnLqv9XJBb9XTxMdwn5"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
         "name": "Feel the Rhythm",
         "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
       },
@@ -2243,22 +2259,6 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
-      },
-      "artists": [
-        {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
       },
@@ -2279,6 +2279,38 @@
       "duration_ms": 376271,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
+        "name": "Track With The Organ",
+        "url": "https://open.spotify.com/album/03NrClkwCuRCHhWmtXqYDy"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 132688,
+      "name": "Track With The Organ",
+      "url": "https://open.spotify.com/track/7lysSENrRlBL6kjFfmyTZR"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -2319,6 +2351,26 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
+      },
+      "artists": [
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN"
       },
@@ -2343,38 +2395,22 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
       },
       "artists": [
         {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
         },
         {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
         }
       ],
-      "duration_ms": 232000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
-        "name": "Track With The Organ",
-        "url": "https://open.spotify.com/album/03NrClkwCuRCHhWmtXqYDy"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 132688,
-      "name": "Track With The Organ",
-      "url": "https://open.spotify.com/track/7lysSENrRlBL6kjFfmyTZR"
+      "duration_ms": 195371,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -2415,22 +2451,22 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
+        "name": "Forever / Paper Walls",
+        "url": "https://open.spotify.com/album/5QZAs0ZeibXc7aDf5PLw7D"
       },
       "artists": [
         {
-          "name": "AV\u00d6",
-          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         },
         {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
         }
       ],
-      "duration_ms": 195371,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
+      "duration_ms": 281311,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4ofC30d8eYzGt8vMALEM4M"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -2475,38 +2511,22 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
-        "name": "Forever / Paper Walls",
-        "url": "https://open.spotify.com/album/5QZAs0ZeibXc7aDf5PLw7D"
+        "name": "Back On 74 (Rework)",
+        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
         },
         {
-          "name": "Kuuda",
-          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+          "name": "Arper",
+          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
         }
       ],
-      "duration_ms": 281311,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4ofC30d8eYzGt8vMALEM4M"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
-        "name": "i can't make you love me / started over",
-        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 209538,
-      "name": "i can't make you love me",
-      "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
+      "duration_ms": 340160,
+      "name": "Back On 74 - Rework",
+      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -2531,46 +2551,18 @@
     {
       "added_at": "2026-02-13 05:00:28",
       "album": {
-        "name": "Back On 74 (Rework)",
-        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+        "name": "i can't make you love me / started over",
+        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
       },
       "artists": [
         {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        },
-        {
-          "name": "Arper",
-          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 340160,
-      "name": "Back On 74 - Rework",
-      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
-        "name": "Hold It (feat. ZenTola)",
-        "url": "https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "ZenTola",
-          "url": "https://open.spotify.com/artist/3tLl7yUdX8XVzSAnAk27Lm"
-        }
-      ],
-      "duration_ms": 185820,
-      "name": "Hold It (feat. ZenTola)",
-      "url": "https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk"
+      "duration_ms": 209538,
+      "name": "i can't make you love me",
+      "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -2611,6 +2603,30 @@
       "duration_ms": 159555,
       "name": "Campanera",
       "url": "https://open.spotify.com/track/48PDWlo207BD9XDRZzFhR7"
+    },
+    {
+      "added_at": "2026-02-13 05:00:28",
+      "album": {
+        "name": "Hold It (feat. ZenTola)",
+        "url": "https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "ZenTola",
+          "url": "https://open.spotify.com/artist/3tLl7yUdX8XVzSAnAk27Lm"
+        }
+      ],
+      "duration_ms": 185820,
+      "name": "Hold It (feat. ZenTola)",
+      "url": "https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk"
     },
     {
       "added_at": "2026-02-13 05:00:28",
@@ -2679,26 +2695,6 @@
       "duration_ms": 251803,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
-    },
-    {
-      "added_at": "2026-02-13 05:00:28",
-      "album": {
-        "name": "Sound Of The Sunrise",
-        "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        },
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sound Of The Sunrise",
-      "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
     }
   ],
   "unique_name": "Tantra",

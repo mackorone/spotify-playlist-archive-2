@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Broken Social Scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,435 likes - 155 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,416 likes - 155 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 154 | [Spinning Around](https://open.spotify.com/track/6hPXdgRVXu1X04HenogfCN) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Spinning Around](https://open.spotify.com/album/7BYtZl0G55gqnZwFWVrzzh) | 3:22 |
 | 155 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 |
 
-Snapshot ID: `AAAAAGMMrqR5wclv278H9ZhurkBjnUAB`
+Snapshot ID: `AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR`

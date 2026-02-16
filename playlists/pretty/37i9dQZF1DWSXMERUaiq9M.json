@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Odymel",
-  "num_followers": 372862,
+  "num_followers": 372956,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "tell you straight",
-        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124864,
-      "name": "tell you straight",
-      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 125207,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -855,6 +855,26 @@
       "duration_ms": 153290,
       "name": "4 Da Ravers",
       "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Walk (feat. Kwabs)",
+        "url": "https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+        }
+      ],
+      "duration_ms": 139562,
+      "name": "Walk (feat. Kwabs)",
+      "url": "https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -935,22 +955,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf"
       },
@@ -967,8 +971,8 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Walk (feat. Kwabs)",
-        "url": "https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN"
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
       },
       "artists": [
         {
@@ -976,13 +980,13 @@
           "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
         },
         {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
         }
       ],
-      "duration_ms": 139562,
-      "name": "Walk (feat. Kwabs)",
-      "url": "https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4"
+      "duration_ms": 140459,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -999,6 +1003,22 @@
       "duration_ms": 144081,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1083,26 +1103,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        },
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 140459,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Sonne Geht Auf",
         "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
       },
@@ -1175,42 +1175,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Charlotte de Witte",
-        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 493667,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "4am In A Rave / Speed Is A Deed",
-        "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
-        }
-      ],
-      "duration_ms": 147121,
-      "name": "4am In A Rave (feat. rhys from the sticks)",
-      "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Meet Her At The Love Parade",
         "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
       },
@@ -1239,6 +1203,26 @@
       "duration_ms": 168800,
       "name": "Meet Her At The Love Parade",
       "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "4am In A Rave / Speed Is A Deed",
+        "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 147121,
+      "name": "4am In A Rave (feat. rhys from the sticks)",
+      "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1275,6 +1259,22 @@
       "duration_ms": 188259,
       "name": "Stolen Dance - Hypertechno",
       "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 493667,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "BR3ATH3",
-        "url": "https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR"
-      },
-      "artists": [
-        {
-          "name": "Kobosil",
-          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "BR3ATH3",
-      "url": "https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Smiling Through The Pain",
         "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 269252,
       "name": "Vhs",
       "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "BR3ATH3",
+        "url": "https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR"
+      },
+      "artists": [
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "BR3ATH3",
+      "url": "https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Entertain Me",
-        "url": "https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy"
-      },
-      "artists": [
-        {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Entertain Me",
-      "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Traum",
         "url": "https://open.spotify.com/album/2nbJe0AgTzQsQYvd3ZXECP"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Entertain Me",
+        "url": "https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Entertain Me",
+      "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Die Tonight",
         "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
       },
@@ -1843,6 +1843,30 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Mouth Go LaLa",
+        "url": "https://open.spotify.com/album/6PACqViUcHMi7Nm0hn9JSI"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Mouth Go LaLa",
+      "url": "https://open.spotify.com/track/780PwJDNueCJoPs3uQ9jvD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Feuerzeug & Benzin",
         "url": "https://open.spotify.com/album/5RwdhxgvrDLHrK1EW9E5WR"
       },
@@ -1855,26 +1879,6 @@
       "duration_ms": 207396,
       "name": "Feuerzeug & Benzin",
       "url": "https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Ayi Giri / Dopamine Machine",
-        "url": "https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Ayi Giri",
-      "url": "https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb"
     }
   ],
   "unique_name": "rave",

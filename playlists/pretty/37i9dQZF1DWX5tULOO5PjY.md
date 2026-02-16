@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,515 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,526 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 30 | [Feels So Real \(Won't Let Go\)](https://open.spotify.com/track/1By78kkp659I6PkaO0avAC) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Now](https://open.spotify.com/album/0CpKwwxcosSey6YRRCXESH) | 6:49 |
 | 31 | [Don't You Want My Lovin' \- Vocal](https://open.spotify.com/track/5uocwOsf1GWQacI6WAvI8G) | [Michael Baker](https://open.spotify.com/artist/0tOHEflyuIrCqNbFWOy85N) | [Don't You Want My Lovin' \(12 Inc\)](https://open.spotify.com/album/5IaYtKl4pmuCDar7O9nKIP) | 4:57 |
 | 32 | [Girl I'm Watching You](https://open.spotify.com/track/5hCrNKdCROaPyzjIfOASAN) | [Platinum Hook](https://open.spotify.com/artist/34cEAXNLDfRGLvv7bDn2Yp) | [Watching You](https://open.spotify.com/album/2xk9VODvAMmfvr66QdyTw8) | 6:37 |
-| 33 | [Twennynine \(The Rap\)](https://open.spotify.com/track/2TYN15xIuSzcvomuNdvR1k) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Just Like Dreamin'](https://open.spotify.com/album/2wfhgPW7e6rg66yZ3AWVUW) | 5:34 |
+| 33 | [Twennynine \(The Rap\)](https://open.spotify.com/track/2TYN15xIuSzcvomuNdvR1k) | [Twennynine](https://open.spotify.com/artist/13lXRJt8Oir48ON96GQo2J), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Just Like Dreamin'](https://open.spotify.com/album/2wfhgPW7e6rg66yZ3AWVUW) | 5:34 |
 | 34 | [Must Be the Music](https://open.spotify.com/track/2qbOkjN8uaplIHWYxCDFDA) | [Secret Weapon](https://open.spotify.com/artist/1rQXJNH9uyoxnXp75Xml2K) | [Must Be the Music](https://open.spotify.com/album/1E4fRBNNyllpZE7cxD3vuy) | 7:26 |
 | 35 | [The Glow of Love](https://open.spotify.com/track/2tpRtiVvuI4WnwpPYwk9Z6) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [The Glow Of Love](https://open.spotify.com/album/2rzk6jm1tR1ZSAU5IVvyFP) | 6:14 |
 | 36 | [Feelin' Lucky Lately \- Remastered](https://open.spotify.com/track/3eO590MvMxfHYBNFCVsUK6) | [High Fashion](https://open.spotify.com/artist/6axEK9sZSlbE212EPp41eg) | [Feelin' Lucky](https://open.spotify.com/album/0DaTkFRnsOiE3ImH4pWuUz) | 5:47 |

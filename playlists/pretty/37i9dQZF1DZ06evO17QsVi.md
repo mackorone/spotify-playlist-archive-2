@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,232 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,286 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 5 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
 | 6 | [Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:28 |
 | 7 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 |
-| 8 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
+| 8 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
 | 9 | [So Many Tears](https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 3:59 |
-| 10 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
+| 10 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
 | 11 | [2 Of Amerikaz Most Wanted \(ft\. Snoop Doggy Dogg\)](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:06 |
 | 12 | [Lil' Homies](https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:43 |
 | 13 | [Thugz Mansion \- 7 Remix](https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:07 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 22 | [Deadly Combination \(feat\. 2Pac\)](https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Big Picture](https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII) | 2:32 |
 | 23 | [Only God Can Judge Me \(ft\. Rappin' 4\-Tay\)](https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:56 |
 | 24 | [Until The End Of Time](https://open.spotify.com/track/5avQSAKB1dOEeIQBqV4jgW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [R.L\. Hugger](https://open.spotify.com/artist/6tUtWRGkgU68o7EblHWxgM), [Samuel J\. "Tone" Barnes](https://open.spotify.com/artist/4huJyydJJ5UeK2tSuZ70gc) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:26 |
-| 25 | [Troublesome '96](https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:37 |
-| 26 | [Soon As I Get Home](https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yaki Kadafi](https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:40 |
+| 25 | [Soon As I Get Home](https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yaki Kadafi](https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:40 |
+| 26 | [Troublesome '96](https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:37 |
 | 27 | [Thug Luv \(feat\. 2pac\)](https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Art of War: World War 2](https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx) | 5:07 |
 | 28 | [Letter 2 My Unborn](https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:55 |
 | 29 | [Temptations](https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 | 50 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 
-Snapshot ID: `aY5pgAAAAADeyKqJ8p6T5XpXGKdG0dlZ`
+Snapshot ID: `aY+7AAAAAADxrzy9n2V4KiXXMBbqlMkk`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 3 hr 21 min
+71 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,9 +38,10 @@
 | [It's Not Where You Start](https://open.spotify.com/track/55yuXvaZrxfMKapxbeadro) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP) | [Barbara Cook's Broadway](https://open.spotify.com/album/5aJhI8YlzokNJhacuItf0Y) | 2:53 | 2024-07-26 |  |
 | [Lovely To Look At](https://open.spotify.com/track/2H0ktBNfFXSTJGOg8yPinH) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 3:26 | 2024-07-26 |  |
 | [Memories Are Made Of This](https://open.spotify.com/track/4GaO5sWxTHCvLrOsLkvE8Q) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Classic Tracks](https://open.spotify.com/album/2vIHqYPo6mizY4GQYHWGZ5) | 2:15 | 2026-02-12 | 2026-02-14 |
-| [Memories Are Made of This](https://open.spotify.com/track/0nAhw6BxYnZPZYg13jUnPX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin Best Ever Collection!](https://open.spotify.com/album/6rjv4jQEQ7Y16WVEEYL6Da) | 2:17 | 2026-02-13 |  |
+| [Memories Are Made of This](https://open.spotify.com/track/0nAhw6BxYnZPZYg13jUnPX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin Best Ever Collection!](https://open.spotify.com/album/6rjv4jQEQ7Y16WVEEYL6Da) | 2:17 | 2026-02-13 | 2026-02-16 |
 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 | 2025-04-26 | 2026-02-13 |
 | [Memories Are Made Of This](https://open.spotify.com/track/2NqpaHct1cbjo5OMKVgxq1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:19 | 2024-07-26 | 2025-04-27 |
+| [Memories Are Made of This](https://open.spotify.com/track/4OnIopyOa6CrqFaVlzlJCh) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean's Best Hits: Legendary Jazz Love Songs & the 50's Sound](https://open.spotify.com/album/6YpWqOuSallsE1rbPs414O) | 2:27 | 2026-02-15 |  |
 | [My City](https://open.spotify.com/track/1t1gRXs3eDFj2DSncPIOCN) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 3:36 | 2024-07-26 |  |
 | [My Personal Property](https://open.spotify.com/track/1kFjd8pEF6h7Cu2LHTcvGT) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [I've Gotta Be Me](https://open.spotify.com/album/1DNtn7Fsu6oxk4rhPktUma) | 2:26 | 2024-07-26 |  |
 | [Nobody Does It Like Me](https://open.spotify.com/track/6VOlq6d5FTCG8NsEIIBzkD) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:10 | 2024-07-26 |  |

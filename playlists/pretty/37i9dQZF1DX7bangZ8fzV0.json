@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Leah",
-  "num_followers": 142013,
+  "num_followers": 142053,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Die Piesangskille",
-        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 246438,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Winter In Die Kaap",
         "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 206271,
       "name": "Winter In Die Kaap",
       "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Die Piesangskille",
+        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 246438,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Troumateriaal",
-        "url": "https://open.spotify.com/album/7qWT35R3KlS5cNQegnYAEt"
+        "name": "Omdat Jy Mag",
+        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 201044,
-      "name": "Troumateriaal",
-      "url": "https://open.spotify.com/track/2bxBLbKyJWd0406RLKr6wK"
+      "duration_ms": 213000,
+      "name": "Madelein",
+      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
     },
     {
       "added_at": "2026-01-15 22:00:30",

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-348 songs - 23 hr 57 min
+349 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2005](https://open.spotify.com/track/5B7WC3RAeh3aEjnZ2qc2JF) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2005](https://open.spotify.com/album/4xhy1R0xkrbmbiE24QH1V0) | 3:19 | 2026-01-29 |  |
 | [303 \(Sound Of The Underground\)](https://open.spotify.com/track/2IHMAlPCyiFlvcPshaEEIT) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [ULTIMO](https://open.spotify.com/artist/4ck1IAQQucJ8QcEwI8fje4), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Bow & Arrow \- EP](https://open.spotify.com/album/1qBSy49D67ewfx9Hv8A2az) | 3:02 | 2026-02-13 |  |
 | [333 \(Clímax\) \[Caravel Remix\]](https://open.spotify.com/track/7umnhdcBL5b3vftzveBe6z) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [333 \(Clímax\) \[Caravel Remix\]](https://open.spotify.com/album/64eR0xbVZxevhmNhkPPg9C) | 3:48 | 2024-07-26 | 2024-10-25 |
+| [4 Da Ravers](https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [4 Da Ravers](https://open.spotify.com/album/7rFjECStShUcE157PCp9z8) | 2:33 | 2026-02-13 |  |
 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-04-25 |  |
 | [666 \(Demonio\)](https://open.spotify.com/track/7pUknHoKfItKMKZLlnQeQI) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [666 \(Demonio\)](https://open.spotify.com/album/1rKwD5W3ibnSgwLaTKEq7S) | 3:00 | 2025-02-20 | 2025-03-20 |
 | [7\-ELEVEN](https://open.spotify.com/track/2tIqu8o4lu1Qrdh9yLp3ce) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [7\-ELEVEN](https://open.spotify.com/album/2EIu5O4R8SMOUOKetizosq) | 2:33 | 2025-04-04 | 2025-05-13 |
@@ -204,7 +205,7 @@
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-13 |  |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 | 2024-11-01 |
-| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 |  |
+| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 | 2026-02-16 |
 | [LSD Loop \- Marie Vaunt Edit](https://open.spotify.com/track/6GvHSKjQ43EJRcAV3a4IlJ) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [LSD Loop \(Marie Vaunt Edit\)](https://open.spotify.com/album/1UzujATP7DcSu239QBgFMv) | 3:16 | 2026-02-03 |  |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
 | [Magic Feet](https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH) | [RobJanssen](https://open.spotify.com/artist/2FDAjR63mWtjnNpVo6ZB4X) | [Magic Feet](https://open.spotify.com/album/2KSFw3D1cGAITmkYQYFish) | 3:54 | 2024-07-14 | 2024-07-22 |

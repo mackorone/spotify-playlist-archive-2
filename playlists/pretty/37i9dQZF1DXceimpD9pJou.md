@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: LINARES
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,597 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,611 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Espíritu de Fuego](https://open.spotify.com/track/0cQQqc1B1SRbwWTLKzo6Sf) | [Omar Oropesa](https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno) | [Hasta Lo Mas Profundo](https://open.spotify.com/album/688gMHjvrstHs1jt81LlMa) | 3:06 |
 | 100 | [contigo todo lo encontré \- En Vivo](https://open.spotify.com/track/6vkFVzjjVdNMQdSa35iUbx) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [AL100X](https://open.spotify.com/album/1PNSV5D0NlVgPyEqMNawzv) | 3:36 |
 
-Snapshot ID: `AAAAAB59rNyrdrWJN46IbKPcl11Hp0qg`
+Snapshot ID: `AAAAACn7tfixPfFAU2zsAxNKoHkrVIv1`

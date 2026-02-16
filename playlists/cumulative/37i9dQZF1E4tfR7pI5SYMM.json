@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Jon Drake and more",
+  "description": "With Die Oberherren, AlligatorX, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 221200,
       "name": "And here we go",
       "url": "https://open.spotify.com/track/1dlCIfRpzHn7KMm1EIt2wP"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/2lWZWnYNs1S1QTke6DhiZK"
+      },
+      "artists": [
+        {
+          "name": "Medivh",
+          "url": "https://open.spotify.com/artist/6H43kafh75INiZoNU3X8Dw"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/3cesGBFlKLX0Ff0SJD53B9"
+    },
+    {
+      "album": {
         "name": "Noise Therapy",
         "url": "https://open.spotify.com/album/5z4srMqQdf9wGGy01F6Irk"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -2243,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "Debtors Disco",
+        "url": "https://open.spotify.com/album/0sj6ewWZKVDvcISyVWJf4W"
+      },
+      "artists": [
+        {
+          "name": "MIDNIGHTCHOIR",
+          "url": "https://open.spotify.com/artist/1arXAZ3Z4NP9ZAC8XQe9fV"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/1ACBwGOWhLqstenkrApSBK"
+    },
+    {
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/7jHTbHGrkCzWOSgNlUa9MH"
       },
@@ -2446,6 +2482,24 @@
       "duration_ms": 185701,
       "name": "Helistasin jumalale",
       "url": "https://open.spotify.com/track/7C7bz3dsJdjG8yuSGsXJ45"
+    },
+    {
+      "album": {
+        "name": "World Citizens",
+        "url": "https://open.spotify.com/album/2qKTZIw5eivLeN20M1MFNL"
+      },
+      "artists": [
+        {
+          "name": "Treponem Pal",
+          "url": "https://open.spotify.com/artist/7IaTNtX3fP0gFlDI9IsYre"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235706,
+      "name": "Helleluia",
+      "url": "https://open.spotify.com/track/3FFLHI0Vj4To1spoXCnDv3"
     },
     {
       "album": {
@@ -3972,7 +4026,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -4098,7 +4152,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -4383,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "One Kiss",
+        "url": "https://open.spotify.com/album/78GmrE54MDdxzLVlE5MULP"
+      },
+      "artists": [
+        {
+          "name": "Secret Discovery",
+          "url": "https://open.spotify.com/artist/0owLCcq27b2NyPLVBwMxkU"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326675,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/3kWHAGguRokBUY6H1EduIF"
+    },
+    {
+      "album": {
         "name": "InstantFamous",
         "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
       },
@@ -4394,7 +4466,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -4578,7 +4650,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 173500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0xIqTXXmN9xyR7SVFwVrnj"
@@ -6778,7 +6850,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -6832,7 +6904,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -7150,7 +7222,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 215204,
       "name": "Worte",
       "url": "https://open.spotify.com/track/0h4W1Ap0luEobA7I8DhMzQ"
@@ -7352,7 +7424,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"
@@ -7472,7 +7544,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"

@@ -587,6 +587,22 @@
     {
       "added_at": "2026-02-13 00:59:34",
       "album": {
+        "name": "So Easy (To Fall In Love)",
+        "url": "https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 196928,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
+    },
+    {
+      "added_at": "2026-02-13 00:59:34",
+      "album": {
         "name": "Ola Sbali",
         "url": "https://open.spotify.com/album/7bZcVI4cbAVAfUFweMvnHh"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 188971,
       "name": "Ola Sbali",
       "url": "https://open.spotify.com/track/391opnl1D5Br9GaTmRHcjv"
-    },
-    {
-      "added_at": "2026-02-13 00:59:34",
-      "album": {
-        "name": "So Easy (To Fall In Love)",
-        "url": "https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 196930,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
     },
     {
       "added_at": "2026-02-13 00:59:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-13 00:59:34",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO"
-      },
-      "artists": [
-        {
-          "name": "ARIS",
-          "url": "https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB"
-    },
-    {
-      "added_at": "2026-02-13 00:59:34",
-      "album": {
         "name": "My Sweet Lullaby",
         "url": "https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 205677,
       "name": "My Sweet Lullaby",
       "url": "https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4"
+    },
+    {
+      "added_at": "2026-02-13 00:59:34",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO"
+      },
+      "artists": [
+        {
+          "name": "ARIS",
+          "url": "https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB"
     },
     {
       "added_at": "2026-02-13 00:59:34",

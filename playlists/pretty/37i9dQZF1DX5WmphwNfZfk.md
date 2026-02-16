@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Skip Waiters
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,502 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,509 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [GENS DU PAYS](https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:32 |
 | 50 | [Daily Routine](https://open.spotify.com/track/6vSNxyDVfCzZZ9V82VR3iX) | [Mohitveer](https://open.spotify.com/artist/6vNSM04FjZ9F2wSVk1b1AQ), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH), [Harp Sandhu](https://open.spotify.com/artist/5d0WIDaAcGAyKPw600aFze) | [Before the Fame](https://open.spotify.com/album/3eZyBVC8lXDKRKfCoLzfKg) | 2:28 |
 
-Snapshot ID: `AAAAAA5qo+volLNu6jXAgLz31eHG/WGU`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

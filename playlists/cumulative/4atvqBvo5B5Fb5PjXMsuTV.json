@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date. Updated 15 Feb 23:10 UTC.",
+  "description": "Latest popular single releases. Sorted by release date. Updated 15 Feb 14:10 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -7661,6 +7661,24 @@
     },
     {
       "album": {
+        "name": "ATLANTIS",
+        "url": "https://open.spotify.com/album/7xWHHBs0UQKz15bM9IYiVi"
+      },
+      "artists": [
+        {
+          "name": "Glorb",
+          "url": "https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "ATLANTIS",
+      "url": "https://open.spotify.com/track/5Zb6uBDTjyYL3QJIn3FO3c"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
       },
@@ -9684,6 +9702,32 @@
       "duration_ms": 155400,
       "name": "Basics",
       "url": "https://open.spotify.com/track/07tIqGwLyg2fVvypNhNML3"
+    },
+    {
+      "album": {
+        "name": "Bass Dhol",
+        "url": "https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218069,
+      "name": "Bass Dhol",
+      "url": "https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p"
     },
     {
       "album": {
@@ -65415,7 +65459,7 @@
     },
     {
       "album": {
-        "name": "Mention Me",
+        "name": "Mention Me (From The Movie \"GOAT\")",
         "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
       },
       "artists": [
@@ -65428,7 +65472,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180000,
-      "name": "Mention Me",
+      "name": "Mention Me - From The Movie \"GOAT\"",
       "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
     },
     {
@@ -103168,6 +103212,24 @@
       "duration_ms": 188316,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/0zQML88ikX1Fm2WDxmXNIi"
+    },
+    {
+      "album": {
+        "name": "Thinkin Bout You",
+        "url": "https://open.spotify.com/album/2fsXOXjqbWThZEfTLJL3xH"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH"
     },
     {
       "album": {

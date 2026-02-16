@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-561 songs - 1 day 9 hr 29 min
+562 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Miroir](https://open.spotify.com/track/5TDFaPYthBso4zax3EbpAO) | [Georgian Bay](https://open.spotify.com/artist/2E2f1LWGVylKbzx2S8YAwi) | [Courage, Vol\. 2: Moon](https://open.spotify.com/album/7gAdZXiEQqp8pDVH8jgSLN) | 3:23 | 2021-01-15 | 2021-10-02 |
 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 | 2024-07-05 |  |
 | [Moi, Elsie](https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [There Will Be Stars](https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9) | 5:18 | 2021-10-03 | 2023-06-28 |
+| [Mon amour](https://open.spotify.com/track/11r38rBuSbkj0M51YLDBh8) | [Clara Roy\-Jensen](https://open.spotify.com/artist/1JZu5DVhnKHHPWa9q4IJbZ) | [Mon amour](https://open.spotify.com/album/7CIx0b1ScA7XrRLTmbwJLk) | 4:29 | 2026-02-06 |  |
 | [Mon île](https://open.spotify.com/track/27sfdhX5ndVTQoscsB50LY) | [Audrey Emery](https://open.spotify.com/artist/2Ffn40Clz80XZSQS8Tylr6) | [Shangri\-La](https://open.spotify.com/album/244hbTwCOMYTK077ZUXq7z) | 5:07 | 2021-01-03\* | 2022-07-29 |
 | [Mona Lisa](https://open.spotify.com/track/3lmVvm0lBpxirgDHfLCLRR) | [Soul & Sister](https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh) | [Mona Lisa \- Single](https://open.spotify.com/album/3u8WgVkDhQJDVaX6o9IL78) | 2:50 | 2021-01-15 | 2022-01-24 |
 | [monsieur Quan](https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [monsieur Quan](https://open.spotify.com/album/0qiMtfdSUDzTDOkwgn6ZSM) | 5:17 | 2026-01-30 |  |
@@ -564,7 +565,7 @@
 | [À travers mes yeux](https://open.spotify.com/track/6IaStSELLqTeLEdl7RPqQZ) | [Geneviève et Alain](https://open.spotify.com/artist/6coTzew0su1zZilZlwA7vX) | [À travers mes yeux](https://open.spotify.com/album/1qx0TPUcHXP5da8FQK5OFh) | 3:24 | 2021-05-04 | 2022-07-29 |
 | [Âme de la rive](https://open.spotify.com/track/0f9QxSOCd537v0z4rFyHr8) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Âme de la rive](https://open.spotify.com/album/0mt9m7lsDx6M6LQEHub1Ud) | 3:27 | 2022-03-25 | 2022-07-29 |
 | [Éclatant](https://open.spotify.com/track/6NbzU506ERsESkya4sLEsf) | [Valérie de l'Est](https://open.spotify.com/artist/7szs7nSft7NHNUN1HmDxiz) | [Éclatant](https://open.spotify.com/album/620muQH916ETrKhCBdOUSP) | 3:05 | 2021-01-03\* | 2021-01-15 |
-| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 |  |
+| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 | 2026-02-16 |
 | [Écoute ma belle](https://open.spotify.com/track/4LTKSuFur0BIYhKRKUf5Eu) | [BronKo](https://open.spotify.com/artist/2JTDfR1rOVr8DO2EEO0SRs) | [Accroche\-toi](https://open.spotify.com/album/0xfoWauBjCYxWkaK8bIhk0) | 4:00 | 2021-01-15 | 2021-10-03 |
 | [Élégie](https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 3:18 | 2023-10-20 | 2023-11-11 |
 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 | 2025-11-14 |  |

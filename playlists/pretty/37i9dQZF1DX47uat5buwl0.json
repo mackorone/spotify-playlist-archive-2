@@ -1,12 +1,12 @@
 {
   "description": "Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer. HDP \ud83d\udd25\ud83c\udf89",
-  "num_followers": 313537,
+  "num_followers": 313540,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALuNgjw33sN4LtaVbooZFkQBZg0f",
+  "snapshot_id": "AAAAAB/Spp2H6um5gHDm6/qVHzhAm6+s",
   "tracks": [
     {
       "added_at": "2026-02-12 23:00:24",
@@ -31,18 +31,22 @@
     {
       "added_at": "2026-02-12 23:00:24",
       "album": {
-        "name": "In De Olie",
-        "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
+        "name": "Ode To The Bouncer",
+        "url": "https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF"
       },
       "artists": [
         {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
         }
       ],
-      "duration_ms": 134364,
-      "name": "In De Olie",
-      "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
+      "duration_ms": 147042,
+      "name": "Ode To The Bouncer",
+      "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
     },
     {
       "added_at": "2026-02-12 23:00:24",
@@ -63,26 +67,6 @@
       "duration_ms": 171692,
       "name": "Lijntje",
       "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
-    },
-    {
-      "added_at": "2026-02-12 23:00:24",
-      "album": {
-        "name": "Ode To The Bouncer",
-        "url": "https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        },
-        {
-          "name": "Studio Killers",
-          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
-        }
-      ],
-      "duration_ms": 147042,
-      "name": "Ode To The Bouncer",
-      "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
     },
     {
       "added_at": "2026-02-12 23:00:24",
@@ -119,22 +103,6 @@
     {
       "added_at": "2026-02-12 23:00:24",
       "album": {
-        "name": "DOLCE & GABBANA",
-        "url": "https://open.spotify.com/album/76Q7Qnr1qhU90Unkr9yL0t"
-      },
-      "artists": [
-        {
-          "name": "Def",
-          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
-        }
-      ],
-      "duration_ms": 117960,
-      "name": "DOLCE & GABBANA",
-      "url": "https://open.spotify.com/track/2J0t5MgGTaqvc16TyfWqK3"
-    },
-    {
-      "added_at": "2026-02-12 23:00:24",
-      "album": {
         "name": "Sneuvelnation",
         "url": "https://open.spotify.com/album/6OMovJWgCIvOQWdGvOUm9q"
       },
@@ -151,6 +119,54 @@
       "duration_ms": 145375,
       "name": "Sneuvelnation",
       "url": "https://open.spotify.com/track/0z0aaDPZewba8t48p2zt9A"
+    },
+    {
+      "added_at": "2026-02-12 23:00:24",
+      "album": {
+        "name": "In De Olie",
+        "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 134364,
+      "name": "In De Olie",
+      "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
+    },
+    {
+      "added_at": "2026-02-12 23:00:24",
+      "album": {
+        "name": "Y Que Fue?",
+        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:24",
+      "album": {
+        "name": "DOLCE & GABBANA",
+        "url": "https://open.spotify.com/album/76Q7Qnr1qhU90Unkr9yL0t"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "duration_ms": 117960,
+      "name": "DOLCE & GABBANA",
+      "url": "https://open.spotify.com/track/2J0t5MgGTaqvc16TyfWqK3"
     },
     {
       "added_at": "2026-02-12 23:00:24",
@@ -187,22 +203,6 @@
       "duration_ms": 142153,
       "name": "NUMMER 1",
       "url": "https://open.spotify.com/track/3bY8SS2U0vD4Nhfs2tqdRg"
-    },
-    {
-      "added_at": "2026-02-12 23:00:24",
-      "album": {
-        "name": "Y Que Fue?",
-        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 163759,
-      "name": "Y Que Fue?",
-      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
       "added_at": "2026-02-12 23:00:24",

@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Face Yourself
 
-769 songs - 2 day 1 hr 7 min
+770 songs - 2 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Apparition](https://open.spotify.com/track/4lbQzF4Kum8RZzaWSlVrPC) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP), [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Apparition](https://open.spotify.com/album/5McFM0iyPTlRWWAWj6W8rr) | 2:57 | 2025-11-07 |  |
 | [Ascension](https://open.spotify.com/track/5oP3huOzflpHFKzqUK3UsR) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Ascension](https://open.spotify.com/album/7adD2POLb9tawK0Kcp2p8U) | 3:46 | 2021-12-17 | 2022-07-25 |
 | [Asymmetry](https://open.spotify.com/track/3DKSM1HppHmGgEztFS5q2T) | [Eradicate Me](https://open.spotify.com/artist/1PqHlQtpYfnuWGNoWhZB6l) | [Asymmetry](https://open.spotify.com/album/5ArIhP5EoNogavKjUzWg89) | 3:13 | 2022-01-07 | 2022-07-25 |
+| [Atrophy](https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp) | [Artifact](https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv) | [Umbra](https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E) | 4:29 | 2026-02-13 |  |
 | [Autistimus Prime](https://open.spotify.com/track/7MJ3EHsp2W1zy5xPMuykgy) | [PeelingFlesh](https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG), [Embryectomy](https://open.spotify.com/artist/3evF1GEgvfreI27KR4mKow) | [Autistimus Prime](https://open.spotify.com/album/5WXeg1ytgcl5vx6vXFano8) | 1:47 | 2025-08-29 |  |
 | [Awakened Salvation](https://open.spotify.com/track/03rvFxNjwXwNUMaBBVDpDT) | [Resist The Thought](https://open.spotify.com/artist/48RlvjoKZtNIcimFZ6BDbL) | [Awakened Salvation](https://open.spotify.com/album/4aXmofWOwUJ6tZv446Cpqy) | 4:54 | 2021-12-31 | 2022-04-09 |
 | [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 | 2022-12-12 | 2025-08-30 |
@@ -654,7 +655,7 @@
 | [The Blvck Sun\|](https://open.spotify.com/track/15FQR8bLc1RnS5tocQRnL5) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [The Blvck Sun \|\| the Blood Moon](https://open.spotify.com/album/2IFyHzwVS0KBoplhLh5Bq9) | 4:49 | 2023-07-21 | 2024-02-17 |
 | [The Breeding Process](https://open.spotify.com/track/54GYWKXmCV1J8uvZxBVBh3) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Breeding Process](https://open.spotify.com/album/52haFSvKpbWHTpqn1vxJZW) | 5:01 | 2021-12-17 | 2022-04-07 |
 | [The Butcher](https://open.spotify.com/track/3WCGIWQbdYCj5bdFai2Ybs) | [Sever the King](https://open.spotify.com/artist/7glvEG8KLnlUQVDEo8v4rs) | [The Butcher](https://open.spotify.com/album/70OOddXUV5T3yefa1yW1wn) | 5:07 | 2021-12-17 | 2022-04-06 |
-| [The Cycle Of Violence : Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 | 2022-05-06 |  |
+| [The Cycle Of Violence : Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 | 2022-05-06 | 2026-02-16 |
 | [The Dancer](https://open.spotify.com/track/2tLrbpHb53B7W0emqz1ukL) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [The Dancer](https://open.spotify.com/album/7uoaxWYLmec17U1qIbQkol) | 4:02 | 2022-02-11 | 2022-07-24 |
 | [The Dead Ones](https://open.spotify.com/track/0k3rBASwBLfdRzweoFgaDD) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Dead Ones](https://open.spotify.com/album/0W8I2Wmf3dGEM96EuM3GuF) | 3:32 | 2026-01-16 |  |
 | [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2021-12-17 | 2024-06-26 |

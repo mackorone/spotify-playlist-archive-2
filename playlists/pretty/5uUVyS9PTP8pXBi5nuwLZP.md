@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 554,561 likes - 72 songs - 4 hr 17 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 554,824 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 46 | [Reflections in the Sea](https://open.spotify.com/track/2HOQ3Agp8fkQkgrZrqPfvw) | [Edwin Aleixo Braganza](https://open.spotify.com/artist/4AQFlD0npu8RMD3TYUE28Y), [Sajan Solomon](https://open.spotify.com/artist/5Q7hjXXfCseu162Gink8Df), [Yograj Naik](https://open.spotify.com/artist/75GVO8MkV0nVQxtxnylGVq), [Jaison Solomon](https://open.spotify.com/artist/4PEYa3MBQZBDiFNsnGLcn1), [Elvis Lobo](https://open.spotify.com/artist/6YOldSnltjSfJE67R0CTkQ) | [Sounds from My Bedroom](https://open.spotify.com/album/3JRSkjHiWVjeHap2Du44KN) | 4:04 |
 | 47 | [Vamos](https://open.spotify.com/track/38PuCcseF9EApXBrDBtfV0) | [Marcela Rubio Blazquez](https://open.spotify.com/artist/5lYHt6Kl64ktNxORdWOGXv) | [Vamos](https://open.spotify.com/album/1Vv24eXxAQDzMzpXWkCcYA) | 8:07 |
 | 48 | [Walk with me](https://open.spotify.com/track/3610XGPdjwciPkdNKgvinb) | [YEMA Sounds](https://open.spotify.com/artist/1vh1ifbLEaKy64eGHgd2EZ) | [Walk with me](https://open.spotify.com/album/1HLN3IniaayBxDc6Ku7RDM) | 2:40 |
-| 49 | [Não maltrate os bichinhos](https://open.spotify.com/track/7y1BY9Kn478HB5eXigvbEz) | [TIA LI](https://open.spotify.com/artist/1oCXWTKCIKQ1HRv76tPQN9) | [Não maltrate os bichinhos](https://open.spotify.com/album/4HFjAa1PapfqZPt8CZ2pYR) | 1:32 |
+| 49 | [Não maltrate os bichinhos](https://open.spotify.com/track/7y1BY9Kn478HB5eXigvbEz) | [Músicas e Estórias da Tia Li](https://open.spotify.com/artist/7xwL97E69ckvEk8QkQZBIJ) | [Não maltrate os bichinhos](https://open.spotify.com/album/4HFjAa1PapfqZPt8CZ2pYR) | 1:32 |
 | 50 | [Huellas en la arena](https://open.spotify.com/track/0IPbmYjy87bUJOkYFVAZos) | [Danny Bast](https://open.spotify.com/artist/1sps9X9ZZs2QGulwmYXKYL), [Dj Wizard](https://open.spotify.com/artist/6lnb9xsZqWoKjMo2inc48Y) | [Huellas en la arena](https://open.spotify.com/album/372TGwyOpFJtoPV0FJJwGY) | 2:47 |
 | 51 | [Blessing or Curse](https://open.spotify.com/track/6XLiqvq470aSHB9Vm0XD5v) | [Troxler Music](https://open.spotify.com/artist/6mhgXM7Hg3XT1PJNF4gidL) | [Blessing or Curse](https://open.spotify.com/album/40qZWiAGjKQWwKTKs6EQTg) | 2:54 |
 | 52 | [Piste naast de pot](https://open.spotify.com/track/1zDGBXDmuimA50C3N3KNk7) | [De Driekwarts Maten](https://open.spotify.com/artist/6gk6ohMrFcZhXdYn8lEbw8), [DJ TeraJoule](https://open.spotify.com/artist/53TK8HEpPVDSIhC865dp8G) | [Piste naast de pot](https://open.spotify.com/album/1a4mrMk6mHoK8uoSIHdDs8) | 3:04 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6wbVzPMSvwH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6wbVzPMSvwH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6wbVzPMSvwH)
 
-### [Semangat Pagi](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
+### [Geng Bukber Pertemanan Sehat](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
 
-> Lagu\-lagu positif untuk mengawali harimu.
+> Lagu\-lagu positif untuk kamu dan teman\-temanmu yang paling ngejar sehat
 
 212 songs - 13 hr 19 min
 

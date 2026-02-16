@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-154 songs - 8 hr 48 min
+155 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Tell Me Where](https://open.spotify.com/track/338rDlKC6cSQ1hT3scDyrK) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:55 | 2024-06-13 |  |
 | [The Blue](https://open.spotify.com/track/6C2DXj6KlW6Ndy4KRWkmhA) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Auras](https://open.spotify.com/album/6L9xMiwvTGzes1STTQ6VqD) | 4:07 | 2024-06-13 |  |
 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 | 2024-06-13 |  |
-| [The Power](https://open.spotify.com/track/7lzv5uk7R0mut7QYl6JmFG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Love For The Beat](https://open.spotify.com/album/6XpmXMbVcZ0wO2vot78P2O) | 3:21 | 2024-06-13 |  |
+| [The Power](https://open.spotify.com/track/60UHhtiFMPwpxKmJ3fUZHn) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Love For The Beat](https://open.spotify.com/album/6vh9YM0ltddTcbhb73yb0c) | 3:21 | 2026-02-15 |  |
+| [The Power](https://open.spotify.com/track/7lzv5uk7R0mut7QYl6JmFG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Love For The Beat](https://open.spotify.com/album/6XpmXMbVcZ0wO2vot78P2O) | 3:21 | 2024-06-13 | 2026-02-16 |
 | [Think It Over](https://open.spotify.com/track/3o5Np7dRn95xMVeLc4xSc3) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Think It Over](https://open.spotify.com/album/0YR2su2ee5ZoteRQAUESYj) | 2:40 | 2024-06-13 |  |
 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 | 2024-06-13 |  |
 | [Train to Catch](https://open.spotify.com/track/5VVZw2RLNNNvyIM7Sfa5UH) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Train to Catch](https://open.spotify.com/album/6nV3RuvxjyAJcl0GDOTlTu) | 3:05 | 2024-06-13 |  |

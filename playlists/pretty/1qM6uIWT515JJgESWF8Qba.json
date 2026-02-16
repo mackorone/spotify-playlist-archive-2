@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 341,
+  "num_followers": 343,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABO7DCT/oATH/UnYRsfHSIak+a0xyG",
+  "snapshot_id": "AAABPDiyEmt8aTdh9u30+wpk9JluYo85",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1115,6 +1115,22 @@
       "duration_ms": 283317,
       "name": "March",
       "url": "https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG"
+    },
+    {
+      "added_at": "2026-02-15 17:49:39",
+      "album": {
+        "name": "LIVE IN LONDON",
+        "url": "https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg"
+      },
+      "artists": [
+        {
+          "name": "First Date Fuckers",
+          "url": "https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd"
+        }
+      ],
+      "duration_ms": 232112,
+      "name": "Hell Yeah! - Live",
+      "url": "https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH"
     }
   ],
   "unique_name": "Local Rock Bands",

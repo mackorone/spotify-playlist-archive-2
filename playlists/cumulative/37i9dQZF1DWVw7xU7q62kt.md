@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-773 songs - 1 day 9 hr 0 min
+774 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Don't Look Back](https://open.spotify.com/track/7IMPgCOy5znqME4WqH0BVp) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Don't Look Back](https://open.spotify.com/album/1TrTvgxrZplyuGjwXtaQvo) | 4:16 | 2024-09-27 | 2024-11-06 |
 | [Doomed](https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Doomed](https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P) | 4:32 | 2023-08-31 | 2024-08-19 |
 | [Doomed](https://open.spotify.com/track/5hSdWD0d2yWdLe8LHh7S60) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:32 | 2024-03-08 | 2024-04-19 |
-| [Downstairs](https://open.spotify.com/track/62W8LAP58Qlh21HK95e6OP) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Eli Theo](https://open.spotify.com/artist/65kuBz0eVcX6ihOIPdwqGe) | [Downstairs](https://open.spotify.com/album/7euS7Hlr85arpFEjud3Bvy) | 1:57 | 2026-02-13 |  |
+| [Downstairs](https://open.spotify.com/track/62W8LAP58Qlh21HK95e6OP) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Eli Theo](https://open.spotify.com/artist/65kuBz0eVcX6ihOIPdwqGe) | [Downstairs](https://open.spotify.com/album/7euS7Hlr85arpFEjud3Bvy) | 1:57 | 2026-02-13 | 2026-02-16 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2023-08-22 | 2025-03-10 |
 | [Drawing Clouds](https://open.spotify.com/track/0jldRhSQwdwwr0iyEPzRFI) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Drawing Clouds](https://open.spotify.com/album/0sDr3pXL5vFefrkk2Miy1t) | 2:00 | 2025-05-23 |  |
 | [Drinks On Me](https://open.spotify.com/track/5bHONkwGhXlGf1pFYvJ0Hc) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [daoud](https://open.spotify.com/artist/3e76yvk1gLZQhKZiUHkMsP), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Drinks On Me](https://open.spotify.com/album/47BE6nH9ghpl12HMoP0j7i) | 2:37 | 2025-05-02 | 2025-10-04 |
@@ -471,6 +471,7 @@
 | [Omen](https://open.spotify.com/track/4O7ViZUUnynCDeIS1yCcE2) | [RuiijiKun](https://open.spotify.com/artist/34Kex8JSfMcDFqILq2vX0x) | [Omen](https://open.spotify.com/album/0zQQuUOZGdU4XKC7GXpJlB) | 2:49 | 2024-10-11 | 2025-12-20 |
 | [On The Low](https://open.spotify.com/track/45Txf1MF1O0WW8XFteDKyL) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [On The Low](https://open.spotify.com/album/5qh2keQJ3HSF7wBe458fy8) | 1:48 | 2025-09-12 |  |
 | [On The Rocks](https://open.spotify.com/track/24vuwWVdXOLweulimpx3av) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [On The Rocks](https://open.spotify.com/album/00k08uXfYutyiEq05OuDKp) | 2:22 | 2025-10-17 | 2026-02-14 |
+| [On The Roof](https://open.spotify.com/track/1DnYVSvXJehuGoKjkjfGGG) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [On The Roof](https://open.spotify.com/album/3qDWNNJ2BBWpWAwltLOg9q) | 1:55 | 2026-02-13 |  |
 | [On The Way](https://open.spotify.com/track/2M48GvUNFAP0xadZClXX9w) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [On The Way](https://open.spotify.com/album/2vlSAvglzklRLAz29bPHdv) | 2:42 | 2025-11-28 |  |
 | [Once Upon A Time](https://open.spotify.com/track/3J4jhaLKpylWAsLHwzNAAs) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Once Upon A Time](https://open.spotify.com/album/4dwPCKwIEBsFdCDOgAnwJ9) | 1:36 | 2026-01-16 | 2026-01-31 |
 | [One For The Mountains](https://open.spotify.com/track/0Oei18fUZ0H7M217qXJTsl) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [One For The Mountains](https://open.spotify.com/album/3X9q4pDrhUZg4lg7t6GIqn) | 2:32 | 2025-09-12 | 2025-09-27 |

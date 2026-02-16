@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta & Agus Bernasconi",
-  "num_followers": 1139186,
+  "num_followers": 1139165,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -403,30 +403,6 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "T\u00edpica Argentina",
-        "url": "https://open.spotify.com/album/3HBd40il87H552v0UdXkUv"
-      },
-      "artists": [
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        },
-        {
-          "name": "Chofer",
-          "url": "https://open.spotify.com/artist/4k7AQUr1040ycCu71wNmfL"
-        },
-        {
-          "name": "El Lobo",
-          "url": "https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK"
-        }
-      ],
-      "duration_ms": 156118,
-      "name": "T\u00edpica Argentina",
-      "url": "https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9"
-    },
-    {
-      "added_at": "2026-02-13 19:02:59",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -451,6 +427,30 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
+        "name": "T\u00edpica Argentina",
+        "url": "https://open.spotify.com/album/3HBd40il87H552v0UdXkUv"
+      },
+      "artists": [
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Chofer",
+          "url": "https://open.spotify.com/artist/4k7AQUr1040ycCu71wNmfL"
+        },
+        {
+          "name": "El Lobo",
+          "url": "https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK"
+        }
+      ],
+      "duration_ms": 156118,
+      "name": "T\u00edpica Argentina",
+      "url": "https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9"
+    },
+    {
+      "added_at": "2026-02-13 19:02:59",
+      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
       },
@@ -467,26 +467,22 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Enemigos (Remix)",
-        "url": "https://open.spotify.com/album/4DbiFoWTZRYC2OsT8cc0Ok"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         },
         {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 197110,
-      "name": "Enemigos - Remix",
-      "url": "https://open.spotify.com/track/5To8zOSSRWW5HBvBKB2fz6"
+      "duration_ms": 312512,
+      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -515,22 +511,26 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+        "name": "Enemigos (Remix)",
+        "url": "https://open.spotify.com/album/4DbiFoWTZRYC2OsT8cc0Ok"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 312512,
-      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+      "duration_ms": 197110,
+      "name": "Enemigos - Remix",
+      "url": "https://open.spotify.com/track/5To8zOSSRWW5HBvBKB2fz6"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -571,26 +571,6 @@
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2026-02-13 19:02:59",
-      "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 178291,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -643,6 +623,26 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
+    },
+    {
+      "added_at": "2026-02-13 19:02:59",
+      "album": {
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2026-02-13 19:02:59",
-      "album": {
         "name": "Vos y Yo",
         "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
       },
@@ -863,26 +847,6 @@
       "duration_ms": 139058,
       "name": "Vos y Yo",
       "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
-    },
-    {
-      "added_at": "2026-02-13 19:02:59",
-      "album": {
-        "name": "Esperando por Ti",
-        "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 134916,
-      "name": "Esperando por Ti",
-      "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -907,6 +871,26 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
+        "name": "Esperando por Ti",
+        "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 134916,
+      "name": "Esperando por Ti",
+      "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
+    },
+    {
+      "added_at": "2026-02-13 19:02:59",
+      "album": {
         "name": "SALE SOLA",
         "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 125969,
       "name": "SALE SOLA",
       "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
+    },
+    {
+      "added_at": "2026-02-13 19:02:59",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Ya no me duele :,)",
-        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Cele Arrabal",
-          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Ya no me duele :,)",
-      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
-    },
-    {
-      "added_at": "2026-02-13 19:02:59",
-      "album": {
         "name": "Supuestamente",
         "url": "https://open.spotify.com/album/5WgJsoyMhj8zYdRJjSSist"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 154285,
       "name": "Supuestamente",
       "url": "https://open.spotify.com/track/75fbmsSedxEdayE8ytGbDn"
+    },
+    {
+      "added_at": "2026-02-13 19:02:59",
+      "album": {
+        "name": "Ya no me duele :,)",
+        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Cele Arrabal",
+          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "Ya no me duele :,)",
+      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -1427,18 +1427,26 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+        "name": "Dame Un Beso",
+        "url": "https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Uri",
+          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
         }
       ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+      "duration_ms": 133483,
+      "name": "Dame Un Beso",
+      "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -1459,6 +1467,22 @@
       "duration_ms": 137500,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
+    },
+    {
+      "added_at": "2026-02-13 19:02:59",
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -1507,30 +1531,6 @@
       "duration_ms": 194210,
       "name": "Romantiko",
       "url": "https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi"
-    },
-    {
-      "added_at": "2026-02-13 19:02:59",
-      "album": {
-        "name": "Dame Un Beso",
-        "url": "https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb"
-      },
-      "artists": [
-        {
-          "name": "Uri",
-          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 133483,
-      "name": "Dame Un Beso",
-      "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Entre Beso y Beso",
-        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Entre Beso y Beso",
-      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
-    },
-    {
-      "added_at": "2026-02-13 19:02:59",
-      "album": {
         "name": "Mi Ex",
         "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
+    },
+    {
+      "added_at": "2026-02-13 19:02:59",
+      "album": {
+        "name": "Entre Beso y Beso",
+        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Entre Beso y Beso",
+      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -1907,18 +1907,22 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Dif\u00edcil",
-        "url": "https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj"
+        "name": "Quiero Olvidarte",
+        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
       },
       "artists": [
         {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
         }
       ],
-      "duration_ms": 165330,
-      "name": "Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr"
+      "duration_ms": 206432,
+      "name": "Quiero Olvidarte",
+      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -1943,22 +1947,18 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "Quiero Olvidarte",
-        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
+        "name": "Dif\u00edcil",
+        "url": "https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj"
       },
       "artists": [
         {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 206432,
-      "name": "Quiero Olvidarte",
-      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
+      "duration_ms": 165330,
+      "name": "Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr"
     },
     {
       "added_at": "2026-02-13 19:02:59",
@@ -2055,22 +2055,22 @@
     {
       "added_at": "2026-02-13 19:02:59",
       "album": {
-        "name": "LOCOS",
-        "url": "https://open.spotify.com/album/7AQYbp50gHY5FmW2jcbKll"
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         },
         {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
         }
       ],
-      "duration_ms": 144783,
-      "name": "LOCOS",
-      "url": "https://open.spotify.com/track/4FOpOzbRiaZf3qPOavNKk6"
+      "duration_ms": 165634,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1477571,
+  "num_followers": 1477549,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
         "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 253600,
       "name": "A Tribute To First Love",
       "url": "https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -471,6 +471,26 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
+        "name": "Do the Right Thing",
+        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "Hannah V",
+          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
+        }
+      ],
+      "duration_ms": 121320,
+      "name": "Do the Right Thing",
+      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
@@ -495,26 +515,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "Do the Right Thing",
-        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
-      },
-      "artists": [
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        },
-        {
-          "name": "Hannah V",
-          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
-        }
-      ],
-      "duration_ms": 121320,
-      "name": "Do the Right Thing",
-      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 263000,
       "name": "Spring",
       "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "LUSTER",
+        "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
+      },
+      "artists": [
+        {
+          "name": "SAIRU",
+          "url": "https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw"
+        }
+      ],
+      "duration_ms": 277978,
+      "name": "LUSTER",
+      "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -551,22 +567,6 @@
       "duration_ms": 94468,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
-        "name": "LUSTER",
-        "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
-      },
-      "artists": [
-        {
-          "name": "SAIRU",
-          "url": "https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw"
-        }
-      ],
-      "duration_ms": 277978,
-      "name": "LUSTER",
-      "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -607,6 +607,26 @@
       "duration_ms": 244000,
       "name": "Paris Nights",
       "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "Veluwe",
+        "url": "https://open.spotify.com/album/5SKoZTRUgunUdcWHDonBfv"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
+        },
+        {
+          "name": "twofiveone",
+          "url": "https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Veluwe",
+      "url": "https://open.spotify.com/track/0foyXbAb32cCdwcFjB4tgm"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -667,26 +687,6 @@
       "duration_ms": 228485,
       "name": "On My Way Home - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
-        "name": "Veluwe",
-        "url": "https://open.spotify.com/album/5SKoZTRUgunUdcWHDonBfv"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
-        },
-        {
-          "name": "twofiveone",
-          "url": "https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Veluwe",
-      "url": "https://open.spotify.com/track/0foyXbAb32cCdwcFjB4tgm"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "DIAMONDS & FREAKS (Instrumentals)",
-        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 269474,
-      "name": "ADAM & EVE - Instrumental",
-      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "Syn Fonia I",
         "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 228750,
       "name": "Space Orgazm",
       "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "DIAMONDS & FREAKS (Instrumentals)",
+        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 269474,
+      "name": "ADAM & EVE - Instrumental",
+      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "181's penny candy store #7",
-        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Win the Lottery",
-      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 165333,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "181's penny candy store #7",
+        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Win the Lottery",
+      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
     },
     {
       "added_at": "2026-02-10 00:22:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-10 00:22:29",
       "album": {
-        "name": "Lofi Loyal Caf\u00e9 Customer",
-        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
-      },
-      "artists": [
-        {
-          "name": "Single Friend",
-          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lofi Loyal Caf\u00e9 Customer",
-      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
-    },
-    {
-      "added_at": "2026-02-10 00:22:29",
-      "album": {
         "name": "Colibri",
         "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 212000,
       "name": "Colibri",
       "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
+    },
+    {
+      "added_at": "2026-02-10 00:22:29",
+      "album": {
+        "name": "Lofi Loyal Caf\u00e9 Customer",
+        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lofi Loyal Caf\u00e9 Customer",
+      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
     }
   ],
   "unique_name": "Mellow Beats",

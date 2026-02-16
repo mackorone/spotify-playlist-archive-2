@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Begüm Yiğit Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,472 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,473 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Deli](https://open.spotify.com/track/6eScMawynRyRnxqxKDVKuR) | [Eylül Piyancı](https://open.spotify.com/artist/2NGfHO90yoUa6r2p3FJcQ2) | [Deli](https://open.spotify.com/album/6yRh4G1zlA2dfw9P4pEqV6) | 3:32 |
 | 75 | [Seninim](https://open.spotify.com/track/4BgVk4nJZwKVO4vWsaNBC2) | [Düşgezer](https://open.spotify.com/artist/4ocqexTJMtJOJ0IEytggmJ) | [Seninim](https://open.spotify.com/album/1T2YLXNJMwT6ZbF1vOELya) | 3:36 |
 
-Snapshot ID: `AAAAAHH3A2qqh/KVoxvYRKSKNA3hWDDe`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

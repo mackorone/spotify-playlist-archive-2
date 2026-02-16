@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Charli xcx on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,769 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,812 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 47 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 48 | [London Foolishly](https://open.spotify.com/track/3l9a9tjSr1EYHmykm5iHHS) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best \(Deluxe\)](https://open.spotify.com/album/4urPavgYRedC5o5v1Lf99o) | 3:21 |
 | 49 | [Legs In A Snare](https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Legs In A Snare](https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H) | 3:14 |
-| 50 | [Mention Me](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
+| 50 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
 | 51 | [Act Like Money](https://open.spotify.com/track/59srqH5Kg6NWlUzH1T5olL) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Act Like Money](https://open.spotify.com/album/6mhUQS9GEUVhJ6hUKIHYdU) | 1:44 |
 | 52 | [you special.](https://open.spotify.com/track/1cS3ZLfiJvfZTmnBXO4T9f) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [you special.](https://open.spotify.com/album/2Z5GBrX3fUMiV5qSHXo3Rt) | 2:08 |
 | 53 | [One More \(feat\. Ad\-Apt\)](https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Ad\-Apt](https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD) | [One More \(feat\. Ad\-Apt\)](https://open.spotify.com/album/09sFieX0gGevzK0TWq27uZ) | 3:05 |

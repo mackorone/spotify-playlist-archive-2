@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: MAKSIM & Babet",
-  "num_followers": 246928,
+  "num_followers": 246918,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhMD1D92ZhzT0l3r5thliXDf3Ht",
+  "snapshot_id": "AAAAAOcfOCMlEGJmK/n0lSJTyYg+4stK",
   "tracks": [
     {
       "added_at": "2026-02-13 12:00:17",
@@ -59,6 +59,22 @@
       "duration_ms": 193738,
       "name": "Me Enamoro",
       "url": "https://open.spotify.com/track/4pnm1a0IwpibMqiYw7hRup"
+    },
+    {
+      "added_at": "2026-02-13 12:00:17",
+      "album": {
+        "name": "Mijn Liefste",
+        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 190086,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-02-13 12:00:17",
@@ -279,22 +295,6 @@
       "duration_ms": 170453,
       "name": "CD van mij",
       "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
-    },
-    {
-      "added_at": "2026-02-13 12:00:17",
-      "album": {
-        "name": "Mijn Liefste",
-        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-02-13 12:00:17",

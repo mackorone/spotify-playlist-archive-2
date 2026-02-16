@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Kaya Imani
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,944 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,973 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Birkin Bag](https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Birkin Bag](https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo) | 2:51 |
-| 2 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
-| 3 | [Niet Alleen](https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Niet Alleen](https://open.spotify.com/album/68gEYFDR7LxGuiS1PC9Cdt) | 2:23 |
+| 2 | [Niet Alleen](https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Niet Alleen](https://open.spotify.com/album/68gEYFDR7LxGuiS1PC9Cdt) | 2:23 |
+| 3 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
 | 4 | [Wauw](https://open.spotify.com/track/7obesMJDAYQ3JjwxfnjFVO) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Wauw](https://open.spotify.com/album/3XVI7j8urrhyMdBQSLIYLN) | 1:55 |
 | 5 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
 | 6 | [Victim](https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ), [Jerr](https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH) | [Victim](https://open.spotify.com/album/1MtrbQKZTO1shXxX4zEQBL) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 79 | [Bambi](https://open.spotify.com/track/0XLOhjJBDxpcL47b1pTShu) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Bambi](https://open.spotify.com/album/48gDv65vyvEszJB79hJEwc) | 1:48 |
 | 80 | [Babyboo](https://open.spotify.com/track/7Mxbp0DtUpTetgfBVmWr1j) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:14 |
 
-Snapshot ID: `AAAAABYx+l63UaEpMycnVW1JxMvZ1Ur5`
+Snapshot ID: `AAAAACFpk8YpwI6UkET8NL/mqBqRk/ui`

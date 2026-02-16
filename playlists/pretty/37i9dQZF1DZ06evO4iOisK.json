@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 27643,
+  "num_followers": 27642,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY5pgAAAAABzmlYVrUoqjY30+LFvOXqH",
+  "snapshot_id": "aY+7AAAAAAAin/cZyrcD12eYSGNDoFZl",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 296866,
+      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
+      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 256413,
       "name": "RE-BIRTH",
       "url": "https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 296866,
-      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
-      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
     },
     {
       "added_at": null,

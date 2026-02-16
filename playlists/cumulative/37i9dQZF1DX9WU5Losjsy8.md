@@ -4,7 +4,7 @@
 
 > Die Musik für die Hütten Gaudi!
 
-192 songs - 9 hr 36 min
+193 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 |  |
 | [Griechischer Wein](https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Zeig mir den Platz an der Sonne](https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg) | 4:04 | 2023-07-14 |  |
 | [Gute Laune](https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f) | [GroßstadtEngel](https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG) | [Gute Laune](https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj) | 2:55 | 2025-12-05 |  |
-| [Hallo kleine Maus](https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [Hallo kleine Maus](https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5) | 2:50 | 2025-03-14 |  |
+| [Hallo kleine Maus](https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [Hallo kleine Maus](https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5) | 2:50 | 2025-03-14 | 2026-02-16 |
 | [Hamma! \- Single Edit](https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Culcha Candela](https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM) | 3:29 | 2023-07-14 | 2024-04-19 |
 | [Handwerker](https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Handwerker](https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4) | 3:25 | 2024-05-10 |  |
 | [Hast Du Saufen mal probiert? \(1000 und 1 Nacht\)](https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT) | [Kings of Günter](https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY), [Reis Against The Spülmachine](https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP) | [Hast Du Saufen mal probiert? \(1000 und 1 Nacht\)](https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH) | 2:59 | 2024-09-30 |  |
@@ -113,6 +113,7 @@
 | [Johnny Däpp \(Ich will Mallorca zurück\)](https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Johnny Däpp \(Ich will Mallorca zurück\)](https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX) | 3:43 | 2023-07-14 | 2024-01-04 |
 | [Kabinenparty](https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty](https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5) | 2:22 | 2023-07-14 | 2025-01-15 |
 | [Kabinenparty \(feat\. MAKZ 38\) \- Kreisliga Mix](https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty \(feat\. MAKZ 38\) \[Kreisliga Mix\]](https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x) | 2:22 | 2023-07-14 | 2024-08-17 |
+| [Karnevalsmaus](https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx) | [Druckluft](https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9) | [Karnevalsmaus](https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K) | 3:13 | 2026-02-05 |  |
 | [King Kong](https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [King Kong](https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n) | 2:36 | 2023-07-14 |  |
 | [Kleine Fee](https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h) | [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Kleine Fee](https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM) | 2:18 | 2023-10-20 | 2023-12-13 |
 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 | 2023-08-28 | 2024-08-26 |

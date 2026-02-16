@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,709 likes - 430 songs - 1 day 0 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,712 likes - 430 songs - 1 day 0 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 4 | [Golden Brown Sugar](https://open.spotify.com/track/1s8UNp2swlH5b6c6FghaCl) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Golden Brown Sugar](https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp) | 3:49 |
 | 5 | [Don't Come Back to Me](https://open.spotify.com/track/4klPpSNWIze097hvoS8kE3) | [Eternal Crush](https://open.spotify.com/artist/78t57a8M7PXqGC0UvGemQe) | [Heavenly Body](https://open.spotify.com/album/7M21yVSYGuhrEz5qqb1p7G) | 3:51 |
 | 6 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
-| 7 | [Always](https://open.spotify.com/track/7pkdipvf5UpPoqlK1wYoDK) | [Pink Breath of Heaven](https://open.spotify.com/artist/1ygblEoH4n9IHwIaL2QbIp) | [Colors Make a Sound](https://open.spotify.com/album/2cO5CjOsptUHQKhm439xy8) | 4:01 |
-| 8 | [Division](https://open.spotify.com/track/7blZ7E5MEc79MXQI64ijbV) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Division](https://open.spotify.com/album/5JWYBILZ3RfQMOGOF0cQw4) | 5:43 |
-| 9 | [Stinger](https://open.spotify.com/track/6zXeNSl35gGoifp6lFmm5C) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Stinger / Stung Again](https://open.spotify.com/album/64129QFqG8FFkY194WgMck) | 3:31 |
+| 7 | [Division](https://open.spotify.com/track/7blZ7E5MEc79MXQI64ijbV) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Division](https://open.spotify.com/album/5JWYBILZ3RfQMOGOF0cQw4) | 5:43 |
+| 8 | [Stinger](https://open.spotify.com/track/6zXeNSl35gGoifp6lFmm5C) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Stinger / Stung Again](https://open.spotify.com/album/64129QFqG8FFkY194WgMck) | 3:31 |
+| 9 | [Always](https://open.spotify.com/track/7pkdipvf5UpPoqlK1wYoDK) | [Pink Breath of Heaven](https://open.spotify.com/artist/1ygblEoH4n9IHwIaL2QbIp) | [Colors Make a Sound](https://open.spotify.com/album/2cO5CjOsptUHQKhm439xy8) | 4:01 |
 | 10 | [10 Days](https://open.spotify.com/track/2NbxX2HhZs3VAyznG7BXWc) | [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [Songs for Nothing](https://open.spotify.com/album/1J93HjeJ8X4bydH0o6uaVE) | 4:00 |
 | 11 | [The Fork](https://open.spotify.com/track/1FxHFQ30GjkrAPiUo6b4Do) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [The Fork](https://open.spotify.com/album/5t7bzjEslFvywuwqsRlPgU) | 4:35 |
 | 12 | [Watch For Infection](https://open.spotify.com/track/5Q68WFkdMhQ4UQskQQ9IFh) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Watch For Infection](https://open.spotify.com/album/5pM0cI8v6aGSa80eHxHiLO) | 3:06 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 429 | [Losing You](https://open.spotify.com/track/2Ek187XUG8kuUfBhYcPOGC) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Losing You](https://open.spotify.com/album/5ZAKTIKBizpKigUcJHSr2J) | 2:22 |
 | 430 | [Vallabye](https://open.spotify.com/track/3Wxi9LfC8AhjpsXxptwOup) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR), [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 3:53 |
 
-Snapshot ID: `AAAvTZQ402LMWE+AMqiDSOz/WHd2Xdx9`
+Snapshot ID: `AAAvTniKmToXVPOyUuRBY6RH0NZJ0wJA`

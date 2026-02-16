@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 35 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
 | 36 | [Girl to Girl](https://open.spotify.com/track/1fx6jheBK4WWQAI2fShdh1) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN) | 3:12 |
 | 37 | [Fall](https://open.spotify.com/track/5h2GybdgAmcJEAY9kRLCXs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test \(Deluxe Edition\)](https://open.spotify.com/album/0lAZGWg1Br8CNbarSBSOF9) | 3:53 |
-| 38 | [Soon As I'm Happy](https://open.spotify.com/track/6zQCl0ZpQTUyZ6gkEsFBDY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Seventeen](https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78) | 3:30 |
-| 39 | [Back At It Again](https://open.spotify.com/track/7L1UTbTKbYtQPTC7TCrTDH) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:03 |
+| 38 | [Back At It Again](https://open.spotify.com/track/7L1UTbTKbYtQPTC7TCrTDH) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:03 |
+| 39 | [Soon As I'm Happy](https://open.spotify.com/track/6zQCl0ZpQTUyZ6gkEsFBDY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Seventeen](https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78) | 3:30 |
 | 40 | [Name Storms After](https://open.spotify.com/track/68GQVCIEEGNlNfgFShWfRe) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:15 |
 | 41 | [Sunday Best](https://open.spotify.com/track/12CtaDcyRjpz9HfGBFeErk) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best](https://open.spotify.com/album/6GPRbMc5ogNnLeMabLsyYM) | 2:47 |
 | 42 | [twenty something](https://open.spotify.com/track/6484aaAK0ImB1kNT8HbXQ4) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 2:40 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 126 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcJrqAAAAAAKKZFk5woiU8ah0T8Xj8mg`
+Snapshot ID: `AcJxDAAAAAAxfbbDKACoGXVlE5doEFb0`

@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 217800,
+  "num_followers": 217882,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Puerta de la C\u00e2nne",
-        "url": "https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Cr\u00eetto de l\u00e2 Nabah\u00e2",
-      "url": "https://open.spotify.com/track/1GU309xFsWsQUM6lf4sJoN"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Aman Iman: Water Is Life",
         "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 267533,
       "name": "Cler Achel",
       "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Puerta de la C\u00e2nne",
+        "url": "https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Cr\u00eetto de l\u00e2 Nabah\u00e2",
+      "url": "https://open.spotify.com/track/1GU309xFsWsQUM6lf4sJoN"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 518745,
-      "name": "Go Dig My Grave",
-      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Dar Disku",
-        "url": "https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY"
-      },
-      "artists": [
-        {
-          "name": "Dar Disku",
-          "url": "https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR"
-        },
-        {
-          "name": "FLANAH",
-          "url": "https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5"
-        }
-      ],
-      "duration_ms": 159783,
-      "name": "Alsutur",
-      "url": "https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Clandestino (feat. Calypso Rose)",
         "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 158714,
       "name": "Clandestino (feat. Calypso Rose)",
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Dar Disku",
+        "url": "https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY"
+      },
+      "artists": [
+        {
+          "name": "Dar Disku",
+          "url": "https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR"
+        },
+        {
+          "name": "FLANAH",
+          "url": "https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5"
+        }
+      ],
+      "duration_ms": 159783,
+      "name": "Alsutur",
+      "url": "https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 338108,
+      "name": "Tala Tannam",
+      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Could We Be More Remixes",
         "url": "https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 189480,
       "name": "Home (anaiis Remix)",
       "url": "https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 338108,
-      "name": "Tala Tannam",
-      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 142480,
-      "name": "Run To Your Mama",
-      "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "I \u00e8s ?",
         "url": "https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 136040,
       "name": "Dempu\u00e8i auriac",
       "url": "https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 142480,
+      "name": "Run To Your Mama",
+      "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Worldly World (Ohaa Uha Uha)",
-        "url": "https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR"
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
       "artists": [
         {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Muyun Brothers",
-          "url": "https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF"
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Worldly World (Ohaa Uha Uha)",
-      "url": "https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq"
+      "duration_ms": 445816,
+      "name": "Afrique Victime",
+      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1047,22 +1043,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 445816,
-      "name": "Afrique Victime",
-      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "No. 1",
         "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 351375,
       "name": "Agrim Agadez",
       "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Worldly World (Ohaa Uha Uha)",
+        "url": "https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Muyun Brothers",
+          "url": "https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Worldly World (Ohaa Uha Uha)",
+      "url": "https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Enkaz",
-        "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 200121,
-      "name": "Enkaz",
-      "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Coconut Rock",
         "url": "https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 237832,
       "name": "El Diablo Y El \u00d1au \u00d1au (feat. Chico Mann)",
       "url": "https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Enkaz",
+        "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 200121,
+      "name": "Enkaz",
+      "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 301723,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Udhero Na",
         "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Fiat Lux",
-        "url": "https://open.spotify.com/album/4hjKxlkH171FW6UmzpOD36"
-      },
-      "artists": [
-        {
-          "name": "Tarta Relena",
-          "url": "https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "El su\u00efcidi i el cant",
-      "url": "https://open.spotify.com/track/7GquvFJQ0RKEOgH6uNAhkU"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Remotely Close: Silkyway",
         "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Fiat Lux",
+        "url": "https://open.spotify.com/album/4hjKxlkH171FW6UmzpOD36"
+      },
+      "artists": [
+        {
+          "name": "Tarta Relena",
+          "url": "https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "El su\u00efcidi i el cant",
+      "url": "https://open.spotify.com/track/7GquvFJQ0RKEOgH6uNAhkU"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
-      },
-      "artists": [
-        {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Khun Narin's Electric Phin Band",
         "url": "https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 284168,
       "name": "Charango Dub",
       "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+      },
+      "artists": [
+        {
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Junchuch",
         "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2025-09-02 19:54:46",

@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Babble Hume",
-  "num_followers": 5553,
+  "num_followers": 5608,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-02-13 10:10:40",
       "album": {
-        "name": "Yalwa",
-        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+        "name": "Mighty",
+        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
       },
       "artists": [
         {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+          "name": "SaxbyTwins",
+          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
         }
       ],
-      "duration_ms": 154333,
-      "name": "Yalwa",
-      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+      "duration_ms": 233880,
+      "name": "Mighty",
+      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
     },
     {
       "added_at": "2026-02-13 10:10:40",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-02-13 10:10:40",
       "album": {
-        "name": "Mighty",
-        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
+        "name": "Yalwa",
+        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
       },
       "artists": [
         {
-          "name": "SaxbyTwins",
-          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Mighty",
-      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
+      "duration_ms": 154333,
+      "name": "Yalwa",
+      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
     },
     {
       "added_at": "2026-02-13 10:10:40",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-13 10:10:40",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 199130,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg"
-    },
-    {
-      "added_at": "2026-02-13 10:10:40",
-      "album": {
         "name": "We Will Run",
         "url": "https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 188400,
       "name": "We Will Run",
       "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"
+    },
+    {
+      "added_at": "2026-02-13 10:10:40",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 199130,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg"
     },
     {
       "added_at": "2026-02-13 10:10:40",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-02-13 10:10:40",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 209042,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk"
-    },
-    {
-      "added_at": "2026-02-13 10:10:40",
-      "album": {
         "name": "Feel It All",
         "url": "https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 168200,
       "name": "Feel It All",
       "url": "https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh"
+    },
+    {
+      "added_at": "2026-02-13 10:10:40",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 209042,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk"
     },
     {
       "added_at": "2026-02-13 10:10:40",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-02-13 10:10:40",
       "album": {
+        "name": "Old Hometown",
+        "url": "https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Old Hometown",
+      "url": "https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm"
+    },
+    {
+      "added_at": "2026-02-13 10:10:40",
+      "album": {
         "name": "Gatekeepers (feat. Pa Salieu)",
         "url": "https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 170775,
       "name": "Gatekeepers (feat. Pa Salieu)",
       "url": "https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2"
-    },
-    {
-      "added_at": "2026-02-13 10:10:40",
-      "album": {
-        "name": "Old Hometown",
-        "url": "https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Old Hometown",
-      "url": "https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm"
     },
     {
       "added_at": "2026-02-13 10:10:40",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-13 10:10:40",
       "album": {
-        "name": "Salty Chips",
-        "url": "https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1"
-      },
-      "artists": [
-        {
-          "name": "Juney Luv",
-          "url": "https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI"
-        }
-      ],
-      "duration_ms": 148099,
-      "name": "Salty Chips",
-      "url": "https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A"
-    },
-    {
-      "added_at": "2026-02-13 10:10:40",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 252216,
       "name": "Broda Kevwe",
       "url": "https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2"
+    },
+    {
+      "added_at": "2026-02-13 10:10:40",
+      "album": {
+        "name": "Salty Chips",
+        "url": "https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1"
+      },
+      "artists": [
+        {
+          "name": "Juney Luv",
+          "url": "https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI"
+        }
+      ],
+      "duration_ms": 148099,
+      "name": "Salty Chips",
+      "url": "https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A"
     },
     {
       "added_at": "2026-02-13 10:10:40",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2026-02-13 10:10:40",
       "album": {
-        "name": "LAGOS",
-        "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q"
       },
       "artists": [
         {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        },
-        {
-          "name": "TR1GGA",
-          "url": "https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3"
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
         }
       ],
-      "duration_ms": 180000,
-      "name": "LAGOS",
-      "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
+      "duration_ms": 168311,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm"
     }
   ],
   "unique_name": "Afro Indie",

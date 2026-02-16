@@ -1215,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "Bigger Amount",
+        "url": "https://open.spotify.com/album/7mv0hUdMKkBMdCdZkIohcL"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        },
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180214,
+      "name": "Bigger Amount",
+      "url": "https://open.spotify.com/track/748OwMC54EEWkhRDOc3svl"
+    },
+    {
+      "album": {
         "name": "Circus Four",
         "url": "https://open.spotify.com/album/7qj4xzuZKpPdJ1zx8vM14e"
       },
@@ -2258,6 +2280,28 @@
       "duration_ms": 240344,
       "name": "Cry",
       "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
+    },
+    {
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/5Uea7eTkedUd4xxj4jS6tb"
+      },
+      "artists": [
+        {
+          "name": "Breakage",
+          "url": "https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187575,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/5GI2QctsuiQejkyfxtg6Xi"
     },
     {
       "album": {
@@ -3366,7 +3410,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 191724,
       "name": "Empire",
       "url": "https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu"
@@ -11682,7 +11726,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 170057,
       "name": "The Infamous VIP",
       "url": "https://open.spotify.com/track/2DYoBJ7pNAKkrlTdZYVMAb"

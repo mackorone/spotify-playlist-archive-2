@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Better than I Was",
+        "url": "https://open.spotify.com/album/5BXCnjvsiAKze4FNPdRjTT"
+      },
+      "artists": [
+        {
+          "name": "Up The RIvals",
+          "url": "https://open.spotify.com/artist/4CQAbwrx8GllLKOPahvxyH"
+        },
+        {
+          "name": "Pois0nedlifealt",
+          "url": "https://open.spotify.com/artist/6gKvF0oaV30ZOvSzrgH4S3"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Better than I Was",
+      "url": "https://open.spotify.com/track/6Fh7RnC9smzn88GpnGKCpj"
+    },
+    {
+      "album": {
         "name": "Oh No, Not Again! - EP",
         "url": "https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd"
       },

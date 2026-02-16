@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Carolina Ross 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,769 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,777 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 82 | [Esta vez te digo adios](https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Esta vez te digo adios](https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA) | 3:48 |
 | 83 | [Mi gran país](https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7) | [Jose Julian](https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87) | [Mi gran país](https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5) | 2:57 |
 | 84 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
-| 85 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |
-| 86 | [Palabras Tristes](https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Palabras Tristes](https://open.spotify.com/album/22C9ulEE7oDldOCmTtGf5b) | 3:36 |
-| 87 | [Ningún Color Tiene Dueño](https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Ningún Color Tiene Dueño](https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu) | 3:25 |
-| 88 | [Dame un Beso](https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:47 |
+| 85 | [Palabras Tristes](https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Palabras Tristes](https://open.spotify.com/album/22C9ulEE7oDldOCmTtGf5b) | 3:36 |
+| 86 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |
+| 87 | [Dame un Beso](https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:47 |
+| 88 | [Ningún Color Tiene Dueño](https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Ningún Color Tiene Dueño](https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu) | 3:25 |
 | 89 | [La Gata Bajo La Lluvia](https://open.spotify.com/track/4w1jKE1NhrfkEct3sWCABv) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [SEÑORA HITS](https://open.spotify.com/album/5SLkeWgZdIPK7eGpHav19F) | 3:16 |
 | 90 | [Carita de Cielo](https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Carita de Cielo](https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX) | 3:05 |
 | 91 | [hasta ser viejitos](https://open.spotify.com/track/4GbBqCjhsc2NmWkzfqi0RX) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [\#RANCHICAN](https://open.spotify.com/album/7yUCGDx0gG1T0kOH1Po7R0) | 2:33 |
-| 92 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 |
-| 93 | [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:21 |
+| 92 | [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:21 |
+| 93 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 |
 | 94 | [Por Un Amor](https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Por Un Amor](https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf) | 3:13 |
 | 95 | [Cuando Un Amor Se Va](https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Pal Barrio](https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0) | 3:05 |
 | 96 | [Dulcesito De Chamoy](https://open.spotify.com/track/3FsUMWJZOlRzQIOf05PVtr) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Dulcesito De Chamoy](https://open.spotify.com/album/7J3zMhP1YP1sdiisRT8FfC) | 3:14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 596252,
+  "num_followers": 596298,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY5pgAAAAAC0qBQ5Y+3DQA2vN/7gltZx",
+  "snapshot_id": "aY+7AAAAAACuoM3W8wchTtqApprpVbpL",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 317346,
-      "name": "Plainsong - Remastered",
-      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
+      "duration_ms": 141800,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Staring At The Sea - The Singles",
-        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 141800,
-      "name": "Killing An Arab",
-      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
+      "duration_ms": 317346,
+      "name": "Plainsong - Remastered",
+      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Don\u2019t Cry (86 Mix)",
-        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 134421,
-      "name": "Plastic Passion - 79 Mix / 2026 Remaster",
-      "url": "https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195693,
       "name": "Three Imaginary Boys",
       "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Don\u2019t Cry (86 Mix)",
+        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 134421,
+      "name": "Plastic Passion - 79 Mix / 2026 Remaster",
+      "url": "https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > só tem uma coisa a dizer\. VENÇA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,702 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,641 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Devoto](https://open.spotify.com/track/5wZ3pAozhIMrbwpioCRbDN) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [Melhor Momento \(Deluxe\)](https://open.spotify.com/album/3Buob72sU30zOIsUz6JuqJ) | 4:26 |
 | 50 | [TÚNEL REBOUÇAS](https://open.spotify.com/track/7k0aaFjBBSyqwWoTNhVryG) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 1:48 |
 
-Snapshot ID: `AAAAAMPVGpeyJFE0BLI/n9405f5qhAsa`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

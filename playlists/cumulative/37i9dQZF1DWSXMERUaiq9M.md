@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: Odymel
 
-637 songs - 1 day 14 hr 39 min
+638 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 | 2024-05-23 | 2024-06-14 |
 | [Atlantis \- Edit](https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg) | [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Atlantis \(Edit\)](https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM) | 2:26 | 2025-08-14 |  |
 | [Atlantyda](https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [The World Of Monnom Black II](https://open.spotify.com/album/1Qmlt7Lujv1VgCP44rCKJT) | 6:36 | 2023-03-10 | 2023-04-19 |
-| [Ayi Giri](https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Ayi Giri / Dopamine Machine](https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7) | 3:06 | 2026-01-22 |  |
+| [Ayi Giri](https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Ayi Giri / Dopamine Machine](https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7) | 3:06 | 2026-01-22 | 2026-02-16 |
 | [AZADI \- Calling Marian Remix](https://open.spotify.com/track/3wFG8hklVZctDRJRqjiCMd) | [Tallisker](https://open.spotify.com/artist/5kHKhgCMg9yezOrISm4wJH), [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Calling Marian](https://open.spotify.com/artist/55XeXVltnSNGMlDXjLez9F) | [AZADI \(Calling Marian Remix\)](https://open.spotify.com/album/6nj3cwmyRn6PkIIQfkoU5A) | 5:10 | 2023-08-01 | 2023-08-05 |
 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 | 2025-06-05 |  |
 | [Baby](https://open.spotify.com/track/7q6BicHo0SQEK5Z7G9iVWc) | [Jim Jonathan](https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY) | [Baby](https://open.spotify.com/album/6prxL4sHmXWAmQ7A9vfmJF) | 6:26 | 2024-08-26 | 2024-08-30 |
@@ -379,6 +379,7 @@
 | [Moonlight \- Rave Edit](https://open.spotify.com/track/2CpRpE4bXlpT1B7vwKsxKa) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight \(Rave Edit\)](https://open.spotify.com/album/2efgNZbcsAf9eYJ8hwXSJM) | 2:33 | 2024-02-02 | 2024-03-07 |
 | [Morals](https://open.spotify.com/track/2jw3yv4EOzBTzbMs2cHphj) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [ROWN](https://open.spotify.com/artist/4WZfWEaVAJg0Sil7Ju7iea) | [Morals](https://open.spotify.com/album/2HlmQVBNrnKlTY7uBB5dJk) | 2:41 | 2025-12-19 | 2026-02-06 |
 | [Mosquito](https://open.spotify.com/track/6d2nejXrpfVWHQzW98yD0t) | [Trancemaster Krause](https://open.spotify.com/artist/5zKJhJZNLAQoVoycu4Esnw), [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP) | [Mosquito](https://open.spotify.com/album/6aBNX4wPwzHsViRArT61yb) | 3:37 | 2025-10-10 | 2025-10-24 |
+| [Mouth Go LaLa](https://open.spotify.com/track/780PwJDNueCJoPs3uQ9jvD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Mouth Go LaLa](https://open.spotify.com/album/6PACqViUcHMi7Nm0hn9JSI) | 2:41 | 2026-02-12 |  |
 | [MOVE IT](https://open.spotify.com/track/6cONtKwkzZM9dXjRn9KxHh) | [Ollie Lishman](https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0) | [WATCH YO STEP](https://open.spotify.com/album/6tl4o9o6XIIXwz95fGYRLQ) | 4:58 | 2024-12-28 | 2025-01-07 |
 | [Move My Body \(feat\. Lucy Dye\)](https://open.spotify.com/track/26xw61UppTKPySjw3RLvx6) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Move My Body \(feat\. Lucy Dye\)](https://open.spotify.com/album/4BAyc37k3eWHs93aMT21XA) | 2:47 | 2024-07-25 | 2025-01-07 |
 | [Move Your Feet](https://open.spotify.com/track/7tIa5zvbBjTKNqa3T99Ki5) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Move Your Feet](https://open.spotify.com/album/7gmF0w2kmwBfUJUFxUkeiM) | 2:52 | 2024-10-10 | 2024-11-12 |

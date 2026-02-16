@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 384 songs - 23 hr 33 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 385 songs - 23 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -392,5 +392,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 382 | [Teddy Picker](https://open.spotify.com/track/4OkPamOn5GofkOQu64Z4eR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:40 |
 | 383 | [Old Yellow Bricks](https://open.spotify.com/track/3BcQFPRZuuUClWStz29WjN) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:07 |
 | 384 | [Hymn For A Droid](https://open.spotify.com/track/6e7LEf6iDAkshuWbpnqcKN) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [And Now For The Whatchamacallit](https://open.spotify.com/album/61gvdyrZybWdOsDBzSMdrj) | 3:27 |
+| 385 | [Let's Get Blown](https://open.spotify.com/track/0NdxbFFknA7kQ4E2zvJfey) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:40 |
 
-Snapshot ID: `AAAfubrkOcYzDxEhTdtXZOZOGoGI4mbV`
+Snapshot ID: `AAAfuvMDgjkARMTHjXMISpFcluRRaMte`

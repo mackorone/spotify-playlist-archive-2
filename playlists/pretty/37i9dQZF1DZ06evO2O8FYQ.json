@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY5pgAAAAACtgffqBn8TLMO2ycIhWO9C",
+  "snapshot_id": "aY+7AAAAAAA6SVNBx05bX/7ncQG8Bwg9",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 168240,
-      "name": "Bad Penny",
-      "url": "https://open.spotify.com/track/3C8Y4JVurbZLfSTqeVvgyZ"
+      "duration_ms": 139013,
+      "name": "Friend of Mine",
+      "url": "https://open.spotify.com/track/7MymHLfjUkw9udMaMjqSOp"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 139013,
-      "name": "Friend of Mine",
-      "url": "https://open.spotify.com/track/7MymHLfjUkw9udMaMjqSOp"
+      "duration_ms": 168240,
+      "name": "Bad Penny",
+      "url": "https://open.spotify.com/track/3C8Y4JVurbZLfSTqeVvgyZ"
     },
     {
       "added_at": null,

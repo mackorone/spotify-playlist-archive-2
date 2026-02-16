@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,717 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,839 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 19 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 20 | [RÜCKBANK IM MAYBACH](https://open.spotify.com/track/3thTqEQTEc1ZLpQwg0hUWO) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn) | [I WANT 2 BELIEVE](https://open.spotify.com/album/2cLqnY6jiwKczlV0mPhVVh) | 4:36 |
 | 21 | [LEFT OUT \(feat\. M Huncho\)](https://open.spotify.com/track/6h9lDWwnNEZgKUZxPjSohA) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [IT'S NOT YOU IT'S ME](https://open.spotify.com/album/7yOrgeOtDX3XjPEzemjucQ) | 2:31 |
-| 22 | [Mention Me](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
+| 22 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
 | 23 | [BIG \(feat\. Kojey Radical & Rapsody\)](https://open.spotify.com/track/6BIbLCwhwpH3Ngax7NXvvA) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [BIG \(feat\. Kojey Radical & Rapsody\)](https://open.spotify.com/album/2gOXrJqFDp408YnbREzAlW) | 2:55 |
 | 24 | [Total](https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Total](https://open.spotify.com/album/71P9Ez49rEozCuXodmSQrb) | 3:49 |
 | 25 | [FIRST CLASS LANDING.](https://open.spotify.com/track/3wS3axElohYztqGgvwxJX3) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [FIRST CLASS LANDING.](https://open.spotify.com/album/4a22dfdSjqIJ9fw9M8cLO0) | 3:01 |

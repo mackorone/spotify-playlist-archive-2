@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,193 songs - 20 day 19 hr 56 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,200 songs - 20 day 20 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8201,5 +8201,12 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8191 | [はちみーのうた](https://open.spotify.com/track/46eZEjr6MVjL8l87FkNZr4) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY Season 2 vol.3 Original Sound Track](https://open.spotify.com/album/5180jjuPAfurbc3HTGFP0n) | 0:30 |
 | 8192 | [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 |
 | 8193 | [群青讃歌](https://open.spotify.com/track/1pj6zUNWoX9pP4rrL91M9o) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt), [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo), [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp), [天馬司](https://open.spotify.com/artist/6O6RrJYIuvZEIzv6tNG85i), [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク テーマソング・アニバーサリーソングアルバム](https://open.spotify.com/album/2pwXaxMlSCDporwOtHLQ2X) | 4:36 |
+| 8194 | [Genius of Takwin](https://open.spotify.com/track/3NnNinDuisrXs8SqpRj8ST) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Stellar Moments \(Original Game Soundtrack\)](https://open.spotify.com/album/0mSbKAlNwSFHlKL4i3OIsn) | 1:40 |
+| 8195 | [The Heights of Rumikunamanta](https://open.spotify.com/track/46kwyBEXn40FdA7J0ePusS) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Land of Tleyaoyotl \(Original Game Soundtrack\)](https://open.spotify.com/album/3rMVCxKkVGwVVOnNpIWERS) | 1:32 |
+| 8196 | [Ode of Resurrection: Recapitulation](https://open.spotify.com/track/2veCqqvR69JbR1gWNV8ieC) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Radiance Aflame \(Original Game Soundtrack\)](https://open.spotify.com/album/787prlbdaHbaYtqyytzqaJ) | 3:51 |
+| 8197 | [群青讃歌](https://open.spotify.com/track/4qGgGPkMWIPQBngZlR7tbh) | [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:36 |
+| 8198 | [どりーみんチュチュ](https://open.spotify.com/track/4Av4sFayrGF7uauHdTRwH5) | [桃井愛莉](https://open.spotify.com/artist/7gj8NlLwHKucHSC5OGiuVh) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:02 |
+| 8199 | [どりーみんチュチュ](https://open.spotify.com/track/4DxH0xyPAzmsO4uXmxieWX) | [日野森雫](https://open.spotify.com/artist/5N00QVyIS7NWkuQWEfJmKQ) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:02 |
+| 8200 | [ロミオとシンデレラ](https://open.spotify.com/track/55hLQq6wmtX26c9hKgtWOh) | [桃井愛莉](https://open.spotify.com/artist/7gj8NlLwHKucHSC5OGiuVh) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:39 |
 
-Snapshot ID: `AAAKmI0c8esdX2q/QFCijKj1QlfAvI5I`
+Snapshot ID: `AAAKnIifQxO28yboSrvo/DrVORa/jQKj`

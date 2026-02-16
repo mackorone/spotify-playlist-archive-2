@@ -3999,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Phayao",
+        "url": "https://open.spotify.com/album/1l8NuTRGtFlHgiMivm4oA9"
+      },
+      "artists": [
+        {
+          "name": "Natthiko",
+          "url": "https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Phayao",
+      "url": "https://open.spotify.com/track/7h62zRF9tmtVzJvihGyiW4"
+    },
+    {
+      "album": {
         "name": "Pratibimba / Reflection",
         "url": "https://open.spotify.com/album/1njnDG6eJHTYX6ScE8z8Ej"
       },
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 224571,
       "name": "Waking Peacefully (in the Rain)",
       "url": "https://open.spotify.com/track/4Tc5gQf25Xwt9gHluv9gvr"

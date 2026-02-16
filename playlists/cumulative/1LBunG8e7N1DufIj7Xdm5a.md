@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,077 songs - 9 day 0 hr 39 min
+4,079 songs - 9 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1990,6 +1990,7 @@
 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 | 2025-07-28 |  |
 | [Lejos de aquí](https://open.spotify.com/track/5Ys3niIfv2ofhuCOE0XfKB) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR) | [Buscando Salidas](https://open.spotify.com/album/3pkT6ZAnN5DCO9Q8vlA9e4) | 2:54 | 2025-07-25 |  |
 | [Leningrado](https://open.spotify.com/track/0NVmgOHKOC00HAAHvchH2A) | [CIGNO](https://open.spotify.com/artist/70Fvv8XwCCBE4PM0JaTsKI) | [Buonanotte Berlinguer](https://open.spotify.com/album/1tx16k5nRquLGYFqydm6Jb) | 4:09 | 2025-11-12 |  |
+| [Let it all out](https://open.spotify.com/track/6feDqUIBfhQJWdCL0iDnfv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 2:12 | 2026-02-15 |  |
 | [Let me try again](https://open.spotify.com/track/0xjCRP1uRfxXICjXoDmteU) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [Let me try again](https://open.spotify.com/album/42eSRFYwg1HeSiXpVeGySr) | 3:26 | 2025-04-02 |  |
 | [Let super](https://open.spotify.com/track/2c4558q1mDpIpnuPyuM5iW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:43 | 2025-09-12 |  |
 | [Let the music take you high](https://open.spotify.com/track/4YsR4qfwZC53nintO4u8Dd) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [Let the music take you high](https://open.spotify.com/album/6aSo6Hfov4ksNP5phXBcVM) | 2:59 | 2025-06-04 |  |
@@ -2691,6 +2692,7 @@
 | [PCC](https://open.spotify.com/track/0pbJZFqKWVBmpqqeta8yCg) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [ROM D\. ODSU](https://open.spotify.com/artist/3bHFJ6BT2BeXUSYq9Bqi2u) | [PCC](https://open.spotify.com/album/1rpolSpCnwHA214aX8RJGr) | 2:51 | 2025-06-05 |  |
 | [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 | 2026-01-12 | 2026-01-26 |
 | [PEGGIOXTE](https://open.spotify.com/track/0bA7T5mSWQrpk9Pmml2UFD) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [PEGGIOXTE](https://open.spotify.com/album/5sqbsO1hpRKfaTtpvS1ufc) | 3:18 | 2025-06-24 |  |
+| [Pensiero Nero](https://open.spotify.com/track/0nkg3BoJ3Xou1xYiiaFu7M) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Pensiero Nero](https://open.spotify.com/album/6tTjgArejhqTnb5l9sY6qO) | 4:33 | 2026-02-15 |  |
 | [Pensiero Vivo](https://open.spotify.com/track/6qxw0D9vC46xpHGuk6VkTa) | [Il Vagabondo Detto Houston](https://open.spotify.com/artist/6fwDkK7Yrv6HvR2qApLthG) | [Pensiero Vivo](https://open.spotify.com/album/0reGMJaOEya8IxVz3dRyL9) | 3:34 | 2025-05-05 |  |
 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 | 2025-04-09 |  |
 | [People Crowd the Streets](https://open.spotify.com/track/1biEIdMqgSiU0B5jHUig0P) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 2:25 | 2025-09-19 |  |

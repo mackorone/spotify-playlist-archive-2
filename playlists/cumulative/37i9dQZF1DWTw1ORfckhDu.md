@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,115 songs - 2 day 4 hr 59 min
+1,116 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ensi elämässä](https://open.spotify.com/track/5xKTqyinfP9bu6yWl0iXfF) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Ensi elämässä](https://open.spotify.com/album/0lVTumitreS4U1ETZU4Zyu) | 2:58 | 2024-04-04 | 2024-04-12 |
 | [Erityisen hyvä](https://open.spotify.com/track/2tLo3GXozBoluOVweDXQUQ) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Erityisen hyvä](https://open.spotify.com/album/0IQmXpX745a4eFEGtXo9K0) | 2:58 | 2025-04-10 | 2025-06-27 |
 | [Esikuva](https://open.spotify.com/track/0M9aHCy9mp040zf7Xv08ww) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Yliajattelija](https://open.spotify.com/album/7mjpBLjv1TEqo85ERLfTXb) | 3:15 | 2025-11-13 | 2025-11-28 |
+| [et millään saa](https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [et millään saa](https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs) | 2:54 | 2026-02-12 |  |
 | [Et oo räppäri](https://open.spotify.com/track/0nSb6lDdpVjcm2hhV8CJFA) | [Seksikäs\-Suklaa](https://open.spotify.com/artist/2o2qKwPkfo0vDnyXnfgk0W), [Lika\-Aki](https://open.spotify.com/artist/4XSTZw9BvsG1ZXkyJOLyuw) | [Et oo räppäri](https://open.spotify.com/album/1C7VaPTxV3zjkG4paKhwpQ) | 2:15 | 2023-09-21 | 2023-09-29 |
 | [et tunne mua enää](https://open.spotify.com/track/5YTkeaXmBsHbPIX3hIjt1f) | [Dreamilla](https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj) | [et tunne mua enää](https://open.spotify.com/album/22hjPtWuZ1t4gIHb7eSsLv) | 3:13 | 2023-12-08 | 2023-12-22 |
 | [Et tuu olee \(feat\. Josef Aron\)](https://open.spotify.com/track/62uKrSFgzrc1nCv7qQxlxD) | [Michael Anders](https://open.spotify.com/artist/2L8fe3CNcVSupOhGdNSCEh), [Josef Aron](https://open.spotify.com/artist/5fI0Xv7Yz0Gl5UOqjGt1XS) | [Et tuu olee \(feat\. Josef Aron\)](https://open.spotify.com/album/094q6dzMJtQlHajlZ4uVSE) | 2:53 | 2024-01-04 | 2024-01-19 |
@@ -950,7 +951,7 @@
 | [Tehny hynää](https://open.spotify.com/track/0hqpQw7U3M1a04vKGsmIYx) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Tehny hynää](https://open.spotify.com/album/2BgteV6yb99VuqRBhDYILL) | 3:00 | 2024-05-09 | 2024-07-02 |
 | [Tehtaan Takuu](https://open.spotify.com/track/0fCPXD3gyyvcGCUDNbWIwf) | [Bulle](https://open.spotify.com/artist/1lXwfUoWuEuKgm6oPTkGQl), [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD), [Taisto Tapulist](https://open.spotify.com/artist/7qg86ebKDwx18tTzUMJyb5) | [Tehtaan Takuu](https://open.spotify.com/album/4eIOlifvxj7isLOfKDgKjX) | 3:20 | 2025-09-18 | 2025-12-12 |
 | [Tehtiin tää \(feat\. Sexmane\)](https://open.spotify.com/track/6vV1vh8tZyklW01nLAljcJ) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Tehtiin tää \(feat\. Sexmane\)](https://open.spotify.com/album/04f65nN6wxZzrTPkk63lrb) | 4:05 | 2024-04-25 | 2024-07-05 |
-| [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 | 2025-11-13 |  |
+| [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 | 2025-11-13 | 2026-02-16 |
 | [Tekijä](https://open.spotify.com/track/3jza1T7ZtlMrPClQI4qL5M) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tekijä](https://open.spotify.com/album/5ZCj2wxRxuDJiMQEuesZSy) | 2:50 | 2024-04-25 | 2024-06-01 |
 | [Tenho Nyman](https://open.spotify.com/track/1m9tFmJjK0aQwLiNIt2ILr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Tenho Nyman](https://open.spotify.com/album/4qiLDY4RkJvsmGGJ4bqwKf) | 2:46 | 2023-09-28 | 2023-10-13 |
 | [Tequila](https://open.spotify.com/track/4RcBdmcjMn7qv0BeVfW8ys) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Tequila](https://open.spotify.com/album/5dqIVgDv4K2MWPO7J5InuC) | 3:06 | 2023-10-26 | 2023-12-01 |

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-498 songs - 1 day 5 hr 18 min
+499 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 | 2025-09-25 |
 | [Bra för dig](https://open.spotify.com/track/0uSBYTlQw9tR6H2HzcUXji) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0), [Karin Wistrand](https://open.spotify.com/artist/6LHbFvsdTSwsk5Tn4O7PNB) | [Så mycket bättre 2024 \- Tolkningarna](https://open.spotify.com/album/07tHAQSKDA4CnmNWn1U3kA) | 4:07 | 2025-01-02 | 2025-05-09 |
 | [Brandalsund](https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0), [Peder af Ugglas](https://open.spotify.com/artist/0BShcQJsGOlh0CxBK24Q43) | [Brandalsund](https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI) | 4:26 | 2024-06-27 | 2024-08-16 |
+| [Breaking Up Is Hard To Do](https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Breaking Up Is Hard To Do](https://open.spotify.com/album/6jhOWJ2x7JfrO8b9CQ20CU) | 4:25 | 2026-02-12 |  |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-27 | 2024-08-23 |
 | [Bättre här](https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Bättre här](https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn) | 3:08 | 2025-09-18 |  |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 | 2025-04-04 |
@@ -420,7 +421,7 @@
 | [Säg vad du tänker](https://open.spotify.com/track/0xzGKqSRbmUPfAMkxvvKOw) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Säg vad du tänker](https://open.spotify.com/album/7fBVXi9Bghd7hnz8zv4lDk) | 2:49 | 2024-09-26 | 2024-10-11 |
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 | 2025-04-25 |
 | [Sällskapssjuk](https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Sällskapssjuk](https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4) | 3:34 | 2024-06-27 | 2025-04-04 |
-| [Så många mil, så många år..\. \- Live](https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Så många mil, så många år..\. \(Live\)](https://open.spotify.com/album/62D6Cbd858YofuKgOpiu8q) | 5:58 | 2025-10-23 |  |
+| [Så många mil, så många år..\. \- Live](https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Så många mil, så många år..\. \(Live\)](https://open.spotify.com/album/62D6Cbd858YofuKgOpiu8q) | 5:58 | 2025-10-23 | 2026-02-16 |
 | [Talk](https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Talk](https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ) | 3:44 | 2024-09-19 | 2024-10-11 |
 | [Tar det upp i topp](https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Tar det upp i topp](https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4) | 2:49 | 2024-09-12 | 2024-10-28 |
 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 | 2025-05-01 | 2026-02-13 |

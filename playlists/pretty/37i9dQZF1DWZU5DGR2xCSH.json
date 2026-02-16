@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1127586,
+  "num_followers": 1127583,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 398222,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 186911,
       "name": "Ruta 66",
       "url": "https://open.spotify.com/track/4gN4cSdHUbd6eLzkWL1vdI"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Time Fate Love (Remastered 2019)",
-        "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
-      },
-      "artists": [
-        {
-          "name": "Luca Prodan",
-          "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
-        }
-      ],
-      "duration_ms": 257694,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/5XGWakb6O2GIQem0pIBMxH"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

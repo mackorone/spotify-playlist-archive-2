@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain](/playlists/plain/37i9dQZF1DWZTevReS5evR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZTevReS5evR)
 
-### [membadut](https://open.spotify.com/playlist/37i9dQZF1DWZTevReS5evR)
+### [Geng Bukber Bucin](https://open.spotify.com/playlist/37i9dQZF1DWZTevReS5evR)
 
-> I really wish your real name is my last name 🤡
+> Lagu\-lagu untuk kamu dan teman\-temanmu yang paling bucin
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,199 likes - 91 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,186 likes - 91 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 90 | [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 |
 | 91 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
 
-Snapshot ID: `AAAAADSq+7KYLJjhFroVv0S6eywk4DOX`
+Snapshot ID: `AAAAAP7pKMbmr8aPpO63LIR4Ox9aAI9W`

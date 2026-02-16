@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 39290,
+  "num_followers": 39287,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "Alleys of My Mind",
-        "url": "https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA"
-      },
-      "artists": [
-        {
-          "name": "Carpetman",
-          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
-        },
-        {
-          "name": "Black Soil",
-          "url": "https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD"
-        }
-      ],
-      "duration_ms": 237778,
-      "name": "Alleys of My Mind",
-      "url": "https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
         "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 132626,
       "name": "\u0410\u0443 \u0430\u0443",
       "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "Alleys of My Mind",
+        "url": "https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA"
+      },
+      "artists": [
+        {
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        },
+        {
+          "name": "Black Soil",
+          "url": "https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD"
+        }
+      ],
+      "duration_ms": 237778,
+      "name": "Alleys of My Mind",
+      "url": "https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "The Table",
-        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
+        "name": "Lucerna",
+        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
         }
       ],
-      "duration_ms": 173952,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
+      "duration_ms": 376000,
+      "name": "Lucerna",
+      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "Lucerna",
-        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
       "artists": [
         {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Lucerna",
-      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
+        "name": "\u0414\u0456\u0442\u0438",
+        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
+          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
+        }
+      ],
+      "duration_ms": 238672,
+      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
+      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
         "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
         "url": "https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i"
       },
@@ -331,26 +347,6 @@
       "duration_ms": 139200,
       "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
       "url": "https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
-        "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
-        "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
-      },
-      "artists": [
-        {
-          "name": "Phil It",
-          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
-        },
-        {
-          "name": "ROXOLANA",
-          "url": "https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4"
-        }
-      ],
-      "duration_ms": 218928,
-      "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
-      "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -371,18 +367,22 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u0414\u0456\u0442\u0438",
-        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
+        "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
+        "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
       "artists": [
         {
-          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
-          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
+          "name": "Phil It",
+          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
+        },
+        {
+          "name": "ROXOLANA",
+          "url": "https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4"
         }
       ],
-      "duration_ms": 238672,
-      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
-      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
+      "duration_ms": 218928,
+      "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
+      "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -527,18 +527,22 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+        "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
+        "url": "https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Liza Bibikova",
+          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
+        },
+        {
+          "name": "MOISHE",
+          "url": "https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh"
         }
       ],
-      "duration_ms": 203324,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+      "duration_ms": 161342,
+      "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
+      "url": "https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -563,6 +567,22 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
         "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
         "url": "https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 185142,
       "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
       "url": "https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
-        "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
-        "url": "https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f"
-      },
-      "artists": [
-        {
-          "name": "Liza Bibikova",
-          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
-        },
-        {
-          "name": "MOISHE",
-          "url": "https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
-      "url": "https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "ellipsis",
-        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243314,
-      "name": "ellipsis",
-      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
         "url": "https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
         "name": "\u044f \u0454 \u0440\u0430\u043d\u0430 / \u044f \u0454 \u043d\u0456\u0436",
         "url": "https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 185437,
       "name": "\u044f \u0454 \u0440\u0430\u043d\u0430 / \u044f \u0454 \u043d\u0456\u0436",
       "url": "https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -855,22 +871,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-        "url": "https://open.spotify.com/album/786cElizhWDpDRC44iXLmT"
-      },
-      "artists": [
-        {
-          "name": "Phil It",
-          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
-        }
-      ],
-      "duration_ms": 336594,
-      "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-      "url": "https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u0414\u0418\u041c (Acoustic)",
         "url": "https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 221614,
       "name": "\u0414\u0418\u041c - Acoustic",
       "url": "https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
+        "url": "https://open.spotify.com/album/786cElizhWDpDRC44iXLmT"
+      },
+      "artists": [
+        {
+          "name": "Phil It",
+          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
+        }
+      ],
+      "duration_ms": 336594,
+      "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
+      "url": "https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u0411\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
         "url": "https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 180652,
       "name": "\u0412\u0441\u0456 \u0446\u0456 \u0444\u0430\u0440\u0431\u0438",
       "url": "https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
-        "name": "\u041d\u0435\u0431\u043e",
-        "url": "https://open.spotify.com/album/79iV7wXQqZ0hM8mb9iVJMZ"
-      },
-      "artists": [
-        {
-          "name": "U2U",
-          "url": "https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u041d\u0435\u0431\u043e",
-      "url": "https://open.spotify.com/track/5UzlZ3vJdzXMD3sLPq7hyB"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -967,6 +951,26 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
+        "name": "\u0442\u0430\u043a\u0456 \u044f\u043a \u043c\u0438",
+        "url": "https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r"
+      },
+      "artists": [
+        {
+          "name": "\u043c\u0430\u043a\u0441 \u043f\u0442\u0430\u0448\u043d\u0438\u043a",
+          "url": "https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE"
+        },
+        {
+          "name": "Maryna Krut",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+        }
+      ],
+      "duration_ms": 191387,
+      "name": "\u0441\u043e\u043d\u0446\u0435",
+      "url": "https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
         "name": "Feel it Still",
         "url": "https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD"
       },
@@ -983,6 +987,22 @@
       "duration_ms": 174730,
       "name": "Feel it Still",
       "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u041d\u0435\u0431\u043e",
+        "url": "https://open.spotify.com/album/79iV7wXQqZ0hM8mb9iVJMZ"
+      },
+      "artists": [
+        {
+          "name": "U2U",
+          "url": "https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u041d\u0435\u0431\u043e",
+      "url": "https://open.spotify.com/track/5UzlZ3vJdzXMD3sLPq7hyB"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -1015,22 +1035,6 @@
       "duration_ms": 112262,
       "name": "\u041b\u0438\u043d\u0443",
       "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
-        "name": "\u0411\u043e\u0441\u0456",
-        "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
-      },
-      "artists": [
-        {
-          "name": "STASYA",
-          "url": "https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u0411\u043e\u0441\u0456",
-      "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
     }
   ],
   "unique_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

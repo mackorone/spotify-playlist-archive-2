@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The future shape of noise\. Cover: They Are Gutting a Body of Water
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,794 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,771 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 99 | [Undo](https://open.spotify.com/track/3EIzpYc2Jg5GBG1J9utqrH) | [Forest](https://open.spotify.com/artist/4yhFkgZya8FbiBkJU7t5j6) | [Intravenous French Kiss](https://open.spotify.com/album/0RItMlHAl5pXiU4svmRRhf) | 3:14 |
 | 100 | [Esruc](https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 2:16 |
 
-Snapshot ID: `AAAAABH0Da+zmqvHpDtQnQpL32xfGicw`
+Snapshot ID: `AAAAAAMkMsDaIebUrMW2S2Ok00pZxHo0`

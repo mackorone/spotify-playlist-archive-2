@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Jonny Reb",
+        "url": "https://open.spotify.com/album/4Bb4XWRs6akqaKglWK60v3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169547,
+      "name": "Jonny Reb",
+      "url": "https://open.spotify.com/track/6q34EYZnEPVHkY8RA9RpKi"
+    },
+    {
+      "album": {
         "name": "Aventuras En el Defe",
         "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 90's! Cover: No Doubt",
-  "num_followers": 86570,
+  "num_followers": 86583,
   "original_name": "90's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Postcards From Heaven",
-        "url": "https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1"
-      },
-      "artists": [
-        {
-          "name": "Lighthouse Family",
-          "url": "https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
         "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 241733,
       "name": "Joyride - Single Version",
       "url": "https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Postcards From Heaven",
+        "url": "https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1"
+      },
+      "artists": [
+        {
+          "name": "Lighthouse Family",
+          "url": "https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Bloody Buccaneers",
-        "url": "https://open.spotify.com/album/6232SATUJ2bUYwBLcczjan"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Going to the Run",
-      "url": "https://open.spotify.com/track/4fL4pBXaN76ERHoGYoA01M"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Best Of De Poema's",
         "url": "https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 259146,
       "name": "Mijn Houten Hart",
       "url": "https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Bloody Buccaneers",
+        "url": "https://open.spotify.com/album/6232SATUJ2bUYwBLcczjan"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Going to the Run",
+      "url": "https://open.spotify.com/track/4fL4pBXaN76ERHoGYoA01M"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "May The Forze Be With You",
-        "url": "https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Rainbow In The Sky - Radio Edit",
-      "url": "https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 301200,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "May The Forze Be With You",
+        "url": "https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Rainbow In The Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Super Dance Hits From The Nineties",
-        "url": "https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Luv U More",
-      "url": "https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/3we7A7UllAuA6QH6U9jmHs"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+        "name": "Super Dance Hits From The Nineties",
+        "url": "https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u"
       },
       "artists": [
         {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         }
       ],
-      "duration_ms": 213040,
-      "name": "Aan De Kust",
-      "url": "https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa"
+      "duration_ms": 230920,
+      "name": "Luv U More",
+      "url": "https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1551,6 +1535,22 @@
       "duration_ms": 233866,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Aan De Kust",
+      "url": "https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
+        "name": "The Best Of Me",
+        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/6L4mjZ7Wx0oSQU08alvHbq"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 281906,
       "name": "As",
       "url": "https://open.spotify.com/track/5q04pZVJMn7W3NKwsU7FcR"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
-        "name": "The Best Of Me",
-        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s"
     },
     {
       "added_at": "2024-12-31 20:44:36",

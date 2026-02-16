@@ -1047,6 +1047,28 @@
     },
     {
       "album": {
+        "name": "Breaking Up Is Hard To Do",
+        "url": "https://open.spotify.com/album/6jhOWJ2x7JfrO8b9CQ20CU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        },
+        {
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265625,
+      "name": "Breaking Up Is Hard To Do",
+      "url": "https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC"
+    },
+    {
+      "album": {
         "name": "B\u00e4sta kebaben i hela stan",
         "url": "https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2"
       },
@@ -7816,7 +7838,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 358186,
       "name": "S\u00e5 m\u00e5nga mil, s\u00e5 m\u00e5nga \u00e5r... - Live",
       "url": "https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3"

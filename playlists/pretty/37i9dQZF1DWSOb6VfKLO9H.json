@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 105915,
+  "num_followers": 105944,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6JbQ9aaIInPGBPblLb3gn4"
       },
@@ -239,70 +255,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 215978,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Vestival Presents Meisjes Blijven Meisjes",
-        "url": "https://open.spotify.com/album/5WHSsJ9oy5HyYJG6ImDypg"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Two Crooks",
-          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Meisjes Blijven Meisjes",
-      "url": "https://open.spotify.com/track/2hXMXk9oDfndwPMg3Fqmmj"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Jonathan",
-        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 205243,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "77 Nachten",
         "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
       },
@@ -339,6 +291,50 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hard Work Pays Off 2",
+        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 190996,
+      "name": "Mi No Lob",
+      "url": "https://open.spotify.com/track/3j8K6U3xzXjrhNojLanVFz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Vestival Presents Meisjes Blijven Meisjes",
+        "url": "https://open.spotify.com/album/5WHSsJ9oy5HyYJG6ImDypg"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Two Crooks",
+          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Meisjes Blijven Meisjes",
+      "url": "https://open.spotify.com/track/2hXMXk9oDfndwPMg3Fqmmj"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Visionair",
         "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
       },
@@ -359,22 +355,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Hard Work Pays Off 2",
-        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 190996,
-      "name": "Mi No Lob",
-      "url": "https://open.spotify.com/track/3j8K6U3xzXjrhNojLanVFz"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hella Cash",
         "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
       },
@@ -387,6 +367,78 @@
       "duration_ms": 175663,
       "name": "Catch Up",
       "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Reset The Levels III",
+        "url": "https://open.spotify.com/album/6kNCwHpUF5KxvBPr7cmxad"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 216861,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/5e7W7nBD5KG2KHCnazm1Hz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "We Moeten Door",
+        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 204787,
+      "name": "Officieel",
+      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Jonathan",
+        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 205243,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -515,58 +567,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Reset The Levels III",
-        "url": "https://open.spotify.com/album/6kNCwHpUF5KxvBPr7cmxad"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Priceless",
-          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 216861,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/5e7W7nBD5KG2KHCnazm1Hz"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 170497,
-      "name": "Ik Kan Je Niet Laten",
-      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Co\u00f1o",
         "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
       },
@@ -591,18 +591,74 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "We Moeten Door",
-        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
+        "name": "Hard Work Pays Off",
+        "url": "https://open.spotify.com/album/30r2xjD5wI2snJXHZZhtnU"
       },
       "artists": [
         {
           "name": "Broederliefde",
           "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "SBMG",
+          "url": "https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr"
         }
       ],
-      "duration_ms": 204787,
-      "name": "Officieel",
-      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
+      "duration_ms": 286073,
+      "name": "Alaka",
+      "url": "https://open.spotify.com/track/1VUBnozAZ9KRY9mYzaSWM1"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "77 Nachten",
+        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 185487,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 170497,
+      "name": "Ik Kan Je Niet Laten",
+      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -655,6 +711,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hard Work Pays Off 2",
+        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 207398,
+      "name": "Ik Was Al Binnen",
+      "url": "https://open.spotify.com/track/7L50xSfZiTi0uxgKLKGL7D"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "18 Plus",
         "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
       },
@@ -671,38 +747,6 @@
       "duration_ms": 205000,
       "name": "18 Plus",
       "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "77 Nachten",
-        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        },
-        {
-          "name": "Priceless",
-          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 185487,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -759,30 +803,6 @@
       "duration_ms": 155433,
       "name": "Tout Est Bon",
       "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hard Work Pays Off",
-        "url": "https://open.spotify.com/album/30r2xjD5wI2snJXHZZhtnU"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "SBMG",
-          "url": "https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr"
-        }
-      ],
-      "duration_ms": 286073,
-      "name": "Alaka",
-      "url": "https://open.spotify.com/track/1VUBnozAZ9KRY9mYzaSWM1"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -903,26 +923,6 @@
       "duration_ms": 200970,
       "name": "POSITIE",
       "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hard Work Pays Off 2",
-        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 207398,
-      "name": "Ik Was Al Binnen",
-      "url": "https://open.spotify.com/track/7L50xSfZiTi0uxgKLKGL7D"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gimma",
         "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 148428,
       "name": "Waarom Zoeken Naar Liefde",
       "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Woozy",
+        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 144667,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Nachtwacht",
         "url": "https://open.spotify.com/album/0ZakSoY5lCsL5vBf1LFlJw"
       },
@@ -1727,22 +1747,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Woozy",
-        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
+        "name": "Give Dem",
+        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
       },
       "artists": [
         {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         }
       ],
-      "duration_ms": 144667,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
+      "duration_ms": 189757,
+      "name": "Give Dem",
+      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1795,26 +1815,6 @@
       "duration_ms": 136875,
       "name": "Baby Momma",
       "url": "https://open.spotify.com/track/1JPqCol2aFreho0bfkhiqc"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Give Dem",
-        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 189757,
-      "name": "Give Dem",
-      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2043,6 +2043,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Amiri Jeans",
+        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
+      },
+      "artists": [
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 146822,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Christian Dior",
         "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
       },
@@ -2063,26 +2083,6 @@
       "duration_ms": 152032,
       "name": "Christian Dior",
       "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Amiri Jeans",
-        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
-      },
-      "artists": [
-        {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 146822,
-      "name": "Amiri Jeans",
-      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2fylAqEkxgYIyG2poHgQpt"
-      },
-      "artists": [
-        {
-          "name": "Justice Toch",
-          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
-        },
-        {
-          "name": "Artistic Raw",
-          "url": "https://open.spotify.com/artist/2bPh6UXbS7wZ7tyN35kFEG"
-        }
-      ],
-      "duration_ms": 142033,
-      "name": "Type",
-      "url": "https://open.spotify.com/track/02oOnxJjamYwKEYJE3i248"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gouden Plaat",
         "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2fylAqEkxgYIyG2poHgQpt"
+      },
+      "artists": [
+        {
+          "name": "Justice Toch",
+          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
+        },
+        {
+          "name": "Artistic Raw",
+          "url": "https://open.spotify.com/artist/2bPh6UXbS7wZ7tyN35kFEG"
+        }
+      ],
+      "duration_ms": 142033,
+      "name": "Type",
+      "url": "https://open.spotify.com/track/02oOnxJjamYwKEYJE3i248"
     },
     {
       "added_at": "2024-07-19 06:38:33",

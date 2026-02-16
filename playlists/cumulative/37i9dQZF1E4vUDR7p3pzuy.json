@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Guilt, Hex Formes, Die Oberherren and more",
+  "description": "With The Guilt, Hex Formes, This Eternal Decay and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 208506,
       "name": "(UN)Lucky",
       "url": "https://open.spotify.com/track/4UdgTLn1uzI06iLUVF0kDS"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 230219,
       "name": "Beyond The Crimson Gate",
       "url": "https://open.spotify.com/track/7D4StgNTM7UVTXXZR7MqmH"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 293142,
       "name": "Black Death Party",
       "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 317997,
       "name": "Blast",
       "url": "https://open.spotify.com/track/6CiJ6Qx5lFZDbd0o8JCziN"
@@ -740,6 +740,24 @@
       "duration_ms": 222578,
       "name": "Blue Snapper",
       "url": "https://open.spotify.com/track/6qjztmcgsHKO92QyMaH4q4"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/3bGIjf08SS7VkqnWlGRTrF"
+      },
+      "artists": [
+        {
+          "name": "The Secret French Postcards",
+          "url": "https://open.spotify.com/artist/0SPFgVnUqmaLEB6S2K8jtE"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305152,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/5JQcUS1bBA9hebOCfgZkk4"
     },
     {
       "album": {
@@ -996,10 +1014,32 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
+    },
+    {
+      "album": {
+        "name": "Child of Fear (Sinister Remix)",
+        "url": "https://open.spotify.com/album/3DL7S2grc3xbIiS7eo9KyI"
+      },
+      "artists": [
+        {
+          "name": "Blood Dance",
+          "url": "https://open.spotify.com/artist/4aBS8RdWehK4KhheNVTxjI"
+        },
+        {
+          "name": "Alberto Santiago Martinez",
+          "url": "https://open.spotify.com/artist/6Wd1YzCb4RZ59SIHqMd4ck"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332598,
+      "name": "Child of Fear - Sinister Remix",
+      "url": "https://open.spotify.com/track/0RUKvszRCjawjDV4Y5ZpqE"
     },
     {
       "album": {
@@ -1198,7 +1238,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 231226,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/4TDhqAaT6t6RFgFykF4u6h"
@@ -1292,7 +1332,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 198391,
       "name": "Cut Me Loose",
       "url": "https://open.spotify.com/track/4u1SCkmOp9hWkG7cX8FCjp"
@@ -1314,7 +1354,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 230680,
       "name": "Cyberbully",
       "url": "https://open.spotify.com/track/4pIQ9qgoKDsSiQh74cUWKX"
@@ -1470,7 +1510,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 247296,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/0YKEjExveJD2pUxe4S5vyz"
@@ -1961,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/0VaUCc0OClwszWcTFIHFLD"
+      },
+      "artists": [
+        {
+          "name": "Brendayangter",
+          "url": "https://open.spotify.com/artist/6hUE0a3aF6vVNTIX7ydlix"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2paWLxW5uODgpyEiBCon4w"
+    },
+    {
+      "album": {
         "name": "Fine & Dandy",
         "url": "https://open.spotify.com/album/08xmiDxIyoRhXxPLLWFmw8"
       },
@@ -2088,6 +2146,28 @@
       "duration_ms": 170000,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/0mPFxfSyLG9vyyOo0mohkk"
+    },
+    {
+      "album": {
+        "name": "DIE HAPPY",
+        "url": "https://open.spotify.com/album/56KF8dORpOgpu5J6o7P1Ph"
+      },
+      "artists": [
+        {
+          "name": "Vandal Moon",
+          "url": "https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX"
+        },
+        {
+          "name": "Sister Nocturne",
+          "url": "https://open.spotify.com/artist/3AEKjSodQILU7YlhUOxCde"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Freeze Yr Blood",
+      "url": "https://open.spotify.com/track/1cUzA1EAueI5OJzpdfXkeb"
     },
     {
       "album": {
@@ -2258,7 +2338,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -3088,7 +3168,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -3987,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Follow the Light (Redeux)",
+        "url": "https://open.spotify.com/album/1CwR06espw9M5UYbCHm9dh"
+      },
+      "artists": [
+        {
+          "name": "KINGDOMDK",
+          "url": "https://open.spotify.com/artist/7xZVY9Ln7diFV1rvBy0gLV"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310769,
+      "name": "Miracles (Redeux Mix)",
+      "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
+    },
+    {
+      "album": {
         "name": "Mission",
         "url": "https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh"
       },
@@ -4182,7 +4280,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 162721,
       "name": "My Love Is Loud",
       "url": "https://open.spotify.com/track/504yptHqsQbUgY1o4KeHX8"
@@ -4728,7 +4826,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 224286,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/3YU1NPe6y6Z5BgWG1fwa0d"
@@ -5336,7 +5434,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Shadow Projection",
       "url": "https://open.spotify.com/track/7tlIYcO8HcsXn0FM8niJAx"
@@ -5372,7 +5470,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 185227,
       "name": "Shadows Across The South",
       "url": "https://open.spotify.com/track/56pes0DLQlEbp95SgFapku"
@@ -5520,7 +5618,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -5940,7 +6038,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 378375,
       "name": "Succubus",
       "url": "https://open.spotify.com/track/5fJQ6sOlhFSGr3k3Rb3B0g"
@@ -6158,7 +6256,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 255599,
       "name": "The Fallen",
       "url": "https://open.spotify.com/track/5XzwgoKqb8CiBCIkVDQdWa"
@@ -6176,7 +6274,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 180000,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/1r397D1b7MXO1hc08kaQD1"
@@ -6284,7 +6382,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -6414,7 +6512,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 272400,
       "name": "The Winter Ghost",
       "url": "https://open.spotify.com/track/2O8VREoVXYHARxqLIlDIJP"
@@ -7408,7 +7506,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 148558,
       "name": "You Look So Alive",
       "url": "https://open.spotify.com/track/3gMDGYhdq1W4SBUfM7QEj1"

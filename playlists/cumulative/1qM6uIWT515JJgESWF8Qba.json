@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "LIVE IN LONDON",
+        "url": "https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg"
+      },
+      "artists": [
+        {
+          "name": "First Date Fuckers",
+          "url": "https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232112,
+      "name": "Hell Yeah! - Live",
+      "url": "https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH"
+    },
+    {
+      "album": {
         "name": "Hero of My Life",
         "url": "https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR"
       },

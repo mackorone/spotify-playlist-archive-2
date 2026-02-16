@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1308420,
+  "num_followers": 1308480,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,18 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+      "duration_ms": 169948,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -187,50 +183,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+        "name": "WET DREAMS (w/ Nimstarr)",
+        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
       },
       "artists": [
         {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169948,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
         }
       ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+      "duration_ms": 124711,
+      "name": "WET DREAMS (w/ Nimstarr)",
+      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -251,6 +219,38 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "CODE MISTAKE",
+        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 165303,
+      "name": "CODE MISTAKE",
+      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "sunset dreams",
         "url": "https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 129142,
       "name": "The Law of Recognition",
       "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "CODE MISTAKE",
-        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 165303,
-      "name": "CODE MISTAKE",
-      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "E-GIRLS ARE RUINING MY LIFE!",
-        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        }
-      ],
-      "duration_ms": 105176,
-      "name": "E-GIRLS ARE RUINING MY LIFE!",
-      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "By the Sword",
         "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 129196,
       "name": "Killin' On Demand",
       "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "E-GIRLS ARE RUINING MY LIFE!",
+        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        }
+      ],
+      "duration_ms": 105176,
+      "name": "E-GIRLS ARE RUINING MY LIFE!",
+      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
     },
     {
       "added_at": "2025-02-21 22:48:04",
@@ -579,6 +579,22 @@
       "duration_ms": 129229,
       "name": "50k",
       "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 99807,
+      "name": "WTH",
+      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
     },
     {
       "added_at": "2025-02-21 22:48:04",
@@ -659,22 +675,6 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 99807,
-      "name": "WTH",
-      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 136050,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Break Shit",
         "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 136050,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1049,50 +1049,6 @@
       "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
     },
     {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "HIT ME",
-        "url": "https://open.spotify.com/album/2bW30A7hYvnpkYv9lVYwXp"
-      },
-      "artists": [
-        {
-          "name": "Softwilly",
-          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
-        },
-        {
-          "name": "Yumi",
-          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
-        },
-        {
-          "name": "ssjishmael",
-          "url": "https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC"
-        },
-        {
-          "name": "$atori Zoom",
-          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "HIT ME",
-      "url": "https://open.spotify.com/track/1ClLVL8w0vngTIq7Afrne6"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Lost It All",
-        "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
-      },
-      "artists": [
-        {
-          "name": "Fabvl",
-          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
-        }
-      ],
-      "duration_ms": 242086,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
-    },
-    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "from up on silent hill",
@@ -1111,6 +1067,22 @@
       "duration_ms": 150193,
       "name": "from up on silent hill",
       "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Lost It All",
+        "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
+      },
+      "artists": [
+        {
+          "name": "Fabvl",
+          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+        }
+      ],
+      "duration_ms": 242086,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1147,6 +1119,34 @@
       "duration_ms": 139005,
       "name": "RUN UP!",
       "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
+    },
+    {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "HIT ME",
+        "url": "https://open.spotify.com/album/2bW30A7hYvnpkYv9lVYwXp"
+      },
+      "artists": [
+        {
+          "name": "Softwilly",
+          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
+        },
+        {
+          "name": "Yumi",
+          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
+        },
+        {
+          "name": "ssjishmael",
+          "url": "https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC"
+        },
+        {
+          "name": "$atori Zoom",
+          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "HIT ME",
+      "url": "https://open.spotify.com/track/1ClLVL8w0vngTIq7Afrne6"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "Sukuna Freestyle",
+        "url": "https://open.spotify.com/album/2XarFqquxUGflYNEW8DkmQ"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        }
+      ],
+      "duration_ms": 185823,
+      "name": "Sukuna Freestyle",
+      "url": "https://open.spotify.com/track/46yDbFxszXw8BIEFWqeHxw"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "Dalai Lama",
         "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 139910,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Sukuna Freestyle",
-        "url": "https://open.spotify.com/album/2XarFqquxUGflYNEW8DkmQ"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        },
-        {
-          "name": "Musicality",
-          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
-        }
-      ],
-      "duration_ms": 185823,
-      "name": "Sukuna Freestyle",
-      "url": "https://open.spotify.com/track/46yDbFxszXw8BIEFWqeHxw"
     },
     {
       "added_at": "2024-09-18 21:12:46",

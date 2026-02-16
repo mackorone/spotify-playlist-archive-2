@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Yuri Redicopa",
-  "num_followers": 134676,
+  "num_followers": 134672,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,54 @@
     {
       "added_at": "2026-02-13 15:23:49",
       "album": {
+        "name": "Ziguiriguidum",
+        "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Cjtinha",
+          "url": "https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "Ziguiriguidum",
+      "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
+    },
+    {
+      "added_at": "2026-02-13 15:23:49",
+      "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Dj Herculano",
+          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
+    },
+    {
+      "added_at": "2026-02-13 15:23:49",
+      "album": {
         "name": "From Rio",
         "url": "https://open.spotify.com/album/4MD3dhPh3euRMO8nPFuFLB"
       },
@@ -859,22 +907,26 @@
     {
       "added_at": "2026-02-13 15:23:49",
       "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
+        "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
+        "url": "https://open.spotify.com/album/54mSAiv4w4yd4Y2Tkui9ij"
       },
       "artists": [
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
         },
         {
-          "name": "Dj Herculano",
-          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "MC Vitinho Avassalador",
+          "url": "https://open.spotify.com/artist/3B9jl6KbMcVVInEm0EjIuv"
         }
       ],
-      "duration_ms": 257142,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
+      "duration_ms": 141627,
+      "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
+      "url": "https://open.spotify.com/track/1TxNLfv5UQ5XtgdYRhymLc"
     },
     {
       "added_at": "2026-02-13 15:23:49",
@@ -903,30 +955,6 @@
     {
       "added_at": "2026-02-13 15:23:49",
       "album": {
-        "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
-        "url": "https://open.spotify.com/album/54mSAiv4w4yd4Y2Tkui9ij"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "MC Vitinho Avassalador",
-          "url": "https://open.spotify.com/artist/3B9jl6KbMcVVInEm0EjIuv"
-        }
-      ],
-      "duration_ms": 141627,
-      "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
-      "url": "https://open.spotify.com/track/1TxNLfv5UQ5XtgdYRhymLc"
-    },
-    {
-      "added_at": "2026-02-13 15:23:49",
-      "album": {
         "name": "No Campo",
         "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
       },
@@ -943,34 +971,6 @@
       "duration_ms": 210461,
       "name": "No Campo",
       "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
-    },
-    {
-      "added_at": "2026-02-13 15:23:49",
-      "album": {
-        "name": "Ziguiriguidum",
-        "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "Cjtinha",
-          "url": "https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE"
-        },
-        {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
-        }
-      ],
-      "duration_ms": 122790,
-      "name": "Ziguiriguidum",
-      "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
     },
     {
       "added_at": "2026-02-13 15:23:49",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2026-02-13 15:23:49",
       "album": {
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
+    },
+    {
+      "added_at": "2026-02-13 15:23:49",
+      "album": {
         "name": "Pula Pula",
         "url": "https://open.spotify.com/album/2otx86iOPJ0iynLm8wAzrO"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 175448,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/2bv3MjBOFgMgf1VPGLT5py"
-    },
-    {
-      "added_at": "2026-02-13 15:23:49",
-      "album": {
-        "name": "Vou Nessa",
-        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Vou Nessa",
-      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "added_at": "2026-02-13 15:23:49",

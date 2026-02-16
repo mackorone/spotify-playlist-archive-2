@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Lostboy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,408 likes - 93 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,435 likes - 93 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Toujours Deux](https://open.spotify.com/track/1VxZBcZUeqHi8hXrEEjKRm) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb), [M!ND](https://open.spotify.com/artist/2GwMkWYrEUIY9jaY57EMXE) | [Deux côtés à l'histoire \- EP](https://open.spotify.com/album/5xNImPjWoQ0rJMISExAR0u) | 1:42 |
+| 1 | [Toujours Deux](https://open.spotify.com/track/1VxZBcZUeqHi8hXrEEjKRm) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb), [M!ND](https://open.spotify.com/artist/2GwMkWYrEUIY9jaY57EMXE) | [Deux côtés à l'histoire](https://open.spotify.com/album/5xNImPjWoQ0rJMISExAR0u) | 1:42 |
 | 2 | [Grazie Mille Freestyle](https://open.spotify.com/track/2xx0LgrSy19TFdbBHb3xol) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [GrandBazaar](https://open.spotify.com/artist/5Gy06Dx6rmDAfR6gA7Kkqw) | [GrandBazaar \(03\)](https://open.spotify.com/album/4wT3teHjdpYuRwPh7agzay) | 3:02 |
 | 3 | [Claim Your Blessings](https://open.spotify.com/track/1C2BSvWxlVgIwisrY0YTVW) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Claim Your Blessings](https://open.spotify.com/album/2Fv8VDaIRl9Xh0CGgD6NIi) | 2:22 |
 | 4 | [SUR MOI](https://open.spotify.com/track/5QoAyEU98raTjuVfNo9Ue0) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Shadow Wizard Money Gang](https://open.spotify.com/artist/34ESFFvfP5f465MC2V6E64) | [SUR MOI](https://open.spotify.com/album/4TIncoZAq6JfF2XlKL98bt) | 2:08 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 17 | [Turn Around](https://open.spotify.com/track/0YAhrtxCoDTmW89F5pz4CQ) | [ZorroSlice](https://open.spotify.com/artist/1sX5GL1G0oMTLCPJXJ9nme) | [Turn Around](https://open.spotify.com/album/5ZE4Nam56uoeUFheBCgANZ) | 2:16 |
 | 18 | [UNI](https://open.spotify.com/track/6jHfWBRFDPmwJNFhKYhfiJ) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [UNI Collective](https://open.spotify.com/artist/2vfWT6QNmVlhNWuFlXTF1s) | [UNI](https://open.spotify.com/album/0OKv8OY7TdKS4PhBM3uDpW) | 2:50 |
 | 19 | [Oh Shit!](https://open.spotify.com/track/2Nc1jPV9Wx0e1QuMNBmCOj) | [Big Swiss](https://open.spotify.com/artist/0wMRSPk3iq5I3JyCiP1lPJ) | [Vestiges](https://open.spotify.com/album/544X5xep0YV3DMCVqeAoAR) | 3:33 |
-| 20 | [Faded](https://open.spotify.com/track/1RQHv7L5x3u9kXCSO7szaM) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Deux côtés à l'histoire \- EP](https://open.spotify.com/album/5xNImPjWoQ0rJMISExAR0u) | 2:00 |
+| 20 | [Faded](https://open.spotify.com/track/1RQHv7L5x3u9kXCSO7szaM) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Deux côtés à l'histoire](https://open.spotify.com/album/5xNImPjWoQ0rJMISExAR0u) | 2:00 |
 | 21 | [feuille d'or sur le kobe](https://open.spotify.com/track/2fmtqgbJlzj4rMnUmAzF47) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [le sens des cartes](https://open.spotify.com/album/2g4J8SDHQRiDAbaQv4QJZB) | 3:52 |
 | 22 | [Vallée](https://open.spotify.com/track/3QclXdf8qAKb4Kux5YpGS9) | [FRE5H](https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe) | [Vallée](https://open.spotify.com/album/54G50PwrOcrmBuBuUmtrYj) | 3:14 |
 | 23 | [Fanta](https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD) | [Fanta](https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU) | 2:05 |

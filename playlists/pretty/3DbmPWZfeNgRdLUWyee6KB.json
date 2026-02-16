@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1255,
+  "num_followers": 1259,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQZL4rmwggt5V9Ai3CT6sVYVDeoRIP",
+  "snapshot_id": "AAAQapjEdQdaC7W5vegwjPmK6w8KNDRw",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2943,6 +2943,106 @@
       "duration_ms": 196097,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H"
+    },
+    {
+      "added_at": "2026-02-15 09:13:03",
+      "album": {
+        "name": "Joy & Pain",
+        "url": "https://open.spotify.com/album/1IrdB9gDE5vWsC2WUNjljN"
+      },
+      "artists": [
+        {
+          "name": "Giga.Ent",
+          "url": "https://open.spotify.com/artist/55akrV4qDuxFAITQwKuuBV"
+        }
+      ],
+      "duration_ms": 139039,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/7GFa54KAJEeIMqBTyJR3kn"
+    },
+    {
+      "added_at": "2026-02-15 09:13:12",
+      "album": {
+        "name": "Erster Tag",
+        "url": "https://open.spotify.com/album/0k7weDzMA6KeySQwWgiETO"
+      },
+      "artists": [
+        {
+          "name": "Nickelino",
+          "url": "https://open.spotify.com/artist/0cldXMd6IBkC2YmXbnPVdu"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "Erster Tag",
+      "url": "https://open.spotify.com/track/4HUJfOcBaaiXUN8ZZpyfLp"
+    },
+    {
+      "added_at": "2026-02-15 19:39:35",
+      "album": {
+        "name": "Odesa Child",
+        "url": "https://open.spotify.com/album/35qW8UqO9ouKHDH7VEZUqR"
+      },
+      "artists": [
+        {
+          "name": "FuzzBeat",
+          "url": "https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "Odesa Child",
+      "url": "https://open.spotify.com/track/7Ehjt2zrbn6xwIg4uMfajX"
+    },
+    {
+      "added_at": "2026-02-15 19:39:43",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3Czus5DPB4YVhJV6JFtOOC"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jean",
+          "url": "https://open.spotify.com/artist/6O3ew5mruts7AzkJPT39og"
+        }
+      ],
+      "duration_ms": 206062,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4dWzEmytzQ8wyZ4yq5zCcB"
+    },
+    {
+      "added_at": "2026-02-15 19:39:49",
+      "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/5gBdubgu17KL5Km01m37xx"
+      },
+      "artists": [
+        {
+          "name": "Crisisbeatzz",
+          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
+        },
+        {
+          "name": "FIM Collective",
+          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/3tMP4zyg8MXPQC87LAUtgD"
+    },
+    {
+      "added_at": "2026-02-15 19:39:59",
+      "album": {
+        "name": "The Woman I Have Never Been",
+        "url": "https://open.spotify.com/album/3mXIVaVxtvwBRg9cgOdPAo"
+      },
+      "artists": [
+        {
+          "name": "LeLore",
+          "url": "https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U"
+        }
+      ],
+      "duration_ms": 201336,
+      "name": "The Woman I Have Never Been",
+      "url": "https://open.spotify.com/track/1cAgYiSNH4Tw6uaTYycCQ5"
     }
   ],
   "unique_name": "New Indie Music",

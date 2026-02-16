@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/2BRvr1z1PMXALclzfx99Zq"
+      },
+      "artists": [
+        {
+          "name": "Roy Aharon",
+          "url": "https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc"
+        },
+        {
+          "name": "Sapir J. Fox",
+          "url": "https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7DBegQYOfNSU6yldagfco6"
+    },
+    {
+      "album": {
         "name": "Big Momma's Door",
         "url": "https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj"
       },

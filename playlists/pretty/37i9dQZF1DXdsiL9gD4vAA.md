@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,034 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,067 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 39 | [Sharab Cheez Hi Aisi](https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:04 |
 | 40 | [Rang Rasiya \- Film Version](https://open.spotify.com/track/3JwTaFbO6HlMFyD0UvEtOM) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mahima Bhardwaj](https://open.spotify.com/artist/256cbupySWagIEHWcArnNf), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94) | [Safed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AfF3Yos8Gx1YYyws9zzq6) | 8:54 |
 | 41 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 |
-| 42 | [Kuchh mai likhta chalu tum mitati chalo](https://open.spotify.com/track/6LcxYSjuQlsybXNlKHivd9) | [Dr Pallav Mishra](https://open.spotify.com/artist/1ayPLvAEQCu6s6FF7AKxbz) | [Kuchh mai likhta chalu tum mitati chalo](https://open.spotify.com/album/1zbgpLJIhgX2S8s0IyUYVj) | 6:16 |
-| 43 | [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 |
+| 42 | [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 |
+| 43 | [Kuchh mai likhta chalu tum mitati chalo](https://open.spotify.com/track/6LcxYSjuQlsybXNlKHivd9) | [Dr Pallav Mishra](https://open.spotify.com/artist/1ayPLvAEQCu6s6FF7AKxbz) | [Kuchh mai likhta chalu tum mitati chalo](https://open.spotify.com/album/1zbgpLJIhgX2S8s0IyUYVj) | 6:16 |
 | 44 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 |
 | 45 | [Rooh](https://open.spotify.com/track/7zCpzTtENhE68RFR6IqMEK) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Qafilah](https://open.spotify.com/artist/0Vla5cpeRPCjHktZzvsnOd) | [Rooh](https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e) | 5:17 |
 | 46 | [Ranjish Hi Sahi](https://open.spotify.com/track/4n9A2E7RxxhRGq5GgHBSKy) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc), [Sanjeevani Bhelande](https://open.spotify.com/artist/58MHqzMYj4y4hs53HGz7zF) | [Ranjish Hi Sahi](https://open.spotify.com/album/7uwf4PieYvZPO7ng4KbPk1) | 6:36 |

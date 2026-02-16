@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104970,
+  "num_followers": 104961,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Filantrop\u00eda",
-        "url": "https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "dj spizike",
-          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
-        }
-      ],
-      "duration_ms": 126383,
-      "name": "Un Pelito y un Tamal",
-      "url": "https://open.spotify.com/track/6ogaSIMjINZK3D97pBv3Xo"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Mar de Coral",
         "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
@@ -1435,38 +1415,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "RID\u00cdCULO",
-        "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
+        "name": "Filantrop\u00eda",
+        "url": "https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp"
       },
       "artists": [
         {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         },
         {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "dj spizike",
+          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
         }
       ],
-      "duration_ms": 159607,
-      "name": "RID\u00cdCULO",
-      "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Ya no quiero quererte",
-        "url": "https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "visi\u00f3n \u2606",
-      "url": "https://open.spotify.com/track/0Van6tgFDbT8XQd6nxuVzr"
+      "duration_ms": 126383,
+      "name": "Un Pelito y un Tamal",
+      "url": "https://open.spotify.com/track/6ogaSIMjINZK3D97pBv3Xo"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1491,6 +1455,42 @@
       "duration_ms": 208153,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/1H2szeI6By2kjtCOhZl26m"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Ya no quiero quererte",
+        "url": "https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "visi\u00f3n \u2606",
+      "url": "https://open.spotify.com/track/0Van6tgFDbT8XQd6nxuVzr"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "RID\u00cdCULO",
+        "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 159607,
+      "name": "RID\u00cdCULO",
+      "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
     },
     {
       "added_at": "2025-12-03 13:16:51",

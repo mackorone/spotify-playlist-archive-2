@@ -4,11 +4,12 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-155 songs - 9 hr 55 min
+156 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Amores De Un Día](https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 3:50 | 2026-02-11 |  |
+| [A Celia](https://open.spotify.com/track/0bEH8Y8HP9jgptsQ062Jw4) | [Lena Burke](https://open.spotify.com/artist/2h0TxjQ7ono38bJ7GitRgz), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz), [Gonzalo Rubalcaba](https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F), [Cucco Peña](https://open.spotify.com/artist/0UStb4xgA1UNiPhJPerb06), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Celia](https://open.spotify.com/album/04lprwOrXhIWzq0vke1e3s) | 5:08 | 2026-02-16 |  |
+| [Amores De Un Día](https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 3:50 | 2026-02-11 | 2026-02-16 |
 | [Aquarius / Let The Sun Shine In](https://open.spotify.com/track/2w88WBqzi6y7lmAW6tcJLL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Quimbo Quimbumbia](https://open.spotify.com/album/6qOAKmAkf61KzST6YvInsM) | 3:38 | 2022-12-13 | 2023-11-11 |
 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/2gkfXIFTGr48G6TWd6z13r) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:09 | 2021-12-28 | 2025-04-26 |
 | [Ay Mi Cuba](https://open.spotify.com/track/50yx0j0kA2yNBSbtCPdFwK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [La Experiencia](https://open.spotify.com/album/533w9sxX4KwwVD0d4ilIef) | 4:56 | 2021-12-28 | 2023-07-09 |

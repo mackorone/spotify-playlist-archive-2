@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Sotto Controllo",
+        "url": "https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE"
+      },
+      "artists": [
+        {
+          "name": "Rockify",
+          "url": "https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Sotto Controllo",
+      "url": "https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m"
+    },
+    {
+      "album": {
         "name": "Stay With You",
         "url": "https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe"
       },

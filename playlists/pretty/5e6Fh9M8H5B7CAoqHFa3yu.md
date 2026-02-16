@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 260 likes - 1,935 songs - 4 day 20 hr 14 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 260 likes - 1,937 songs - 4 day 20 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1943,5 +1943,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1933 | [COSITAS DEL AMOR](https://open.spotify.com/track/3jwQS1JO2GPK2xprvzAM9M) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj), [TMK](https://open.spotify.com/artist/2kItgWIX7FzOnr6FjBgrPI) | [COSITAS DEL AMOR](https://open.spotify.com/album/4PzZ70I18h1rZbS6QQdck1) | 2:40 |
 | 1934 | [Drops of Rain](https://open.spotify.com/track/5HA0YBgTwf0FXyvD4QHLNW) | [aNGie](https://open.spotify.com/artist/71bUhvjdkzJAmqs4S1Z3kF) | [Beautiful Ways to Disappear](https://open.spotify.com/album/0eakmFRFZ4Qeo6HiMgRBDG) | 3:22 |
 | 1935 | [Coffee in Venezia](https://open.spotify.com/track/0pj7S6BPsduM2wwg2PrV1o) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Venezia](https://open.spotify.com/album/3Wtd0z5yOWzjv6pEsPg7PD) | 3:36 |
+| 1936 | [55 \- LIVE AT THE PUB](https://open.spotify.com/track/6jpq4vj7TZkaluHVXAyGRI) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [55 \(LIVE AT THE PUB\)](https://open.spotify.com/album/1hrXFpMzVuc123vDXFhTTI) | 3:33 |
+| 1937 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 |
 
-Snapshot ID: `AAAIGFlMkQSqLWqpyV59pj1cISyVGPeO`
+Snapshot ID: `AAAIGp4Cxei4SY6us/PNpkJYhN8KOMSX`

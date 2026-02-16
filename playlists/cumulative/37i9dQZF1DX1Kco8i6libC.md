@@ -4,7 +4,7 @@
 
 > 狗年生的人忠誠負責、認真有禮，而且是人生最佳伙伴之一哦！看看有哪些歌手吧！Cover: 王心凌 \(Cyndi Wang\)
 
-94 songs - 5 hr 59 min
+95 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [凭栏](https://open.spotify.com/track/5xbEYRVgclAIxPDdszvAXv) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [凭栏](https://open.spotify.com/album/3gbRyuyFyf13X4WfKZfzpd) | 3:24 | 2024-01-23 | 2025-01-11 |
 | [十分钟](https://open.spotify.com/track/1zTGyaX8K2TiEibBGxvCj8) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [【与世之争】· 上](https://open.spotify.com/album/52JUOQm28ntsIJTJUh0Y1C) | 3:13 | 2025-01-10 | 2026-01-26 |
 | [只管今天](https://open.spotify.com/track/65sp3Wmk71r27BBjvpG0fo) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [你給我的](https://open.spotify.com/album/45jukUGQ4cRFGJPPc59JY0) | 3:03 | 2026-02-09 |  |
-| [可以是朋友](https://open.spotify.com/track/4LnGoiqCHE2PY7vNJ84rAM) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [蕭景鴻 \(阿弟\)](https://open.spotify.com/artist/6zPThS6v1EdVWmVMNQqlTr) | [可以是朋友](https://open.spotify.com/album/05Y6CnOKdIjygsQdUZ8wFW) | 4:22 | 2026-01-25 |  |
+| [可以是朋友](https://open.spotify.com/track/4LnGoiqCHE2PY7vNJ84rAM) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [蕭景鴻 \(阿弟\)](https://open.spotify.com/artist/6zPThS6v1EdVWmVMNQqlTr) | [可以是朋友](https://open.spotify.com/album/05Y6CnOKdIjygsQdUZ8wFW) | 4:22 | 2026-01-25 | 2026-02-16 |
 | [可惜嗎](https://open.spotify.com/track/2IuMqyWON4u1v0XhpCkuip) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [可惜嗎](https://open.spotify.com/album/3e6whyqFyVtjTWvxEE8UGG) | 4:51 | 2026-01-25 |  |
 | [因為錢](https://open.spotify.com/track/65wK1mxQnfDhXxekbWgVtI) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [Yitai Wang](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j) | [光明離不開黑暗](https://open.spotify.com/album/6gxdW8NMfzqfP2NUoziw6A) | 4:36 | 2026-02-09 |  |
 | [她是誰](https://open.spotify.com/track/0H1MN99cLAQC2zyY1VCloV) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 3:09 | 2025-01-10 | 2026-01-26 |
@@ -69,6 +69,7 @@
 | [拽住你就像拽住孩子气](https://open.spotify.com/track/0dK5D8UrIHwLimoqzx2F04) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [拽住你就像拽住孩子气](https://open.spotify.com/album/73UkgREoJWKtpoWnGrVS4G) | 2:53 | 2026-01-25 |  |
 | [收買妳的愛](https://open.spotify.com/track/3wY6Fzvfy2X9lKH0enENWy) | [小安](https://open.spotify.com/artist/12QGPbN0fnuIlyEKxUlVo3) | [收買妳的愛](https://open.spotify.com/album/2TzPsnRQ9bBVfZgqkuaqOU) | 4:30 | 2025-01-10 | 2026-01-26 |
 | [普通的日子 \- 電影「深度安靜」宣傳曲](https://open.spotify.com/track/7IAqfUGpYcjogbhi02eSw8) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [普通的日子 \(電影「深度安靜」宣傳曲\)](https://open.spotify.com/album/7Fc78qJrKRIJ6ctEawZrk0) | 3:59 | 2026-01-25 |  |
+| [曾經如今](https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [《愛了100萬次的我》新歌經典自選輯](https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa) | 4:05 | 2026-02-15 |  |
 | [最好不要再遇見你](https://open.spotify.com/track/7wnlzhLCxVmY56PkfsUD5u) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [最好不要再遇見你](https://open.spotify.com/album/3L9z2BMTcGm6jP1gfAeTKS) | 3:39 | 2024-01-23 | 2025-01-11 |
 | [月不落](https://open.spotify.com/track/5Lzf1HRo8ciqgkfF5CV1PQ) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [月不落](https://open.spotify.com/album/4WPiph1QoXuQPb9VrYFGkD) | 3:58 | 2026-01-25 | 2026-02-10 |
 | [有些](https://open.spotify.com/track/4bDJJr7yG31MApWuvEasAo) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/4BHheCy06jeyqTEmc2QlX9) | 3:49 | 2026-01-25 |  |

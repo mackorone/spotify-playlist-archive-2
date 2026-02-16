@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANAYQCWIdvG1ohAHCJmuxrk3U96V",
+  "snapshot_id": "AAAAAHFMYtOVVQfjggWDLMrUTAP4p7+K",
   "tracks": [
     {
       "added_at": "2026-02-09 06:51:17",
@@ -141,24 +141,20 @@
       "url": "https://open.spotify.com/track/56UkzV00IjyDzHCJOiRe5j"
     },
     {
-      "added_at": "2026-02-09 06:51:17",
+      "added_at": "2026-02-15 10:34:55",
       "album": {
-        "name": "\u53ef\u4ee5\u662f\u670b\u53cb",
-        "url": "https://open.spotify.com/album/05Y6CnOKdIjygsQdUZ8wFW"
+        "name": "\u300a\u611b\u4e86100\u842c\u6b21\u7684\u6211\u300b\u65b0\u6b4c\u7d93\u5178\u81ea\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa"
       },
       "artists": [
         {
           "name": "Della",
           "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
-        },
-        {
-          "name": "\u856d\u666f\u9d3b (\u963f\u5f1f)",
-          "url": "https://open.spotify.com/artist/6zPThS6v1EdVWmVMNQqlTr"
         }
       ],
-      "duration_ms": 262943,
-      "name": "\u53ef\u4ee5\u662f\u670b\u53cb",
-      "url": "https://open.spotify.com/track/4LnGoiqCHE2PY7vNJ84rAM"
+      "duration_ms": 245822,
+      "name": "\u66fe\u7d93\u5982\u4eca",
+      "url": "https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ"
     },
     {
       "added_at": "2026-02-09 06:51:17",

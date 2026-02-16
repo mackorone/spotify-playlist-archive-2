@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Kushagra & Tanishka Bahl\n",
-  "num_followers": 133214,
+  "num_followers": 133228,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -815,38 +815,6 @@
     {
       "added_at": "2026-02-12 09:55:49",
       "album": {
-        "name": "Marammat",
-        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
-      },
-      "artists": [
-        {
-          "name": "NAALAYAK",
-          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "3am Thoughts",
-      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
-    },
-    {
-      "added_at": "2026-02-12 09:55:49",
-      "album": {
-        "name": "Tujhi Mein",
-        "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tujhi Mein",
-      "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
-    },
-    {
-      "added_at": "2026-02-12 09:55:49",
-      "album": {
         "name": "Qareeb",
         "url": "https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 195857,
       "name": "Qareeb",
       "url": "https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0"
+    },
+    {
+      "added_at": "2026-02-12 09:55:49",
+      "album": {
+        "name": "Tujhi Mein",
+        "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Tujhi Mein",
+      "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
+    },
+    {
+      "added_at": "2026-02-12 09:55:49",
+      "album": {
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "3am Thoughts",
+      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
     },
     {
       "added_at": "2026-02-12 09:55:49",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-02-12 09:55:49",
       "album": {
+        "name": "Raintalk",
+        "url": "https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Raintalk",
+      "url": "https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF"
+    },
+    {
+      "added_at": "2026-02-12 09:55:49",
+      "album": {
         "name": "In Case We Forget",
         "url": "https://open.spotify.com/album/4UCUZ5mScC73JlcCGy5Ga3"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 249406,
       "name": "Saaye",
       "url": "https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01"
-    },
-    {
-      "added_at": "2026-02-12 09:55:49",
-      "album": {
-        "name": "Raintalk",
-        "url": "https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi"
-      },
-      "artists": [
-        {
-          "name": "Aditya Bhardwaj",
-          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Raintalk",
-      "url": "https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF"
     },
     {
       "added_at": "2026-02-12 09:55:49",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-02-12 09:55:49",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
-    },
-    {
-      "added_at": "2026-02-12 09:55:49",
-      "album": {
         "name": "Dear Maahiya (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 237300,
       "name": "Dear Maahiya (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
+    },
+    {
+      "added_at": "2026-02-12 09:55:49",
+      "album": {
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
     },
     {
       "added_at": "2026-02-12 09:55:49",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-02-12 09:55:49",
       "album": {
-        "name": "Gulfam",
-        "url": "https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt"
-      },
-      "artists": [
-        {
-          "name": "NAALAYAK",
-          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
-        }
-      ],
-      "duration_ms": 153567,
-      "name": "Gulfam",
-      "url": "https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB"
-    },
-    {
-      "added_at": "2026-02-12 09:55:49",
-      "album": {
         "name": "Tu Hi Hoon",
         "url": "https://open.spotify.com/album/6kw8NgTpRYKkyCBe1vma1n"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 221769,
       "name": "Tu Hi Hoon",
       "url": "https://open.spotify.com/track/5jXJkm6vmIbtAvHD5QIsa4"
+    },
+    {
+      "added_at": "2026-02-12 09:55:49",
+      "album": {
+        "name": "Gulfam",
+        "url": "https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "duration_ms": 153567,
+      "name": "Gulfam",
+      "url": "https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB"
     },
     {
       "added_at": "2026-02-12 09:55:49",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-12 09:55:49",
       "album": {
-        "name": "Sitaara",
-        "url": "https://open.spotify.com/album/0ruofnDBPQXZvx2Ypzoodh"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Sitaara",
-      "url": "https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj"
-    },
-    {
-      "added_at": "2026-02-12 09:55:49",
-      "album": {
         "name": "Rukna Nahin Hai",
         "url": "https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 243298,
       "name": "Rukna Nahin Hai",
       "url": "https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a"
+    },
+    {
+      "added_at": "2026-02-12 09:55:49",
+      "album": {
+        "name": "Sitaara",
+        "url": "https://open.spotify.com/album/0ruofnDBPQXZvx2Ypzoodh"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Sitaara",
+      "url": "https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj"
     },
     {
       "added_at": "2026-02-12 09:55:49",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-12 09:55:49",
       "album": {
-        "name": "Aadhi Chai",
-        "url": "https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b"
-      },
-      "artists": [
-        {
-          "name": "Deepak Rathore Project",
-          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
-        }
-      ],
-      "duration_ms": 217692,
-      "name": "Aadhi Chai",
-      "url": "https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr"
-    },
-    {
-      "added_at": "2026-02-12 09:55:49",
-      "album": {
         "name": "Piya",
         "url": "https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 141715,
       "name": "Piya",
       "url": "https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T"
+    },
+    {
+      "added_at": "2026-02-12 09:55:49",
+      "album": {
+        "name": "Aadhi Chai",
+        "url": "https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "duration_ms": 217692,
+      "name": "Aadhi Chai",
+      "url": "https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr"
     }
   ],
   "unique_name": "hIndies",

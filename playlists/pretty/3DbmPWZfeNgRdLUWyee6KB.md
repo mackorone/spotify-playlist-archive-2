@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,255 likes - 176 songs - 9 hr 52 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,259 likes - 182 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,5 +184,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 174 | [HOPE \(MOM\)](https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH) | [IAMBOKI](https://open.spotify.com/artist/4X6awOXdDYyq4DJqi6XGoF), [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [HOPE \(MOM\)](https://open.spotify.com/album/5PJIzgVMw4kBLsn9v6GjWu) | 3:41 |
 | 175 | [Tonno & Mais](https://open.spotify.com/track/0hO4qLR5aBkgjurivChdBD) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Tonno & Mais](https://open.spotify.com/album/6oD2jXFjAcyLMUX2IroM45) | 3:10 |
 | 176 | [A Little More](https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [A Little More](https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5) | 3:16 |
+| 177 | [Winner](https://open.spotify.com/track/7GFa54KAJEeIMqBTyJR3kn) | [Giga.Ent](https://open.spotify.com/artist/55akrV4qDuxFAITQwKuuBV) | [Joy & Pain](https://open.spotify.com/album/1IrdB9gDE5vWsC2WUNjljN) | 2:19 |
+| 178 | [Erster Tag](https://open.spotify.com/track/4HUJfOcBaaiXUN8ZZpyfLp) | [Nickelino](https://open.spotify.com/artist/0cldXMd6IBkC2YmXbnPVdu) | [Erster Tag](https://open.spotify.com/album/0k7weDzMA6KeySQwWgiETO) | 3:29 |
+| 179 | [Odesa Child](https://open.spotify.com/track/7Ehjt2zrbn6xwIg4uMfajX) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Odesa Child](https://open.spotify.com/album/35qW8UqO9ouKHDH7VEZUqR) | 4:50 |
+| 180 | [Reflections](https://open.spotify.com/track/4dWzEmytzQ8wyZ4yq5zCcB) | [Amanda Jean](https://open.spotify.com/artist/6O3ew5mruts7AzkJPT39og) | [Reflections](https://open.spotify.com/album/3Czus5DPB4YVhJV6JFtOOC) | 3:26 |
+| 181 | [Buried Alive](https://open.spotify.com/track/3tMP4zyg8MXPQC87LAUtgD) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Buried Alive](https://open.spotify.com/album/5gBdubgu17KL5Km01m37xx) | 3:48 |
+| 182 | [The Woman I Have Never Been](https://open.spotify.com/track/1cAgYiSNH4Tw6uaTYycCQ5) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U) | [The Woman I Have Never Been](https://open.spotify.com/album/3mXIVaVxtvwBRg9cgOdPAo) | 3:21 |
 
-Snapshot ID: `AAAQZL4rmwggt5V9Ai3CT6sVYVDeoRIP`
+Snapshot ID: `AAAQapjEdQdaC7W5vegwjPmK6w8KNDRw`

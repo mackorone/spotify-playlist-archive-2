@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-138 songs - 7 hr 0 min
+139 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bahana](https://open.spotify.com/track/4FLkuwQYlbGOAkTq97rsyr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Zafar Sandhu](https://open.spotify.com/artist/3Q1isolUOcUmnxscdi4TUM), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sardaar Ji 3 \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/6o2rlVElYPIrPIjMsC75dv) | 1:59 | 2025-07-11 | 2025-09-12 |
 | [BALLE BALLE](https://open.spotify.com/track/4v4aw9AOuiWsx9BwEMzKW1) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj) | [BALLE BALLE](https://open.spotify.com/album/7x8wLXXTxrb7rQVjKinM4C) | 3:46 | 2025-03-13 | 2025-03-18 |
 | [Banda Maarda](https://open.spotify.com/track/5t1Narq7R5GCcphjUfQgrH) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Banda Maarda](https://open.spotify.com/album/0CP3FnpwMyzF4ulQQZuY8V) | 2:30 | 2026-02-06 |  |
+| [Beautiful](https://open.spotify.com/track/0VD8NOseC3sF1LgFCb0qxb) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Beautiful](https://open.spotify.com/album/0CTwVaTIbLnnxN5bXUgSJn) | 3:11 | 2026-02-13 |  |
 | [Birminghamm](https://open.spotify.com/track/1Yl7emPuRqRHuhnPMxutKq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Birminghamm](https://open.spotify.com/album/2yVD5Ty0xKyFu1U748TaRP) | 2:22 | 2024-04-05 | 2025-01-09 |
 | [Birminghamm](https://open.spotify.com/track/1bWlYuEi1vuSEnanONnxKq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Birminghamm \- Single](https://open.spotify.com/album/6WPhYM5oCb0u0Ydg8TesoR) | 2:22 | 2023-06-22 | 2024-04-19 |
 | [Bison](https://open.spotify.com/track/6Pi63q4LPHNqe3hxAxtG1c) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Extent!](https://open.spotify.com/album/76AJlhZr2JTIZxt02gx6x2) | 2:12 | 2025-02-17 | 2025-05-01 |
@@ -128,7 +129,7 @@
 | [Sohna Munda](https://open.spotify.com/track/6aVPnC26Jr2MwzlSNd7lQv) | [Bukka Jatt](https://open.spotify.com/artist/4EKIG5bG1BlL7NHvzDw4XV), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Sohna Munda](https://open.spotify.com/album/79DQmQ2NHrvhOuE5WYKh7R) | 2:14 | 2024-11-04 | 2025-01-09 |
 | [Stubborn](https://open.spotify.com/track/0UXQN4UL4LW1IeMczufzsF) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Pagga](https://open.spotify.com/artist/4tGqWmZl3fRvb0QMCb0yxg), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [ROMEO](https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV) | 2:17 | 2025-11-17 |  |
 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2025-01-08 | 2025-02-08 |
-| [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-06-22 |  |
+| [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-06-22 | 2026-02-16 |
 | [Tankha](https://open.spotify.com/track/0L4uTenn6ln6mVxz1hr2co) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Tankha \- Single](https://open.spotify.com/album/6646YdKCiWNHAtqBvccQGW) | 2:58 | 2023-06-22 | 2025-01-09 |
 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 | 2025-01-08 | 2025-02-08 |
 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 | 2023-06-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P. Kee",
-  "num_followers": 47186,
+  "num_followers": 47321,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7"
+      },
+      "artists": [
+        {
+          "name": "Martha Munizzi",
+          "url": "https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR"
+        }
+      ],
+      "duration_ms": 358800,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 299600,
       "name": "Total Praise (with Vision) - Live",
       "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7"
-      },
-      "artists": [
-        {
-          "name": "Martha Munizzi",
-          "url": "https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR"
-        }
-      ],
-      "duration_ms": 358800,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "V2...",
-        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
       "artists": [
         {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Praise on the Inside",
-      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
+      "duration_ms": 293560,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+        "name": "V2...",
+        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
         }
       ],
-      "duration_ms": 293560,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+      "duration_ms": 223666,
+      "name": "Praise on the Inside",
+      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Stand",
-      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "One Church",
         "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 258373,
       "name": "You Brought The Sunshine - Live",
       "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 322973,
-      "name": "Speak to My Heart",
-      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "It\u2019s A New Day",
         "url": "https://open.spotify.com/album/2seseSh5U6TRFKfF6phFlO"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 366640,
       "name": "Take My Life - Live",
       "url": "https://open.spotify.com/track/6Xbj9AtRjYPcozeSDFVF2z"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 322973,
+      "name": "Speak to My Heart",
+      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
     },
     {
       "added_at": "2026-02-13 12:47:48",

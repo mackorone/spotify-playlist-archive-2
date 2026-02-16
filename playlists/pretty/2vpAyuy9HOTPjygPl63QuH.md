@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > the final boss of house playlists\. \| minimal tech \- tech house \- rally house \- droid house \- club mix \- dj music \- workout music \- bass house
 
-[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,138 likes - 55 songs - 2 hr 51 min
+[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,143 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 54 | [Tension](https://open.spotify.com/track/4gKXDKK8dqwOVkmpXxK8Ql) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [Tension](https://open.spotify.com/album/6VfMfYObM7LdE8tNSneHbY) | 2:49 |
 | 55 | [Vibrate](https://open.spotify.com/track/26V7N5MGSUfYILIRGLtW5C) | [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Vibrate](https://open.spotify.com/album/069GoUw1nkxnUcJG74BKuY) | 2:32 |
 
-Snapshot ID: `AAAoBjxBEqbgczQGDIFKg+3U7RIrCGIG`
+Snapshot ID: `AAAoCHXb+aqEJvgXlKeU6j/LSIkusRUe`

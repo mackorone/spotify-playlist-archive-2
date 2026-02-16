@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 144661,
       "name": "25",
       "url": "https://open.spotify.com/track/3uVxwnuNqjDxMJn3aCm3L9"
@@ -1494,6 +1494,24 @@
       "duration_ms": 163136,
       "name": "Solo Quer\u00eda Decirte Que Te Amo",
       "url": "https://open.spotify.com/track/1qb2MyyscTL8aJmWOMlf3l"
+    },
+    {
+      "album": {
+        "name": "Retro & Hits",
+        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191518,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5g5gtCn1i6kojn1BTsu1pp"
     },
     {
       "album": {

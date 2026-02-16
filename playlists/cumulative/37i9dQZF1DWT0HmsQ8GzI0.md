@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Saya Noé
 
-364 songs - 20 hr 25 min
+365 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [GARABONCIÁS](https://open.spotify.com/track/1YlpMrbPxmgJ9URKVabR0q) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [GARABONCIÁS](https://open.spotify.com/album/66RwvU22PP0bq7PR51UHdJ) | 3:04 | 2025-04-18 | 2025-06-17 |
 | [Gimme Snow](https://open.spotify.com/track/1k2sTwJazSSZWonYyC3lOV) | [Needle Jim](https://open.spotify.com/artist/50HWa0nOeVXCgJJXrYyLKB) | [Good Times All The Time](https://open.spotify.com/album/530GPqKsMNb1gCceu79GiG) | 3:16 | 2024-07-19 | 2024-08-03 |
 | [go](https://open.spotify.com/track/0oXom8caRAqPb9roHJ9nYk) | [fllozz](https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9), [Janet Gruber](https://open.spotify.com/artist/1w1Vul16gCdAB5NQADBrWG) | [may I?](https://open.spotify.com/album/5PjfU1yBKnxIsmy2SiAoot) | 2:37 | 2024-12-05 | 2024-12-21 |
-| [Golyóálló](https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i) | [Szlimmy](https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Golyóálló](https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9) | 3:05 | 2025-10-16 |  |
+| [Golyóálló](https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i) | [Szlimmy](https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Golyóálló](https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9) | 3:05 | 2025-10-16 | 2026-02-16 |
 | [Gondolok rád](https://open.spotify.com/track/1oE8U3XE8V73nNfmSp9Ycc) | [Szlimmy](https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o), [Csodaszoba](https://open.spotify.com/artist/6OvNRzpbgrRNLgOu7WC4AP) | [Gondolok rád](https://open.spotify.com/album/1n4pPkoccCFEayanoz7hdo) | 3:23 | 2025-08-29 | 2025-10-16 |
 | [Gordon](https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r) | [4ma](https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX), [FRANKO](https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb) | [LENNÉK MÁS...](https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK) | 2:48 | 2024-09-02 | 2025-10-17 |
 | [Groteszk](https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Nárcisz](https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK) | 2:59 | 2024-10-18 |  |
@@ -352,6 +352,7 @@
 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 | 2024-12-05 | 2025-08-12 |
 | [yamas](https://open.spotify.com/track/7FlE27JsmPgbGGy6Ahkr5w) | [nyhill](https://open.spotify.com/artist/3fWOYMACB3QVxrsut23uDn), [Efkilenc](https://open.spotify.com/artist/0rvhqFUEf6qjUcu7L2SC0i) | [yamas](https://open.spotify.com/album/1NWmlNgeE6hIqVUFyNw95P) | 3:25 | 2024-08-02 | 2024-08-16 |
 | [You Possess It](https://open.spotify.com/track/0ASYZHSxi3eOM1e0DVFVjf) | [YZZO](https://open.spotify.com/artist/27BhikuqLpNvJm5vLbNN5K) | [You Possess It](https://open.spotify.com/album/6arCetjhW74tYaWuVjAmcr) | 4:31 | 2024-06-28 | 2024-07-27 |
+| [you, on repeat](https://open.spotify.com/track/1rEjry2NhQmJeU9cl385KM) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [you, on repeat](https://open.spotify.com/album/0w9fX8GUpkhbMdXDq5JkEA) | 3:22 | 2026-02-05 |  |
 | [Younger](https://open.spotify.com/track/7jUm0yaI6WZF37ChaiQXvS) | [Puzzls](https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9), [Bleu Santana](https://open.spotify.com/artist/11BjfOkx2AZmoy34Hk2pAf) | [Younger](https://open.spotify.com/album/6VpNxx58UtS3NcObO7H15z) | 2:46 | 2024-09-05 | 2024-09-14 |
 | [Zacskós karszalag](https://open.spotify.com/track/32qVR4Q6OWpLMnCg0q6diG) | [HOCUSPONY](https://open.spotify.com/artist/3QmKk9JfPN0sS8Qtn6FWye) | [Bumeráng Alakban Repkedő Halak](https://open.spotify.com/album/28gaylZPYWa2UxTJh4sfs7) | 4:37 | 2025-12-04 | 2025-12-23 |
 | [Zenekar \- 5 főre](https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Zenekar \(5 főre\)](https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT) | 3:17 | 2024-06-28 | 2025-03-02 |

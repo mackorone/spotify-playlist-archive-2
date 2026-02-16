@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: MAKSIM & Babet
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,928 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,918 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hoe Dan Ook](https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Hoe Dan Ook](https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8) | 2:53 |
 | 2 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 |
 | 3 | [Me Enamoro](https://open.spotify.com/track/4pnm1a0IwpibMqiYw7hRup) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [Me Enamoro](https://open.spotify.com/album/4l1X3I7SvptF996bM26fDr) | 3:13 |
-| 4 | [Naïef](https://open.spotify.com/track/5p78CX7uVPoy6FOQpRbcyp) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [Naïef](https://open.spotify.com/album/0LrADygADgUIYkEKaDbCon) | 2:18 |
-| 5 | [Zonder Jou](https://open.spotify.com/track/1amdcqzkjFf3eVuoIKyNDh) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Zonder Jou](https://open.spotify.com/album/6OVERok5uMuuQG0yckDokq) | 2:55 |
-| 6 | [Zijn Probleem](https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Zijn Probleem](https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML) | 2:51 |
-| 7 | [Leun Maar Op Mij](https://open.spotify.com/track/6CDrrTgSp0UGOWwse24uWn) | [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd) | [Leun Maar Op Mij](https://open.spotify.com/album/05Bk4rmZoPUuH1dffJZLfk) | 2:58 |
-| 8 | [Kleine kometen](https://open.spotify.com/track/0IWs52tOay3lU8lYSCqu9O) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Kleine kometen](https://open.spotify.com/album/2ommx3GkYBy0O7QyTTJYJO) | 2:07 |
-| 9 | [Waar Ben Jij Geweest](https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Waar Ben Jij Geweest](https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3) | 2:48 |
-| 10 | [Voelen Dat Ik Leef](https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Op Mijn Tijd](https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE) | 2:44 |
-| 11 | [Jouw Adres](https://open.spotify.com/track/0daNdINz7hhgm7KYRswsKJ) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Jouw Adres](https://open.spotify.com/album/4cwPu3BX8jWSpo8nOigTN8) | 2:33 |
-| 12 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
-| 13 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 |
-| 14 | [Kom Je Langs](https://open.spotify.com/track/6LmSV5LnSxTBRvGA4sXhOD) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Kom Je Langs](https://open.spotify.com/album/1LBMlV3vNWjzOvX3PfULWD) | 2:29 |
-| 15 | [Rekensom](https://open.spotify.com/track/5fP2wbY8JNWrjRmzxdIBlk) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Rekensom](https://open.spotify.com/album/2KUG1T7acDMOBpPUazomuR) | 2:56 |
-| 16 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
-| 17 | [Mijn Liefste](https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Mijn Liefste](https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo) | 3:10 |
+| 4 | [Mijn Liefste](https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Mijn Liefste](https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo) | 3:10 |
+| 5 | [Naïef](https://open.spotify.com/track/5p78CX7uVPoy6FOQpRbcyp) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [Naïef](https://open.spotify.com/album/0LrADygADgUIYkEKaDbCon) | 2:18 |
+| 6 | [Zonder Jou](https://open.spotify.com/track/1amdcqzkjFf3eVuoIKyNDh) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Zonder Jou](https://open.spotify.com/album/6OVERok5uMuuQG0yckDokq) | 2:55 |
+| 7 | [Zijn Probleem](https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Zijn Probleem](https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML) | 2:51 |
+| 8 | [Leun Maar Op Mij](https://open.spotify.com/track/6CDrrTgSp0UGOWwse24uWn) | [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd) | [Leun Maar Op Mij](https://open.spotify.com/album/05Bk4rmZoPUuH1dffJZLfk) | 2:58 |
+| 9 | [Kleine kometen](https://open.spotify.com/track/0IWs52tOay3lU8lYSCqu9O) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Kleine kometen](https://open.spotify.com/album/2ommx3GkYBy0O7QyTTJYJO) | 2:07 |
+| 10 | [Waar Ben Jij Geweest](https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Waar Ben Jij Geweest](https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3) | 2:48 |
+| 11 | [Voelen Dat Ik Leef](https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Op Mijn Tijd](https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE) | 2:44 |
+| 12 | [Jouw Adres](https://open.spotify.com/track/0daNdINz7hhgm7KYRswsKJ) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Jouw Adres](https://open.spotify.com/album/4cwPu3BX8jWSpo8nOigTN8) | 2:33 |
+| 13 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
+| 14 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 |
+| 15 | [Kom Je Langs](https://open.spotify.com/track/6LmSV5LnSxTBRvGA4sXhOD) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Kom Je Langs](https://open.spotify.com/album/1LBMlV3vNWjzOvX3PfULWD) | 2:29 |
+| 16 | [Rekensom](https://open.spotify.com/track/5fP2wbY8JNWrjRmzxdIBlk) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Rekensom](https://open.spotify.com/album/2KUG1T7acDMOBpPUazomuR) | 2:56 |
+| 17 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
 | 18 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 |
 | 19 | [Echt Zo](https://open.spotify.com/track/5RiNPHQmTZeLHiVPZFg0jn) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Echt Zo](https://open.spotify.com/album/6EzKHgwuGTPMPcFOkOPN2K) | 3:14 |
 | 20 | [Gedoemd Te Mislukken](https://open.spotify.com/track/08usYSVEgY0R01aoWgiVFf) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Gedoemd Te Mislukken](https://open.spotify.com/album/6veVuNUi2Ges3ZacZzyhUe) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Wolken](https://open.spotify.com/track/2OmLONCXv8o6QEgmzcAmBa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Wolken](https://open.spotify.com/album/2AmTE3OZBOAS1EiihK6wzG) | 2:20 |
 | 80 | [Misschien](https://open.spotify.com/track/3lRdIeteaMCxBW4iIizQhc) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Misschien](https://open.spotify.com/album/3JtLCyl7880gwx5BASF5Dy) | 2:28 |
 
-Snapshot ID: `AAAAAMhMD1D92ZhzT0l3r5thliXDf3Ht`
+Snapshot ID: `AAAAAOcfOCMlEGJmK/n0lSJTyYg+4stK`

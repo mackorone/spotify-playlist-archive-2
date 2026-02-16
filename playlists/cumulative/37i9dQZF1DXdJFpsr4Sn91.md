@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,096 songs - 2 day 6 hr 38 min
+1,097 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Kuka Siin Netis On](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka Siin Netis On](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 | 2025-01-30 | 2025-03-28 |
 | [Kukaan muu \(feat\. Joe L\)](https://open.spotify.com/track/1bntOGbJGOjhjI7anyfzHx) | [LILBRO](https://open.spotify.com/artist/1PIujpIZmCo918lfPJfn3w), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Kukaan muu \(feat\. Joe L\)](https://open.spotify.com/album/1SRtKVGt9rHBDa3jxdAR7N) | 2:47 | 2025-06-26 | 2025-08-29 |
 | [Kultainen sukupolvi](https://open.spotify.com/track/4YklVPiwl9oF6mVsdQiVCc) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Kultainen sukupolvi](https://open.spotify.com/album/2jWK2gDIISWMqU9xVoQbnj) | 3:37 | 2025-06-06 | 2025-09-05 |
+| [Kun tulee pimee](https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Kun tulee pimee](https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt) | 2:45 | 2026-02-13 |  |
 | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/track/6dbYxywDRYRwgp6ZqoEhlb) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/album/41SN3xgzZPqniqQXreTZcA) | 2:39 | 2025-10-23 | 2025-10-31 |
 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 | 2025-04-10 | 2025-05-16 |
 | [Kuolen ikävään](https://open.spotify.com/track/75oUR9vsCYxDbFjhJMDrek) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Kuolen ikävään](https://open.spotify.com/album/7JsRMWiD9i1cZ1koysOyc3) | 3:01 | 2025-04-27 | 2025-05-30 |
@@ -554,7 +555,7 @@
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2024-10-25 |
 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 | 2024-10-31 | 2025-03-07 |
 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 | 2025-03-06 | 2025-06-06 |
-| [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 | 2025-10-16 |  |
+| [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 | 2025-10-16 | 2026-02-16 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-07-02 | 2024-07-05 |
 | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/track/5LhoiY5ynoyZrto4jao4fV) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/album/3Mi1VyGwqs05ow8jqg2Iwl) | 3:02 | 2025-02-13 | 2025-03-14 |
 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 | 2024-07-26 | 2024-09-20 |

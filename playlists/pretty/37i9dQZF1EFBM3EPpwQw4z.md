@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 17 | [Never Be the Same](https://open.spotify.com/track/1ZvykrNUPMZ4cNwGTcK5NB) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Never Be the Same](https://open.spotify.com/album/0Qoilkt1L6Do1In2oVOpDO) | 3:13 |
 | 18 | [Rave Cave](https://open.spotify.com/track/7aYONhQEt4yhpLYtY6RGz9) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:31 |
 | 19 | [Swear I Lost Myself](https://open.spotify.com/track/46juGXFzApK5CRGsXvOKFu) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:46 |
-| 20 | [Forever](https://open.spotify.com/track/3ZwfRF6AAbJP0oUYwxjsmc) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [THE SHELL](https://open.spotify.com/album/3LdW3SGS1DixlVsNMHGeui) | 2:41 |
-| 21 | [What's a Gremlin?](https://open.spotify.com/track/3wWdJGv0iqFJRQ82Uixaiu) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [What's a Gremlin?](https://open.spotify.com/album/3HTO3cw9wh1ia9n9aryWhm) | 2:20 |
+| 20 | [What's a Gremlin?](https://open.spotify.com/track/3wWdJGv0iqFJRQ82Uixaiu) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [What's a Gremlin?](https://open.spotify.com/album/3HTO3cw9wh1ia9n9aryWhm) | 2:20 |
+| 21 | [Forever](https://open.spotify.com/track/3ZwfRF6AAbJP0oUYwxjsmc) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [THE SHELL](https://open.spotify.com/album/3LdW3SGS1DixlVsNMHGeui) | 2:41 |
 | 22 | [Take Me](https://open.spotify.com/track/0TqY5xOwl4ckpgmHkNIfPh) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Fracture](https://open.spotify.com/album/2drOKki7mPqM8Ec5K3JATI) | 4:06 |
 | 23 | [Run To The Rhythm](https://open.spotify.com/track/7L7lq0sjeVcyg5Phg4CkCv) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Run To The Rhythm](https://open.spotify.com/album/6l10qp0sJOYUgnwOuhufD5) | 3:50 |
 | 24 | [Venus x Mars](https://open.spotify.com/track/2TRBrHV1YaCN1s3S11f9AK) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Venus x Mars](https://open.spotify.com/album/3Bs1qbFLE8EHmOdaV0Mj2F) | 4:29 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 102 | [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 |
 | 103 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 
-Snapshot ID: `AcJrdgAAAADkp4vhdFdM+xiHagP9gsO/`
+Snapshot ID: `AcJxFgAAAAC6YUjRk3tzK5udFveGAYc3`

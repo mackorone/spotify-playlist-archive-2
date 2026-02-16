@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1844,
+  "num_followers": 1845,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 459659,
+      "name": "The Party & The After Party",
+      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -179,18 +195,18 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+        "name": "Let Me Explain",
+        "url": "https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 459659,
-      "name": "The Party & The After Party",
-      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
+      "duration_ms": 223969,
+      "name": "Let Me Explain",
+      "url": "https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -207,22 +223,6 @@
       "duration_ms": 320400,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Let Me Explain",
-        "url": "https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 223969,
-      "name": "Let Me Explain",
-      "url": "https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Wasted Times",
+      "url": "https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 225530,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -331,38 +363,6 @@
       "duration_ms": 288013,
       "name": "Brand New Guy (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6haTrice1PU59Kd7esp3w1"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Wasted Times",
-      "url": "https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
+        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "LARRY",
         "url": "https://open.spotify.com/album/19oWyPxJTqnAQnhvzIs8CS"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 202067,
       "name": "Paperwork Party - Remix",
       "url": "https://open.spotify.com/track/5WOGp3E41juuRbaw4LlQZT"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
-        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG"
     },
     {
       "added_at": "2022-10-01 17:37:57",

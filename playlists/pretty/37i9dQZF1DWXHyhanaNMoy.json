@@ -1,37 +1,13 @@
 {
   "description": "Motion & good vibes! Cover: LA$$A",
-  "num_followers": 334186,
+  "num_followers": 334182,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUW8awUWm8Td7sPlPFlFnWPinTm",
+  "snapshot_id": "AAAAANJm8MgGgHqm8r4m/cU5VQQwV8jC",
   "tracks": [
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
-        "name": "Dure Geintje",
-        "url": "https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr"
-      },
-      "artists": [
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        },
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 136802,
-      "name": "Dure Geintje",
-      "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
-    },
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 178144,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Dure Geintje",
+        "url": "https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 136802,
+      "name": "Dure Geintje",
+      "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
     },
     {
       "added_at": "2026-02-12 23:00:41",

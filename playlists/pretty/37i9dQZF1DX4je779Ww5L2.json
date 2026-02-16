@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191270,
+  "num_followers": 191292,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Rush Hour Traffic",
-        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 264346,
-      "name": "Rush Hour Traffic",
-      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Pelechian 2",
         "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 307706,
       "name": "Pelechian 2",
       "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "sunflower boy",
+        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+        }
+      ],
+      "duration_ms": 146605,
+      "name": "sunflower boy",
+      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -371,34 +387,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "sunflower boy",
-        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
+        "name": "August Parker",
+        "url": "https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX"
       },
       "artists": [
         {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+          "name": "Ozark Henry",
+          "url": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
         }
       ],
-      "duration_ms": 146605,
-      "name": "sunflower boy",
-      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Vacuum",
-      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
+      "duration_ms": 199000,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -419,18 +419,34 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "August Parker",
-        "url": "https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX"
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
       },
       "artists": [
         {
-          "name": "Ozark Henry",
-          "url": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Eight",
-      "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
+      "duration_ms": 215078,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "22 Weeks",
+      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -467,22 +483,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "somebody's daughter",
-        "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 200806,
-      "name": "i'm not afraid of dying",
-      "url": "https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Martyr",
         "url": "https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 203000,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 200806,
+      "name": "i'm not afraid of dying",
+      "url": "https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -531,22 +547,6 @@
       "duration_ms": 201557,
       "name": "Can",
       "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Brick Houses",
-        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
-      },
-      "artists": [
-        {
-          "name": "Few Bits",
-          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "22 Weeks",
-      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "No One Listens Anymore (acoustic)",
-        "url": "https://open.spotify.com/album/5Os6AY420xj5jC0Y68YNhl"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "No One Listens Anymore (acoustic)",
-      "url": "https://open.spotify.com/track/0TV1pKSGkRLO8pmbmx9E2k"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "A Soundtrack to a Never-Ending Story",
         "url": "https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "At The Party",
-        "url": "https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm"
+        "name": "No One Listens Anymore (acoustic)",
+        "url": "https://open.spotify.com/album/5Os6AY420xj5jC0Y68YNhl"
       },
       "artists": [
         {
-          "name": "CHARLOT",
-          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
         }
       ],
-      "duration_ms": 215000,
-      "name": "At The Party",
-      "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
+      "duration_ms": 191653,
+      "name": "No One Listens Anymore (acoustic)",
+      "url": "https://open.spotify.com/track/0TV1pKSGkRLO8pmbmx9E2k"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -819,6 +803,22 @@
       "duration_ms": 146786,
       "name": "Birds Of Paradise",
       "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "At The Party",
+        "url": "https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm"
+      },
+      "artists": [
+        {
+          "name": "CHARLOT",
+          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "At The Party",
+      "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
-      },
-      "artists": [
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Tardigrades",
         "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 196821,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
+      },
+      "artists": [
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "The Moon Is Going For A Swim",
         "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 198806,
       "name": "When Everything Was Right",
       "url": "https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-02-12 23:00:28",

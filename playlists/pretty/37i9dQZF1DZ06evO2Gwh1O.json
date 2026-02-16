@@ -1,12 +1,12 @@
 {
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 8012,
+  "num_followers": 8010,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY5pgAAAAABR5KebcetpRDBTxfvkT3PF",
+  "snapshot_id": "aY+7AAAAAADSRcx9Uzcet3LhbNwwfaC/",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 202813,
-      "name": "To Die Like Mouchette",
-      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
+      "duration_ms": 170320,
+      "name": "Rules and Games",
+      "url": "https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Rules and Games",
-      "url": "https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m"
+      "duration_ms": 202813,
+      "name": "To Die Like Mouchette",
+      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape Artists Never Die (EW283CD)",
-        "url": "https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH"
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 158373,
-      "name": "10 Scene Points to the Winner",
-      "url": "https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5"
+      "duration_ms": 152280,
+      "name": "Old Hymns",
+      "url": "https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
+        "name": "Escape Artists Never Die (EW283CD)",
+        "url": "https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 152280,
-      "name": "Old Hymns",
-      "url": "https://open.spotify.com/track/7dbHDlGVMtdvcXhM5L6Ytf"
+      "duration_ms": 158373,
+      "name": "10 Scene Points to the Winner",
+      "url": "https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5"
     },
     {
       "added_at": null,

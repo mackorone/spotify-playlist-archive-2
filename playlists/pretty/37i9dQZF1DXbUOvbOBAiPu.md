@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from MAKSIM & Babet, Charli xcx, The Haunted Youth and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,646 likes - 123 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,643 likes - 123 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 101 | [Eat Me Alive](https://open.spotify.com/track/5wiBlYSPdv5QR10IeKSPYp) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Eat Me Alive](https://open.spotify.com/album/3bA5CDhzT8XJQtyWM9CMoM) | 4:00 |
 | 102 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 | 103 | [Ça faisait longtemps](https://open.spotify.com/track/5FyA2Tr3dXpPrTHtq5iO6S) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [Bisou magique](https://open.spotify.com/album/7nQ9RcrJprV3UXfxiRErRB) | 2:50 |
-| 104 | [Mention Me](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
+| 104 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
 | 105 | [Controlla](https://open.spotify.com/track/6Z7XLF9XCs2zPT1zT4RFpu) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [Amuse\-Bouche](https://open.spotify.com/album/08hBvTlDkoxD1PuMWfkLh6) | 2:16 |
 | 106 | [Paro](https://open.spotify.com/track/38CL4JpgSr6wRCzEUPC9PQ) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Paro](https://open.spotify.com/album/7qlhqoVNnU2rURV9CHCXw6) | 2:21 |
 | 107 | [Can’t do this](https://open.spotify.com/track/6P3BaAvEsPkA5Cy1mqrpN0) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Can’t do this](https://open.spotify.com/album/6dIC8czMB2nhoE99EYDlgG) | 3:16 |

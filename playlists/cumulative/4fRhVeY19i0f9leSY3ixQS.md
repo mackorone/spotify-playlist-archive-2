@@ -4,11 +4,12 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-891 songs - 2 day 2 hr 57 min
+892 songs - 2 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(in\)dependent](https://open.spotify.com/track/3lszlSSaiTs8L8eXP6DgqJ) | [Lueur](https://open.spotify.com/artist/00GCuU5IZe64y3r4taYrQO) | [\(in\)dependent](https://open.spotify.com/album/315VPRQNwWtoN1ZI6HWzO2) | 2:47 | 2026-01-19 |  |
+| [\(turn down the\) Radio](https://open.spotify.com/track/7tskKEOY8Ao6oDDQupvqXd) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:01 | 2026-02-15 |  |
 | [100 Ways To Go \- Live 24](https://open.spotify.com/track/7KwPbCp9dKEc8DAslQ2HOb) | [Wingfish](https://open.spotify.com/artist/3DjzJDs4wgf6jxZEYaeRBd) | [Dyads](https://open.spotify.com/album/3ZnsbkR1KQvQArM6RCBVCW) | 5:20 | 2026-01-01 | 2026-01-22 |
 | [101](https://open.spotify.com/track/7kwsOerjWNgEMZKcCERIkG) | [The Vorgs](https://open.spotify.com/artist/0bJ5E0pbzvxBBQPgelOVD8) | [101](https://open.spotify.com/album/7J71h9TLs2gyf7PnfDby4s) | 2:46 | 2025-11-15 | 2025-12-10 |
 | [1982](https://open.spotify.com/track/0mehLe0Lq9aIKgTaYtYtPo) | [rhynos](https://open.spotify.com/artist/4hQ2WEwKLJ66DQwZUOddWC) | [1982](https://open.spotify.com/album/2bEQdG5K1qgVJUEMcJm7tO) | 1:20 | 2025-11-19 | 2025-12-10 |
@@ -170,7 +171,7 @@
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-11-10 | 2025-12-10 |
 | [Cutting Deep](https://open.spotify.com/track/6WRqeg3uyXh4QV5wYHZXnV) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Cutting Deep](https://open.spotify.com/album/4EqHxIF6V2uc9WOjMXIAy0) | 4:42 | 2026-02-03 |  |
 | [CYNICAL](https://open.spotify.com/track/1P3FaH2aQQcj6Yu2wuHOyM) | [almostmine](https://open.spotify.com/artist/6XaNTbBmtilnD6gYHQPcko) | [CYNICAL](https://open.spotify.com/album/7a8gBXlgmAt07U6sjM1gJS) | 2:43 | 2025-11-11 | 2025-12-10 |
-| [D.O.C\. \(remaster\)](https://open.spotify.com/track/3nuCkHuNLB3HQrV6KpYLK8) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:36 | 2025-09-18 |  |
+| [D.O.C\. \(remaster\)](https://open.spotify.com/track/3nuCkHuNLB3HQrV6KpYLK8) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:34 | 2025-09-18 |  |
 | [Dad Was Right](https://open.spotify.com/track/5l0sDmT6mdbofraPiYVaX6) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Still Not Over It](https://open.spotify.com/album/5unfuX0hDVZMaitu4aUCH9) | 3:42 | 2026-01-13 | 2026-02-03 |
 | [Dance With Me](https://open.spotify.com/track/6OmQaUueJoPh8sPO4QnRi0) | [VƟIZ](https://open.spotify.com/artist/4iRLEpQZPZqtRG4TEROB5o) | [Dance With Me](https://open.spotify.com/album/7sHR6SRXD5QR84E2EiztUu) | 3:20 | 2025-12-15 | 2026-01-06 |
 | [Dancing machine](https://open.spotify.com/track/7x7WL2BbEC5LQCPDMEFGMR) | [shirehead](https://open.spotify.com/artist/5bPUoqHpLmbCiSgtPSHL9b) | [Dancing machine](https://open.spotify.com/album/0JS42XNAennnRPLbIDb50R) | 2:57 | 2025-12-10 | 2026-01-06 |
@@ -226,7 +227,7 @@
 | [Down in A Hole](https://open.spotify.com/track/4c1vW7vyXE0BDRqRi0hOEe) | [dirth.](https://open.spotify.com/artist/4AXYaezweit6i4xoEtBoAu) | [Down in A Hole](https://open.spotify.com/album/1YGIlMHK8sPw1TgJFONB0z) | 4:19 | 2025-12-04 | 2026-02-03 |
 | [Down To Mexico \- Live](https://open.spotify.com/track/5DxXxF5WPqNL3HySoXBgtt) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:13 | 2025-11-08 | 2026-01-15 |
 | [Drama \(remaster\)](https://open.spotify.com/track/5KQrS9D7ARWN8fiNBNiYSy) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:48 | 2025-09-18 |  |
-| [Drone](https://open.spotify.com/track/0nnPnAzEAAClDDiMNYtNDp) | [No Heroes](https://open.spotify.com/artist/6Pkz22OR0gHZ9BP5nLmIga) | [Brood Eternal](https://open.spotify.com/album/4kh6JMt1hzHeAst4kAndp3) | 1:42 | 2026-01-15 |  |
+| [Drone](https://open.spotify.com/track/0nnPnAzEAAClDDiMNYtNDp) | [No Heroes](https://open.spotify.com/artist/6Pkz22OR0gHZ9BP5nLmIga) | [Brood Eternal](https://open.spotify.com/album/4kh6JMt1hzHeAst4kAndp3) | 1:42 | 2026-01-15 | 2026-02-16 |
 | [Drone Drive\-By](https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Drone Drive\-By](https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb) | 3:30 | 2025-11-26 | 2025-12-24 |
 | [Drowning](https://open.spotify.com/track/16A2TC89Jt7eaf7iuVaM3p) | [Fear Lab](https://open.spotify.com/artist/59OL42glNaguFmSfhUSpDE) | [Drowning](https://open.spotify.com/album/0RfIOR90ccA6EAMXVQvUMY) | 3:22 | 2025-11-17 | 2025-12-10 |
 | [Drowning Into You](https://open.spotify.com/track/18mYfxvwpVVXli6HgmJXpm) | [Faith in Faces](https://open.spotify.com/artist/5nTj6k2ZmbVOZICHFz1BPY) | [Drowning Into You](https://open.spotify.com/album/7LyIYQb75whKjUXyhWB6oI) | 3:24 | 2025-12-08 | 2026-01-06 |
@@ -602,7 +603,7 @@
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
 | [Regular Piece Of Shit](https://open.spotify.com/track/27zQNRkLR1kfhIuyfTcMic) | [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Regular Piece Of Shit](https://open.spotify.com/album/6B5lAhbdRmNihTZ2OqZd9e) | 2:43 | 2026-01-26 |  |
 | [Reloaded](https://open.spotify.com/track/6cvpx4nJPQ9JcX4OmAWjM7) | [K.W.E.S.I.](https://open.spotify.com/artist/1JQNmDKu1o2W8MPGDnBiCy) | [SHEESH!](https://open.spotify.com/album/3GuFTVum5qr45HkbPtveqx) | 2:06 | 2025-11-07 | 2025-12-10 |
-| [Reluctantly Obedient](https://open.spotify.com/track/16sJgOaLZvcOwdM7H30vfz) | [Dazed Pilots](https://open.spotify.com/artist/0fEDLTnhPxRCSUUVwWIjjV) | [Here's to Me EP](https://open.spotify.com/album/19UnyRigrkHVXvLMYqMDz7) | 2:11 | 2026-01-15 |  |
+| [Reluctantly Obedient](https://open.spotify.com/track/16sJgOaLZvcOwdM7H30vfz) | [Dazed Pilots](https://open.spotify.com/artist/0fEDLTnhPxRCSUUVwWIjjV) | [Here's to Me EP](https://open.spotify.com/album/19UnyRigrkHVXvLMYqMDz7) | 2:11 | 2026-01-15 | 2026-02-16 |
 | [Remember Lady](https://open.spotify.com/track/4BO9dmX7Yuh5gF9vA1KWW8) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Let's Greet the Sunrise](https://open.spotify.com/album/5XlQowlA1XmId9UjzxhS4K) | 3:15 | 2025-12-01 | 2025-12-24 |
 | [Remember The Days](https://open.spotify.com/track/20p1v4GhTAyEz8eJmDlfzQ) | [The Arcade Lights](https://open.spotify.com/artist/0sAh7PjyMhtAVpvezBFso2) | [Remember The Days](https://open.spotify.com/album/7ate7nHrpETd8NsEzA19eh) | 4:13 | 2025-12-08 | 2026-01-06 |
 | [Remember When](https://open.spotify.com/track/66aGIkDo3jxkc3hQjY5SjX) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Still Not Over It](https://open.spotify.com/album/5unfuX0hDVZMaitu4aUCH9) | 3:54 | 2026-01-13 | 2026-02-03 |
@@ -803,7 +804,7 @@
 | [Trips up North](https://open.spotify.com/track/6ky1ip2UA7gqeUL6HZJuno) | [Dave Eats Mud](https://open.spotify.com/artist/2pamuQ8EAimLz16lgOucBd) | [Urine for a Treat!](https://open.spotify.com/album/4L8uDG383No8264PsYSJnN) | 2:18 | 2026-01-22 |  |
 | [Truemetal](https://open.spotify.com/track/7ud1d1jZCnodHBHY4mwLPP) | [Cyrax](https://open.spotify.com/artist/4O3WfGMmFAXWupm9cG2rFI) | [Experiences](https://open.spotify.com/album/3TjQI8Q3ZMJ3mwrKPCd2cK) | 7:04 | 2025-12-10 | 2026-01-06 |
 | [Trust Me Bro](https://open.spotify.com/track/6nIgE5stt7S6VALHivZ70B) | [Project No\-On](https://open.spotify.com/artist/2nC06Qpyfz0GMaU5HgOM7T) | [Reclamation Proclamation](https://open.spotify.com/album/6puzOxztJGm7daAHjeZ3yN) | 2:22 | 2026-02-13 |  |
-| [Tunnel Vision](https://open.spotify.com/track/3VRDcvHRenwPMd8BsT4qWy) | [BRUDES](https://open.spotify.com/artist/6OoyoyC2mh52hahZoqSEVN) | [Empire Is Anti Human](https://open.spotify.com/album/4EmtkhtLEkpSF854edvJIV) | 3:20 | 2026-01-15 |  |
+| [Tunnel Vision](https://open.spotify.com/track/3VRDcvHRenwPMd8BsT4qWy) | [BRUDES](https://open.spotify.com/artist/6OoyoyC2mh52hahZoqSEVN) | [Empire Is Anti Human](https://open.spotify.com/album/4EmtkhtLEkpSF854edvJIV) | 3:20 | 2026-01-15 | 2026-02-16 |
 | [Tus Lágrimas](https://open.spotify.com/track/3H4abf5EkYm4Patnsw8jtR) | [ARBI](https://open.spotify.com/artist/1H7fq4kxKmz18RP88E0rE9) | [INTENSO](https://open.spotify.com/album/1FtQE9kwhWApc55im7qgWv) | 2:50 | 2026-02-02 |  |
 | [Two for Diving](https://open.spotify.com/track/0LjsGoGad9uFIhyUIYDwj9) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Two for Diving](https://open.spotify.com/album/6ERi1BUpSQ0g8Cpmtk7WFI) | 3:00 | 2026-01-06 | 2026-01-29 |
 | [Unbreakable](https://open.spotify.com/track/1MER0YAsu55Gut37JVsPG8) | [DUST IN MIND](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [Unbreakable](https://open.spotify.com/album/31F4H3iHdb2Tw5kpyoRHZN) | 3:28 | 2026-01-24 |  |

@@ -4405,6 +4405,24 @@
     },
     {
       "album": {
+        "name": "Mix caporales variado",
+        "url": "https://open.spotify.com/album/2c7K8wdzLDVlyWxI8vuOF9"
+      },
+      "artists": [
+        {
+          "name": "BANDA LOS +PENDEKS POTOSI",
+          "url": "https://open.spotify.com/artist/4oqp6QRUiviCGjCeGY9KqJ"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Bella (Caporal)",
+      "url": "https://open.spotify.com/track/5lBCBTljSrdDefp6zfmbgl"
+    },
+    {
+      "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
@@ -8382,7 +8400,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E"
@@ -9470,7 +9488,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Cry For Me WA WA WA",
       "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
@@ -10180,7 +10198,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 133564,
       "name": "Dally",
       "url": "https://open.spotify.com/track/6HHhPaHTC2aJt0CKtMlQCc"
@@ -12038,6 +12056,28 @@
       "duration_ms": 198000,
       "name": "Dream Come True",
       "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
+    },
+    {
+      "album": {
+        "name": "DREAM FUNK",
+        "url": "https://open.spotify.com/album/2mO3hNFyt05VJgv05rQ9Ch"
+      },
+      "artists": [
+        {
+          "name": "LUMIX",
+          "url": "https://open.spotify.com/artist/2JDnku4kiI3LuXeyKtzrhU"
+        },
+        {
+          "name": "KXRSED",
+          "url": "https://open.spotify.com/artist/7rgzMbkD6KQsFIazzCN7Xn"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "DREAM FUNK - Slowed",
+      "url": "https://open.spotify.com/track/0oyXucUR4NxvaRjZiA0gwh"
     },
     {
       "album": {
@@ -19826,7 +19866,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 127096,
       "name": "JET SET!",
       "url": "https://open.spotify.com/track/3uBw0g1kWTVWn3zZriKgj0"
@@ -21414,7 +21454,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 149866,
       "name": "Last of a Dying Breed",
       "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
@@ -22862,7 +22902,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -22956,7 +22996,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db"
@@ -30310,7 +30350,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -33414,6 +33454,24 @@
       "duration_ms": 173530,
       "name": "Que tengo que hacer",
       "url": "https://open.spotify.com/track/5BddARjeQMLtSXRIU8WBCR"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Nacional New Bolivia Band (Original)",
+        "url": "https://open.spotify.com/album/3QzTKry7yhql4hVhE3BiuL"
+      },
+      "artists": [
+        {
+          "name": "New Bolivia Band",
+          "url": "https://open.spotify.com/artist/4HjqgEAv5ihM75kSfSSWKQ"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182161,
+      "name": "Que viva el Camba",
+      "url": "https://open.spotify.com/track/6p3Wb0UNrSXzqNonGAEZJZ"
     },
     {
       "album": {
@@ -38998,6 +39056,24 @@
       "duration_ms": 144959,
       "name": "S\u00e9 esa mujer valiente",
       "url": "https://open.spotify.com/track/7J9mEYmPlt8QUlUjuUUKMd"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Bund\u00e3o Grand\u00e3o",
+        "url": "https://open.spotify.com/album/693z4dxiA7qFCSFgEH83HZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Guuga",
+          "url": "https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137752,
+      "name": "S\u00f3 Bund\u00e3o Grand\u00e3o",
+      "url": "https://open.spotify.com/track/4QcbeYrzfyUBqnF5JU5Xt7"
     },
     {
       "album": {

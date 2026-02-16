@@ -4,7 +4,7 @@
 
 > Chill r&b\. Cover: Alex Isley
 
-1,543 songs - 3 day 12 hr 51 min
+1,544 songs - 3 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Butterflies](https://open.spotify.com/track/4BIYpulTUkEj3gb0WWb9OV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 2:42 | 2024-03-22 | 2024-08-17 |
 | [Butterflies Pt\. 2](https://open.spotify.com/track/4GnRY7aitCylEoOXMaRi1A) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Butterflies Pt\. 2](https://open.spotify.com/album/4G3cZoRigNwT4t244jhSUA) | 2:30 | 2020-03-27 | 2020-05-08 |
 | [Butterflies Pt\. 2 \- Acoustic](https://open.spotify.com/track/0P8cENEqN7W3U6rZohIaCJ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Butterflies Pt\. 2](https://open.spotify.com/album/04VUOnNhfsR1vm0sqfb73j) | 2:32 | 2020-05-08 | 2020-06-13 |
+| [butterflies.](https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 4:08 | 2026-02-15 |  |
 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 | 2022-03-08 | 2022-07-09 |
 | [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 | 2025-11-14 | 2026-02-07 |
 | [Cadillac \(A Pimp's Anthem\)](https://open.spotify.com/track/23VB6t2KnNL1l38ZZC8c37) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:02 | 2023-08-25 | 2024-07-13 |
@@ -1251,7 +1252,7 @@
 | [Spell My Name](https://open.spotify.com/track/3Xbqqq0E6YbyIw8eIvVAQL) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Spell My Name](https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5) | 3:21 | 2020-09-04 | 2021-03-14 |
 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-02 |  |
 | [SPIDER\-MAN SUPERMAN](https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:23 | 2025-02-14 | 2025-04-12 |
-| [Spin The Block](https://open.spotify.com/track/4xsbMmk4sWSsnlMMiuPwdp) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Spin The Block](https://open.spotify.com/album/63oVRW1UwC5I9Rbctswah9) | 2:41 | 2025-10-31 |  |
+| [Spin The Block](https://open.spotify.com/track/4xsbMmk4sWSsnlMMiuPwdp) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Spin The Block](https://open.spotify.com/album/63oVRW1UwC5I9Rbctswah9) | 2:41 | 2025-10-31 | 2026-02-16 |
 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 | 2023-07-14 |
 | [Spin the Block](https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/0WIyWP0I9sOm5zZkvFdc0u) | 3:49 | 2022-11-11 | 2023-08-14 |
 | [Spin the Block](https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:49 | 2022-11-11 | 2023-08-19 |

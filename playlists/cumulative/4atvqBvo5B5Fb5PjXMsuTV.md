@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date\. Updated 15 Feb 23:10 UTC.
+> Latest popular single releases\. Sorted by release date\. Updated 15 Feb 14:10 UTC.
 
-6,192 songs - 14 day 8 hr 45 min
+6,195 songs - 14 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [At the Fortress Gate](https://open.spotify.com/track/03U4RGt6wDRNuU5ba83FQ9) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [At the Fortress Gate](https://open.spotify.com/album/335GTRmZ0rVWAW0zCy8CpC) | 3:45 | 2024-08-15 | 2024-08-17 |
 | [At Your Feet](https://open.spotify.com/track/7z0ZsGrcTncsaXVK1TZV0b) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [At Your Feet](https://open.spotify.com/album/2ECpykphVw3Jt59G4PDmjt) | 3:45 | 2024-05-23 | 2024-05-25 |
 | [ATE](https://open.spotify.com/track/2QkWICosG93cvjXeRmU9d7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [ATE](https://open.spotify.com/album/15hrI8PHuBnVVxPAXYarFI) | 2:29 | 2025-02-28 | 2025-03-11 |
+| [ATLANTIS](https://open.spotify.com/track/5Zb6uBDTjyYL3QJIn3FO3c) | [Glorb](https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih) | [ATLANTIS](https://open.spotify.com/album/7xWHHBs0UQKz15bM9IYiVi) | 2:44 | 2026-02-15 |  |
 | [Atlas](https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Atlas](https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb) | 3:58 | 2025-12-05 | 2025-12-20 |
 | [ATM](https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ATM](https://open.spotify.com/album/2aOzBC2dw4L6USRUdyu2X3) | 3:00 | 2026-01-24 | 2026-02-12 |
 | [Atrinchera2](https://open.spotify.com/track/6rx8ePKSOryW7jIUSdvhnj) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Atrinchera2](https://open.spotify.com/album/2dw4YjjlRkGb8iEgm50fXQ) | 3:09 | 2024-10-23 | 2024-10-26 |
@@ -517,6 +518,7 @@
 | [Barril Dobrado](https://open.spotify.com/track/1PF6ehDeyEsF8EjSBMc3wS) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Renato Matos](https://open.spotify.com/artist/0F0GzVvB2Rt8EfZkKiX9P9) | [Barril Dobrado](https://open.spotify.com/album/1vwZZ1TgrY3uFvCIQL9Sn1) | 3:53 | 2024-09-18 | 2024-09-21 |
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 | 2025-02-04 |
 | [Basics](https://open.spotify.com/track/07tIqGwLyg2fVvypNhNML3) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Basics](https://open.spotify.com/album/1htjttdNZQCvUYoc7oStbf) | 2:35 | 2024-08-13 | 2024-08-15 |
+| [Bass Dhol](https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Bass Dhol](https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu) | 3:38 | 2026-02-15 |  |
 | [BASTA](https://open.spotify.com/track/1mBo5wxBPceNVvIu9TzLrt) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BASTA](https://open.spotify.com/album/0bRbYs6orDKrJ2prSY31ZL) | 1:59 | 2026-02-11 | 2026-02-15 |
 | [Bathsheba & Him](https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bathsheba & Him](https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT) | 3:33 | 2025-08-04 | 2025-08-16 |
 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 | 2025-02-12 | 2025-02-22 |
@@ -3441,7 +3443,7 @@
 | [Memories](https://open.spotify.com/track/4IhtB9iT2nYzKyu1jn87uP) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Memories](https://open.spotify.com/album/1rsPsoteYQ6VBKhgznMOWo) | 4:11 | 2025-04-27 | 2025-05-03 |
 | [Memory Merge](https://open.spotify.com/track/5usdxPXJmVeqwheEYreUoo) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Memory Merge](https://open.spotify.com/album/10TkVdtVrvg5Pcm4jsnRPg) | 4:32 | 2024-05-20 | 2024-05-23 |
 | [Mental Health](https://open.spotify.com/track/2gCVUZhdojdcuCZlhjaLmp) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mental Health](https://open.spotify.com/album/6mCf6lxzbJYtcPktVBSBRR) | 6:28 | 2024-12-20 | 2025-01-09 |
-| [Mention Me](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 | 2026-02-14 |  |
+| [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 | 2026-02-14 |  |
 | [MEOW](https://open.spotify.com/track/1uDkEnRotp0jjoGmtZ31rL) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [MEOW / Cheeky Icy Thang \(Japanese Ver.\)](https://open.spotify.com/album/04zQRW9brhcUtaDHQ8SH9u) | 2:13 | 2024-08-21 | 2024-08-24 |
 | [Mercia](https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Mercia](https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep) | 5:34 | 2025-09-17 | 2025-09-27 |
 | [Mercury](https://open.spotify.com/track/6Fl1GQkBJ3zxBvePZInxgR) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Mercury](https://open.spotify.com/album/5GE1fVJJK5uECX3s7Z4KG2) | 2:59 | 2025-10-30 | 2025-11-13 |
@@ -5419,6 +5421,7 @@
 | [THINGS WILL GET MUCH WORSE FROM HERE \- Single Version](https://open.spotify.com/track/4NO1GRHwSCBST411UZ7ydy) | [Kill Bill: The Rapper](https://open.spotify.com/artist/1t9KewtUvFMq6q7FRX1nHC), [Rav](https://open.spotify.com/artist/6oeSQ4qmDQ7n89Rdt6tLLn), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [THINGS WILL GET MUCH WORSE FROM HERE](https://open.spotify.com/album/6zMW8NWMPGKCquI0m2ZPiw) | 3:18 | 2024-07-16 | 2024-07-18 |
 | [Things You Didn't Know](https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Things You Didn't Know](https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh) | 2:51 | 2024-06-04 | 2024-06-06 |
 | [Think About Me](https://open.spotify.com/track/0zQML88ikX1Fm2WDxmXNIi) | [Ryley Tate Wilson](https://open.spotify.com/artist/2q2xVblDrphXyACfAzMWPq) | [Think About Me](https://open.spotify.com/album/4hpnAQy0ftPYAP6xIlquaM) | 3:08 | 2024-10-04 | 2024-10-06 |
+| [Thinkin Bout You](https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Thinkin Bout You](https://open.spotify.com/album/2fsXOXjqbWThZEfTLJL3xH) | 4:10 | 2026-02-15 |  |
 | [Thinkin Too Much](https://open.spotify.com/track/1MgDEgmKzUKyZermAZnM2H) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Thinkin Too Much](https://open.spotify.com/album/6sN5Bsgkl5MG9y1cpq8s2w) | 3:16 | 2024-09-06 | 2024-09-11 |
 | [Thinking About You](https://open.spotify.com/track/0jRa46cR41F2r5liiHQblD) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Thinking About You](https://open.spotify.com/album/5EHtfFanIuTsXqKjvjgikB) | 3:07 | 2024-09-12 | 2024-09-18 |
 | [Thinking Of You](https://open.spotify.com/track/7tO4gkdJKHafJQMdJaWqZn) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Thinking Of You](https://open.spotify.com/album/4hGH6AI9QU7Anjc2D9yZON) | 2:27 | 2025-02-15 | 2025-02-24 |

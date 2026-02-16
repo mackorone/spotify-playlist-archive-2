@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-490 songs - 1 day 5 hr 38 min
+492 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Beg Friends](https://open.spotify.com/track/0n9fISPJ3M0PFGSVpbyr8V) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Milano Downtown II EP](https://open.spotify.com/album/2Qi53oRE6agb5bC8qHgszH) | 3:39 | 2023-05-14 | 2023-06-12 |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-04-23 | 2023-05-15 |
 | [Believe In Music](https://open.spotify.com/track/3xZcJMwrpm65gGTfA3ngL1) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Believe In Music](https://open.spotify.com/album/0Ylixg5nZtbN9HCeRdxb3n) | 3:08 | 2023-03-19 | 2023-04-10 |
+| [Benidorm: Sunset of Energy](https://open.spotify.com/track/3awAR9IEe2iPn9zOVZ8kMo) | [THE KING YOUTHFULNESS](https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py) | [Benidorm: Sunset of Energy](https://open.spotify.com/album/0dfJlPrqVfHNFXmRxMij1g) | 4:02 | 2026-02-15 |  |
 | [Big Smoke's](https://open.spotify.com/track/59UkpYdovZOPwPFxJ7QfKB) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Big Smoke's](https://open.spotify.com/album/5uKIp5xDZLpo0bEGC8VygF) | 2:21 | 2024-10-13 |  |
 | [Bigger Than Prince \- Classmatic Remix](https://open.spotify.com/track/488VEVK9VNBdsK75fAwjZE) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m) | [Bigger Than Prince \(Classmatic Remixes\)](https://open.spotify.com/album/0vX688Q6D6Bo547Y5H1B3W) | 6:55 | 2023-07-02 | 2023-07-31 |
 | [Bitches Get Money](https://open.spotify.com/track/6VAMEtST4LEJ1fKUISBVRQ) | [Jordan Moxey](https://open.spotify.com/artist/3eyf6wCeHEptQJjG2pPlV2), [Micah Baxter](https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje) | [Bitches Get Money](https://open.spotify.com/album/26PQOXmdKvnqUC6AieDQCS) | 6:30 | 2024-03-24 | 2024-05-20 |
@@ -454,6 +455,7 @@
 | [Toxic](https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Toxic](https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP) | 3:00 | 2023-03-19 | 2023-04-10 |
 | [Trankilo](https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trankilo](https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt) | 3:07 | 2023-05-14 | 2023-06-12 |
 | [Trees](https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Trees](https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg) | 3:02 | 2023-05-12 | 2024-07-02 |
+| [Tres barcos y un tanbor](https://open.spotify.com/track/0tBZcqHEJFYVj43GRuH57x) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Una y libre](https://open.spotify.com/album/2psKsliiXz4A9s0a7fKIdp) | 3:39 | 2026-02-15 |  |
 | [Triky Moment](https://open.spotify.com/track/4NM9hQgxiSBuyB6e04JVsX) | [DJ Esse](https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc) | [Triky Moment](https://open.spotify.com/album/39jvciHJ6qXimS2Vhmiuam) | 5:32 | 2026-02-03 |  |
 | [Tuci Taci](https://open.spotify.com/track/08MT55tciHqmnVY8upiHFJ) | [TR3 Sound](https://open.spotify.com/artist/5pvDXe2gZvEZgxv2l2fHtf) | [Tuci Taci](https://open.spotify.com/album/7w7DYreWyk8sJ3iQiSMEid) | 3:59 | 2026-01-21 |  |
 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-10-13 |  |

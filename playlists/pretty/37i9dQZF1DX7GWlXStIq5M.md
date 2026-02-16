@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,245 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,230 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 17 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
 | 18 | [SOL](https://open.spotify.com/track/56NV29o2ezN1IgV2liRIqq) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [SOL](https://open.spotify.com/album/52ZbwJMz9J7ZoqjxoFIUjs) | 2:55 |
 | 19 | [MEU FI](https://open.spotify.com/track/2g2jgVqx4Bn7SLCAM2EPsP) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [MEU FI](https://open.spotify.com/album/0Hlp4I7AHtMabfVEtA8pi7) | 2:41 |
-| 20 | [Body Splash](https://open.spotify.com/track/04z79Yu5AMvCcxqZYJnmVf) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Perfumes e Cigarros](https://open.spotify.com/album/5oZDe1sGUZ2cLaMH0FuIVa) | 2:25 |
-| 21 | [exausta](https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX) | [GIOLI](https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd) | [baseado em surtos reais](https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC) | 2:19 |
-| 22 | [Me Deixa Partir](https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi) | [Me Deixa Partir](https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk) | 2:54 |
-| 23 | [2003](https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM) | [2003](https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR) | 3:00 |
-| 24 | [História para dois](https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [História para dois](https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp) | 3:18 |
+| 20 | [História para dois](https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [História para dois](https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp) | 3:18 |
+| 21 | [Body Splash](https://open.spotify.com/track/04z79Yu5AMvCcxqZYJnmVf) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Perfumes e Cigarros](https://open.spotify.com/album/5oZDe1sGUZ2cLaMH0FuIVa) | 2:25 |
+| 22 | [exausta](https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX) | [GIOLI](https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd) | [baseado em surtos reais](https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC) | 2:19 |
+| 23 | [Me Deixa Partir](https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi) | [Me Deixa Partir](https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk) | 2:54 |
+| 24 | [2003](https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM) | [2003](https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR) | 3:00 |
 | 25 | [Quase](https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Quase](https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z) | 2:40 |
 | 26 | [Impostor](https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Impostor](https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri) | 3:09 |
 | 27 | [Desassossego](https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Desassossego](https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy) | 2:56 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 36 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 |
 | 37 | [Teu Namorado, Meu Amor](https://open.spotify.com/track/36Gbx4NYqj8aVY5VAWF0Qw) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TANTO](https://open.spotify.com/album/57GTYq4tdrM0gofJMAGF4S) | 2:30 |
 | 38 | [Canibal](https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Canibal](https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16) | 2:35 |
-| 39 | [Não pense](https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não pense](https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug) | 2:55 |
-| 40 | [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 |
+| 39 | [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 |
+| 40 | [Não pense](https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não pense](https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug) | 2:55 |
 | 41 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 |
 | 42 | [sera que esse é mesmo o nosso fim?](https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [BASEADO EM FATOS REAIS \(menos as partes que eu inventei\)](https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1) | 3:03 |
 | 43 | [viciado em mim](https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [viciado em mim](https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg) | 3:14 |

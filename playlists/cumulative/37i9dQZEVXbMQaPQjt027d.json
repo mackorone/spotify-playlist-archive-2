@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 191142,
       "name": "AI",
       "url": "https://open.spotify.com/track/6KJndywGirkvLOBm2QCBDR"
@@ -3993,6 +3993,32 @@
     },
     {
       "album": {
+        "name": "Doe Maar",
+        "url": "https://open.spotify.com/album/1tZ2LLBIawSYfhcalfYDRv"
+      },
+      "artists": [
+        {
+          "name": "Dansado & De Feestmeester",
+          "url": "https://open.spotify.com/artist/1Mkig7lvNqKA8Z6QAKy8vG"
+        },
+        {
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Doe Maar",
+      "url": "https://open.spotify.com/track/29JcOMyinCk92BmIw1lBF5"
+    },
+    {
+      "album": {
         "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
       },
@@ -4488,7 +4514,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 184150,
       "name": "Euhj!",
       "url": "https://open.spotify.com/track/2Og1hNc7k1ta1vUu1vnwEc"
@@ -5302,7 +5328,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 219404,
       "name": "Gans D'r Aaf",
       "url": "https://open.spotify.com/track/6WwzYBxXAgBHF44tmZxPRk"
@@ -8272,7 +8298,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 187734,
       "name": "Laat Het Klinken",
       "url": "https://open.spotify.com/track/37M7RBRHVusIZgvjeLfcUH"
@@ -11024,6 +11050,24 @@
       "duration_ms": 219000,
       "name": "Oeteldonk Met Jou",
       "url": "https://open.spotify.com/track/2Urevob1PzRlHazFLyCmaQ"
+    },
+    {
+      "album": {
+        "name": "Oeteldonk, Gaode Mee?",
+        "url": "https://open.spotify.com/album/0t20lGOflPmoqDsq9uOprf"
+      },
+      "artists": [
+        {
+          "name": "Vaneiges & Uwes",
+          "url": "https://open.spotify.com/artist/4mc3fxbFYTytemGwMEpPza"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217285,
+      "name": "Oeteldonk, Gaode Mee?",
+      "url": "https://open.spotify.com/track/3zAk2tg27m5EbWjHradY3G"
     },
     {
       "album": {
@@ -14871,6 +14915,24 @@
     },
     {
       "album": {
+        "name": "Carnaval in Oeteldonk, Deel 2",
+        "url": "https://open.spotify.com/album/4OV7woiwEwLHIqBPhjqhfJ"
+      },
+      "artists": [
+        {
+          "name": "De Stipkes",
+          "url": "https://open.spotify.com/artist/0MKcLfCW2dKrgdCoajnizy"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Unne Spijker In Munne Kop",
+      "url": "https://open.spotify.com/track/51vFxnUVoVeSL3XU0OI86F"
+    },
+    {
+      "album": {
         "name": "Unshaken",
         "url": "https://open.spotify.com/album/5esDxI1Ii86YJV3O3P1p9R"
       },
@@ -15944,7 +16006,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 156190,
       "name": "We Slaon Deur!",
       "url": "https://open.spotify.com/track/7pJejvEBgG7aPamIxGIWtN"

@@ -3727,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "Blue Neighbourhood",
+        "url": "https://open.spotify.com/album/64AUWuw7LstVHT40CmFVg4"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204347,
+      "name": "SWIMMING POOLS",
+      "url": "https://open.spotify.com/track/18mCnmIVtNQoQTMs9AclYh"
+    },
+    {
+      "album": {
         "name": "Singular Act II",
         "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
       },

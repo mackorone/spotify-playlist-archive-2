@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,045 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,075 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [HELLO](https://open.spotify.com/track/6dPD9wvY94z8rGdVOOOUU3) | [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [HELLO](https://open.spotify.com/album/3vDZNr1zxHyCxxYwJYDw0E) | 2:24 |
 | 100 | [Hard Place](https://open.spotify.com/track/41dfDQhs1jsqwqVwdvqk6F) | [Jaye King](https://open.spotify.com/artist/2Wk5lQeZnMmCpgXSqwe4cb) | [Hard Place](https://open.spotify.com/album/77KiIY58pSXNuFAWO6G1jM) | 3:22 |
 
-Snapshot ID: `AAAAAOgbyztmAWdLDmUGG5nyAlROAC/+`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`

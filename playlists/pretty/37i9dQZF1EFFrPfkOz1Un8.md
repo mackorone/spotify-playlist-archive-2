@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 27 | [Prey](https://open.spotify.com/track/18LlKZ31XlvDOpMK6NAAZs) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 3:05 |
 | 28 | [Mariah Carey](https://open.spotify.com/track/2DXyt4lQL2ACjzvZ0QN8AO) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Teeway](https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 4:07 |
 | 29 | [100K](https://open.spotify.com/track/5uWkFrjcqCXGWaQF82FvFG) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:59 |
-| 30 | [L.S.O.M](https://open.spotify.com/track/0mG9n0MOdSfMRHGQwE8Wxs) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 3:08 |
-| 31 | [Satellite](https://open.spotify.com/track/5Z3BpQ8jZhyDLluo5QUfWS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:39 |
+| 30 | [Satellite](https://open.spotify.com/track/5Z3BpQ8jZhyDLluo5QUfWS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:39 |
+| 31 | [L.S.O.M](https://open.spotify.com/track/0mG9n0MOdSfMRHGQwE8Wxs) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 3:08 |
 | 32 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 |
 | 33 | [Easy](https://open.spotify.com/track/0nHRORFSCvGgqlSef7Lmuc) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:42 |
 | 34 | [Rolling Deep](https://open.spotify.com/track/61F4fwBN9KzeOH3KJ2ypAu) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 2:02 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 37 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
 | 38 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `AcJrdgAAAABtD8RWVZF8N4WurItM6C7R`
+Snapshot ID: `AcJxFgAAAABF1tJj2ZXaGk85oAYCPkBS`

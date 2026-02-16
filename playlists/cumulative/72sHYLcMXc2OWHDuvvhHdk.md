@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,064 songs - 5 day 0 hr 44 min
+2,067 songs - 5 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1191,6 +1191,7 @@
 | [Never Designed](https://open.spotify.com/track/6znJGmNAOtKzVfrztEovms) | [Vixen.](https://open.spotify.com/artist/7BPOtQKLkG18zXvOClF8fB) | [Never Designed](https://open.spotify.com/album/72GIFOvRfX1wcJOHo5LMhA) | 3:09 | 2025-04-09 |  |
 | [Never Forget](https://open.spotify.com/track/36CCAICDSUn2zE8sEASqHT) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [Never Forget](https://open.spotify.com/album/2cOPbtSoU8u66kEaRTwAeL) | 3:32 | 2025-05-01 |  |
 | [Never Goodbye](https://open.spotify.com/track/3h6Q7bDB5AB53PV8Aq3Hih) | [Michelle Fabre](https://open.spotify.com/artist/5XeBIRZOoIk86dKUoq32WE) | [Never Goodbye](https://open.spotify.com/album/1uri3Fn25qMC66NNfBfApz) | 3:52 | 2025-06-03 |  |
+| [Never Lose Hope](https://open.spotify.com/track/5jcknYDx6OBKpvtzUiOm9V) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Never Lose Hope](https://open.spotify.com/album/6D41v42jSUkqUxrM9Ut6T1) | 4:14 | 2026-02-15 |  |
 | [Never Over You](https://open.spotify.com/track/2uF1jVDHSRNyd4noHCgGVk) | [Amos Waits](https://open.spotify.com/artist/4nkorbHOcrJJgEC4Q6m5qd) | [Never Over You](https://open.spotify.com/album/42yeu994jIcpnDUYh3vSng) | 3:21 | 2024-05-28 |  |
 | [Never want to see you go](https://open.spotify.com/track/1ZgnDFbSuJVNJZnH3Ni2t3) | [Jorge Left](https://open.spotify.com/artist/06dG8OvsSwojI1BplLj8YG) | [Never want to see you go](https://open.spotify.com/album/4Y2cKhxP7hatAbyl22GovV) | 3:15 | 2025-10-13 |  |
 | [New Direction, Same Path](https://open.spotify.com/track/6ApyGhohhA4Jn8rjbH702b) | [willowed](https://open.spotify.com/artist/5o2YW4HKfS8fWumXu3TtPb) | [New Direction, Same Path](https://open.spotify.com/album/497smbbwSlkillcl2hAOEX) | 3:46 | 2024-09-05 |  |
@@ -1335,6 +1336,7 @@
 | [Pieces](https://open.spotify.com/track/1EBPbxrJlYR3ekbdCdpYZN) | [Wishwell](https://open.spotify.com/artist/4ujbmiDbRtguC5T4JecZgv), [Tiffany Williams](https://open.spotify.com/artist/21DZ6Myx7CXRDur7ELXpxu) | [Pieces](https://open.spotify.com/album/2V9iXZ0apHdJFUbsZrHcgL) | 3:45 | 2024-12-17 |  |
 | [Pies Desnudos](https://open.spotify.com/track/5Hygwm39zwlZitGHmI28sl) | [Paz Aguado](https://open.spotify.com/artist/2gcStVZEhytMWknRl11cPJ) | [Materia Sutil](https://open.spotify.com/album/31bnxBO5BL82IQVqyEOUnE) | 4:08 | 2025-03-26 |  |
 | [Pirate of the River](https://open.spotify.com/track/5ydPvEvDNnw4V9m4zfUMHv) | [ApuBaten](https://open.spotify.com/artist/0GMJNhdnYVH4CuPFMRaK6o) | [Pirate of the River](https://open.spotify.com/album/17xNEY9tFB7mwYVEOLd3Pp) | 5:02 | 2024-11-20 |  |
+| [Place a Letter On My Front Porch](https://open.spotify.com/track/1dcYIs1kPh3LWkmXw34ndE) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [The Moon Loses Its Memory](https://open.spotify.com/album/7HA63McJqMeqENqRPH8fxo) | 2:44 | 2026-02-15 |  |
 | [Planetóide](https://open.spotify.com/track/16ifP8B3jYy3IW4f7QOhwV) | [Marcelo Gênesi](https://open.spotify.com/artist/0S9IPnWLqnUN6AcXkB3Nq3) | [Planetóide](https://open.spotify.com/album/78ayogfaxDJM0bIlpvQSyG) | 2:56 | 2025-09-22 | 2025-12-14 |
 | [Planting Lies](https://open.spotify.com/track/1RupRobeRR4wnYC1ToofkH) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:17 | 2025-12-17 |  |
 | [Plausible Outcomes](https://open.spotify.com/track/3AmYQYL9SDFL5y8al5voIF) | [Mellodrift](https://open.spotify.com/artist/2hTrhS4Os03qd9yIjraTJi), [Lucky Quinn](https://open.spotify.com/artist/4xNbI8IKN5HjywyEIUNjOZ) | [Plausible Outcomes](https://open.spotify.com/album/3lWW0j0fbQs7CbRaO9Or2O) | 3:31 | 2024-09-13 |  |
@@ -1508,6 +1510,7 @@
 | [Shake the Ghost](https://open.spotify.com/track/1NgSNgyLprpVCKEYkV3aDG) | [The Standalones](https://open.spotify.com/artist/69RIKi290wO27FWiBZbe9l) | [Shake the Ghost](https://open.spotify.com/album/2X1znrFw9JPw5PQiaFRQmD) | 3:20 | 2025-05-30 |  |
 | [Shape Of The Moon](https://open.spotify.com/track/5jGgJ8oIEzI3yBXhGmX9av) | [Bas Phaff](https://open.spotify.com/artist/0MHkEC2S9HVtsseYqsqOLM) | [Shape Of The Moon](https://open.spotify.com/album/6x81aGFkV5UXADaGbA6M5E) | 4:56 | 2024-09-16 |  |
 | [Shattered Pieces \- Remastered 2026](https://open.spotify.com/track/0GsmUiID1NhxGPrlBGGxk5) | [Riot Hype](https://open.spotify.com/artist/6AkTxR6fyVtmtsXJ6IBMeK) | [Tomorrow Is The Future](https://open.spotify.com/album/5tiAe9vkPgvOzNZ7muVBLb) | 2:34 | 2026-02-12 |  |
+| [Shelter](https://open.spotify.com/track/5mbIvVa9BqGVMQKuKIPLJ9) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK) | [Bandit](https://open.spotify.com/album/7h6P4JCcsW6koM2pA7xS86) | 2:12 | 2026-02-15 |  |
 | [Shifting Patterns](https://open.spotify.com/track/6rDDsg8bQj07Fe4Gk5NCDm) | [OWOTIMI](https://open.spotify.com/artist/5ni7imvHrISA9owAnLlXBK) | [CHRISTIAN BREATHE](https://open.spotify.com/album/576WYFXeKGQ8ZMSOfrxzzF) | 9:02 | 2025-06-26 |  |
 | [Shifting sands](https://open.spotify.com/track/7ur1asyOxPAY05E8trf0wj) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa), [Erica van der meer](https://open.spotify.com/artist/0tGUuhbmVkVj3nU8olGAnN) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:34 | 2026-01-07 |  |
 | [Shimmer](https://open.spotify.com/track/0qSH6ZyPsYOW03t9aRskuY) | [SHINE](https://open.spotify.com/artist/6A2NPUfmiDxT6Ujluf0BWS) | [The Final Hour / Shimmer](https://open.spotify.com/album/5rdIqDBjND90sHNKix1tSS) | 3:40 | 2025-06-30 |  |

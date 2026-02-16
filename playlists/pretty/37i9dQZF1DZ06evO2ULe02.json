@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1956,
+  "num_followers": 1955,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY5pgAAAAAAs0D8mFmR1BR5M1iqgQY7V",
+  "snapshot_id": "aY+7AAAAAAC7NEg9BS2VKjqsR2tnSrOS",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Alright If You're Ok",
-        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 171938,
-      "name": "I Can't Be Your Friend",
-      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
+      "duration_ms": 189954,
+      "name": "Twenty Something",
+      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
+        "name": "I'm Alright If You're Ok",
+        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 189954,
-      "name": "Twenty Something",
-      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
+      "duration_ms": 171938,
+      "name": "I Can't Be Your Friend",
+      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
     },
     {
       "added_at": null,

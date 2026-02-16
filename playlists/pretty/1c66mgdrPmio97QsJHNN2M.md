@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,022 likes - 287 songs - 15 hr 41 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,027 likes - 290 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 143 | [The Words I Long to Hear](https://open.spotify.com/track/1fjvhuFe5j8ROTTqwD1lUj) | [JUBER](https://open.spotify.com/artist/2Ldv7X6rb1DX2wmCkCmgDe) | [Dreams from a Future Morning](https://open.spotify.com/album/1hMTmOufP5NLVk85YueuVR) | 2:52 |
 | 144 | [You & I](https://open.spotify.com/track/0srq2xzwoudYMxfratuopQ) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg) | [You & I](https://open.spotify.com/album/3ytTYTmMKZG4EZnxcYVffM) | 3:11 |
 | 145 | [Hunnit Dolla Beater](https://open.spotify.com/track/4ACq9aYOifgFzRdkyVGPuo) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [What Happens On Earth...](https://open.spotify.com/album/6BcrIJf4D3A53w6gjgaC28) | 2:44 |
-| 146 | [Dying Flame](https://open.spotify.com/track/0VjAOUiuSeAfK24gVTCbeo) | [Jasmine Rose](https://open.spotify.com/artist/4XZnwrC1cpkZ0xnqUNybaK) | [Resurgence](https://open.spotify.com/album/7h0HIIjGnwtKqoWLkhpXR0) | 2:40 |
+| 146 | [Dying Flame](https://open.spotify.com/track/0VjAOUiuSeAfK24gVTCbeo) | [AELUNÄ](https://open.spotify.com/artist/0DypoVnQNi99CHpKXDCwGi) | [Resurgence](https://open.spotify.com/album/7h0HIIjGnwtKqoWLkhpXR0) | 2:40 |
 | 147 | [Another Lie \- Heavenly Version](https://open.spotify.com/track/5Hz4FYIvuOxxkA1DQ8nlzB) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [Another Lie \(Heavenly Version\)](https://open.spotify.com/album/3iMirtIWLRklszj7pZtQja) | 2:38 |
 | 148 | [Are We Done](https://open.spotify.com/track/5kUB6dU77aA60LB7Eg0Mlf) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [Are We Done](https://open.spotify.com/album/5P3XNaZLZM5nxjkRAUHoy5) | 3:22 |
 | 149 | [All Your Love](https://open.spotify.com/track/5gL8PTkvYoUaPSQ5PKljP6) | [Radi](https://open.spotify.com/artist/3FYt7Gt6Npd3JdlwRt4JfV) | [All Your Love](https://open.spotify.com/album/1NHrglyoy3FvgaXbyvd6By) | 3:29 |
@@ -295,5 +295,8 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 285 | [To an End](https://open.spotify.com/track/3j7RCrQNnkOfwwYHkhq5Zs) | [Bloedwolfe](https://open.spotify.com/artist/6bRADsQJmEIus2opGbF60s) | [To an End](https://open.spotify.com/album/1PjY0NASFEnUpODTKHiAW8) | 3:12 |
 | 286 | [Downturn](https://open.spotify.com/track/0xg5sZ4gdmelYZVNECr4bU) | [Bloedwolfe](https://open.spotify.com/artist/6bRADsQJmEIus2opGbF60s) | [Downturn](https://open.spotify.com/album/7u0fj9yzT3oJlgNVtRPJug) | 4:17 |
 | 287 | [Deep Calm](https://open.spotify.com/track/20QoKpAlMZvNGsz1EMeo1k) | [Bloedwolfe](https://open.spotify.com/artist/6bRADsQJmEIus2opGbF60s) | [Deep Calm](https://open.spotify.com/album/3ffNoIURr20NL98222nuL6) | 4:33 |
+| 288 | [Whole Lotta Love](https://open.spotify.com/track/5JV6MnKaMlepSkOdi2fbsK) | [SXY](https://open.spotify.com/artist/7EENHjR09hCFj4wDM8NZCK) | [Whole Lotta Love](https://open.spotify.com/album/4FcVuEzrVjtOr1RzRuvH7B) | 3:12 |
+| 289 | [Tipsy Swervy](https://open.spotify.com/track/5ibziDe1KxPtWzQ9BVz1YU) | [MysticLyraBee](https://open.spotify.com/artist/0ggzaUTvzhofdbfqMFCg49) | [Tipsy Swervy](https://open.spotify.com/album/2Wm2Hvq0SKPy1IUo2ErFR5) | 3:14 |
+| 290 | [If It Ends Tonight](https://open.spotify.com/track/3gySmDvuG4kb6HelhHy9j8) | [Gabriel Mikhna](https://open.spotify.com/artist/3AJwpSTmn3JuP9oKlV65me) | [If It Ends Tonight](https://open.spotify.com/album/7a5QwZmZGXOP2aefsf6aL4) | 2:35 |
 
-Snapshot ID: `AAA0tfmFRQbajbTU5qrb05EJrcEu6rmO`
+Snapshot ID: `AAA0uDkGo5E9mV/n7CPlFzvK2xjBGe9I`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov:  \~Seoul\~ searching with your besties, curated by Anna Cathcart \. Cover: XO, Kitty cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,358 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,389 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

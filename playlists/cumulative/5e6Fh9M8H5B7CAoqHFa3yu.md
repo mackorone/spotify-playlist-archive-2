@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,869 songs - 4 day 16 hr 9 min
+1,871 songs - 4 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [4:20](https://open.spotify.com/track/0Q91CUgcx43dgZio77W5Pq) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [4:20](https://open.spotify.com/album/5JTdhKilGQNGu4HDvBH3Tv) | 2:10 | 2026-02-05 |  |
 | [5 Minut](https://open.spotify.com/track/6SHOTKu7EGi6qG10MWyuya) | [2Bband](https://open.spotify.com/artist/5W4QkA1mEehyEUZpA9vmcW) | [5 Minut](https://open.spotify.com/album/5SOCBVd2iOjXzURnculaNB) | 3:50 | 2025-09-23 |  |
 | [55](https://open.spotify.com/track/2bENfywXfGpfBV0xwkmq15) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:47 | 2025-12-01 |  |
+| [55 \- LIVE AT THE PUB](https://open.spotify.com/track/6jpq4vj7TZkaluHVXAyGRI) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [55 \(LIVE AT THE PUB\)](https://open.spotify.com/album/1hrXFpMzVuc123vDXFhTTI) | 3:33 | 2026-02-15 |  |
 | [66 Strade](https://open.spotify.com/track/5c8YEi7NLOwg8mYh29JYiw) | [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [66 Strade](https://open.spotify.com/album/29C32bXeqU7FkMNczhDXPS) | 2:31 | 2024-06-06 |  |
 | [A Bailar](https://open.spotify.com/track/6HAIXssqvqN9v57U7fVfAh) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [A Bailar](https://open.spotify.com/album/3lN9NRN5WGjpMOHNrKqvXq) | 4:00 | 2023-09-30 |  |
 | [A Billion Odd People](https://open.spotify.com/track/6wJ6gzLGl1DprCHPyYRoNY) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Origin Story](https://open.spotify.com/album/2oHLJbwU2kl9ZTlBCgHhUQ) | 3:27 | 2025-07-02 |  |
@@ -1647,6 +1648,7 @@
 | [thē kĭñg](https://open.spotify.com/track/5Q9a6rG87XjIokFB6rumeb) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:48 | 2024-03-04 |  |
 | [TI DICO IO COSA C'È](https://open.spotify.com/track/3gkpbrEJL2HmhLBnn7c2Uf) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [TI DICO IO COSA C'È](https://open.spotify.com/album/64GcefvGGpbarC1Y5eEBci) | 4:04 | 2025-10-19 |  |
 | [TIGER JACK](https://open.spotify.com/track/3ApnSYtFjH8w7F84JBNuNZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TIGER JACK](https://open.spotify.com/album/55m9dQFjOKGHwNPccvPwSj) | 3:26 | 2025-11-14 |  |
+| [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-02-15 |  |
 | [Time of the Season \- Mono Remastered](https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle \(Mono Remastered\)](https://open.spotify.com/album/1Rad3I77vbl5L65DjbSIzJ) | 3:30 | 2025-10-01 |  |
 | [Time Slips Away](https://open.spotify.com/track/65vKyPGbuAmYwdMSiRlAPg) | [DiaZero](https://open.spotify.com/artist/7o5pN1XmIndmtyoBGNJ1Fa) | [Time Slips Away](https://open.spotify.com/album/3C8elZHA5p4Y4eLZbBO9NM) | 4:10 | 2025-10-26 |  |
 | [Tiny Speck](https://open.spotify.com/track/6kPjfKphSOuffaeXzGRBZN) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Un Mal Menor](https://open.spotify.com/album/2YVnJHNShcNAkedJq4GJl3) | 3:26 | 2025-07-27 |  |

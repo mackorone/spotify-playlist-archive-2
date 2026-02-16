@@ -3839,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "I'm From Africa",
+        "url": "https://open.spotify.com/album/5CMvHn6oy2Xk8YyuoSniqh"
+      },
+      "artists": [
+        {
+          "name": "Chris Kellah",
+          "url": "https://open.spotify.com/artist/6KHK8bvEQe9wmK7QnIPh37"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "I'm From Africa",
+      "url": "https://open.spotify.com/track/6oJCPKk3jtduUFincL3Gh8"
+    },
+    {
+      "album": {
         "name": "I'm Not in Your Mind",
         "url": "https://open.spotify.com/album/6XXiod2gIxmQ7ekD4Ry7eM"
       },

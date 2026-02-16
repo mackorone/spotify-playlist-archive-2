@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,066 songs - 3 day 16 hr 17 min
+1,067 songs - 3 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -869,7 +869,7 @@
 | [Sonder](https://open.spotify.com/track/2YxnaInOpa7nQ7zoJjyTYB) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Sonder](https://open.spotify.com/album/55821Gkol2dnYOQIxtQpve) | 8:00 | 2021-04-21 | 2022-07-29 |
 | [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 | 2024-09-20 | 2025-08-30 |
 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 | 2023-02-10 | 2023-04-10 |
-| [Sound Of The Sunrise](https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Sound Of The Sunrise](https://open.spotify.com/album/2edg227641w0qF8GX65k0R) | 3:13 | 2025-11-14 |  |
+| [Sound Of The Sunrise](https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Sound Of The Sunrise](https://open.spotify.com/album/2edg227641w0qF8GX65k0R) | 3:13 | 2025-11-14 | 2026-02-16 |
 | [Spirale](https://open.spotify.com/track/1NTl2IqpGs7iwKo2fl4boF) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Spirale](https://open.spotify.com/album/2NcaYhLVadAjKpD2DKlYHb) | 6:48 | 2021-04-21 | 2022-07-21 |
 | [Square Sounds](https://open.spotify.com/track/1oG7I9AOjU2aYmrbNirfJB) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Square Sounds](https://open.spotify.com/album/2lUgwsssbuopFPQNnZ3xhG) | 6:26 | 2022-07-01 | 2022-07-23 |
 | [Star Tripper](https://open.spotify.com/track/17httCRML11JQcFn0ng40I) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Star Tripper](https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V) | 4:53 | 2022-02-11 | 2022-04-23 |
@@ -920,6 +920,7 @@
 | [Teti](https://open.spotify.com/track/0irwGiZpPVrODCo5FqDolb) | [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [Satelliti](https://open.spotify.com/album/1tT8txa3ua7bxGj8wfgWKa) | 6:21 | 2021-04-30 | 2022-07-28 |
 | [Tha Music](https://open.spotify.com/track/6GRltnShKJ3r7sgwqGBi9V) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [FaCet, Vol\. 1.1](https://open.spotify.com/album/6TvEEGV40m8LSdFiIOGh50) | 7:15 | 2023-02-24 | 2023-03-14 |
 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 | 2024-03-15 | 2025-01-11 |
+| [The Answer](https://open.spotify.com/track/6M8cnLqv9XJBb9XTxMdwn5) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [The Answer](https://open.spotify.com/album/4ySrNFGuhu4uJfFLwxAq7v) | 3:40 | 2026-02-13 |  |
 | [The Beginning](https://open.spotify.com/track/1lgZRp60xplBwhzGboUwnM) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Nocturnal 007 \(Part I\)](https://open.spotify.com/album/6z0v4pBxXUb9PgmwTPVISf) | 4:02 | 2021-12-10 | 2022-07-28 |
 | [The Black Dream](https://open.spotify.com/track/5EOSz05uxwecWAT6ajXt69) | [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [The Black Dream](https://open.spotify.com/album/2UsqTXVahxb1PCE1DuiXSP) | 4:20 | 2025-05-02 | 2025-08-02 |
 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 | 2023-08-25 | 2024-11-09 |

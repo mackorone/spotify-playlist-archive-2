@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Ezequiel Arias
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,751 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,750 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 8 | [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 |
 | 9 | [Everlong](https://open.spotify.com/track/7ybOmTVLV4I6ZwzyabBjZq) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Everlong / Lies](https://open.spotify.com/album/34Drpugegb65VUOcNCjvFj) | 7:13 |
 | 10 | [lo que pase \(feat\. Trueno\) \- Muter Remix](https://open.spotify.com/track/7585ieV3yv12vwh5Qn1G9V) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase \(feat\. Trueno\) \[Muter Remix\]](https://open.spotify.com/album/4EfCkFlGiBW45WezCqIuA6) | 3:50 |
-| 11 | [Trama \- MAUFONK Remix](https://open.spotify.com/track/66rwtF0BTlbh1qQjbmlP0Q) | [Closed I](https://open.spotify.com/artist/7IKZu4j5vGyS3nKWVj3qoy), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1), [MAUFONK](https://open.spotify.com/artist/1kq71DoWxjCGR4FZu8JGEo) | [Trama EP \- THE REMIXES](https://open.spotify.com/album/7cWjiUDF1ELTigFjBcMoJX) | 5:39 |
+| 11 | [Trama \- MAUFONK Remix](https://open.spotify.com/track/66rwtF0BTlbh1qQjbmlP0Q) | [Closed I](https://open.spotify.com/artist/7IKZu4j5vGyS3nKWVj3qoy), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1), [MAUFONK](https://open.spotify.com/artist/1kq71DoWxjCGR4FZu8JGEo) | [Trama EP \(THE REMIXES\)](https://open.spotify.com/album/7cWjiUDF1ELTigFjBcMoJX) | 5:39 |
 | 12 | [ESTANDO ACÁ CONMIGO](https://open.spotify.com/track/334HYl5dDYcqBferXw4wlA) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Antonio Algo](https://open.spotify.com/artist/3WAjQy7hVFE3aEQNKqTlWO), [Pinot Negro](https://open.spotify.com/artist/0QzHyydsqetbxMARzY2ywo) | [01\. EPIDERMIS](https://open.spotify.com/album/6zSlCWl8UhIHpJVtxUoLip) | 3:42 |
 | 13 | [My Requiem](https://open.spotify.com/track/4AVtGocGEvcMuY0fAX4ePD) | [Gaston Fiore](https://open.spotify.com/artist/3uqt6nGempzAwX3uap01qn) | [Ceibora Igniflora](https://open.spotify.com/album/4uAUjyubenGKFMd1ezfC4H) | 4:39 |
 | 14 | [Cicuta \- Spotify Sessions](https://open.spotify.com/track/3CV9QpKGJJxtimW0jDOODi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 4:16 |

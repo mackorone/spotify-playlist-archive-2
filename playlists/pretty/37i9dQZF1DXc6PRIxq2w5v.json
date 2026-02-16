@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Mc Davi",
-  "num_followers": 188909,
+  "num_followers": 188950,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -139,38 +139,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Imperfeito",
-        "url": "https://open.spotify.com/album/3AoNZ1WIUMA7tlZomjZciU"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 186705,
-      "name": "Imperfeito",
-      "url": "https://open.spotify.com/track/6FYy3jpDumHEYTiEk7zF2S"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Guardado",
-        "url": "https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Guardado",
-      "url": "https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Folha em Branco",
         "url": "https://open.spotify.com/album/7yXAdF64otcKyWcVTDMFBh"
       },
@@ -191,6 +159,38 @@
       "duration_ms": 259672,
       "name": "Folha em Branco",
       "url": "https://open.spotify.com/track/3CkZRDRAZN8QvHZrwfxf9c"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Guardado",
+        "url": "https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Guardado",
+      "url": "https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Imperfeito",
+        "url": "https://open.spotify.com/album/3AoNZ1WIUMA7tlZomjZciU"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 186705,
+      "name": "Imperfeito",
+      "url": "https://open.spotify.com/track/6FYy3jpDumHEYTiEk7zF2S"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -235,18 +235,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Detalhes",
-        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/6m279kroAwu9aJW20ETWmv"
       },
       "artists": [
         {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         }
       ],
-      "duration_ms": 198267,
-      "name": "Detalhes",
-      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
+      "duration_ms": 154300,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/7KaAZJxdFRSW8FTDkJZfcV"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -267,22 +271,18 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Cicatrizes",
-        "url": "https://open.spotify.com/album/6m279kroAwu9aJW20ETWmv"
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
       },
       "artists": [
         {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
         }
       ],
-      "duration_ms": 154300,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/7KaAZJxdFRSW8FTDkJZfcV"
+      "duration_ms": 198267,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -319,18 +319,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
+        "name": "Bora!",
+        "url": "https://open.spotify.com/album/7GpPt1xHzTITfL6plwT4UK"
       },
       "artists": [
         {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
         }
       ],
-      "duration_ms": 138187,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
+      "duration_ms": 166422,
+      "name": "Bora!",
+      "url": "https://open.spotify.com/track/2lnWfa0R9KZ8147z7ee6Sk"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -351,22 +355,18 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Bora!",
-        "url": "https://open.spotify.com/album/7GpPt1xHzTITfL6plwT4UK"
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
       },
       "artists": [
         {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
-        },
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
         }
       ],
-      "duration_ms": 166422,
-      "name": "Bora!",
-      "url": "https://open.spotify.com/track/2lnWfa0R9KZ8147z7ee6Sk"
+      "duration_ms": 138187,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -435,18 +435,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT"
+        "name": "Quero Voltar",
+        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
       },
       "artists": [
         {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 162991,
-      "name": "Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj"
+      "duration_ms": 174375,
+      "name": "Quero Voltar",
+      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -467,22 +471,38 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Quero Voltar",
-        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
+        "name": "Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT"
       },
       "artists": [
         {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Quero Voltar",
-      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
+      "duration_ms": 162991,
+      "name": "Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
+        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
+      },
+      "artists": [
+        {
+          "name": "patetacodigo43",
+          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
+        },
+        {
+          "name": "Dj Samu AKA Suguiura",
+          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+        }
+      ],
+      "duration_ms": 280028,
+      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
+      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -527,26 +547,6 @@
       "duration_ms": 326028,
       "name": "Amor \u00c1gape",
       "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
-        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
-      },
-      "artists": [
-        {
-          "name": "patetacodigo43",
-          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
-        },
-        {
-          "name": "Dj Samu AKA Suguiura",
-          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
-        }
-      ],
-      "duration_ms": 280028,
-      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
-      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "1 Jo\u00e3o 4:18",
-        "url": "https://open.spotify.com/album/73renOoWwTlCUxzX6wMdjn"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        }
-      ],
-      "duration_ms": 166833,
-      "name": "1 Jo\u00e3o 4:18",
-      "url": "https://open.spotify.com/track/3UmAeX6ip7euxUQ8kBXSJ5"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 197538,
       "name": "Flame",
       "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "1 Jo\u00e3o 4:18",
+        "url": "https://open.spotify.com/album/73renOoWwTlCUxzX6wMdjn"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 166833,
+      "name": "1 Jo\u00e3o 4:18",
+      "url": "https://open.spotify.com/track/3UmAeX6ip7euxUQ8kBXSJ5"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Renuncio o Meu Eu",
-        "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 190408,
-      "name": "Renuncio o Meu Eu",
-      "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Medo",
         "url": "https://open.spotify.com/album/4Wep3P2OJihAOvsWbXIMm0"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 272230,
       "name": "Medo",
       "url": "https://open.spotify.com/track/1DfElz56bAKqzyxNGqR30v"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Renuncio o Meu Eu",
+        "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 190408,
+      "name": "Renuncio o Meu Eu",
+      "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -935,8 +935,8 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+        "name": "Momentos Dif\u00edceis",
+        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+      "duration_ms": 158081,
+      "name": "Momentos Dif\u00edceis",
+      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Momentos Dif\u00edceis",
-        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 158081,
-      "name": "Momentos Dif\u00edceis",
-      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1351,6 +1351,42 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Irris\u00f3rio",
+        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Irris\u00f3rio",
+      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Oferto Eu",
         "url": "https://open.spotify.com/album/4fm0OHbYMX1w2hWCWPpi61"
       },
@@ -1371,22 +1407,6 @@
       "duration_ms": 173142,
       "name": "Oferto Eu",
       "url": "https://open.spotify.com/track/1pGlL6OzQVRFh1B8J2Iuuv"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Irris\u00f3rio",
-        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Irris\u00f3rio",
-      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1435,26 +1455,6 @@
       "duration_ms": 169090,
       "name": "Por Onde C Andar",
       "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "777 na Mente",
+        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 165899,
+      "name": "777 na Mente",
+      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Se Anima",
         "url": "https://open.spotify.com/album/0faa1nNdzx3P1odMtra4m8"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 138139,
       "name": "Se Anima",
       "url": "https://open.spotify.com/track/1xOINsI8OIOpS8MsqyqySJ"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "777 na Mente",
-        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "777 na Mente",
-      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 187950,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Meu Primeiro Amor",
         "url": "https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 180000,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 187950,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
     },
     {
       "added_at": "2026-02-06 03:01:19",

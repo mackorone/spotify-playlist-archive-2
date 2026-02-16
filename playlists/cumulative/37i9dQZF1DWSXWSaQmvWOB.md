@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music! Cover: JELISA
+> New soul\-infused music! Cover: Baby Rose & Leon Thomas
 
 1,238 songs - 3 day 3 hr 3 min
 

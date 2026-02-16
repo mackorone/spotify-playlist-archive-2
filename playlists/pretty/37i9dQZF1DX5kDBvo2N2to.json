@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60665,
+  "num_followers": 60668,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 214705,
+      "name": "The Ambition",
+      "url": "https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "04:30",
         "url": "https://open.spotify.com/album/4NOwey7G9dr7qc5RNyJ0lQ"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 176587,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/5VT0xlntv9lzgytFTpG5Q0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 214705,
-      "name": "The Ambition",
-      "url": "https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Karaoke",
+        "url": "https://open.spotify.com/album/0VDR3UCbi9usVYcZiv5pPv"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "duration_ms": 163421,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Ton\u00e5rsdr\u00f6m",
         "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 214179,
       "name": "Ton\u00e5rsdr\u00f6m",
       "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Karaoke",
-        "url": "https://open.spotify.com/album/0VDR3UCbi9usVYcZiv5pPv"
-      },
-      "artists": [
-        {
-          "name": "KAJ",
-          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
-        }
-      ],
-      "duration_ms": 163421,
-      "name": "Karaoke",
-      "url": "https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Love is for Losers",
-        "url": "https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 204167,
-      "name": "Love is for Losers",
-      "url": "https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Vi som \u00e4r natten",
         "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 135978,
       "name": "Vi som \u00e4r natten",
       "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Love is for Losers",
+        "url": "https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "Love is for Losers",
+      "url": "https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -547,6 +547,30 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "VULKAN\u00d8",
+        "url": "https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 179917,
+      "name": "Sygeplejerske p\u00e5 nattevagt (feat. Molly Sand\u00e9n & Delara)",
+      "url": "https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Please Stay",
         "url": "https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4"
       },
@@ -559,22 +583,6 @@
       "duration_ms": 184666,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -599,26 +607,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "VULKAN\u00d8",
-        "url": "https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ"
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
       },
       "artists": [
         {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
         }
       ],
-      "duration_ms": 179917,
-      "name": "Sygeplejerske p\u00e5 nattevagt (feat. Molly Sand\u00e9n & Delara)",
-      "url": "https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW"
+      "duration_ms": 177421,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "I Rymden Finns Inga T\u00e5rar",
-        "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "Ingen Vet...",
-      "url": "https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Men du",
         "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 187500,
       "name": "Men du",
       "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "I Rymden Finns Inga T\u00e5rar",
+        "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "Ingen Vet...",
+      "url": "https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Ain\u2019t The Feeling",
+        "url": "https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "duration_ms": 165951,
+      "name": "Ain\u2019t The Feeling",
+      "url": "https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Baba Life",
         "url": "https://open.spotify.com/album/6KZ5yRxExqkWqXtZH66Gp8"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Ain\u2019t The Feeling",
-        "url": "https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 165951,
-      "name": "Ain\u2019t The Feeling",
-      "url": "https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "N\u00e4r solen g\u00e5r ner",
         "url": "https://open.spotify.com/album/00hvBlNmx8fqWKsR7L7AIQ"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 201374,
       "name": "N\u00e4r solen g\u00e5r ner",
       "url": "https://open.spotify.com/track/5ajkC6KlMFGCCuTpMTHo9E"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -979,18 +995,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4"
+        "name": "Where's My Mind",
+        "url": "https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
         }
       ],
-      "duration_ms": 181386,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
+      "duration_ms": 236747,
+      "name": "Where's My Mind",
+      "url": "https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Where's My Mind",
-        "url": "https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h"
+        "name": "Same Old Dirt",
+        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
       "artists": [
         {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 236747,
-      "name": "Where's My Mind",
-      "url": "https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu"
+      "duration_ms": 186893,
+      "name": "Same Old Dirt",
+      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1055,22 +1071,6 @@
       "duration_ms": 163269,
       "name": "om vi f\u00f6rsvann",
       "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Same Old Dirt",
-        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Same Old Dirt",
-      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "l.o.v.e",
+        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "l.o.v.e",
+      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Cutting Ties",
         "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 199133,
       "name": "Katedral Syndrom",
       "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "l.o.v.e",
-        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "l.o.v.e",
-      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "lotion",
-        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
+        "name": "YAKO",
+        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
       },
       "artists": [
         {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
         }
       ],
-      "duration_ms": 267559,
-      "name": "lotion",
-      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
+      "duration_ms": 158117,
+      "name": "Fel",
+      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "YAKO",
-        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
+        "name": "lotion",
+        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
       },
       "artists": [
         {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Fel",
-      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
+      "duration_ms": 267559,
+      "name": "lotion",
+      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1295,22 +1295,6 @@
       "duration_ms": 165998,
       "name": "I want you to be happy",
       "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Acoustics & Hood Psychedelia",
-        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
-      },
-      "artists": [
-        {
-          "name": "Bav\u00e9",
-          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
-        }
-      ],
-      "duration_ms": 168947,
-      "name": "Lover's Rock",
-      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1363,18 +1347,34 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Andra Sidan",
-        "url": "https://open.spotify.com/album/2chjQ3wm2FBXiDhu2pgTcv"
+        "name": "Acoustics & Hood Psychedelia",
+        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
         }
       ],
-      "duration_ms": 242895,
-      "name": "Andra Sidan",
-      "url": "https://open.spotify.com/track/2gnMvGyvaq5729qTsXObn6"
+      "duration_ms": 168947,
+      "name": "Lover's Rock",
+      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1395,18 +1395,34 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+        "name": "Andra Sidan",
+        "url": "https://open.spotify.com/album/2chjQ3wm2FBXiDhu2pgTcv"
       },
       "artists": [
         {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
         }
       ],
-      "duration_ms": 132500,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+      "duration_ms": 242895,
+      "name": "Andra Sidan",
+      "url": "https://open.spotify.com/track/2gnMvGyvaq5729qTsXObn6"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Bully",
-        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Isobel",
-          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Aa visst",
         "url": "https://open.spotify.com/album/2N9gFHfYGxJnLjYypFL5JZ"
       },
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5iKBc0WPYKIu8Y2sKBIgxF"
+        "name": "Lova & Skriv",
+        "url": "https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T"
       },
       "artists": [
         {
-          "name": "Bori",
-          "url": "https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id"
+          "name": "Isak Friberg",
+          "url": "https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx"
+        },
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
         }
       ],
-      "duration_ms": 95217,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy"
+      "duration_ms": 179145,
+      "name": "Lova & Skriv",
+      "url": "https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH"
     }
   ],
   "unique_name": "p\u00e5 repeat",

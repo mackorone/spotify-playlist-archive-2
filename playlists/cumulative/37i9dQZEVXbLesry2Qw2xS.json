@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -4152,7 +4152,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -10062,7 +10062,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 179142,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/4vCQhoUwXMOLuk0LUBH9vF"
@@ -14646,7 +14646,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -15100,7 +15100,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -19732,7 +19732,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -21894,7 +21894,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Igavuse teisel pool",
       "url": "https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw"
@@ -24776,6 +24776,28 @@
       "duration_ms": 201048,
       "name": "Kesk\u00f6\u00f6disko",
       "url": "https://open.spotify.com/track/5A6OAHDJDkZZvRBDOyr9hr"
+    },
+    {
+      "album": {
+        "name": "kesselaid",
+        "url": "https://open.spotify.com/album/5Xj5MBgXRVBrIy9ruIym5D"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        },
+        {
+          "name": "TIEF CITY 44",
+          "url": "https://open.spotify.com/artist/1JOcoCBg5LSeNZqNoZGozi"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "kesselaid",
+      "url": "https://open.spotify.com/track/1uMPjLjqazWiaPrk5oohaG"
     },
     {
       "album": {
@@ -39714,7 +39736,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 164640,
       "name": "push it",
       "url": "https://open.spotify.com/track/7AleqJvqrVBeQitkWntUUc"
@@ -44352,6 +44374,24 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "album": {
+        "name": "Slave",
+        "url": "https://open.spotify.com/album/4c72Z0L9Rd4j6aX3cQEkx0"
+      },
+      "artists": [
+        {
+          "name": "OLLIE",
+          "url": "https://open.spotify.com/artist/4hhNfPUZ2kBKGuseRny35w"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178148,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/2JE2BheUjQKrC00tYU4kjB"
     },
     {
       "album": {
@@ -49187,6 +49227,24 @@
     },
     {
       "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/4OMbhEjRSwyhJZ5tVF2qG9"
+      },
+      "artists": [
+        {
+          "name": "Getter Jaani",
+          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/7qAaU7kMePNg7E52DAbMqS"
+    },
+    {
+      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
@@ -50416,6 +50474,24 @@
       "duration_ms": 182326,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/3yw3m8wgRB4ptDyAvtdhq5"
+    },
+    {
+      "album": {
+        "name": "Too epic to be true / Are you ready to go",
+        "url": "https://open.spotify.com/album/1pDXZMQjepON39iflEYWgK"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Ninja",
+          "url": "https://open.spotify.com/artist/7ukHWEkVkYBIbJAZG51OvL"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "Too Epic To Be True",
+      "url": "https://open.spotify.com/track/3Js1kS52KXZsmRU6qFLH60"
     },
     {
       "album": {
@@ -54696,7 +54772,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-16",
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"

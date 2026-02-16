@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain](/playlists/plain/37i9dQZF1DX6wbVzPMSvwH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6wbVzPMSvwH)
 
-### [Semangat Pagi](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
+### [Geng Bukber Pertemanan Sehat](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
 
-> Lagu\-lagu positif untuk mengawali harimu.
+> Lagu\-lagu positif untuk kamu dan teman\-temanmu yang paling ngejar sehat
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,789 likes - 92 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,787 likes - 92 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 91 | [Manusia Kuat](https://open.spotify.com/track/1vT1rKlEzvT9r0uYwAuwC8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:04 |
 | 92 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 |
 
-Snapshot ID: `AAAAAJdHu1Lp2X3cGDzjKLN+22Fj/cCe`
+Snapshot ID: `AAAAAID0hSON4UEgH9acCltPxxaXEG02`

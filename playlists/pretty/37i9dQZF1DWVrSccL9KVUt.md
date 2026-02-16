@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,287 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,322 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 99 | [always will be \- acoustic](https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [the unknown](https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI) | 2:58 |
 | 100 | [Resurrection Song \(Thank Jesus\)](https://open.spotify.com/track/3N5p2OvXNmNkw6GRB1H9w2) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Resurrection Song \(Thank Jesus\)](https://open.spotify.com/album/4XOJijWrehK8L2BX0vUTTa) | 3:26 |
 
-Snapshot ID: `AAAAAJs+2LnoW71DCFUuej2HH0XYEiTE`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

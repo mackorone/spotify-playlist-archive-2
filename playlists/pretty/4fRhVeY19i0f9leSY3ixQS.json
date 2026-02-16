@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1225,
+  "num_followers": 1223,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAALNcdzpZ5FHDpa9C7T14zrOqOspPy0",
+  "snapshot_id": "AAALOWiLE/4xjNOhg6ugslztAqLIJxXr",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -1137,54 +1137,6 @@
       "url": "https://open.spotify.com/track/5Yo5uIz5sTxR4LlhrnH2Lu"
     },
     {
-      "added_at": "2026-01-15 16:16:54",
-      "album": {
-        "name": "Empire Is Anti Human",
-        "url": "https://open.spotify.com/album/4EmtkhtLEkpSF854edvJIV"
-      },
-      "artists": [
-        {
-          "name": "BRUDES",
-          "url": "https://open.spotify.com/artist/6OoyoyC2mh52hahZoqSEVN"
-        }
-      ],
-      "duration_ms": 200617,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/3VRDcvHRenwPMd8BsT4qWy"
-    },
-    {
-      "added_at": "2026-01-15 15:04:12",
-      "album": {
-        "name": "Here's to Me EP",
-        "url": "https://open.spotify.com/album/19UnyRigrkHVXvLMYqMDz7"
-      },
-      "artists": [
-        {
-          "name": "Dazed Pilots",
-          "url": "https://open.spotify.com/artist/0fEDLTnhPxRCSUUVwWIjjV"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "Reluctantly Obedient",
-      "url": "https://open.spotify.com/track/16sJgOaLZvcOwdM7H30vfz"
-    },
-    {
-      "added_at": "2026-01-15 14:34:53",
-      "album": {
-        "name": "Brood Eternal",
-        "url": "https://open.spotify.com/album/4kh6JMt1hzHeAst4kAndp3"
-      },
-      "artists": [
-        {
-          "name": "No Heroes",
-          "url": "https://open.spotify.com/artist/6Pkz22OR0gHZ9BP5nLmIga"
-        }
-      ],
-      "duration_ms": 102465,
-      "name": "Drone",
-      "url": "https://open.spotify.com/track/0nnPnAzEAAClDDiMNYtNDp"
-    },
-    {
       "added_at": "2025-11-20 11:02:56",
       "album": {
         "name": "temptress",
@@ -1428,7 +1380,7 @@
           "url": "https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs"
         }
       ],
-      "duration_ms": 216020,
+      "duration_ms": 214219,
       "name": "D.O.C. (remaster)",
       "url": "https://open.spotify.com/track/3nuCkHuNLB3HQrV6KpYLK8"
     },
@@ -4343,6 +4295,22 @@
       "duration_ms": 177678,
       "name": "Who Will I Be Without The Hurt I Hide?",
       "url": "https://open.spotify.com/track/3gPpJbCPhtdWs7QPLV77DR"
+    },
+    {
+      "added_at": "2026-02-15 12:59:49",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH"
+      },
+      "artists": [
+        {
+          "name": "Hiding from Humans",
+          "url": "https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "(turn down the) Radio",
+      "url": "https://open.spotify.com/track/7tskKEOY8Ao6oDDQupvqXd"
     }
   ],
   "unique_name": "Shuffle Roulette",

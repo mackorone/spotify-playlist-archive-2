@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Mello, Jordan, Vurr Flashy, Karma K en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,405 likes - 86 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,399 likes - 86 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

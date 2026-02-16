@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Jules, Naomi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,331 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,335 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 22 | [Lou](https://open.spotify.com/track/6WkCUzdyOfhbD07SlwwnMS) | [David Pineau](https://open.spotify.com/artist/3n53aGeDfq4Vc3q7OpstmY) | [Lou](https://open.spotify.com/album/2dTNER789BGJWcULIElaNW) | 2:46 |
 | 23 | [On s'entend bien](https://open.spotify.com/track/4WVRvQuFAd9DXc1yh6CQ50) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [On s'entend bien](https://open.spotify.com/album/5s3AMHDFm8Td6TIVFhVD51) | 2:56 |
 | 24 | [Allure](https://open.spotify.com/track/0XOHv0RgZbmc93LSetKj83) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Allure](https://open.spotify.com/album/34OzKbiCPt1UikUERQHxha) | 3:24 |
-| 25 | [Toujours Deux](https://open.spotify.com/track/1VxZBcZUeqHi8hXrEEjKRm) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb), [M!ND](https://open.spotify.com/artist/2GwMkWYrEUIY9jaY57EMXE) | [Deux côtés à l'histoire \- EP](https://open.spotify.com/album/5xNImPjWoQ0rJMISExAR0u) | 1:42 |
+| 25 | [Toujours Deux](https://open.spotify.com/track/1VxZBcZUeqHi8hXrEEjKRm) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb), [M!ND](https://open.spotify.com/artist/2GwMkWYrEUIY9jaY57EMXE) | [Deux côtés à l'histoire](https://open.spotify.com/album/5xNImPjWoQ0rJMISExAR0u) | 1:42 |
 | 26 | [Comme Un Fou](https://open.spotify.com/track/7son6GDhkdsO9z32RM2262) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Repris de Justesse](https://open.spotify.com/album/4TDCOYjJb8ob4foKS8un20) | 3:11 |
 | 27 | [Coule douce](https://open.spotify.com/track/1ixXxv3cM3N1fj0dlMdePT) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO), [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [Coule douce](https://open.spotify.com/album/3pkNmEiDoIErguYqeBJ7jf) | 3:10 |
 | 28 | [Triche pas \(Don't Cheat\)](https://open.spotify.com/track/5vAqhwQPL1LI1rci9Y8tHu) | [Levraimaki](https://open.spotify.com/artist/2hBHrHrchCd8FkdgUIx7YA) | [Triche pas \(Don't Cheat\)](https://open.spotify.com/album/5gI8n1DQ2T4YjBdTYGmni0) | 2:52 |
