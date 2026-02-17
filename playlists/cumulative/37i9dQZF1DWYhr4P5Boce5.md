@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-304 songs - 17 hr 8 min
+305 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Fallin In Love](https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 4:11 | 2020-04-17 |  |
 | [Falling At The Thought Of You](https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Falling At The Thought Of You](https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX) | 2:50 | 2025-02-14 |  |
 | [Falling For You](https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [Falling For You](https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw) | 3:07 | 2025-09-14 |  |
+| [Febrero](https://open.spotify.com/track/5ex2d6u0Vj03naIEveIhEP) | [Samuel Serrano](https://open.spotify.com/artist/2a8d6Gt1lJmr0WtFjaBY6H), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Febrero](https://open.spotify.com/album/42sFfS9CDDLsfUD2240fCt) | 3:48 | 2026-02-13 |  |
 | [Feel The Waters](https://open.spotify.com/track/67Pa5FKcb3RnFtSXmBH6IZ) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Feel The Waters](https://open.spotify.com/album/58RSzSjbWuVbY7Yy0Zt3vX) | 4:04 | 2020-04-17 | 2022-07-29 |
 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 | 2020-04-17 | 2024-04-19 |
 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 | 2020-04-17 |  |
@@ -159,7 +160,7 @@
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2020-04-17 | 2025-09-15 |
 | [Kundi](https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Kundi](https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q) | 3:06 | 2024-02-03 | 2024-07-18 |
 | [L O V E](https://open.spotify.com/track/5d12KzbM8Kwogo2Bx4sdDH) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [L O V E](https://open.spotify.com/album/3ZjaMgxjNrGZITppbnZnHK) | 3:04 | 2024-02-03 | 2024-07-18 |
-| [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 | 2024-02-03 |  |
+| [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 | 2024-02-03 | 2026-02-17 |
 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 | 2020-04-17 | 2025-09-15 |
 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 | 2020-04-17 | 2024-04-19 |
 | [Lemonade](https://open.spotify.com/track/2IDk5wqJgRlIbgtQ9JHJPo) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Lemonade](https://open.spotify.com/album/0ra3AfTVcIiPxgcH2kTXLJ) | 3:06 | 2020-04-17 | 2022-11-13 |

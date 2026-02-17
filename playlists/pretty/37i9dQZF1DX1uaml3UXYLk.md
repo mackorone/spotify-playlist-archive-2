@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,968 likes - 230 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,050 likes - 230 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 229 | [Only U](https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9) | [LeDorean](https://open.spotify.com/artist/33m7VtP8WxR5FhUKIMOB46) | [Only U](https://open.spotify.com/album/4RyKiSWAAV4uUaLFH0YDsX) | 3:05 |
 | 230 | [Missing Daylight](https://open.spotify.com/track/2B8abTUyycIzH4Taw1r4Je) | [Helio Lush](https://open.spotify.com/artist/4gtfDaFcQA61xtmw5GenXa) | [Missing Daylight](https://open.spotify.com/album/1lDf6G3M2K3tX108BZtSb6) | 2:37 |
 
-Snapshot ID: `AAAAAH4HChn9ddDSQ7QHFXFs3Gc+TUWo`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

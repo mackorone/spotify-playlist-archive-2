@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,535 songs - 5 day 12 hr 33 min
+2,536 songs - 5 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1123,6 +1123,7 @@
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-07-05 | 2021-07-06 |
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-15 | 2023-05-14 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-21 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-02-16 |  |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-10-29 | 2022-10-31 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-02 | 2022-04-24 |
 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 | 2021-09-05 | 2021-09-09 |
@@ -1445,7 +1446,7 @@
 | [Mandagsbarn](https://open.spotify.com/track/7hvRgiuGmHoUtqX8D94euj) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Yosef Wolde\-Mariam](https://open.spotify.com/artist/2GBlvdFVbAmRuOz0ibDtZC), [Arif](https://open.spotify.com/artist/3l4RyQwQ0kHZ9Q9cQbRNMr), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [Mandagsbarn](https://open.spotify.com/album/0MBASnNqjXay7SC6tpRHim) | 4:08 | 2022-10-29 | 2022-10-31 |
 | [Mango IPA](https://open.spotify.com/track/5VeJ5bSOWQMIxwJKUEuEDO) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [@AronErMat](https://open.spotify.com/artist/0IlTS1A5ONhXYiAjBuBqRS) | [Mango IPA](https://open.spotify.com/album/5VM1ZcS0ZXtgcNU2QOwSr2) | 3:22 | 2021-09-13 | 2021-11-02 |
 | [Manifest](https://open.spotify.com/track/6PbnMHHJ5vfU7DcQg1hiH4) | [Brødrene Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Norwegian House Mafia](https://open.spotify.com/artist/1P5sMKG6tRib9sh2dBHohF) | [Manifest](https://open.spotify.com/album/0jmIouVG1MCBAZx80COtrA) | 2:19 | 2022-12-30 | 2023-01-24 |
-| [Mari&Hannah](https://open.spotify.com/track/1dPZDS1N5YIGBzhD1UReoJ) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Valget å gå, og vi gikk](https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK) | 3:20 | 2025-08-30 |  |
+| [Mari&Hannah](https://open.spotify.com/track/1dPZDS1N5YIGBzhD1UReoJ) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Valget å gå, og vi gikk](https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK) | 3:20 | 2025-08-30 | 2026-02-17 |
 | [marionett](https://open.spotify.com/track/0L4BkyT2W2hjR91aVFCauZ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [marionett](https://open.spotify.com/album/49oUwTDl4larfkctKNOqJW) | 2:59 | 2023-10-14 | 2023-10-22 |
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-11-06 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-29 | 2022-09-15 |

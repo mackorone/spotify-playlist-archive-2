@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Fonsi & Feid",
-  "num_followers": 1881948,
+  "num_followers": 1881915,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 332493,
-      "name": "Uno Se Cura",
-      "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+        }
+      ],
+      "duration_ms": 332493,
+      "name": "Uno Se Cura",
+      "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 191260,
-      "name": "The Reason - Latin Version",
-      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "El Swing 2.0 (feat. Luis Vazquez)",
         "url": "https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 213084,
       "name": "El Swing 2.0 (feat. Luis Vazquez)",
       "url": "https://open.spotify.com/track/5U9lUIHIzSmXz7ScRQGWdx"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 191260,
+      "name": "The Reason - Latin Version",
+      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3GaqBHtHkuMVecx1VRCMiI"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 170414,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5FNAoc8z1ltd823QbS0V5I"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Mal Necesario",
         "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
       },
@@ -1627,26 +1627,6 @@
       "duration_ms": 186224,
       "name": "Mal Necesario",
       "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
-      },
-      "artists": [
-        {
-          "name": "Huey Dunbar",
-          "url": "https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft"
-        },
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
-      "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1667,6 +1647,26 @@
       "duration_ms": 188078,
       "name": "Como Olvidarte",
       "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "Huey Dunbar",
+          "url": "https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
+      "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Era para Siempre (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg"
-      },
-      "artists": [
-        {
-          "name": "Amy Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Era para Siempre - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 231833,
       "name": "Es Ajena",
       "url": "https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Era para Siempre (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg"
+      },
+      "artists": [
+        {
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Era para Siempre - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
     }
   ],
   "unique_name": "Salsa Nation",

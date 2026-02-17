@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 80835,
+  "num_followers": 80834,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,30 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Mi Fanatica",
+        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Como \u00d1engo (feat. Jota Rosa)",
         "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Mi Fanatica",
-        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1207,26 +1207,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Tanto Fronteo",
-        "url": "https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp"
+        "name": "CATOLICA",
+        "url": "https://open.spotify.com/album/4iWIaY59FXJ2rKGhbO1KuU"
       },
       "artists": [
         {
-          "name": "King Goyi",
-          "url": "https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs"
+          "name": "Pepo Mix",
+          "url": "https://open.spotify.com/artist/1HjYewpu3sZfRg7cfZWD4i"
         },
         {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Team Mati",
-          "url": "https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2"
+          "name": "Morrow",
+          "url": "https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4"
         }
       ],
-      "duration_ms": 297073,
-      "name": "Tanto Fronteo",
-      "url": "https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk"
+      "duration_ms": 140926,
+      "name": "CATOLICA",
+      "url": "https://open.spotify.com/track/3iU8zlbvXz9XvcumhIkgO1"
     },
     {
       "added_at": "2025-09-18 23:00:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:playlist:37i9dQZF1EFPrDOOoefOzb">Roselilah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,308 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,346 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [LIGHTS GO OUT](https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [LIGHTS GO OUT](https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj) | 2:38 |
 | 40 | [crazy!](https://open.spotify.com/track/2fNEZfJwMqMePioE1iBUsI) | [Sevn Dayz](https://open.spotify.com/artist/0NObj30b93Nos1oPSYhiOo) | [baptized in my tears](https://open.spotify.com/album/3iG0uo9CsRcPMshYGyuQcF) | 2:57 |
 
-Snapshot ID: `AAAAAA5Gfo1Nf/UlKNNM0Ug4wDOI0vwf`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

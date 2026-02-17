@@ -1,12 +1,12 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396167,
+  "num_followers": 396181,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL9iBula5m/nbtPJblj0gg1U0ALW",
+  "snapshot_id": "AAAAAGTfGzSzhkTU/7++v4zzBMw3MY4C",
   "tracks": [
     {
       "added_at": "2026-02-06 08:55:44",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Light of My Life",
         "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 259518,
       "name": "Light of My Life",
       "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "On The Way",
         "url": "https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 192373,
       "name": "On The Way",
       "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 216005,
-      "name": "Beginners",
-      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 227408,
       "name": "Lies",
       "url": "https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 216005,
+      "name": "Beginners",
+      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
-      },
-      "artists": [
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 184424,
       "name": "Pray",
       "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "You Give Me Something (Refreshed)",
-        "url": "https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "You Give Me Something (Refreshed)",
-      "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 189064,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "You Give Me Something (Refreshed)",
+        "url": "https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 243426,
+      "name": "You Give Me Something (Refreshed)",
+      "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Be My Own",
-        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
       },
       "artists": [
         {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Be My Own",
-      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1019,6 +1019,22 @@
       "duration_ms": 145403,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Be My Own",
+        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Be My Own",
+      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1051,22 +1067,6 @@
       "duration_ms": 234336,
       "name": "adeline",
       "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Apple Tree",
         "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 178336,
       "name": "Apple Tree",
       "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Lonely On Lovers Lane",
-      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Better Tomorrow",
         "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 211111,
       "name": "Better Tomorrow",
       "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Lonely On Lovers Lane",
+      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
@@ -1447,38 +1431,6 @@
       "duration_ms": 236801,
       "name": "Bend",
       "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Groundwork Rising",
-        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "seasons",
-        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 220621,
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1515,6 +1467,38 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "seasons",
+        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 220621,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Groundwork Rising",
+        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Suddenly Forever",
-        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
       "artists": [
         {
-          "name": "Selwyn",
-          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Suddenly Forever",
-      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1563,22 +1547,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
+        "name": "Suddenly Forever",
+        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
       },
       "artists": [
         {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "BROWN & GRAY",
-          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+          "name": "Selwyn",
+          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
         }
       ],
-      "duration_ms": 169585,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
+      "duration_ms": 200000,
+      "name": "Suddenly Forever",
+      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1595,6 +1575,26 @@
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "BROWN & GRAY",
+          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+        }
+      ],
+      "duration_ms": 169585,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
     },
     {
       "added_at": "2026-02-06 08:55:44",

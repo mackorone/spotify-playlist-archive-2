@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,844 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,860 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 27 | [One Body, One Blood](https://open.spotify.com/track/41HV8PYAK48RhYq50CS77M) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [One Body, One Blood](https://open.spotify.com/album/1LsoDC0XhSqN92JPGZfpki) | 4:24 |
 | 28 | [The Time Bender](https://open.spotify.com/track/1GnquVOVTWIjOTJG2sB0gp) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [The Time Bender](https://open.spotify.com/album/75wjwKv7iPWJtdzIpiWa2q) | 6:06 |
 | 29 | [I Wish](https://open.spotify.com/track/1mFAWXLDMxV7j9fsZPSoDG) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [I Wish](https://open.spotify.com/album/6JodNfSzz5bpb1lTEYJSnC) | 3:00 |
-| 30 | [Scurry](https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce) | [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl) | [Scurry](https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL) | 3:09 |
+| 30 | [Scurry](https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce) | [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl) | [Scurry](https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL) | 3:06 |
 | 31 | [Friends](https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Friends](https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw) | 6:30 |
 | 32 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 |
 | 33 | [Bosté](https://open.spotify.com/track/5qE37tGLNDz5eip472RywN) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Bosté](https://open.spotify.com/album/4hfod6huUPnat3S6kCxiKh) | 8:03 |

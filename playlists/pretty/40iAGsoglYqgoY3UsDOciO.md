@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 611 likes - 487 songs - 23 hr 32 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 617 likes - 490 songs - 23 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -495,5 +495,8 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 485 | [Crunch Time](https://open.spotify.com/track/1zs08Z4WOWrBLXFOMmoEHl) | [Kershey](https://open.spotify.com/artist/5PXnOMWHxDzYxQucJp4bq8) | [Crunch Time](https://open.spotify.com/album/01vdh0IeFJRK2awZeuP04Q) | 2:24 |
 | 486 | [BENDER](https://open.spotify.com/track/4RdrLiRyx2GmM4lo43jeAY) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [BENDER](https://open.spotify.com/album/1940YocJzAsNQnBAr3ID7s) | 2:05 |
 | 487 | [I'm From Africa](https://open.spotify.com/track/6oJCPKk3jtduUFincL3Gh8) | [Chris Kellah](https://open.spotify.com/artist/6KHK8bvEQe9wmK7QnIPh37) | [I'm From Africa](https://open.spotify.com/album/5CMvHn6oy2Xk8YyuoSniqh) | 3:10 |
+| 488 | [Crave](https://open.spotify.com/track/10yJtycXC7s7npCCcOVScU) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [HIBARI555](https://open.spotify.com/artist/2A6OB7KGDr2HXEDoqvYLXn) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 2:29 |
+| 489 | [sleepeR](https://open.spotify.com/track/3AwyCR4jSQvmgpthwlGylS) | [dndKrym](https://open.spotify.com/artist/2lUIYiQ8ABS20WWFdOadZJ) | [sleepeR](https://open.spotify.com/album/327zFRuZsBfXLcpoGSPwwB) | 1:40 |
+| 490 | [80](https://open.spotify.com/track/7AWO9DNzPZ1wHERhYBsaCN) | [WLF.JMS](https://open.spotify.com/artist/7CYEmpAvVpsRH1DbMfhUPt) | [80](https://open.spotify.com/album/2KBKLeWqab7JJS9GGkIUMO) | 2:32 |
 
-Snapshot ID: `AAABh75A4GBaIk71cmQoKz8LJUaerUha`
+Snapshot ID: `AAABinKsW4nSCkTeJrlX+9F0bhsaHj4e`

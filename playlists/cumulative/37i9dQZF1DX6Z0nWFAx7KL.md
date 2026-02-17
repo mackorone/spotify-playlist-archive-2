@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-355 songs - 17 hr 33 min
+356 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2022-10-21 | 2024-03-21 |
 | [Hold You Down](https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Hold You Down](https://open.spotify.com/album/3GjLINFWwkDBAylZHl4jLY) | 2:38 | 2022-10-21 | 2024-12-13 |
 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 | 2023-11-13 | 2025-12-11 |
+| [Home](https://open.spotify.com/track/1Ybm8GRBrseE3n8qszEcjB) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Home](https://open.spotify.com/album/4qCoYvrG6wy0Fv4BUyBOZo) | 3:36 | 2026-02-13 |  |
 | [Home \(feat\. Colton Avery\)](https://open.spotify.com/track/0dCfYzXOi9msy1x9kY7Kw6) | [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Colton Avery](https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV) | [Home \(feat\. Colton Avery\)](https://open.spotify.com/album/0pDDhfiuoKcLPEDfJdjIYO) | 2:27 | 2025-02-20 |  |
 | [I Blame You](https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [I Blame You](https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb) | 2:12 | 2022-09-29 | 2025-02-28 |
 | [I Came For You](https://open.spotify.com/track/7GzMPJZYGgWW7VbcHYG21I) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [I Came For You](https://open.spotify.com/album/0XJRGHbpVofHp14XgEpQHv) | 2:37 | 2024-07-12 | 2024-11-15 |
@@ -353,7 +354,7 @@
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 | 2023-02-15 |
 | [Why Don't We](https://open.spotify.com/track/6NVi9Z6a2po7wDjwIJoWO7) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392) | [Why Don't We](https://open.spotify.com/album/6VfyQEz774EH7EPKL2g8Je) | 2:17 | 2025-01-23 | 2025-02-28 |
 | [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 | 2024-02-08 |
-| [Wicked Games](https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Nicole Slack Jones](https://open.spotify.com/artist/7ApsqRn7DyUaNrbknP7XBw) | [Wicked Games](https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw) | 2:39 | 2024-12-12 |  |
+| [Wicked Games](https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Nicole Slack Jones](https://open.spotify.com/artist/7ApsqRn7DyUaNrbknP7XBw) | [Wicked Games](https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw) | 2:39 | 2024-12-12 | 2026-02-17 |
 | [Willing To Lose](https://open.spotify.com/track/35SzKreqd9kzvbnUFRM0tf) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Willing To Lose](https://open.spotify.com/album/4uPzhveNpN5GMe1j2o7iLr) | 2:20 | 2026-02-05 |  |
 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 | 2022-09-15 | 2023-03-23 |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2022-09-15 | 2022-11-17 |

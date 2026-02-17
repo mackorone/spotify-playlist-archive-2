@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,363 likes - 52 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,377 likes - 52 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 51 | [Snowfall \- Remastered](https://open.spotify.com/track/1YmesXY2Jx2ThEIO0GG8Hl) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Voodooamt](https://open.spotify.com/artist/0u4QLNTceYzzUQrv1dd5fu) | [Passengers 2016](https://open.spotify.com/album/4VPFCmJ2yYUNr2yhm2dbuh) | 8:26 |
 | 52 | [1\-Q \- 2021 Remaster](https://open.spotify.com/track/33QXrJArKc2IgX7xIuUpOf) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Voodooamt](https://open.spotify.com/artist/0u4QLNTceYzzUQrv1dd5fu) | [Panorama \(Remastered 2021\)](https://open.spotify.com/album/3k8WGklRb0tBsWSXw4K4sg) | 7:14 |
 
-Snapshot ID: `AAAAADWPd5CTDQxLYj08B1MDkopMECoS`
+Snapshot ID: `AAAAAAPudtNrwJvoyygoAjnrnmtetWnO`

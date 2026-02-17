@@ -1,12 +1,12 @@
 {
   "description": "All this week's best new pop releases. Cover: Lykke Li",
-  "num_followers": 275927,
+  "num_followers": 276075,
   "original_name": "All New Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3oxxoEv6C2j9WIbiVHhTtDgZ63",
+  "snapshot_id": "AAAAADXXtgx+hOoYueUYxAs6yY7OUb1L",
   "tracks": [
     {
       "added_at": "2026-02-13 05:00:48",
@@ -299,6 +299,22 @@
       "duration_ms": 157565,
       "name": "I Like You Better Than Me",
       "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
+    },
+    {
+      "added_at": "2026-02-16 15:37:56",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq"
+      },
+      "artists": [
+        {
+          "name": "Lara Buchanan",
+          "url": "https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg"
     },
     {
       "added_at": "2026-02-13 05:00:48",
@@ -1511,22 +1527,6 @@
       "duration_ms": 180822,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/004zKSPmuxH1XFk0yFcxAv"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
-        "name": "Jeanie",
-        "url": "https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi"
-      },
-      "artists": [
-        {
-          "name": "Dreamboys The Band",
-          "url": "https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "Jeanie",
-      "url": "https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX"
     },
     {
       "added_at": "2026-02-06 05:00:49",

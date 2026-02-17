@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Lekaa, ODUMODUBLVCK & Omah Lay",
-  "num_followers": 212333,
+  "num_followers": 212474,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-02-13 00:01:39",
       "album": {
-        "name": "Che Che (feat. Asake)",
-        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
-    },
-    {
-      "added_at": "2026-02-13 00:01:39",
-      "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/5CLUFOEWCqiMNRrX5Ibxod"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 168082,
       "name": "lost",
       "url": "https://open.spotify.com/track/3wdV4OJ37JdoLyUJMm50UW"
+    },
+    {
+      "added_at": "2026-02-13 00:01:39",
+      "album": {
+        "name": "Che Che (feat. Asake)",
+        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
     },
     {
       "added_at": "2026-02-13 00:01:39",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-02-13 00:01:39",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2026-02-13 00:01:39",
+      "album": {
         "name": "Cash Flow (feat. Wizkid)",
         "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": "2026-02-13 00:01:39",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2026-02-13 00:01:39",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2026-02-13 00:01:39",
       "album": {
-        "name": "Shoday Kilode",
-        "url": "https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF"
+        "name": "OBT (feat. BhadBoi OML)",
+        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
       },
       "artists": [
         {
           "name": "Shoday",
           "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 131092,
-      "name": "Shoday Kilode",
-      "url": "https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp"
+      "duration_ms": 170526,
+      "name": "OBT (feat. BhadBoi OML)",
+      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
     },
     {
       "added_at": "2026-02-13 00:01:39",
@@ -1419,22 +1423,18 @@
     {
       "added_at": "2026-02-13 00:01:39",
       "album": {
-        "name": "OBT (feat. BhadBoi OML)",
-        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
+        "name": "Shoday Kilode",
+        "url": "https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF"
       },
       "artists": [
         {
           "name": "Shoday",
           "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 170526,
-      "name": "OBT (feat. BhadBoi OML)",
-      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
+      "duration_ms": 131092,
+      "name": "Shoday Kilode",
+      "url": "https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp"
     },
     {
       "added_at": "2026-02-13 00:01:39",

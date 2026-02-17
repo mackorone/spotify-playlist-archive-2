@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2011. Cover: AWOLNATION",
-  "num_followers": 140527,
+  "num_followers": 140541,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 333400,
+      "name": "What The Water Gave Me",
+      "url": "https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 140960,
       "name": "Two Against One (feat. Jack White)",
       "url": "https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 333400,
-      "name": "What The Water Gave Me",
-      "url": "https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Not Your Fault",
+      "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 211506,
       "name": "Black (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/5H43dazn2x2O9dkDVvaiDS"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "Not Your Fault",
-      "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
         "name": "The Wild Youth EP",
         "url": "https://open.spotify.com/album/4oi6YYTdruWtLATvNiVE46"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 258986,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/5Zz8mrmVVhOq3iuv8Gh0MX"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH"
     },
     {
       "added_at": "2025-03-14 11:55:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from MAKSIM & Babet, Charli xcx, The Haunted Youth and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,643 likes - 123 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,639 likes - 123 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

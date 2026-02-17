@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 216878,
       "name": "A Flute of Brass",
       "url": "https://open.spotify.com/track/75kHcUvAMwFtpOEnnZCuWJ"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 199124,
       "name": "Ancient Rhythms",
       "url": "https://open.spotify.com/track/3afgtQRk0Xl0QhIoQkWOvi"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 244830,
       "name": "Beatful Akasha",
       "url": "https://open.spotify.com/track/1JvHBofBIxiF05bjiG4cVl"
@@ -967,6 +967,42 @@
     },
     {
       "album": {
+        "name": "Echo in the Wind",
+        "url": "https://open.spotify.com/album/3k43eb0XuldxNtLjnedgb5"
+      },
+      "artists": [
+        {
+          "name": "Cautious Voice",
+          "url": "https://open.spotify.com/artist/4hARNYdi1hdngkpAAGEWCG"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169445,
+      "name": "Echo in the Wind",
+      "url": "https://open.spotify.com/track/1psBYF7JpmN7x3leanhewE"
+    },
+    {
+      "album": {
+        "name": "Echoes of Andromeda",
+        "url": "https://open.spotify.com/album/71xoxPnpQiwwXzzdnwtufo"
+      },
+      "artists": [
+        {
+          "name": "Above Neon",
+          "url": "https://open.spotify.com/artist/5c1cJaN0HDFVtzxD5yY85E"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Echoes of Andromeda",
+      "url": "https://open.spotify.com/track/4vPlmfYOYL3H2eH3tqF1uh"
+    },
+    {
+      "album": {
         "name": "Edasi",
         "url": "https://open.spotify.com/album/60g34Dm8jNth4tptfiYAr4"
       },
@@ -1338,7 +1374,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 159767,
       "name": "Ghostly Dome",
       "url": "https://open.spotify.com/track/5XoPvzUlpMqUwbd7vzFPWp"
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 177017,
       "name": "Hollow Bamboo",
       "url": "https://open.spotify.com/track/1bIkK1goYXU8ubKeutQn0K"
@@ -1576,7 +1612,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 150187,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/0NOcrJEDvdfUaxukODyXHm"
@@ -1630,7 +1666,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 164349,
       "name": "Inner Dance",
       "url": "https://open.spotify.com/track/69nypj8gpPFz6SucdJbKMA"
@@ -1918,7 +1954,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 219232,
       "name": "Lullababoon",
       "url": "https://open.spotify.com/track/4BG0vBFYK9PLiYgp2UzTDF"
@@ -2134,7 +2170,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 160740,
       "name": "Muon",
       "url": "https://open.spotify.com/track/32ixWlZj670PuS7R4YhNEa"
@@ -2303,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Patterns",
+        "url": "https://open.spotify.com/album/2XQo9u5w65gErttR9urNmL"
+      },
+      "artists": [
+        {
+          "name": "Suntam",
+          "url": "https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Peaceful Patterns",
+      "url": "https://open.spotify.com/track/5IZa9OYyWoCGktdJPaGbut"
+    },
+    {
+      "album": {
         "name": "Planets Rise",
         "url": "https://open.spotify.com/album/65izdFSoEJds0oVAHgzzVZ"
       },
@@ -2339,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Precense",
+        "url": "https://open.spotify.com/album/55jOmIXPNvKbreG5wJ9Gxw"
+      },
+      "artists": [
+        {
+          "name": "Erastox",
+          "url": "https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176740,
+      "name": "Precense",
+      "url": "https://open.spotify.com/track/7ua4zXqEuQ2T6nJJWgJYp3"
+    },
+    {
+      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/5S45s0wsGcnj4gx7UmoRti"
       },
@@ -2350,7 +2422,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 184401,
       "name": "Protected",
       "url": "https://open.spotify.com/track/39c0wkcay8Zk7gAiibB6OZ"
@@ -2516,6 +2588,24 @@
       "duration_ms": 160172,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/1rWawgLzS079ClXGAor0QZ"
+    },
+    {
+      "album": {
+        "name": "Ritu Jharna",
+        "url": "https://open.spotify.com/album/3JxBRe5J7XwdsOhSeMt9nN"
+      },
+      "artists": [
+        {
+          "name": "Anapanasati",
+          "url": "https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162900,
+      "name": "Ritu Jharna",
+      "url": "https://open.spotify.com/track/6Fot5VjvuR9AsYu5nQKSBY"
     },
     {
       "album": {
@@ -3034,7 +3124,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 178193,
       "name": "Sundran Outdoor",
       "url": "https://open.spotify.com/track/5Mm6wKongnMc6ruflc3KyB"
@@ -3052,7 +3142,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 151375,
       "name": "Swahili",
       "url": "https://open.spotify.com/track/03ZYpkbpDoUJproBs64vli"
@@ -3294,7 +3384,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 214659,
       "name": "Time to Travel",
       "url": "https://open.spotify.com/track/1NqnBiNkkk3tdCErFQLty3"

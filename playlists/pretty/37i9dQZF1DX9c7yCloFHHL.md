@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Elori Saxl, Henry Solomon
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,458 likes - 98 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,504 likes - 98 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

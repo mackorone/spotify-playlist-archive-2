@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 192246,
+  "num_followers": 192259,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Hymnal",
-        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 330410,
-      "name": "Ending",
-      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "If I Had a Boat",
         "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 678676,
       "name": "If I Had a Boat",
       "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Hymnal",
+        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "duration_ms": 330410,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "Surt\u00f9m",
         "url": "https://open.spotify.com/album/4NsyYFWO27hfETGC7w2WK5"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 321946,
       "name": "Aven\u00e2l",
       "url": "https://open.spotify.com/track/1JvuhqlW3X2uFLvtstIraT"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Corrosiv",
-        "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
-      },
-      "artists": [
-        {
-          "name": "Orchestroll",
-          "url": "https://open.spotify.com/artist/3fOsjG8YJ9MRntC4hcNybb"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Here Used To Be A Star",
-      "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/4oJhQh8Qgh0aEfGn4vdpQn"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 293977,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5s3Aoo4sx0drUUScaxhyZM"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Corrosiv",
+        "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
+      },
+      "artists": [
+        {
+          "name": "Orchestroll",
+          "url": "https://open.spotify.com/artist/3fOsjG8YJ9MRntC4hcNybb"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Here Used To Be A Star",
+      "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
+        "name": "Rememberer",
+        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
+      },
+      "artists": [
+        {
+          "name": "Radio Anorak",
+          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "King of England",
+      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
         "name": "In Space",
         "url": "https://open.spotify.com/album/32Akdj56jKKGz6bHsGGjZl"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 221960,
       "name": "Windows",
       "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
-        "name": "Rememberer",
-        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
-      },
-      "artists": [
-        {
-          "name": "Radio Anorak",
-          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "King of England",
-      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -1071,42 +1071,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Gosamour",
-        "url": "https://open.spotify.com/album/2eYqRX35ZPEaUUu0V0cUlA"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
-          "name": "TAAHLIAH",
-          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Gosamour",
-      "url": "https://open.spotify.com/track/7fpvQXLR1umwJVmPRcyFcs"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
-        "name": "Spaces In Between",
-        "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
-      },
-      "artists": [
-        {
-          "name": "Michael J. Blood",
-          "url": "https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "AKNEW",
-      "url": "https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "Hand To Mouth",
         "url": "https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX"
       },
@@ -1127,6 +1091,42 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
+        "name": "Spaces In Between",
+        "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
+      },
+      "artists": [
+        {
+          "name": "Michael J. Blood",
+          "url": "https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "AKNEW",
+      "url": "https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Gosamour",
+        "url": "https://open.spotify.com/album/2eYqRX35ZPEaUUu0V0cUlA"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Gosamour",
+      "url": "https://open.spotify.com/track/7fpvQXLR1umwJVmPRcyFcs"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
         "name": "Too Close to Call",
         "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 278630,
       "name": "Too Close to Call",
       "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Thinking about you",
+        "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        },
+        {
+          "name": "Maxi",
+          "url": "https://open.spotify.com/artist/2MWn1cRYRIhMXTe6U2LPQC"
+        }
+      ],
+      "duration_ms": 196340,
+      "name": "Thinking about you",
+      "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -1183,42 +1203,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Thinking about you",
-        "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
-      },
-      "artists": [
-        {
-          "name": "EXUM",
-          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
-        },
-        {
-          "name": "Maxi",
-          "url": "https://open.spotify.com/artist/2MWn1cRYRIhMXTe6U2LPQC"
-        }
-      ],
-      "duration_ms": 196340,
-      "name": "Thinking about you",
-      "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
-        "name": "OFFLINE CERAMICS",
-        "url": "https://open.spotify.com/album/4RlEr57AUuT71uJPBfs64q"
-      },
-      "artists": [
-        {
-          "name": "ONYX GARDEN",
-          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
-        }
-      ],
-      "duration_ms": 164667,
-      "name": "SKEPTIC TANK",
-      "url": "https://open.spotify.com/track/5zjjmAAFDsHQfsKa43Ztk2"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "F\u00fcr Therese",
         "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "TIDE/TIED",
-        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+        "name": "OFFLINE CERAMICS",
+        "url": "https://open.spotify.com/album/4RlEr57AUuT71uJPBfs64q"
       },
       "artists": [
         {
-          "name": "Thanya Iyer",
-          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+          "name": "ONYX GARDEN",
+          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
         }
       ],
-      "duration_ms": 440269,
-      "name": "Waves/Hold/Tied",
-      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
+      "duration_ms": 164667,
+      "name": "SKEPTIC TANK",
+      "url": "https://open.spotify.com/track/5zjjmAAFDsHQfsKa43Ztk2"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -1279,6 +1263,22 @@
       "duration_ms": 189500,
       "name": "Sepia Rainbow",
       "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "TIDE/TIED",
+        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+      },
+      "artists": [
+        {
+          "name": "Thanya Iyer",
+          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+        }
+      ],
+      "duration_ms": 440269,
+      "name": "Waves/Hold/Tied",
+      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Lucidity",
-        "url": "https://open.spotify.com/album/1l24uZzw4lC0J60iq4wYGf"
-      },
-      "artists": [
-        {
-          "name": "Kloke",
-          "url": "https://open.spotify.com/artist/2cggyYmdk2HP87tYGtw3La"
-        }
-      ],
-      "duration_ms": 312105,
-      "name": "Emeralds",
-      "url": "https://open.spotify.com/track/2THOplVIqdYq8FcHBd7HP4"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
         "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 238243,
       "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
       "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Lucidity",
+        "url": "https://open.spotify.com/album/1l24uZzw4lC0J60iq4wYGf"
+      },
+      "artists": [
+        {
+          "name": "Kloke",
+          "url": "https://open.spotify.com/artist/2cggyYmdk2HP87tYGtw3La"
+        }
+      ],
+      "duration_ms": 312105,
+      "name": "Emeralds",
+      "url": "https://open.spotify.com/track/2THOplVIqdYq8FcHBd7HP4"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Wanted To Show You",
-        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
-      },
-      "artists": [
-        {
-          "name": "Lipsticism",
-          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
-        }
-      ],
-      "duration_ms": 190738,
-      "name": "Feeling Why Do You Follow",
-      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "The Scrollkeeper",
         "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
+        "name": "Wanted To Show You",
+        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
+      },
+      "artists": [
+        {
+          "name": "Lipsticism",
+          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
+        }
+      ],
+      "duration_ms": 190738,
+      "name": "Feeling Why Do You Follow",
+      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
         "name": "Waiting pt 1",
         "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 132318,
       "name": "Waiting pt 1",
       "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Tr\u00e4frack",
+        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
+      },
+      "artists": [
+        {
+          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
+        }
+      ],
+      "duration_ms": 215375,
+      "name": "Tr\u00e4frack",
+      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Tr\u00e4frack",
-        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
-      },
-      "artists": [
-        {
-          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
-        }
-      ],
-      "duration_ms": 215375,
-      "name": "Tr\u00e4frack",
-      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "I'll Wait for You in the Car Park",
         "url": "https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 237093,
       "name": "I Think I Just Died a Lil Bit",
       "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
+      },
+      "artists": [
+        {
+          "name": "JASSS",
+          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
     },
     {
       "added_at": "2026-02-06 05:00:45",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
-      },
-      "artists": [
-        {
-          "name": "JASSS",
-          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "Muddy Shores",
         "url": "https://open.spotify.com/album/7dXHKXvI27xVaZlNbNVLMo"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Rene",
-        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
-      },
-      "artists": [
-        {
-          "name": "LOTUS FROM JAKARTA",
-          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Voy_Edit",
-      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
-    },
-    {
-      "added_at": "2026-02-06 05:00:45",
-      "album": {
         "name": "M29",
         "url": "https://open.spotify.com/album/0mp2d3TTvyqhyiciUqx7Ja"
       },
@@ -1691,18 +1675,34 @@
     {
       "added_at": "2026-02-06 05:00:45",
       "album": {
-        "name": "Distratta",
-        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
+        "name": "part of u",
+        "url": "https://open.spotify.com/album/5cMSNDgNhAXFS88W2gnB0X"
       },
       "artists": [
         {
-          "name": "Silvia Tarozzi",
-          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
         }
       ],
-      "duration_ms": 169775,
-      "name": "Distratta",
-      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
+      "duration_ms": 157623,
+      "name": "part of u",
+      "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
+    },
+    {
+      "added_at": "2026-02-06 05:00:45",
+      "album": {
+        "name": "Rene",
+        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
+      },
+      "artists": [
+        {
+          "name": "LOTUS FROM JAKARTA",
+          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Voy_Edit",
+      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
     },
     {
       "added_at": "2026-02-06 05:00:45",

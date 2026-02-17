@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
-  "num_followers": 77214,
+  "num_followers": 77262,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "Muzz",
+        "url": "https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Muzz",
+      "url": "https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "TaTaTa (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
@@ -275,6 +291,22 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "OBT (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
       },
@@ -295,18 +327,18 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+        "name": "IDI AMIN",
+        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
       },
       "artists": [
         {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
         }
       ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+      "duration_ms": 136470,
+      "name": "IDI AMIN",
+      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -331,38 +363,6 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "IDI AMIN",
-        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 136470,
-      "name": "IDI AMIN",
-      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -395,6 +395,22 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -455,22 +471,6 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "Muzz",
-        "url": "https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 122033,
-      "name": "Muzz",
-      "url": "https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "Uzo Ano",
+        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Uzo Ano",
+      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
       },
@@ -519,22 +539,6 @@
       "duration_ms": 167000,
       "name": "Life",
       "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "ACL",
-      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -555,6 +559,22 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "ACL",
+      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -583,22 +603,6 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
         "name": "HOW E DEY BE (HEDB)",
         "url": "https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA"
       },
@@ -611,6 +615,22 @@
       "duration_ms": 130000,
       "name": "HOW E DEY BE (HEDB)",
       "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -687,6 +707,22 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "OH MY DAYS",
+        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
+      },
+      "artists": [
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "duration_ms": 119166,
+      "name": "OH MY DAYS",
+      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
       },
@@ -719,42 +755,6 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "OH MY DAYS",
-        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
-      },
-      "artists": [
-        {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
-        }
-      ],
-      "duration_ms": 119166,
-      "name": "OH MY DAYS",
-      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "Uzo Ano",
-        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Uzo Ano",
-      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "My Amigo",
-        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 160043,
-      "name": "My Amigo",
-      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
+        "name": "My Amigo",
+        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 134237,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+      "duration_ms": 160043,
+      "name": "My Amigo",
+      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
+        "name": "BORN TO BE GREAT",
+        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 173559,
+      "name": "BORN TO BE GREAT",
+      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "BORN TO BE GREAT",
-        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 173559,
-      "name": "BORN TO BE GREAT",
-      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
+      "duration_ms": 134237,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "Steady x Fuji Explosion",
+        "url": "https://open.spotify.com/album/77tfHUei566yP3u8GQotG4"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 199607,
+      "name": "Fuji Explosion",
+      "url": "https://open.spotify.com/track/2glMJh0s7jz2WA6sM6dU6g"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "YAZI",
         "url": "https://open.spotify.com/album/47vElf8frT0kCgKE3qLcC7"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 144657,
       "name": "Forget",
       "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 175935,
-      "name": "No Sign of Weakness",
-      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
     }
   ],
   "unique_name": "Naija Bars ",

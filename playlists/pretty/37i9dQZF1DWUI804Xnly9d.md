@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,696 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,728 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 2 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
-| 3 | [Pagalpan](https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Pagalpan](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:12 |
+| 3 | [Pagalpan](https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:12 |
 | 4 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
 | 5 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
 | 6 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 12 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |
 | 13 | [Qareeb](https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0) | [Jayant Joshi](https://open.spotify.com/artist/4feOH8EFdcvYwYfvkCTY5e), [Aastha Tiwari](https://open.spotify.com/artist/5ttg9TylEAZumuaczAn2YS), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti) | [Qareeb](https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG) | 3:15 |
 | 14 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
-| 15 | [Koi Nahi Hai](https://open.spotify.com/track/1O7V6xXflGzanc7X6rCbBk) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Ferran Savall](https://open.spotify.com/artist/5MV5GG8JohhFulDZy2Wf2I) | [Pagalpan](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:44 |
+| 15 | [Koi Nahi Hai](https://open.spotify.com/track/1O7V6xXflGzanc7X6rCbBk) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Ferran Savall](https://open.spotify.com/artist/5MV5GG8JohhFulDZy2Wf2I) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:44 |
 | 16 | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/album/6ZbOnCubi9CdiAHRPDQqnW) | 3:44 |
 | 17 | [Mera Sapna](https://open.spotify.com/track/1EzehSXnc1bii79PT2nigB) | [Azensha](https://open.spotify.com/artist/44wRg1i4HVrNR42fxrvsuD) | [Mera Sapna](https://open.spotify.com/album/3kEt4JX6EF6lWm5iIdnJ5T) | 5:05 |
 | 18 | [Door](https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Door](https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM) | 3:09 |

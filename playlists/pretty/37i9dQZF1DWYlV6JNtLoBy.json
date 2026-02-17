@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 8571,
+  "num_followers": 8579,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "What Are We Waiting For? (The Single)",
-        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 194580,
-      "name": "What Are We Waiting For? (The Single)",
-      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Heaven Changes Everything",
         "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Ndio",
-        "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
+        "name": "What Are We Waiting For? (The Single)",
+        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
       },
       "artists": [
         {
-          "name": "Rehema Simfukwe",
-          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 563252,
-      "name": "Ndio",
-      "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
+      "duration_ms": 194580,
+      "name": "What Are We Waiting For? (The Single)",
+      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -867,6 +851,22 @@
       "duration_ms": 281155,
       "name": "Uwezo",
       "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Ndio",
+        "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
+      },
+      "artists": [
+        {
+          "name": "Rehema Simfukwe",
+          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
+        }
+      ],
+      "duration_ms": 563252,
+      "name": "Ndio",
+      "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
     },
     {
       "added_at": "2024-12-05 23:59:00",

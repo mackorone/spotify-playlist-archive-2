@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,162 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,163 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,7 +202,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 192 | [Natasha \- Ao Vivo](https://open.spotify.com/track/7KdRrzenHoirvrvp6KHZxh) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Acústico Capital Inicial](https://open.spotify.com/album/2mt6segSup7hVNxC12Pji0) | 3:13 |
 | 193 | [Boate Azul \- Ao Vivo](https://open.spotify.com/track/4Z20Nlp53CuArdsy0VbeTb) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Acústico \- Ao Vivo](https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy) | 5:46 |
 | 194 | [Primeiros Erros \(Chove\) \- Ao Vivo](https://open.spotify.com/track/4oZr3pfUrZtjJzxr0UIPb9) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 5:32 |
-| 195 | [All Star](https://open.spotify.com/track/74lPucESMXF7QAYNbSFdJa) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Para Quando o Arco Íris Encontrar o Pote de Ouro](https://open.spotify.com/album/1ekTkGq8lPde7WybgmGD1U) | 3:01 |
+| 195 | [All Star](https://open.spotify.com/track/74lPucESMXF7QAYNbSFdJa) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Para Quando o Arco Íris Encontrar o Pote de Ouro](https://open.spotify.com/album/1ekTkGq8lPde7WybgmGD1U) | 3:03 |
 | 196 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:00 |
 | 197 | [Você](https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1971](https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A) | 4:04 |
 | 198 | [Suíte 14 \- Ao Vivo](https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov) | [Tempo Certo \(Ao Vivo em Campo Grande\)](https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB) | 2:58 |

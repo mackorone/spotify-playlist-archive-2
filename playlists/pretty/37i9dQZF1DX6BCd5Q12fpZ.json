@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 64414,
+  "num_followers": 64411,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Rise Like A Phoenix",
-        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
-      },
-      "artists": [
-        {
-          "name": "Conchita Wurst",
-          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
-        }
-      ],
-      "duration_ms": 181989,
-      "name": "Rise Like A Phoenix",
-      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Saade, Vol. 1",
         "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 180813,
       "name": "Popular",
       "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "Rise Like A Phoenix",
+        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
+      },
+      "artists": [
+        {
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+        }
+      ],
+      "duration_ms": 181989,
+      "name": "Rise Like A Phoenix",
+      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
     },
     {
       "added_at": "2025-03-14 16:58:53",

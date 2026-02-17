@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from SIX60, Charli xcx, Fred Again, Jamie T, Luke Combs, Central Cee, Keli Holiday + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,079 likes - 96 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,074 likes - 96 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

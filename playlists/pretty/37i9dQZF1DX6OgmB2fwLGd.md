@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. fakemink
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,684 likes - 70 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,617 likes - 70 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

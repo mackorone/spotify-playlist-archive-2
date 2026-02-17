@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Najm, Abduh
+> Cover: Gustavo 51
 
 484 songs - 1 day 1 hr 17 min
 

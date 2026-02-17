@@ -2789,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "The Good Ones",
+        "url": "https://open.spotify.com/album/7ffPgoB9VEJ5AaqcLWeKxW"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2020-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213728,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/5OS2vP6hEJfp5bLzaWNkTj"
+    },
+    {
+      "album": {
         "name": "Country Favourites 2022",
         "url": "https://open.spotify.com/album/1tytPvW3uIsM1L9p9nxUTU"
       },
@@ -2822,24 +2840,6 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
-    },
-    {
-      "album": {
-        "name": "The Good Ones",
-        "url": "https://open.spotify.com/album/7ffPgoB9VEJ5AaqcLWeKxW"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "date_added": "2020-09-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/5OS2vP6hEJfp5bLzaWNkTj"
     },
     {
       "album": {

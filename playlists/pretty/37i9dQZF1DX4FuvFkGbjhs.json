@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: Frost Children",
-  "num_followers": 199478,
+  "num_followers": 199469,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "ICEY..FEISTY",
         "url": "https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 171764,
       "name": "..FEISTY",
       "url": "https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "2SIDED",
-        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "2SIDED",
-      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "choke enough",
-        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 198587,
-      "name": "blade bird",
-      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "A Love For Strangers",
         "url": "https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 244055,
       "name": "1000 Ways",
       "url": "https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 198587,
+      "name": "blade bird",
+      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Koneko",
+        "url": "https://open.spotify.com/album/18BjCYMvmvJSfFT8EWtyWe"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        },
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 248750,
+      "name": "Koneko",
+      "url": "https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Can You Swim?",
         "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 206143,
       "name": "High Road",
       "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Koneko",
-        "url": "https://open.spotify.com/album/18BjCYMvmvJSfFT8EWtyWe"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        },
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 248750,
-      "name": "Koneko",
-      "url": "https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "True (feelings for you)",
-        "url": "https://open.spotify.com/album/1hIyAU2h2e9h8oCR2u2Fb6"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 227730,
-      "name": "True (feelings for you)",
-      "url": "https://open.spotify.com/track/2xmFiiYZXgAJF9Eu3FOaYQ"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "viscus (feat. FKA twigs)",
         "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "True (feelings for you)",
+        "url": "https://open.spotify.com/album/1hIyAU2h2e9h8oCR2u2Fb6"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 227730,
+      "name": "True (feelings for you)",
+      "url": "https://open.spotify.com/track/2xmFiiYZXgAJF9Eu3FOaYQ"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 185174,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Clay",
         "url": "https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 185933,
       "name": "Clay",
       "url": "https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 185174,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "how the f*** does everybody else manage?",
-        "url": "https://open.spotify.com/album/7s9tN7wLGVuWclzIeywrxs"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 210222,
-      "name": "how the f*** does everybody else manage?",
-      "url": "https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/76MibAcuxC1HrFcvLYnxKm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 219786,
       "name": "Miami",
       "url": "https://open.spotify.com/track/5ZN94e9bgjsaKMwmsIl4E5"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "how the f*** does everybody else manage?",
+        "url": "https://open.spotify.com/album/7s9tN7wLGVuWclzIeywrxs"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 210222,
+      "name": "how the f*** does everybody else manage?",
+      "url": "https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN"
     },
     {
       "added_at": "2026-02-13 00:00:18",

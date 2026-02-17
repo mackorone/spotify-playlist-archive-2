@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Shoday",
-  "num_followers": 84040,
+  "num_followers": 84097,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2026-02-13 00:01:40",
       "album": {
-        "name": "Jujupiano La Presido",
-        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
+        "name": "eko",
+        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Richiemusic",
-          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 129231,
-      "name": "Jujupiano",
-      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
+      "duration_ms": 174857,
+      "name": "eko",
+      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
     },
     {
       "added_at": "2026-02-13 00:01:40",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2026-02-13 00:01:40",
       "album": {
-        "name": "eko",
-        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
+        "name": "Jujupiano La Presido",
+        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Richiemusic",
+          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
         }
       ],
-      "duration_ms": 174857,
-      "name": "eko",
-      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
+      "duration_ms": 129231,
+      "name": "Jujupiano",
+      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
     },
     {
       "added_at": "2026-02-13 00:01:40",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-02-13 00:01:40",
       "album": {
-        "name": "Coco Samba",
-        "url": "https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Coco Samba",
-      "url": "https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg"
-    },
-    {
-      "added_at": "2026-02-13 00:01:40",
-      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
+    },
+    {
+      "added_at": "2026-02-13 00:01:40",
+      "album": {
+        "name": "Coco Samba",
+        "url": "https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Coco Samba",
+      "url": "https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg"
     },
     {
       "added_at": "2026-02-13 00:01:40",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-02-13 00:01:40",
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
-    },
-    {
-      "added_at": "2026-02-13 00:01:40",
-      "album": {
         "name": "Money Moves",
         "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 163633,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
+    },
+    {
+      "added_at": "2026-02-13 00:01:40",
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
     },
     {
       "added_at": "2026-02-13 00:01:40",

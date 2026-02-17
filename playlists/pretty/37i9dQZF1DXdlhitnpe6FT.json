@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 322384,
+  "num_followers": 322489,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
-        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
       },
       "artists": [
         {
-          "name": "Stephen Schlaks",
-          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
-        },
-        {
-          "name": "Michel",
-          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
         }
       ],
-      "duration_ms": 179703,
-      "name": "BLUE DOLPHIN",
-      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
+      "duration_ms": 283573,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -159,18 +155,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
+        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
       "artists": [
         {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+          "name": "Stephen Schlaks",
+          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
+        },
+        {
+          "name": "Michel",
+          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
         }
       ],
-      "duration_ms": 283573,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
+      "duration_ms": 179703,
+      "name": "BLUE DOLPHIN",
+      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Instrumentales",
-        "url": "https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Rom\u00e1ntica de La Habana",
-          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Emmanuelle",
-      "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Volume Secondo",
         "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 151092,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Instrumentales",
+        "url": "https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Rom\u00e1ntica de La Habana",
+          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Emmanuelle",
+      "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "La m\u00e9lodie du lac d'amour",
         "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 172266,
       "name": "Dolannes m\u00e9lodie",
       "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Lost Hits Of The 60's",
-        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
-      },
-      "artists": [
-        {
-          "name": "Don Costa And His Orchestra",
-          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Nadia's Theme (Theme from the Young and Restless)",
         "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 220240,
       "name": "Sleepy Shores",
       "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Lost Hits Of The 60's",
+        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
+      },
+      "artists": [
+        {
+          "name": "Don Costa And His Orchestra",
+          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Leroy Anderson Collection",
-        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
-      },
-      "artists": [
-        {
-          "name": "Leroy Anderson",
-          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Blue Tango",
-      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Tribute to Richard Clayderman: Collection",
         "url": "https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 144373,
       "name": "Ballade pour Adeline",
       "url": "https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Leroy Anderson Collection",
+        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Anderson",
+          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Blue Tango",
+      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 212053,
-      "name": "Adam's Hotel",
-      "url": "https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
         "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 162586,
       "name": "Never On Sunday",
       "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 212053,
+      "name": "Adam's Hotel",
+      "url": "https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Wenn Der Wei\u00dfe Flieder Wieder Bl\u00fcht",
-        "url": "https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Norwegian Rain",
         "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 293853,
       "name": "The Approaching Storm",
       "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Wenn Der Wei\u00dfe Flieder Wieder Bl\u00fcht",
+        "url": "https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0"
     },
     {
       "added_at": "2025-02-14 17:45:29",

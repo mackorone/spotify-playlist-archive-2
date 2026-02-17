@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,699 likes - 130 songs - 8 hr 15 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,698 likes - 133 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 128 | [Control](https://open.spotify.com/track/3aYIobFI663p7UIIl1yO3o) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [5 to 4](https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah) | 3:39 |
 | 129 | [Nowhere](https://open.spotify.com/track/4C3UhidYKXi9xtImKtIOQ0) | [Evocrafted](https://open.spotify.com/artist/457flXJV5U0ynJI1odPwSh) | [Nowhere](https://open.spotify.com/album/4DF5CGRXs4yRl1cAAY7lST) | 3:29 |
 | 130 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 |
+| 131 | [The Monster](https://open.spotify.com/track/5iaAZ53LFUxAZVYN5Pf61u) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/7wKUgvu5sCQAU2w9Zk0yS3) | [Human Side On](https://open.spotify.com/album/3hbMkCzgjGQju7MWlxgNpw) | 3:45 |
+| 132 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 |
+| 133 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
 
-Snapshot ID: `AAAKlFk3YJMUM4bl5pBkI937DA7FHYo5`
+Snapshot ID: `AAAKl4zTpOju3Tt1mskvxwmasWEgLWsn`

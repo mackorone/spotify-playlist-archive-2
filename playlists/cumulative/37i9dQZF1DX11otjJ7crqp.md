@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Lykke Li
 
-10,549 songs - 22 day 0 hr 56 min
+10,550 songs - 22 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3608,6 +3608,7 @@
 | [Going, Going, Gone](https://open.spotify.com/track/1q1yT9GHe2eWkE3u9cWMuv) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Going, Going, Gone](https://open.spotify.com/album/09wq2K4RuML1nNbG93ubT8) | 2:55 | 2025-04-04 | 2025-04-12 |
 | [gold](https://open.spotify.com/track/5i5q4FAgCuktMvdyEdNpbJ) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [gold](https://open.spotify.com/album/6TBuustrEb2bHAzt2aduZa) | 2:43 | 2024-08-30 | 2024-09-14 |
 | [GOLD](https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:07 | 2024-10-18 | 2024-11-02 |
+| [Gold](https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg) | [Lara Buchanan](https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh) | [Gold](https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq) | 3:19 | 2026-02-16 |  |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 | 2025-06-07 |
 | [Gold Rush](https://open.spotify.com/track/14hZlv0RnqQGFAhLdEJpWR) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Gold Rush](https://open.spotify.com/album/6SV9jJwVtwhTg6sHClkXqi) | 2:36 | 2023-02-10 | 2023-02-25 |
 | [gold star](https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [gold star](https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G) | 3:06 | 2022-10-21 | 2022-11-05 |
@@ -5081,7 +5082,7 @@
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-22 | 2025-08-30 |
 | [Jealousy](https://open.spotify.com/track/4pwt8iULKdutuGAPp4gxr5) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [In His Mania](https://open.spotify.com/album/2woJZoFrOoeKSHIftNknKp) | 3:11 | 2023-03-10 | 2023-03-25 |
 | [Jealousy \- From the Vault](https://open.spotify.com/track/44jX2MFYW9vDayWo94q6TA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds: X](https://open.spotify.com/album/0cOURyRiI1HI6BEyhH9ktH) | 3:44 | 2024-09-27 | 2024-10-12 |
-| [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 | 2026-02-06 |  |
+| [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 | 2026-02-06 | 2026-02-17 |
 | [Jeans](https://open.spotify.com/track/3Cbq8IDjjWms4oawoXK9vS) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Jeans](https://open.spotify.com/album/5gpo4h1qBQv4YhPcEGzaIc) | 3:15 | 2025-08-29 | 2025-09-06 |
 | [JEANS \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [JEANS \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 | 2025-01-24 | 2025-02-08 |
 | [jekyll and hyde](https://open.spotify.com/track/7cEwNoNqs1XkNCl4kI1LQh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [jekyll and hyde](https://open.spotify.com/album/0teMOuDwBuW4twOe6nsdOY) | 3:23 | 2024-06-28 | 2024-07-13 |

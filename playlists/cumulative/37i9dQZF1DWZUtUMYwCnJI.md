@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Fire Force”! ©大久保篤・講談社／特殊消防隊動画広報第参課
 
-117 songs - 5 hr 45 min
+118 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Heart sound of the determination](https://open.spotify.com/track/3yYidegeKajid6NLuIHvyI) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 3:31 | 2022-07-08 | 2024-04-19 |
 | [Heat\-Up](https://open.spotify.com/track/15ZoHlm87b4Khc5EIGxebU) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:04 | 2022-07-08 | 2024-04-19 |
 | [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 | 2022-07-08 |  |
+| [Ignis \-イグニス\-](https://open.spotify.com/track/1NhM7fLXtADQqmOUDpX7gd) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Ignis \-イグニス\-](https://open.spotify.com/album/0eunkMwTfuXGA2wZezmVNF) | 3:46 | 2026-02-16 |  |
 | [Interception](https://open.spotify.com/track/2xnQPv6eAUl4WCUvzc9kv4) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 2:59 | 2022-07-08 | 2024-04-19 |
 | [Joker](https://open.spotify.com/track/0cUZAaLtQI0kAmUxFUZInu) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 3:13 | 2022-07-08 | 2024-04-19 |
 | [Leonard Burns](https://open.spotify.com/track/4hF3RlqEkeXNQQZKFuiW81) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 3:10 | 2022-07-08 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,116 songs - 2 day 5 hr 2 min
+1,117 songs - 2 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,7 @@
 | [Mä tiedän](https://open.spotify.com/track/0rSD1Am2Fss38eWRWoSivT) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [Still Hustla EP](https://open.spotify.com/album/12F0BHnWuiYcFWu24fyfhB) | 2:45 | 2024-03-28 | 2024-04-12 |
 | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/track/10hOi9EVbHEJCnfPLXdzHr) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR) | [Mäk Gälis aka Siskos Broidi \(2024\)](https://open.spotify.com/album/364uYlJRjMYi5M29RkZOMm) | 2:51 | 2024-05-30 | 2024-07-02 |
 | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 | 2025-07-17 | 2025-09-19 |
-| [Naamat](https://open.spotify.com/track/3Lp4gjt2Wa3ch8zNHEdegK) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [KATULAPSI](https://open.spotify.com/album/6wuSr7ftRuj9Q9fDTuJTWB) | 2:39 | 2026-01-29 |  |
+| [Naamat](https://open.spotify.com/track/3Lp4gjt2Wa3ch8zNHEdegK) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [KATULAPSI](https://open.spotify.com/album/6wuSr7ftRuj9Q9fDTuJTWB) | 2:39 | 2026-01-29 | 2026-02-17 |
 | [Naapurintyttö](https://open.spotify.com/track/57JZLky65bz6I0rtLzkigX) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [Naapurintyttö](https://open.spotify.com/album/240PwR8HJSqfT3B5WAFtYx) | 2:43 | 2025-05-01 | 2025-05-16 |
 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 | 2025-09-25 | 2026-01-15 |
 | [NBA](https://open.spotify.com/track/51UGWpfgtfah9FNodYMv07) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [NBA](https://open.spotify.com/album/0QJuqtUbv5TiITMmSA6VwW) | 1:53 | 2025-10-16 | 2025-11-28 |
@@ -875,6 +875,7 @@
 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 | 2024-06-27 | 2024-11-22 |
 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 | 2026-02-12 |  |
 | [Sisään](https://open.spotify.com/track/37mYHqFXGMpGGEYouwz9E6) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [DJ Ibusal](https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX) | [Sisään](https://open.spotify.com/album/1TUdP8VYQLqk0317CGBgWC) | 2:55 | 2025-04-03 | 2025-04-25 |
+| [Sit Ku Mul On Muija](https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Sit Ku Mul On Muija](https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl) | 2:16 | 2026-02-12 |  |
 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 | 2024-09-12 | 2024-11-29 |
 | [Sitä sattuu](https://open.spotify.com/track/5DE2VZAOm6MPo16U7F9PyW) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht), [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Self\-helpless](https://open.spotify.com/album/1za4Mc3TRWGeGUghpYMnmu) | 2:34 | 2024-03-21 | 2024-04-26 |
 | [Siunaukset](https://open.spotify.com/track/1Pon5Rwr0iUOt1AVrCOJN1) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Siunaukset](https://open.spotify.com/album/3SSlysCx4CNVwFzjmHQ2S6) | 4:05 | 2025-10-09 | 2025-10-17 |

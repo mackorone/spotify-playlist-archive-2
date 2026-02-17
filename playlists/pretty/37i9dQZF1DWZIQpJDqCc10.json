@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 756190,
+  "num_followers": 756306,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-02-12 17:07:20",
       "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1xulVUlt4ip3iu2EjrV4ZT"
+    },
+    {
+      "added_at": "2026-02-12 17:07:20",
+      "album": {
         "name": "Port Of Morrow",
         "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 255403,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
-    },
-    {
-      "added_at": "2026-02-12 17:07:20",
-      "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1xulVUlt4ip3iu2EjrV4ZT"
     },
     {
       "added_at": "2026-02-12 17:07:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-12 17:07:20",
       "album": {
-        "name": "substack girl",
-        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "substack girl",
-      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
-    },
-    {
-      "added_at": "2026-02-12 17:07:20",
-      "album": {
         "name": "Lady's Bridge",
         "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 222506,
       "name": "Tonight the Streets Are Ours",
       "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
+    },
+    {
+      "added_at": "2026-02-12 17:07:20",
+      "album": {
+        "name": "substack girl",
+        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "substack girl",
+      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
     },
     {
       "added_at": "2026-02-12 17:07:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-12 17:07:20",
       "album": {
-        "name": "Every Shade of Blue",
-        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Tiebreaker",
-      "url": "https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi"
-    },
-    {
-      "added_at": "2026-02-12 17:07:20",
-      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 272786,
       "name": "Space And Time",
       "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
+    },
+    {
+      "added_at": "2026-02-12 17:07:20",
+      "album": {
+        "name": "Every Shade of Blue",
+        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Tiebreaker",
+      "url": "https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi"
     },
     {
       "added_at": "2026-02-12 17:07:20",

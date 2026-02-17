@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 
 > A collection of timeless queer love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,390 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,395 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 30 | [I Only Wanna Be With You](https://open.spotify.com/track/22OUIfVCLTDQOlhbYGENnw) | [Samantha Fox](https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa) | [I Wanna Have Some Fun \(Deluxe Edition\)](https://open.spotify.com/album/6ozfMMbw3Q8mpAyG3RsiIe) | 2:44 |
 | 31 | [Love Is Love](https://open.spotify.com/track/4j6gtujBx7Yz2spqF8BB4k) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:51 |
 | 32 | [Miss Chatelaine](https://open.spotify.com/track/4EtgMdgRhQuIDk8bfBP4Uk) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 3:49 |
-| 33 | [Who Am I](https://open.spotify.com/track/74l0jBScdgJr6guky8aMXS) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/7G7cYqdhZqAivcQbvOtHUH) | 4:27 |
+| 33 | [Closer to You](https://open.spotify.com/track/0MggXP5ci9f9ei85Lgt2dI) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:51 |
 | 34 | [Good Guys](https://open.spotify.com/track/6wCO5ogfiksJRDpYysqhKE) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven](https://open.spotify.com/album/6zVIADLuIrdkiChta3XiSo) | 3:23 |
-| 35 | [Closer to You](https://open.spotify.com/track/0MggXP5ci9f9ei85Lgt2dI) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:51 |
+| 35 | [Who Am I](https://open.spotify.com/track/74l0jBScdgJr6guky8aMXS) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/7G7cYqdhZqAivcQbvOtHUH) | 4:27 |
 | 36 | [Memoir](https://open.spotify.com/track/0z21vE4xHXXYSyXkOLDUXF) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Waves](https://open.spotify.com/album/6tgcCHvlpGnpHFpd5kfABz) | 3:32 |
 | 37 | [Love They Say](https://open.spotify.com/track/38GMZWLQs4NDvBtrIKRvNh) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:34 |
 | 38 | [Men In Love](https://open.spotify.com/track/4YJByhpWsORTTFgSl5tL76) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/1GB8gZTSdbiup5FzxNknRo) | 3:40 |
-| 39 | [Daniel](https://open.spotify.com/track/4SerjQeo3bR6As5BsR8liB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Crying on the Bathroom Floor](https://open.spotify.com/album/6LpOq2g6EKNdl07wo3qyWJ) | 4:37 |
-| 40 | [Let Us Dance](https://open.spotify.com/track/79eAhQg3DC770z8t1tzIPL) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:24 |
+| 39 | [Let Us Dance](https://open.spotify.com/track/79eAhQg3DC770z8t1tzIPL) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:24 |
+| 40 | [Daniel](https://open.spotify.com/track/4SerjQeo3bR6As5BsR8liB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Crying on the Bathroom Floor](https://open.spotify.com/album/6LpOq2g6EKNdl07wo3qyWJ) | 4:37 |
 | 41 | [Count On My Love](https://open.spotify.com/track/42uyTxp8q9TpPkoyB4FG1M) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Somebody's Miracle](https://open.spotify.com/album/36v4Zu6EghgWxv7GHJfdcv) | 3:41 |
 | 42 | [Take Me I'm Yours](https://open.spotify.com/track/1lZV08zhFneKACPkVnjScM) | [Jobriath](https://open.spotify.com/artist/4FxPaLo3DIZCmKsYuhjkhA) | [Jobriath](https://open.spotify.com/album/2yQtSuU9flHpz4LbeNVfKT) | 4:18 |
 | 43 | [Tender Comrade](https://open.spotify.com/track/2Rdocl8BdYWOSMAyZgTh4v) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Workers Playtime](https://open.spotify.com/album/3IDRk9hZRyYpq8DzN6jOKT) | 2:50 |

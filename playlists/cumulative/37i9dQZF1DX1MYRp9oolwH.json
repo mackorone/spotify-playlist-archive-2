@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Raja Saab",
+  "description": "Bringing out the best of latest love tracks\nCover : Couple Friendly",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 170699,
       "name": "Emo Emo (From \"Krishna Leela\")",
       "url": "https://open.spotify.com/track/4Ptt6zHijOaG997nqwbSmt"
@@ -3235,6 +3235,36 @@
     },
     {
       "album": {
+        "name": "Kallonu Neeve (From \"Hey Bhagawan\")",
+        "url": "https://open.spotify.com/album/6KAE1qPSnDKkm4Dl9tTdHM"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Ramya Behra",
+          "url": "https://open.spotify.com/artist/1DnwaG1rxWzOvYvp27QJ2y"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270016,
+      "name": "Kallonu Neeve - From \"Hey Bhagawan\"",
+      "url": "https://open.spotify.com/track/5C9SiDdapQmMu0pmbOy5jm"
+    },
+    {
+      "album": {
         "name": "Popcorn",
         "url": "https://open.spotify.com/album/6ktdg1rJf5ovG876PbWZ5G"
       },
@@ -4459,6 +4489,36 @@
     },
     {
       "album": {
+        "name": "Modhale Modhale (From \"Vishnu Vinyasam\")",
+        "url": "https://open.spotify.com/album/2YfpaYTF33VeJkbDkkFSdP"
+      },
+      "artists": [
+        {
+          "name": "Radhan",
+          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        },
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Modhale Modhale (From \"Vishnu Vinyasam\")",
+      "url": "https://open.spotify.com/track/2syjEtsoZQ5INZdB3Mi88P"
+    },
+    {
+      "album": {
         "name": "Modhati Chinuku (From \"Akkada Ammayi Ikkada Abbayi\")",
         "url": "https://open.spotify.com/album/15otgS9n2rpNQ1ksskwG4r"
       },
@@ -4878,6 +4938,32 @@
       "duration_ms": 272908,
       "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
       "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
+    },
+    {
+      "album": {
+        "name": "Couple Friendly",
+        "url": "https://open.spotify.com/album/2jqfRX0prl2ATLogVwZzac"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148909,
+      "name": "Naato Raa Ila",
+      "url": "https://open.spotify.com/track/6NT6Lt7OfpOedFvP1w9jdK"
     },
     {
       "album": {
@@ -7046,7 +7132,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 156677,
       "name": "Prema Ishq Kadhal (From \"#Single\")",
       "url": "https://open.spotify.com/track/4pHQv2rtfp80PuHdrgSx1o"
@@ -8014,7 +8100,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 199480,
       "name": "Sugar Baby (From \"Thug Life\") (Telugu)",
       "url": "https://open.spotify.com/track/1JvPjn3wZgJvnlud83q4uU"

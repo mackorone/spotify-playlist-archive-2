@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159059,
+  "num_followers": 159050,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,34 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "OCANV (Cap. II)",
-        "url": "https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc"
+        "name": "444",
+        "url": "https://open.spotify.com/album/3DoNQvfS2tDXdrt0cpCmZX"
       },
       "artists": [
         {
           "name": "Kako",
           "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        },
+        {
+          "name": "Slaasty",
+          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
+        },
+        {
+          "name": "Valey",
+          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
+        },
+        {
+          "name": "Bymd.wav",
+          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
         }
       ],
-      "duration_ms": 229333,
-      "name": "O Agora \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS"
+      "duration_ms": 160000,
+      "name": "444",
+      "url": "https://open.spotify.com/track/6vmLLWTn3AvJSZ4oSUXGPt"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -207,34 +223,18 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/3DoNQvfS2tDXdrt0cpCmZX"
+        "name": "OCANV (Cap. II)",
+        "url": "https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc"
       },
       "artists": [
         {
           "name": "Kako",
           "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "DJ JR No Beat",
-          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
-        },
-        {
-          "name": "Slaasty",
-          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
-        },
-        {
-          "name": "Valey",
-          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
-        },
-        {
-          "name": "Bymd.wav",
-          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "444",
-      "url": "https://open.spotify.com/track/6vmLLWTn3AvJSZ4oSUXGPt"
+      "duration_ms": 229333,
+      "name": "O Agora \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
-      },
-      "artists": [
-        {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 146288,
       "name": "sintetizar",
       "url": "https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Minha Morena (Doce de Coco)",
-        "url": "https://open.spotify.com/album/17RziSmih4wRjbWDFw4SiF"
-      },
-      "artists": [
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        },
-        {
-          "name": "Ferrero",
-          "url": "https://open.spotify.com/artist/4MCdbtcr6TeOmylmw2uqy7"
-        }
-      ],
-      "duration_ms": 175201,
-      "name": "Minha Morena (Doce de Coco)",
-      "url": "https://open.spotify.com/track/1iVDGNYNyBezkmdfsLT95T"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Minha Morena (Doce de Coco)",
+        "url": "https://open.spotify.com/album/17RziSmih4wRjbWDFw4SiF"
+      },
+      "artists": [
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Ferrero",
+          "url": "https://open.spotify.com/artist/4MCdbtcr6TeOmylmw2uqy7"
+        }
+      ],
+      "duration_ms": 175201,
+      "name": "Minha Morena (Doce de Coco)",
+      "url": "https://open.spotify.com/track/1iVDGNYNyBezkmdfsLT95T"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
         "name": "Modo Avi\u00e3o",
         "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -1267,6 +1267,34 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
+        "name": "Bate A Onda",
+        "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
+      },
+      "artists": [
+        {
+          "name": "Rio Santana",
+          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Bate A Onda",
+      "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -1299,34 +1327,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
-        "name": "Bate A Onda",
-        "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
-      },
-      "artists": [
-        {
-          "name": "Rio Santana",
-          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Bate A Onda",
-      "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
     },
     {
       "added_at": "2026-02-13 15:20:30",

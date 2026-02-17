@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108053,
+  "num_followers": 108058,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAADFp7ddOA1V2Lh4EkY8n/Sf",
+  "snapshot_id": "aZEMgAAAAAB1tuJfMqUe1ZdXVy4V3QvF",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "'t Rode Licht",
-      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen Met Dr\u00e9",
         "url": "https://open.spotify.com/album/5iwfn6LrS7wwhuMLn16io3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 241493,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/4AQnXdOq7ChjMhibKrKne1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "'t Rode Licht",
+      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Dat Ene Moment",
-      "url": "https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Want Ik Hou Van Jou",
         "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232933,
       "name": "Eenzaam Zonder Jou",
       "url": "https://open.spotify.com/track/3UJ8i54HagEeH4lhmACvLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Dat Ene Moment",
+      "url": "https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Hoogste Tijd",
+      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zonder Zorgen",
         "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 181813,
       "name": "Jij Bent Het Leven Voor Mij",
       "url": "https://open.spotify.com/track/1es7Ebp9ALgRNFAA8GU2dl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Hoogste Tijd",
-      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
     },
     {
       "added_at": null,

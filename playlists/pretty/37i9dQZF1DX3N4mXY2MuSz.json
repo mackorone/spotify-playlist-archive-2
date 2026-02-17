@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 91552,
+  "num_followers": 91539,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Holiday Records",
-        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Holiday Records",
-      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Under the Mistletoe",
         "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 178228,
       "name": "Under the Mistletoe",
       "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Holiday Records",
+        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Holiday Records",
+      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
-      },
-      "artists": [
-        {
-          "name": "The Dollyrots",
-          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
-        }
-      ],
-      "duration_ms": 164655,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Under the Mistletoe",
         "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 153836,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/6gnNYcp6JfcOmX7itB8Mqy"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "duration_ms": 164655,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
     },
     {
       "added_at": "2023-11-18 13:41:26",

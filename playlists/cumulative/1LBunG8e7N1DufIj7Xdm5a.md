@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,079 songs - 9 day 0 hr 46 min
+4,080 songs - 9 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3393,6 +3393,7 @@
 | [sun&moon](https://open.spotify.com/track/1gmOkIOhtOu0NYfJ2NOJiB) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 3:41 | 2026-02-01 |  |
 | [Sunday](https://open.spotify.com/track/1rBSCtZ1wkeFATpnZ9bTKL) | [Myqwan](https://open.spotify.com/artist/6Gnc30gwlxqy5XcHKAAdYW), [rhver](https://open.spotify.com/artist/61XecHCUKmtyHxjUjEGTw2) | [Sunday](https://open.spotify.com/album/1KSuUHadYkDa2ofZWbQvjU) | 2:04 | 2025-10-07 |  |
 | [Sunny Laxx \- Instrumental Version](https://open.spotify.com/track/4YsBNrob4b0iJqiEjKfZMj) | [Bryte London](https://open.spotify.com/artist/65cvaHkkZKLwKf59Iek0Z2) | [Can't please everyone \(Instrumental Versions\)](https://open.spotify.com/album/7cmbPn2zMRLL1gJf3UlTle) | 3:52 | 2025-07-02 |  |
+| [Sunrise](https://open.spotify.com/track/2s7VCqMcb8QGrV0EibS9Zn) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Sunrise](https://open.spotify.com/album/60QAGbK2rS6skUvNkOtyi1) | 2:00 | 2026-02-16 |  |
 | [Sunrise](https://open.spotify.com/track/7tl6dTehSZtwoaEVywqDUF) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:34 | 2025-09-26 |  |
 | [Sunrise Through the Rain](https://open.spotify.com/track/5aJf7PFvegB2V4Fera6adj) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Sunrise Through the Rain](https://open.spotify.com/album/6P6ZRaDC8zsyBANA3Sp86Z) | 3:09 | 2025-07-14 |  |
 | [Sunset](https://open.spotify.com/track/1HkDKJRg6598ORwKJ7Mx3W) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunset](https://open.spotify.com/album/7K6rtpxtm1dHdf9rStoxjP) | 2:36 | 2025-10-06 |  |
@@ -3563,7 +3564,7 @@
 | [This Is Me Now](https://open.spotify.com/track/7h1uI67A9TiWPkN3q92eG3) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [This Is Me Now](https://open.spotify.com/album/00uewIQMregDQdUNm9cvhr) | 3:35 | 2025-05-28 |  |
 | [This Is Our Time to Shine](https://open.spotify.com/track/2F080r5E911UkcpBHYODgW) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [This Is Our Time to Shine](https://open.spotify.com/album/1oViNwiuBetbjI9JwdtCVx) | 3:40 | 2025-07-30 |  |
 | [This Old Song](https://open.spotify.com/track/3m6SoAEQxV0ymSSW60H90o) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [The Seadix](https://open.spotify.com/album/57KXLCCEgLNCP9yCd54ZEq) | 4:04 | 2025-03-19 |  |
-| [This One's For the Animals](https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [This One's For the Animals](https://open.spotify.com/album/23s3GAPukrsVKkEEYQ1w4Z) | 3:54 | 2026-01-01 |  |
+| [This One's For the Animals](https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [This One's For the Animals](https://open.spotify.com/album/23s3GAPukrsVKkEEYQ1w4Z) | 3:53 | 2026-01-01 |  |
 | [This, That Or The Other](https://open.spotify.com/track/3RPmevnrDw4kuZzIZk4f2A) | [Drew Hoskin](https://open.spotify.com/artist/5VtvCDxWKTiqUB5XLkRIDg) | [This, That Or The Other](https://open.spotify.com/album/3mhZOmpUVEBwHwRMvzIZBf) | 4:09 | 2025-10-15 |  |
 | [Thor's Tenderness](https://open.spotify.com/track/2GuQZ8HhzsMzIkafnxDEeA) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Thor's Tenderness](https://open.spotify.com/album/57k0euZ4ssLAjqCVD6Z3Vd) | 6:23 | 2025-05-27 |  |
 | [Threats](https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:11 | 2025-06-04 |  |

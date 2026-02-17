@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 985 likes - 433 songs - 22 hr 30 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 986 likes - 433 songs - 22 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can't Let Go](https://open.spotify.com/track/0UYdjTBvZQMkw3vV6p5GD4) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 3:44 |
-| 2 | [It Should Be Enough](https://open.spotify.com/track/29zqa4XsteeaYfJRjrQE78) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 3:39 |
-| 3 | [Time Flies](https://open.spotify.com/track/4AC7UmfLQSDdGleBbRpCLp) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 4:04 |
-| 4 | [Eighteen Mile Hike](https://open.spotify.com/track/7z812HS2zeD5Rn9mmNQmdQ) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [My Dreams Are Real](https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm) | 3:23 |
-| 5 | [We Built Pillow Forts](https://open.spotify.com/track/7gCEHgBxNJQElU2AInPSHM) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [My Dreams Are Real](https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm) | 4:51 |
-| 6 | [PROJECTILE LAUNCH](https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat) | [Mors\_Music](https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap) | [PROJECTILE LAUNCH](https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ) | 1:43 |
-| 7 | [im so burnt out......](https://open.spotify.com/track/0u9ah2ll7H8deTtTv7QEkS) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [im so burnt out......](https://open.spotify.com/album/3dehGedgrDUQgbnVXAw7OC) | 1:11 |
-| 8 | [Blood Debt](https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ), [Daratomic](https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM), [Moleigh](https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3) | [Blood Debt](https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x) | 3:34 |
-| 9 | [skeleton](https://open.spotify.com/track/5CpFnf53jOpKvPiOxse77C) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [skeleton](https://open.spotify.com/album/5wgc9OU0XuIYtRJAiRJRS2) | 2:32 |
+| 1 | [Sacred Dragon](https://open.spotify.com/track/0mUZACSoXJp9w5haaM32xm) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Girls Who Are Wizards](https://open.spotify.com/album/1akpAgX4I2XFX3RSfa4xsb) | 5:30 |
+| 2 | [Blood Debt](https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ), [Daratomic](https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM), [Moleigh](https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3) | [Blood Debt](https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x) | 3:34 |
+| 3 | [Can't Let Go](https://open.spotify.com/track/0UYdjTBvZQMkw3vV6p5GD4) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 3:44 |
+| 4 | [im so burnt out......](https://open.spotify.com/track/0u9ah2ll7H8deTtTv7QEkS) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [im so burnt out......](https://open.spotify.com/album/3dehGedgrDUQgbnVXAw7OC) | 1:11 |
+| 5 | [PROJECTILE LAUNCH](https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat) | [Mors\_Music](https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap) | [PROJECTILE LAUNCH](https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ) | 1:43 |
+| 6 | [Time Flies](https://open.spotify.com/track/4AC7UmfLQSDdGleBbRpCLp) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 4:04 |
+| 7 | [Eighteen Mile Hike](https://open.spotify.com/track/7z812HS2zeD5Rn9mmNQmdQ) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [My Dreams Are Real](https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm) | 3:23 |
+| 8 | [skeleton](https://open.spotify.com/track/5CpFnf53jOpKvPiOxse77C) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [skeleton](https://open.spotify.com/album/5wgc9OU0XuIYtRJAiRJRS2) | 2:32 |
+| 9 | [We Built Pillow Forts](https://open.spotify.com/track/7gCEHgBxNJQElU2AInPSHM) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [My Dreams Are Real](https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm) | 4:51 |
 | 10 | [bunnies](https://open.spotify.com/track/20bGC5TBR7zz3bZQH7QxlI) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH), [Pastor's Child](https://open.spotify.com/artist/0c17IXceiF19D9zfy0PCag) | [Pollyanna](https://open.spotify.com/album/2LXR2618aXK3sfnx200Blv) | 3:14 |
 | 11 | [The Mix\-Stir Bar V2](https://open.spotify.com/track/6nd5Zai4IyFDXigvA6fzsD) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [The Mix\-Stir Bar V2](https://open.spotify.com/album/4cDCAy44vGoS129GOO5ZBy) | 4:16 |
 | 12 | [Means For Me](https://open.spotify.com/track/6u89aNSrS1wZybJ8EE7Yr0) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Means For Me](https://open.spotify.com/album/36c6YiTV5eTKfjXnZ87Doi) | 1:44 |
@@ -442,4 +442,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 432 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 433 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAE4vxm7zT5rz+139kkc5B/KPsj3LeR`
+Snapshot ID: `AAAE6yE+hDLP+kBHTHvnJBPyZQ+eUOvS`

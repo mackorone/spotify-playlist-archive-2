@@ -11099,6 +11099,24 @@
     },
     {
       "album": {
+        "name": "Toernei G\u00e9nerale",
+        "url": "https://open.spotify.com/album/3ZVI1Jmh4lihKiy4La2GJT"
+      },
+      "artists": [
+        {
+          "name": "De Prinsengarde",
+          "url": "https://open.spotify.com/artist/10mXqyHLqfC3J1fhXTWekl"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206210,
+      "name": "Da's 't Er Oever",
+      "url": "https://open.spotify.com/track/2WHJhaEljSTNNSEXPG3iRb"
+    },
+    {
+      "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
       },
@@ -13852,7 +13870,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 201816,
       "name": "El Apag\u00f3n",
       "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
@@ -17832,6 +17850,24 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/77rPNlZk0Q1MISlzrNU8JG"
+      },
+      "artists": [
+        {
+          "name": "MA:RK",
+          "url": "https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159390,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD"
     },
     {
       "album": {
@@ -23998,7 +24034,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210070,
-      "name": "Just the Way You Are",
+      "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
@@ -25280,7 +25316,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 213010,
       "name": "LA MuDANZA",
       "url": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
@@ -27676,7 +27712,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 169558,
       "name": "Lossendeer",
       "url": "https://open.spotify.com/track/0PQ0WzW0FevrLxPbpdd5VA"
@@ -29088,7 +29124,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX"
@@ -29122,7 +29158,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -33388,7 +33424,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -38382,7 +38418,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 188187,
       "name": "Rakete - Party Edit",
       "url": "https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY"
@@ -48986,6 +49022,24 @@
       "duration_ms": 157453,
       "name": "Verdwijnen Is Slechts Een Idee",
       "url": "https://open.spotify.com/track/1xlUh4gUQoif6w5ScQFjSk"
+    },
+    {
+      "album": {
+        "name": "Versatile - The Dark Triad (Slowed + Low Honor)",
+        "url": "https://open.spotify.com/album/544701joUsTjzSZSxcqOtb"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - The Dark Triad - Slowed + Low Honor",
+      "url": "https://open.spotify.com/track/0dLohoopycOGpzoaFROXvk"
     },
     {
       "album": {

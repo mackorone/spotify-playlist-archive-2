@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-483 songs - 1 day 1 hr 33 min
+484 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-07-22 |  |
 | [iPop](https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [iPop](https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P) | 2:55 | 2025-04-12 |  |
 | [Isn't Life Grand?](https://open.spotify.com/track/61wOkxKIdAJf6R167CHYnt) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [I've Been To Hell Before...](https://open.spotify.com/album/3A9rfPhGC6RCgBTLGt7MgR) | 2:42 | 2024-10-21 |  |
-| [It Should Be Enough](https://open.spotify.com/track/29zqa4XsteeaYfJRjrQE78) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 3:39 | 2026-02-11 |  |
+| [It Should Be Enough](https://open.spotify.com/track/29zqa4XsteeaYfJRjrQE78) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 3:39 | 2026-02-11 | 2026-02-17 |
 | [It's Not Over](https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [It's Not Over](https://open.spotify.com/album/3Ou1ImPGFCZTuPlf7z0K7K) | 4:13 | 2024-02-18 |  |
 | [Jingle Bells, as Performed by the Pilford Squadron Seasonal Choral Group](https://open.spotify.com/track/6QuNhKTNlBTcLXwYbxz743) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 2:22 | 2025-11-29 |  |
 | [Joyful Bytes Remix \- Multi Fox Remix](https://open.spotify.com/track/4yIOiovEnQRhCO4i6cJd4L) | [Crazyjump15](https://open.spotify.com/artist/5U9kEd81S4XlSMR0Ielhip), [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Joyful Bytes Remix \(Multi Fox Remix\)](https://open.spotify.com/album/0AQqN7bjOCaBVYohR8dYhM) | 2:50 | 2025-02-22 |  |
@@ -371,6 +371,7 @@
 | [run amok!](https://open.spotify.com/track/2j1Wv50igdxKp2JTsqzkdd) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [run amok!](https://open.spotify.com/album/1GuaHRa0owkz2jxmqh3Q4J) | 3:03 | 2025-06-05 |  |
 | [RUSH!](https://open.spotify.com/track/5qXCO06nIc5y70qxieIL7X) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:08 | 2025-02-03 |  |
 | [RUSH!](https://open.spotify.com/track/6fbkYgGPkflSxMPOXSqrKW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [RUSH!](https://open.spotify.com/album/2LeHZqC5P8Ma1V26G6oA8d) | 3:08 | 2024-08-15 |  |
+| [Sacred Dragon](https://open.spotify.com/track/0mUZACSoXJp9w5haaM32xm) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Girls Who Are Wizards](https://open.spotify.com/album/1akpAgX4I2XFX3RSfa4xsb) | 5:30 | 2026-02-16 |  |
 | [Sahabat Terbaik Sedunia](https://open.spotify.com/track/0CvIcRCHW5WJaiCd8jteNN) | [Labirhin](https://open.spotify.com/artist/2rYGNtQDYXTIbFHWYUCFqJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Sahabat Terbaik Sedunia](https://open.spotify.com/album/4yYII4HdTiOkcrwJHoXCas) | 1:23 | 2024-02-09 |  |
 | [SAHARA](https://open.spotify.com/track/43hJsHAl3GsONuKrFyLLME) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [SAHARA](https://open.spotify.com/album/5KlNaIz7LcsvDzgX6UHtyM) | 7:47 | 2024-02-26 |  |
 | [SAME PLACE, DIFFERENT TIME](https://open.spotify.com/track/0r595UNykBB1OFqQabV7nS) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2024-09-08 |  |

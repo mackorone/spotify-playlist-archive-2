@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7g0V4gerBRwKlNuUcqqrg0.md) - cumulative - [plain](/playlists/plain/7g0V4gerBRwKlNuUcqqrg0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7g0V4gerBRwKlNuUcqqrg0)
 
-### [Lazy Days \| Easy Music ](https://open.spotify.com/playlist/7g0V4gerBRwKlNuUcqqrg0)
+### [Rustig & Relaxed \| Lazy Days \| Easy Music ](https://open.spotify.com/playlist/7g0V4gerBRwKlNuUcqqrg0)
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 

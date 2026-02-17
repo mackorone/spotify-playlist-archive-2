@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156 likes - 155 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 157 likes - 155 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 105 | [The Happiest Girl in the World](https://open.spotify.com/track/1m0TS40nRJ4bGPI1bt89G7) | [Dran Seitz](https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs), [Bruce Yarnell](https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:39 |
 | 106 | [Never Trust a Virgin](https://open.spotify.com/track/6qQlBgCaBmIInb2kJbKhSp) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr), [The Happiest Girl In The World Ensemble](https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:10 |
 | 107 | [Savannah's Wedding Day](https://open.spotify.com/track/2mN3fXIYr23BS9XJS3bpiT) | [Adelaide Hall](https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI), [Augustine Rios](https://open.spotify.com/artist/5GSp5Dj19TpeH6ajec03bC), [Jamaica Ensemble](https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm) | [Jamaica \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7) | 3:55 |
-| 108 | [How Do You Do It?](https://open.spotify.com/track/2CG3acTynVaJNismnFQG0n) | [Harlan Lattimore](https://open.spotify.com/artist/6duMdRTLHOSiawChnRsoqc) | [Art Deco Series: The Crooners](https://open.spotify.com/album/7aUYCMmg4f2QC2wTdRfPsw) | 3:15 |
-| 109 | [In the Shade of the New Apple Tree](https://open.spotify.com/track/6KodPm0skQZqVXSi9cSIiD) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Harold Sings Arlen \(With Friend\)](https://open.spotify.com/album/7gKHukqC50on673pzPsxhq) | 4:02 |
+| 108 | [In the Shade of the New Apple Tree](https://open.spotify.com/track/6KodPm0skQZqVXSi9cSIiD) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Harold Sings Arlen \(With Friend\)](https://open.spotify.com/album/7gKHukqC50on673pzPsxhq) | 4:02 |
+| 109 | [How Do You Do It?](https://open.spotify.com/track/2CG3acTynVaJNismnFQG0n) | [Harlan Lattimore](https://open.spotify.com/artist/6duMdRTLHOSiawChnRsoqc) | [Art Deco Series: The Crooners](https://open.spotify.com/album/7aUYCMmg4f2QC2wTdRfPsw) | 3:15 |
 | 110 | [Five Minutes of Spring](https://open.spotify.com/track/5z5SPHiG3Nbt7HlrFGXQJj) | [Bruce Yarnell](https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:43 |
 | 111 | [Consternation](https://open.spotify.com/track/61plzvIApD4JcK824d9UMx) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:53 |
 | 112 | [Vive la Virtue!](https://open.spotify.com/track/0APU0D5VkQaGbZbZObeFUv) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr), [Janice Rule](https://open.spotify.com/artist/0Jj6ZBoSkG9LN6J52d3RaJ) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:20 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 154 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 155 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcJxFgAAAAAgRrhnMr7qCk68sWITQTVz`
+Snapshot ID: `AcJ2tgAAAABhTLAv5up8vLlEL9sxzxwj`

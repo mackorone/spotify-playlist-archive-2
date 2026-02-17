@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain](/playlists/plain/7g0V4gerBRwKlNuUcqqrg0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7g0V4gerBRwKlNuUcqqrg0)
 
-### [Lazy Days \| Easy Music ](https://open.spotify.com/playlist/7g0V4gerBRwKlNuUcqqrg0)
+### [Rustig & Relaxed \| Lazy Days \| Easy Music ](https://open.spotify.com/playlist/7g0V4gerBRwKlNuUcqqrg0)
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 158,351 likes - 113 songs - 6 hr 31 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 158,338 likes - 113 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 | 112 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 113 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 |
 
-Snapshot ID: `AAAvnnJ4jLwyVutYqCOakWbo+vsulZnZ`
+Snapshot ID: `AAAvn8LZAm3tOQdxnGerxm2FofZuorZ1`

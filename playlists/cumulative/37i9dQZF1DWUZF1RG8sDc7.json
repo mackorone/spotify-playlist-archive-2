@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Pisando Fuerte",
+        "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268042,
+      "name": "Acu\u00e9rdate",
+      "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
+    },
+    {
+      "album": {
         "name": "Inquietos por el Mundo",
         "url": "https://open.spotify.com/album/5shy1nYHyjL9JhC72V5uFx"
       },
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 288693,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/21KgSn2kl6BG6OQkrbpEO3"

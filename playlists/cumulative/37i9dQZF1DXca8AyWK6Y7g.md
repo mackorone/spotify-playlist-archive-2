@@ -4,7 +4,7 @@
 
 > on repeat for a reason\. cover: Tiffany Stringer
 
-2,679 songs - 5 day 14 hr 40 min
+2,680 songs - 5 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1249,7 +1249,7 @@
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-09-22 | 2024-05-18 |
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2022-09-16 | 2022-10-29 |
 | [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-17 | 2024-08-13 |
-| [Isabelle](https://open.spotify.com/track/5o87pxo0Zozf7P1O1yNfbd) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Isabelle](https://open.spotify.com/album/5ygL8MzMTxNwuPtvMI4znh) | 3:23 | 2025-12-12 |  |
+| [Isabelle](https://open.spotify.com/track/5o87pxo0Zozf7P1O1yNfbd) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Isabelle](https://open.spotify.com/album/5ygL8MzMTxNwuPtvMI4znh) | 3:23 | 2025-12-12 | 2026-02-17 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-02-18 | 2022-03-26 |
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-12-01 | 2024-01-05 |
 | [ISSUE](https://open.spotify.com/track/14XAip5CLUhA0xtAwXwXGN) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [friends, vol\. 2](https://open.spotify.com/album/4fAtA6cyPkXVjoiP4XmfI0) | 2:35 | 2025-05-27 | 2025-07-05 |
@@ -1817,6 +1817,7 @@
 | [Person Place Thing](https://open.spotify.com/track/5D84Zz4oYp31jbtJJBUdcY) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [The Process of Elimination](https://open.spotify.com/album/1cNUOEj2yAzDKPFpYjAFfX) | 3:03 | 2024-10-04 | 2025-01-25 |
 | [Persona](https://open.spotify.com/track/73b1rZFO0vJSWZwTYhmCS4) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Persona](https://open.spotify.com/album/7aRO1Gd0fxAKGy4iD7dsmb) | 2:35 | 2024-06-28 | 2024-08-03 |
 | [Personal Heaven](https://open.spotify.com/track/2NnUOg9dghRfOm7WB95qYF) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [Personal Heaven](https://open.spotify.com/album/1lSlCtrnrEgucgXsgFfY0j) | 3:04 | 2021-11-19 | 2022-01-29 |
+| [petty](https://open.spotify.com/track/287bhecKV9kCdFxVnUUUeT) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4) | 2:53 | 2026-02-16 |  |
 | [phoenix](https://open.spotify.com/track/0jcSQEXvXQba514O6oMeS2) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [phoenix](https://open.spotify.com/album/5BieDRKjT842fbfPZZRTt4) | 2:43 | 2020-05-04 | 2021-10-14 |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2021-02-24 | 2022-05-03 |
 | [Photo ID](https://open.spotify.com/track/05HcbNOx4ufV66C7K7yUbx) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Photo ID](https://open.spotify.com/album/5Nz7QZX1faLFKujs9QrHd4) | 2:37 | 2021-10-29 | 2022-01-15 |

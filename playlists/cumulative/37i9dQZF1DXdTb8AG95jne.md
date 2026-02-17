@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: CHOSNG\(초승\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Sion\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,248 songs - 3 day 3 hr 32 min
+1,251 songs - 3 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [101\(Home Home\)](https://open.spotify.com/track/37udabD4Yr1PWBF2QvyBf0) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [101\(Home Home\)](https://open.spotify.com/album/4luAxhIonh4m7E73ceAYho) | 3:04 | 2024-04-30 | 2024-05-10 |
 | [14551](https://open.spotify.com/track/7MiGI1BmyQWhd0blrrTTxO) | [dogyu](https://open.spotify.com/artist/2mZ82ywIcug873Z3DCpL5N), [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [14551](https://open.spotify.com/album/2q0oMA64W0M58swynXTNWe) | 2:16 | 2024-11-20 | 2025-01-23 |
 | [15 Years Old](https://open.spotify.com/track/1ksJA4Yme39NKgn82SvLsp) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [A side](https://open.spotify.com/album/5avEts7E1VeMY3cE8tLzY6) | 3:24 | 2025-03-21 | 2025-04-23 |
-| [1993](https://open.spotify.com/track/64JnIJP3R8v4WYXYNFINyI) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [1993](https://open.spotify.com/album/20UAantLyOICNDYJTbX1rt) | 2:36 | 2025-12-25 |  |
+| [1993](https://open.spotify.com/track/64JnIJP3R8v4WYXYNFINyI) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [1993](https://open.spotify.com/album/20UAantLyOICNDYJTbX1rt) | 2:36 | 2025-12-25 | 2026-02-17 |
 | [1AM 새벽 한 시](https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [1AM 새벽 한 시](https://open.spotify.com/album/2W4RwbxG9DWa5Y18Fve6Ie) | 4:19 | 2022-04-12 | 2022-04-18 |
 | [1MIN](https://open.spotify.com/track/3K7tYWE7j23hy9i228NwdQ) | [SUNBURNKIDS](https://open.spotify.com/artist/6SvZiq1Mf4AK1Vxslxo6HL) | [1MIN](https://open.spotify.com/album/6ZJhQiQM1Y6a3R5VX8Qww6) | 2:08 | 2024-04-30 | 2024-05-10 |
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-06-06 | 2024-11-30 |
@@ -124,6 +124,7 @@
 | [Bike](https://open.spotify.com/track/3B763uTyzLSz398fi7FIYe) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:44 | 2021-12-21 | 2022-04-13 |
 | [Bipolar](https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Bipolar](https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId) | 3:26 | 2024-12-19 | 2025-02-13 |
 | [BLACK](https://open.spotify.com/track/5a4R9Amz7u9d6UHrAG2dda) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Space Project, Pt.1](https://open.spotify.com/album/1g43WE5cSvxO2vYHyUxbPq) | 3:07 | 2022-03-31 | 2022-04-19 |
+| [Black Night](https://open.spotify.com/track/2hpmUppgJrIfYCp14ly88K) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Black Night](https://open.spotify.com/album/2YPXYnjEo4EgUhQ3MyYaET) | 4:12 | 2026-02-16 |  |
 | [Blinded](https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb) | 3:45 | 2023-07-17 | 2023-08-25 |
 | [Blocks](https://open.spotify.com/track/3WuzkyoFApI0co4QbaltyO) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Somnia 0:00 \- Chapter 1](https://open.spotify.com/album/0yxt6or5KqsURYDJMAMTmi) | 4:01 | 2025-10-30 | 2025-12-05 |
 | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f) | [Miiro](https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP), [Akane Lize](https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK) | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i) | 4:27 | 2025-06-13 | 2025-07-23 |
@@ -337,6 +338,7 @@
 | [Fine](https://open.spotify.com/track/6VVNdVTR3akq26mrvlEUQJ) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [Fine](https://open.spotify.com/album/6KXd8ZKlGFulveeHsOH5cX) | 2:57 | 2022-03-31 | 2022-04-13 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
 | [Fire](https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Two Faces](https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC) | 5:00 | 2022-12-21 | 2023-01-05 |
+| [firefly](https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [firefly](https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf) | 4:29 | 2026-02-16 |  |
 | [First Night](https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [First Night](https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM) | 3:36 | 2025-01-09 | 2025-03-15 |
 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 | 2025-07-10 | 2025-07-23 |
 | [First Time](https://open.spotify.com/track/1w8eS94wSGqXJxbXWsmuig) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:39 | 2022-03-31 | 2022-04-16 |
@@ -709,6 +711,7 @@
 | [My Spring 나의 봄](https://open.spotify.com/track/4rUy3pIN5GqvGyAUJ43ZFP) | [no reply](https://open.spotify.com/artist/0vDKj2G8ADlhR5aM7BfeUL), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Spring 나의 봄](https://open.spotify.com/album/4n0GVSSyL5607USoObqcLX) | 3:28 | 2022-04-12 | 2022-04-15 |
 | [My star](https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [My star](https://open.spotify.com/album/1qlznH1GRH7VBXxd1AZ9Xs) | 3:14 | 2025-10-21 | 2025-11-29 |
 | [My Trouble](https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [My Trouble](https://open.spotify.com/album/6ZTQpZMX8i1RMzq2S27OuY) | 3:17 | 2022-03-31 | 2022-04-04 |
+| [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 | 2026-02-16 |  |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-05 | 2022-07-09 |
 | [Name 이름](https://open.spotify.com/track/4CQhnpPfX9mX14VZlXI0q2) | [Azzul 아줄](https://open.spotify.com/artist/5nuzNvC1OBb7iFQMttCDGX) | [Afterimages 잔상들](https://open.spotify.com/album/3Su8wjhHX8RGeP6QgCUvkC) | 4:37 | 2022-03-31 | 2022-04-18 |
 | [nameless love](https://open.spotify.com/track/6j5RWLGNV3sfgPQ88dRXTq) | [Lee O Neul](https://open.spotify.com/artist/2FL8mim5b0Dd0LUkPE9c6t) | [nameless love](https://open.spotify.com/album/5hGXjFHSROCrD7h5WdmUzq) | 3:06 | 2025-08-07 | 2025-09-19 |
@@ -781,7 +784,7 @@
 | [Padding Today Over Yesterday](https://open.spotify.com/track/6LUgl6OWF68pXUOieX4k1Y) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Daydreaming](https://open.spotify.com/album/53CquI42D8OFUEyphbbnRK) | 3:33 | 2023-01-25 | 2023-02-15 |
 | [Page](https://open.spotify.com/track/6jAMGTTWOOEHBvhpi6ZsDd) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Page](https://open.spotify.com/album/1hv5kTzCuapWPHeeFm4DfY) | 3:17 | 2024-12-10 | 2025-03-05 |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-31 | 2022-04-15 |
-| [Paradise](https://open.spotify.com/track/3hBdLJdJQnVXASDXFrXVYW) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Paradise](https://open.spotify.com/album/0QKQxo7eE6uDCn31vcPavp) | 3:14 | 2026-01-14 |  |
+| [Paradise](https://open.spotify.com/track/3hBdLJdJQnVXASDXFrXVYW) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Paradise](https://open.spotify.com/album/0QKQxo7eE6uDCn31vcPavp) | 3:14 | 2026-01-14 | 2026-02-17 |
 | [Paradise](https://open.spotify.com/track/4Lu5ceKlQ9FqzsoqlM7Mkq) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Paradise](https://open.spotify.com/album/0EOyjYWQp8iEkF76CDsGFM) | 2:54 | 2022-04-12 | 2022-04-20 |
 | [Paradise](https://open.spotify.com/track/0ZzJjFumxMbb2T1f6KA0np) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Paradise](https://open.spotify.com/album/6xOGLpPsVSAkNAM8GYjl6Q) | 3:57 | 2021-12-12 | 2022-06-19 |
 | [Parallel Lines \(Parallel\)](https://open.spotify.com/track/5vowZu66SSMjdN3oGbYCJ3) | [BOY.D](https://open.spotify.com/artist/2pX5CBngRO41WQHHimZ7sf) | [Parallel Lines \(Parallel\)](https://open.spotify.com/album/3VvrRLoPYLGtZIRReUsKhT) | 4:09 | 2022-03-31 | 2022-04-19 |
@@ -929,7 +932,7 @@
 | [Snow in Seoul](https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Snow in Seoul](https://open.spotify.com/album/1XbTgdcRQ4ss531LtZdXX7) | 4:29 | 2021-12-21 | 2022-07-28 |
 | [Snowborn](https://open.spotify.com/track/0ceFVr2rbxgwLvdJRD7MfE) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Snowborn](https://open.spotify.com/album/4YoqPeAfWSjXBqntTzoO6k) | 3:36 | 2025-06-13 | 2025-06-27 |
 | [snowman](https://open.spotify.com/track/2lOZ5ha2t7YBf3tKRvd0aC) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [snowman](https://open.spotify.com/album/6QJktjy7f9BcLYVHIO1Mud) | 3:35 | 2024-11-20 | 2025-01-31 |
-| [Snowman](https://open.spotify.com/track/0GlY38o6uDGJfUKsgjHjYw) | [Sunsat](https://open.spotify.com/artist/1KaWoXImlq0WXfUrjNUtgC) | [Snowman](https://open.spotify.com/album/33uuiSMbEOHVXnciW8bDfv) | 4:42 | 2026-01-19 |  |
+| [Snowman](https://open.spotify.com/track/0GlY38o6uDGJfUKsgjHjYw) | [Sunsat](https://open.spotify.com/artist/1KaWoXImlq0WXfUrjNUtgC) | [Snowman](https://open.spotify.com/album/33uuiSMbEOHVXnciW8bDfv) | 4:42 | 2026-01-19 | 2026-02-17 |
 | [snowy](https://open.spotify.com/track/6CvWQquXQ4gYmuBQbXyX0D) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [snowy](https://open.spotify.com/album/2VhVv8z0XjYvNktTZUf684) | 3:49 | 2025-11-17 |  |
 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 | 2024-07-01 | 2025-07-23 |
 | [So long](https://open.spotify.com/track/5orCdrOWNdA0K8SIFZCKfw) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [So long](https://open.spotify.com/album/7zHSAqsvCJw7uTWyPJbwCM) | 5:00 | 2024-04-30 | 2024-05-10 |

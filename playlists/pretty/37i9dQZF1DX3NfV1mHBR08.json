@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49596,
+  "num_followers": 49595,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGelSuSKXx+he/hp5t2ETpgFrpO",
+  "snapshot_id": "AAAAABzOBRWm5wIX3vVYTEvwvkLVOmu3",
   "tracks": [
     {
       "added_at": "2026-02-09 05:42:56",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-02-09 05:42:56",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 241676,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
+    },
+    {
+      "added_at": "2026-02-09 05:42:56",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2026-02-09 05:42:56",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 241676,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
     },
     {
       "added_at": "2026-02-09 05:42:56",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-02-09 05:42:56",
       "album": {
-        "name": "Life is a Drama Prelude3",
-        "url": "https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D"
+        "name": "THINKING Part.1",
+        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
       },
       "artists": [
         {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 218861,
-      "name": "Life is a Drama",
-      "url": "https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn"
+      "duration_ms": 237520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
     },
     {
       "added_at": "2026-02-09 05:42:56",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-02-09 05:42:56",
       "album": {
-        "name": "THINKING Part.1",
-        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
+        "name": "Life is a Drama Prelude3",
+        "url": "https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
         }
       ],
-      "duration_ms": 237520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
+      "duration_ms": 218861,
+      "name": "Life is a Drama",
+      "url": "https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn"
     },
     {
       "added_at": "2026-02-09 05:42:56",

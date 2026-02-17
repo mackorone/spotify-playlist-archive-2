@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 415381,
+  "num_followers": 415502,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Amores E Flores",
-        "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 202761,
-      "name": "O Bem",
-      "url": "https://open.spotify.com/track/7pj80cYmGQvxudCfxGETrN"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Refletir (Resista)",
         "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 240000,
       "name": "Refletir (Resista)",
       "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Amores E Flores",
+        "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 202761,
+      "name": "O Bem",
+      "url": "https://open.spotify.com/track/7pj80cYmGQvxudCfxGETrN"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Diversoficando",
-        "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Envolvid\u00e3o",
-      "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -1095,6 +1063,46 @@
       "duration_ms": 177535,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Um Sinal",
+        "url": "https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rios",
+          "url": "https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT"
+        },
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
+        }
+      ],
+      "duration_ms": 238227,
+      "name": "Um Sinal",
+      "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
     }
   ],
   "unique_name": "Praiana",

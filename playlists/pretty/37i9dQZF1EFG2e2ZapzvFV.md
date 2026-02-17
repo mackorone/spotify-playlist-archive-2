@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,550 likes - 175 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,549 likes - 175 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 131 | [Take Me All The Way](https://open.spotify.com/track/3w2sEZ2JEP4IIhzM3FWVVc) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Take Me All The Way](https://open.spotify.com/album/0YrOVtqaFrqeH4wipG4Edp) | 2:51 |
 | 132 | [Warm Hands](https://open.spotify.com/track/26zeBswxGL0oYmaQoY66Bb) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:48 |
 | 133 | [Drunk & Angry](https://open.spotify.com/track/5ZYC2jmQrRoWrvDBRBTEPZ) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Rocking Horse](https://open.spotify.com/album/5ebQrOjkhiXZgFvqNQVfhW) | 4:25 |
-| 134 | [Ribbons of Light](https://open.spotify.com/track/1bcSfpjRBRdHiNClmtUTan) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:47 |
-| 135 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 |
+| 134 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 |
+| 135 | [Ribbons of Light](https://open.spotify.com/track/1bcSfpjRBRdHiNClmtUTan) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:47 |
 | 136 | [Our Song](https://open.spotify.com/track/1t6loNOqI2kUDE74FDjE6f) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:51 |
 | 137 | [All for You](https://open.spotify.com/track/53VfHyJ5ka24B09kC10ye7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 4:51 |
 | 138 | [Jack](https://open.spotify.com/track/3UEu97qlpV46BamOF5KI02) | [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [No Romeo \(Deluxe\)](https://open.spotify.com/album/1DYZL9YG6FreyTy0uc0HvJ) | 3:28 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 174 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 175 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `AcJxFgAAAAAJF5pIZ3isvMYOY6QvBtX2`
+Snapshot ID: `AcJ2tgAAAACNIYIYOR95gpom+lmpAImi`

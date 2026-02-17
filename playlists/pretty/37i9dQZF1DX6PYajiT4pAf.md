@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Quevedo, Bad Gyal & Chencho Corleone, Arcangel & Feid, Charlie XCX y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,100 likes - 74 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,111 likes - 74 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 70 | [TRÁMITE](https://open.spotify.com/track/3suau1xDzfMZjj8n276Xiu) | [Nevo Angel](https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw), [Costa](https://open.spotify.com/artist/7rAjVJgwZhvmMIt5vfyNGn) | [TRÁMITE](https://open.spotify.com/album/311mWQSuOOSzeZ6YLWY4T8) | 2:23 |
 | 71 | [Paz mundial](https://open.spotify.com/track/2LsEgx2J7J720kE2zr8UcV) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Hace tiempo que quiero estar así](https://open.spotify.com/album/4t570qpKaExTTM16ad1G4N) | 2:19 |
 | 72 | [Carrera de Vainas](https://open.spotify.com/track/5sTzwcJPfAOI7neub04Gml) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Testamento](https://open.spotify.com/album/1vqsaa4YCKdspZ0XvTmfut) | 3:07 |
-| 73 | [VOL\. 3](https://open.spotify.com/track/2z0UP28pwQODBSLqmaHit5) | [Dora Band](https://open.spotify.com/artist/7xVhPBHVpiU1YPef9aHQOE) | [VOL\. 3](https://open.spotify.com/album/3BDHBiW11pRBTkTpW6H7Xn) | 4:00 |
+| 73 | [VOL\. 3](https://open.spotify.com/track/2z0UP28pwQODBSLqmaHit5) | [Dora Band](https://open.spotify.com/artist/7xVhPBHVpiU1YPef9aHQOE), [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [VOL\. 3](https://open.spotify.com/album/3BDHBiW11pRBTkTpW6H7Xn) | 4:00 |
 | 74 | [★](https://open.spotify.com/track/2UG3qhSzw7rDyDl4OhLItX) | [Joselito Ke](https://open.spotify.com/artist/6RsoxycRvL7zOw8w7346Fe) | [hay una fiesta adonde voy](https://open.spotify.com/album/1i7ffP33J7DhSdvLpmQdgL) | 1:59 |
 
 Snapshot ID: `AAAAADG3VexeDgz9sGmsZefWCIIKGzeG`

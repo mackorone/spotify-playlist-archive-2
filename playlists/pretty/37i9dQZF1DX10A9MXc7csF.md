@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Illusion Eterno ⭐️
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,054 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,088 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 74 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 |
 | 75 | [YNSSCA](https://open.spotify.com/track/7zaoZgwnM8faVIEOFr3LLD) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [YNSSCA](https://open.spotify.com/album/1G5iPhNoIiVEM53gSB85Nt) | 2:49 |
 | 76 | [NENA MALDICIÓN](https://open.spotify.com/track/1FUz5190iNSO9nxmMBYvWG) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [NENA MALDICIÓN](https://open.spotify.com/album/7BOAPCq2tPFT9kmUT0dwka) | 2:51 |
-| 77 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
+| 77 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/1Fw3mrMZROO1DBCZlQPasS), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
 | 78 | [DE NUEVO](https://open.spotify.com/track/3ztlF2Eqicbq8ELVSrgsyE) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [DE NUEVO](https://open.spotify.com/album/204QAr2DOXYludJL5ZPyrb) | 3:56 |
 | 79 | [Breve Cuento](https://open.spotify.com/track/7ayroPpTf6cNpRLBTVBBF9) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [Breve Cuento](https://open.spotify.com/album/6E2wCJSSgsmnbMxcVdi63D) | 2:46 |
 | 80 | [Corazón](https://open.spotify.com/track/5W7MlRorDPAxj37NAp2k3F) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [Corazón](https://open.spotify.com/album/3yqdE7fjE7a4Mhkp8fjRNC) | 2:54 |

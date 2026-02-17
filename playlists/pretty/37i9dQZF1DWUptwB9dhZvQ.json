@@ -1,12 +1,12 @@
 {
   "description": "Its time to relish the best themes of Kollywood!\nCover : Coolie",
-  "num_followers": 102527,
+  "num_followers": 102545,
   "original_name": "Kollywood Themes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANt5wK5fts0iV5W+elMVDLfF8shf",
+  "snapshot_id": "AAAAAOhbfQQUsk2GAbGBIiS9F5NIfRZw",
   "tracks": [
     {
       "added_at": "2025-09-10 13:05:37",
@@ -41,10 +41,10 @@
       "url": "https://open.spotify.com/track/2adSlLAfZrcgkkphMVjTKk"
     },
     {
-      "added_at": "2025-09-10 13:05:37",
+      "added_at": "2026-02-16 12:13:29",
       "album": {
-        "name": "Coolie (Original Background Score)",
-        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
+        "name": "23 Theme (From \"AA23\")",
+        "url": "https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2"
       },
       "artists": [
         {
@@ -52,17 +52,17 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Lalo Salamanca",
-          "url": "https://open.spotify.com/artist/6slW8atwjY8d3XyvnlEBP2"
+          "name": "Hector Salamanca",
+          "url": "https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU"
         },
         {
           "name": "Heisenberg",
           "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
         }
       ],
-      "duration_ms": 179339,
-      "name": "Dahaa Theme",
-      "url": "https://open.spotify.com/track/60rFducKmBbMPC8R6D3DE3"
+      "duration_ms": 47741,
+      "name": "23 Theme (From \"AA23\")",
+      "url": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d"
     },
     {
       "added_at": "2025-09-16 07:36:52",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/3Z8FAlpN5ARYkcCihIvkNj"
     },
     {
+      "added_at": "2026-02-16 12:13:29",
+      "album": {
+        "name": "Bloody Valentine (From \"DC\")",
+        "url": "https://open.spotify.com/album/2OAH8qkqhVs7IBQv4Mq4oM"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 101828,
+      "name": "Bloody Valentine (From \"DC\")",
+      "url": "https://open.spotify.com/track/2UtxQtTo90v8HpEQwyS6Ss"
+    },
+    {
       "added_at": "2022-02-24 15:44:57",
       "album": {
         "name": "Beast Announcement Theme (From \"Beast\")",
@@ -1279,22 +1295,6 @@
       "duration_ms": 37299,
       "name": "Animal Instinct",
       "url": "https://open.spotify.com/track/5Lf5SOcqZFePjtjK1QbLYY"
-    },
-    {
-      "added_at": "2024-11-29 13:02:03",
-      "album": {
-        "name": "Vidaamuyarchi Theme (From \"Vidaamuyarchi\")",
-        "url": "https://open.spotify.com/album/5wvo1WUmTzaIOOBuErUNq5"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 96521,
-      "name": "Vidaamuyarchi Theme (From \"Vidaamuyarchi\")",
-      "url": "https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz"
     }
   ],
   "unique_name": "Kollywood Themes",

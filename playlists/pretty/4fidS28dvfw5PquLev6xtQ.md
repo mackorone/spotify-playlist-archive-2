@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > You only know the half of it because Spotify just loves to select 50 songs when you Ctrl+A, 100&\#x2F;100 great program
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 47 likes - 99 songs - 12 hr 29 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 48 likes - 99 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

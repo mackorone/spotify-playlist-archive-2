@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,508 likes - 98 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,542 likes - 98 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 97 | [Jesus, You’re Enough](https://open.spotify.com/track/3mAMyzElL4P5QQ2UTU1xAK) | [Anna Childs](https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck) | [Jesus, You’re Enough](https://open.spotify.com/album/0mLZ66xcqSZribygKwuehO) | 3:44 |
 | 98 | [You Always Win](https://open.spotify.com/track/2J7z05Nw7To6qGfSfe03Wp) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [You Always Win](https://open.spotify.com/album/3nhEi8UI7O38iMEX68iHaN) | 3:53 |
 
-Snapshot ID: `AAAAABwdWAfQzFpanYT+O6S5nIFZ9zuI`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

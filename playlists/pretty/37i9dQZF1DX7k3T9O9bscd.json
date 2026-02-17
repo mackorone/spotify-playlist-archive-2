@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Sedef  Seb\u00fcktekin on cover.",
-  "num_followers": 573850,
+  "num_followers": 573876,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Canti, Vol. 2",
-        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
-      },
-      "artists": [
-        {
-          "name": "ONDAKEIKI",
-          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Un cerchio",
-      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Rose City Band",
         "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+        "name": "Canti, Vol. 2",
+        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
       },
       "artists": [
         {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
         }
       ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+      "duration_ms": 278626,
+      "name": "Un cerchio",
+      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -639,6 +623,22 @@
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+      },
+      "artists": [
+        {
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+        }
+      ],
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Man It Feels Like Space Again",
-        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 501840,
-      "name": "Man It Feels Like Space Again",
-      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Death Hawks",
         "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Weird World Awoke",
-        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+        "name": "Man It Feels Like Space Again",
+        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
       },
       "artists": [
         {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
         }
       ],
-      "duration_ms": 200935,
-      "name": "Weird World Awoke",
-      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
+      "duration_ms": 501840,
+      "name": "Man It Feels Like Space Again",
+      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -883,6 +867,22 @@
       "duration_ms": 201762,
       "name": "Ends Meet",
       "url": "https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Weird World Awoke",
+        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 200935,
+      "name": "Weird World Awoke",
+      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Django's High",
         "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Stung!",
         "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 209717,
       "name": "Constant Picnic",
       "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
+        "name": "Dune",
+        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
+      },
+      "artists": [
+        {
+          "name": "Spiny Norman",
+          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
+        }
+      ],
+      "duration_ms": 239263,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Dune",
-        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
-      },
-      "artists": [
-        {
-          "name": "Spiny Norman",
-          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
-        }
-      ],
-      "duration_ms": 239263,
-      "name": "Dune",
-      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "You Will Know Nothing",
         "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Corporal",
-        "url": "https://open.spotify.com/album/5PNOMgqCw68PvfKzwBNWU3"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 386800,
-      "name": "Ker",
-      "url": "https://open.spotify.com/track/1Vws7JNu4H97usOHqVBbEx"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 541122,
       "name": "New Hope For The New Year",
       "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Corporal",
+        "url": "https://open.spotify.com/album/5PNOMgqCw68PvfKzwBNWU3"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 386800,
+      "name": "Ker",
+      "url": "https://open.spotify.com/track/1Vws7JNu4H97usOHqVBbEx"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Pop-Wave",
-        "url": "https://open.spotify.com/album/6dSGG9JyqxwDLUvHkJOBiJ"
-      },
-      "artists": [
-        {
-          "name": "COSMO",
-          "url": "https://open.spotify.com/artist/1dFFyvFahmXCBccq3Ydo4z"
-        }
-      ],
-      "duration_ms": 180337,
-      "name": "Pop-Wave",
-      "url": "https://open.spotify.com/track/2mFiq3PS9rRe6T78doMz7M"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Across The Meridian",
         "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
+        "name": "Pop-Wave",
+        "url": "https://open.spotify.com/album/6dSGG9JyqxwDLUvHkJOBiJ"
+      },
+      "artists": [
+        {
+          "name": "COSMO",
+          "url": "https://open.spotify.com/artist/1dFFyvFahmXCBccq3Ydo4z"
+        }
+      ],
+      "duration_ms": 180337,
+      "name": "Pop-Wave",
+      "url": "https://open.spotify.com/track/2mFiq3PS9rRe6T78doMz7M"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
         "name": "Zionic Mud",
         "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 321782,
       "name": "Zionic Mud",
       "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1543,6 +1527,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Fractal Haze",
-        "url": "https://open.spotify.com/album/7CRJxDjnOOUA4sUX6A4kNJ"
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
       },
       "artists": [
         {
-          "name": "Giobia",
-          "url": "https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 403391,
-      "name": "Fractal Haze",
-      "url": "https://open.spotify.com/track/0uAqsjOY03RRg1GFcOyJxB"
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

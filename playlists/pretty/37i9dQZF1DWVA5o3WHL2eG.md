@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,880 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,879 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
 | 20 | [CLAP](https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [CLAP](https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ) | 2:06 |
 | 21 | [Kaputt machst](https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kaputt machst](https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL) | 2:29 |
-| 22 | [Papa](https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Papa](https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK) | 2:43 |
-| 23 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
+| 22 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
+| 23 | [Papa](https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Papa](https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK) | 2:43 |
 | 24 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
 | 25 | [stadt der geister](https://open.spotify.com/track/1j0yRrOMlhONZM0QE724uu) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/3ivlFjL0X3qZOdOyRuYtb3) | 2:53 |
 | 26 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
 | 27 | [people pleaser](https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [people pleaser](https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua) | 3:09 |
-| 28 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
-| 29 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
+| 28 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
+| 29 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
 | 30 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
 | 31 | [Keiner Weiß](https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keiner Weiß](https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk) | 2:48 |
 | 32 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |

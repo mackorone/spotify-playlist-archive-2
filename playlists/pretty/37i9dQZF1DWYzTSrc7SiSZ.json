@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 897933,
+  "num_followers": 897940,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
+        "name": "Romancera",
+        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Romancera",
+      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
         "name": "MACARRONES CON QUESO",
         "url": "https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 147400,
       "name": "MACARRONES CON QUESO",
       "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "Romancera",
-        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Romancera",
-      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -259,22 +259,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
         }
       ],
-      "duration_ms": 161142,
-      "name": "Ojos Papel",
-      "url": "https://open.spotify.com/track/30OksLi7GCTqAc3KXwu3Ds"
+      "duration_ms": 160106,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -295,18 +291,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Un D\u00eda A La Vez",
-        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
       "artists": [
         {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 160106,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
+      "duration_ms": 161142,
+      "name": "Ojos Papel",
+      "url": "https://open.spotify.com/track/30OksLi7GCTqAc3KXwu3Ds"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
+        "name": "NI\u00d1O BUENO - Lado A",
+        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "a los 20",
+      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 177867,
       "name": "I know",
       "url": "https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "NI\u00d1O BUENO - Lado A",
-        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "a los 20",
-      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "dosextra\u00f1os",
-        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
-      },
-      "artists": [
-        {
-          "name": "Jeudy Garc\u00eda",
-          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
-        }
-      ],
-      "duration_ms": 227244,
-      "name": "dosextra\u00f1os",
-      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 165300,
       "name": "Siempre Tendr\u00e9 Mi Voz",
       "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "dosextra\u00f1os",
+        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
+      },
+      "artists": [
+        {
+          "name": "Jeudy Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
+        }
+      ],
+      "duration_ms": 227244,
+      "name": "dosextra\u00f1os",
+      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
+        "name": "La Espa\u00f1ola",
+        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 170743,
+      "name": "Me Quiere No Me Quiere",
+      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "La Espa\u00f1ola",
-        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
+        "name": "Lucecita",
+        "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
       },
       "artists": [
         {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
         }
       ],
-      "duration_ms": 170743,
-      "name": "Me Quiere No Me Quiere",
-      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
+      "duration_ms": 165156,
+      "name": "Lucecita",
+      "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1539,22 +1555,6 @@
       "duration_ms": 182000,
       "name": "Toma Mi Mano",
       "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "Lucecita",
-        "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
-      },
-      "artists": [
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 165156,
-      "name": "Lucecita",
-      "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
     },
     {
       "added_at": "2026-01-23 15:47:46",

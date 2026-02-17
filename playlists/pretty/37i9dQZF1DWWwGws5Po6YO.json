@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Natalia Tsupryk",
-  "num_followers": 135927,
+  "num_followers": 135952,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 421813,
+      "name": "Continuum 2",
+      "url": "https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/1T612bJ0MZhsHIyXX6MZ7A"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 247324,
       "name": "Dance Of The Ghosts",
       "url": "https://open.spotify.com/track/7IZtkfX0jSVlbzVzK88aq8"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Endlessness",
-        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 421813,
-      "name": "Continuum 2",
-      "url": "https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Analemma",
-        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Analemma",
+        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        },
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        }
-      ],
-      "duration_ms": 185834,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        },
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "duration_ms": 185834,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Duality Pt 2 Peace",
         "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "OUT I",
-        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
       "artists": [
         {
-          "name": "Violeta Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
         }
       ],
-      "duration_ms": 281565,
-      "name": "OUT I",
-      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "A Requiem",
-        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
+        "name": "OUT I",
+        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
       },
       "artists": [
         {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
         }
       ],
-      "duration_ms": 181831,
-      "name": "Bandorai",
-      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
+      "duration_ms": 281565,
+      "name": "OUT I",
+      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "A Requiem",
+        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Bandorai",
+      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "So Sweet & Willing",
-        "url": "https://open.spotify.com/album/7Cdjq0teyJ8Brg71hXl0nK"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 201012,
-      "name": "So Sweet & Willing",
-      "url": "https://open.spotify.com/track/2MvC4hbpRCofl44QX5fckC"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "become the sky",
         "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 183192,
       "name": "Holding Moments",
       "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "So Sweet & Willing",
+        "url": "https://open.spotify.com/album/7Cdjq0teyJ8Brg71hXl0nK"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 201012,
+      "name": "So Sweet & Willing",
+      "url": "https://open.spotify.com/track/2MvC4hbpRCofl44QX5fckC"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Watson",
-          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
-        }
-      ],
-      "duration_ms": 80968,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 437059,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "duration_ms": 80968,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Desert Window",
-        "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 327104,
-      "name": "Our Relativity",
-      "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Eurybia",
         "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 186082,
       "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
       "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Desert Window",
+        "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 327104,
+      "name": "Our Relativity",
+      "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
     },
     {
       "added_at": "2025-11-06 10:55:12",

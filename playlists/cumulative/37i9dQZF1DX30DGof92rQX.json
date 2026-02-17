@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Abdul Hannan",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Uzair Jaswal, Hasan Raheem",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Aye Na",
+        "url": "https://open.spotify.com/album/2pXIcvIZHiXdibbltwrthq"
+      },
+      "artists": [
+        {
+          "name": "The Skinny guy",
+          "url": "https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147434,
+      "name": "Aye Na",
+      "url": "https://open.spotify.com/track/0jbhZLUAzyKGgt5xAebN7V"
+    },
+    {
+      "album": {
         "name": "Baatein Na Bana",
         "url": "https://open.spotify.com/album/2cgmjEKssOpbLgDVrOhCW3"
       },
@@ -694,6 +716,32 @@
       "duration_ms": 169142,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0BbbAbw9ISKQuELWzKI22B"
+    },
+    {
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/2RMkYj3cMeWpnmpoEmmWDR"
+      },
+      "artists": [
+        {
+          "name": "Uzair Jaswal",
+          "url": "https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shahrukh",
+          "url": "https://open.spotify.com/artist/02yAoSmsqYASF4Wb45bRlJ"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209318,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/1OL1xnG5bVYD46iapyeu6J"
     },
     {
       "album": {
@@ -2749,6 +2797,32 @@
     },
     {
       "album": {
+        "name": "Har Saal",
+        "url": "https://open.spotify.com/album/1P0Wmpfd6DzHhbBCSpOu71"
+      },
+      "artists": [
+        {
+          "name": "Goher Mumtaz",
+          "url": "https://open.spotify.com/artist/1lJQZf2QGaUJFGrPn42Khv"
+        },
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        },
+        {
+          "name": "Jal",
+          "url": "https://open.spotify.com/artist/3k11xIA4cwkJpX2GUjzUmk"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210647,
+      "name": "Har Saal",
+      "url": "https://open.spotify.com/track/6xeSLTd7PIUCAws3fey1hE"
+    },
+    {
+      "album": {
         "name": "Haseen",
         "url": "https://open.spotify.com/album/6H1INZIjL9urcvjPdnnEsF"
       },
@@ -3372,7 +3446,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 233225,
       "name": "Jana Hai Wahin",
       "url": "https://open.spotify.com/track/79LdqruB4lIPquQRSd6QJr"
@@ -6333,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "Pyaar Ki Patang",
+        "url": "https://open.spotify.com/album/7iHbHSGa49HvCtbS3xRPUO"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan Niazi",
+          "url": "https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Pyaar Ki Patang",
+      "url": "https://open.spotify.com/track/10jqaZuBUU9gFI6xYkYsIe"
+    },
+    {
+      "album": {
         "name": "Pyaar Kyun Banaya",
         "url": "https://open.spotify.com/album/4BPhVjOqAdV5bFxDglYZ4f"
       },
@@ -7239,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/4FL3VXSb1RtRJ9Qmd559WP"
+      },
+      "artists": [
+        {
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200439,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/1ll5dcFvWK8w2quGqjgxe6"
+    },
+    {
+      "album": {
         "name": "savera",
         "url": "https://open.spotify.com/album/57XU5RuEZQWoYsTuJP6rnJ"
       },
@@ -7312,7 +7422,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 193125,
       "name": "Shehzada",
       "url": "https://open.spotify.com/track/2KdAh9vPLw8dX4Y5CbYRDh"
@@ -8468,6 +8578,28 @@
       "duration_ms": 214117,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5YN3eEM3izFGUQeNa3bZZQ"
+    },
+    {
+      "album": {
+        "name": "VOLUME",
+        "url": "https://open.spotify.com/album/49S4SqXG39GxNHHe34tZ6d"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        },
+        {
+          "name": "dotxb",
+          "url": "https://open.spotify.com/artist/5hZRffJ4faH94fVKwG4Kzk"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180082,
+      "name": "VOLUME",
+      "url": "https://open.spotify.com/track/1krjlFmoBcc5KsomLbegP7"
     },
     {
       "album": {

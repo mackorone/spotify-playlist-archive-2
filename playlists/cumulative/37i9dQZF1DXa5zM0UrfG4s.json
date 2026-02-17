@@ -586,7 +586,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 149926,
       "name": "Baksetefylla",
       "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
@@ -3486,6 +3486,24 @@
       "duration_ms": 200940,
       "name": "Heim Til Nordfjord",
       "url": "https://open.spotify.com/track/2muikWIFUbTklgyhSkDTLF"
+    },
+    {
+      "album": {
+        "name": "Heimbrygga \u00f8l",
+        "url": "https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5"
+      },
+      "artists": [
+        {
+          "name": "Harlekin",
+          "url": "https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189069,
+      "name": "Heimbrygga \u00f8l",
+      "url": "https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u"
     },
     {
       "album": {

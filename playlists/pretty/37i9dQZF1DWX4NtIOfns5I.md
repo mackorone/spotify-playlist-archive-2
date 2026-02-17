@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new Alice Costelloe to get us through the winter ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,749 likes - 123 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,751 likes - 123 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

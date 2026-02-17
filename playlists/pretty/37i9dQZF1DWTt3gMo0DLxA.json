@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Mana ShankaraVaraprasad Garu",
-  "num_followers": 535791,
+  "num_followers": 536315,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADje5Xp+gg6jVh/8YzFLoFoVXTQQ",
+  "snapshot_id": "AAAAAATZiRKaNl3H3TpOj2kRYlk+AWCe",
   "tracks": [
     {
       "added_at": "2025-11-03 09:53:29",
@@ -37,6 +37,42 @@
       "url": "https://open.spotify.com/track/00cE2yTZLjn2AKjHttfNfd"
     },
     {
+      "added_at": "2026-01-23 07:07:15",
+      "album": {
+        "name": "Bhartha Mahasayulaku Wignyapthi",
+        "url": "https://open.spotify.com/album/4iBF6quMFqxlTHFgQtm4I0"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Nithyasree Mahadevan",
+          "url": "https://open.spotify.com/artist/6UPWm7jqlonf0Xy4EB3x2m"
+        },
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Dhina",
+          "url": "https://open.spotify.com/artist/4Ql23JSzeRcVgkYBqGwDMs"
+        },
+        {
+          "name": "Satyam",
+          "url": "https://open.spotify.com/artist/4YMIKLR6DhwXebluCZpbuT"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Karthika Deepam Remix Song",
+      "url": "https://open.spotify.com/track/7lUdbHAhop3HTyZsbO2TZV"
+    },
+    {
       "added_at": "2025-11-11 06:12:33",
       "album": {
         "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
@@ -61,48 +97,44 @@
       "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
     },
     {
-      "added_at": "2026-02-02 07:50:11",
+      "added_at": "2026-02-16 13:08:30",
       "album": {
-        "name": "3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3FbSTiZTqp13YPBLlzAJlQ"
+        "name": "Saahasam Swaasaga Saagipo",
+        "url": "https://open.spotify.com/album/2AVXf1Pdi3oud8FQ6NcC2S"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Bhuvana Chandra",
-          "url": "https://open.spotify.com/artist/6qJdT7Ol8lHV3I2ONq9hBi"
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
         }
       ],
-      "duration_ms": 254280,
-      "name": "Po Ve Po - The Pain of Love",
-      "url": "https://open.spotify.com/track/4ngIVcfL0Pm564bTpDIS8H"
+      "duration_ms": 261368,
+      "name": "Vellipomaake",
+      "url": "https://open.spotify.com/track/6I8FegdCnZT274IiOTybQH"
     },
     {
-      "added_at": "2026-02-02 07:50:11",
+      "added_at": "2026-02-16 13:08:30",
       "album": {
-        "name": "Manasantha Nuvve",
-        "url": "https://open.spotify.com/album/7a2fpO156ZtrnTSVH7Yke4"
+        "name": "Ishq",
+        "url": "https://open.spotify.com/album/4Qo2GygetQ72mekmB7D7Hg"
       },
       "artists": [
         {
-          "name": "R. P. Patnaik",
-          "url": "https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy"
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
         },
         {
-          "name": "Usha Munukutla",
-          "url": "https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw"
+          "name": "Nithya Menen",
+          "url": "https://open.spotify.com/artist/5ATG28qJzT3dATBV1UPxcN"
         }
       ],
-      "duration_ms": 317805,
-      "name": "Cheppave Prema",
-      "url": "https://open.spotify.com/track/71v65YcWM05C88IZeAWGuR"
+      "duration_ms": 260000,
+      "name": "Oh Priya Priya",
+      "url": "https://open.spotify.com/track/5OASaE4FRMNKdX0IHIg5Ri"
     },
     {
       "added_at": "2026-02-02 07:50:11",
@@ -123,6 +155,54 @@
       "duration_ms": 314373,
       "name": "Rooba Rooba",
       "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
+    },
+    {
+      "added_at": "2025-11-20 09:32:51",
+      "album": {
+        "name": "Awaara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0UKhCWkRL6X4Kwbjz8Pf0q"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Sagar Desai",
+          "url": "https://open.spotify.com/artist/2GD7Jxc5ztOuLNsZIHBREJ"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Chiru Chiru",
+      "url": "https://open.spotify.com/track/6O1VWYPfl85dDeKiaCJKza"
+    },
+    {
+      "added_at": "2025-02-07 08:31:59",
+      "album": {
+        "name": "Munna",
+        "url": "https://open.spotify.com/album/27BTxRdW8WZ9Hv1yFRHTED"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        }
+      ],
+      "duration_ms": 349653,
+      "name": "Manassa",
+      "url": "https://open.spotify.com/track/3YB09zhSWO8mmESr8NUV0n"
     },
     {
       "added_at": "2026-02-02 07:50:11",
@@ -153,6 +233,50 @@
       "url": "https://open.spotify.com/track/1vnDu8pbmwz88G6RDugerQ"
     },
     {
+      "added_at": "2025-11-03 09:53:29",
+      "album": {
+        "name": "Dude (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4O6oeHbnla1SUNHYpMfrsk"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Singari",
+      "url": "https://open.spotify.com/track/2N96K0NT6IZ1f1OKrNoJZY"
+    },
+    {
+      "added_at": "2026-02-16 13:08:30",
+      "album": {
+        "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
+        "url": "https://open.spotify.com/album/4fUeGMIYVi22stROdyMxEr"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
+      "url": "https://open.spotify.com/track/7oPSWYvSHoC8UA8WVUngq4"
+    },
+    {
       "added_at": "2026-02-13 14:16:35",
       "album": {
         "name": "Love Story",
@@ -167,26 +291,6 @@
       "duration_ms": 253773,
       "name": "Ay Pilla",
       "url": "https://open.spotify.com/track/47A07dDkesXz4Xq0Amd9M3"
-    },
-    {
-      "added_at": "2025-02-07 08:31:59",
-      "album": {
-        "name": "Munna",
-        "url": "https://open.spotify.com/album/27BTxRdW8WZ9Hv1yFRHTED"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Sadhana Sargam",
-          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
-        }
-      ],
-      "duration_ms": 349653,
-      "name": "Manassa",
-      "url": "https://open.spotify.com/track/3YB09zhSWO8mmESr8NUV0n"
     },
     {
       "added_at": "2025-11-11 06:12:33",
@@ -207,34 +311,6 @@
       "duration_ms": 266760,
       "name": "Idhedho Bagundhe",
       "url": "https://open.spotify.com/track/7eTIs4iPvHTaf5KHXw4SOv"
-    },
-    {
-      "added_at": "2025-11-20 09:32:51",
-      "album": {
-        "name": "Awaara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0UKhCWkRL6X4Kwbjz8Pf0q"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Sagar Desai",
-          "url": "https://open.spotify.com/artist/2GD7Jxc5ztOuLNsZIHBREJ"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Chiru Chiru",
-      "url": "https://open.spotify.com/track/6O1VWYPfl85dDeKiaCJKza"
     },
     {
       "added_at": "2025-08-05 05:27:55",
@@ -465,26 +541,6 @@
       "url": "https://open.spotify.com/track/0G1GYz7LESrRh3FDRFOTld"
     },
     {
-      "added_at": "2025-11-03 09:53:29",
-      "album": {
-        "name": "Dude (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4O6oeHbnla1SUNHYpMfrsk"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Singari",
-      "url": "https://open.spotify.com/track/2N96K0NT6IZ1f1OKrNoJZY"
-    },
-    {
       "added_at": "2025-11-11 06:12:33",
       "album": {
         "name": "Arerey Manasa (From \"Falaknuma Das\")",
@@ -675,22 +731,6 @@
       "duration_ms": 250083,
       "name": "Godari Gattu Meedha (From \"Sankranthiki Vasthunam\")",
       "url": "https://open.spotify.com/track/0ibgjKZZ56aoelJ76o7OW9"
-    },
-    {
-      "added_at": "2026-01-12 07:50:56",
-      "album": {
-        "name": "Choodalani Undi",
-        "url": "https://open.spotify.com/album/6yX3i4plH8ILZljaqQBwPO"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Ramma Chilakamma",
-      "url": "https://open.spotify.com/track/24O9IoUekTjU0puV52BTFM"
     },
     {
       "added_at": "2025-07-18 12:14:56",
@@ -1159,42 +1199,6 @@
       "duration_ms": 253145,
       "name": "Guns and Roses",
       "url": "https://open.spotify.com/track/565bXJPlrXSq5O2aVGUr0D"
-    },
-    {
-      "added_at": "2026-01-23 07:07:15",
-      "album": {
-        "name": "Bhartha Mahasayulaku Wignyapthi",
-        "url": "https://open.spotify.com/album/4iBF6quMFqxlTHFgQtm4I0"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Nithyasree Mahadevan",
-          "url": "https://open.spotify.com/artist/6UPWm7jqlonf0Xy4EB3x2m"
-        },
-        {
-          "name": "P. Susheela",
-          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
-        },
-        {
-          "name": "S. Janaki",
-          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
-        },
-        {
-          "name": "Dhina",
-          "url": "https://open.spotify.com/artist/4Ql23JSzeRcVgkYBqGwDMs"
-        },
-        {
-          "name": "Satyam",
-          "url": "https://open.spotify.com/artist/4YMIKLR6DhwXebluCZpbuT"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Karthika Deepam Remix Song",
-      "url": "https://open.spotify.com/track/7lUdbHAhop3HTyZsbO2TZV"
     },
     {
       "added_at": "2026-01-20 06:19:38",

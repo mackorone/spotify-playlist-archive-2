@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,234 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,232 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 88 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 89 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 90 | [Kingdom Come \(Live\)](https://open.spotify.com/track/0pyV6VNIlFlJ4EEZhwUG2X) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Kingdom Come \(Live\)](https://open.spotify.com/album/4i91anP2DihutCCgI2lyhv) | 3:36 |
-| 91 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
-| 92 | [Christ Is Risen](https://open.spotify.com/track/19nAPTRvJIAkru00EY9Eyy) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [Christ Is Risen](https://open.spotify.com/album/2Kl8y1D0wLHJ7Hjt2M2pvo) | 4:16 |
-| 93 | [Sunday Morning \- Live](https://open.spotify.com/track/0CP1HpKqS9LpXl7ngd3A3u) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Sunday Morning \(Live\)](https://open.spotify.com/album/5eR7lMlo5QOIyfFuHvdbol) | 5:23 |
-| 94 | [Rolled Away](https://open.spotify.com/track/3xw2yhV13p82PA6P1bw1JA) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Hollow](https://open.spotify.com/album/2Mo9j3A6jzSQHxUhZ5bXad) | 4:51 |
+| 91 | [Christ Is Risen](https://open.spotify.com/track/19nAPTRvJIAkru00EY9Eyy) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [Christ Is Risen](https://open.spotify.com/album/2Kl8y1D0wLHJ7Hjt2M2pvo) | 4:16 |
+| 92 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
+| 93 | [Rolled Away](https://open.spotify.com/track/3xw2yhV13p82PA6P1bw1JA) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Hollow](https://open.spotify.com/album/2Mo9j3A6jzSQHxUhZ5bXad) | 4:51 |
+| 94 | [Sunday Morning \- Live](https://open.spotify.com/track/0CP1HpKqS9LpXl7ngd3A3u) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Sunday Morning \(Live\)](https://open.spotify.com/album/5eR7lMlo5QOIyfFuHvdbol) | 5:23 |
 | 95 | [Heaven On Earth](https://open.spotify.com/track/5Z2ozMu3NqiHO9OpOiBCR8) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Heaven On Earth](https://open.spotify.com/album/0hT8voRUPW74O7jzcFlP2k) | 4:27 |
 | 96 | [We Adore You](https://open.spotify.com/track/3jNMRPHBzue94UVUGsF9d3) | [The Vigil Project](https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI), [Greg&Lizzy](https://open.spotify.com/artist/54xxNWktx50xuT5G2rOiZ2) | [We Adore You](https://open.spotify.com/album/0Xk4lFyKQ91MlURQwhi4Yw) | 3:13 |
 | 97 | [Lamb of God](https://open.spotify.com/track/6BbmCHAptJbkjAgvgoycMO) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Deeper \(Deluxe Edition\)](https://open.spotify.com/album/0vjN4mUe8AAB65YurWzP7v) | 4:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Ingrid Andress
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,552 likes - 144 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,548 likes - 144 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

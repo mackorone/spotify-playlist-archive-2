@@ -1,6 +1,6 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 101112,
+  "num_followers": 101222,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Rawae'a Sabah Fakhri",
-        "url": "https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg"
-      },
-      "artists": [
-        {
-          "name": "Sabah Fakhri",
-          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
-        }
-      ],
-      "duration_ms": 374026,
-      "name": "Fouq annakhl",
-      "url": "https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "El Toba",
         "url": "https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 742100,
       "name": "Gana El Hawa Live",
       "url": "https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Rawae'a Sabah Fakhri",
+        "url": "https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg"
+      },
+      "artists": [
+        {
+          "name": "Sabah Fakhri",
+          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+        }
+      ],
+      "duration_ms": 374026,
+      "name": "Fouq annakhl",
+      "url": "https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Best of Mohamed Jamal, Vol. 1",
-        "url": "https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Jamal",
-          "url": "https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Yess'idli Sabahou",
-      "url": "https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 283454,
       "name": "Dakhlak wel hawa - Remastered",
       "url": "https://open.spotify.com/track/1qj89M4ZVFDYP1sTcocBep"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Best of Mohamed Jamal, Vol. 1",
+        "url": "https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Jamal",
+          "url": "https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Yess'idli Sabahou",
+      "url": "https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX"
     },
     {
       "added_at": "2025-09-15 06:53:21",

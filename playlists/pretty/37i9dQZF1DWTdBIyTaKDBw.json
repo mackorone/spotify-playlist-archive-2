@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 24813,
+  "num_followers": 24862,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 264000,
       "name": "Shanghai Nights",
       "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -491,8 +491,8 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Blissful Dreams",
-        "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
+        "name": "Legends of the Past",
+        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
       },
       "artists": [
         {
@@ -500,25 +500,9 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 156190,
-      "name": "Into the Reverie",
-      "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg"
-      },
-      "artists": [
-        {
-          "name": "Jinsang",
-          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
-        }
-      ],
-      "duration_ms": 130677,
-      "name": "Egyptian Pools",
-      "url": "https://open.spotify.com/track/0apbliJUvsg6R6l126454r"
+      "duration_ms": 128571,
+      "name": "Torii Road",
+      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -559,6 +543,22 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "duration_ms": 130677,
+      "name": "Egyptian Pools",
+      "url": "https://open.spotify.com/track/0apbliJUvsg6R6l126454r"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v"
       },
@@ -575,8 +575,8 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Legends of the Past",
-        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
+        "name": "Blissful Dreams",
+        "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
       },
       "artists": [
         {
@@ -584,25 +584,9 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Torii Road",
-      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
-        "name": "Samurai Warrior",
-        "url": "https://open.spotify.com/album/6jh2PW4SIaMw8wwHyerB9l"
-      },
-      "artists": [
-        {
-          "name": "Lost Files",
-          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
-        }
-      ],
-      "duration_ms": 125740,
-      "name": "Samurai Warrior",
-      "url": "https://open.spotify.com/track/1M1rhe1W3uoV6mdfbnJNpx"
+      "duration_ms": 156190,
+      "name": "Into the Reverie",
+      "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -623,6 +607,22 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
+        "name": "Samurai Warrior",
+        "url": "https://open.spotify.com/album/6jh2PW4SIaMw8wwHyerB9l"
+      },
+      "artists": [
+        {
+          "name": "Lost Files",
+          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
+        }
+      ],
+      "duration_ms": 125740,
+      "name": "Samurai Warrior",
+      "url": "https://open.spotify.com/track/1M1rhe1W3uoV6mdfbnJNpx"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
         "name": "Motorbikes in Sapa",
         "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Kitsune To Take",
-        "url": "https://open.spotify.com/album/6iZ92G0C1TY8F3nQIy4ZNf"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
       "artists": [
         {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
         }
       ],
-      "duration_ms": 184390,
-      "name": "Nap Time in Shibuya",
-      "url": "https://open.spotify.com/track/2kR6OrgdSFOD6nNqZxenE2"
+      "duration_ms": 176222,
+      "name": "22 Samurai",
+      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
+        "name": "Kitsune To Take",
+        "url": "https://open.spotify.com/album/6iZ92G0C1TY8F3nQIy4ZNf"
       },
       "artists": [
         {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 176222,
-      "name": "22 Samurai",
-      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
+      "duration_ms": 184390,
+      "name": "Nap Time in Shibuya",
+      "url": "https://open.spotify.com/track/2kR6OrgdSFOD6nNqZxenE2"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Waiting To Board",
-        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
-      },
-      "artists": [
-        {
-          "name": "vhskid.",
-          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Waiting To Board",
-      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 195500,
       "name": "Shinrin",
       "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
+        "name": "Waiting To Board",
+        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
+      },
+      "artists": [
+        {
+          "name": "vhskid.",
+          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Waiting To Board",
+      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
-      },
-      "artists": [
-        {
-          "name": "Nomak",
-          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
         "name": "First Light Of Spring",
         "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
       },
@@ -1267,6 +1251,38 @@
       "duration_ms": 140678,
       "name": "Jade Temple",
       "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
+      },
+      "artists": [
+        {
+          "name": "Nomak",
+          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
+        "name": "Hanagasumi",
+        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Arisa",
+      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -1299,22 +1315,6 @@
       "duration_ms": 146090,
       "name": "Dozing",
       "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
-        "name": "Hanagasumi",
-        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Arisa",
-      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Distant Worlds 4",
-        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
-      },
-      "artists": [
-        {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        }
-      ],
-      "duration_ms": 146144,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
         "name": "Mountain Trail",
         "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 153000,
       "name": "Mountain Trail",
       "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
+        "name": "Distant Worlds 4",
+        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "FANTASTIC JOURNEY",
-        "url": "https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N"
-      },
-      "artists": [
-        {
-          "name": "Tsunenori",
-          "url": "https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 139200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
+        "name": "FANTASTIC JOURNEY",
+        "url": "https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N"
+      },
+      "artists": [
+        {
+          "name": "Tsunenori",
+          "url": "https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ"
     },
     {
       "added_at": "2026-02-13 06:01:37",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-02-13 06:01:37",
       "album": {
-        "name": "Days Before You",
-        "url": "https://open.spotify.com/album/4KKeoHKRCneg7G2qfdiPRY"
-      },
-      "artists": [
-        {
-          "name": "Ngyn",
-          "url": "https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL"
-        }
-      ],
-      "duration_ms": 126822,
-      "name": "Tides of Summer",
-      "url": "https://open.spotify.com/track/6XbMP4HWXEC6gKe84WvutA"
-    },
-    {
-      "added_at": "2026-02-13 06:01:37",
-      "album": {
         "name": "The Legend of Shirokuro",
         "url": "https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 125879,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8"
+    },
+    {
+      "added_at": "2026-02-13 06:01:37",
+      "album": {
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
+      },
+      "artists": [
+        {
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+        }
+      ],
+      "duration_ms": 197616,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
     }
   ],
   "unique_name": "oriental lofi",

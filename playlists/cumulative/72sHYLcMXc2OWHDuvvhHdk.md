@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,067 songs - 5 day 0 hr 53 min
+2,071 songs - 5 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [Hüzün Kovan Kuşu](https://open.spotify.com/track/1Sbxqqn2y8MXcAIshoZQeh) | [Mahir Gül](https://open.spotify.com/artist/1WzJtvafRduHSyy7RjI3aH) | [Sadece](https://open.spotify.com/album/026sGGKQo6VPYWBxTeyuB3) | 4:03 | 2026-01-29 |  |
 | [I Adore You](https://open.spotify.com/track/0k7ywWUz7GnbBAJIhvjxCD) | [Hudson Murray](https://open.spotify.com/artist/64Ytpz9KrL0P7WQaMVPPy3) | [Stars Aligned](https://open.spotify.com/album/2IWGP4nPo5BcBuUTNEZzWG) | 3:28 | 2026-01-21 |  |
 | [I Ain't Running Away](https://open.spotify.com/track/6QDxoHfZ4hrvMvHd1fCDIP) | [Brother Thunder](https://open.spotify.com/artist/6L3RrgJK9uKY3QoIJQSgIt), [Madeline Magnon](https://open.spotify.com/artist/49otAYwoUjaFaEYvwRVQCz) | [I Ain't Running Away](https://open.spotify.com/album/5JewYm9TwHhk73FFSznv3N) | 5:06 | 2025-03-12 |  |
+| [I Am Glow](https://open.spotify.com/track/3i8ecpPBllwZgk6SAj5RN2) | [Dute](https://open.spotify.com/artist/4JVDpPwTXaLhNcXMXz6NJV), [Lukky Sparxx](https://open.spotify.com/artist/7FFdx96MiyEDRkKZz62MCN) | [I Am Glow](https://open.spotify.com/album/4lEjcnMWiJgH7Op5Chh8Kk) | 4:23 | 2026-02-16 |  |
 | [I Am Who You Say I Am](https://open.spotify.com/track/3aUW5yTFP8RWN15wxlYW0I) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [I Am Who You Say I Am](https://open.spotify.com/album/0c5GmMEQuce9qHm0G2ebVD) | 4:02 | 2026-01-19 |  |
 | [I Belong to the 70s](https://open.spotify.com/track/65TLwIqElfq5kAE2qJZo5K) | [Andre Thanatos](https://open.spotify.com/artist/2WYOgSQsYe0F3Xr8JzDRyC) | [Back to the 70's](https://open.spotify.com/album/7GesR0S1v1Ab3GX6hczwCh) | 3:59 | 2025-04-14 |  |
 | [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 | 2024-05-20 |  |
@@ -966,6 +967,7 @@
 | [L.S.D \(Loser's Song Doubtful\)](https://open.spotify.com/track/2NYhi8qcjPxSFfjRAiHdU1) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [L.S.D \(Loser's Song Doubtful\)](https://open.spotify.com/album/6hZqjdct3h1PaL0MKeJNUh) | 4:50 | 2024-09-09 |  |
 | [LA ASERTIVIDAD ES MUY IMPORTANTE](https://open.spotify.com/track/0IjvRAUObRWtHLTyMglvdf) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LA ASERTIVIDAD ES MUY IMPORTANTE](https://open.spotify.com/album/3NwqFze8NrznOmyiqrLJUZ) | 2:30 | 2025-08-18 |  |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-07-14 |  |
+| [La Bella Vita Martini](https://open.spotify.com/track/1MlDg3ZJIq4foqIrjLez3d) | [La Seduçion](https://open.spotify.com/artist/4enMoBINKiDyX5Z2F1QJqy) | [Sangre Sudor Y Cumbiabilly](https://open.spotify.com/album/630WNRz4lyRfZ9BJ9OSODg) | 2:55 | 2026-02-16 |  |
 | [La calle de la alegría](https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [La calle de la alegría](https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom) | 3:39 | 2024-12-04 |  |
 | [La Ciudad Que No Duerme Ni Ríe](https://open.spotify.com/track/0zyaDoUDc8gozix2jkhSua) | [Fuerza Terrenal](https://open.spotify.com/artist/5xYT8P4Vq7D4If7NKYZLrh) | [La Ciudad Que No Duerme Ni Ríe](https://open.spotify.com/album/52jAEiaJ9Yl46HkWEEruJ5) | 3:40 | 2025-07-21 |  |
 | [La dama d'Aragó](https://open.spotify.com/track/18pVY0bWcbZJv4C9NyTcaE) | [Periscopi Invertit](https://open.spotify.com/artist/76lGHbO0TvnqnIGIgzKfYY) | [La dama d'Aragó](https://open.spotify.com/album/1Zkv8Jb5XphVSg71rvkMlW) | 3:55 | 2024-07-21 |  |
@@ -1138,6 +1140,7 @@
 | [Moon Dog](https://open.spotify.com/track/3sJDOJRjO9GDYCxD7nC9qi) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/7287Xttv3A5IdTikDJZZG0) | 2:28 | 2025-10-20 |  |
 | [Moon Dog](https://open.spotify.com/track/5GDVdgsCCuiBumO87YORGd) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:28 | 2025-09-29 |  |
 | [Moon on August 14th](https://open.spotify.com/track/2xjCPIgwM5Iavgn3alDw3X) | [GUANG](https://open.spotify.com/artist/4AMmQAW2MrAuQb9XoBvctO) | [To Boat the Light](https://open.spotify.com/album/2hg88cMeST8dfU2WqZsZnG) | 3:08 | 2024-10-22 |  |
+| [Moon Scrolls](https://open.spotify.com/track/64qqCzP5bq6X0qNqAh9BHl) | [McDead](https://open.spotify.com/artist/0NmzTtERx5LdRg0u6SGO0N) | [Moon Scrolls](https://open.spotify.com/album/1dRxZQnv10pp30nsJSAYWL) | 2:03 | 2026-02-16 |  |
 | [Moonlight](https://open.spotify.com/track/2GqsC7Oemb1qzTIPy5zg0u) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Shot](https://open.spotify.com/album/554W9rIcQj8O2gkt2FReUi) | 3:37 | 2025-08-25 |  |
 | [Moonlight Melon](https://open.spotify.com/track/0EfPHwUbcvKZZ1XkJTFa98) | [Bluenevada](https://open.spotify.com/artist/4c5hcGtoAsT0gMVISucuVX) | [Mooonlight Melon](https://open.spotify.com/album/6oHe0to3lbHzQfgtMKldQf) | 3:13 | 2024-07-17 |  |
 | [Moonstones in the dark](https://open.spotify.com/track/4D2Fq248kPqIVGWx8Bgwuk) | [Lokenath Roy](https://open.spotify.com/artist/3MIya6fTrvFuKjiAj3ffoa) | [Moonstones in the dark](https://open.spotify.com/album/0mqMsF6KiEEl5FY1zhwzmq) | 2:40 | 2024-09-23 |  |
@@ -1645,6 +1648,7 @@
 | [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 | 2025-05-08 |  |
 | [Sunshine And Sweet Tea \- Original](https://open.spotify.com/track/0Jy975UfTmstAKDvxLDL02) | [Colt Remington](https://open.spotify.com/artist/2u2GyqN1NuA10JOfXIFL1e) | [Wide open wonders \(Original\)](https://open.spotify.com/album/2UmbJBAWQbReslm6pQ6CkM) | 2:48 | 2025-08-12 |  |
 | [Super Fast Car](https://open.spotify.com/track/2YZUEt8QM4DTVPUaEaRHGU) | [The Program](https://open.spotify.com/artist/2ooW0qcEaI2so1ed7IjtNR) | [Super Fast Car](https://open.spotify.com/album/3XCO9MRgjwpgLTREx1zxvc) | 2:15 | 2024-08-13 |  |
+| [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2026-02-16 |  |
 | [Superhero \- Acoustic](https://open.spotify.com/track/7nrFRSafHxawukv8qSqVeK) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero \(Acoustic\)](https://open.spotify.com/album/2qghX842ealI9MXpzX1G7K) | 3:12 | 2025-09-08 |  |
 | [supernatural](https://open.spotify.com/track/6uiUkwNEKbKY2z6PrNYmSR) | [Khazo](https://open.spotify.com/artist/7iJ2EulMOPKI5zVglTKKgg) | [supernatural](https://open.spotify.com/album/59fasg2sQLglon8X5JRVI8) | 2:30 | 2025-07-23 |  |
 | [Surface](https://open.spotify.com/track/7ADIFjFJgBGyKNWypH0NnF) | [Maje$tic Mindz](https://open.spotify.com/artist/2ACM836cjbxNwpTryo7XX7), [Sylvie Hope](https://open.spotify.com/artist/5FZZ6JjgSnEK32DcZHxs8y) | [One Love](https://open.spotify.com/album/0YhPCmR9kVYjQzBctKg6iW) | 2:44 | 2025-12-30 |  |

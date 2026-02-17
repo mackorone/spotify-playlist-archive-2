@@ -1,12 +1,12 @@
 {
   "description": "Funky & groovy tunes for poolside chilling.",
-  "num_followers": 82581,
+  "num_followers": 82584,
   "original_name": "Poolside Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC+lWdCiD/GUNWnsaG9vWhNor9eD",
+  "snapshot_id": "AAAAAFKEjowpnqJixl2qMQct/Xm9XpLh",
   "tracks": [
     {
       "added_at": "2026-02-14 12:30:01",
@@ -43,6 +43,22 @@
       "duration_ms": 170753,
       "name": "Something New",
       "url": "https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb"
+    },
+    {
+      "added_at": "2026-02-14 12:30:01",
+      "album": {
+        "name": "Rain Down",
+        "url": "https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 278425,
+      "name": "Rain Down",
+      "url": "https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N"
     },
     {
       "added_at": "2026-02-14 12:30:01",
@@ -343,22 +359,6 @@
       "duration_ms": 184133,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
-    },
-    {
-      "added_at": "2026-02-14 12:30:01",
-      "album": {
-        "name": "Rain Down",
-        "url": "https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 278425,
-      "name": "Rain Down",
-      "url": "https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N"
     },
     {
       "added_at": "2026-02-14 12:30:01",

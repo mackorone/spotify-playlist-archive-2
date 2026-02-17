@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 653,
+  "num_followers": 695,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Blue Suicide",
-        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
-      },
-      "artists": [
-        {
-          "name": "Coma Cinema",
-          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
-        }
-      ],
-      "duration_ms": 153234,
-      "name": "Her Sinking Sun",
-      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Antisocialites",
         "url": "https://open.spotify.com/album/5TGZvGolR6PoM1zYYyZNzX"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Blue Suicide",
+        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
+      },
+      "artists": [
+        {
+          "name": "Coma Cinema",
+          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "Her Sinking Sun",
+      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Loveseat",
-        "url": "https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 209290,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Luxury Beverage",
         "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 158785,
       "name": "lavender blood",
       "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Loveseat",
+        "url": "https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 209290,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Attempt",
-        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
       },
       "artists": [
         {
           "name": "Far Caspian",
           "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 281906,
-      "name": "Attempt",
-      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
+      "duration_ms": 172729,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1423,22 +1427,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
+        "name": "Attempt",
+        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
       },
       "artists": [
         {
           "name": "Far Caspian",
           "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 172729,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
+      "duration_ms": 281906,
+      "name": "Attempt",
+      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Didn't Want to Go",
-        "url": "https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4"
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
       },
       "artists": [
         {
-          "name": "Slumberville",
-          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
-        },
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
         }
       ],
-      "duration_ms": 129940,
-      "name": "Didn't Want to Go",
-      "url": "https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9"
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     }
   ],
   "unique_name": "Lofi Indie",

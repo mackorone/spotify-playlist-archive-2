@@ -767,18 +767,22 @@
     {
       "added_at": "2026-02-13 06:00:05",
       "album": {
-        "name": "te doy igual?",
-        "url": "https://open.spotify.com/album/0yO4UoM30pmLWWAGXdFlOn"
+        "name": "Porque Quise DELUXE",
+        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
       },
       "artists": [
         {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "HELLOLOLA",
+          "url": "https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7"
         }
       ],
-      "duration_ms": 116832,
-      "name": "te doy igual?",
-      "url": "https://open.spotify.com/track/1hLKE0ULdv5Sdtag8zopR1"
+      "duration_ms": 126000,
+      "name": "Puta & Rock Anthem",
+      "url": "https://open.spotify.com/track/5Kv2lXC0Ve1maYx8qAGjRw"
     },
     {
       "added_at": "2026-02-13 06:00:05",
@@ -803,22 +807,18 @@
     {
       "added_at": "2026-02-13 06:00:05",
       "album": {
-        "name": "Porque Quise DELUXE",
-        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
+        "name": "te doy igual?",
+        "url": "https://open.spotify.com/album/0yO4UoM30pmLWWAGXdFlOn"
       },
       "artists": [
         {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "HELLOLOLA",
-          "url": "https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7"
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Puta & Rock Anthem",
-      "url": "https://open.spotify.com/track/5Kv2lXC0Ve1maYx8qAGjRw"
+      "duration_ms": 116832,
+      "name": "te doy igual?",
+      "url": "https://open.spotify.com/track/1hLKE0ULdv5Sdtag8zopR1"
     },
     {
       "added_at": "2026-02-13 06:00:05",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-02-13 06:00:05",
       "album": {
+        "name": "record\u00e9 y me enoj\u00e9",
+        "url": "https://open.spotify.com/album/714m3ZtwXAvfpynvNmRbAt"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 150240,
+      "name": "record\u00e9 y me enoj\u00e9",
+      "url": "https://open.spotify.com/track/0D3RX1V8dsj3YdWfqdyApr"
+    },
+    {
+      "added_at": "2026-02-13 06:00:05",
+      "album": {
         "name": "PERDIDO",
         "url": "https://open.spotify.com/album/2ZBWXM9PcYCAbS0XQd9EQw"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 165333,
       "name": "PERDIDO",
       "url": "https://open.spotify.com/track/67jfNQ8ntPHnhxDv31iWRL"
-    },
-    {
-      "added_at": "2026-02-13 06:00:05",
-      "album": {
-        "name": "record\u00e9 y me enoj\u00e9",
-        "url": "https://open.spotify.com/album/714m3ZtwXAvfpynvNmRbAt"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 150240,
-      "name": "record\u00e9 y me enoj\u00e9",
-      "url": "https://open.spotify.com/track/0D3RX1V8dsj3YdWfqdyApr"
     },
     {
       "added_at": "2026-02-13 06:00:05",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-02-13 06:00:05",
       "album": {
-        "name": "BANDIDO",
-        "url": "https://open.spotify.com/album/4THyYcXm5vqpxl6vo5UBqa"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        },
-        {
-          "name": "Jencko el Shinobi",
-          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
-        }
-      ],
-      "duration_ms": 194178,
-      "name": "BANDIDO",
-      "url": "https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59"
-    },
-    {
-      "added_at": "2026-02-13 06:00:05",
-      "album": {
         "name": "mineminemine",
         "url": "https://open.spotify.com/album/3iFsdYgFIewy4fXDv3D1YD"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 165934,
       "name": "Bellakeras",
       "url": "https://open.spotify.com/track/48X4uznQyqCkklQ9278oj6"
+    },
+    {
+      "added_at": "2026-02-13 06:00:05",
+      "album": {
+        "name": "BANDIDO",
+        "url": "https://open.spotify.com/album/4THyYcXm5vqpxl6vo5UBqa"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        },
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        }
+      ],
+      "duration_ms": 194178,
+      "name": "BANDIDO",
+      "url": "https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59"
     },
     {
       "added_at": "2026-02-13 06:00:05",

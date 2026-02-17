@@ -4,7 +4,7 @@
 
 > 
 
-8,349 songs - 21 day 5 hr 14 min
+8,350 songs - 21 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7895,6 +7895,7 @@
 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 | 2025-03-06 |  |
 | [群青](https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [群青](https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx) | 4:08 | 2025-01-15 |  |
 | [群青讃歌](https://open.spotify.com/track/1OZsGTb22C22qTqsh2WH16) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:35 | 2025-11-27 |  |
+| [群青讃歌](https://open.spotify.com/track/2kMIsL9F7WOHFVMjGGhVIQ) | [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 4:35 | 2026-02-16 |  |
 | [群青讃歌](https://open.spotify.com/track/4dNjV2eYA5zW6FIVD9kNYZ) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 4:36 | 2025-10-03 |  |
 | [群青讃歌](https://open.spotify.com/track/1pj6zUNWoX9pP4rrL91M9o) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt), [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo), [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp), [天馬司](https://open.spotify.com/artist/6O6RrJYIuvZEIzv6tNG85i), [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク テーマソング・アニバーサリーソングアルバム](https://open.spotify.com/album/2pwXaxMlSCDporwOtHLQ2X) | 4:36 | 2026-02-12 |  |
 | [群青讃歌](https://open.spotify.com/track/4qGgGPkMWIPQBngZlR7tbh) | [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:36 | 2026-02-16 |  |

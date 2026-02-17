@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-492 songs - 1 day 5 hr 46 min
+493 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Body Groove 25 \- Lumiere Radio Remix](https://open.spotify.com/track/2ZXNFQ6SLl1DGTUg9VHq6N) | [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt), [Lumiere](https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj) | [Body Groove 25](https://open.spotify.com/album/0BfQKQ0JstHBsRTvKrSKe1) | 3:20 | 2025-12-12 | 2026-01-03 |
 | [Body Move](https://open.spotify.com/track/30DlzqpYluEkK82ysCsWVH) | [Aidan Rudd](https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD) | [Body Move](https://open.spotify.com/album/62yPsxxcVys0acKI9ZSVHM) | 3:45 | 2023-06-11 | 2023-07-03 |
 | [Body Shake](https://open.spotify.com/track/5vNQ6XnOHTP9yiKwj0n6zy) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [EVEL!N](https://open.spotify.com/artist/1pqFkN9ZxGGNAoqa8CmSCF) | [Body Shake](https://open.spotify.com/album/59GcH5wN5kj61dPPWtE8cl) | 3:32 | 2023-05-21 | 2023-06-19 |
+| [Bongotech \- Original Mix](https://open.spotify.com/track/61W8t6fxDEmTrR1RwGejmF) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B), [ALEX NEURET](https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV) | [Bongotech](https://open.spotify.com/album/6kJrJKZun3hjjupBHVVdpj) | 5:21 | 2026-02-16 |  |
 | [Boom](https://open.spotify.com/track/7AJy67TqJVYSSlp4z01H4d) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Boom](https://open.spotify.com/album/07XMRuimaG7X1vbryMOpib) | 2:28 | 2024-01-14 | 2024-03-11 |
 | [Boom Boom](https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Boom Boom](https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4) | 3:01 | 2023-12-10 | 2024-02-19 |
 | [Booty](https://open.spotify.com/track/6lhAa62sQdn2eUDbZgoaeF) | [Chantrero](https://open.spotify.com/artist/5nrupbqYt4u4PdhQXkyz3t), [Mr\. Nobody](https://open.spotify.com/artist/1lWbryCkR2tzmvEIM2Lknp) | [Booty EP](https://open.spotify.com/album/5KWIpioH5MPmmafacSw60u) | 3:09 | 2023-02-19 | 2023-03-13 |

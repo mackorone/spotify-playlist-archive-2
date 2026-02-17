@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,084 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,100 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 49 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 |
 | 50 | [Beautiful](https://open.spotify.com/track/0VD8NOseC3sF1LgFCb0qxb) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Beautiful](https://open.spotify.com/album/0CTwVaTIbLnnxN5bXUgSJn) | 3:11 |
 
-Snapshot ID: `AAAAAMr2YARi4qe8RF476jCn3oZbQaDO`
+Snapshot ID: `AAAAAFIPUmIuQ4lyoiVWcSSGyK1K1Y3K`

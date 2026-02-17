@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Charli xcx, Kaya Imani, Langa & Bokke8, MAKSIM & Babet, Kybba, Rondé en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,113 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,084 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

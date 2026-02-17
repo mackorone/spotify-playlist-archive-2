@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Gaia Banfi in cover + tutto il meglio delle novità indie 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,550 likes - 105 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,556 likes - 105 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 104 | [Iperoggetti](https://open.spotify.com/track/2u7neR7G91f4mssNz3Fgen) | [Amrā](https://open.spotify.com/artist/0zRhSgIiwPQAJjmepNFJmV), [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf) | [Iperpaesaggio](https://open.spotify.com/album/7JCpWVg5QcYrbaQXd8uG1i) | 3:11 |
 | 105 | [LE STORIE DEGLI ALTRI](https://open.spotify.com/track/77JflGtg6RqMX54rXZiEX5) | [Kandischi](https://open.spotify.com/artist/19OV4FdebODC4oWgHUW8BO) | [LE STORIE DEGLI ALTRI](https://open.spotify.com/album/1Nj0Kx7ikDq7zc42VdVz82) | 3:11 |
 
-Snapshot ID: `AAAAAIH0QbLM7kCVLq6dR50/SFUl6x7k`
+Snapshot ID: `AAAAAIOC5iZKwz3pspfyQh3L62pAcwGb`

@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: JOEY PHUWASIT
 
-638 songs - 1 day 14 hr 48 min
+639 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,8 @@
 | [เพื่อนกี่โมง \(friend zone\)](https://open.spotify.com/track/7Kf0DxAg3oodWqyiGlXQxV) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [เพื่อนกี่โมง \(friend zone\)](https://open.spotify.com/album/3rkm1DP9bmFpAMllXzf2k9) | 2:46 | 2025-11-14 | 2026-01-23 |
 | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/track/11ZywXk23xC8T7VOpKAbKI) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [PEEMWASU OF BUS](https://open.spotify.com/artist/5Iol3bIHuguW8mLb3KwHvE) | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/album/26P69L852w82osraPlizaB) | 3:08 | 2026-01-15 |  |
 | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/track/0MEYCRC6mdoKNPkkVAR5k6) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/album/1lx08G8uQTWeX1hYy3rgWb) | 3:16 | 2024-09-19 | 2024-10-12 |
-| [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ATz55UP6o2ZANEa84dx1H) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/6MbFdp0fjE8BDufYY38FOv) | 4:30 | 2025-08-21 |  |
+| [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ATz55UP6o2ZANEa84dx1H) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/6MbFdp0fjE8BDufYY38FOv) | 4:30 | 2025-08-21 | 2026-02-17 |
+| [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ezfWejKhD3CJS0qLNJKkQ) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/37Ii4y5gfz2JRD5oil2TiS) | 4:30 | 2026-02-16 |  |
 | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 | 2025-05-30 | 2025-06-14 |
 | [เราคงได้พบกันในสักวัน](https://open.spotify.com/track/44TVeXBI8SdrkgWf0lUkB0) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เราคงได้พบกันในสักวัน](https://open.spotify.com/album/0bwvJiWoIL0SO401EM31iw) | 4:10 | 2025-10-02 | 2025-10-18 |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-07 | 2025-07-04 |

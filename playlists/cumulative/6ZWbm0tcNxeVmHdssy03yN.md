@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-5,724 songs - 12 day 13 hr 36 min
+5,725 songs - 12 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5110,6 +5110,7 @@
 | [TNSQ](https://open.spotify.com/track/7yJjsQsCbiHf1N3n6MKbk5) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [TNSQ](https://open.spotify.com/album/3Qsimzjgd58kC21qu1LFDV) | 2:30 | 2023-06-30 | 2023-07-22 |
 | [To A Place](https://open.spotify.com/track/5binbxUdbh7FHGUgFBH3lC) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA) | [To A Place](https://open.spotify.com/album/4UijOwCWX2eleWUCm989kd) | 3:13 | 2024-08-09 | 2024-08-31 |
 | [To Be Evil](https://open.spotify.com/track/3SiL0WJs9X0NJf2QWlnwTC) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [To Be Evil](https://open.spotify.com/album/0qqJo4HFwXGKvHN9cudtly) | 3:45 | 2025-03-14 | 2025-04-19 |
+| [To Fall](https://open.spotify.com/track/2s6WsqnHa0pdYBvdmhGHbb) | [Jacob Watty](https://open.spotify.com/artist/51JEIdVdrpnfHbC0IvXH6H) | [To Fall](https://open.spotify.com/album/6TJ8maQQLiKy7mwEbdgszu) | 2:45 | 2026-02-16 |  |
 | [To The Speed Of Light](https://open.spotify.com/track/4xvC1rinjAWeCPKlkEYhZq) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE) | [To The Speed Of Light](https://open.spotify.com/album/5H1LERsmC3rZDct7mG5pd1) | 2:26 | 2021-01-09 | 2021-01-23 |
 | [Tocarte Toa \(New Era\)](https://open.spotify.com/track/2El0x4F50Uzh9I4idk5bBU) | [Big Yamo](https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw), [Bobby Sierra](https://open.spotify.com/artist/7m1SrGNNFFlVVIxQAdnbPA), [Danni Navarro](https://open.spotify.com/artist/3r71QvlTJmgTyky13vELF1), [Chacho Nt](https://open.spotify.com/artist/7HxOCzkjdFiP8Zj99xUUdC), [Ian Escobar](https://open.spotify.com/artist/0XhvgSrRR5SzzNk9WRaJI8), [Artur Da Silva](https://open.spotify.com/artist/0JPc5wr5SzNBw69KxcB5ym), [Dracko Jay](https://open.spotify.com/artist/6YpbUMN0DofJiPBxftXZjZ), [Epifania Music](https://open.spotify.com/artist/4Wz87jry3dp9k6YllJxbxa), [Dixi 7](https://open.spotify.com/artist/2CMTYPBe12dafVcF8eweWE), [Iaz Garcy](https://open.spotify.com/artist/0TIEtUWFqrSLavRUui1LMA), [Perlaak](https://open.spotify.com/artist/5tHrj8PNQvbBTcw65mBQKJ) | [Tocarte Toa \(New Era\)](https://open.spotify.com/album/1Zl4O1QrkbpQmZeIrNJnIq) | 4:41 | 2022-10-21 | 2022-11-12 |
 | [Toco el cielo](https://open.spotify.com/track/4LPz104W6y4ERoJPcx5RpZ) | [Marta Ginard](https://open.spotify.com/artist/44CzFnnUWO491sWgkP2L5C) | [Toco el cielo](https://open.spotify.com/album/3XFpCVwELHhaqvkk2Bo75i) | 3:12 | 2022-01-20 | 2022-02-19 |

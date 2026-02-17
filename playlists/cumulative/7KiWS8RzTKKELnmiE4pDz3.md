@@ -4,7 +4,7 @@
 
 > 
 
-1,341 songs - 2 day 22 hr 44 min
+1,343 songs - 2 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Crumblin' Erb](https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:09 | 2026-01-25 |  |
 | [Crunch Time](https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Crunch Time](https://open.spotify.com/album/6ONa9tLkPc0Unfj273RsAW) | 3:53 | 2023-02-06 | 2023-04-12 |
 | [Crushed Up](https://open.spotify.com/track/7wcyO1rrH3Ru4t659IjG41) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:29 | 2024-12-11 | 2025-05-21 |
+| [Cup Fulla Beetlejuice](https://open.spotify.com/track/1LtUQEcqGcoRRBT4XCpNM6) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 3:30 | 2026-02-17 |  |
 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 | 2025-01-29 | 2026-02-08 |
 | [Da Graveyard](https://open.spotify.com/track/04Rz403IY7QUqgfrTWX6OU) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 5:23 | 2025-12-03 |  |
 | [Daddy Kane \(feat\. Action Bronson\)](https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:54 | 2026-02-07 |  |
@@ -948,6 +949,7 @@
 | [R3kless](https://open.spotify.com/track/6fItXFfd1hwIPwJNxvu9iK) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Dumb and Dumb3r](https://open.spotify.com/album/219ryDc5ktf9nDO7FPkwIt) | 2:36 | 2025-05-08 |  |
 | [Rackz got më \(feat\. Gunna\)](https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 3:01 | 2022-02-18 | 2023-05-09 |
 | [RADAR](https://open.spotify.com/track/3lAEHk0eZzMKtCUFLXz8Ln) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:47 | 2025-06-01 |  |
+| [Radiation \(Lung Pollution\) \[feat.Supasortahuman\]](https://open.spotify.com/track/5Y0yhS2iHkuy7ydvYjOAqb) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA), [SupaSortahuman](https://open.spotify.com/artist/6uMMFLixszJ0OtMCs5Zjq4) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 4:31 | 2026-02-17 |  |
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-11-05 | 2025-05-21 |
 | [Rainy Dayz \(feat\. Ghostface Killah & Blue Raspberry\)](https://open.spotify.com/track/6j4BQbCcDPvj70Gsi8z6vu) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Blue Raspberry](https://open.spotify.com/artist/60FWCT8KxqA3J5Ny7g6ZXT) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 6:02 | 2025-10-14 |  |
 | [Range Rover Sports Truck \(Lil Yachty & Lil Keed\)](https://open.spotify.com/track/03Aji6nA2bOepJewgLQUUa) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 2:52 | 2024-08-17 | 2025-05-21 |

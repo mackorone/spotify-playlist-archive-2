@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "23 Theme (From \"AA23\")",
+        "url": "https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Hector Salamanca",
+          "url": "https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47741,
+      "name": "23 Theme (From \"AA23\")",
+      "url": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d"
+    },
+    {
+      "album": {
         "name": "Gangers",
         "url": "https://open.spotify.com/album/2VNzf2IFFgP1vV9tXqkF9F"
       },
@@ -6878,6 +6904,24 @@
       "duration_ms": 168540,
       "name": "Bloody Sweet (From \"Leo\")",
       "url": "https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9"
+    },
+    {
+      "album": {
+        "name": "Bloody Valentine (From \"DC\")",
+        "url": "https://open.spotify.com/album/2OAH8qkqhVs7IBQv4Mq4oM"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101828,
+      "name": "Bloody Valentine (From \"DC\")",
+      "url": "https://open.spotify.com/track/2UtxQtTo90v8HpEQwyS6Ss"
     },
     {
       "album": {
@@ -18671,6 +18715,36 @@
     },
     {
       "album": {
+        "name": "Kaattu Shenbagam [From \"Pallichattambi (Tamil)\"]",
+        "url": "https://open.spotify.com/album/27Q2yVGHaeHiqmAz7dghAX"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Akhil J. Chand",
+          "url": "https://open.spotify.com/artist/4jO97g76NBRTHUp74H6XmD"
+        },
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276516,
+      "name": "Kaattu Shenbagam (From \"Pallichattambi (Tamil)\")",
+      "url": "https://open.spotify.com/track/3JbGotTjkaOivRqKsDCWJ9"
+    },
+    {
+      "album": {
         "name": "Viduthalai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4"
       },
@@ -21202,7 +21276,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 377397,
       "name": "Kannakuzhikaaraa (From \"Train\")",
       "url": "https://open.spotify.com/track/0OMkDelRLtdaMaZJ31I2dV"
@@ -30844,7 +30918,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 244472,
       "name": "Namakkana kaalam (From \"Parasakthi\") (Tamil)",
       "url": "https://open.spotify.com/track/1TajCBsPtEwcsdrhQ6XYx8"

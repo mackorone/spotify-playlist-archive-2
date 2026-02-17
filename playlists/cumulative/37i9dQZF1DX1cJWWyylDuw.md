@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Face Yourself
 
-770 songs - 2 day 1 hr 11 min
+771 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Hate Circuit](https://open.spotify.com/track/1Lgzq8H9gDsesfv4yAMCn7) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Hate Circuit](https://open.spotify.com/album/4OsVDHkWGn0zJrosvqLdJ3) | 4:55 | 2021-12-17 | 2024-06-08 |
 | [Hatred](https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Hatred](https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc) | 3:03 | 2024-10-18 |  |
 | [Headcase](https://open.spotify.com/track/3wgW1TMsVWnf0Yyq2ZhCS8) | [23/19](https://open.spotify.com/artist/5LsTa1mx2J31IK5IEQSEga), [Jack Bergin](https://open.spotify.com/artist/3sUfFSAsORpvq5wXq6X9La) | [Two More Reasons to Hate Us](https://open.spotify.com/album/5fEaABOtkxCAmMWUhLMUAW) | 3:35 | 2022-01-07 | 2022-04-09 |
+| [Headcase](https://open.spotify.com/track/7rbRaL7XDidZ5E2y93xEl0) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Headcase](https://open.spotify.com/album/1AJs61yQ7CoBqYrReDYSLs) | 4:29 | 2026-02-13 |  |
 | [Heaven's Gate](https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q) | [Heavy//Hitter](https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU) | [Moments of Misery](https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg) | 2:57 | 2025-01-17 |  |
 | [Heir to the Serpent](https://open.spotify.com/track/2kBVTplPtDRx0sqXWtTYOh) | [The Guild](https://open.spotify.com/artist/5BVgUzoX3ui5r5bBWMNGLX) | [Heir to the Serpent](https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd) | 4:23 | 2021-12-17 | 2022-07-29 |
 | [Helheim \(feat\. Signs of the Swarm\)](https://open.spotify.com/track/0EayiN0EIN6oEQNgsc3ZUY) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9), [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Helheim \(feat\. Signs of the Swarm\)](https://open.spotify.com/album/3f9o79ZvqITcxWpqYxVnol) | 3:52 | 2025-10-03 |  |
@@ -588,7 +589,7 @@
 | [Scorched Earth](https://open.spotify.com/track/6oXwOVKXbtCZYx8t3ZLkSC) | [Deliverance](https://open.spotify.com/artist/4VlWzmAK3ti4Rs4hy73WIH), [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx) | [The Wicked We're Capable Of](https://open.spotify.com/album/55ER0akFeYs7L6ki3aPNa2) | 3:51 | 2025-05-16 | 2025-06-26 |
 | [Scorched Earth](https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Scorched Earth](https://open.spotify.com/album/7FTmfJvqaXMAQMVafKDsrt) | 3:50 | 2021-12-17 | 2022-07-29 |
 | [Scumprophet](https://open.spotify.com/track/4RmEemZjQl0BVZbWDcPoYu) | [Hollow Prophet](https://open.spotify.com/artist/6ogDfDc9YxecJUrpm9etXZ), [SCUMFUCK](https://open.spotify.com/artist/3rZszyIElLNiSPWPemCEWQ) | [Scumprophet](https://open.spotify.com/album/6EAWBs3FxAEsy1cawufZFS) | 4:44 | 2021-12-17 | 2022-04-07 |
-| [Seed](https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Seed](https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK) | 4:49 | 2025-06-06 |  |
+| [Seed](https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Seed](https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK) | 4:49 | 2025-06-06 | 2026-02-17 |
 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/74Kl9WSj63K7MJOZssDwAF) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [D](https://open.spotify.com/album/795u6k1CCuttNnhsDTM1ij) | 2:48 | 2021-12-17 | 2022-06-27 |
 | [Seeking Through The Vacant Vessel](https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Seeking Through The Vacant Vessel](https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l) | 2:45 | 2025-07-04 | 2025-08-28 |
 | [selfish](https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [selfish](https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP) | 3:02 | 2025-09-19 |  |

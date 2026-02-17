@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,092 likes - 99 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,126 likes - 99 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 18 | [Lettre Encore](https://open.spotify.com/track/2iQGTUBLVkvAQkjA7yLkEr) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Dyens: Lettre Encore](https://open.spotify.com/album/1UlvY6kRnHGlLLdYjU0raG) | 1:34 |
 | 19 | [Laufey: What Love Will Do to you](https://open.spotify.com/track/71G0IAEoNkyuM8wuAS5wEy) | [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Laufey: What Love Will Do to you](https://open.spotify.com/album/7qlvvRi1G3HFm35RqhY1Pr) | 3:46 |
 | 20 | [Passepied nouveau](https://open.spotify.com/track/0Ojn5HBy1lcILqz4m0Nj2h) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Monsieur Claude \(A Travel with Claude Debussy\)](https://open.spotify.com/album/1Eh0JcWtm36zjJaR276Rph) | 4:50 |
-| 21 | [Scurry](https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce) | [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl) | [Scurry](https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL) | 3:09 |
+| 21 | [Scurry](https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce) | [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl) | [Scurry](https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL) | 3:06 |
 | 22 | [Arietta \- Based on Grieg's Lyrical Pieces, Op\. 12](https://open.spotify.com/track/5X9RBOhzBCfbNWTqevvuhp) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Morphing Chamber Orchestra](https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W) | [Arietta \(Based on Grieg's Lyrical Pieces, Op\. 12\)](https://open.spotify.com/album/40SKSPh1RyASTnFrK3KBQ5) | 3:43 |
 | 23 | [MONTREUX PALACE](https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [TAKE 01](https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA) | 2:42 |
 | 24 | [I Love Paris \(arr\. for guitar by John W Duarte\)](https://open.spotify.com/track/28TUnvxKMS1Y5zzrOrl1Vr) | [Francisco Correa](https://open.spotify.com/artist/65WOtC7egyj29dra8Q2Zt3) | [I Love Paris \(arr\. for guitar by John W Duarte\)](https://open.spotify.com/album/42YjOUFdo4MAVs58mVV2St) | 2:55 |

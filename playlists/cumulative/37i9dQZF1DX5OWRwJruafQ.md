@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-778 songs - 1 day 13 hr 9 min
+779 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 | 2025-06-04 |  |
 | [Sector 17](https://open.spotify.com/track/5nDhWSfgKH6liYo5Bf1PFG) | [Navyaar](https://open.spotify.com/artist/123otJRZEIBmJ1A2elFQDB), [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Sector 17](https://open.spotify.com/album/048z7iRHr0G4qIiQ9yWigo) | 2:08 | 2025-07-10 | 2025-07-15 |
 | [SEE MY HYPE](https://open.spotify.com/track/3Mm889EIH0Qju0F42xXVGi) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [SEE MY HYPE](https://open.spotify.com/album/2zPKn5xWgqsKZMA0EICaZj) | 3:08 | 2025-12-09 |  |
-| [Selena](https://open.spotify.com/track/1RmGzT5Q6g03ssEsfeP6eH) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Selena](https://open.spotify.com/album/4falLOwk5DC2F0BVLipU14) | 2:19 | 2026-01-23 |  |
+| [Selena](https://open.spotify.com/track/1RmGzT5Q6g03ssEsfeP6eH) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Selena](https://open.spotify.com/album/4falLOwk5DC2F0BVLipU14) | 2:19 | 2026-01-23 | 2026-02-17 |
 | [Semi \- Auto](https://open.spotify.com/track/4nRfFpzbqjGvxe9CrrbJ4O) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Bhindder Burj](https://open.spotify.com/artist/4j4SDkxwy0Z68dIh5Vr7fh) | [Semi \- Auto](https://open.spotify.com/album/40lMqYNL5NFoFg4X6gCvsS) | 2:24 | 2023-11-07 | 2025-06-12 |
 | [Sensation](https://open.spotify.com/track/2fEsBuz3CWwRyW6TFAsZ1J) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [1:11](https://open.spotify.com/album/26IuSr3QbfNkzw1cx1NT9o) | 2:48 | 2025-05-16 | 2025-06-05 |
 | [Shaq](https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:47 | 2024-04-22 | 2024-04-27 |
@@ -706,6 +706,7 @@
 | [Time Hai Ni](https://open.spotify.com/track/5m4bVH5m49dLHDSwKerrH3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Time Hai Ni](https://open.spotify.com/album/3xBNlLn7s1NtEolKwcepC2) | 2:27 | 2024-08-13 | 2025-04-05 |
 | [Time Is Money](https://open.spotify.com/track/08bDXRTYaxPX6kpj2ezdC7) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Black Virus](https://open.spotify.com/artist/5nFLw1upxlYaXQhpaC4tEB) | [Time Is Money](https://open.spotify.com/album/6LEJQHgNhqDynj7AoE3Azz) | 2:06 | 2025-06-02 | 2025-08-31 |
 | [Tinted Windows](https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr) | [Jimmy Wraich](https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL), [Crispy Dondada](https://open.spotify.com/artist/03kKbaYoK0KB2xv7Q1FRKv), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Tinted Windows](https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57) | 3:12 | 2023-08-22 | 2023-09-12 |
+| [Toka](https://open.spotify.com/track/1AKd3fIVG1KDnhcnmJjZ7U) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Jovinbainz](https://open.spotify.com/artist/5pDsg7wlmFI8ubgEh6rmt4) | [Toka](https://open.spotify.com/album/6Ft7uytFpja0FscOL1mrP7) | 3:20 | 2026-02-16 |  |
 | [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 | 2024-09-09 | 2024-09-29 |
 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 | 2023-09-20 | 2025-03-11 |
 | [Top G](https://open.spotify.com/track/0lZkllHCEw17P8ZHKIRXk1) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Top G](https://open.spotify.com/album/4cgtmGUyBfMNKLGJkPpK9J) | 3:04 | 2025-02-04 | 2025-02-19 |

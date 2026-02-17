@@ -4,7 +4,7 @@
 
 > The best in house music
 
-752 songs - 2 day 0 hr 51 min
+753 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Blue Berries](https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Blue Berries](https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN) | 2:50 | 2024-05-17 | 2025-06-06 |
 | [Body \- Gregor Salto Remix](https://open.spotify.com/track/6HJBwWb1wB1luXYqRifGXc) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Body \(Gregor Salto Remix\)](https://open.spotify.com/album/4FrMzKdZ0B5hWS3gcEg21q) | 4:17 | 2024-03-14 | 2024-06-05 |
 | [Body Music](https://open.spotify.com/track/5uGYA6fEITkT1Qkwp2Dt8c) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Body Music](https://open.spotify.com/album/0dwu6ECzvwPVCSSl8g8f6S) | 3:42 | 2024-04-09 | 2025-01-31 |
-| [Body Talk \- DJ burgerhead Remix](https://open.spotify.com/track/312THy9peF2TUU4ECiurE9) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Diya](https://open.spotify.com/artist/6JIV0J3sqofXnYROxdUIMm), [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Body Talk \(Remixes\)](https://open.spotify.com/album/540N73VRpcg6XixKQJb5pc) | 4:30 | 2026-01-15 |  |
+| [Body Talk \- DJ burgerhead Remix](https://open.spotify.com/track/312THy9peF2TUU4ECiurE9) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Diya](https://open.spotify.com/artist/6JIV0J3sqofXnYROxdUIMm), [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Body Talk \(Remixes\)](https://open.spotify.com/album/540N73VRpcg6XixKQJb5pc) | 4:30 | 2026-01-15 | 2026-02-17 |
 | [Boss of the Coast](https://open.spotify.com/track/0bxK8pomoxy7ZxZCQJH7M5) | [Scruscru](https://open.spotify.com/artist/1NUvSIBsDRPoLWeGgzkEkn) | [Boss of the Coast](https://open.spotify.com/album/2s9QJw0VJ7AK1fTlSpg4DX) | 5:19 | 2024-09-12 | 2024-09-27 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2022-04-14 | 2024-03-01 |
 | [Boy \(feat\. JONES\)](https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Boy \(feat\. JONES\)](https://open.spotify.com/album/7psQd9JcAGWum1t1YOXlag) | 2:46 | 2024-01-11 | 2025-01-22 |
@@ -529,6 +529,7 @@
 | [Prize Is Rite](https://open.spotify.com/track/7ssKlWmZGC3NP5xpxcQvbR) | [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Back To The 00s EP](https://open.spotify.com/album/7AsNZZrJHooqb8GgjnPQ7a) | 3:01 | 2023-12-28 | 2024-09-13 |
 | [Punch Drunk Feeling \(Feat david hugo\)](https://open.spotify.com/track/5SoPTQLAFngnBUcETAnrEW) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Punch Drunk Feeling \(Feat david hugo\)](https://open.spotify.com/album/1JoGcASBekbsgXjdO8FrhA) | 2:22 | 2025-09-15 |  |
 | [Put A Spell On You](https://open.spotify.com/track/4EtEO4KP634oHaVSq9JAcf) | [Roog](https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh) | [Put A Spell On You](https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj) | 3:05 | 2023-05-25 | 2024-09-13 |
+| [Put The Record On](https://open.spotify.com/track/1RYOSPKsQt0PN5krUZhZmh) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Put The Record On](https://open.spotify.com/album/6I565f91V7OsxGCwg7D2X7) | 2:43 | 2026-02-14 |  |
 | [Que Tal America \- Dave Lee Mix](https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg) | [Dos Hombres Sonido](https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Que Tal America \(Dave Lee Mixes\)](https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH) | 4:00 | 2024-09-12 | 2025-11-08 |
 | [R U](https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [R U](https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E) | 3:34 | 2022-04-14 | 2024-03-01 |
 | [Raw Affairs](https://open.spotify.com/track/59x0KNMIqmQDzESKYiqEfr) | [Luppi Clarke](https://open.spotify.com/artist/6d0JuBFS97YrGujJBiUmhj) | [Raw Affairs](https://open.spotify.com/album/35bbR5pPqWSWXdeggoWpWF) | 2:18 | 2025-01-30 | 2025-03-21 |

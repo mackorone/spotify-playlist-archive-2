@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Lykke Li, Olga Myko och Malik Dalasi med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,851 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,830 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 101 | [One Love](https://open.spotify.com/track/1KGEykOy8nZcuJYPuzUGQj) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [One Love](https://open.spotify.com/album/2VB2aBJC76SGHgAruEvmtD) | 2:47 |
 | 102 | [say something](https://open.spotify.com/track/54O2qz5IvGbgXMBgioO5yP) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [say something](https://open.spotify.com/album/2R7Q2cBORoSFWVzeuaVxAS) | 2:42 |
 
-Snapshot ID: `AAAAALL59LTIqoUYCIat7IqxQNbFgnH/`
+Snapshot ID: `AAAAACRQsnwVpFuvQFE3k0HvtActJ5lo`

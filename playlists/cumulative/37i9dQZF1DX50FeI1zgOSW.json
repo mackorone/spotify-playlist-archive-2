@@ -2043,6 +2043,32 @@
     },
     {
       "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/5qkQpBcvNccPFME57mYCpn"
+      },
+      "artists": [
+        {
+          "name": "Gabrial Gladson",
+          "url": "https://open.spotify.com/artist/7bT5pEKrRCw55c5Gio2pE8"
+        },
+        {
+          "name": "Adithya Sriram",
+          "url": "https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo"
+        },
+        {
+          "name": "Jane Thompson",
+          "url": "https://open.spotify.com/artist/0qOGPgfGo4xZ5ttkpLx37N"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192167,
+      "name": "Cult Classic",
+      "url": "https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa"
+    },
+    {
+      "album": {
         "name": "Dapparu Raaja",
         "url": "https://open.spotify.com/album/6lyIOuHtXkTnjVd6TXtOwW"
       },
@@ -4559,6 +4585,32 @@
     },
     {
       "album": {
+        "name": "Kaathadi",
+        "url": "https://open.spotify.com/album/2eHaYapZSQAGJ6T1EylfW1"
+      },
+      "artists": [
+        {
+          "name": "Raksheet Ramesh",
+          "url": "https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI"
+        },
+        {
+          "name": "Mushkan Rajani",
+          "url": "https://open.spotify.com/artist/0NnKIiIjFYdvmjsHVeu00i"
+        },
+        {
+          "name": "Odiki",
+          "url": "https://open.spotify.com/artist/6nZ47eRkZ8sWLFgGEeQc54"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113547,
+      "name": "Kaathadi",
+      "url": "https://open.spotify.com/track/6NaQZMlpCeNlqgxV5tfzQC"
+    },
+    {
+      "album": {
         "name": "Kaatril Panju Pola",
         "url": "https://open.spotify.com/album/6MN2YQ6cBKSBxSZqdvQ8pP"
       },
@@ -5994,7 +6046,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 325090,
       "name": "Kasadathaparam",
       "url": "https://open.spotify.com/track/5rwnGqrp6ejur2DJIuPIur"
@@ -10848,7 +10900,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 171958,
       "name": "Pongal Thara Local",
       "url": "https://open.spotify.com/track/2b5ZoeSKA971sRjWZU0gP5"

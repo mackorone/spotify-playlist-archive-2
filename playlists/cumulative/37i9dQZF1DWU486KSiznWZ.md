@@ -2,9 +2,9 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> نخبة الأغاني الخليجية\. الغلاف: عايض
+> نخبة الأغاني الخليجية\. الغلاف: رابح صقر
 
-229 songs - 16 hr 30 min
+230 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-06-08 | 2023-01-19 |
 | [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 | 2025-02-04 | 2025-04-11 |
 | [Akhaf Admank](https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Akhaf Admank](https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH) | 3:32 | 2024-08-19 | 2024-09-06 |
-| [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 | 2023-04-20 |  |
+| [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 | 2023-04-20 | 2026-02-17 |
 | [Akher Dewa](https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Akher Dewa](https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu) | 4:56 | 2024-05-22 | 2024-07-05 |
 | [Al Aajab Fi Al Hawa](https://open.spotify.com/track/0zfS7Bbn6YilaptU6fb3r1) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Aajab Fi Al Hawa](https://open.spotify.com/album/3lZfmx2Wp1GpolaXboUYZw) | 5:23 | 2024-04-18 | 2024-09-06 |
 | [Al Enaq Al Akheer](https://open.spotify.com/track/4GzJjtpF6AOGkZzmPHqCDc) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 9:49 | 2025-01-23 |  |
@@ -30,6 +30,7 @@
 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-14 | 2024-10-16 |
 | [Al Riyadh W Al Hilla](https://open.spotify.com/track/2TxRVkPLaXgdIH2uJhduqg) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Riyadh W Al Hilla](https://open.spotify.com/album/1jcVfp86BLqrHSxUz57Qup) | 4:22 | 2025-11-25 |  |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2022-04-07 | 2023-08-28 |
+| [Ala Kathher Alqased](https://open.spotify.com/track/3w7kmEsYAoWdDin6YH8HDb) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Haflet Mkamleen Maakom 2021](https://open.spotify.com/album/3L251cDL3ZqcnXlCsCSFsU) | 8:33 | 2026-02-16 |  |
 | [Alam Aloshag](https://open.spotify.com/track/1zgIuawYbW1aRZ9MTTmnwt) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Alam Aloshag](https://open.spotify.com/album/3j2GXRSfXtgyL2QtQnP32F) | 2:39 | 2024-05-15 |  |
 | [Alfin Bab](https://open.spotify.com/track/0xwJYYm0zG7580yqF5KDpR) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alfin Bab](https://open.spotify.com/album/0k3gP9ljtof6e1BJ1WH0Pa) | 4:45 | 2024-04-18 | 2024-10-26 |
 | [Allah Ala The Allil](https://open.spotify.com/track/5ihud1HlQGEy2JaZgFCsFE) | [Omar Naghmet Wattar](https://open.spotify.com/artist/5HeUjWClBMbaVtHAQE1WNI) | [Allah Ala The Allil](https://open.spotify.com/album/1k19VdXfQADUyWWsO5xakL) | 5:28 | 2022-04-07 | 2022-06-09 |

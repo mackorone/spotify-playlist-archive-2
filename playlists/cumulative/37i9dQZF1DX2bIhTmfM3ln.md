@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-924 songs - 1 day 20 hr 40 min
+925 songs - 1 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Caress](https://open.spotify.com/track/6q7DBeVGhkp3gzlra8eW0x) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Caress](https://open.spotify.com/album/5XiXNUAYZ00xwVf3KAVqK0) | 2:22 | 2022-05-26 | 2022-08-07 |
 | [Carry Am Go](https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Love Testament](https://open.spotify.com/album/6tRqd597i8RSQ6odzWhpje) | 2:36 | 2024-03-08 | 2024-06-01 |
 | [Carry for Head](https://open.spotify.com/track/03tU30XBVABjq0KRBJL4N3) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Carry for Head](https://open.spotify.com/album/2C9hH4tenhrgU8fdxvn9cJ) | 2:26 | 2025-01-17 | 2025-09-05 |
-| [Carry Me](https://open.spotify.com/track/5ZldqhuqghE5SYpuSdUvhB) | [Skaa Veceti](https://open.spotify.com/artist/7moqwVMHJ39sfMGtjfRNNo) | [Carry Me](https://open.spotify.com/album/0x2g3YIdjckR28J2R3hpMX) | 2:37 | 2026-01-30 |  |
+| [Carry Me](https://open.spotify.com/track/5ZldqhuqghE5SYpuSdUvhB) | [Skaa Veceti](https://open.spotify.com/artist/7moqwVMHJ39sfMGtjfRNNo) | [Carry Me](https://open.spotify.com/album/0x2g3YIdjckR28J2R3hpMX) | 2:37 | 2026-01-30 | 2026-02-17 |
 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 | 2023-03-17 | 2024-06-28 |
 | [Casanova](https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Casanova](https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes) | 3:03 | 2024-05-03 | 2024-06-28 |
 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 | 2024-02-13 | 2024-02-16 |
@@ -900,6 +900,7 @@
 | [Winner](https://open.spotify.com/track/0VNpGyvGm4x4G78K2htr5Y) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Winner](https://open.spotify.com/album/5qHcpK4aGNBpAXkxk3XBd0) | 2:53 | 2022-11-04 | 2022-11-12 |
 | [WINNER](https://open.spotify.com/track/14FRaNhhJ0hbgtFdY48Ed1) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [WINNER](https://open.spotify.com/album/38OBkuvhiliWmf7N2sllyP) | 2:53 | 2022-11-04 | 2022-11-29 |
 | [WINNER](https://open.spotify.com/track/2OiYtmHf9LWj7xaxjg09rA) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [What A Time To Bee Alive](https://open.spotify.com/album/362skm7l6Vuafp2JwJdqIL) | 2:53 | 2022-11-04 | 2023-01-20 |
+| [Wins & Losses](https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Wins & Losses](https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk) | 2:59 | 2026-02-13 |  |
 | [Without You](https://open.spotify.com/track/2zO2Zdd88qb0H2dB8sXoKM) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Without You](https://open.spotify.com/album/6VLlcv2OAuGSR5oDD5yzWl) | 3:04 | 2024-07-19 | 2024-09-07 |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 | 2024-02-09 |
 | [Woman](https://open.spotify.com/track/68Aabutp5ZczYCmi51dPAG) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [Drexbeats](https://open.spotify.com/artist/5Kw6tU4czzjX7sz2QYQBEu) | [Woman](https://open.spotify.com/album/6DeUguXIRHGGUZYjCsq1b6) | 2:25 | 2025-05-16 | 2025-06-20 |

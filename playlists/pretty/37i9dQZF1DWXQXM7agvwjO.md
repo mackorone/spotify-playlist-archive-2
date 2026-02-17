@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Omega Sapien \(Korea\)
+> Hottest indie sounds from Asia\. Cover: Omega Sapien \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,636 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,635 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 12 | [Di Balik Senyap](https://open.spotify.com/track/2fyfrAc8mncLRrHUgYlCpW) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Di Balik Senyap](https://open.spotify.com/album/1Iu5uc5rQV4W7nHBEe2eNF) | 5:46 |
 | 13 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
 | 14 | [羽毛 Feather feat\. Mei Semones, 魯綱宇 \- Remix](https://open.spotify.com/track/2mbVGnMU1SQFitPcCTOTJU) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR), [魯綱宇](https://open.spotify.com/artist/7uhzbG4VN5q17jLLqwe9UT) | [《大象體操：比夢境更真實》 紀錄片原聲帶](https://open.spotify.com/album/1mMhbLjuTZpCdQMnYMnfMK) | 3:33 |
-| 15 | [By the Time](https://open.spotify.com/track/1s6OqIsuy0jcv3WGCi94CN) | [Aren't we ordinary?](https://open.spotify.com/artist/2ccAHh0qAwDwh4LxKcYQC5) | [By the Time](https://open.spotify.com/album/1RQTDdOPl9ZRv2b6YM2cXf) | 2:07 |
-| 16 | [のびしろ](https://open.spotify.com/track/3K3DKM9L29UkITFBW3AdrJ) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [のびしろ](https://open.spotify.com/album/48AtXqpHhoWVCOBm70H98C) | 4:03 |
-| 17 | [キューティー・ハニー・メロマンティック](https://open.spotify.com/track/38dkFvJcT7SipDapo05Zu6) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ジンジャー・キャット・アプリシエーション](https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci) | 4:45 |
+| 15 | [Dim Pop](https://open.spotify.com/track/3loLJNT3x6IrPRsRFllzCK) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Dim Pop](https://open.spotify.com/album/6uIa0Nagk9e1heRiL9Viy7) | 3:20 |
+| 16 | [By the Time](https://open.spotify.com/track/1s6OqIsuy0jcv3WGCi94CN) | [Aren't we ordinary?](https://open.spotify.com/artist/2ccAHh0qAwDwh4LxKcYQC5) | [By the Time](https://open.spotify.com/album/1RQTDdOPl9ZRv2b6YM2cXf) | 2:07 |
+| 17 | [のびしろ](https://open.spotify.com/track/3K3DKM9L29UkITFBW3AdrJ) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [のびしろ](https://open.spotify.com/album/48AtXqpHhoWVCOBm70H98C) | 4:03 |
 | 18 | [Ghost Circuit](https://open.spotify.com/track/2toEEYtgSl6MWQZmGrvtuU) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Ghost Circuit](https://open.spotify.com/album/0nSy3qSkjQxQ5Xbv1XEKoR) | 4:36 |
 | 19 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
 | 20 | [BIG VOID](https://open.spotify.com/track/1TpkuGrFjVAooL2fbCJ0i8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/1C9Woc2ay1qbA316hZgwjL) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Sugar](https://open.spotify.com/track/1KQVk62nF7UGf38Q4LniGM) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/1cOTf65S6zCKTkmMuRriIR) | 3:49 |
 | 100 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
 
-Snapshot ID: `AAAAANXX4guc7ccHP6VqSNvxlfi7Zs2T`
+Snapshot ID: `AAAAAMFMf43k6bJJlZ62OyMAPM4BcDfj`

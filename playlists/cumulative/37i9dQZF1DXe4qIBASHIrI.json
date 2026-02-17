@@ -658,7 +658,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 286573,
       "name": "Dead",
       "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
@@ -2538,6 +2538,24 @@
       "duration_ms": 160013,
       "name": "Tarde O Temprano",
       "url": "https://open.spotify.com/track/4XA2bWf1gbyETv4p0x3KHF"
+    },
+    {
+      "album": {
+        "name": "Il Visore Lunatique",
+        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186693,
+      "name": "The Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "album": {

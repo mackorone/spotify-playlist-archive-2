@@ -1,6 +1,6 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Lamb of God",
-  "num_followers": 933362,
+  "num_followers": 933250,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-10-10 03:01:27",
       "album": {
-        "name": "Bad Friend",
-        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Bad Friend",
-      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
-    },
-    {
-      "added_at": "2025-10-10 03:01:27",
-      "album": {
         "name": "Living A Lie",
         "url": "https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 273337,
       "name": "Living A Lie",
       "url": "https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh"
+    },
+    {
+      "added_at": "2025-10-10 03:01:27",
+      "album": {
+        "name": "Bad Friend",
+        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
     },
     {
       "added_at": "2025-10-10 03:01:27",

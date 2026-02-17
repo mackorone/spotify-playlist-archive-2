@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 9282,
+  "num_followers": 9292,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 265116,
-      "name": "\uc120\ubb3c",
-      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\ud130\ubcf4 HISTORY",
         "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 275200,
       "name": "\ud68c\uc0c1",
       "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 265116,
+      "name": "\uc120\ubb3c",
+      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\ub108",
-        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "\uc904\ub798",
-      "url": "https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Jaurim, The Wonder Land",
         "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 213933,
       "name": "Magic carpet ride",
       "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\ub108",
+        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "\uc904\ub798",
+      "url": "https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uae40\uc131\uc7ac",
-        "url": "https://open.spotify.com/album/1jQtTDFyBBGe7egGQqB2Ag"
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
       "artists": [
         {
-          "name": "Kim Sung Jae",
-          "url": "https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk"
+          "name": "Hong Kyung Min",
+          "url": "https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr"
         }
       ],
-      "duration_ms": 215849,
-      "name": "\ub9d0\ud558\uc790\uba74",
-      "url": "https://open.spotify.com/track/1gUfNVo4jFfmndYRMKSszu"
+      "duration_ms": 236066,
+      "name": "Shaky Friendship",
+      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1547,6 +1547,22 @@
       "duration_ms": 265377,
       "name": "Baekjeonmupae",
       "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\uae40\uc131\uc7ac",
+        "url": "https://open.spotify.com/album/1jQtTDFyBBGe7egGQqB2Ag"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Jae",
+          "url": "https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "\ub9d0\ud558\uc790\uba74",
+      "url": "https://open.spotify.com/track/1gUfNVo4jFfmndYRMKSszu"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1611,22 +1627,6 @@
       "duration_ms": 188186,
       "name": "\ub3cc\uc544\uc640",
       "url": "https://open.spotify.com/track/4RqJZRbBUfBgpIBQRRgNPJ"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung Min",
-          "url": "https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Shaky Friendship",
-      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
     },
     {
       "added_at": "2024-04-04 20:06:12",

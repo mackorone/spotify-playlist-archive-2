@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 355583,
+  "num_followers": 355591,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "EITA",
-        "url": "https://open.spotify.com/album/5HFPrK1K9ISu5FHQhO8ffl"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 223814,
-      "name": "Meu Xam\u00eago",
-      "url": "https://open.spotify.com/track/6QxiCm6uV6L1LbkiiXDJ7i"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "Algo Me Diz (Acusticamente)",
         "url": "https://open.spotify.com/album/6kYYHDpVNwqkbOyQb0MHPx"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 176012,
       "name": "Algo Me Diz (Acusticamente)",
       "url": "https://open.spotify.com/track/45sD7ZPV3rTYAN1dekDDL0"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
+        "name": "EITA",
+        "url": "https://open.spotify.com/album/5HFPrK1K9ISu5FHQhO8ffl"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 223814,
+      "name": "Meu Xam\u00eago",
+      "url": "https://open.spotify.com/track/6QxiCm6uV6L1LbkiiXDJ7i"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "Aprende Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2SkwqcvT93uSdOwFYcBnmD"
-      },
-      "artists": [
-        {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Aprende Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2gi9LwkbDXqfLdAclParYd"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "Besame",
         "url": "https://open.spotify.com/album/0dpuGbA8Kh0mMZAXpk8Vjm"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 238426,
       "name": "Besame",
       "url": "https://open.spotify.com/track/0dAVXWXbMOiMrgoICYWzfq"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
+        "name": "Aprende Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2SkwqcvT93uSdOwFYcBnmD"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Aprende Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2gi9LwkbDXqfLdAclParYd"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
         "name": "Que isso nunca acabe",
         "url": "https://open.spotify.com/album/4XZfBpwSg4HahwGZUbUKnb"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 161326,
       "name": "Que isso nunca acabe",
       "url": "https://open.spotify.com/track/40DZuYVEGulPfpKSVG9dl1"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG"
-      },
-      "artists": [
-        {
-          "name": "Iuna Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
-        }
-      ],
-      "duration_ms": 239873,
-      "name": "Umami",
-      "url": "https://open.spotify.com/track/3r32wc9pcsAvekdnTuuJHI"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "S\u00f3 Tenho Um",
         "url": "https://open.spotify.com/album/2xbuoODikHZ0DU0rOKROwt"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 225890,
       "name": "S\u00f3 Tenho Um",
       "url": "https://open.spotify.com/track/5iNbCINGOch9j2lVKgPyPn"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG"
+      },
+      "artists": [
+        {
+          "name": "Iuna Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
+        }
+      ],
+      "duration_ms": 239873,
+      "name": "Umami",
+      "url": "https://open.spotify.com/track/3r32wc9pcsAvekdnTuuJHI"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "Interdimensional",
-        "url": "https://open.spotify.com/album/3VWSx7bRCcUed35cSddMl2"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Arantes",
-          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Intergal\u00e1ctica Miss\u00e3o (Balada Interdimensional)",
-      "url": "https://open.spotify.com/track/18wHdF7isgfRrL61gnhkV2"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "FOI NO S\u00c3O JO\u00c3O",
         "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 189589,
       "name": "FOI NO S\u00c3O JO\u00c3O",
       "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/3VWSx7bRCcUed35cSddMl2"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Arantes",
+          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Intergal\u00e1ctica Miss\u00e3o (Balada Interdimensional)",
+      "url": "https://open.spotify.com/track/18wHdF7isgfRrL61gnhkV2"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "MINHA DONA",
-        "url": "https://open.spotify.com/album/1fxj7pL90vKI8brpykZlS5"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 149770,
-      "name": "MINHA DONA",
-      "url": "https://open.spotify.com/track/6HH3crASyfANv6O2rHaLe2"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 240301,
       "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
       "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
+        "name": "MINHA DONA",
+        "url": "https://open.spotify.com/album/1fxj7pL90vKI8brpykZlS5"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 149770,
+      "name": "MINHA DONA",
+      "url": "https://open.spotify.com/track/6HH3crASyfANv6O2rHaLe2"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "O Que Ser\u00e1 N\u00f3s Dois",
         "url": "https://open.spotify.com/album/36JVIS8Kb5kD2tcXHTHSvg"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 213810,
       "name": "O Que Ser\u00e1 N\u00f3s Dois",
       "url": "https://open.spotify.com/track/45bFBXL8loxclYoIhCtpWG"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
+        "name": "Sambadouro",
+        "url": "https://open.spotify.com/album/7yj8vRnoMRG3tA3slRQOl1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 216408,
+      "name": "Sambadouro",
+      "url": "https://open.spotify.com/track/63l1FU5mLWz51aaTmCoxNz"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
         "name": "Libido da Alma",
         "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "Baliza",
-        "url": "https://open.spotify.com/album/5nhpYDjVLf9JkJO1cnFyT9"
-      },
-      "artists": [
-        {
-          "name": "Letuce",
-          "url": "https://open.spotify.com/artist/07gtLXXq2JUXTIwrAfbRCb"
-        }
-      ],
-      "duration_ms": 278803,
-      "name": "Baliza",
-      "url": "https://open.spotify.com/track/1hjAJBGxs8mYpvuiPW67Qk"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "Um Trem para as Estrelas",
         "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
+        "name": "Baliza",
+        "url": "https://open.spotify.com/album/5nhpYDjVLf9JkJO1cnFyT9"
+      },
+      "artists": [
+        {
+          "name": "Letuce",
+          "url": "https://open.spotify.com/artist/07gtLXXq2JUXTIwrAfbRCb"
+        }
+      ],
+      "duration_ms": 278803,
+      "name": "Baliza",
+      "url": "https://open.spotify.com/track/1hjAJBGxs8mYpvuiPW67Qk"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
         "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 247847,
       "name": "Onde Deus possa me ouvir - Ao vivo",
       "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
-        "name": "Sambadouro",
-        "url": "https://open.spotify.com/album/7yj8vRnoMRG3tA3slRQOl1"
-      },
-      "artists": [
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 216408,
-      "name": "Sambadouro",
-      "url": "https://open.spotify.com/track/63l1FU5mLWz51aaTmCoxNz"
     },
     {
       "added_at": "2026-02-13 15:11:48",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-02-13 15:11:48",
       "album": {
-        "name": "Tudo Vai Conspirar",
-        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        }
-      ],
-      "duration_ms": 184875,
-      "name": "Tudo Vai Conspirar",
-      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
-    },
-    {
-      "added_at": "2026-02-13 15:11:48",
-      "album": {
         "name": "Capit\u00e3o Kirk",
         "url": "https://open.spotify.com/album/5dthuR842CeJx8AnfMwHYL"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 189144,
       "name": "Capit\u00e3o Kirk",
       "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
+    },
+    {
+      "added_at": "2026-02-13 15:11:48",
+      "album": {
+        "name": "Tudo Vai Conspirar",
+        "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        }
+      ],
+      "duration_ms": 184875,
+      "name": "Tudo Vai Conspirar",
+      "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
     },
     {
       "added_at": "2026-02-13 15:11:48",

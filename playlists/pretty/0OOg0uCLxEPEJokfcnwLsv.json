@@ -1,13 +1,29 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 716,
+  "num_followers": 728,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAE7i71AsSP0BVb6SwRt3SW9ZbuOSqN",
+  "snapshot_id": "AAAE81c45FQ2PZ4d0a6iI4aG+g3b+9wi",
   "tracks": [
+    {
+      "added_at": "2026-02-16 17:20:50",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/0wG69WeVzlbyg2rRCnUQmf"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "duration_ms": 215529,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI"
+    },
     {
       "added_at": "2026-01-29 01:31:47",
       "album": {
@@ -1711,6 +1727,54 @@
       "duration_ms": 197000,
       "name": "State of The Nation",
       "url": "https://open.spotify.com/track/2org02VczoJhxBLsQdtw4r"
+    },
+    {
+      "added_at": "2026-02-16 15:10:24",
+      "album": {
+        "name": "Domenica mattina",
+        "url": "https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX"
+      },
+      "artists": [
+        {
+          "name": "Social Six",
+          "url": "https://open.spotify.com/artist/4NAshWdxgeqcFG6kioF8eq"
+        }
+      ],
+      "duration_ms": 221798,
+      "name": "Domenica mattina",
+      "url": "https://open.spotify.com/track/0l3BjpYgBsWqS73T2PyDhV"
+    },
+    {
+      "added_at": "2026-02-16 15:20:19",
+      "album": {
+        "name": "Lobo Enjaulado",
+        "url": "https://open.spotify.com/album/63rBMmyVAlIWjCJGGa7ySM"
+      },
+      "artists": [
+        {
+          "name": "P.R.O.A.",
+          "url": "https://open.spotify.com/artist/6cMptGtvHkjH88qP0s57eO"
+        }
+      ],
+      "duration_ms": 365774,
+      "name": "Lobo Enjaulado",
+      "url": "https://open.spotify.com/track/1Emlppibbbk0q4dwzbdGMr"
+    },
+    {
+      "added_at": "2026-02-16 17:07:22",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo"
+      },
+      "artists": [
+        {
+          "name": "Stopgap Solution",
+          "url": "https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ"
     }
   ],
   "unique_name": "Unsigned Rock",

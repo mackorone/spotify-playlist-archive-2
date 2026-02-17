@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY"
@@ -1036,6 +1036,28 @@
       "duration_ms": 176778,
       "name": "Comprend\u00ed que te Perd\u00ed",
       "url": "https://open.spotify.com/track/0zHkZQhhcLDz6Miuy9Jnir"
+    },
+    {
+      "album": {
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189239,
+      "name": "Con el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI"
     },
     {
       "album": {

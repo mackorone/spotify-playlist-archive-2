@@ -4326,7 +4326,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -9905,6 +9905,32 @@
     },
     {
       "album": {
+        "name": "HORSEH",
+        "url": "https://open.spotify.com/album/5LawGVZF7BxYOk6lRU2Ae9"
+      },
+      "artists": [
+        {
+          "name": "\u859b\u5bb6\u71d5",
+          "url": "https://open.spotify.com/artist/668nZs0XpEFx6CNj8y9JXf"
+        },
+        {
+          "name": "Jaspers Lai",
+          "url": "https://open.spotify.com/artist/7fY9nr7g1gjyn3IdjdvX9k"
+        },
+        {
+          "name": "3P",
+          "url": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "HORSEH",
+      "url": "https://open.spotify.com/track/1HYqsWAiQDyB7L7IhNx7l0"
+    },
+    {
+      "album": {
         "name": "HOT (English ver.) (feat. JADE)",
         "url": "https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT"
       },
@@ -11290,7 +11316,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
@@ -16470,7 +16496,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -18910,7 +18936,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -19650,7 +19676,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 251714,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"

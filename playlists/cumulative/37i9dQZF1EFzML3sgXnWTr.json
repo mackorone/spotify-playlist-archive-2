@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO",
+        "url": "https://open.spotify.com/album/69mCnKvD4x8fWENzqUbGdU"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166543,
+      "name": "SE FINISSE L'AMORE",
+      "url": "https://open.spotify.com/track/7zAub2y3CBN6flSbXHE28f"
+    },
+    {
+      "album": {
         "name": "SERENATA",
         "url": "https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz"
       },

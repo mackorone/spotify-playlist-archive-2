@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ceren Sagu ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,243 likes - 182 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,252 likes - 182 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 84 | [NJT İSLR](https://open.spotify.com/track/07ZSRBWUwyJFVrfo1aUR0A) | [kefo](https://open.spotify.com/artist/0Z3JwMejHZc82MMubb3iPE) | [NJT İSLR](https://open.spotify.com/album/4PGNzPxqjFWRhSVCH4LcsP) | 2:18 |
 | 85 | [somebody you're supposed to love](https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 3:10 |
 | 86 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
-| 87 | [Ah Şu Gönül \- Original](https://open.spotify.com/track/6BIVabaMB511txyRpUXiBe) | [melih](https://open.spotify.com/artist/7v5y2DtJeWGa5dl6y1ntp1) | [Ah Şu Gönül \(Original\)](https://open.spotify.com/album/4BTIKJQqkM9Zc65nJX9K8w) | 3:21 |
+| 87 | [Ah Şu Gönül](https://open.spotify.com/track/6BIVabaMB511txyRpUXiBe) | [melih](https://open.spotify.com/artist/7v5y2DtJeWGa5dl6y1ntp1) | [Ah Şu Gönül](https://open.spotify.com/album/4BTIKJQqkM9Zc65nJX9K8w) | 3:21 |
 | 88 | [Yabancı](https://open.spotify.com/track/78yMhnAfULzUDZjwa5j69g) | [Berika](https://open.spotify.com/artist/5fb8Z2gImuHufAXU487uFI) | [Yabancı](https://open.spotify.com/album/3g4EiHYKCDvq5XPHmXfIC3) | 2:33 |
 | 89 | [SIKINTI YOK](https://open.spotify.com/track/4EdK8QyT2SEtPRnYYQJWKe) | [Ogiboyz](https://open.spotify.com/artist/6PZVRSkk0MYKjww6d5Kmq4) | [SIKINTI YOK](https://open.spotify.com/album/0Xxb77WXRq8ocX04149WvI) | 2:42 |
 | 90 | [Say It Again](https://open.spotify.com/track/1WV6U2j7wErc7c1H4INFwM) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [Say It Again](https://open.spotify.com/album/4tOsSIMVPcn99LAerfEfFC) | 2:59 |

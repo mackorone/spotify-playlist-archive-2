@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 
 > Agarren su pareja que es momento de mover ese botecito\. En portada Israel Morales y APV Passion Vallenata 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,636 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,658 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Regresa \- En Vivo](https://open.spotify.com/track/3e4NhqH7BLjpOVWrACM3OA) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [Regresa \(En Vivo\)](https://open.spotify.com/album/2eLJWcMKsjVyj7GfdW7C6V) | 3:58 |
-| 2 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
+| 2 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/1Fw3mrMZROO1DBCZlQPasS), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
 | 3 | [Muchachita De Ojos Tristes](https://open.spotify.com/track/0G7466Xw2AmRvwZZ8pQc2e) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Muchachita De Ojos Tristes](https://open.spotify.com/album/6gVR5QgioGBMJB5dwOyf8X) | 3:00 |
 | 4 | [Me Mandó un Ángel](https://open.spotify.com/track/4zyrzPLBYdjkzNOkeWmdMc) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Me Mandó un Ángel](https://open.spotify.com/album/3ESL9JIAkgCIowTbE9g3O9) | 2:47 |
 | 5 | [Amor Carnal](https://open.spotify.com/track/107WqtUsPDfoOVrCpeNDEH) | [La Promeza Norteña](https://open.spotify.com/artist/6bWMO75sSZc7kx8pBBLMwb) | [Amor Carnal](https://open.spotify.com/album/045PWkqctiElkpRu4W6fwR) | 3:37 |

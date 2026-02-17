@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 673 songs - 1 day 19 hr 52 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 671 songs - 1 day 19 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -676,10 +676,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 666 | [Act 1 \(The Pilgrim\)](https://open.spotify.com/track/0Sh2zTedEwg16d30rcPTM4) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd), [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 1:39 |
 | 667 | [Joy Peace Love](https://open.spotify.com/track/3h90xrOdXjyFn5SUpxigvR) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Love Gun 3](https://open.spotify.com/album/05abH0jre9UAK7UW7iQWb1) | 3:39 |
 | 668 | [GODLY \(feat\. Damon Albarn\)](https://open.spotify.com/track/69zR9rUlizT5evNCIIHrTn) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 2:33 |
-| 669 | [Pangea](https://open.spotify.com/track/1DVrCUHIHQCKipeer1WnP0) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 2:48 |
-| 670 | [Night Faces](https://open.spotify.com/track/4ovwVH99Afch4OJhMTTVsV) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 4:08 |
-| 671 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 672 | [House featuring John Cale](https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:15 |
-| 673 | [In Search of a Revival Part 1](https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [In Search of a Revival](https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM) | 0:51 |
+| 669 | [Night Faces](https://open.spotify.com/track/4ovwVH99Afch4OJhMTTVsV) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 4:08 |
+| 670 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
+| 671 | [In Search of a Revival Part 1](https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [In Search of a Revival](https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM) | 0:51 |
 
-Snapshot ID: `AAAIl7mrB1huNVUg4IBF2jmhjAARcMDd`
+Snapshot ID: `AAAImS/S/PL1UH0nlQcWuzz8H0OBYmNa`

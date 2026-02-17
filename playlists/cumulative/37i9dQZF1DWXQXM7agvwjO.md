@@ -2,9 +2,9 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Omega Sapien \(Korea\)
+> Hottest indie sounds from Asia\. Cover: Omega Sapien \(South Korea\)
 
-2,407 songs - 6 day 2 hr 0 min
+2,408 songs - 6 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 | 2023-04-20 | 2024-02-02 |
 | [Different Shade of Blue](https://open.spotify.com/track/4TfTHd6vzdJwETRmfKK7pB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2qFwbnJz52vHxJUQCcJdAv) | 2:50 | 2022-03-24 | 2022-06-03 |
 | [Different Socks](https://open.spotify.com/track/7GbD3tRjKaqc2yvkPe23ex) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [Different Socks](https://open.spotify.com/album/6RVTdal84K19D7ERNToJTh) | 3:39 | 2023-03-31 | 2023-04-21 |
+| [Dim Pop](https://open.spotify.com/track/3loLJNT3x6IrPRsRFllzCK) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Dim Pop](https://open.spotify.com/album/6uIa0Nagk9e1heRiL9Viy7) | 3:20 | 2026-02-16 |  |
 | [Dim The Lights](https://open.spotify.com/track/0uHBntA9jiBTKkYwnRpKQQ) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Dim The Lights](https://open.spotify.com/album/2AXhk6GgGxQS1WNjm5Sbnw) | 4:22 | 2025-05-10 | 2025-06-27 |
 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 | 2022-10-28 | 2023-02-03 |
 | [DINOSAUR](https://open.spotify.com/track/00N1iwLqSbnDPEtgQkEbKt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [DINOSAUR](https://open.spotify.com/album/5jsQBUbpsOZ0gYJZWthE8g) | 2:50 | 2025-03-13 | 2025-03-28 |
@@ -2243,7 +2244,7 @@
 | [イエロー](https://open.spotify.com/track/7EEsbYA6gZxufTOniQXnmL) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [最後の初恋](https://open.spotify.com/album/0dEoSEaWD6MmHSlrzcXtij) | 5:19 | 2024-06-13 | 2024-06-28 |
 | [イエロー](https://open.spotify.com/track/7KsID2OzgAdWP4CL06pHAU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [イエロー](https://open.spotify.com/album/0eHdWFvgTbDhrI0GImMGyA) | 5:19 | 2024-02-29 | 2024-05-03 |
 | [カフネ](https://open.spotify.com/track/2Xt6SqslX1L4fAYPtBtPJT) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [愛はいつもひとりきり \- EP](https://open.spotify.com/album/2JudOERiszdEJUoUquMezd) | 4:32 | 2025-02-13 | 2025-02-28 |
-| [キューティー・ハニー・メロマンティック](https://open.spotify.com/track/38dkFvJcT7SipDapo05Zu6) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ジンジャー・キャット・アプリシエーション](https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci) | 4:45 | 2026-02-05 |  |
+| [キューティー・ハニー・メロマンティック](https://open.spotify.com/track/38dkFvJcT7SipDapo05Zu6) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ジンジャー・キャット・アプリシエーション](https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci) | 4:45 | 2026-02-05 | 2026-02-17 |
 | [キリコ](https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [キリコ](https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC) | 3:44 | 2024-10-03 | 2024-11-09 |
 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/4zBMWtHpcpJzWeLONINVHi) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [サウナ好きすぎ、より深く](https://open.spotify.com/album/5DBu9SUvni3WmOnT7qSMc3) | 4:24 | 2024-05-23 | 2024-06-14 |
 | [シンガーソングライター](https://open.spotify.com/track/1KhhkktUMXHy58wCbfPXcY) | [ポニーテールスクライム](https://open.spotify.com/artist/3pjuGFTZi5mmhM1F01cYOz) | [シンガーソングライター](https://open.spotify.com/album/55huvXkFnL1UeYiJhpHRBx) | 4:14 | 2022-10-28 | 2022-11-11 |

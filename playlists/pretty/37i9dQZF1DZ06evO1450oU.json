@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAACq25Pl1UBkaLEB8gB8O63Q",
+  "snapshot_id": "aZEMgAAAAAChK431cK5lER0tzX68FNh2",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 172548,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 172548,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     }
   ],
   "unique_name": "This Is Salt Creek",

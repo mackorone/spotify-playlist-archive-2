@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Ben Cristovao
+> 50 nejžhavějších hitů v České republice\. Cover: Robin Zoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,734 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,723 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vlajka](https://open.spotify.com/track/1dFkFkXOe5o9frpTi4vR17) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Vlajka](https://open.spotify.com/album/062oTWHWCeDsWvaXn5zuJ2) | 2:09 |
-| 2 | [Kdo??](https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Majitel](https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL) | 2:49 |
+| 1 | [Kdo??](https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Majitel](https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL) | 2:49 |
+| 2 | [Vlajka](https://open.spotify.com/track/1dFkFkXOe5o9frpTi4vR17) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Vlajka](https://open.spotify.com/album/062oTWHWCeDsWvaXn5zuJ2) | 2:09 |
 | 3 | [NEPO](https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV) | [Mat213](https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx), [Franta Prachař](https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU), [Anna Mercedes](https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt) | [NEPO](https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez) | 2:51 |
 | 4 | [Strach](https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 3:25 |
-| 5 | [Klenot](https://open.spotify.com/track/07w0b0rg01V4K4V81bv17X) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Můj sport / Klenot](https://open.spotify.com/album/1lawAF7gDuMHRLjj7IMPf3) | 2:55 |
-| 6 | [Jak Robot](https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [BOYBAND](https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB) | 2:26 |
-| 7 | [Stovky let](https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Stovky let](https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W) | 2:41 |
+| 5 | [Stovky let](https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Stovky let](https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W) | 2:41 |
+| 6 | [Klenot](https://open.spotify.com/track/07w0b0rg01V4K4V81bv17X) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Můj sport / Klenot](https://open.spotify.com/album/1lawAF7gDuMHRLjj7IMPf3) | 2:55 |
+| 7 | [Jak Robot](https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [BOYBAND](https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB) | 2:26 |
 | 8 | [23](https://open.spotify.com/track/4mgUD7Yz4YJRb4cr2NnKpu) | [Raphael](https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe) | [23](https://open.spotify.com/album/6far1bcY49VtxZF5PWYozd) | 1:57 |
 | 9 | [ZA KATREM](https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [ZA KATREM](https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN) | 3:00 |
 | 10 | [Dilema](https://open.spotify.com/track/7ksKB1i7m3qe7ZpHOaG4je) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Dilema](https://open.spotify.com/album/6D3NudgxdtKN4csseJ3yYP) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 50 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 
-Snapshot ID: `AAAAAM52v2LWklCvg68OsCD5He0IEOpi`
+Snapshot ID: `AAAAADi5DGk9Q72b7m+UMOOUMf67T3QX`

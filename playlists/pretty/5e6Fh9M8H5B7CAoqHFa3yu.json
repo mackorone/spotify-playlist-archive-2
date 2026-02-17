@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 260,
+  "num_followers": 263,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIGp4Cxei4SY6us/PNpkJYhN8KOMSX",
+  "snapshot_id": "AAAIH47jjVuAqsImKFnzjrjYk0yV/r6Z",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -1911,8 +1911,8 @@
     {
       "added_at": "2025-07-24 05:27:45",
       "album": {
-        "name": "again",
-        "url": "https://open.spotify.com/album/5TDj05hZIp16RoCNE1VJNd"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
@@ -1927,8 +1927,8 @@
     {
       "added_at": "2025-07-23 15:11:34",
       "album": {
-        "name": "Lemon",
-        "url": "https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
@@ -33063,6 +33063,110 @@
       "duration_ms": 210180,
       "name": "Time Is A Weapon",
       "url": "https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e"
+    },
+    {
+      "added_at": "2026-02-16 04:21:35",
+      "album": {
+        "name": "C\u00e9u de Caju",
+        "url": "https://open.spotify.com/album/0HSYrkXLqisr3lj1Uig00W"
+      },
+      "artists": [
+        {
+          "name": "Marie Saintonge",
+          "url": "https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        },
+        {
+          "name": "Rommel",
+          "url": "https://open.spotify.com/artist/7umdEQLmAvnJsKZLZmzM10"
+        }
+      ],
+      "duration_ms": 141250,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/5HEFhWVhZDbxrJ6G03CkLk"
+    },
+    {
+      "added_at": "2026-02-16 10:00:12",
+      "album": {
+        "name": "WER ZAHLT?",
+        "url": "https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju"
+      },
+      "artists": [
+        {
+          "name": "du zahlst",
+          "url": "https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "WER ZAHLT?",
+      "url": "https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG"
+    },
+    {
+      "added_at": "2026-02-16 18:34:54",
+      "album": {
+        "name": "Recuerdos de la Alhambra",
+        "url": "https://open.spotify.com/album/0jpkUpg8WHzZbAqmJ0UDlk"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Recuerdos de la Alhambra",
+      "url": "https://open.spotify.com/track/3i7Io50fY4jdbrOTLcn5Fi"
+    },
+    {
+      "added_at": "2026-02-16 23:12:15",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1t2MmGOXL07jrn1DDDOpZb"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU"
+        },
+        {
+          "name": "EUFOREIGN",
+          "url": "https://open.spotify.com/artist/3MK8OFHs62kqTJcMG9Gg3z"
+        },
+        {
+          "name": "Ch7nky",
+          "url": "https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq"
+        },
+        {
+          "name": "Swaglone.mp4",
+          "url": "https://open.spotify.com/artist/6c90YtrZEvGETj6HgKntTp"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6Z0qoGaKJlHZhDVT9DTtw4"
+    },
+    {
+      "added_at": "2026-02-16 23:15:01",
+      "album": {
+        "name": "Old Ghosts Wash Away",
+        "url": "https://open.spotify.com/album/0Ou8UYSIb2Hm3OAu6B3wvh"
+      },
+      "artists": [
+        {
+          "name": "Apex89",
+          "url": "https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Old Ghosts Wash Away",
+      "url": "https://open.spotify.com/track/05PotvxSgOgn43jerFi0a8"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

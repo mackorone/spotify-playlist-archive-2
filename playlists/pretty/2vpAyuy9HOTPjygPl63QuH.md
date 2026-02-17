@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > the final boss of house playlists\. \| minimal tech \- tech house \- rally house \- droid house \- club mix \- dj music \- workout music \- bass house
 
-[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,143 likes - 55 songs - 2 hr 51 min
+[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,152 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

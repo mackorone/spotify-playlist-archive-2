@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,129 likes - 169 songs - 9 hr 56 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,131 likes - 175 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,20 +162,26 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 152 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 153 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 154 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 155 | [Feelings](https://open.spotify.com/track/3S1M99K21OJEK8375thzLa) | [Huncho](https://open.spotify.com/artist/6ylj78yvPHcm8A77fVdZTh), [Bluxxi](https://open.spotify.com/artist/4tCf9C7GE37kubYnnOyWTh) | [Feelings](https://open.spotify.com/album/0bElkRIIEhsruMzgltwkTO) | 2:54 |
-| 156 | [Morena](https://open.spotify.com/track/433QmROnQp7IQMPF88wBjq) | [Yachi Cj](https://open.spotify.com/artist/3X20hnjwoJOiodc9LfTITJ) | [LØVE](https://open.spotify.com/album/3ckArbcam3BpEr3P7e9PJZ) | 2:21 |
-| 157 | [Babe](https://open.spotify.com/track/2fP2e3AQ3XZgJuJj8drSs0) | [Prolifik Plsoo](https://open.spotify.com/artist/3gdXgaIc6lIxOzpqpY1TJZ), [Mr.Wakobi](https://open.spotify.com/artist/3YPSUF80Pv7R3ft9LROSrV) | [Babe](https://open.spotify.com/album/7Ku9iZqg9bEa1OV3VRelJY) | 3:13 |
-| 158 | [The Promised Land](https://open.spotify.com/track/0gCTWPjLiFpaPTohBAUnOK) | [Shiloh West](https://open.spotify.com/artist/69dGyAIqgXw03hO6001hxn) | [The Promised Land](https://open.spotify.com/album/32v0FiZq4dKSRlW8DCTGhV) | 4:15 |
-| 159 | [Ngiyanikela konke](https://open.spotify.com/track/64i5OtK2X4DHZQWTDiWHOW) | [Dr\. Deus](https://open.spotify.com/artist/5Lp4nPhu0eRwXxiGqq4L8s) | [Ngiyanikela konke](https://open.spotify.com/album/5Lr9UEozytrR2fkfyOe85f) | 5:01 |
-| 160 | [Dirt Road to Downtown](https://open.spotify.com/track/4bf7r2C08fjhJXuYkzFOuN) | [Kyle Bunney](https://open.spotify.com/artist/6AJIJDkkmXNrrEhKk7QOuC) | [Dirt Road to Downtown](https://open.spotify.com/album/0WvAmoCRrzGXTJC2r1qToY) | 3:41 |
-| 161 | [Spinning On A Spire](https://open.spotify.com/track/5UbBse5sRanejFjYxPlSUB) | [Dominic Lavoie](https://open.spotify.com/artist/6IbM5ng5cjZuZoCSjEO6LR) | [Spinning On A Spire](https://open.spotify.com/album/1hTFzhm0SJjefZO5snnPlp) | 3:29 |
-| 162 | [Si fuimos algo](https://open.spotify.com/track/4BT50O2HFYORi2aNDjSe3N) | [MANENA](https://open.spotify.com/artist/0iqltBGuFMhKSGJoObggvs) | [Parsimoniosa](https://open.spotify.com/album/6QdStxptw0ctxYiDVpX1Xy) | 3:16 |
-| 163 | [Call My Soul Back](https://open.spotify.com/track/3BzFgSujgr9sQv0nz2agEd) | [Catdraggon](https://open.spotify.com/artist/3KAFSyOCx8EGhQj8ExHeCv) | [Call My Soul Back](https://open.spotify.com/album/6tqf6l6sQt3pZ5jyLatgnX) | 4:37 |
-| 164 | [Don't Run Home](https://open.spotify.com/track/5GOQDfNmhVDeQUsRR9B8J0) | [$cotty](https://open.spotify.com/artist/5mOW3PxPVgrj3BBwZdSIY4) | [Don't Run Home](https://open.spotify.com/album/6llRZH3mkRkg0fAHiUhoOg) | 2:57 |
-| 165 | [let go](https://open.spotify.com/track/3tRg6Z0xjmB0IlV9ggAif8) | [wigi!](https://open.spotify.com/artist/56wyLJzjhBfN9IwX7fBKAU) | [let go](https://open.spotify.com/album/0b6FIktnaUOk1N0eOOajDA) | 2:02 |
-| 166 | [Show](https://open.spotify.com/track/5LfcqJ9V95a207NdqZsLVV) | [Ky J\. Brandes](https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu) | [Show](https://open.spotify.com/album/3Q851Z916dJpSra5aq6MSD) | 3:24 |
-| 167 | [Brought Me To Life](https://open.spotify.com/track/13ASr80ZIeOa5qn5gO1elK) | [In My Better Days](https://open.spotify.com/artist/6MyAHsbsz1d3mVvALdbhN7), [Haya Ashraf](https://open.spotify.com/artist/3YyFey0OvygmtzWuqZVZr7) | [Brought Me To Life](https://open.spotify.com/album/6bdRv9CzRsdWLJ2FfXWecA) | 3:40 |
-| 168 | [Your LIfe](https://open.spotify.com/track/1jFkUJPa1OLZrYDi8Wt65C) | [LIYA](https://open.spotify.com/artist/3eC0Vvq4FbNLKwrU0D6Geb) | [Your LIfe](https://open.spotify.com/album/04VZhnzFKMXNHPSI1K03YH) | 3:06 |
-| 169 | [Crotona](https://open.spotify.com/track/32IHNapsALGfCC8ZMcNvXe) | [Jupie](https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28) | [Crotona](https://open.spotify.com/album/3ysK2oDoyRiixR3PQgPckv) | 2:19 |
+| 155 | [Slotty Road](https://open.spotify.com/track/2A8Fn5YbTsEy80Qt90aci6) | [Sam Ness](https://open.spotify.com/artist/7jzIGfTzUY6BbRvnbhcRFS) | [Slotty Road](https://open.spotify.com/album/2O49jmLLmnKZeekWXyT9Wn) | 4:09 |
+| 156 | [Sabíamos](https://open.spotify.com/track/5gNsOzW4mTcJ6nDMP8GXLg) | [Rodrigo Serrano](https://open.spotify.com/artist/3nnplxUSbHoPG3V9xIJh9t) | [Sabíamos](https://open.spotify.com/album/6joFeqh18U9Ud6ATygcQiA) | 3:45 |
+| 157 | [Blind](https://open.spotify.com/track/04f7zyzqfuovBReuITY0TC) | [Senny Rolls](https://open.spotify.com/artist/2jIU7Yx07L9FAHicABZ0ff) | [Blind](https://open.spotify.com/album/6aXZTi6S2eZA0DnhAyUti7) | 2:20 |
+| 158 | [Ouu Wsup](https://open.spotify.com/track/7b5Kh2Nlvat2IlaQ08g8o8) | [M.A.D\. Smooth](https://open.spotify.com/artist/2norQnTo5YDzz0rNjyVBgM), [Willy Flee](https://open.spotify.com/artist/3LjbD4EbMkvgmFjN2sWeD9) | [Ouu Wsup](https://open.spotify.com/album/45ecsqjfyp2PW7OUKAWNlh) | 2:14 |
+| 159 | [Waiting](https://open.spotify.com/track/6AzwnSSvgugEqAnqqm9Vqc) | [The Sun Harmonic](https://open.spotify.com/artist/4y7VIhtqatehI7dxEZPhla) | [Self\-titled](https://open.spotify.com/album/2MxSOUtDlXINLpN4kxASZr) | 3:38 |
+| 160 | [Psychic Valentine \- 2026 Remaster](https://open.spotify.com/track/2NMWH4GNUaH8Zcmz4WGk80) | [Love Lotuz](https://open.spotify.com/artist/7z5P8GNLVwumwETVDF1hwb) | [Psychic Valentine \(2026 Remaster\)](https://open.spotify.com/album/7IwdTYuXk3XOxy78alKr8i) | 4:34 |
+| 161 | [Feelings](https://open.spotify.com/track/3S1M99K21OJEK8375thzLa) | [Huncho](https://open.spotify.com/artist/6ylj78yvPHcm8A77fVdZTh), [Bluxxi](https://open.spotify.com/artist/4tCf9C7GE37kubYnnOyWTh) | [Feelings](https://open.spotify.com/album/0bElkRIIEhsruMzgltwkTO) | 2:54 |
+| 162 | [Morena](https://open.spotify.com/track/433QmROnQp7IQMPF88wBjq) | [Yachi Cj](https://open.spotify.com/artist/3X20hnjwoJOiodc9LfTITJ) | [LØVE](https://open.spotify.com/album/3ckArbcam3BpEr3P7e9PJZ) | 2:21 |
+| 163 | [Babe](https://open.spotify.com/track/2fP2e3AQ3XZgJuJj8drSs0) | [Prolifik Plsoo](https://open.spotify.com/artist/3gdXgaIc6lIxOzpqpY1TJZ), [Mr.Wakobi](https://open.spotify.com/artist/3YPSUF80Pv7R3ft9LROSrV) | [Babe](https://open.spotify.com/album/7Ku9iZqg9bEa1OV3VRelJY) | 3:13 |
+| 164 | [The Promised Land](https://open.spotify.com/track/0gCTWPjLiFpaPTohBAUnOK) | [Shiloh West](https://open.spotify.com/artist/69dGyAIqgXw03hO6001hxn) | [The Promised Land](https://open.spotify.com/album/32v0FiZq4dKSRlW8DCTGhV) | 4:15 |
+| 165 | [Ngiyanikela konke](https://open.spotify.com/track/64i5OtK2X4DHZQWTDiWHOW) | [Dr\. Deus](https://open.spotify.com/artist/5Lp4nPhu0eRwXxiGqq4L8s) | [Ngiyanikela konke](https://open.spotify.com/album/5Lr9UEozytrR2fkfyOe85f) | 5:01 |
+| 166 | [Dirt Road to Downtown](https://open.spotify.com/track/4bf7r2C08fjhJXuYkzFOuN) | [Kyle Bunney](https://open.spotify.com/artist/6AJIJDkkmXNrrEhKk7QOuC) | [Dirt Road to Downtown](https://open.spotify.com/album/0WvAmoCRrzGXTJC2r1qToY) | 3:41 |
+| 167 | [Spinning On A Spire](https://open.spotify.com/track/5UbBse5sRanejFjYxPlSUB) | [Dominic Lavoie](https://open.spotify.com/artist/6IbM5ng5cjZuZoCSjEO6LR) | [Spinning On A Spire](https://open.spotify.com/album/1hTFzhm0SJjefZO5snnPlp) | 3:29 |
+| 168 | [Si fuimos algo](https://open.spotify.com/track/4BT50O2HFYORi2aNDjSe3N) | [MANENA](https://open.spotify.com/artist/0iqltBGuFMhKSGJoObggvs) | [Parsimoniosa](https://open.spotify.com/album/6QdStxptw0ctxYiDVpX1Xy) | 3:16 |
+| 169 | [Call My Soul Back](https://open.spotify.com/track/3BzFgSujgr9sQv0nz2agEd) | [Catdraggon](https://open.spotify.com/artist/3KAFSyOCx8EGhQj8ExHeCv) | [Call My Soul Back](https://open.spotify.com/album/6tqf6l6sQt3pZ5jyLatgnX) | 4:37 |
+| 170 | [Don't Run Home](https://open.spotify.com/track/5GOQDfNmhVDeQUsRR9B8J0) | [$cotty](https://open.spotify.com/artist/5mOW3PxPVgrj3BBwZdSIY4) | [Don't Run Home](https://open.spotify.com/album/6llRZH3mkRkg0fAHiUhoOg) | 2:57 |
+| 171 | [let go](https://open.spotify.com/track/3tRg6Z0xjmB0IlV9ggAif8) | [wigi!](https://open.spotify.com/artist/56wyLJzjhBfN9IwX7fBKAU) | [let go](https://open.spotify.com/album/0b6FIktnaUOk1N0eOOajDA) | 2:02 |
+| 172 | [Show](https://open.spotify.com/track/5LfcqJ9V95a207NdqZsLVV) | [Ky J\. Brandes](https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu) | [Show](https://open.spotify.com/album/3Q851Z916dJpSra5aq6MSD) | 3:24 |
+| 173 | [Brought Me To Life](https://open.spotify.com/track/13ASr80ZIeOa5qn5gO1elK) | [In My Better Days](https://open.spotify.com/artist/6MyAHsbsz1d3mVvALdbhN7), [Haya Ashraf](https://open.spotify.com/artist/3YyFey0OvygmtzWuqZVZr7) | [Brought Me To Life](https://open.spotify.com/album/6bdRv9CzRsdWLJ2FfXWecA) | 3:40 |
+| 174 | [Your LIfe](https://open.spotify.com/track/1jFkUJPa1OLZrYDi8Wt65C) | [LIYA](https://open.spotify.com/artist/3eC0Vvq4FbNLKwrU0D6Geb) | [Your LIfe](https://open.spotify.com/album/04VZhnzFKMXNHPSI1K03YH) | 3:06 |
+| 175 | [Crotona](https://open.spotify.com/track/32IHNapsALGfCC8ZMcNvXe) | [Jupie](https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28) | [Crotona](https://open.spotify.com/album/3ysK2oDoyRiixR3PQgPckv) | 2:19 |
 
-Snapshot ID: `AAA3/ps+JH5GtAI87jtm4WnkcdS8kaKr`
+Snapshot ID: `AAA4BZDkhqxtnEqmX2toLekn3cz47EEY`

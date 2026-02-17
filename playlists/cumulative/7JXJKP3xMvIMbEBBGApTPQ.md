@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7JXJKP3xMvIMbEBBGApTPQ.md) - cumulative - [plain](/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ)
 
-### [K\-Pop Hits 2024](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
+### [K\-Pop Hits 2026](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
 
 > Tune in for the year's hottest K\-Pop tracks! K\-Pop Tunes \| K\-Pop Mix \| K\-Pop Boyband \| K\-Pop Girl Groups \| Cover: Stray Kids
 

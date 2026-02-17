@@ -1,13 +1,29 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 503,
+  "num_followers": 513,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACoTGJZQ4NiSlHFnT88nL05uMh+isI",
+  "snapshot_id": "AAACqunM71pgjFKUxRTRfnwWQEmFkL+c",
   "tracks": [
+    {
+      "added_at": "2026-02-16 17:21:01",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/0wG69WeVzlbyg2rRCnUQmf"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "duration_ms": 215529,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI"
+    },
     {
       "added_at": "2026-02-07 19:33:06",
       "album": {
@@ -1379,6 +1395,118 @@
       "duration_ms": 237176,
       "name": "Sotto Controllo",
       "url": "https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m"
+    },
+    {
+      "added_at": "2026-02-16 15:27:33",
+      "album": {
+        "name": "Happy Pills",
+        "url": "https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 181438,
+      "name": "Happy Pills",
+      "url": "https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3"
+    },
+    {
+      "added_at": "2026-02-16 16:12:44",
+      "album": {
+        "name": "Prelude",
+        "url": "https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik"
+      },
+      "artists": [
+        {
+          "name": "Solace in Me",
+          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Survive You",
+      "url": "https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3"
+    },
+    {
+      "added_at": "2026-02-16 16:20:25",
+      "album": {
+        "name": "Sleeping With Ghosts Again",
+        "url": "https://open.spotify.com/album/1T05DF1XwIItiPWIHJZUX9"
+      },
+      "artists": [
+        {
+          "name": "Houseworth",
+          "url": "https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx"
+        }
+      ],
+      "duration_ms": 210850,
+      "name": "Wichita Sky",
+      "url": "https://open.spotify.com/track/780PMXdbbSVcPc9pD75SWj"
+    },
+    {
+      "added_at": "2026-02-16 16:59:05",
+      "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/0uVwgFrjKFF0UVPFTtyltL"
+      },
+      "artists": [
+        {
+          "name": "Tina Debs",
+          "url": "https://open.spotify.com/artist/48c3LCh0VFH0nMeFnbyaMe"
+        }
+      ],
+      "duration_ms": 226171,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh"
+    },
+    {
+      "added_at": "2026-02-16 17:07:24",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo"
+      },
+      "artists": [
+        {
+          "name": "Stopgap Solution",
+          "url": "https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ"
+    },
+    {
+      "added_at": "2026-02-16 17:09:58",
+      "album": {
+        "name": "right here",
+        "url": "https://open.spotify.com/album/27Izr5KOpRmTUpSoMrhZju"
+      },
+      "artists": [
+        {
+          "name": "DEBRISON",
+          "url": "https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/7bmKxJAlunqOEFpcPLpzP1"
+    },
+    {
+      "added_at": "2026-02-16 21:49:27",
+      "album": {
+        "name": "Let's Do It Again",
+        "url": "https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "Let's Do It Again",
+      "url": "https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

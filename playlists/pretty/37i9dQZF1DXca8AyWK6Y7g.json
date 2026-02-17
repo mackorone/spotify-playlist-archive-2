@@ -1,12 +1,12 @@
 {
   "description": "on repeat for a reason. cover: Tiffany Stringer",
-  "num_followers": 1557648,
+  "num_followers": 1557544,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACksFidQjLmVLTRMFHjKKpnJuOaH",
+  "snapshot_id": "AAAAADkMttQZYGS3CNaazRnWplHQ4ZQD",
   "tracks": [
     {
       "added_at": "2026-02-13 05:00:46",
@@ -203,6 +203,22 @@
       "duration_ms": 170181,
       "name": "Go For Broke",
       "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
+    },
+    {
+      "added_at": "2026-02-16 22:37:20",
+      "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 173474,
+      "name": "petty",
+      "url": "https://open.spotify.com/track/287bhecKV9kCdFxVnUUUeT"
     },
     {
       "added_at": "2026-02-06 05:00:47",
@@ -955,22 +971,6 @@
       "duration_ms": 208226,
       "name": "All My Songs",
       "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
-    },
-    {
-      "added_at": "2025-12-12 05:00:48",
-      "album": {
-        "name": "Isabelle",
-        "url": "https://open.spotify.com/album/5ygL8MzMTxNwuPtvMI4znh"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Isabelle",
-      "url": "https://open.spotify.com/track/5o87pxo0Zozf7P1O1yNfbd"
     },
     {
       "added_at": "2025-11-21 05:00:30",

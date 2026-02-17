@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Alanganin",
+        "url": "https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Alanganin",
+      "url": "https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348"
+    },
+    {
+      "album": {
         "name": "The Bloomfields",
         "url": "https://open.spotify.com/album/17675v1WFduEKG9WV1iolH"
       },
@@ -576,6 +594,28 @@
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
+    },
+    {
+      "album": {
+        "name": "Babalik Sa'yo",
+        "url": "https://open.spotify.com/album/3tkcy78luHbbFQPWkImigl"
+      },
+      "artists": [
+        {
+          "name": "Clien",
+          "url": "https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK"
+        },
+        {
+          "name": "Jom",
+          "url": "https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179300,
+      "name": "Babalik Sa'yo",
+      "url": "https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf"
     },
     {
       "album": {
@@ -1714,7 +1754,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 249186,
       "name": "Hanggang Ngayon",
       "url": "https://open.spotify.com/track/1iOnvUO5VCeuxH7VwzclrQ"
@@ -2176,7 +2216,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
@@ -2819,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Wander Boy",
+        "url": "https://open.spotify.com/album/345JmmunfXeNp0l4CcUkH5"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234935,
+      "name": "Krazy",
+      "url": "https://open.spotify.com/track/6gD5RPonNnCXQCOztRs7tC"
+    },
+    {
+      "album": {
         "name": "Kulimlim",
         "url": "https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq"
       },
@@ -3028,7 +3086,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 199903,
       "name": "Lalim",
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
@@ -3050,7 +3108,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 177517,
       "name": "Lapit Kapit",
       "url": "https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y"
@@ -3295,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Lunod",
+        "url": "https://open.spotify.com/album/6wg1XLHbKiCghCMZs8OWz0"
+      },
+      "artists": [
+        {
+          "name": "HORI7ON",
+          "url": "https://open.spotify.com/artist/7xuXBG13gHSpdAoXNWQ8Se"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248888,
+      "name": "Lunod",
+      "url": "https://open.spotify.com/track/5EkCk3lKlnlKxkO9lHuPxo"
+    },
+    {
+      "album": {
         "name": "Luv Somebody",
         "url": "https://open.spotify.com/album/7s2PwBaGTKRpM1ynTLrsCm"
       },
@@ -3310,7 +3386,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 138857,
       "name": "Luv Somebody",
       "url": "https://open.spotify.com/track/0O9kmQYaJNHowuIvUfIX88"
@@ -3404,7 +3480,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
@@ -3610,7 +3686,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 232500,
       "name": "MATIK",
       "url": "https://open.spotify.com/track/6m8zHi1isEk6pSPN7j1ogR"
@@ -3899,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "My Shawty",
+        "url": "https://open.spotify.com/album/2fDHYowXMHZJSwKYAdID2D"
+      },
+      "artists": [
+        {
+          "name": "Owen Greyson",
+          "url": "https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196806,
+      "name": "My Shawty",
+      "url": "https://open.spotify.com/track/48i1G5RkaJmgJ6MR7r4GUp"
+    },
+    {
+      "album": {
         "name": "Nagpalinlang",
         "url": "https://open.spotify.com/album/79LWQ1kyyvKeHRqZgd4pxd"
       },
@@ -4126,7 +4220,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 210354,
       "name": "Nangangamba",
       "url": "https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy"
@@ -4184,6 +4278,24 @@
       "duration_ms": 290000,
       "name": "Nasan Na Ba Ako?",
       "url": "https://open.spotify.com/track/728FezZ3HY4wsVKcrtqQnL"
+    },
+    {
+      "album": {
+        "name": "Natataranta",
+        "url": "https://open.spotify.com/album/5qECO3XndNcZrfYB3MyIQF"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194745,
+      "name": "Natataranta",
+      "url": "https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3"
     },
     {
       "album": {
@@ -4910,7 +5022,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 254400,
       "name": "Pano",
       "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
@@ -5000,7 +5112,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 262972,
       "name": "Para Sa Sarili",
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
@@ -5022,6 +5134,28 @@
       "duration_ms": 301611,
       "name": "Paraiso",
       "url": "https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH"
+    },
+    {
+      "album": {
+        "name": "Paralisado",
+        "url": "https://open.spotify.com/album/6GXZDnJ5Z5J9gIrh5COODE"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276923,
+      "name": "Paralisado",
+      "url": "https://open.spotify.com/track/0uLaVOitbCPo8xOnFbYcfD"
     },
     {
       "album": {
@@ -6061,6 +6195,24 @@
     },
     {
       "album": {
+        "name": "Sinong Magmamahal Sa \u2018Kin?",
+        "url": "https://open.spotify.com/album/5C3U2kNDzhnW5CMRJ2Xk9k"
+      },
+      "artists": [
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267443,
+      "name": "Sinong Magmamahal Sa \u2018Kin?",
+      "url": "https://open.spotify.com/track/6Zkmj8E8aAmejhDTSys4rN"
+    },
+    {
+      "album": {
         "name": "so right",
         "url": "https://open.spotify.com/album/2PIJJpQa1suxXmEFhHpQ9W"
       },
@@ -6895,6 +7047,36 @@
     },
     {
       "album": {
+        "name": "Tunay",
+        "url": "https://open.spotify.com/album/0WaAZZyrBdsw03cKTrZymB"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        },
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+        },
+        {
+          "name": "Paul N Ballin",
+          "url": "https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Tunay",
+      "url": "https://open.spotify.com/track/2R1mehVFt3PYQn3E3qW2hj"
+    },
+    {
+      "album": {
         "name": "Tungo",
         "url": "https://open.spotify.com/album/4MPcLwldS79h2yL76EY032"
       },
@@ -7116,6 +7298,24 @@
       "duration_ms": 249782,
       "name": "Wala Nang Iba",
       "url": "https://open.spotify.com/track/6wJWjSeyr2usaQBTcvRR0R"
+    },
+    {
+      "album": {
+        "name": "MADUMING TIMOG",
+        "url": "https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204687,
+      "name": "WALANG HIYA",
+      "url": "https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee"
     },
     {
       "album": {

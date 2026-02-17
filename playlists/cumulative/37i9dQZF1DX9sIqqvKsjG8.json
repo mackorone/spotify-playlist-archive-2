@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "After Everything",
+        "url": "https://open.spotify.com/album/2RXqgmdddhg1Qu7SAiXBuR"
+      },
+      "artists": [
+        {
+          "name": "Isidorus",
+          "url": "https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140890,
+      "name": "After Everything",
+      "url": "https://open.spotify.com/track/1oBoHVBfw2E4WlV706LFgJ"
+    },
+    {
+      "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k"
       },
@@ -956,6 +974,24 @@
       "duration_ms": 151708,
       "name": "Almonte",
       "url": "https://open.spotify.com/track/7zIIyNRGYpFSCtEf2SfcrL"
+    },
+    {
+      "album": {
+        "name": "Almost a Thought",
+        "url": "https://open.spotify.com/album/27Ijxx7U7UydWsJQexHtU2"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Almost a Thought",
+      "url": "https://open.spotify.com/track/4dYcb9nQu8XYOH24woIKQR"
     },
     {
       "album": {
@@ -2094,6 +2130,24 @@
       "duration_ms": 148062,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d"
+    },
+    {
+      "album": {
+        "name": "Between Then and Now",
+        "url": "https://open.spotify.com/album/7EV6Xco7IcNrq0TB9lcIoa"
+      },
+      "artists": [
+        {
+          "name": "Denis Rial",
+          "url": "https://open.spotify.com/artist/6kLSeA8bMNkur1A9Tnhde9"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121226,
+      "name": "Between Then and Now",
+      "url": "https://open.spotify.com/track/0JFfu09f13SU6Hu1AQVu3F"
     },
     {
       "album": {
@@ -5592,6 +5646,24 @@
       "duration_ms": 132402,
       "name": "Gentle",
       "url": "https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr"
+    },
+    {
+      "album": {
+        "name": "Getting There",
+        "url": "https://open.spotify.com/album/34dbWsfD2HckSjt71xuu2j"
+      },
+      "artists": [
+        {
+          "name": "Aurelian Juno",
+          "url": "https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Getting There",
+      "url": "https://open.spotify.com/track/67wi36wKPhHlBtKxA4Ufel"
     },
     {
       "album": {
@@ -10751,6 +10823,24 @@
     },
     {
       "album": {
+        "name": "Pinewood Skies",
+        "url": "https://open.spotify.com/album/6chl3RZEcpn2FU4967WFzC"
+      },
+      "artists": [
+        {
+          "name": "Gregory Velvet",
+          "url": "https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162437,
+      "name": "Pinewood Skies",
+      "url": "https://open.spotify.com/track/5DLRgFcDlyf0LY2PXaoalM"
+    },
+    {
+      "album": {
         "name": "Placid",
         "url": "https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63"
       },
@@ -15221,6 +15311,24 @@
     },
     {
       "album": {
+        "name": "Through the Whispering Trees",
+        "url": "https://open.spotify.com/album/3h0lm1G0XOd7Ew4lLmudOZ"
+      },
+      "artists": [
+        {
+          "name": "Taylor S Brooks",
+          "url": "https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185178,
+      "name": "Through the Whispering Trees",
+      "url": "https://open.spotify.com/track/42NQphnmJaNTvzfD57IFTI"
+    },
+    {
+      "album": {
         "name": "Ti Vedo",
         "url": "https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS"
       },
@@ -17018,7 +17126,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 199708,
       "name": "Windswept",
       "url": "https://open.spotify.com/track/0onZ2SiPUMZVNjCnrwh4Ff"

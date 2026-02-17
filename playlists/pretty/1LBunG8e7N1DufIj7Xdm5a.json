@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHhGG4Iuqd0BiBl4aMhZzYIeet0fF9",
+  "snapshot_id": "AAAHhejgBkFgkWxUHTlseiVsWB+Jd9xa",
   "tracks": [
     {
       "added_at": "2026-02-15 22:52:31",
@@ -876,7 +876,7 @@
           "url": "https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96"
         }
       ],
-      "duration_ms": 234545,
+      "duration_ms": 233181,
       "name": "This One's For the Animals",
       "url": "https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA"
     },
@@ -67479,6 +67479,26 @@
       "duration_ms": 214800,
       "name": "Sinton\u00eda",
       "url": "https://open.spotify.com/track/6e6Aet1KdKaEwJAEb3TTRC"
+    },
+    {
+      "added_at": "2026-02-16 09:59:45",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/60QAGbK2rS6skUvNkOtyi1"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        },
+        {
+          "name": "Luh Rocket Bang",
+          "url": "https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm"
+        }
+      ],
+      "duration_ms": 120103,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2s7VCqMcb8QGrV0EibS9Zn"
     }
   ],
   "unique_name": "playlist spotify free",

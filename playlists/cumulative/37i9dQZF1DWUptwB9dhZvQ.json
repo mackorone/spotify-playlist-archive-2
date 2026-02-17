@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "23 Theme (From \"AA23\")",
+        "url": "https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Hector Salamanca",
+          "url": "https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47741,
+      "name": "23 Theme (From \"AA23\")",
+      "url": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d"
+    },
+    {
+      "album": {
         "name": "96 (Theme) [From \"96\"]",
         "url": "https://open.spotify.com/album/0CrFlRG7LkiC9mmJPwWUmL"
       },
@@ -609,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Bloody Valentine (From \"DC\")",
+        "url": "https://open.spotify.com/album/2OAH8qkqhVs7IBQv4Mq4oM"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101828,
+      "name": "Bloody Valentine (From \"DC\")",
+      "url": "https://open.spotify.com/track/2UtxQtTo90v8HpEQwyS6Ss"
+    },
+    {
+      "album": {
         "name": "Bommai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4"
       },
@@ -970,7 +1014,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 179339,
       "name": "Dahaa Theme",
       "url": "https://open.spotify.com/track/60rFducKmBbMPC8R6D3DE3"
@@ -4088,7 +4132,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 96521,
       "name": "Vidaamuyarchi Theme (From \"Vidaamuyarchi\")",
       "url": "https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz"

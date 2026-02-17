@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37827,
+  "num_followers": 37822,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6OeXythS3OYZPmuWhEbbpq"
-      },
-      "artists": [
-        {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
-        }
-      ],
-      "duration_ms": 172393,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/7id2LNfW3yMky5ty7c33Rg"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
         "name": "No Good For Me",
         "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 193271,
       "name": "No Good For Me",
       "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6OeXythS3OYZPmuWhEbbpq"
+      },
+      "artists": [
+        {
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
+        }
+      ],
+      "duration_ms": 172393,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/7id2LNfW3yMky5ty7c33Rg"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
       },
       "artists": [
         {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
+      "duration_ms": 169182,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -487,34 +487,18 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Walk Alone",
-        "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 169182,
-      "name": "Walk Alone",
-      "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -531,6 +515,22 @@
       "duration_ms": 133200,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
         "name": "Happy Here",
         "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174000,
       "name": "Happy Here",
       "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
         }
       ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+      "duration_ms": 189310,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -815,22 +819,34 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 189310,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -851,26 +867,6 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Bailar Bachata",
-        "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
-      },
-      "artists": [
-        {
-          "name": "Juan Dani\u00e9l",
-          "url": "https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh"
-        },
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 169158,
-      "name": "Bailar Bachata",
-      "url": "https://open.spotify.com/track/0Y9Ur7tkHfN43EF24K85AN"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
@@ -887,18 +883,22 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Million de Mois",
-        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+        "name": "Bailar Bachata",
+        "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
       },
       "artists": [
         {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+          "name": "Juan Dani\u00e9l",
+          "url": "https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh"
+        },
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 177376,
-      "name": "Million de Mois",
-      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
+      "duration_ms": 169158,
+      "name": "Bailar Bachata",
+      "url": "https://open.spotify.com/track/0Y9Ur7tkHfN43EF24K85AN"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Dein Herz",
-        "url": "https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 168610,
-      "name": "Dein Herz",
-      "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
@@ -983,6 +967,38 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
+        "name": "Dein Herz",
+        "url": "https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Dein Herz",
+      "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
       },
@@ -995,6 +1011,22 @@
       "duration_ms": 164066,
       "name": "Power",
       "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1031,34 +1063,18 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9"
       },
       "artists": [
         {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+          "name": "Elena Flury",
+          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
         }
       ],
-      "duration_ms": 220488,
-      "name": "Leave The Light On",
-      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
+      "duration_ms": 193640,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Like You Do",
-        "url": "https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9"
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
       },
       "artists": [
         {
-          "name": "Elena Flury",
-          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
         }
       ],
-      "duration_ms": 193640,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e"
+      "duration_ms": 220488,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "How Much Can a Heart Break",
-        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 195055,
-      "name": "How Much Can a Heart Break",
-      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
       },
@@ -1171,6 +1155,38 @@
       "duration_ms": 164851,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
+        "name": "How Much Can a Heart Break",
+        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 195055,
+      "name": "How Much Can a Heart Break",
+      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1219,22 +1235,6 @@
       "duration_ms": 171800,
       "name": "that life",
       "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "As I Am",
-      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
+        "name": "closer somehow",
+        "url": "https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 166982,
+      "name": "closer somehow",
+      "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
+    },
+    {
+      "added_at": "2026-02-12 23:00:36",
+      "album": {
         "name": "2025",
         "url": "https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "closer somehow",
-        "url": "https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 166982,
-      "name": "closer somehow",
-      "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
+      "duration_ms": 176733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1491,22 +1507,6 @@
       "duration_ms": 231759,
       "name": "En Lea",
       "url": "https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW"
-    },
-    {
-      "added_at": "2026-02-12 23:00:36",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG"
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
       "artists": [
         {
-          "name": "Gigi Malua",
-          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 145464,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
       "added_at": "2026-02-12 23:00:36",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-02-12 23:00:36",
       "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "Gigi Malua",
+          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+      "duration_ms": 145464,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
     },
     {
       "added_at": "2026-02-12 23:00:36",

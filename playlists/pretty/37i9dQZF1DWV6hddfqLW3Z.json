@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809686,
+  "num_followers": 809696,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Trem-Bala",
         "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 180319,
       "name": "Trem-Bala",
       "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 239642,
       "name": "Nossa m\u00fasica",
       "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Plays Great Songs",
-        "url": "https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 134739,
-      "name": "Seville",
-      "url": "https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Plays Great Songs",
+        "url": "https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 134739,
+      "name": "Seville",
+      "url": "https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "Ax\u00e9 Bab\u00e1",
+        "url": "https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Le\u00e3o",
+          "url": "https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Vumbora Amar",
+      "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "Nosso Caso",
         "url": "https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 211699,
       "name": "Nosso Caso",
       "url": "https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
-        "name": "Ax\u00e9 Bab\u00e1",
-        "url": "https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Le\u00e3o",
-          "url": "https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Vumbora Amar",
-      "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
     },
     {
       "added_at": "2025-11-25 18:54:26",

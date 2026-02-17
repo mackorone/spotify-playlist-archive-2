@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,200 songs - 3 day 21 hr 56 min
+2,202 songs - 3 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [De Ghetto](https://open.spotify.com/track/2ThusgzPbWkmX4coEv9PRt) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [De Ghetto](https://open.spotify.com/album/0QeKyKDdiWADH5cOCsWPGh) | 2:33 | 2022-10-20 | 2022-11-18 |
 | [De klart](https://open.spotify.com/track/4B060rVmi5g0tdI3mWoVut) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [De klart](https://open.spotify.com/album/0UOr6efjzS1BbruhRVLs1H) | 2:36 | 2022-04-07 | 2022-05-27 |
 | [Deadly](https://open.spotify.com/track/3a77PeH4l9zJVDy6tgppCV) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Deadly](https://open.spotify.com/album/2xnp35ifilAEEIBUXYCVvD) | 2:38 | 2025-03-27 | 2025-06-20 |
+| [December dag](https://open.spotify.com/track/5c0JdHuAbuPBYtRdauL67p) | [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP), [Sinnesro](https://open.spotify.com/artist/59VSWqLge7r0Rp2Ia9RMyf) | [December dag](https://open.spotify.com/album/1XI0oidJTXYPMd92iDDfXz) | 3:13 | 2026-02-16 |  |
 | [DECIBEL](https://open.spotify.com/track/2kiC5fopiYY3YbpZvZE3Pf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DECIBEL](https://open.spotify.com/album/06NUaJPqMJnjawwkspDjHz) | 2:36 | 2024-04-25 | 2024-08-23 |
 | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs) | [Robin Nazari](https://open.spotify.com/artist/4aK9sNftDZEcieWnzCk2Ed), [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM) | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl) | 3:21 | 2022-02-10 | 2022-11-25 |
 | [DEEPER](https://open.spotify.com/track/6Xk5ST2mrdwy8YJZDQzzyb) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [DEEPER](https://open.spotify.com/album/0zlVIF8suaz3RPFDX5SCRh) | 2:36 | 2022-06-02 | 2022-07-22 |
@@ -1237,6 +1238,7 @@
 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2022-12-08 | 2023-02-15 |
 | [M.Ä.K](https://open.spotify.com/track/12U8sA07la4jeHk1mTL7TL) | [MÄK](https://open.spotify.com/artist/3pSYtZ33aFp4A96yTelUBG), [Scientific](https://open.spotify.com/artist/3e8OpWlbKBsKycsOzmoek1) | [M.Ä.K](https://open.spotify.com/album/2cVIjVDl6ei3VqLLjKNgVz) | 2:42 | 2023-09-14 | 2023-10-07 |
 | [M5](https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:24 | 2022-01-06 | 2022-05-13 |
+| [Ma Bella](https://open.spotify.com/track/6KSIIl2AjtHbUUtILtwcHG) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Ma Bella](https://open.spotify.com/album/1Mc5HejQXI1aApu4ZvSYF7) | 2:09 | 2026-02-16 |  |
 | [Ma Belle](https://open.spotify.com/track/1FPGuD3usIOivj1V2j4OMc) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Ma Belle](https://open.spotify.com/album/4ayd4KItCscPToowrTR3yY) | 3:34 | 2023-03-09 | 2023-06-02 |
 | [MA BELLE](https://open.spotify.com/track/37ahOLMeucbxuofi7UFVxM) | [pJAY](https://open.spotify.com/artist/3q2wHS0NiGLdN4HyPTTBTU) | [MA BELLE](https://open.spotify.com/album/0Gj0f2MmA5dDw8pAhJNwNg) | 2:00 | 2023-04-06 | 2023-04-15 |
 | [Ma chérie](https://open.spotify.com/track/1ILnuJSm8ScyNAlaWdn8fx) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ma chérie](https://open.spotify.com/album/1ImQaimhAPnEMnvpetjoFm) | 2:55 | 2023-02-16 | 2023-04-21 |

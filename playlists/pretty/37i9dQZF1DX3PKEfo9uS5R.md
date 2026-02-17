@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,270 likes - 215 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,323 likes - 215 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 214 | [Longing](https://open.spotify.com/track/60GDCHXtRlL0QTzI4eazxd) | [Phil Axes](https://open.spotify.com/artist/0VFWh6K23ZImXW9loa6ciu) | [Longing](https://open.spotify.com/album/0MDVVU9VFY3XjNMxEKPjXZ) | 2:04 |
 | 215 | [42k](https://open.spotify.com/track/1UZilIP2fRVKqjghaUPxVE) | [Burlywood](https://open.spotify.com/artist/0pan20E0tRAnijsV2FHB92) | [42k](https://open.spotify.com/album/4oPQ8FvuinCo1fDvy3zlC1) | 2:44 |
 
-Snapshot ID: `AAAAAIn+iP5t/Oxf5eYeh+m5DB9jQztQ`
+Snapshot ID: `AAAAANITpPlLW60kx3p1NRaH2MrLNgUT`

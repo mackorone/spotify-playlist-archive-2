@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 200789,
+  "num_followers": 200818,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAADV4gQbRprofWRdNIp8V27L",
+  "snapshot_id": "aZEMgAAAAADaSi4IBjYsm+UZB14pK3FY",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 189266,
-      "name": "New Feeling",
-      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
+      "duration_ms": 178732,
+      "name": "Love Goes to a Building on Fire - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 178732,
-      "name": "Love Goes to a Building on Fire - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ"
+      "duration_ms": 189266,
+      "name": "New Feeling",
+      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Name of This Band Is Talking Heads (Expanded 2004 Remaster)",
-        "url": "https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
-      "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 271813,
       "name": "Love for Sale - 2005 Remaster",
       "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Name of This Band Is Talking Heads (Expanded 2004 Remaster)",
+        "url": "https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
+      "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
     }
   ],
   "unique_name": "This Is Talking Heads",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAAC8pYchyqFGAc1iN3q3kvmw",
+  "snapshot_id": "aZEMgAAAAACUP+Vkxhvzw87Cfd1vaEOx",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
       "duration_ms": 179226,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born Annoying",
-        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 113400,
-      "name": "Taken",
-      "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
     },
     {
       "added_at": null,

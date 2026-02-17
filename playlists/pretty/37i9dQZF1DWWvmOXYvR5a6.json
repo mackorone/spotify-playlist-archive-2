@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Roh Yun Ha)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221498,
+  "num_followers": 221496,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,42 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
+        "name": "OFOSUN",
+        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 226499,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
         "name": "The Firstfruit - The 1st Album",
         "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
@@ -571,42 +607,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
-        "name": "OFOSUN",
-        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 226499,
-      "name": "U",
-      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 203066,
       "name": "Hula Hoops",
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 186120,
-      "name": "Watching TV",
-      "url": "https://open.spotify.com/track/04eT5t3jBMa1NxTqgWoHtT"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -711,6 +691,26 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 186120,
+      "name": "Watching TV",
+      "url": "https://open.spotify.com/track/04eT5t3jBMa1NxTqgWoHtT"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
         "name": "SEOUL DRIFT",
         "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
       },
@@ -743,6 +743,26 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
+        "name": "Don't go (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 259982,
       "name": "iffy (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
-        "name": "Don't go (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Don't go (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 168175,
-      "name": "put my hoodie on",
-      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "365&7",
         "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169133,
       "name": "365&7 (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 168175,
+      "name": "put my hoodie on",
+      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 116722,
-      "name": "00:01",
-      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
         "name": "Rodeo Girls",
         "url": "https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 112941,
       "name": "MZ",
       "url": "https://open.spotify.com/track/3qCjcrKAydtscX9yIE3SYg"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 116722,
+      "name": "00:01",
+      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
         "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
         "url": "https://open.spotify.com/album/3Z8nre7uQyLXZPieySyjYP"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+        "name": "Delphinium",
+        "url": "https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
         }
       ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+      "duration_ms": 136000,
+      "name": "So bad",
+      "url": "https://open.spotify.com/track/3kqZEueNSpbDnjDjniyBgy"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "Delphinium",
-        "url": "https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T"
+        "name": "BAPPI",
+        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
       },
       "artists": [
         {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
         }
       ],
-      "duration_ms": 136000,
-      "name": "So bad",
-      "url": "https://open.spotify.com/track/3kqZEueNSpbDnjDjniyBgy"
+      "duration_ms": 174900,
+      "name": "BAPPI",
+      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "BAPPI",
-        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
+        "name": "Marigold Tapes",
+        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
       },
       "artists": [
         {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
         }
       ],
-      "duration_ms": 174900,
-      "name": "BAPPI",
-      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
+      "duration_ms": 209685,
+      "name": "flight",
+      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
+        "name": "Double C",
+        "url": "https://open.spotify.com/album/3WpxmeGPoUYDbttYTYj539"
       },
       "artists": [
         {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
         }
       ],
-      "duration_ms": 209685,
-      "name": "flight",
-      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
+      "duration_ms": 142268,
+      "name": "Double C",
+      "url": "https://open.spotify.com/track/3QnzKLeBJmlsmuf4bYBbqO"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1623,22 +1639,6 @@
       "duration_ms": 188571,
       "name": "\uc560 (just like uh huh)",
       "url": "https://open.spotify.com/track/383c6EPYFELVPnQObxy026"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
-        "name": "Double C",
-        "url": "https://open.spotify.com/album/3WpxmeGPoUYDbttYTYj539"
-      },
-      "artists": [
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
-        }
-      ],
-      "duration_ms": 142268,
-      "name": "Double C",
-      "url": "https://open.spotify.com/track/3QnzKLeBJmlsmuf4bYBbqO"
     },
     {
       "added_at": "2026-02-06 02:08:16",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-02-06 02:08:16",
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Fragile (Prod. Dayrick)",
+      "url": "https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF"
+    },
+    {
+      "added_at": "2026-02-06 02:08:16",
+      "album": {
         "name": "Hit Me Up (feat. MINGI of ATEEZ)",
         "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 138293,
       "name": "Hit Me Up (feat. MINGI of ATEEZ)",
       "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
-    },
-    {
-      "added_at": "2026-02-06 02:08:16",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Fragile (Prod. Dayrick)",
-      "url": "https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF"
     },
     {
       "added_at": "2026-02-06 02:08:16",

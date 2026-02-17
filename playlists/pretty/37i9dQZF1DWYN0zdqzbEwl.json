@@ -1,6 +1,6 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol.",
-  "num_followers": 4261257,
+  "num_followers": 4261348,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -203,8 +203,8 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -283,8 +283,8 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "La Gusana Ciega",
-        "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "Tornasol (Vuelves a Ser)",
-      "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "Peligrosamente Juntos",
         "url": "https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 259079,
       "name": "Lo noto",
       "url": "https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "La Gusana Ciega",
+        "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Tornasol (Vuelves a Ser)",
+      "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
     },
     {
       "added_at": "2024-06-04 19:12:33",

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 38576,
+  "num_followers": 38578,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAADBadYoqXpCR3MgLsuHijOw",
+  "snapshot_id": "aZEMgAAAAAC3QPBdvehipoSunMIUzLRx",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "El Tepozan",
-      "url": "https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "El Tepozan",
+      "url": "https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 227306,
       "name": "Dos Cruces En La Curva",
       "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "El Jardin De Las Flores",
-      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "El Jardin De Las Flores",
+      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Tumbas",
-        "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Las Tres Tumbas",
-      "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 206184,
       "name": "Paloma Piquito de Oro",
       "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Tumbas",
+        "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Caballos Famosos Con",
-        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestros 15 Exitos",
         "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 191791,
       "name": "La Noria Escondida",
       "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Caballos Famosos Con",
+        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
     }
   ],
   "unique_name": "This Is Carlos Y Jose",

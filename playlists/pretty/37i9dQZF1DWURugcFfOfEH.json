@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all day every day",
-  "num_followers": 438423,
+  "num_followers": 438502,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 194823,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "Why Do We Shake In The Cold?",
         "url": "https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 202106,
       "name": "Back To My Bed",
       "url": "https://open.spotify.com/track/6uAyxTPrzZi8Pi3olGNJFj"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3"
     },
     {
       "added_at": "2025-07-03 13:57:15",

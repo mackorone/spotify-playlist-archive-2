@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 featuring bradeazy
 
-1,277 songs - 2 day 16 hr 36 min
+1,278 songs - 2 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Crawler](https://open.spotify.com/track/4cJFqSeCPSoI3ROEfuJL28) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Hide](https://open.spotify.com/album/1xxKbTvEtsvAmTINuWOQvB) | 2:46 | 2026-01-16 | 2026-02-07 |
 | [Crazy](https://open.spotify.com/track/1qrritD0jLFSpS5Roils6w) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Crazy](https://open.spotify.com/album/2F5unIFYO9mgNZ4DGmWnFm) | 1:46 | 2025-05-23 | 2025-05-31 |
 | [Crazy](https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Crazy](https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE) | 3:26 | 2025-03-07 | 2025-10-04 |
+| [Crazy Shit](https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Crazy Shit](https://open.spotify.com/album/6LaysU1FWbAmOSO0MlvHsZ) | 3:33 | 2026-01-09 |  |
 | [Crew](https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Crew](https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ) | 3:03 | 2022-08-12 | 2023-02-08 |
 | [D.I.S.C.O.](https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [BERROW](https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T) | [D.I.S.C.O.](https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP) | 2:21 | 2023-03-14 | 2023-12-30 |
 | [Daddy](https://open.spotify.com/track/5nCNUHYlt3yIsoLD4rbb4Y) | [Filex](https://open.spotify.com/artist/7qv9xIkGqakygPuX00yabK) | [Daddy](https://open.spotify.com/album/2u6i67inzqoGRpA3sIAzbY) | 2:38 | 2025-08-01 | 2025-08-30 |
@@ -330,7 +331,7 @@
 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 | 2024-01-08 |
 | [Disco Future Rave](https://open.spotify.com/track/70rgBkmR6Tj1Z86RpQzbxc) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Disco Future Rave / Switch It Up](https://open.spotify.com/album/1Zpue10LWd54earW7BHqKt) | 2:51 | 2025-05-02 | 2025-08-30 |
 | [Discoteka](https://open.spotify.com/track/2pc1GCqlVro0yQVULSRNNI) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Arta \(AE\)](https://open.spotify.com/artist/3LV6hrvnTleA3GdzN8RHsM) | [Discoteka](https://open.spotify.com/album/5BbjWj8ksPOiNcTdEln3Th) | 2:59 | 2025-10-24 | 2026-01-19 |
-| [Do It Again](https://open.spotify.com/track/7L3NYao37P4sjsxBRiADzg) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Do It Again](https://open.spotify.com/album/0Tl1Z1wUWvOeiQs6iHH67L) | 2:20 | 2026-01-09 |  |
+| [Do It Again](https://open.spotify.com/track/7L3NYao37P4sjsxBRiADzg) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Do It Again](https://open.spotify.com/album/0Tl1Z1wUWvOeiQs6iHH67L) | 2:20 | 2026-01-09 | 2026-02-17 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-04-23 |
 | [Do Me Right](https://open.spotify.com/track/6mLJ7zIYSd0UU4clzjKjMC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Do Me Right](https://open.spotify.com/album/67FSPQuOEYIU4vqtcg0Fxm) | 3:01 | 2021-10-29 | 2022-01-22 |
 | [Does It Seem](https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [One Of A Kind](https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP) | 3:48 | 2024-05-03 | 2025-03-25 |

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Ama Ba\u015faramad\u0131m",
+        "url": "https://open.spotify.com/album/2Fa67TjwSF8nXfqMEY49cm"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144226,
+      "name": "Ama Ba\u015faramad\u0131m",
+      "url": "https://open.spotify.com/track/6Ecfg2Bd6Ctomk6GBwZF3V"
+    },
+    {
+      "album": {
         "name": "Ama Yine Sen",
         "url": "https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj"
       },
@@ -530,6 +548,24 @@
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
+    },
+    {
+      "album": {
+        "name": "Ba\u015frol Sensin (1. Y\u0131l \u00d6zel)",
+        "url": "https://open.spotify.com/album/3kEYSSRV5y9ErZ8qwEmVLI"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193166,
+      "name": "Ba\u015frol Sensin - 1. Y\u0131l \u00d6zel",
+      "url": "https://open.spotify.com/track/7JOZ88jJbmx9TIzpPJBCqi"
     },
     {
       "album": {
@@ -2112,7 +2148,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 118064,
       "name": "HALLETT\u0130M",
       "url": "https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN"
@@ -4620,7 +4656,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 166425,
       "name": "Ya\u015fanacaksa",
       "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"

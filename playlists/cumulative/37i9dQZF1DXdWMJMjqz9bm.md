@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap, a little bit of country? Cover: charlieonnafriday
+> A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
 
-825 songs - 1 day 13 hr 41 min
+830 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Body Language](https://open.spotify.com/track/07ubAt43hun1eLEacA47Ew) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Body Language](https://open.spotify.com/album/3RN5zcotxToQqV0q0m50Kg) | 2:22 | 2022-03-04 | 2022-06-04 |
 | [Bongo](https://open.spotify.com/track/42cYy1Sr8JfdgqJITI91aL) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Bongo](https://open.spotify.com/album/1vhhvaZbVUwTa8YjqAJZMm) | 2:20 | 2021-11-16 | 2022-02-26 |
 | [BOO](https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj) | 2:18 | 2025-12-09 |  |
+| [BOO](https://open.spotify.com/track/0092fZcbCidhWrmBQX4guf) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/03nGdB6ACTi1GJG0vZJO3n) | 2:18 | 2026-02-16 |  |
 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 | 2025-05-02 | 2025-10-06 |
 | [Boom \(feat\. JID\)](https://open.spotify.com/track/512YmmPt5AELP0TLAdzSUW) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Pink Is Better](https://open.spotify.com/album/4Y17kPa7ZinOjwfpy6TW7A) | 2:34 | 2022-01-14 | 2022-05-20 |
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-18 | 2022-07-07 |
@@ -213,6 +214,7 @@
 | [Drowsy](https://open.spotify.com/track/3u6DVaD9jGvI6HNm1ODrMa) | [OHNO](https://open.spotify.com/artist/6h3EDETuCnGDrUk9hwvbGp) | [Sunshine In A Bag](https://open.spotify.com/album/60OGodPKisTJO0HLhT2nZy) | 2:47 | 2022-06-10 | 2022-07-13 |
 | [DRUGS](https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34) | 2:39 | 2022-04-08 | 2023-07-01 |
 | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 | 2022-08-19 | 2022-10-15 |
+| [E85](https://open.spotify.com/track/1udOZftd1UOs5WTDPrG97k) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/4taTmNcWdOvQ1ShrXI12Y8) | 2:33 | 2026-02-16 |  |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2025-11-17 |  |
 | [EAT ME \(alive\)](https://open.spotify.com/track/26KHB75CMVWUh1q7v9KLPt) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [EAT ME \(alive\)](https://open.spotify.com/album/6sTS6YXcjoL0aGzKzjZdXR) | 2:20 | 2025-05-02 | 2025-08-17 |
 | [Edge of Tomorrow](https://open.spotify.com/track/4FznDspHMXUQ5RtmzJPdnb) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Edge of Tomorrow](https://open.spotify.com/album/79H3KbKr9M5scaV5Q0RMnY) | 2:00 | 2024-05-31 | 2025-04-30 |
@@ -460,6 +462,7 @@
 | [Maui Wowie](https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 2:23 | 2025-10-20 |  |
 | [MAZZALEEN](https://open.spotify.com/track/6AhJ1N1Ua0nhJQa9G4fqyO) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [II](https://open.spotify.com/album/3bYmRWtPWM94WfgoW6QGzL) | 1:48 | 2025-11-04 |  |
 | [Medicine](https://open.spotify.com/track/3BuyvZXqG2GvQ6RertnyAt) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Medicine](https://open.spotify.com/album/6qMn2B1Pee5ttuYcqJCJFq) | 3:11 | 2021-11-16 | 2022-02-26 |
+| [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3rpA5iIZtlhMOeHUo1GNvq) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:00 | 2026-02-16 |  |
 | [MERCEDES](https://open.spotify.com/track/6VEssnVAOZDmDEWrVCj4HP) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [A NECESSARY EVIL](https://open.spotify.com/album/0bYw8OiOHrDz8PerNCciSO) | 2:20 | 2023-06-23 | 2024-06-01 |
 | [Mero Mero](https://open.spotify.com/track/0DEhpnXCQButZJDhQ7KXrA) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Mero Mero](https://open.spotify.com/album/2T2iIfXu2G1ndz3qgTrD1P) | 2:34 | 2024-03-15 | 2025-03-24 |
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2022-01-14 | 2022-05-20 |
@@ -595,6 +598,7 @@
 | [Put Me on Somethin'](https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [More Than Anything](https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl) | 3:26 | 2022-09-23 | 2022-10-01 |
 | [RAGE](https://open.spotify.com/track/2JbwQteW6QQ2M2RIqGWY6h) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [RAGE](https://open.spotify.com/album/5RmYLr4JvrT34dc5efzt6X) | 2:28 | 2022-09-16 | 2023-04-05 |
 | [RAINCLOUDS](https://open.spotify.com/track/39ZCoAQVRkBsAIo0kO8f1f) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [RAINCLOUDS](https://open.spotify.com/album/4Est34UxJXBcf28dnrIgGR) | 2:43 | 2022-03-16 | 2022-07-02 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-16 |  |
 | [Random](https://open.spotify.com/track/422lAAWQO9TqL1LxIPdhOn) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 3:00 | 2022-09-23 | 2022-11-12 |
 | [Real](https://open.spotify.com/track/38ICQQxXLoifVUNkJcs7r6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Real](https://open.spotify.com/album/1WamWAG6PKzLOK5s0JXvSy) | 2:44 | 2022-02-18 | 2022-03-26 |
 | [Real Life](https://open.spotify.com/track/2suU0QYyxcMoy08rSsTX46) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Real Life](https://open.spotify.com/album/79ZPm7Z09OsRu4ENHyHM4d) | 2:43 | 2021-11-16 | 2022-02-26 |
@@ -820,6 +824,7 @@
 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 | 2022-04-04 | 2022-07-07 |
 | [Workin On Me](https://open.spotify.com/track/4OLpvmygTruvZfH1uyj6sS) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Workin On Me](https://open.spotify.com/album/4htzd8kCbdtovAFvLnHz5f) | 5:00 | 2024-05-31 | 2025-05-17 |
 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 | 2025-04-29 | 2025-10-06 |
+| [WYA](https://open.spotify.com/track/3LiGPTCOLCxaB6ssD6n6bY) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 1:47 | 2026-02-16 |  |
 | [X's & O's](https://open.spotify.com/track/6gvkUTWdh9vmuqrwCb6gRr) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [X's & O's](https://open.spotify.com/album/5vHMAPEMBJhR4gphpKNvbC) | 2:03 | 2024-01-22 | 2025-04-05 |
 | [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 | 2025-06-06 | 2025-11-18 |
 | [Ye Not Crazy](https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Ye Not Crazy](https://open.spotify.com/album/19KpEHCcxkTNQWm0O0aa9w) | 3:46 | 2022-04-08 | 2022-05-20 |

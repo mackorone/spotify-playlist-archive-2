@@ -2,14 +2,14 @@
 
 ### [Titrat Ramadan](https://open.spotify.com/playlist/37i9dQZF1DX4szXk9xARLm)
 
-> Your essential Ramadan Series songs! Cover: Wael Kfoury
+> Your essential Ramadan Series songs! Cover: Assala
 
-147 songs - 7 hr 58 min
+149 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(الي فات مربي \(خمسه ياض علينا](https://open.spotify.com/track/4NHie7RfHyBvBRJx7lv03S) | [Ahmed Maher](https://open.spotify.com/artist/5tKrCawUWzGBR6E5ecYiPg) | [\(الي فات مربي \(خمسه ياض علينا](https://open.spotify.com/album/6FYUH9NMBoHQqxLf2ERUxd) | 2:17 | 2024-03-27 | 2025-02-28 |
-| [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 | 2025-03-13 |  |
+| [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 | 2025-03-13 | 2026-02-17 |
 | [Ahy Donia](https://open.spotify.com/track/14n1xDj6yLbIoq7qXWR0C5) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahy Donia](https://open.spotify.com/album/7KMLESZ5B4m5wwtDJyDtpo) | 2:48 | 2024-03-10 | 2025-03-04 |
 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 | 2025-03-06 |  |
 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 | 2024-03-12 | 2025-03-07 |
@@ -26,7 +26,7 @@
 | [Ana Mish Soutak](https://open.spotify.com/track/5XpO98CTNUWtcbNZMZMmGE) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Mish Soutak](https://open.spotify.com/album/2pk0PemMXxyn03i22mMz2O) | 3:07 | 2024-04-05 | 2025-03-04 |
 | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hesham El Gakh](https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK) | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1) | 3:06 | 2024-03-10 | 2025-03-01 |
 | [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 | 2024-03-10 | 2024-04-19 |
-| [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/track/639GutTPojkJRd5U1xiIXE) | [Mohamed Medhat](https://open.spotify.com/artist/32VKNJoqx0a4twZTxkGsqb) | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/album/32RhHdlioLX6LBOcuGPGNu) | 3:09 | 2025-03-17 |  |
+| [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/track/639GutTPojkJRd5U1xiIXE) | [Mohamed Medhat](https://open.spotify.com/artist/32VKNJoqx0a4twZTxkGsqb) | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/album/32RhHdlioLX6LBOcuGPGNu) | 3:09 | 2025-03-17 | 2026-02-17 |
 | [Atmena \- Générique d'émission](https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Atmena \(Générique d'émission\)](https://open.spotify.com/album/5vimfmG5i8pU8mEoAwCvmD) | 2:09 | 2025-03-03 | 2026-02-11 |
 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 | 2024-03-10 | 2025-03-14 |
 | [Aw'at \(Acoustic Version\)](https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at \(Acoustic Version\)](https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1) | 3:05 | 2024-03-10 | 2025-03-04 |
@@ -122,6 +122,7 @@
 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 | 2025-03-03 |  |
 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 | 2025-03-18 |  |
 | [خلصانه \- من مسلسل فراوله](https://open.spotify.com/track/3YZwHqngxGBWAgmji4VGRY) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub), [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo), [Nelly Karim](https://open.spotify.com/artist/1gLtm4UDve4ZIJ8keqUq9G) | [خلصانه \(من مسلسل فراوله\)](https://open.spotify.com/album/5NuSjuJJmjZFS8W6t3Wb1t) | 2:33 | 2024-04-05 | 2025-02-28 |
+| [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/track/6HJVfj3VeFOcAkPNpYx7G7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/album/0kWVuEQEr1CJeuiHWzdl15) | 2:42 | 2026-02-16 |  |
 | [دوارة](https://open.spotify.com/track/5OXhTWBpG2CKbPjORQXmCf) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [دوارة](https://open.spotify.com/album/0Gnt7VNxg6SGCpeGlbPSvP) | 3:17 | 2024-03-10 | 2025-03-07 |
 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 | 2025-03-04 |  |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2024-03-10 | 2024-04-19 |
@@ -133,6 +134,7 @@
 | [ضاع القلب](https://open.spotify.com/track/3rr70YcGOv7PabTK6Qji2K) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [ضاع القلب](https://open.spotify.com/album/4L0ai6SrfVLXrSr4Y32dMT) | 3:40 | 2024-03-10 | 2025-03-04 |
 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 | 2024-03-10 | 2024-03-28 |
 | [عقبال عندكوا \- أغنية المسلسل](https://open.spotify.com/track/3nmtcMWkzlzpkDY60o39e0) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [عقبال عندكوا \(أغنية المسلسل\)](https://open.spotify.com/album/5OMfoYz6nnLrdxtji38nvW) | 2:56 | 2025-03-03 | 2025-03-11 |
+| [على قد الحب](https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [على قد الحب](https://open.spotify.com/album/22DrlBN2ME6ESMMLt7eMLH) | 3:24 | 2026-02-16 |  |
 | [عوضي على الله](https://open.spotify.com/track/0efourIzovJKGWQ1XuTuTg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عوضي على الله](https://open.spotify.com/album/4ZKhuztTCbtjtr1E1qloIY) | 3:16 | 2026-02-10 |  |
 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 | 2025-02-27 |  |
 | [غيمة جنوبية](https://open.spotify.com/track/0u3OlqWffSlVYua3uk6CYp) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [غيمة جنوبية](https://open.spotify.com/album/4zpj8yX66T7NOOKaFp2gcM) | 2:22 | 2024-03-29 | 2025-03-04 |

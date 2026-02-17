@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Gordo & Reinier Zonneveld
 
-794 songs - 1 day 16 hr 18 min
+795 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Just dance](https://open.spotify.com/track/4gzQJJ3rjXmnL0UhO8D29D) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Just dance](https://open.spotify.com/album/06XogB5Kpx7rRWMkGUhH0z) | 2:16 | 2025-10-16 | 2025-11-21 |
 | [Just Like That](https://open.spotify.com/track/62UvOWthrZxpTxshWfryMl) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Just Like That](https://open.spotify.com/album/6zITbaPZDfxv6opUJRsEKL) | 2:48 | 2026-02-12 |  |
 | [Just One Night](https://open.spotify.com/track/4BsUxqPABPlzJzNImkMBCD) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf) | [Just One Night](https://open.spotify.com/album/4rxV8ziZU15NxL5PxUBgPs) | 2:54 | 2025-08-14 | 2025-09-27 |
+| [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 | 2026-02-16 |  |
 | [KANTIKA LOKO](https://open.spotify.com/track/3BfMQbdxL6XEkpPAGn4YH9) | [Crazy Jack](https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s) | [KANTIKA LOKO](https://open.spotify.com/album/2GkfwX9rfJXsK7LKM4b3WR) | 2:50 | 2026-01-08 | 2026-02-13 |
 | [Keep it Moving](https://open.spotify.com/track/3o9G4k9SeCJ9a55OowVhHv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Joyse](https://open.spotify.com/artist/7cc79tfG2SrWeOdmgKZl8X) | [Keep it Moving](https://open.spotify.com/album/1kPlbKrqW6fvipWECPwpGo) | 2:42 | 2025-12-18 | 2026-01-30 |
 | [Keep Me Close](https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Keep Me Close](https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi) | 3:17 | 2025-08-07 | 2025-09-27 |

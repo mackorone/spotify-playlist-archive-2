@@ -1,64 +1,64 @@
 {
   "description": "Groove to Desi chart-toppers and Bollywood\u2019s top TikTok hits &amp; Reels Anthems \u2014featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R. Rahman, Pritam, and Tanishk Bagchi!",
-  "num_followers": 228889,
+  "num_followers": 228884,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAYVQoLh06DAqtwXrsn5KHt9yBiORQv",
+  "snapshot_id": "AAAYY8HD1HoQn88QkF58eJFB8I0LORBg",
   "tracks": [
     {
-      "added_at": "2025-12-08 05:58:30",
+      "added_at": "2023-02-07 07:34:43",
       "album": {
-        "name": "Sitaare (From \"Ikkis\")",
-        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+        "name": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE"
       },
       "artists": [
+        {
+          "name": "Jawad Ahmad",
+          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
+        },
+        {
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+        },
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "White Noise Collectives",
-          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 269184,
+      "name": "Samjhawan",
+      "url": "https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t"
+    },
+    {
+      "added_at": "2022-07-18 10:03:31",
+      "album": {
+        "name": "Kesariya (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
           "name": "Amitabh Bhattacharya",
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 242916,
-      "name": "Sitaare (From \"Ikkis\")",
-      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
-    },
-    {
-      "added_at": "2023-03-20 10:51:15",
-      "album": {
-        "name": "Guru (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Murtuza Khan",
-          "url": "https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj"
-        },
-        {
-          "name": "Qadir Khan",
-          "url": "https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Tere Bina",
-      "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
+      "duration_ms": 268164,
+      "name": "Kesariya (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
     },
     {
       "added_at": "2026-01-05 06:30:23",
@@ -89,28 +89,56 @@
       "url": "https://open.spotify.com/track/0Y6YW1552df031DjV8qBHv"
     },
     {
-      "added_at": "2022-07-18 10:03:31",
+      "added_at": "2023-03-20 10:51:15",
       "album": {
-        "name": "Kesariya (From \"Brahmastra\")",
-        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+        "name": "Guru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Murtuza Khan",
+          "url": "https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj"
+        },
+        {
+          "name": "Qadir Khan",
+          "url": "https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT"
+        }
+      ],
+      "duration_ms": 309640,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
+    },
+    {
+      "added_at": "2025-12-08 05:58:30",
+      "album": {
+        "name": "Sitaare (From \"Ikkis\")",
+        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+      },
+      "artists": [
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
         },
         {
           "name": "Amitabh Bhattacharya",
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 268164,
-      "name": "Kesariya (From \"Brahmastra\")",
-      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+      "duration_ms": 242916,
+      "name": "Sitaare (From \"Ikkis\")",
+      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
     },
     {
       "added_at": "2021-08-10 09:32:02",
@@ -195,30 +223,6 @@
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
-    },
-    {
-      "added_at": "2025-12-01 09:20:05",
-      "album": {
-        "name": "bargad",
-        "url": "https://open.spotify.com/album/5BnxT8zqiWLJTzSPouJd1n"
-      },
-      "artists": [
-        {
-          "name": "sufr",
-          "url": "https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F"
-        },
-        {
-          "name": "Arpit Bala",
-          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
-        },
-        {
-          "name": "toorjo dey",
-          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "bargad",
-      "url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl"
     },
     {
       "added_at": "2025-12-01 09:19:57",
@@ -325,38 +329,6 @@
       "url": "https://open.spotify.com/track/6emsLWJ2bu8vCP7BslV76d"
     },
     {
-      "added_at": "2026-01-27 08:32:53",
-      "album": {
-        "name": "Maatrubhumi (From \"Battle Of Galwan\")",
-        "url": "https://open.spotify.com/album/3VVXEAfuuOkBNg1HjY9sul"
-      },
-      "artists": [
-        {
-          "name": "Himesh Reshammiya",
-          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Master Mani Dharamkot",
-          "url": "https://open.spotify.com/artist/1UykW7RvQLRDp4oX5g3A7X"
-        },
-        {
-          "name": "Sameer Anjaan",
-          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
-        }
-      ],
-      "duration_ms": 374500,
-      "name": "Maatrubhumi (From \"Battle Of Galwan\")",
-      "url": "https://open.spotify.com/track/3kvTEKHAxKZLKXnMi5ev6L"
-    },
-    {
       "added_at": "2025-10-06 05:14:47",
       "album": {
         "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
@@ -381,20 +353,28 @@
       "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
     },
     {
-      "added_at": "2025-12-15 05:51:39",
+      "added_at": "2025-12-01 09:20:05",
       "album": {
-        "name": "\u0641\u0635\u0644\u0629",
-        "url": "https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw"
+        "name": "bargad",
+        "url": "https://open.spotify.com/album/5BnxT8zqiWLJTzSPouJd1n"
       },
       "artists": [
         {
-          "name": "Flipperachi",
-          "url": "https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd"
+          "name": "sufr",
+          "url": "https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F"
+        },
+        {
+          "name": "Arpit Bala",
+          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+        },
+        {
+          "name": "toorjo dey",
+          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
         }
       ],
-      "duration_ms": 105271,
-      "name": "FA9LA",
-      "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
+      "duration_ms": 175384,
+      "name": "bargad",
+      "url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl"
     },
     {
       "added_at": "2025-10-29 06:12:41",
@@ -495,6 +475,38 @@
       "duration_ms": 221117,
       "name": "Koi Naa (From \"Bhool Chuk Maaf\")",
       "url": "https://open.spotify.com/track/23UKXgXmLkT0XyPBeKx2gP"
+    },
+    {
+      "added_at": "2026-01-27 08:32:53",
+      "album": {
+        "name": "Maatrubhumi (From \"Battle Of Galwan\")",
+        "url": "https://open.spotify.com/album/3VVXEAfuuOkBNg1HjY9sul"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Master Mani Dharamkot",
+          "url": "https://open.spotify.com/artist/1UykW7RvQLRDp4oX5g3A7X"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "duration_ms": 374500,
+      "name": "Maatrubhumi (From \"Battle Of Galwan\")",
+      "url": "https://open.spotify.com/track/3kvTEKHAxKZLKXnMi5ev6L"
     },
     {
       "added_at": "2025-10-06 05:14:57",
@@ -1167,6 +1179,30 @@
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8"
+    },
+    {
+      "added_at": "2026-02-16 05:40:36",
+      "album": {
+        "name": "Main Hoon (From \"Battle Of Galwan\")",
+        "url": "https://open.spotify.com/album/5qpdWXHQOdj4xP4bWW8NUz"
+      },
+      "artists": [
+        {
+          "name": "Ayaan Lall",
+          "url": "https://open.spotify.com/artist/34v7tI5LqY4XZ58HpfHanB"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "duration_ms": 273818,
+      "name": "Main Hoon (From \"Battle Of Galwan\")",
+      "url": "https://open.spotify.com/track/6FwqKbjHn0BBx3iFzyhWRr"
     },
     {
       "added_at": "2025-10-10 07:18:39",
@@ -1971,34 +2007,6 @@
       "duration_ms": 103264,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
-    },
-    {
-      "added_at": "2023-02-07 07:34:43",
-      "album": {
-        "name": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE"
-      },
-      "artists": [
-        {
-          "name": "Jawad Ahmad",
-          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
-        },
-        {
-          "name": "Shaarib Toshi",
-          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 269184,
-      "name": "Samjhawan",
-      "url": "https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t"
     },
     {
       "added_at": "2022-01-24 06:34:06",

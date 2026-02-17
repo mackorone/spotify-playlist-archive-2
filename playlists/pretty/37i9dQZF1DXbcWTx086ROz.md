@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcWTx086ROz.md) - [plain]
 
 > Dive into '00s nostalgia with these iconic videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,797 likes - 25 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,832 likes - 25 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcWTx086ROz.md) - [plain]
 | 24 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
 | 25 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
 
-Snapshot ID: `AAAAAPQLvA/ZEGa7fbBnbgZxouEEmpxT`
+Snapshot ID: `AAAAAHRAg5JvMSMJefbFzTygbQnz6bX0`

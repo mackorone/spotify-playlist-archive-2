@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 128087,
+  "num_followers": 128142,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Do You Love",
         "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 233430,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Let's Fall In Love",
+        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 156702,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Dedicated to the Ones I Love, Vol. 2",
         "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 231360,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Let's Fall In Love",
-        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 156702,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
     },
     {
       "added_at": "2025-05-23 07:54:59",

@@ -593,6 +593,32 @@
     },
     {
       "album": {
+        "name": "C\u00e9u de Caju",
+        "url": "https://open.spotify.com/album/0HSYrkXLqisr3lj1Uig00W"
+      },
+      "artists": [
+        {
+          "name": "Marie Saintonge",
+          "url": "https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        },
+        {
+          "name": "Rommel",
+          "url": "https://open.spotify.com/artist/7umdEQLmAvnJsKZLZmzM10"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/5HEFhWVhZDbxrJ6G03CkLk"
+    },
+    {
+      "album": {
         "name": "A Rare Moment",
         "url": "https://open.spotify.com/album/1Ru1Z2OIqNnS7Jj0E6y9cG"
       },
@@ -1065,8 +1091,8 @@
     },
     {
       "album": {
-        "name": "again",
-        "url": "https://open.spotify.com/album/5TDj05hZIp16RoCNE1VJNd"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
@@ -17671,8 +17697,8 @@
     },
     {
       "album": {
-        "name": "Lemon",
-        "url": "https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
@@ -18566,6 +18592,36 @@
       "duration_ms": 223636,
       "name": "Love In My Head",
       "url": "https://open.spotify.com/track/6AKGpQQBhH4kDvAJmiSQj8"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1t2MmGOXL07jrn1DDDOpZb"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU"
+        },
+        {
+          "name": "EUFOREIGN",
+          "url": "https://open.spotify.com/artist/3MK8OFHs62kqTJcMG9Gg3z"
+        },
+        {
+          "name": "Ch7nky",
+          "url": "https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq"
+        },
+        {
+          "name": "Swaglone.mp4",
+          "url": "https://open.spotify.com/artist/6c90YtrZEvGETj6HgKntTp"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176285,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6Z0qoGaKJlHZhDVT9DTtw4"
     },
     {
       "album": {
@@ -22273,6 +22329,24 @@
     },
     {
       "album": {
+        "name": "Old Ghosts Wash Away",
+        "url": "https://open.spotify.com/album/0Ou8UYSIb2Hm3OAu6B3wvh"
+      },
+      "artists": [
+        {
+          "name": "Apex89",
+          "url": "https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209799,
+      "name": "Old Ghosts Wash Away",
+      "url": "https://open.spotify.com/track/05PotvxSgOgn43jerFi0a8"
+    },
+    {
+      "album": {
         "name": "you can blame it on my wild heart",
         "url": "https://open.spotify.com/album/33yQWoCQw2PJhEMArkHKKb"
       },
@@ -24940,6 +25014,28 @@
       "duration_ms": 159439,
       "name": "RECUERDOS",
       "url": "https://open.spotify.com/track/5SHLlfVYiPSjq2RIlUPHJk"
+    },
+    {
+      "album": {
+        "name": "Recuerdos de la Alhambra",
+        "url": "https://open.spotify.com/album/0jpkUpg8WHzZbAqmJ0UDlk"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "Recuerdos de la Alhambra",
+      "url": "https://open.spotify.com/track/3i7Io50fY4jdbrOTLcn5Fi"
     },
     {
       "album": {
@@ -33708,6 +33804,24 @@
       "duration_ms": 332000,
       "name": "Went On Our Way",
       "url": "https://open.spotify.com/track/4frcw0YK2Fs0QYG8yzrmIH"
+    },
+    {
+      "album": {
+        "name": "WER ZAHLT?",
+        "url": "https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju"
+      },
+      "artists": [
+        {
+          "name": "du zahlst",
+          "url": "https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "WER ZAHLT?",
+      "url": "https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG"
     },
     {
       "album": {

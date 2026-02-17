@@ -5157,6 +5157,24 @@
     },
     {
       "album": {
+        "name": "Mista Thug Isolation",
+        "url": "https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb"
+      },
+      "artists": [
+        {
+          "name": "Lil Ugly Mane",
+          "url": "https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "Cup Fulla Beetlejuice",
+      "url": "https://open.spotify.com/track/1LtUQEcqGcoRRBT4XCpNM6"
+    },
+    {
+      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -18522,6 +18540,28 @@
       "duration_ms": 107933,
       "name": "RADAR",
       "url": "https://open.spotify.com/track/3lAEHk0eZzMKtCUFLXz8Ln"
+    },
+    {
+      "album": {
+        "name": "Mista Thug Isolation",
+        "url": "https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb"
+      },
+      "artists": [
+        {
+          "name": "Lil Ugly Mane",
+          "url": "https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA"
+        },
+        {
+          "name": "SupaSortahuman",
+          "url": "https://open.spotify.com/artist/6uMMFLixszJ0OtMCs5Zjq4"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271541,
+      "name": "Radiation (Lung Pollution) [feat.Supasortahuman]",
+      "url": "https://open.spotify.com/track/5Y0yhS2iHkuy7ydvYjOAqb"
     },
     {
       "album": {

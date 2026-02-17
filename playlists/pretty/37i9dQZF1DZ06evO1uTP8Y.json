@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 11772,
+  "num_followers": 11792,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAAD4qdq+vUyhyoPtN9dlluzS",
+  "snapshot_id": "aZEMgAAAAAAaA2FgyUYg21L29xGQ5yGo",
   "tracks": [
     {
       "added_at": null,
@@ -715,42 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Life (Deluxe)",
-        "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
-      },
-      "artists": [
-        {
-          "name": "Marie Dahlstrom",
-          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Nothing On You",
-      "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 151489,
-      "name": "Modern Day Suicide",
-      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Fine",
         "url": "https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 160000,
       "name": "Too Fine",
       "url": "https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 151489,
+      "name": "Modern Day Suicide",
+      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Life (Deluxe)",
+        "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Nothing On You",
+      "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
     },
     {
       "added_at": null,

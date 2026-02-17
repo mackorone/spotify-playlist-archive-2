@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,321 songs - 5 day 15 hr 37 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,325 songs - 5 day 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2329,5 +2329,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2319 | [Shelter](https://open.spotify.com/track/5mbIvVa9BqGVMQKuKIPLJ9) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK) | [Bandit](https://open.spotify.com/album/7h6P4JCcsW6koM2pA7xS86) | 2:12 |
 | 2320 | [Place a Letter On My Front Porch](https://open.spotify.com/track/1dcYIs1kPh3LWkmXw34ndE) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [The Moon Loses Its Memory](https://open.spotify.com/album/7HA63McJqMeqENqRPH8fxo) | 2:44 |
 | 2321 | [Never Lose Hope](https://open.spotify.com/track/5jcknYDx6OBKpvtzUiOm9V) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Never Lose Hope](https://open.spotify.com/album/6D41v42jSUkqUxrM9Ut6T1) | 4:14 |
+| 2322 | [I Am Glow](https://open.spotify.com/track/3i8ecpPBllwZgk6SAj5RN2) | [Dute](https://open.spotify.com/artist/4JVDpPwTXaLhNcXMXz6NJV), [Lukky Sparxx](https://open.spotify.com/artist/7FFdx96MiyEDRkKZz62MCN) | [I Am Glow](https://open.spotify.com/album/4lEjcnMWiJgH7Op5Chh8Kk) | 4:23 |
+| 2323 | [La Bella Vita Martini](https://open.spotify.com/track/1MlDg3ZJIq4foqIrjLez3d) | [La Seduçion](https://open.spotify.com/artist/4enMoBINKiDyX5Z2F1QJqy) | [Sangre Sudor Y Cumbiabilly](https://open.spotify.com/album/630WNRz4lyRfZ9BJ9OSODg) | 2:55 |
+| 2324 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 |
+| 2325 | [Moon Scrolls](https://open.spotify.com/track/64qqCzP5bq6X0qNqAh9BHl) | [McDead](https://open.spotify.com/artist/0NmzTtERx5LdRg0u6SGO0N) | [Moon Scrolls](https://open.spotify.com/album/1dRxZQnv10pp30nsJSAYWL) | 2:03 |
 
-Snapshot ID: `AAAJqGytLmTaKku5xpNGulWvxVvLZ4pQ`
+Snapshot ID: `AAAJrBi0eC7hbFwY5758wEcP4iChfAbC`

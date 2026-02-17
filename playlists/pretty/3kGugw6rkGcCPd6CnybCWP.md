@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 78 songs - 4 hr 37 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 81 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 76 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 |
 | 77 | [Velvet Afterglow](https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79) | [The Drixes](https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s) | [Velvet Afterglow](https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ) | 3:53 |
 | 78 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 |
+| 79 | [Wild](https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX) | [Sole](https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK) | [Wild](https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg) | 2:51 |
+| 80 | [Colours They Don't See](https://open.spotify.com/track/0FwGNBbGSDIg6NCnhCIxT3) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Colours They Don't See](https://open.spotify.com/album/020hrMuM4OcrEgZ88aEfQD) | 3:19 |
+| 81 | [Didn't I](https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Didn't I](https://open.spotify.com/album/3Mkk2I7FdtnPRIczgmA1wF) | 3:36 |
 
-Snapshot ID: `AAANSxOQPBEnzdxQhAPmHpl5K5kd1WDg`
+Snapshot ID: `AAANTpTyHu1+M7M6PPZxTHcmAUJrsAEH`

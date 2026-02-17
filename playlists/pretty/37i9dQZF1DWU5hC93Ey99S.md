@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,898 likes - 171 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,047 likes - 171 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All This Time](https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [All This Time](https://open.spotify.com/album/63ntVfXUztmMdo2rcfXidF) | 3:30 |
 | 2 | [On The Ground](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [On The Ground](https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX) | 2:14 |
-| 3 | [Confession](https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Confession](https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2) | 2:35 |
-| 4 | [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 |
-| 5 | [In My Mind](https://open.spotify.com/track/1UcSwc91w0QBondREndseA) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [In My Mind](https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib) | 4:15 |
+| 3 | [Dive In](https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j) | [Only Chris](https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Dive In](https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz) | 2:19 |
+| 4 | [Confession](https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Confession](https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2) | 2:35 |
+| 5 | [Rest Easy](https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rest Easy](https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38) | 2:47 |
 | 6 | [Can You Imagine \(with Bipolar Sunshine\)](https://open.spotify.com/track/3y6Wh7BsLT647kPBGt8zdr) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Can You Imagine \(with Bipolar Sunshine\)](https://open.spotify.com/album/3dsHgTlqQSqn02QrY5vKYG) | 2:40 |
-| 7 | [HOLD ON](https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [HOLD ON](https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H) | 2:23 |
-| 8 | [Keep It Simple](https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E) | [Melr](https://open.spotify.com/artist/6AGtYsLIZrn8KbtrJUP2Uu) | [Keep It Simple](https://open.spotify.com/album/42V3QZUhgYF2059NCTMg7u) | 3:02 |
-| 9 | [Dive In](https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j) | [Only Chris](https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Dive In](https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz) | 2:19 |
-| 10 | [So Lonely](https://open.spotify.com/track/5eJQXOLYb9EYrg22B444E6) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [So Lonely](https://open.spotify.com/album/0DonM4KackIBzO7jHQM67Q) | 4:02 |
-| 11 | [Rest Easy](https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rest Easy](https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38) | 2:47 |
-| 12 | [Zero](https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Zero](https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v) | 3:12 |
-| 13 | [Bette Davis Eyes](https://open.spotify.com/track/1RZOXKIsd4ivru5jx2P9lI) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Bette Davis Eyes](https://open.spotify.com/album/5NUw3mAwhotIPgacWSKgil) | 2:57 |
-| 14 | [Only Here For You](https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Only Here For You](https://open.spotify.com/album/6Wg6O05FkAFYI2G3ounA2z) | 3:05 |
+| 7 | [Keep It Simple](https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E) | [Melr](https://open.spotify.com/artist/6AGtYsLIZrn8KbtrJUP2Uu) | [Keep It Simple](https://open.spotify.com/album/42V3QZUhgYF2059NCTMg7u) | 3:02 |
+| 8 | [Only Here For You](https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Only Here For You](https://open.spotify.com/album/6Wg6O05FkAFYI2G3ounA2z) | 3:05 |
+| 9 | [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 |
+| 10 | [HOLD ON](https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [HOLD ON](https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H) | 2:23 |
+| 11 | [In My Mind](https://open.spotify.com/track/1UcSwc91w0QBondREndseA) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [In My Mind](https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib) | 4:15 |
+| 12 | [So Lonely](https://open.spotify.com/track/5eJQXOLYb9EYrg22B444E6) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [So Lonely](https://open.spotify.com/album/0DonM4KackIBzO7jHQM67Q) | 4:02 |
+| 13 | [Zero](https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Zero](https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v) | 3:12 |
+| 14 | [Bette Davis Eyes](https://open.spotify.com/track/1RZOXKIsd4ivru5jx2P9lI) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Bette Davis Eyes](https://open.spotify.com/album/5NUw3mAwhotIPgacWSKgil) | 2:57 |
 | 15 | [Weightless](https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [Weightless](https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1) | 4:34 |
 | 16 | [I had a dream...](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [I had a dream...](https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0) | 2:39 |
 | 17 | [In My Head](https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Head](https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY) | 2:36 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 170 | [Waiting](https://open.spotify.com/track/1PyeM0ERIuOKITW3bnzuw3) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Waiting](https://open.spotify.com/album/1GgmFQTGmstXgQd4WEfQxV) | 2:42 |
 | 171 | [We Rise \- CloudNone & Eyezic Remix](https://open.spotify.com/track/0IfJHqvnpRPFKddPS6wlCP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [We Rise \(eyezic & CloudNone Remix\)](https://open.spotify.com/album/5bshx8rUTJDhy1HYZtgCmF) | 3:29 |
 
-Snapshot ID: `AAAAAJo8SY8Koyh2Z6++0ry2ut6x/276`
+Snapshot ID: `AAAAANftMU0BIOdlpgjvqZPvPP2D/v/u`

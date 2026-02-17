@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 611,
+  "num_followers": 617,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABh75A4GBaIk71cmQoKz8LJUaerUha",
+  "snapshot_id": "AAABinKsW4nSCkTeJrlX+9F0bhsaHj4e",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8767,6 +8767,58 @@
       "duration_ms": 190615,
       "name": "I'm From Africa",
       "url": "https://open.spotify.com/track/6oJCPKk3jtduUFincL3Gh8"
+    },
+    {
+      "added_at": "2026-02-16 04:37:42",
+      "album": {
+        "name": "Dancing Is Forbidden!",
+        "url": "https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        },
+        {
+          "name": "HIBARI555",
+          "url": "https://open.spotify.com/artist/2A6OB7KGDr2HXEDoqvYLXn"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/10yJtycXC7s7npCCcOVScU"
+    },
+    {
+      "added_at": "2026-02-16 04:38:35",
+      "album": {
+        "name": "sleepeR",
+        "url": "https://open.spotify.com/album/327zFRuZsBfXLcpoGSPwwB"
+      },
+      "artists": [
+        {
+          "name": "dndKrym",
+          "url": "https://open.spotify.com/artist/2lUIYiQ8ABS20WWFdOadZJ"
+        }
+      ],
+      "duration_ms": 100016,
+      "name": "sleepeR",
+      "url": "https://open.spotify.com/track/3AwyCR4jSQvmgpthwlGylS"
+    },
+    {
+      "added_at": "2026-02-16 04:38:39",
+      "album": {
+        "name": "80",
+        "url": "https://open.spotify.com/album/2KBKLeWqab7JJS9GGkIUMO"
+      },
+      "artists": [
+        {
+          "name": "WLF.JMS",
+          "url": "https://open.spotify.com/artist/7CYEmpAvVpsRH1DbMfhUPt"
+        }
+      ],
+      "duration_ms": 152413,
+      "name": "80",
+      "url": "https://open.spotify.com/track/7AWO9DNzPZ1wHERhYBsaCN"
     }
   ],
   "unique_name": "New Music Daily",

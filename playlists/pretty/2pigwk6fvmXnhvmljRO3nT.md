@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,200 songs - 20 day 20 hr 20 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,201 songs - 20 day 20 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8208,5 +8208,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8198 | [どりーみんチュチュ](https://open.spotify.com/track/4Av4sFayrGF7uauHdTRwH5) | [桃井愛莉](https://open.spotify.com/artist/7gj8NlLwHKucHSC5OGiuVh) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:02 |
 | 8199 | [どりーみんチュチュ](https://open.spotify.com/track/4DxH0xyPAzmsO4uXmxieWX) | [日野森雫](https://open.spotify.com/artist/5N00QVyIS7NWkuQWEfJmKQ) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:02 |
 | 8200 | [ロミオとシンデレラ](https://open.spotify.com/track/55hLQq6wmtX26c9hKgtWOh) | [桃井愛莉](https://open.spotify.com/artist/7gj8NlLwHKucHSC5OGiuVh) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:39 |
+| 8201 | [群青讃歌](https://open.spotify.com/track/2kMIsL9F7WOHFVMjGGhVIQ) | [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 4:35 |
 
-Snapshot ID: `AAAKnIifQxO28yboSrvo/DrVORa/jQKj`
+Snapshot ID: `AAAKoJkQr6PxcQ4RXncUb8x/mUeP/FJp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,135 songs - 9 day 3 hr 37 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,136 songs - 9 day 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 51 | [Kiss Me](https://open.spotify.com/track/5atpWkUN5l35WShWOG4BbU) | [Gaya Mor](https://open.spotify.com/artist/5EONJe23bpzzu8MgLhsTXU) | [Syncable 90's Covers](https://open.spotify.com/album/3OBlnuexLwSq46V7bFdR1E) | 3:21 |
 | 52 | [E Adesso Sono Dentro](https://open.spotify.com/track/5o7MufappBOlUmL5iPA7Kq) | [Gianfranco Mascia](https://open.spotify.com/artist/5qJOPV9fJNXVPAsCFjdIqQ) | [E Adesso Sono Dentro](https://open.spotify.com/album/30Ytw0y9x5bwqTjiIpBhoG) | 4:00 |
 | 53 | [Ahora puedo mirarte oh Dios](https://open.spotify.com/track/3Knv0521JrAhkZQyhoePu2) | [A su voz creadora](https://open.spotify.com/artist/1hN5zcgDGT6IVPoskkglvl) | [Ahora puedo mirarte oh Dios](https://open.spotify.com/album/1WcRZBAB7IXHVjwXxwIrrS) | 5:04 |
-| 54 | [This One's For the Animals](https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [This One's For the Animals](https://open.spotify.com/album/23s3GAPukrsVKkEEYQ1w4Z) | 3:54 |
+| 54 | [This One's For the Animals](https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [This One's For the Animals](https://open.spotify.com/album/23s3GAPukrsVKkEEYQ1w4Z) | 3:53 |
 | 55 | [New Years Day](https://open.spotify.com/track/6LRk8rbowFUfzGbpoUbVjZ) | [Bengt Isaksson](https://open.spotify.com/artist/2jounGBjlkg6p4nPuTFUcK) | [New Years Day](https://open.spotify.com/album/52tGzCYmgHudGWF3MxCNxX) | 2:47 |
 | 56 | [Sharavise](https://open.spotify.com/track/5Q6IzaBQ90vXoTqGX8CdpX) | [Goodbye Lenin](https://open.spotify.com/artist/36Le1UCarumb2FxVEImKpS) | [In Spite of Impending Doom](https://open.spotify.com/album/6OQ5JfQ2vqdAEY7VkVpLNP) | 4:45 |
 | 57 | [Crazy Love](https://open.spotify.com/track/2XliJHu9QqhKEcYjtLtlLR) | [MITCH J](https://open.spotify.com/artist/7eJ0yQqKoJaTXds7x0SVEr) | [Crazy Love](https://open.spotify.com/album/6wCSP7GAAnc5rbFbVdqH3m) | 3:36 |
@@ -4143,5 +4143,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4133 | [Solo Estoy Para Ti](https://open.spotify.com/track/6f54RpP1UrlAYwxRFmclB0) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Solo Estoy Para Ti](https://open.spotify.com/album/2H1PsCjskQvfHdA6uTohid) | 1:41 |
 | 4134 | [SLOW DOWN](https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD) | [Ghostshaft](https://open.spotify.com/artist/5wxd8HLXD387D9PedWRLw8) | [SLOW DOWN](https://open.spotify.com/album/3TEYxk5CLucLCzVmGaiVry) | 4:19 |
 | 4135 | [Sintonía](https://open.spotify.com/track/6e6Aet1KdKaEwJAEb3TTRC) | [Ya Estamos Listos](https://open.spotify.com/artist/6osYtihDBfuqiqULsM3PWb) | [Sintonía](https://open.spotify.com/album/6DOtUV0Vle9n9ppQrcpcl0) | 3:34 |
+| 4136 | [Sunrise](https://open.spotify.com/track/2s7VCqMcb8QGrV0EibS9Zn) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Sunrise](https://open.spotify.com/album/60QAGbK2rS6skUvNkOtyi1) | 2:00 |
 
-Snapshot ID: `AAAHhGG4Iuqd0BiBl4aMhZzYIeet0fF9`
+Snapshot ID: `AAAHhejgBkFgkWxUHTlseiVsWB+Jd9xa`

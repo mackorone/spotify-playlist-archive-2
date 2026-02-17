@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,941 likes - 631 songs - 1 day 13 hr 30 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,940 likes - 631 songs - 1 day 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 8 | [Dixie Diamond](https://open.spotify.com/track/4m2Qn0sOEeUQkrHX9Yb0nQ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 2:47 |
 | 9 | [L'Ultima Corsa](https://open.spotify.com/track/6wzdLuCN90WycoNBMCrPEE) | [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod), [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [L'Ultima Corsa](https://open.spotify.com/album/39XHiau3fGqnz8GHDF7Yag) | 3:39 |
 | 10 | [Cola](https://open.spotify.com/track/4pOQY948tHlJs7xbJbk0YF) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7) | [Cola](https://open.spotify.com/album/1Rxrqf7QOqnOICKF3qJWTB) | 2:10 |
-| 11 | [I Don't Wanna Give You Up](https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 3:42 |
-| 12 | [SHSL](https://open.spotify.com/track/74xqQIJlbaCtm5ZgMybwwk) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [SHSL](https://open.spotify.com/album/3m4gtXLBykRW7xlxw3o6zs) | 3:27 |
+| 11 | [SHSL](https://open.spotify.com/track/74xqQIJlbaCtm5ZgMybwwk) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [SHSL](https://open.spotify.com/album/3m4gtXLBykRW7xlxw3o6zs) | 3:27 |
+| 12 | [I Don't Wanna Give You Up](https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 3:42 |
 | 13 | [Lule e Egër](https://open.spotify.com/track/68HCHDGbYaiOgO3DYeaXXN) | [Corpus Perditum](https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ) | [Lule e Egër](https://open.spotify.com/album/6YaXvfFdT7yeh9TR4LYb2u) | 5:40 |
 | 14 | [Gum Head](https://open.spotify.com/track/2X7VGyu4tZdFWookIoQoDA) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7) | [Gum Head](https://open.spotify.com/album/0tF77q8FyG4ZHF76r69ELK) | 2:24 |
 | 15 | [bones](https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:52 |
@@ -640,4 +640,4 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 630 | [Presente](https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Presente](https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7) | 3:58 |
 | 631 | [Window](https://open.spotify.com/track/6aEkKd66Ik1zyVEBSMomK2) | [DNCR](https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u) | [Window](https://open.spotify.com/album/1q1GEYLNeJzXBXzINilLhh) | 2:59 |
 
-Snapshot ID: `AAAMSDuah5QxyUevHsglShk+G/QKxzzw`
+Snapshot ID: `AAAMSUmKYX1XdiXBZT73oYcqb5kvoaOs`

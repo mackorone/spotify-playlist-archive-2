@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 592 likes - 58 songs - 3 hr 14 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 594 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 56 | [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 |
 | 57 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 |
 | 58 | [lovergirl](https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX) | [Taylor Contarino](https://open.spotify.com/artist/4sPdnfBqns9zDxWZPv7AhT) | [lovergirl](https://open.spotify.com/album/5hcolasUwTgiAJ4B7nAXs3) | 2:03 |
+| 59 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 |
+| 60 | [Happy Pills](https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Happy Pills](https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7) | 3:01 |
 
-Snapshot ID: `AAADCqCZ1sSPkOjRXTPQP/xoCA3b2Hcz`
+Snapshot ID: `AAADDGabawdafedeSS8SDsa6r0GXZdZr`

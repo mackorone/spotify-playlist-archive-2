@@ -1,6 +1,6 @@
 {
   "description": "in the mood for love.",
-  "num_followers": 2557151,
+  "num_followers": 2557117,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -63,8 +63,8 @@
     {
       "added_at": "2025-01-23 21:05:21",
       "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 274400,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+      "duration_ms": 256720,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/7vpkmzisaB8R47XlxyTcfs"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -147,8 +147,8 @@
     {
       "added_at": "2025-01-23 21:05:21",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe"
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 256720,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/7vpkmzisaB8R47XlxyTcfs"
+      "duration_ms": 274400,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
     },
     {
       "added_at": "2025-01-23 21:05:21",
@@ -241,22 +241,6 @@
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
       "added_at": "2025-01-23 21:05:21",
       "album": {
         "name": "The Best of Tevin Campbell",
@@ -271,6 +255,22 @@
       "duration_ms": 284586,
       "name": "Can We Talk",
       "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
-      "added_at": "2025-01-23 21:05:21",
-      "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 307106,
-      "name": "Share My World",
-      "url": "https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Fever for da Flavor",
@@ -371,6 +355,22 @@
       "duration_ms": 330945,
       "name": "Knockin' da Boots",
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+    },
+    {
+      "added_at": "2025-01-23 21:05:21",
+      "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 307106,
+      "name": "Share My World",
+      "url": "https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
-    },
-    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "Forever My Lady",
@@ -651,6 +635,22 @@
       "duration_ms": 320360,
       "name": "Forever My Lady",
       "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/6KbwCku0kfegSak3qJYDlh"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "He Loves Me (Lyzel in E Flat)",
-      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
-    },
-    {
       "added_at": "2025-01-23 21:05:21",
       "album": {
         "name": "Diary Of A Mad Band",
@@ -731,6 +715,22 @@
       "duration_ms": 302893,
       "name": "My Heart Belongs To U",
       "url": "https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "He Loves Me (Lyzel in E Flat)",
+      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
     },
     {
       "added_at": "2025-01-23 21:05:21",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Spark Of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
-      },
-      "artists": [
-        {
-          "name": "Lenny Williams",
-          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
-        }
-      ],
-      "duration_ms": 429120,
-      "name": "'Cause I Love You",
-      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "The Show, The After Party, The Hotel",
@@ -811,6 +795,22 @@
       "duration_ms": 290066,
       "name": "Love U 4 Life",
       "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Spark Of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
+      },
+      "artists": [
+        {
+          "name": "Lenny Williams",
+          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
+        }
+      ],
+      "duration_ms": 429120,
+      "name": "'Cause I Love You",
+      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
     },
     {
       "added_at": "2025-01-23 21:05:21",

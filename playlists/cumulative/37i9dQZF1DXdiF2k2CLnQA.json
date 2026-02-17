@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Conspiracy",
+        "url": "https://open.spotify.com/album/1h7Dq392BZw4IiNcgZk3wn"
+      },
+      "artists": [
+        {
+          "name": "Bloodstain",
+          "url": "https://open.spotify.com/artist/6uG9Od49dC2XZyHVJS9aEZ"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185132,
+      "name": "Conspiracy",
+      "url": "https://open.spotify.com/track/31HxIlEmUHbG4luSxBaZFt"
+    },
+    {
+      "album": {
         "name": "Could Have Been Me (Feat. Brian May)",
         "url": "https://open.spotify.com/album/7sc2qxzrUhrPF3OdOyaswk"
       },
@@ -2905,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Cream Of The Crap! Collected Non-Album Works, Vol. 3",
+        "url": "https://open.spotify.com/album/7au9CotTxNSg47b1JJdXBm"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212840,
+      "name": "Her Strut - Remastered 2025",
+      "url": "https://open.spotify.com/track/2QYHZhRqfv2KpE5Er9o4Oz"
+    },
+    {
+      "album": {
         "name": "Here's The Thing",
         "url": "https://open.spotify.com/album/63MATGJoOix8OypoCqnJga"
       },
@@ -3602,6 +3638,24 @@
       "duration_ms": 233773,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/34Zus9pXpLjBRHZ5SvexPO"
+    },
+    {
+      "album": {
+        "name": "King Of Rock \u2019n\u2019 Roll",
+        "url": "https://open.spotify.com/album/05KhsNVV9DRIy5yku5r35t"
+      },
+      "artists": [
+        {
+          "name": "Korslagda",
+          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159864,
+      "name": "King Of Rock \u2019n\u2019 Roll",
+      "url": "https://open.spotify.com/track/6FyxfxtSlNobcVL2IbHZWq"
     },
     {
       "album": {
@@ -4367,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Nightmare Tripping (Feat. Nickelback)",
+        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321106,
+      "name": "Nightmare Tripping (Feat. Nickelback)",
+      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
+    },
+    {
+      "album": {
         "name": "No Loss, No Love",
         "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
       },
@@ -4810,6 +4886,24 @@
       "duration_ms": 243266,
       "name": "Pink Fang",
       "url": "https://open.spotify.com/track/6N2OH7MKytiW3YZ3GqQGOv"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290086,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
     },
     {
       "album": {
@@ -7488,6 +7582,28 @@
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
     },
     {
       "album": {

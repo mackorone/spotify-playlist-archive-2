@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,902 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,892 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 56 | [Joyeux Noël](https://open.spotify.com/track/2tfT9JHn0MmI1hYwwk4hiv) | [Camille Cormier\-Morasse](https://open.spotify.com/artist/2wvsvqHPEfAHHxzPkyLcHB) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:26 |
 | 57 | [Noël](https://open.spotify.com/track/5kME8UidheMP9OAQsqRvQG) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Les tubes de Noël, vol.4](https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8) | 4:18 |
 | 58 | [Trois anges](https://open.spotify.com/track/0CEf5RUrI8lymsEXxQlMZG) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Trois anges](https://open.spotify.com/album/5v4av8x3cutGER7uiU69ZK) | 3:40 |
-| 59 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
-| 60 | [Au royaume du bonhomme hiver](https://open.spotify.com/track/2lYvd5PkUDC6GuiVYf04yl) | [Mia Tinayre](https://open.spotify.com/artist/73oPKA4M7gONbeMszxykD8) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:25 |
+| 59 | [Au royaume du bonhomme hiver](https://open.spotify.com/track/2lYvd5PkUDC6GuiVYf04yl) | [Mia Tinayre](https://open.spotify.com/artist/73oPKA4M7gONbeMszxykD8) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:25 |
+| 60 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
 | 61 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
 | 62 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 |
 | 63 | [Pour la première fois, Noël sera gris](https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:09 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 84 | [Noël à Paris](https://open.spotify.com/track/1nYc3paA3jh6o0aWM9H0n7) | [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI) | [Noël à Paris](https://open.spotify.com/album/7IoUwAOf2KPnmBN6LVDhyv) | 2:28 |
 | 85 | [Ensemble](https://open.spotify.com/track/7o4QAEXawrmfMvWnk2nvvg) | [Alex Doré](https://open.spotify.com/artist/11ncL4JoY6eIGYGaoaxoV5) | [Ensemble](https://open.spotify.com/album/7ilSvtaSNT9aHwjRB2Hn8g) | 2:49 |
 | 86 | [Vive le vent \- Vivre](https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE) | [Tocadéo](https://open.spotify.com/artist/6Eobl6c1IhZ8TAmobjE5OJ) | [Meilleurs Vœux \(Vivre\)](https://open.spotify.com/album/5eLOr5aTRuerpn2sCX7UsI) | 3:29 |
-| 87 | [Chanson du rigodon](https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR) | [Guylaine Tremblay](https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:14 |
-| 88 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 |
+| 87 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 |
+| 88 | [Chanson du rigodon](https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR) | [Guylaine Tremblay](https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:14 |
 | 89 | [Petit cadeau](https://open.spotify.com/track/4gSZQiKEJGQYT9o3RUVX6w) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Pause gorgée ! Vol\. 1](https://open.spotify.com/album/5TpurgIEce2tvv8MprzlDG) | 2:58 |
 | 90 | [Le Noël des petits santons](https://open.spotify.com/track/41fTjoBWFYikCoNm9chdVJ) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [Deluxe: Petit Papa Noël et les plus belles chansons de Noël](https://open.spotify.com/album/0j4GUlSnBkKxVMrIVEx4Vb) | 3:14 |
 | 91 | [As\-tu vu le père Noël?](https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [As\-tu vu le père Noël?](https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv) | 1:50 |

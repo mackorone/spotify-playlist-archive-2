@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93787,
+  "num_followers": 93793,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "All These Years",
         "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 228482,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
+        "name": "F\u00f6r evigt ny",
+        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 248624,
+      "name": "F\u00f6r evigt ny",
+      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
         "name": "St\u00f6rst av allt",
         "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 195139,
       "name": "St\u00f6rst av allt",
       "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
-        "name": "F\u00f6r evigt ny",
-        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 248624,
-      "name": "F\u00f6r evigt ny",
-      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 245614,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Skebokvarnsv. 209 (Deluxe Version)",
         "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 213115,
       "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
       "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 245614,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
-      },
-      "artists": [
-        {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Emilie's Song (From the TV series \"Tordyveln flyger i skymningen\")",
         "url": "https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 264496,
       "name": "Emilie's Song - From the TV series \"Tordyveln flyger i skymningen\"",
       "url": "https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Sjung Sjung",
+        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+      },
+      "artists": [
+        {
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Sjung Sjung",
+      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "N\u00e4r \u00e4nglar d\u00f6r",
         "url": "https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 191224,
       "name": "N\u00e4r \u00e4nglar d\u00f6r",
       "url": "https://open.spotify.com/track/4xHRjdU7PG09WUMVoKE0p0"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
+      },
+      "artists": [
+        {
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
+        "name": "Sk\u00f6ldpadds\u00f6n",
+        "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
+      },
+      "artists": [
+        {
+          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
+        }
+      ],
+      "duration_ms": 255250,
+      "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
+      "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
         "name": "Hold fast",
         "url": "https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 258000,
       "name": "Hold fast",
       "url": "https://open.spotify.com/track/476m03lRnptvnnRXxumjLs"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
-        "name": "Sk\u00f6ldpadds\u00f6n",
-        "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
-      },
-      "artists": [
-        {
-          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
-        }
-      ],
-      "duration_ms": 255250,
-      "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
-      "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+        "name": "One-Trick Pony",
+        "url": "https://open.spotify.com/album/6N2klg92TmszKj7waK5Xg7"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Toni Holgersson",
+          "url": "https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB"
         }
       ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+      "duration_ms": 296208,
+      "name": "One-Trick Pony",
+      "url": "https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX"
     }
   ],
   "unique_name": "Aktuellt",

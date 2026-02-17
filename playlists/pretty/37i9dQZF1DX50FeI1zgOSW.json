@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18464,
+  "num_followers": 18469,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfu3tC5xBSPAIxsbsIuebKIyW/r",
+  "snapshot_id": "AAAAAFiUN2eMAHC2vmCwbXvVubnGf0ec",
   "tracks": [
     {
       "added_at": "2026-01-30 04:48:10",
@@ -545,6 +545,30 @@
       "url": "https://open.spotify.com/track/3qo7g4rdkeefPbKPAgdBhC"
     },
     {
+      "added_at": "2026-02-16 12:37:43",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/5qkQpBcvNccPFME57mYCpn"
+      },
+      "artists": [
+        {
+          "name": "Gabrial Gladson",
+          "url": "https://open.spotify.com/artist/7bT5pEKrRCw55c5Gio2pE8"
+        },
+        {
+          "name": "Adithya Sriram",
+          "url": "https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo"
+        },
+        {
+          "name": "Jane Thompson",
+          "url": "https://open.spotify.com/artist/0qOGPgfGo4xZ5ttkpLx37N"
+        }
+      ],
+      "duration_ms": 192167,
+      "name": "Cult Classic",
+      "url": "https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa"
+    },
+    {
       "added_at": "2026-01-30 05:06:13",
       "album": {
         "name": "Venaam",
@@ -563,6 +587,30 @@
       "duration_ms": 158000,
       "name": "Venaam",
       "url": "https://open.spotify.com/track/1e2NvcmWmgoGlIpZxf7bRk"
+    },
+    {
+      "added_at": "2026-02-16 12:33:59",
+      "album": {
+        "name": "Kaathadi",
+        "url": "https://open.spotify.com/album/2eHaYapZSQAGJ6T1EylfW1"
+      },
+      "artists": [
+        {
+          "name": "Raksheet Ramesh",
+          "url": "https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI"
+        },
+        {
+          "name": "Mushkan Rajani",
+          "url": "https://open.spotify.com/artist/0NnKIiIjFYdvmjsHVeu00i"
+        },
+        {
+          "name": "Odiki",
+          "url": "https://open.spotify.com/artist/6nZ47eRkZ8sWLFgGEeQc54"
+        }
+      ],
+      "duration_ms": 113547,
+      "name": "Kaathadi",
+      "url": "https://open.spotify.com/track/6NaQZMlpCeNlqgxV5tfzQC"
     },
     {
       "added_at": "2026-01-27 06:17:07",
@@ -759,22 +807,6 @@
       "duration_ms": 182937,
       "name": "Minnal",
       "url": "https://open.spotify.com/track/5LTPpvlqykXDlzVRO29BxV"
-    },
-    {
-      "added_at": "2026-01-16 04:42:09",
-      "album": {
-        "name": "Pongal Thara Local",
-        "url": "https://open.spotify.com/album/6ovlJbF1ad3CpcFJBqtTKf"
-      },
-      "artists": [
-        {
-          "name": "Navneeth Sundar",
-          "url": "https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "Pongal Thara Local",
-      "url": "https://open.spotify.com/track/2b5ZoeSKA971sRjWZU0gP5"
     },
     {
       "added_at": "2026-01-09 19:30:11",
@@ -1555,54 +1587,6 @@
       "duration_ms": 208000,
       "name": "Azhaga Oruthi",
       "url": "https://open.spotify.com/track/6FQaklJ01Y8ilk1WwFjgBD"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "THOL",
-        "url": "https://open.spotify.com/album/0WCsWJcjkUAOHwKhWous0e"
-      },
-      "artists": [
-        {
-          "name": "Urupaanar",
-          "url": "https://open.spotify.com/artist/4tQZesV9Vsw2EnpdskT6KV"
-        },
-        {
-          "name": "Tharun Sekar",
-          "url": "https://open.spotify.com/artist/1tk528wXxD61sM9CyMPZRg"
-        },
-        {
-          "name": "Si Su",
-          "url": "https://open.spotify.com/artist/5izMDlabcB1xhXgOGuuXZs"
-        },
-        {
-          "name": "Goutham Vasu Venkatesan",
-          "url": "https://open.spotify.com/artist/0t52Tk7X8p6hlVB56rQZ4x"
-        },
-        {
-          "name": "Pravekha",
-          "url": "https://open.spotify.com/artist/26s50DKJKi3Sg5zhw0jwv9"
-        },
-        {
-          "name": "RS Vikram",
-          "url": "https://open.spotify.com/artist/5PJBbPDPdZeGyfLRdpFht5"
-        },
-        {
-          "name": "K.R.Keerthirathan",
-          "url": "https://open.spotify.com/artist/7jXD4Yjub8J8dya0PusWjA"
-        },
-        {
-          "name": "Vishwa Bharath",
-          "url": "https://open.spotify.com/artist/2YEui2CS3jSKUyOaOJtPtt"
-        },
-        {
-          "name": "ElaiyaBass",
-          "url": "https://open.spotify.com/artist/1iv3LSk17AB9jCWtjfnzpt"
-        }
-      ],
-      "duration_ms": 325090,
-      "name": "Kasadathaparam",
-      "url": "https://open.spotify.com/track/5rwnGqrp6ejur2DJIuPIur"
     },
     {
       "added_at": "2026-01-09 19:30:11",

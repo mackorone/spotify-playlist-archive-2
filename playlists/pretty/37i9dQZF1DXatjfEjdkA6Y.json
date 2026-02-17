@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5707,
+  "num_followers": 5710,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43"
-      },
-      "artists": [
-        {
-          "name": "Brotherhood of Man",
-          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Save Your Kisses For Me - Re-Recording",
-      "url": "https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "How Do You Do?",
         "url": "https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 176026,
       "name": "I See A Star",
       "url": "https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Save Your Kisses For Me - Re-Recording",
+      "url": "https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Universal Master",
-        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
-      },
-      "artists": [
-        {
-          "name": "Mich\u00e8le Torr",
-          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Une petite fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Shadows - The Collection",
         "url": "https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 170600,
       "name": "Let Me Be the One",
       "url": "https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Universal Master",
+        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Une petite fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Greatest 70's Hits Best Ever",
-        "url": "https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc"
-      },
-      "artists": [
-        {
-          "name": "Brotherhood of Man",
-          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
-        }
-      ],
-      "duration_ms": 182139,
-      "name": "Save Your Kisses For Me",
-      "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Collection: Sergio Endrigo",
         "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 170400,
       "name": "Judy et cie",
       "url": "https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Greatest 70's Hits Best Ever",
+        "url": "https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "duration_ms": 182139,
+      "name": "Save Your Kisses For Me",
+      "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Big-5: Marion",
-        "url": "https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U"
-      },
-      "artists": [
-        {
-          "name": "Marion Rung",
-          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Tom Tom Tom",
-      "url": "https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Les 50 Plus Belles Chansons",
         "url": "https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Big-5: Marion",
+        "url": "https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U"
+      },
+      "artists": [
+        {
+          "name": "Marion Rung",
+          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Tom Tom Tom",
+      "url": "https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Festivalfavoriter 1",
         "url": "https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 166186,
       "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mej",
       "url": "https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Sparkling Memories Vol 4",
+        "url": "https://open.spotify.com/album/4cnt5yCFjpscKwqB0aeczf"
+      },
+      "artists": [
+        {
+          "name": "Ellen Winther",
+          "url": "https://open.spotify.com/artist/65GFogv7RBDqUWiSkSH29Y"
+        }
+      ],
+      "duration_ms": 221336,
+      "name": "Vuggevise",
+      "url": "https://open.spotify.com/track/2k5OAYsdVSjLmgHQxxfR5U"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1107,22 +1123,6 @@
       "duration_ms": 165293,
       "name": "Brez besed - Evrovizija 1966",
       "url": "https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Sparkling Memories Vol 4",
-        "url": "https://open.spotify.com/album/4cnt5yCFjpscKwqB0aeczf"
-      },
-      "artists": [
-        {
-          "name": "Ellen Winther",
-          "url": "https://open.spotify.com/artist/65GFogv7RBDqUWiSkSH29Y"
-        }
-      ],
-      "duration_ms": 221336,
-      "name": "Vuggevise",
-      "url": "https://open.spotify.com/track/2k5OAYsdVSjLmgHQxxfR5U"
     },
     {
       "added_at": "2025-03-14 16:55:23",

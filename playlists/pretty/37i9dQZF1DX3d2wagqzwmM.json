@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: D'Angello & Francis",
-  "num_followers": 636324,
+  "num_followers": 636387,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -1271,26 +1271,18 @@
     {
       "added_at": "2026-02-12 23:00:24",
       "album": {
-        "name": "Take Over Control (feat. Eva Simons) [Maddix Remix]",
-        "url": "https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx"
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/4eZjh5o14qvHnIcmPLoi8j"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Eva Simons",
-          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Aresta",
+          "url": "https://open.spotify.com/artist/2m3tbaVv1oRAtY93M1K2s4"
         }
       ],
-      "duration_ms": 186967,
-      "name": "Take Over Control (feat. Eva Simons) [Maddix Remix]",
-      "url": "https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP"
+      "duration_ms": 134055,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/30tZsPXvOp0usNfKiJehl0"
     },
     {
       "added_at": "2026-02-12 23:00:24",
@@ -1311,18 +1303,26 @@
     {
       "added_at": "2026-02-12 23:00:24",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/4eZjh5o14qvHnIcmPLoi8j"
+        "name": "Take Over Control (feat. Eva Simons) [Maddix Remix]",
+        "url": "https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx"
       },
       "artists": [
         {
-          "name": "Aresta",
-          "url": "https://open.spotify.com/artist/2m3tbaVv1oRAtY93M1K2s4"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Eva Simons",
+          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 134055,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/30tZsPXvOp0usNfKiJehl0"
+      "duration_ms": 186967,
+      "name": "Take Over Control (feat. Eva Simons) [Maddix Remix]",
+      "url": "https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP"
     },
     {
       "added_at": "2026-02-12 23:00:24",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-02-12 23:00:24",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/2FOoWd3HnAhZXGuw6gQrCg"
-      },
-      "artists": [
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 169153,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/29WwN7OZGIwtRsEX18c1LO"
-    },
-    {
-      "added_at": "2026-02-12 23:00:24",
-      "album": {
         "name": "Bring Back The Techno",
         "url": "https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 181117,
       "name": "Bring Back The Techno",
       "url": "https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo"
+    },
+    {
+      "added_at": "2026-02-12 23:00:24",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/2FOoWd3HnAhZXGuw6gQrCg"
+      },
+      "artists": [
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/29WwN7OZGIwtRsEX18c1LO"
     },
     {
       "added_at": "2026-02-12 23:00:24",

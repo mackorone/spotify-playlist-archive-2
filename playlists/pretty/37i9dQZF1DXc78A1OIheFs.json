@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19308,
+  "num_followers": 19307,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
+        "name": "TN's",
+        "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 196267,
+      "name": "TN's",
+      "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
         "name": "Ready To Ride",
         "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 221600,
       "name": "Ready To Ride",
       "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
-        "name": "TN's",
-        "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 196267,
-      "name": "TN's",
-      "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
+        "name": "Back In My Arms",
+        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
+      },
+      "artists": [
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        }
+      ],
+      "duration_ms": 225843,
+      "name": "Back In My Arms",
+      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
         "name": "ALL MINE",
         "url": "https://open.spotify.com/album/2HfQH6Lgw5niuKPPSPJ9RD"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 218134,
       "name": "PRETTY GYAL",
       "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
-        "name": "Back In My Arms",
-        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
-      },
-      "artists": [
-        {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        }
-      ],
-      "duration_ms": 225843,
-      "name": "Back In My Arms",
-      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
       },
       "artists": [
         {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+      "duration_ms": 246720,
+      "name": "Nadja",
+      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
         }
       ],
-      "duration_ms": 246720,
-      "name": "Nadja",
-      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "STALKER (feat. Ramirez)",
-        "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "STALKER (feat. Ramirez)",
-      "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 172730,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
+        "name": "STALKER (feat. Ramirez)",
+        "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Ramirez",
+          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+        }
+      ],
+      "duration_ms": 152415,
+      "name": "STALKER (feat. Ramirez)",
+      "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Broken Glass",
-        "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
-      },
-      "artists": [
-        {
-          "name": "Harper Finn",
-          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
         "name": "thought of you",
         "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 225295,
       "name": "thought of you",
       "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
+        "name": "Broken Glass",
+        "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
+      },
+      "artists": [
+        {
+          "name": "Harper Finn",
+          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
     },
     {
       "added_at": "2026-02-12 13:00:16",

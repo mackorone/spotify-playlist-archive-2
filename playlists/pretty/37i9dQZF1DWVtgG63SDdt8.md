@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,442 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,455 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [Blood Of Christ](https://open.spotify.com/track/4FpSdYB6a8U97dVgZaThML) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Blood Of Christ](https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l) | 7:15 |
 | 36 | [God Is Able](https://open.spotify.com/track/09QVYxXcq3niEC4DzLvDVC) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa) | [The Commons Chapel \(Deluxe\)](https://open.spotify.com/album/2Dr3EBtHU1PY6HYn5DK3DH) | 4:43 |
 | 37 | [YOUR WAY'S BETTER](https://open.spotify.com/track/6vxUmCFmAu8eZ9fxh7KSRb) | [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [YOUR WAY'S BETTER](https://open.spotify.com/album/1vcGeEluIVhjmlfqpEhWii) | 5:25 |
-| 38 | [Can You See It](https://open.spotify.com/track/3BfYZUQzROsleMiBRgiaNs) | [NCS Collective](https://open.spotify.com/artist/3VJODy3fkkgfZmlDqlO8sY), [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Can You See It](https://open.spotify.com/album/6tMxqRt8dHLcFOlmcARaBf) | 4:35 |
+| 38 | [Can You See It \- Live](https://open.spotify.com/track/3BfYZUQzROsleMiBRgiaNs) | [NCS Collective](https://open.spotify.com/artist/3VJODy3fkkgfZmlDqlO8sY), [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Can You See It \(Live\)](https://open.spotify.com/album/6tMxqRt8dHLcFOlmcARaBf) | 4:35 |
 | 39 | [He Lives](https://open.spotify.com/track/6HRrYSbJHcy4oKdgU1pqzs) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ), [Brian Connelly](https://open.spotify.com/artist/568sD5Ea5m8svijwp9cmZe) | [He Lives](https://open.spotify.com/album/6TPj51KKvfmiRtwcEJ3Sid) | 4:24 |
 | 40 | [Fortress](https://open.spotify.com/track/6zcdG0NJ6uCc9rnKo4bZqB) | [BRAG WORSHIP](https://open.spotify.com/artist/6ASpfG4TAcqCK8U5D6IVTT), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [For Your Glory](https://open.spotify.com/album/5LrzsfRZtiVwxAqgusUd76) | 3:22 |
 | 41 | [Everything](https://open.spotify.com/track/6nphpniFXq98Il7puQ3VRH) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Everything](https://open.spotify.com/album/4AEO6YucgMlWQ7xCWRvC4B) | 3:44 |

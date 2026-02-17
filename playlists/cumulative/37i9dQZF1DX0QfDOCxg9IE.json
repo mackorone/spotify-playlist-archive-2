@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Addicted to Love [From \"Tell Me Lies (Season 3)\"]",
+        "url": "https://open.spotify.com/album/5obq7XI9DoZRevqIACrjoe"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185381,
+      "name": "Addicted to Love - From \"Tell Me Lies (Season 3)\"",
+      "url": "https://open.spotify.com/track/5DeYkAfWWVLyD7vZbN2I7I"
+    },
+    {
+      "album": {
         "name": "ADEIA",
         "url": "https://open.spotify.com/album/7zTWgeVu4dqfgbeaz1JXmk"
       },
@@ -1444,6 +1462,24 @@
       "duration_ms": 193846,
       "name": "Auta Ta Matia Ta Glika",
       "url": "https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ"
+    },
+    {
+      "album": {
+        "name": "Den Me Peirazei",
+        "url": "https://open.spotify.com/album/3KYj7hZeofF1nGyX0ZHPR9"
+      },
+      "artists": [
+        {
+          "name": "Karakou",
+          "url": "https://open.spotify.com/artist/1TTXVueRIONBKHon9CYRbx"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122345,
+      "name": "Avocadia",
+      "url": "https://open.spotify.com/track/0dNM0h2MqzSdkuYYh9uyGp"
     },
     {
       "album": {
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -4758,7 +4794,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 185395,
       "name": "H Poli Pou Fovatai",
       "url": "https://open.spotify.com/track/3lBapxrTKou1kMux1JHc1U"
@@ -5930,7 +5966,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 146526,
       "name": "Kale... Poios Einai Autos?",
       "url": "https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL"
@@ -6718,7 +6754,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -6794,7 +6830,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 200268,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/0NSSsLFk5txWb0I8bNNOKR"
@@ -7267,6 +7303,28 @@
     },
     {
       "album": {
+        "name": "Ta Afthentika Tis Polis",
+        "url": "https://open.spotify.com/album/1AJi7p16633RWDSD4FJmCM"
+      },
+      "artists": [
+        {
+          "name": "Voreia Asteria",
+          "url": "https://open.spotify.com/artist/6zGGlsaQlrVasqaIfBWZoE"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/7axaOTg13eN4HVF4jxWYLv"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232014,
+      "name": "Meli-Gala",
+      "url": "https://open.spotify.com/track/7KVfvO5t8Qe67z8MLesWqC"
+    },
+    {
+      "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
       },
@@ -7548,7 +7606,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 130461,
       "name": "Mist",
       "url": "https://open.spotify.com/track/2NLOyWzztMiW5FmNhD83K6"
@@ -8594,7 +8652,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 286293,
       "name": "Nothing's Gonna Hurt You Baby",
       "url": "https://open.spotify.com/track/3W7KHojYGgYaoX9ogKO9hU"
@@ -8638,6 +8696,24 @@
       "duration_ms": 200187,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/0DhS6FGlJkZEWM2gmjB5dD"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
       "album": {
@@ -8730,6 +8806,32 @@
       "duration_ms": 336000,
       "name": "OK!",
       "url": "https://open.spotify.com/track/3t6Ntsvnt9jx4LZ6mUX4w6"
+    },
+    {
+      "album": {
+        "name": "THE K.i.D. (The Kid ilias Dreaming)",
+        "url": "https://open.spotify.com/album/5QkDhQUpCH580fvgjgAvZ0"
+      },
+      "artists": [
+        {
+          "name": "Kid Young",
+          "url": "https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Oloi",
+      "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
     },
     {
       "album": {
@@ -9226,7 +9328,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 138070,
       "name": "Paralia",
       "url": "https://open.spotify.com/track/54hqiJnShbAYKaX5HRQwSA"
@@ -9662,7 +9764,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 181275,
       "name": "Politika Ortho",
       "url": "https://open.spotify.com/track/7av9HUHopyQNGyL2GnIy03"
@@ -9946,7 +10048,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 234151,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
@@ -10789,6 +10891,24 @@
     },
     {
       "album": {
+        "name": "BRITPOP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6TvDU5Uh5fe1PaNjPZ4W2u"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204640,
+      "name": "Spies",
+      "url": "https://open.spotify.com/track/6lL7S7vctiI0JS5TxnEeQB"
+    },
+    {
+      "album": {
         "name": "SPINNIN (Segway Remix)",
         "url": "https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu"
       },
@@ -10906,6 +11026,28 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
+    },
+    {
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "album": {
@@ -13090,6 +13232,24 @@
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
     },
     {
       "album": {

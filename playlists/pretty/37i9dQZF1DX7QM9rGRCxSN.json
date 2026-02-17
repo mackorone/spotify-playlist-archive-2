@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Sue\u00f1o A Marte en portada.",
-  "num_followers": 37198,
+  "num_followers": 37208,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
+        "name": "Rizoma",
+        "url": "https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 382522,
+      "name": "Lo Bonito de la Muerte",
+      "url": "https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
         "name": "Organs",
         "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
-        "name": "Rizoma",
-        "url": "https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 382522,
-      "name": "Lo Bonito de la Muerte",
-      "url": "https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD"
     },
     {
       "added_at": "2025-10-24 06:00:19",

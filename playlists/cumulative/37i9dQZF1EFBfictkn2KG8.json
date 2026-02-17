@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/0Ez6wWM4SrNa6IdcIw92Eg"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/2TFwKzcRtRJ6B4RVmQCvXG"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
       },

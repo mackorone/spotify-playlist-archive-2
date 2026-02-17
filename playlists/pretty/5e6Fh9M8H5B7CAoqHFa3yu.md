@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 260 likes - 1,937 songs - 4 day 20 hr 21 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 263 likes - 1,942 songs - 4 day 20 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 107 | [Distant Memories](https://open.spotify.com/track/3jEzTEIQlLUvAI8MCa6ZTX) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 1](https://open.spotify.com/album/669reT1wAagQzhBIIzo4nK) | 3:49 |
 | 108 | [Dreams](https://open.spotify.com/track/5S9yNiOdaWLKtRbXehNEvA) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [Dreams](https://open.spotify.com/album/6Dw0hSW0YP05IyqYY9bGIj) | 1:57 |
 | 109 | [one cigarette more](https://open.spotify.com/track/4JtBxIgorR07GHvsQa7CJn) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [one cigarette more](https://open.spotify.com/album/5gyvJsBHCkSbRuCfby5HD6) | 1:09 |
-| 110 | [again](https://open.spotify.com/track/6J8EbkOM82wM3QtG0q128D) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [again](https://open.spotify.com/album/5TDj05hZIp16RoCNE1VJNd) | 1:54 |
-| 111 | [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [Lemon](https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX) | 3:03 |
+| 110 | [again](https://open.spotify.com/track/6J8EbkOM82wM3QtG0q128D) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [](https://open.spotify.com/album/null) | 1:54 |
+| 111 | [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [](https://open.spotify.com/album/null) | 3:03 |
 | 112 | [Pensare in Grande](https://open.spotify.com/track/0hOPVUy0HQ4ju0s724bEZZ) | [PitMike](https://open.spotify.com/artist/0MkxrIxJy1hfKSX7CwDkjz) | [Pensare in Grande](https://open.spotify.com/album/6t68A2V4e2c9Ht12LRHDVD) | 3:39 |
 | 113 | [VENEZUELA QUERIDA](https://open.spotify.com/track/0TFh5PqPUfRIfL6nKeHoCI) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [VENEZUELA QUERIDA](https://open.spotify.com/album/4oEzaEQtaLnY7FcXUyxpWD) | 4:22 |
 | 114 | [Everything I Need](https://open.spotify.com/track/1gzPMqJ2hvJLfSU5DuAD6N) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 2:32 |
@@ -1945,5 +1945,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1935 | [Coffee in Venezia](https://open.spotify.com/track/0pj7S6BPsduM2wwg2PrV1o) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Venezia](https://open.spotify.com/album/3Wtd0z5yOWzjv6pEsPg7PD) | 3:36 |
 | 1936 | [55 \- LIVE AT THE PUB](https://open.spotify.com/track/6jpq4vj7TZkaluHVXAyGRI) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [55 \(LIVE AT THE PUB\)](https://open.spotify.com/album/1hrXFpMzVuc123vDXFhTTI) | 3:33 |
 | 1937 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 |
+| 1938 | [A Palo Seco](https://open.spotify.com/track/5HEFhWVhZDbxrJ6G03CkLk) | [Marie Saintonge](https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb), [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Rommel](https://open.spotify.com/artist/7umdEQLmAvnJsKZLZmzM10) | [Céu de Caju](https://open.spotify.com/album/0HSYrkXLqisr3lj1Uig00W) | 2:21 |
+| 1939 | [WER ZAHLT?](https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [WER ZAHLT?](https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju) | 4:19 |
+| 1940 | [Recuerdos de la Alhambra](https://open.spotify.com/track/3i7Io50fY4jdbrOTLcn5Fi) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Recuerdos de la Alhambra](https://open.spotify.com/album/0jpkUpg8WHzZbAqmJ0UDlk) | 3:41 |
+| 1941 | [Love Me](https://open.spotify.com/track/6Z0qoGaKJlHZhDVT9DTtw4) | [Dopamine](https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU), [EUFOREIGN](https://open.spotify.com/artist/3MK8OFHs62kqTJcMG9Gg3z), [Ch7nky](https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq), [Swaglone.mp4](https://open.spotify.com/artist/6c90YtrZEvGETj6HgKntTp) | [Love Me](https://open.spotify.com/album/1t2MmGOXL07jrn1DDDOpZb) | 2:56 |
+| 1942 | [Old Ghosts Wash Away](https://open.spotify.com/track/05PotvxSgOgn43jerFi0a8) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Old Ghosts Wash Away](https://open.spotify.com/album/0Ou8UYSIb2Hm3OAu6B3wvh) | 3:29 |
 
-Snapshot ID: `AAAIGp4Cxei4SY6us/PNpkJYhN8KOMSX`
+Snapshot ID: `AAAIH47jjVuAqsImKFnzjrjYk0yV/r6Z`

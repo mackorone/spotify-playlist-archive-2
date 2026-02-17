@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 168409,
+  "num_followers": 168572,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAADKWYDBs1Sm7GofWXc0LTqh",
+  "snapshot_id": "aZEMgAAAAAD8gnPIICOq/7hpqtNDbe9h",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Of My Love",
         "url": "https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 196853,
       "name": "All Of My Love",
       "url": "https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
     },
     {
       "added_at": null,

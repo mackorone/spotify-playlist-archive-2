@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-432 songs - 19 hr 47 min
+433 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Baby, förlåt!](https://open.spotify.com/track/6J2y7h0XWLMYC39iaqRZpu) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Baby, förlåt!](https://open.spotify.com/album/3gemrsMKHe8MgGrMJa8UcP) | 2:48 | 2022-10-20 | 2022-11-16 |
 | [Bad Booty](https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF) | [Robin Stones](https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bad Booty](https://open.spotify.com/album/47z1O0BS0n7UoSZZFPGt3X) | 2:13 | 2022-06-16 | 2023-05-26 |
 | [Bakis](https://open.spotify.com/track/62RJOw42SeLh4wdPyIJQPw) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Bakis](https://open.spotify.com/album/3gH0m1q8ULRoBMNU8DS45H) | 3:25 | 2022-03-10 | 2022-05-30 |
-| [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 | 2022-05-19 |  |
+| [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 | 2022-05-19 | 2026-02-17 |
 | [Balladen om Morgan Kane](https://open.spotify.com/track/6mdY8t48E0adwWPOEt1tSS) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Fri som fuglen](https://open.spotify.com/album/2tC4KKNpTxONyjF3LYJ6F5) | 3:51 | 2022-03-31 | 2022-04-20 |
 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 | 2021-12-16 |  |
 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 | 2021-12-16 |  |
@@ -180,6 +180,7 @@
 | [Heidis](https://open.spotify.com/track/6KEt31AgbIWvf9EIc4A8UW) | [Jövial](https://open.spotify.com/artist/4J67wA6BzNiosOXRTR6MPf) | [Heidis](https://open.spotify.com/album/4poJNaMxQW1OtK1pZeY33G) | 2:18 | 2022-02-17 | 2022-04-29 |
 | [Heidi´s i kveld](https://open.spotify.com/track/14GK1ZYM4q8bOpRO9bEt2T) | [TuVeia](https://open.spotify.com/artist/07BGSPHXFOdX2Ln6McOd1z) | [Heidi’s i kveld](https://open.spotify.com/album/68z4K2Gpakq9cc0Dlb97Cs) | 2:36 | 2022-05-19 | 2022-07-16 |
 | [Heim Til Nordfjord](https://open.spotify.com/track/2muikWIFUbTklgyhSkDTLF) | [Steinar Engelbrektson](https://open.spotify.com/artist/0OZ0FjkvLXQQrkHCXA2ufM) | [Ekte Speleglede](https://open.spotify.com/album/6aDWhRN1u179ghvcp4sBGi) | 3:20 | 2021-12-16 | 2022-04-17 |
+| [Heimbrygga øl](https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Heimbrygga øl](https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5) | 3:09 | 2026-02-12 |  |
 | [Hej Alla Raggare](https://open.spotify.com/track/294hfH0VbX7jwv4PcyOlgb) | [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi), [Henrik Sæter](https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl) | [Hej Alla Raggare](https://open.spotify.com/album/0OQO569qzb6v881Mzurp1H) | 2:12 | 2022-04-14 | 2022-07-16 |
 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 | 2021-12-16 | 2025-07-13 |
 | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi) | 2:17 | 2024-06-13 | 2025-09-06 |

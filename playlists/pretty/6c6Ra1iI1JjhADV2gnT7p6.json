@@ -6,7 +6,7 @@
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAvTniKmToXVPOyUuRBY6RH0NZJ0wJA",
+  "snapshot_id": "AAAvUZbc0fsIHFDlVCtdnArUXH7SHw2m",
   "tracks": [
     {
       "added_at": "2026-02-14 09:57:45",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "slapshot!",
-        "url": "https://open.spotify.com/album/649wRF7ACBd1JjA6BiC7yj"
-      },
-      "artists": [
-        {
-          "name": "Noble Son",
-          "url": "https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8"
-        }
-      ],
-      "duration_ms": 157338,
-      "name": "slapshot!",
-      "url": "https://open.spotify.com/track/2wb1Inhx2cU3OaZUjvZtB2"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
         "name": "Ice Cream Lover",
         "url": "https://open.spotify.com/album/3LGjbpqb3w7wprIGuIPh9M"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
+        "name": "New Thing",
+        "url": "https://open.spotify.com/album/7s0JL3zSGMkKcUBj7F8NAl"
+      },
+      "artists": [
+        {
+          "name": "Avery Friedman",
+          "url": "https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "New Thing",
+      "url": "https://open.spotify.com/track/2WmmyvbTkePnoUejoibJEM"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/0733Ib9JyMgkIMzxRe2g7b"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 216000,
       "name": "93",
       "url": "https://open.spotify.com/track/5Jms4YoHTT8mfTe8jQUWto"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
-        "name": "New Thing",
-        "url": "https://open.spotify.com/album/7s0JL3zSGMkKcUBj7F8NAl"
-      },
-      "artists": [
-        {
-          "name": "Avery Friedman",
-          "url": "https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "New Thing",
-      "url": "https://open.spotify.com/track/2WmmyvbTkePnoUejoibJEM"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -1635,6 +1619,22 @@
       "duration_ms": 254453,
       "name": "Where Do You Go? - Yumi Zouma Remix",
       "url": "https://open.spotify.com/track/02lncAlkgQ7mBgzJxLX1E0"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
+        "name": "slapshot!",
+        "url": "https://open.spotify.com/album/649wRF7ACBd1JjA6BiC7yj"
+      },
+      "artists": [
+        {
+          "name": "Noble Son",
+          "url": "https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8"
+        }
+      ],
+      "duration_ms": 157338,
+      "name": "slapshot!",
+      "url": "https://open.spotify.com/track/2wb1Inhx2cU3OaZUjvZtB2"
     },
     {
       "added_at": "2026-02-14 09:57:45",

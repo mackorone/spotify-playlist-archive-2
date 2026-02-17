@@ -939,22 +939,6 @@
     {
       "added_at": "2026-02-13 05:00:30",
       "album": {
-        "name": "Cold Times",
-        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
-      },
-      "artists": [
-        {
-          "name": "Brent Cowles",
-          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Cold Times",
-      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
-    },
-    {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
         "name": "Wait Til I Get Over",
         "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Cold Times",
+        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
+      },
+      "artists": [
+        {
+          "name": "Brent Cowles",
+          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Cold Times",
+      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
     },
     {
       "added_at": "2026-02-13 05:00:30",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-02-13 05:00:30",
       "album": {
+        "name": "Grace Love and the True Loves",
+        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
+      },
+      "artists": [
+        {
+          "name": "Grace Love and the True Loves",
+          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Nobody Sweeter",
+      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
-    },
-    {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
-        "name": "Grace Love and the True Loves",
-        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
-      },
-      "artists": [
-        {
-          "name": "Grace Love and the True Loves",
-          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Nobody Sweeter",
-      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
     },
     {
       "added_at": "2026-02-13 05:00:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-13 05:00:30",
       "album": {
-        "name": "Sister Andre",
-        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "Sister Andre",
-      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
-    },
-    {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
         "name": "King of Bohemia",
         "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 218749,
       "name": "King of Bohemia",
       "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Sister Andre",
+        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Sister Andre",
+      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
     },
     {
       "added_at": "2026-02-13 05:00:30",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-02-13 05:00:30",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
-    },
-    {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
         "name": "How Do You Get By",
         "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 250614,
       "name": "How Do You Get By",
       "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
     },
     {
       "added_at": "2026-02-13 05:00:30",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-13 05:00:30",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD"
-      },
-      "artists": [
-        {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
-        }
-      ],
-      "duration_ms": 182458,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP"
-    },
-    {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
         "name": "Theosophy",
         "url": "https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs"
       },
@@ -1435,6 +1419,38 @@
       "duration_ms": 225098,
       "name": "Hang My Head in Shame",
       "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 182458,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP"
+    },
+    {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw"
+      },
+      "artists": [
+        {
+          "name": "Meghan Linsey",
+          "url": "https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ"
     },
     {
       "added_at": "2026-02-13 05:00:30",
@@ -1475,34 +1491,18 @@
     {
       "added_at": "2026-02-13 05:00:30",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw"
+        "name": "Watermelon Oranges",
+        "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
       "artists": [
         {
-          "name": "Meghan Linsey",
-          "url": "https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
-        "name": "Who's Gonna Love You When I'm Gone",
-        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Who's Gonna Love You When I'm Gone",
-      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
+      "duration_ms": 207613,
+      "name": "Don't Please Yourself",
+      "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
     }
   ],
   "unique_name": "the new retro",

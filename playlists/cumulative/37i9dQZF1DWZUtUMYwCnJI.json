@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Ignis -\u30a4\u30b0\u30cb\u30b9-",
+        "url": "https://open.spotify.com/album/0eunkMwTfuXGA2wZezmVNF"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "Ignis -\u30a4\u30b0\u30cb\u30b9-",
+      "url": "https://open.spotify.com/track/1NhM7fLXtADQqmOUDpX7gd"
+    },
+    {
+      "album": {
         "name": "TV Animation \u201dFire Force\u201d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv"
       },

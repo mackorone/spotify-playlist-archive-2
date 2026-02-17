@@ -4,7 +4,7 @@
 
 > De Jaren 80 playlist met de grootste hits uit de jaren 80 en 80s\. Met o.a\. Kate Bush, Prince, David Bowie, a\-ha, Phil Collins, Talking Heads en nog veel meer! Foto: Prince \| Jaren 80 hits \- Jaren 80
 
-108 songs - 7 hr 32 min
+110 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Want to Know What Love Is](https://open.spotify.com/track/6OwUxr8IBE8UYRanTPqZ9f) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Jaren 80](https://open.spotify.com/album/0XDy99BWQMKgIstRvMe9Ix) | 5:04 | 2025-07-19 |  |
 | [I Would Die 4 U \- 2015 Paisley Park Remaster](https://open.spotify.com/track/0gncmZNxsrISpW2U39PtF5) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 2:49 | 2025-07-19 |  |
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2025-07-19 |  |
+| [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 | 2026-02-16 |  |
 | [I'm On Fire](https://open.spotify.com/track/4bSWx86yHmy6OOMsQPU60F) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/14IYDXybb1XKu51QHDryak) | 2:34 | 2025-07-19 |  |
 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 | 2025-07-19 |  |
 | [It's a Sin](https://open.spotify.com/track/3GNwCZIv4xKUiyoaQfj9Ah) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 5:01 | 2025-07-19 |  |
@@ -78,6 +79,7 @@
 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 | 2025-07-19 |  |
 | [Only When You Leave \- 2010 Remaster](https://open.spotify.com/track/4J9RF6DuQ1wX0EspW3staI) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Parade \(Special Edition\)](https://open.spotify.com/album/6C5ktlLLpGRMLYFQsTEEU1) | 5:11 | 2025-07-19 |  |
 | [Owner of a Lonely Heart](https://open.spotify.com/track/7j5ZrrWavb7LIPopu0CPV6) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Jaren 80](https://open.spotify.com/album/0XDy99BWQMKgIstRvMe9Ix) | 4:28 | 2025-07-19 |  |
+| [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 | 2026-02-16 |  |
 | [People Are People \- 2006 Remaster](https://open.spotify.com/track/5u26GXPlKASV67BpnZ7n5Z) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:44 | 2025-07-19 |  |
 | [Private Dancer \- Single Edit](https://open.spotify.com/track/623ZeL2lWuz5v03TVkRBZa) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:02 | 2025-07-19 |  |
 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2026-01-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643 likes - 154 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 644 likes - 154 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 37 | [I Don't Mind](https://open.spotify.com/track/06XRQBBz4XuOyDAlBZUxnh) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town](https://open.spotify.com/album/4fqNWJL8PQEt6eRX6AJ08Q) | 4:12 |
 | 38 | [Snibor](https://open.spotify.com/track/2F0rgoXIb1xx7tTWZBS3Cu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 |
 | 39 | [Imagine My Frustration](https://open.spotify.com/track/1xyeSKAwSndIk52wwkRPms) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella At Duke's Place](https://open.spotify.com/album/1pznhTLv7PV8Lx9lqMJJ5I) | 4:51 |
-| 40 | [Duke Ellington Medley \- Live](https://open.spotify.com/track/0SrJrHWV3abLD4h7KUONN2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Classic Concert Live](https://open.spotify.com/album/0aGbP1QfJ6beGHdSLPyVXU) | 5:24 |
-| 41 | [On the Wrong Side of the Railroad Tracks](https://open.spotify.com/track/3sEbCLAkVB1FmdXdJUverM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Duke Elegant](https://open.spotify.com/album/32944vJtxt5vMbR8dAMViB) | 5:42 |
+| 40 | [On the Wrong Side of the Railroad Tracks](https://open.spotify.com/track/3sEbCLAkVB1FmdXdJUverM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Duke Elegant](https://open.spotify.com/album/32944vJtxt5vMbR8dAMViB) | 5:42 |
+| 41 | [Duke Ellington Medley \- Live](https://open.spotify.com/track/0SrJrHWV3abLD4h7KUONN2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Classic Concert Live](https://open.spotify.com/album/0aGbP1QfJ6beGHdSLPyVXU) | 5:24 |
 | 42 | [Strange Feeling](https://open.spotify.com/track/70shQlAT7pBE869zizxBs1) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:40 |
 | 43 | [Sonnet for Caesar](https://open.spotify.com/track/3ePKylz8H0t1sNI1yBh5sS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:56 |
 | 44 | [Multi\-Colored Blue](https://open.spotify.com/track/5yOfOxh7w2NgMIvS9rMtqb) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6jLzz5vXJ760qXUA6fO5Ve) | 6:29 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 153 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 154 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `AcJxFgAAAADbKr60Lrv8JneAdZPf2Hta`
+Snapshot ID: `AcJ2tgAAAADL8vAmr2T83+oHUZDkXMh5`

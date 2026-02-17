@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Arron Rebustes
 
-746 songs - 1 day 22 hr 16 min
+747 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ako nalang](https://open.spotify.com/track/3Ujf4wZ44Yx4MAcnQnufUN) | [NIO](https://open.spotify.com/artist/3xkS4OmxFVJbJ3IlAv30qH), [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Ako nalang](https://open.spotify.com/album/1VD9Ud7e7xPFmLUXucqLy8) | 3:41 | 2024-12-25 | 2025-04-16 |
 | [ako naman muna](https://open.spotify.com/track/5A8SptsfoUXm7VG9SKYq2c) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [ako naman muna](https://open.spotify.com/album/3IEwCyyO2u3pcyTgX4FKeQ) | 3:04 | 2025-11-07 | 2026-01-24 |
 | [akong ako](https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2) | [dana paulene](https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA) | [akong ako](https://open.spotify.com/album/4PP76TdEXfunxuGXh9MkL5) | 3:29 | 2025-11-13 | 2026-02-03 |
+| [Alanganin](https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Alanganin](https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp) | 3:57 | 2026-02-16 |  |
 | [Ale](https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [The Bloomfields](https://open.spotify.com/album/17675v1WFduEKG9WV1iolH) | 3:50 | 2026-01-19 |  |
 | [Aling Nena](https://open.spotify.com/track/71FhQiBcPUBfSpyDrHSMwB) | [Chinese Garden](https://open.spotify.com/artist/0j4J1A5gakLfhwdxJHl9fr) | [Aling Nena](https://open.spotify.com/album/64AIHIDjmok8A8EqjJlfxM) | 3:30 | 2026-02-07 |  |
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-14 | 2025-11-22 |
@@ -208,7 +209,7 @@
 | [Halika Na Lika Na](https://open.spotify.com/track/3lT2jcmbOgFFI3X74wkrCK) | [Maxie Andreison](https://open.spotify.com/artist/2QuQBf81nBbfyLSQcTvXtl) | [Halika Na Lika Na](https://open.spotify.com/album/5wwXG9V7cPt5FtMYr8JQgB) | 2:44 | 2025-04-15 | 2025-06-21 |
 | [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 | 2024-08-14 | 2024-11-21 |
 | [Hanapin Ang Sarili \(Original Soundtrack\)](https://open.spotify.com/track/1KQyv34wwqIhPLthXNzaho) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Hanapin Ang Sarili \(Original Soundtrack\)](https://open.spotify.com/album/7auRPLqx3X6Ki0McTLSYwS) | 2:31 | 2025-03-10 | 2025-05-24 |
-| [Hand in Hand](https://open.spotify.com/track/7Lv9Wl56RDyXCYAEZJOw8u) | [FINIX](https://open.spotify.com/artist/6S937I133zM6smIrbfAVJt) | [Hand in Hand](https://open.spotify.com/album/6ge1vciTRjuaVnb3AdEvgf) | 2:59 | 2025-12-08 |  |
+| [Hand in Hand](https://open.spotify.com/track/7Lv9Wl56RDyXCYAEZJOw8u) | [FINIX](https://open.spotify.com/artist/6S937I133zM6smIrbfAVJt) | [Hand in Hand](https://open.spotify.com/album/6ge1vciTRjuaVnb3AdEvgf) | 2:59 | 2025-12-08 | 2026-02-17 |
 | [Handa Na](https://open.spotify.com/track/5LFrdalPULz4htOdtZH6Qs) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Handa Na](https://open.spotify.com/album/1LTLb5DBP9PXSqJ1qeyEAM) | 3:04 | 2024-10-18 | 2025-03-01 |
 | [Handa Na Akong Sumugal](https://open.spotify.com/track/2DrmHtlsnDVy7nCh69nrWX) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [Handa Na Akong Sumugal](https://open.spotify.com/album/4Ojq8SHd9qGb5xifo0vCq7) | 4:24 | 2025-11-17 | 2026-01-27 |
 | [Hanggang Kailan](https://open.spotify.com/track/2i1TTUWdQlntOpxMZKVzf9) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Hanggang Kailan](https://open.spotify.com/album/1d8wq7e8BiL3c0RVdiDju3) | 3:53 | 2024-07-02 | 2024-07-13 |

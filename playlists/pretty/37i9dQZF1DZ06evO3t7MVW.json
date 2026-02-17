@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 93837,
+  "num_followers": 93856,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAABr6xYG5qutPtOgwvFYJYFf",
+  "snapshot_id": "aZEMgAAAAAD84bEhC3Gd9j/bmjgv/0qf",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+        "name": "Home (with Stick Figure)",
+        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         },
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 305493,
-      "name": "Choice Is Yours (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
+      "duration_ms": 210182,
+      "name": "Home (with Stick Figure)",
+      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
     },
     {
       "added_at": null,
@@ -455,22 +455,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (with Stick Figure)",
-        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Choice Is Yours (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hopes and Dreams",
+        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
+      },
+      "artists": [
+        {
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 210182,
-      "name": "Home (with Stick Figure)",
-      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
+      "duration_ms": 233810,
+      "name": "Livin' Easy",
+      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,
@@ -495,26 +515,6 @@
       "duration_ms": 274498,
       "name": "Got Me On The Run (with Stick Figure and Pepper)",
       "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hopes and Dreams",
-        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
-      },
-      "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 233810,
-      "name": "Livin' Easy",
-      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,

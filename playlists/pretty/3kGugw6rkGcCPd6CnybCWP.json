@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANSxOQPBEnzdxQhAPmHpl5K5kd1WDg",
+  "snapshot_id": "AAANTpTyHu1+M7M6PPZxTHcmAUJrsAEH",
   "tracks": [
     {
       "added_at": "2026-02-07 16:20:06",
@@ -1267,6 +1267,54 @@
       "duration_ms": 192125,
       "name": "Semi-Virgin",
       "url": "https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo"
+    },
+    {
+      "added_at": "2026-02-16 08:04:38",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg"
+      },
+      "artists": [
+        {
+          "name": "Sole",
+          "url": "https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX"
+    },
+    {
+      "added_at": "2026-02-16 08:04:53",
+      "album": {
+        "name": "Colours They Don't See",
+        "url": "https://open.spotify.com/album/020hrMuM4OcrEgZ88aEfQD"
+      },
+      "artists": [
+        {
+          "name": "False Perspective",
+          "url": "https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy"
+        }
+      ],
+      "duration_ms": 199831,
+      "name": "Colours They Don't See",
+      "url": "https://open.spotify.com/track/0FwGNBbGSDIg6NCnhCIxT3"
+    },
+    {
+      "added_at": "2026-02-16 08:05:26",
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/3Mkk2I7FdtnPRIczgmA1wF"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 216561,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1432943,
+  "num_followers": 1433001,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAABYlFdCb6RKKmPpJ3IwBAXv",
+  "snapshot_id": "aZEMgAAAAAAkFrlu6hXFmsJhFXp/S0wS",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 212760,
-      "name": "Tally",
-      "url": "https://open.spotify.com/track/0DGf6s54MQ3Oht41mj6s6K"
+      "duration_ms": 203826,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 203826,
-      "name": "Drum Show",
-      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
+      "duration_ms": 212760,
+      "name": "Tally",
+      "url": "https://open.spotify.com/track/0DGf6s54MQ3Oht41mj6s6K"
     },
     {
       "added_at": null,

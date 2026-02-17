@@ -1,15 +1,15 @@
 {
   "description": "Altijd frisse hits! Cover: ZAYN",
-  "num_followers": 35104,
+  "num_followers": 35099,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADXmoDhGNMneMYQkaMNY2cVrPLUn",
+  "snapshot_id": "AAAAAKDAt5Qqei9V+vduwAZBfz4MF834",
   "tracks": [
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Die For Me",
         "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
@@ -25,23 +25,31 @@
       "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
-        "name": "WTBBA?!",
-        "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
+        "name": "Op Een Go",
+        "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
       },
       "artists": [
         {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA"
         }
       ],
-      "duration_ms": 205565,
-      "name": "WTBBA?!",
-      "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
+      "duration_ms": 177346,
+      "name": "Op Een Go",
+      "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Zijn Probleem",
         "url": "https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML"
@@ -57,7 +65,63 @@
       "url": "https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
+      "album": {
+        "name": "Birkin Bag",
+        "url": "https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        },
+        {
+          "name": "Latifah",
+          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Birkin Bag",
+      "url": "https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5"
+    },
+    {
+      "added_at": "2026-02-16 09:00:06",
+      "album": {
+        "name": "Hoe Dan Ook",
+        "url": "https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8"
+      },
+      "artists": [
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        },
+        {
+          "name": "Babet",
+          "url": "https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh"
+        }
+      ],
+      "duration_ms": 173030,
+      "name": "Hoe Dan Ook",
+      "url": "https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8"
+    },
+    {
+      "added_at": "2026-02-16 09:00:06",
+      "album": {
+        "name": "WTBBA?!",
+        "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 205565,
+      "name": "WTBBA?!",
+      "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
+    },
+    {
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
@@ -81,7 +145,23 @@
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
+      "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Tot Het Eind Van Mij",
         "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
@@ -97,7 +177,7 @@
       "url": "https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "POSSESSION",
         "url": "https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip"
@@ -113,7 +193,31 @@
       "url": "https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
+      "album": {
+        "name": "Dure Geintje",
+        "url": "https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 136802,
+      "name": "Dure Geintje",
+      "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
+    },
+    {
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw"
@@ -133,7 +237,7 @@
       "url": "https://open.spotify.com/track/0aF8AteBjXo1mh3Yrc8ge4"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
@@ -153,7 +257,7 @@
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Dansvloer Dilemma",
         "url": "https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF"
@@ -169,7 +273,7 @@
       "url": "https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Januari",
         "url": "https://open.spotify.com/album/6xe6bnCzdGhuWI5PUl3qpp"
@@ -189,7 +293,7 @@
       "url": "https://open.spotify.com/track/6bEUzaKcHiKH5B9L1eH9Rc"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
@@ -205,7 +309,7 @@
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -221,7 +325,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -241,7 +345,7 @@
       "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "girl, get up. (feat. SZA)",
         "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
@@ -261,7 +365,7 @@
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
@@ -285,7 +389,7 @@
       "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "NO DAYS OFF",
         "url": "https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc"
@@ -305,7 +409,7 @@
       "url": "https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/42tGduNh3nIT5NGsUDqcKY"
@@ -321,7 +425,7 @@
       "url": "https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "GIOVANNI II",
         "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
@@ -341,7 +445,7 @@
       "url": "https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "In De Olie",
         "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
@@ -357,7 +461,7 @@
       "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "AMG Met Matje",
         "url": "https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP"
@@ -377,7 +481,7 @@
       "url": "https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
@@ -393,7 +497,7 @@
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Dark Before The Dawn",
         "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
@@ -409,7 +513,7 @@
       "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "You Stole The Show",
         "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
@@ -425,7 +529,7 @@
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
@@ -441,23 +545,7 @@
       "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Private Party",
-        "url": "https://open.spotify.com/album/0YhnjhkoSSVrXu0jphHtuI"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Private Party",
-      "url": "https://open.spotify.com/track/53fXpvHCU7XZLs0mqCIDNR"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "De Ene Hand Wast De Ander (Deluxe)",
         "url": "https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5"
@@ -473,7 +561,7 @@
       "url": "https://open.spotify.com/track/1jP8mOe5joQg5isHUTukcg"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Echte Liefde Is Te Koop - Spotify Singles",
         "url": "https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9"
@@ -489,7 +577,7 @@
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -505,7 +593,7 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Winterbanden",
         "url": "https://open.spotify.com/album/1iGu5Gm0mCfwJ1eO6chiza"
@@ -521,7 +609,7 @@
       "url": "https://open.spotify.com/track/0S1jSwK33ilIaRwmPlWnvV"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Te Laat",
         "url": "https://open.spotify.com/album/6yiJCRKHqOcVrPFfBh2wqf"
@@ -541,7 +629,7 @@
       "url": "https://open.spotify.com/track/1QQAb1GolryJk3F9tvf7mY"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "If Not Now Then When",
         "url": "https://open.spotify.com/album/4BK0XMjnJQfMWgQWgyii8b"
@@ -557,7 +645,7 @@
       "url": "https://open.spotify.com/track/4bVs6e8fpoS9sVPDHp7oo9"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "BEND OVA",
         "url": "https://open.spotify.com/album/5tOsyH5JHocaAJBojCyCNL"
@@ -577,7 +665,7 @@
       "url": "https://open.spotify.com/track/05wK2fpzjb29klShjaamxJ"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "OMG YES",
         "url": "https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Kroegentocht",
         "url": "https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP"
@@ -621,23 +709,7 @@
       "url": "https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "MON B\u00c9B\u00c9",
-        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "MON B\u00c9B\u00c9",
-      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "First Rodeo",
         "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
@@ -653,7 +725,7 @@
       "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "SO CLOSE TO WHAT??? (deluxe)",
         "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
@@ -669,7 +741,7 @@
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Hey Son",
         "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
@@ -697,7 +769,7 @@
       "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "silent treatment",
         "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
@@ -713,23 +785,7 @@
       "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
     },
     {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "FEAR",
-        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 268519,
-      "name": "FEAR",
-      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
+      "added_at": "2026-02-16 09:00:06",
       "album": {
         "name": "Dans Gewoon",
         "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"

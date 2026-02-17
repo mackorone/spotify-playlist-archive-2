@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0646\u062e\u0628\u0629 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636 ",
+  "description": "\u0646\u062e\u0628\u0629 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0628\u062d \u0635\u0642\u0631 ",
   "name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 220187,
       "name": "Akhathet Be Khtrek",
       "url": "https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0"
@@ -410,6 +410,24 @@
       "duration_ms": 259191,
       "name": "Al Sourah",
       "url": "https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW"
+    },
+    {
+      "album": {
+        "name": "Haflet Mkamleen Maakom 2021",
+        "url": "https://open.spotify.com/album/3L251cDL3ZqcnXlCsCSFsU"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513620,
+      "name": "Ala Kathher Alqased",
+      "url": "https://open.spotify.com/track/3w7kmEsYAoWdDin6YH8HDb"
     },
     {
       "album": {

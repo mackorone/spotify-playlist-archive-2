@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 592,
+  "num_followers": 594,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADCqCZ1sSPkOjRXTPQP/xoCA3b2Hcz",
+  "snapshot_id": "AAADDGabawdafedeSS8SDsa6r0GXZdZr",
   "tracks": [
     {
       "added_at": "2026-02-15 20:35:35",
@@ -987,6 +987,38 @@
       "duration_ms": 123714,
       "name": "lovergirl",
       "url": "https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX"
+    },
+    {
+      "added_at": "2026-02-16 19:24:58",
+      "album": {
+        "name": "Ridiculous",
+        "url": "https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH"
+      },
+      "artists": [
+        {
+          "name": "Jody Lo",
+          "url": "https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2"
+        }
+      ],
+      "duration_ms": 148604,
+      "name": "Ridiculous",
+      "url": "https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII"
+    },
+    {
+      "added_at": "2026-02-16 19:32:31",
+      "album": {
+        "name": "Happy Pills",
+        "url": "https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 181438,
+      "name": "Happy Pills",
+      "url": "https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

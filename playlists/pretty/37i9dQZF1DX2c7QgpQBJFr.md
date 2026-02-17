@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 💔  cover: Carla Hero
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,863 likes - 107 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,867 likes - 107 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,19 +21,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 11 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
 | 12 | [mezzocuore](https://open.spotify.com/track/1OVaaxmOvDlDAiyQNfNk3p) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CHE ME NE FACCIO DEL TEMPO](https://open.spotify.com/album/7wo8Dh80MUfpde8P135MQR) | 2:16 |
 | 13 | [solo solissimo](https://open.spotify.com/track/2KqKsaXttrkC7Qbc493cH9) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [solo solissimo](https://open.spotify.com/album/6MeFwwWwuXzMjoh12g0wF2) | 3:19 |
-| 14 | [Mi ritroverai](https://open.spotify.com/track/3nSsqK9EEhtgRrL1dMAzBY) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:57 |
-| 15 | [Il brivido della vita](https://open.spotify.com/track/0P4wjuZdQvFkMYqDYiM9EF) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 3:06 |
-| 16 | [Sì lo so](https://open.spotify.com/track/2rObCku06FZAuc3PjD1fzS) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sì lo so](https://open.spotify.com/album/0wsU3VGqlxMCPka5elQoLS) | 3:17 |
-| 17 | [Vanagloria](https://open.spotify.com/track/1xTjMkjpcfHMKVSAWMjhS4) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Vanagloria](https://open.spotify.com/album/6U4meIqdidImHWIqqvkD48) | 3:24 |
-| 18 | [LA MIA STORIA](https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [LA MIA STORIA](https://open.spotify.com/album/0X4TvG3ega6RMF80j60Jmd) | 2:53 |
-| 19 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
-| 20 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
-| 21 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 |
-| 22 | [RoseRovi](https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [RoseRovi](https://open.spotify.com/album/48HGfVfD57X1WDlWj3m9Yo) | 2:17 |
-| 23 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
-| 24 | [Tango](https://open.spotify.com/track/0CBfT5XGGy84vXDLcUyR6o) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [Tango](https://open.spotify.com/album/174Piu70FpxnyZRJ0n1iep) | 3:06 |
-| 25 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
-| 26 | [LEI](https://open.spotify.com/track/5AJzeQyIOiPnHkojKzYIv8) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [LEI](https://open.spotify.com/album/7LD1dwR6RnMlZwG5JAXvRz) | 2:01 |
+| 14 | [LEI](https://open.spotify.com/track/5AJzeQyIOiPnHkojKzYIv8) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [LEI](https://open.spotify.com/album/7LD1dwR6RnMlZwG5JAXvRz) | 2:01 |
+| 15 | [Mi ritroverai](https://open.spotify.com/track/3nSsqK9EEhtgRrL1dMAzBY) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:57 |
+| 16 | [Il brivido della vita](https://open.spotify.com/track/0P4wjuZdQvFkMYqDYiM9EF) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 3:06 |
+| 17 | [Sì lo so](https://open.spotify.com/track/2rObCku06FZAuc3PjD1fzS) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sì lo so](https://open.spotify.com/album/0wsU3VGqlxMCPka5elQoLS) | 3:17 |
+| 18 | [Vanagloria](https://open.spotify.com/track/1xTjMkjpcfHMKVSAWMjhS4) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Vanagloria](https://open.spotify.com/album/6U4meIqdidImHWIqqvkD48) | 3:24 |
+| 19 | [LA MIA STORIA](https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [LA MIA STORIA](https://open.spotify.com/album/0X4TvG3ega6RMF80j60Jmd) | 2:53 |
+| 20 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
+| 21 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
+| 22 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 |
+| 23 | [RoseRovi](https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [RoseRovi](https://open.spotify.com/album/48HGfVfD57X1WDlWj3m9Yo) | 2:17 |
+| 24 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
+| 25 | [Tango](https://open.spotify.com/track/0CBfT5XGGy84vXDLcUyR6o) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [Tango](https://open.spotify.com/album/174Piu70FpxnyZRJ0n1iep) | 3:06 |
+| 26 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
 | 27 | [Sophie](https://open.spotify.com/track/654mOblPhyaLwijkaHizlP) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Sophie](https://open.spotify.com/album/17NF2jp9hkPy5Y3ZKvaHhM) | 3:21 |
 | 28 | [Dritti all’Inferno](https://open.spotify.com/track/2WdRkdtr4WyQeD1nokrJK3) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Dritti all’Inferno](https://open.spotify.com/album/2aHb4fON2gDqJ7cUWoPNTj) | 2:46 |
 | 29 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 106 | [Truman](https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Truman](https://open.spotify.com/album/7wL5KaHBoQXjBafA5nqdP2) | 2:23 |
 | 107 | [Lupo](https://open.spotify.com/track/6Xor8h6MTmxcpt99DgR3bl) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Lupo](https://open.spotify.com/album/0ePE6lDiP6xKXGlZBGvzwR) | 3:30 |
 
-Snapshot ID: `AAAAADFJ2P7pPOWHsxe8oWptQ92k4sj2`
+Snapshot ID: `AAAAAEbyqY3jTgq6Si81vKi6zP34y5Gw`

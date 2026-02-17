@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 166000,
       "name": "5, 4, 3 (Pretty woman) (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 214000,
       "name": "Backseat Promises",
       "url": "https://open.spotify.com/track/1TIcSWViv0dea0exVZmSwr"
@@ -2068,6 +2068,48 @@
       "duration_ms": 180000,
       "name": "BTTF",
       "url": "https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK"
+    },
+    {
+      "album": {
+        "name": "BUBBLE",
+        "url": "https://open.spotify.com/album/2LXm6lXGPp5KGlSbu0dlY4"
+      },
+      "artists": [
+        {
+          "name": "MANATO",
+          "url": "https://open.spotify.com/artist/43b09Smxzd2ktv6NpHZtBk"
+        },
+        {
+          "name": "KAIRYU",
+          "url": "https://open.spotify.com/artist/7HEUaKo6XaZ3UZtD9TuWi9"
+        },
+        {
+          "name": "REIKO",
+          "url": "https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96"
+        },
+        {
+          "name": "KANON",
+          "url": "https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo"
+        },
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        },
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187213,
+      "name": "BUBBLE",
+      "url": "https://open.spotify.com/track/3jDXiNCLN2Kq2NWkkteTGP"
     },
     {
       "album": {
@@ -12007,6 +12049,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
+    },
+    {
+      "album": {
         "name": "Just like \u8d85\u7279\u6025",
         "url": "https://open.spotify.com/album/5vk1IqGTHZ5qJHaTcS8EU5"
       },
@@ -13540,7 +13600,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 224493,
       "name": "UNISON",
       "url": "https://open.spotify.com/track/6NRbkFFCQ0SWOzB1tiYIG7"
@@ -16438,6 +16498,24 @@
       "duration_ms": 220833,
       "name": "\u904b\u547d\u306a\u3093\u3066",
       "url": "https://open.spotify.com/track/2RWXEC5nKl9KjFJKC8LlWi"
+    },
+    {
+      "album": {
+        "name": "\u9670\u30cb\u30e2\u65e5\u5411\u30cb\u30e2",
+        "url": "https://open.spotify.com/album/5D3EbXidSXzvqtBGSe9J4Y"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "\u9670\u30cb\u30e2\u65e5\u5411\u30cb\u30e2",
+      "url": "https://open.spotify.com/track/4CKbEGHtFbhX2V9LNLwY6U"
     },
     {
       "album": {

@@ -2493,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "Happy Pills",
+        "url": "https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181438,
+      "name": "Happy Pills",
+      "url": "https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3"
+    },
+    {
+      "album": {
         "name": "Hazte oir",
         "url": "https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv"
       },
@@ -4576,6 +4594,24 @@
       "duration_ms": 196348,
       "name": "Recorramos La Ciudad",
       "url": "https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o"
+    },
+    {
+      "album": {
+        "name": "Ridiculous",
+        "url": "https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH"
+      },
+      "artists": [
+        {
+          "name": "Jody Lo",
+          "url": "https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148604,
+      "name": "Ridiculous",
+      "url": "https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII"
     },
     {
       "album": {

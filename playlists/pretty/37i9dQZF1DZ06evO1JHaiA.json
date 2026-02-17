@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 3081,
+  "num_followers": 3082,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aY+7AAAAAABmRx3DB0F3rPGlFGu1COGu",
+  "snapshot_id": "aZEMgAAAAACLc98TIgDEKeMK/X53j1+q",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166533,
-      "name": "Gonna Be Strong",
-      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
+      "duration_ms": 145160,
+      "name": "Slow Drag",
+      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 145160,
-      "name": "Slow Drag",
-      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
+      "duration_ms": 166533,
+      "name": "Gonna Be Strong",
+      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
     },
     {
       "added_at": null,

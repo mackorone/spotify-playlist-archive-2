@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,711 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,932 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 88 | [To The Club](https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [To The Club](https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o) | 3:00 |
 | 89 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
 | 90 | [Lola's Theme \- Tripolism Remix](https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Lola's Theme \(Tripolism Remix\)](https://open.spotify.com/album/75NCYiWBnt9eptrKPv13NX) | 3:39 |
-| 91 | [TAKE YOU HOME](https://open.spotify.com/track/5OgVrx9nCaokXlgyHPIyIl) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Apex Martin](https://open.spotify.com/artist/6DcdyoaAmWtdusCIC3iJdR), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc), [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [TAKE YOU HOME](https://open.spotify.com/album/4AhV8Gy8ltM8UBO7nFJCmQ) | 4:06 |
-| 92 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
+| 91 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
+| 92 | [TAKE YOU HOME](https://open.spotify.com/track/5OgVrx9nCaokXlgyHPIyIl) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Apex Martin](https://open.spotify.com/artist/6DcdyoaAmWtdusCIC3iJdR), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc), [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [TAKE YOU HOME](https://open.spotify.com/album/4AhV8Gy8ltM8UBO7nFJCmQ) | 4:06 |
 | 93 | [She’s Gone, Dance On \(Carlita Remix\)](https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [She’s Gone, Dance On \(Carlita Remix\)](https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt) | 3:34 |
 | 94 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |
 | 95 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |

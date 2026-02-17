@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date\. Updated 15 Feb 14:10 UTC.
+> Latest popular single releases\. Sorted by release date\. Updated 17 Feb 23:10 UTC.
 
-6,195 songs - 14 day 8 hr 56 min
+6,197 songs - 14 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Action Man](https://open.spotify.com/track/7dLLz12wpIlqFXlmKUTmHN) | [Pete & Bas](https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt) | [Action Man](https://open.spotify.com/album/626RTXTdMdR3wPCMygInnv) | 2:34 | 2024-11-07 | 2024-11-09 |
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-08-07 | 2024-08-09 |
 | [ADD](https://open.spotify.com/track/0dvYFq6liofBwiLQnlr5f9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [ADD](https://open.spotify.com/album/1AOSAxjs4NwTjxN3k0OBvW) | 2:08 | 2025-10-07 | 2025-10-18 |
+| [Addict](https://open.spotify.com/track/1zzenAtdKuh6VsRfwzACGf) | [Lil Twist](https://open.spotify.com/artist/564gvOqSRcQoYAhaBpTiK2), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Addict](https://open.spotify.com/album/2aUtlGvt2w8EYmOb9zOVJm) | 3:33 | 2026-02-16 |  |
 | [ADHD](https://open.spotify.com/track/3oXIFl4jc2HJ9DqVfFhuaf) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [ADHD](https://open.spotify.com/album/6ao4FQGyGKMMVIwr29cT6N) | 4:33 | 2025-04-04 | 2025-04-12 |
 | [ADHD](https://open.spotify.com/track/78u5VoZnPetcm1KVzkLsO3) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [ADHD](https://open.spotify.com/album/2XplKfwnm8fGcjd2zag15X) | 2:05 | 2024-10-05 | 2024-10-10 |
 | [Adolf Hitler is My Nigga](https://open.spotify.com/track/3BK57KCIuDXAx3yAJ8FZlQ) | [Yung Oogway](https://open.spotify.com/artist/5A5NJ5KyZtwBOvpmSM6VjQ), [Master Oogway](https://open.spotify.com/artist/2opKsUNsav4ZAMYQt5KF3C) | [Adolf Hitler is My Nigga](https://open.spotify.com/album/2TfwCQeUos5VczcY0Erea4) | 1:49 | 2024-05-21 | 2024-05-23 |
@@ -1853,6 +1854,7 @@
 | [Feral](https://open.spotify.com/track/2saSHFvn4saR7wQ4V19FFO) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [Feral](https://open.spotify.com/album/4G0g8bMAFcsycWz9aS8cBX) | 3:19 | 2025-04-05 | 2025-04-12 |
 | [Ferraris In The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Ferraris in The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg) | 3:04 | 2024-09-10 | 2024-09-13 |
 | [Ferry Lady](https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ferry Lady](https://open.spotify.com/album/1CwMlbr0CQJxdPQtlcLFT4) | 4:42 | 2025-01-06 | 2025-01-18 |
+| [Ferto](https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ferto](https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV) | 3:00 | 2026-02-16 |  |
 | [Feël no wayz \(Yeat mix\)](https://open.spotify.com/track/7vE1GgXmR1XUGblvNStFcV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Feël no wayz \(Yeat mix\)](https://open.spotify.com/album/4nCa4szVj059uBQNreGmUu) | 3:50 | 2025-05-04 | 2025-05-15 |
 | [FFFFF](https://open.spotify.com/track/33zsWwMMcJawZoy2h40eNm) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [FFFFF](https://open.spotify.com/album/6zgwKHP92p0cYgndnsk6Jd) | 3:03 | 2025-05-28 | 2025-06-06 |
 | [FGB](https://open.spotify.com/track/7EirEOPQAHgmyhDcIb4SoU) | [LustSickPuppy](https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3) | [FGB](https://open.spotify.com/album/23yKCOVTc36nnPhciih8Pg) | 1:23 | 2025-03-15 | 2025-03-23 |

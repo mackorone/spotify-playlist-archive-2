@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104847,
+  "num_followers": 104848,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,22 @@
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu"
+        "name": "Syd\u00e4n (feat. Alina Burnet)",
+        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
       },
       "artists": [
         {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL"
+      "duration_ms": 225061,
+      "name": "Syd\u00e4n (feat. Alina Burnet)",
+      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -243,22 +247,18 @@
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
-        "name": "Syd\u00e4n (feat. Alina Burnet)",
-        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu"
       },
       "artists": [
         {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        },
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
         }
       ],
-      "duration_ms": 225061,
-      "name": "Syd\u00e4n (feat. Alina Burnet)",
-      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
+      "duration_ms": 144000,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
+        "name": "No Haav No Love",
+        "url": "https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 197141,
+      "name": "No Haav No Love",
+      "url": "https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF"
+    },
+    {
+      "added_at": "2026-02-12 22:00:13",
+      "album": {
         "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
         "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 171280,
       "name": "20:30 (feat. Karim B)",
       "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
-    },
-    {
-      "added_at": "2026-02-12 22:00:13",
-      "album": {
-        "name": "No Haav No Love",
-        "url": "https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 197141,
-      "name": "No Haav No Love",
-      "url": "https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -567,18 +567,22 @@
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
-        "name": "Toimitusjohtaja",
-        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
       "artists": [
         {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
         }
       ],
-      "duration_ms": 165438,
-      "name": "Toimitusjohtaja",
-      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+      "duration_ms": 125135,
+      "name": "Aikuinen mies",
+      "url": "https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -599,22 +603,18 @@
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+        "name": "Toimitusjohtaja",
+        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
       },
       "artists": [
         {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
         }
       ],
-      "duration_ms": 125135,
-      "name": "Aikuinen mies",
-      "url": "https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh"
+      "duration_ms": 165438,
+      "name": "Toimitusjohtaja",
+      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -675,6 +675,26 @@
       "duration_ms": 201187,
       "name": "OMG (feat. Evelina)",
       "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
+    },
+    {
+      "added_at": "2026-02-12 22:00:13",
+      "album": {
+        "name": "et mill\u00e4\u00e4n saa",
+        "url": "https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "et mill\u00e4\u00e4n saa",
+      "url": "https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -759,22 +779,18 @@
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
-        "name": "Cocaina (feat. JVG)",
-        "url": "https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C"
+        "name": "Jos t\u00e4\u00e4 ei oo se",
+        "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
       },
       "artists": [
         {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
         }
       ],
-      "duration_ms": 199671,
-      "name": "Cocaina (feat. JVG)",
-      "url": "https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp"
+      "duration_ms": 180534,
+      "name": "Jos t\u00e4\u00e4 ei oo se",
+      "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -795,38 +811,38 @@
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
-        "name": "Jos t\u00e4\u00e4 ei oo se",
-        "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
+        "name": "Cocaina (feat. JVG)",
+        "url": "https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C"
       },
       "artists": [
         {
-          "name": "Elastinen",
-          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
         }
       ],
-      "duration_ms": 180534,
-      "name": "Jos t\u00e4\u00e4 ei oo se",
-      "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
+      "duration_ms": 199671,
+      "name": "Cocaina (feat. JVG)",
+      "url": "https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp"
     },
     {
       "added_at": "2026-02-12 22:00:13",
       "album": {
-        "name": "et mill\u00e4\u00e4n saa",
-        "url": "https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs"
+        "name": "Sit Ku Mul On Muija",
+        "url": "https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl"
       },
       "artists": [
         {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        },
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
         }
       ],
-      "duration_ms": 174000,
-      "name": "et mill\u00e4\u00e4n saa",
-      "url": "https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL"
+      "duration_ms": 136617,
+      "name": "Sit Ku Mul On Muija",
+      "url": "https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i"
     },
     {
       "added_at": "2026-02-12 22:00:13",
@@ -863,26 +879,6 @@
       "duration_ms": 140296,
       "name": "K\u00e4vin t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
-    },
-    {
-      "added_at": "2026-02-12 22:00:13",
-      "album": {
-        "name": "KATULAPSI",
-        "url": "https://open.spotify.com/album/6wuSr7ftRuj9Q9fDTuJTWB"
-      },
-      "artists": [
-        {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 159300,
-      "name": "Naamat",
-      "url": "https://open.spotify.com/track/3Lp4gjt2Wa3ch8zNHEdegK"
     },
     {
       "added_at": "2026-02-12 22:00:13",

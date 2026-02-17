@@ -4,7 +4,7 @@
 
 > Lo mejor del pop e español\. Foto: Manuel Turizo
 
-861 songs - 1 day 19 hr 15 min
+862 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Al menos ahora](https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:03 | 2023-04-03 | 2023-04-18 |
 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 | 2024-08-19 | 2024-08-30 |
 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 | 2023-05-19 | 2024-04-13 |
-| [alguien debería hablar con Dios](https://open.spotify.com/track/1kYobvwasqdxrsDRgL9ahb) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Íñigo Merino](https://open.spotify.com/artist/4RcxB8P0t3Pz6gaOHTFgWm) | [alguien debería hablar con Dios](https://open.spotify.com/album/435BJP3Td0qQlxtGLeX6QD) | 2:50 | 2026-02-06 |  |
+| [alguien debería hablar con Dios](https://open.spotify.com/track/1kYobvwasqdxrsDRgL9ahb) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Íñigo Merino](https://open.spotify.com/artist/4RcxB8P0t3Pz6gaOHTFgWm) | [alguien debería hablar con Dios](https://open.spotify.com/album/435BJP3Td0qQlxtGLeX6QD) | 2:50 | 2026-02-06 | 2026-02-17 |
 | [ALICANTINA](https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ALICANTINA](https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p) | 2:38 | 2023-12-18 | 2024-02-13 |
 | [Allá Donde Voy](https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Allá Donde Voy](https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu) | 2:29 | 2024-03-18 | 2024-04-02 |
 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-13 | 2025-04-30 |
@@ -178,6 +178,7 @@
 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-06-28 | 2024-09-24 |
 | [Cuando Éramos Felices Sin Saberlo](https://open.spotify.com/track/4xYyFZZ5RVeq25LMjQQDc6) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP), [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Cuando Éramos Felices Sin Saberlo](https://open.spotify.com/album/6s7DL3loATXHLkNYKsBpiu) | 2:50 | 2025-02-17 | 2025-03-18 |
 | [CUARTO MILENIO](https://open.spotify.com/track/10WplxQb6jwrrz65q52Azq) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [CUARTO MILENIO](https://open.spotify.com/album/6AryCVrP8lfwTwPZZTPE8Z) | 2:11 | 2024-10-21 | 2024-10-29 |
+| [CUCARACHEO](https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Jay Kabalan](https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm) | [CUCARACHEO](https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ) | 2:33 | 2026-02-16 |  |
 | [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 | 2023-03-13 | 2023-04-18 |
 | [Culpita del Amor](https://open.spotify.com/track/0xH74lqY87kzzCFodO10kZ) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Culpita del Amor](https://open.spotify.com/album/6mDx7OC8rp6PHsQwCGV1ZU) | 2:37 | 2025-10-20 |  |
 | [Cupido](https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Cupido](https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E) | 2:44 | 2024-06-21 | 2024-10-05 |

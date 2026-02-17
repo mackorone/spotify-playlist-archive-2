@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: TOOBOE
 
-1,610 songs - 4 day 1 hr 13 min
+1,611 songs - 4 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [HERO](https://open.spotify.com/track/2vVZAmp0F7qPyL4jquREKC) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [HERO](https://open.spotify.com/album/7LMPsscRpntcOU7gR7B9wT) | 3:47 | 2024-01-09 | 2024-01-11 |
 | [HERO](https://open.spotify.com/track/420VV3WsaUzKuo9I9C7yxo) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [HERO](https://open.spotify.com/album/3nHFbR7VqRGAFj7g8iLqX1) | 3:47 | 2024-01-10 | 2024-03-13 |
 | [Hey!Calling](https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Hey!Calling](https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC) | 3:57 | 2025-07-08 | 2025-11-05 |
-| [Hibana](https://open.spotify.com/track/264V1w1fw2bSKIs1hCmpN4) | [Gingersamm](https://open.spotify.com/artist/7zJKwa30x2YooSpPCEaNQx) | [Hibana](https://open.spotify.com/album/724LmKmc4AxdmUmqRQ8eOz) | 3:36 | 2026-02-11 |  |
+| [Hibana](https://open.spotify.com/track/264V1w1fw2bSKIs1hCmpN4) | [Gingersamm](https://open.spotify.com/artist/7zJKwa30x2YooSpPCEaNQx) | [Hibana](https://open.spotify.com/album/724LmKmc4AxdmUmqRQ8eOz) | 3:36 | 2026-02-11 | 2026-02-17 |
 | [Hibernating Summer](https://open.spotify.com/track/4NDONMJVVw6m9qBurC9oKl) | [Youth Illustrated](https://open.spotify.com/artist/2kyxpz7sxMDFwnO8IRaOz6) | [Hibernating Summer](https://open.spotify.com/album/1LDEDuLKgLvCyU2Qge9O7H) | 3:39 | 2026-02-11 |  |
 | [Highway Life](https://open.spotify.com/track/08bDvL34CzEfj2Svhd3zt2) | [猫背のネイビーセゾン](https://open.spotify.com/artist/4nb7U1TIRL1MNen0uj3QYN) | [ICE GLEAM](https://open.spotify.com/album/0xon6gJ9rVIPrkpBFsQiwZ) | 3:21 | 2025-09-30 | 2025-10-09 |
 | [Hikho\-Sen](https://open.spotify.com/track/38BcRkgdkAHzNS8OY5fSGB) | [ホピーハイボ](https://open.spotify.com/artist/46lofBjTqDuGe4xoA8JGVA) | [たのしいふゆやすみ](https://open.spotify.com/album/6H6S2EH6apMaT36c9Waf7x) | 2:38 | 2025-02-11 | 2025-02-19 |
@@ -1545,6 +1545,7 @@
 | [花道](https://open.spotify.com/track/2tgAbQ9obqi3ZNCB4tmRK0) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [光華を見つけて](https://open.spotify.com/album/7IVJErMew6EfOEuPdjWEFr) | 4:03 | 2023-12-05 | 2023-12-07 |
 | [菫](https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [菫](https://open.spotify.com/album/216vfpaQDaZ4CbHMs7WRRG) | 2:56 | 2025-07-08 | 2025-12-03 |
 | [蕾](https://open.spotify.com/track/4sbQjUzeP6ysnNVosyz5VU) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [蕾](https://open.spotify.com/album/1PHaRCQ42M7F5dBmi7tK0u) | 2:45 | 2025-02-25 | 2025-03-12 |
+| [蕾もいつかは](https://open.spotify.com/track/3B6zDxydEQh5VcxqF3tfPK) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [蕾もいつかは](https://open.spotify.com/album/2nrSjH6dejniyHbeUSeNHu) | 3:53 | 2026-02-11 |  |
 | [蛙鳴蝉噪](https://open.spotify.com/track/4sbq65yZWMkbcUfzojugjN) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [THE 2](https://open.spotify.com/album/6FNVQB1fabfMCDvKaUuHaM) | 4:04 | 2024-02-22 | 2024-02-28 |
 | [裂いて](https://open.spotify.com/track/1Ed9REiPGsFXMSkqsTr260) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Continuum](https://open.spotify.com/album/4HjjYQkV3GyjfcbqixbNJt) | 3:18 | 2026-01-20 |  |
 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-21 | 2024-12-18 |

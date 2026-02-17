@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,377 likes - 182 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,395 likes - 182 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 41 | [Cinta Terlarang](https://open.spotify.com/track/3pF1OGQdqegfytyVY0dBeA) | [The Virgin](https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ) | [Yes I Am](https://open.spotify.com/album/0WDn4CBLLfrAwiCcRZZmgu) | 4:41 |
 | 42 | [Kasmaran](https://open.spotify.com/track/1IAPlLCouZavqy8BmMrWVu) | [Phantom](https://open.spotify.com/artist/3v7kpjJti8cJohFZ4gi2HQ) | [Bintang Terang](https://open.spotify.com/album/3qPLq7wmhwLkqMOvNlqXrq) | 3:55 |
 | 43 | [Selalu CInta](https://open.spotify.com/track/0GDxhBE0Sq0Dq8y4JE2SDC) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Energi \(Repackaged\)](https://open.spotify.com/album/7sCAI9ZywmCxWa03pMyXWy) | 4:43 |
-| 44 | [Satu Satunya Cinta](https://open.spotify.com/track/075wHMrSCuSvxkjk1nBinw) | [Maha Dewi](https://open.spotify.com/artist/6C8fWAXkiO9boKHvfwu25E) | [Nagaswara Hot 1OO](https://open.spotify.com/album/7mGv7jCKHT44LuRgwp5WIa) | 4:15 |
+| 44 | [Satu Satunya Cinta](https://open.spotify.com/track/075wHMrSCuSvxkjk1nBinw) | [Maha Dewi](https://open.spotify.com/artist/6C8fWAXkiO9boKHvfwu25E) | [NAGASWARA HOT 1OO](https://open.spotify.com/album/7mGv7jCKHT44LuRgwp5WIa) | 4:15 |
 | 45 | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu) | 3:52 |
 | 46 | [Sedang Mikirin Kamu](https://open.spotify.com/track/5HPiaCZAvLHGpGX4OBzwpM) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:10 |
 | 47 | [Tendangan Dari Langit](https://open.spotify.com/track/6xqat0eZI1KqDKMPBzuF8J) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Terbaik](https://open.spotify.com/album/2oBqiHQsjYLODaaQJzMEzd) | 4:04 |

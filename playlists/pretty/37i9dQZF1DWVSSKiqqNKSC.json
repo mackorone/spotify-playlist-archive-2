@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 526544,
+  "num_followers": 526590,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "El Charanguero Mayor",
+        "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 392053,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 298374,
       "name": "Me Dicen Cuba",
       "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "El Charanguero Mayor",
-        "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 392053,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21"
     },
     {
       "added_at": "2025-03-07 06:00:25",

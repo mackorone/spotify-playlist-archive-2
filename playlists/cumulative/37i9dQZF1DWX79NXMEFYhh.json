@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/1TTyWGUTIvx6HuvWIJ579O"
+      },
+      "artists": [
+        {
+          "name": "Ryu.",
+          "url": "https://open.spotify.com/artist/1K7VBEW8M30kPkUhBTl2Du"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202353,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/0xUHaDYsQZIViFAftCcqZP"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -352,7 +370,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 170738,
       "name": "Bounce that",
       "url": "https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O"
@@ -428,6 +446,24 @@
       "duration_ms": 286048,
       "name": "Courage (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK"
+    },
+    {
+      "album": {
+        "name": "DI KA TINATAGO",
+        "url": "https://open.spotify.com/album/29wHM4AZleZWXw3Av8w6iY"
+      },
+      "artists": [
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225057,
+      "name": "DI KA TINATAGO",
+      "url": "https://open.spotify.com/track/47x7PUKNetyiUpuBn1CmgO"
     },
     {
       "album": {
@@ -518,7 +554,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 164571,
       "name": "Do What She Wanna",
       "url": "https://open.spotify.com/track/5F5eberTTCphTF0PxkvBRL"
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 236307,
       "name": "Kisser",
       "url": "https://open.spotify.com/track/42s4EPhjAX5yygcajVtGHh"
@@ -1090,6 +1126,28 @@
       "duration_ms": 230154,
       "name": "Lalapit?",
       "url": "https://open.spotify.com/track/6EiNfnUrSbiouZqFx7kxHf"
+    },
+    {
+      "album": {
+        "name": "Lapit Kapit",
+        "url": "https://open.spotify.com/album/7saglGbQnqjQ5eytjWnqas"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177517,
+      "name": "Lapit Kapit",
+      "url": "https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y"
     },
     {
       "album": {
@@ -1158,7 +1216,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
@@ -1291,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Lunod",
+        "url": "https://open.spotify.com/album/6wg1XLHbKiCghCMZs8OWz0"
+      },
+      "artists": [
+        {
+          "name": "HORI7ON",
+          "url": "https://open.spotify.com/artist/7xuXBG13gHSpdAoXNWQ8Se"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248888,
+      "name": "Lunod",
+      "url": "https://open.spotify.com/track/5EkCk3lKlnlKxkO9lHuPxo"
+    },
+    {
+      "album": {
         "name": "Mabisang Pinay",
         "url": "https://open.spotify.com/album/6BIFKGUV1BdXX15YnxAO7J"
       },
@@ -1396,6 +1472,24 @@
       "duration_ms": 173710,
       "name": "Moving Closer",
       "url": "https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6"
+    },
+    {
+      "album": {
+        "name": "My Shawty",
+        "url": "https://open.spotify.com/album/2fDHYowXMHZJSwKYAdID2D"
+      },
+      "artists": [
+        {
+          "name": "Owen Greyson",
+          "url": "https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196806,
+      "name": "My Shawty",
+      "url": "https://open.spotify.com/track/48i1G5RkaJmgJ6MR7r4GUp"
     },
     {
       "album": {
@@ -2008,7 +2102,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 215249,
       "name": "so right",
       "url": "https://open.spotify.com/track/56rGGuag0aKuLAw7aj7VXW"
@@ -2066,7 +2160,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 190909,
       "name": "Still_In_My_Room",
       "url": "https://open.spotify.com/track/0TwqT9S8k5aow0krEaWemc"
@@ -2175,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Sweater",
+        "url": "https://open.spotify.com/album/6ucXmTxvLp3pJrEiOJcRfW"
+      },
+      "artists": [
+        {
+          "name": "OZO",
+          "url": "https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "Sweater",
+      "url": "https://open.spotify.com/track/00zym4gip0T3BaJTRYdimU"
+    },
+    {
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -2208,6 +2320,24 @@
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
+    },
+    {
+      "album": {
+        "name": "SWERTE KA NA NGA",
+        "url": "https://open.spotify.com/album/7yUc8DpwXMwTZxsJeiPVa2"
+      },
+      "artists": [
+        {
+          "name": "jiofu",
+          "url": "https://open.spotify.com/artist/5lJnyJ8eWVrgjPcTLZmmGU"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "SWERTE KA NA NGA",
+      "url": "https://open.spotify.com/track/4T3CBzGcWCBXstkek0eLJ4"
     },
     {
       "album": {
@@ -2258,7 +2388,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 256920,
       "name": "Tahan Na",
       "url": "https://open.spotify.com/track/4JFTGCfjfQsWDEXVt7M52F"
@@ -2598,7 +2728,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 207661,
       "name": "Tumaya",
       "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
@@ -2652,7 +2782,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 172000,
       "name": "WAG KA MUNANG UMUWI",
       "url": "https://open.spotify.com/track/6Ca0Ug48rEjQglEZ9SuBsx"

@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-797 songs - 1 day 16 hr 48 min
+798 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Fuld Eller Forelsket \(feat\. Daniel Schulz\)](https://open.spotify.com/track/033N42kSNUwxugMRtFr4cS) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp), [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Fuld Eller Forelsket \(feat\. Daniel Schulz\)](https://open.spotify.com/album/1zhbYOhQG6Va08rHKWe2uU) | 2:43 | 2025-07-10 | 2025-10-17 |
 | [Færdig Med Pis?](https://open.spotify.com/track/76ebYJn6WUdOZuYvlqka5r) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Færdig Med Pis?](https://open.spotify.com/album/1bSnvK3278AA7cKRnRbWTb) | 2:52 | 2024-06-27 | 2024-07-30 |
 | [Føles som en drøm](https://open.spotify.com/track/5DjeJlySP0eRrIJE3pIaGW) | [Marie Key](https://open.spotify.com/artist/2QoSPr8Jx3mLTCqgfpAwKb) | [Føles som en drøm](https://open.spotify.com/album/6WO9pMca6PMII05EvTS1fF) | 3:35 | 2025-05-29 | 2025-06-13 |
+| [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 | 2026-02-16 |  |
 | [Førhen](https://open.spotify.com/track/1IXqxiib1lsQxXZOdTLVZz) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Førhen](https://open.spotify.com/album/0xnoyPKBHoJS9OUmVZAT3F) | 2:45 | 2025-10-02 | 2025-10-17 |
 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 | 2025-02-20 | 2025-04-18 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 | 2024-11-08 |

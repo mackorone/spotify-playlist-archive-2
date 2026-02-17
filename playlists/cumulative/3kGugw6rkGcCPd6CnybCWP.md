@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-171 songs - 9 hr 52 min
+174 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Clementine](https://open.spotify.com/track/21335sVPNGZtNLVp3uV7zc) | [Karibu Sana](https://open.spotify.com/artist/3tnXu74lhPhxXiOhDrWdHH) | [Clementine](https://open.spotify.com/album/6zwDrIUF7DCqQr1sFtCgkI) | 4:13 | 2026-01-16 |  |
 | [Coca Cola](https://open.spotify.com/track/3SZmF1bX0bCw5U0rKZHq8P) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Coca Cola](https://open.spotify.com/album/6N7sdx1gFiQvvzuFdVmyMl) | 3:30 | 2025-10-30 | 2025-12-12 |
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-02 | 2026-01-17 |
+| [Colours They Don't See](https://open.spotify.com/track/0FwGNBbGSDIg6NCnhCIxT3) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Colours They Don't See](https://open.spotify.com/album/020hrMuM4OcrEgZ88aEfQD) | 3:19 | 2026-02-16 |  |
 | [Comisery](https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [Comisery](https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC) | 3:13 | 2026-01-28 |  |
 | [CRASHOUT](https://open.spotify.com/track/7EPzWnfd7oVBlsQHZQrPsR) | [SALLIE](https://open.spotify.com/artist/11nm1LNMhlPFZyljj3IGrC) | [ASK ME IF I'M OKAY](https://open.spotify.com/album/2UNzkfXa2aUPYjE6jsu3cb) | 3:16 | 2025-11-14 | 2026-01-17 |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-07 | 2026-01-17 |
@@ -35,6 +36,7 @@
 | [Dead in a Ditch \(Reloaded\)](https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL) | [Tiny Banshee](https://open.spotify.com/artist/4TjpNiCPSovZ6SSIYrQeoN) | [Small\. Loud\. and Haunted.](https://open.spotify.com/album/5NTWQ6aTCeWkG7OzNiU2gb) | 2:23 | 2025-11-01 | 2026-01-17 |
 | [Delighted](https://open.spotify.com/track/5tjcDtOijDGnJuny9xT1Du) | [sharpened knives](https://open.spotify.com/artist/4CNxLphbFJg9tc9QXH7y2V) | [Wishes You'd Never Said](https://open.spotify.com/album/61hjvBA69NNQWdsgyZ96Z8) | 2:00 | 2026-01-11 |  |
 | [Demons Move In Shadows](https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu) | [Numsig](https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju) | [Demons Move In Shadows](https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw) | 3:01 | 2025-10-24 | 2025-12-02 |
+| [Didn't I](https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Didn't I](https://open.spotify.com/album/3Mkk2I7FdtnPRIczgmA1wF) | 3:36 | 2026-02-16 |  |
 | [Didn't We](https://open.spotify.com/track/188DpOR3zw1dHkMPUugNGT) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Didn't We](https://open.spotify.com/album/5ElhS1qIyu9EQL4Wf3MJw1) | 3:41 | 2026-01-08 |  |
 | [Different Way Home](https://open.spotify.com/track/6eGTAZZz8DC0ZXDpK0ub87) | [The Casbahs](https://open.spotify.com/artist/41Op3ON8O72S14pbBEJ6bd) | [Different Way Home](https://open.spotify.com/album/6yZz5dt5wZDrdE4QtXsqy0) | 3:21 | 2025-12-12 | 2026-02-07 |
 | [Don't Be The Victim](https://open.spotify.com/track/3GfM3bTP0qnoD43WPBBeqD) | [Elli Hart](https://open.spotify.com/artist/6TeYsug4ZJPQF4FdFm2Cc0) | [Don't Be The Victim](https://open.spotify.com/album/7JDzrgzkJcP4O53rugLCCZ) | 3:44 | 2025-11-09 | 2026-01-17 |
@@ -172,6 +174,7 @@
 | [What If I?](https://open.spotify.com/track/1DP5UjFVGHQsob2fEo55eg) | [Simon Joan](https://open.spotify.com/artist/0SdTqn4C90rxbSm4GUwGCk) | [What If I?](https://open.spotify.com/album/1Tm4s3KBW0JPVlX2Rbz2fj) | 2:50 | 2025-10-24 | 2025-12-02 |
 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 | 2026-02-08 |  |
 | [Why Not Try? \(Chill\)](https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Why Not Try? \(Chill\)](https://open.spotify.com/album/4pqYVl020D5Q97Z23o0qUs) | 2:36 | 2026-02-07 |  |
+| [Wild](https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX) | [Sole](https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK) | [Wild](https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg) | 2:51 | 2026-02-16 |  |
 | [Wishing Me Dead](https://open.spotify.com/track/68cOf9WYuULrqncSwLynKv) | [otobahn](https://open.spotify.com/artist/3uIcjCMqPqYfn2ColxJhpb) | [Wishing Me Dead](https://open.spotify.com/album/6CihvrHXu9YoY9XH9z1o53) | 5:06 | 2026-01-22 |  |
 | [With You](https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [With You](https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT) | 3:21 | 2026-02-13 |  |
 | [Wonderful Paradox](https://open.spotify.com/track/7LfF485Urzmt6zMcqNOVYu) | [Mad'J](https://open.spotify.com/artist/5trtjhxKBebFy3DnvgY1vy) | [Wonderful Paradox](https://open.spotify.com/album/39DtRuSIrgtoSb9TpkOOlC) | 3:44 | 2025-10-30 | 2026-01-17 |

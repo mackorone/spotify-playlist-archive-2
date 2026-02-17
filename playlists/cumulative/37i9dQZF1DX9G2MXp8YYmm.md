@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ege Can Sal x Sena Şahin
 
-502 songs - 1 day 1 hr 19 min
+503 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Asla](https://open.spotify.com/track/4a9tx6VcUtnJQ5JCIdFscu) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Asla](https://open.spotify.com/album/0Tr4zT2s4ua6URLiJJgIZu) | 2:52 | 2025-04-10 | 2025-04-29 |
 | [Atlantis](https://open.spotify.com/track/5McJm018JxLoTC54fInvWo) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atlantis](https://open.spotify.com/album/0aIg40DUdyBKSRXkBQ3iUI) | 2:08 | 2024-07-25 | 2024-08-01 |
 | [Atmıyor Nabzım](https://open.spotify.com/track/4jkWK59V3EqLbxYh4aDPtS) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atmıyor Nabzım](https://open.spotify.com/album/6hxfB48Sxt5XVZOvJhleEG) | 2:37 | 2024-06-27 | 2024-07-29 |
+| [Ayay](https://open.spotify.com/track/06EsIRH0uVkxvyITqcK5Ok) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Ayay](https://open.spotify.com/album/3GrQZDphUsU1PyEBdICyDR) | 2:28 | 2026-02-12 |  |
 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-01-23 | 2025-07-18 |
 | [Ayrılmayalım \(Selami Şahin Şarkıları 3\)](https://open.spotify.com/track/65DZlUg0iLvBrbdp28XmN7) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ayrılmayalım \(Selami Şahin Şarkıları 3\)](https://open.spotify.com/album/2FgYmRgLd4lhoznK4mSykJ) | 3:52 | 2025-09-04 | 2025-12-02 |
 | [Ayrılığın Kitabı](https://open.spotify.com/track/7lDfNruhVvgtGUHPzlUZsy) | [Rast](https://open.spotify.com/artist/0Dl0DuG2pk6VWJ3XLKcvt3) | [Ayrılığın Kitabı](https://open.spotify.com/album/7lTngPNJkoiUDwTrVxDDVK) | 3:18 | 2025-07-31 | 2025-08-10 |
@@ -188,7 +189,7 @@
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-05-26 |
 | [Gamzende](https://open.spotify.com/track/1loCwvZw3uM5Li96oNsSsR) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Gamzende](https://open.spotify.com/album/7jXmha4CZ50hn8dJx98OqB) | 2:43 | 2025-09-25 | 2025-12-21 |
 | [Gece Puslu](https://open.spotify.com/track/1lzu13s6ag3F9RaZo4aodv) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Gece Puslu](https://open.spotify.com/album/7qySLENb2zHNqTWQ3CgKTw) | 2:39 | 2026-01-29 |  |
-| [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 | 2025-05-29 |  |
+| [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 | 2025-05-29 | 2026-02-17 |
 | [Geceleri Aldım Senden](https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Geceleri Aldım Senden](https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C) | 3:31 | 2025-08-07 | 2025-10-26 |
 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 | 2025-10-09 |  |
 | [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 | 2025-09-04 | 2025-12-08 |

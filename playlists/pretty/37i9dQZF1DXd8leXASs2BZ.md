@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Litty
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,898 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,904 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 22 | [大黒柱](https://open.spotify.com/track/0b8KLxBjSQ5Y7MIOdi5kQN) | [sh1t](https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo) | [MY TRUE SELF](https://open.spotify.com/album/3OM85x6vAT41sQ3EKTFY8M) | 2:01 |
 | 23 | [Beautiful Girl](https://open.spotify.com/track/3cxB64JstpsKu7TceDE5QJ) | [Need a Flex](https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Beautiful Girl](https://open.spotify.com/album/0W5GfNQiucZbUH0GdIO4f6) | 2:47 |
 | 24 | [SIDE EFFECT](https://open.spotify.com/track/5b4lnmLCjrvjn5X2ZMhSgJ) | [TIVE](https://open.spotify.com/artist/076ugb3nsE17KdWkyFjDJI) | [EFFECTIVE NIGHT](https://open.spotify.com/album/2WYvsfMnyqRzO8OJ3Idaci) | 3:46 |
-| 25 | [Role model \(feat\. Kane Dollars\)](https://open.spotify.com/track/0LfWfyNivdapbHBiHztdIP) | [Y1ee Coyote](https://open.spotify.com/artist/5VOVkqbK1WHNI58t4sVNFH), [Young Blood](https://open.spotify.com/artist/4iQq3aQGqiHAb0FWHwZ2TD), [Kane Dollars](https://open.spotify.com/artist/20q7LwUM7hQGXTrvNqEfif) | [I got the juice](https://open.spotify.com/album/6Ls9PuSY8wzYzPbAnODBiZ) | 2:45 |
+| 25 | [Role model \(feat\. Kane Dollars\)](https://open.spotify.com/track/0LfWfyNivdapbHBiHztdIP) | [Y1ee Coyote](https://open.spotify.com/artist/5VOVkqbK1WHNI58t4sVNFH), [Young Blood](https://open.spotify.com/artist/1zqTZsgRDbKdplyBQ6Qxsg), [Kane Dollars](https://open.spotify.com/artist/20q7LwUM7hQGXTrvNqEfif) | [I got the juice](https://open.spotify.com/album/6Ls9PuSY8wzYzPbAnODBiZ) | 2:45 |
 | 26 | [LAVISH](https://open.spotify.com/track/3YIv2ViUmpYMcX69PcDjnf) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [LAVISH](https://open.spotify.com/album/6JuUurrzliIN0lmwV5jTDP) | 2:25 |
 | 27 | [おしゃれ \(feat\. MIKADO\)](https://open.spotify.com/track/5VPFoBO0pViHp1AkYhoVMy) | [six](https://open.spotify.com/artist/6sw6T0k1R1EftCvEXxi7km), [CanDy](https://open.spotify.com/artist/2AifgPuLsP9PTuXs2ffxvj), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [BROTHER2](https://open.spotify.com/album/3jZcP7v8w6Y9EK4rM06818) | 3:03 |
 | 28 | [New One](https://open.spotify.com/track/0ad8RzeRj5mmCC1wDgLAPz) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Future Museum](https://open.spotify.com/album/4XlqhzrheUfUEYdS3yneYr) | 3:09 |

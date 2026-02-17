@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Raja Saab",
-  "num_followers": 166590,
+  "description": "Bringing out the best of latest love tracks\nCover : Couple Friendly",
+  "num_followers": 166639,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPa2KsjhRglMSTMIBJegFTBnanJr",
+  "snapshot_id": "AAAAAHDNo4zJhPrHv+pFAap18NpPdkDD",
   "tracks": [
+    {
+      "added_at": "2026-02-16 10:27:02",
+      "album": {
+        "name": "Couple Friendly",
+        "url": "https://open.spotify.com/album/2jqfRX0prl2ATLogVwZzac"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "duration_ms": 148909,
+      "name": "Naato Raa Ila",
+      "url": "https://open.spotify.com/track/6NT6Lt7OfpOedFvP1w9jdK"
+    },
     {
       "added_at": "2025-12-17 13:09:33",
       "album": {
@@ -37,10 +61,86 @@
       "url": "https://open.spotify.com/track/5xOEnyX9CddnBbUNLmbW7X"
     },
     {
-      "added_at": "2025-11-11 05:35:55",
+      "added_at": "2025-11-07 07:25:54",
       "album": {
-        "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
-        "url": "https://open.spotify.com/album/2YsJF3plTQyCecg2NwFlnW"
+        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Balaji",
+          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+        }
+      ],
+      "duration_ms": 273072,
+      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
+    },
+    {
+      "added_at": "2025-07-29 11:57:35",
+      "album": {
+        "name": "Mallika Gandha (From \"Telusu Kada\")",
+        "url": "https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Mallika Gandha (From \"Telusu Kada\")",
+      "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
+    },
+    {
+      "added_at": "2026-02-16 10:27:02",
+      "album": {
+        "name": "Kallonu Neeve (From \"Hey Bhagawan\")",
+        "url": "https://open.spotify.com/album/6KAE1qPSnDKkm4Dl9tTdHM"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Ramya Behra",
+          "url": "https://open.spotify.com/artist/1DnwaG1rxWzOvYvp27QJ2y"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 270016,
+      "name": "Kallonu Neeve - From \"Hey Bhagawan\"",
+      "url": "https://open.spotify.com/track/5C9SiDdapQmMu0pmbOy5jm"
+    },
+    {
+      "added_at": "2025-07-18 12:20:46",
+      "album": {
+        "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
+        "url": "https://open.spotify.com/album/54OTEy2kqJqKPH9wHMcJ1h"
       },
       "artists": [
         {
@@ -48,21 +148,17 @@
           "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
         },
         {
-          "name": "Mervin Solomon",
-          "url": "https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Satya Yamini",
-          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+          "name": "Ram Pothineni",
+          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
-      "url": "https://open.spotify.com/track/2W7nhORqSy1QD4fETZmZmb"
+      "duration_ms": 240101,
+      "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
+      "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
     },
     {
       "added_at": "2025-12-10 11:48:35",
@@ -93,6 +189,62 @@
       "url": "https://open.spotify.com/track/7vA6wVaGtdU4M520JX4IAG"
     },
     {
+      "added_at": "2025-11-11 05:35:55",
+      "album": {
+        "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
+        "url": "https://open.spotify.com/album/2YsJF3plTQyCecg2NwFlnW"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Mervin Solomon",
+          "url": "https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv"
+        },
+        {
+          "name": "Satya Yamini",
+          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
+      "url": "https://open.spotify.com/track/2W7nhORqSy1QD4fETZmZmb"
+    },
+    {
+      "added_at": "2026-02-16 10:27:02",
+      "album": {
+        "name": "Modhale Modhale (From \"Vishnu Vinyasam\")",
+        "url": "https://open.spotify.com/album/2YfpaYTF33VeJkbDkkFSdP"
+      },
+      "artists": [
+        {
+          "name": "Radhan",
+          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        },
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Modhale Modhale (From \"Vishnu Vinyasam\")",
+      "url": "https://open.spotify.com/track/2syjEtsoZQ5INZdB3Mi88P"
+    },
+    {
       "added_at": "2026-02-13 14:09:35",
       "album": {
         "name": "Naa Praanam (From \"Couple Friendly\")",
@@ -115,54 +267,6 @@
       "duration_ms": 249492,
       "name": "Naa Praanam (From \"Couple Friendly\")",
       "url": "https://open.spotify.com/track/6L89FdUMkZFBF9LT8iCAcP"
-    },
-    {
-      "added_at": "2025-07-18 12:20:46",
-      "album": {
-        "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
-        "url": "https://open.spotify.com/album/54OTEy2kqJqKPH9wHMcJ1h"
-      },
-      "artists": [
-        {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ram Pothineni",
-          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
-        }
-      ],
-      "duration_ms": 240101,
-      "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
-      "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
-    },
-    {
-      "added_at": "2025-11-07 07:25:54",
-      "album": {
-        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Balaji",
-          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
-        }
-      ],
-      "duration_ms": 273072,
-      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
     },
     {
       "added_at": "2026-02-13 14:09:35",
@@ -283,30 +387,6 @@
       "duration_ms": 183000,
       "name": "Naalo Nenu (From \"Couple Friendly\")",
       "url": "https://open.spotify.com/track/0HnDe5h7wuFEljaFbftkWb"
-    },
-    {
-      "added_at": "2025-07-29 11:57:35",
-      "album": {
-        "name": "Mallika Gandha (From \"Telusu Kada\")",
-        "url": "https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Mallika Gandha (From \"Telusu Kada\")",
-      "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
     },
     {
       "added_at": "2025-08-27 09:45:46",
@@ -757,66 +837,6 @@
       "url": "https://open.spotify.com/track/2CENMIhSS3Y3gXs6XHEKvT"
     },
     {
-      "added_at": "2025-06-03 05:36:27",
-      "album": {
-        "name": "Prema Ishq Kadhal (From \"#Single\")",
-        "url": "https://open.spotify.com/album/4LLF3lxMBdamIcKb7XpKLr"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        },
-        {
-          "name": "Raghu Ram",
-          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
-        }
-      ],
-      "duration_ms": 156677,
-      "name": "Prema Ishq Kadhal (From \"#Single\")",
-      "url": "https://open.spotify.com/track/4pHQv2rtfp80PuHdrgSx1o"
-    },
-    {
-      "added_at": "2025-06-03 05:36:27",
-      "album": {
-        "name": "Sugar Baby (From \"Thug Life\") (Telugu)",
-        "url": "https://open.spotify.com/album/1RJC1EuuWWPNE2W0cUB3kl"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Alexandra Joy",
-          "url": "https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79"
-        },
-        {
-          "name": "Shuba",
-          "url": "https://open.spotify.com/artist/6CeM0KkzPqfufYDUJjYpll"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Sugar Baby (From \"Thug Life\") (Telugu)",
-      "url": "https://open.spotify.com/track/1JvPjn3wZgJvnlud83q4uU"
-    },
-    {
       "added_at": "2026-01-28 06:39:08",
       "album": {
         "name": "Alalai Egise",
@@ -835,30 +855,6 @@
       "duration_ms": 232880,
       "name": "Alalai Egise",
       "url": "https://open.spotify.com/track/7IMy6SqkgbIDg0tsNM3Fs1"
-    },
-    {
-      "added_at": "2025-06-03 05:36:27",
-      "album": {
-        "name": "Emo Emo (From \"Krishna Leela\")",
-        "url": "https://open.spotify.com/album/5mHb2OYjyENZwsKlHnZfb5"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 170699,
-      "name": "Emo Emo (From \"Krishna Leela\")",
-      "url": "https://open.spotify.com/track/4Ptt6zHijOaG997nqwbSmt"
     },
     {
       "added_at": "2026-01-08 07:24:18",

@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Chanting The Light Of Foresight",
+        "url": "https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532733,
+      "name": "Chanting The Light Of Foresight",
+      "url": "https://open.spotify.com/track/4ZIiQPOLqbcdzzalG9yZll"
+    },
+    {
+      "album": {
         "name": "Riley: Songs for the 10 Voices of the 2 Prophets",
         "url": "https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g"
       },
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 385600,
       "name": "Havana Man",
       "url": "https://open.spotify.com/track/7KIaxcmI9QG7veesnjLYyZ"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 104000,
       "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
       "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 276146,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 349200,
       "name": "Peace Dance",
       "url": "https://open.spotify.com/track/1C9YNw12DCN9cGGJK6wXFr"
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 456066,
       "name": "Spirit of Peace: Part II.",
       "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"
@@ -3936,7 +3954,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 286920,
       "name": "The Ecstacy",
       "url": "https://open.spotify.com/track/09QcATbcO7JKxSFwl075Mw"
@@ -4106,7 +4124,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 604333,
       "name": "The Harp of New Albion: VI. Return of the Ancestors",
       "url": "https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL"
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 592026,
       "name": "Zamorra",
       "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"

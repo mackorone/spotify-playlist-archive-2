@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Anna Graves",
-  "num_followers": 218975,
+  "num_followers": 218985,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW",
+  "snapshot_id": "AAAAAG4J57IlbIEWXZuRilI+88NDK8Wh",
   "tracks": [
     {
       "added_at": "2026-02-06 05:27:34",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5MNsmiILMG66m3h5SXZHCS"
     },
     {
+      "added_at": "2026-02-16 15:04:10",
+      "album": {
+        "name": "old patterns",
+        "url": "https://open.spotify.com/album/5GYwR7YbgBCzX0BnbFLvsO"
+      },
+      "artists": [
+        {
+          "name": "Lucy Sugerman",
+          "url": "https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N"
+        }
+      ],
+      "duration_ms": 255238,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/1fYnF4ycRJWYDVcuEshZpW"
+    },
+    {
       "added_at": "2026-01-23 05:20:59",
       "album": {
         "name": "Gale",
@@ -55,6 +71,22 @@
       "duration_ms": 208253,
       "name": "Gale",
       "url": "https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho"
+    },
+    {
+      "added_at": "2026-02-16 15:04:10",
+      "album": {
+        "name": "Let The Girl Out",
+        "url": "https://open.spotify.com/album/60Nk3agyVpRUbtr9UmCz1s"
+      },
+      "artists": [
+        {
+          "name": "LUBBY",
+          "url": "https://open.spotify.com/artist/2nBIy2jbFxJLOWOSdIVYqa"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Let The Girl Out",
+      "url": "https://open.spotify.com/track/2mNX8x4bY3Bgz6u1WAa80L"
     },
     {
       "added_at": "2026-02-06 14:38:25",
@@ -73,6 +105,22 @@
       "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
+      "added_at": "2026-02-16 15:04:10",
+      "album": {
+        "name": "Sunny in London (Acoustic)",
+        "url": "https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Gangster's Wife",
+      "url": "https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya"
+    },
+    {
       "added_at": "2026-02-06 05:27:34",
       "album": {
         "name": "Bootstraps",
@@ -87,6 +135,22 @@
       "duration_ms": 188910,
       "name": "Bootstraps",
       "url": "https://open.spotify.com/track/4X7cpw2ZwK8WdJAoMh6YXn"
+    },
+    {
+      "added_at": "2026-02-16 15:04:10",
+      "album": {
+        "name": "Young & Green",
+        "url": "https://open.spotify.com/album/68ksDVafcSKhaKllSXXBAf"
+      },
+      "artists": [
+        {
+          "name": "Joely",
+          "url": "https://open.spotify.com/artist/7mYSAs4oBqRlShTTVkNnxg"
+        }
+      ],
+      "duration_ms": 240472,
+      "name": "Young & Green",
+      "url": "https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek"
     },
     {
       "added_at": "2026-02-06 05:27:34",
@@ -871,70 +935,6 @@
       "duration_ms": 209890,
       "name": "Coming Back Babe",
       "url": "https://open.spotify.com/track/7IGWOUIrYykMGjoDQvf9Ky"
-    },
-    {
-      "added_at": "2025-09-26 04:00:18",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1"
-      },
-      "artists": [
-        {
-          "name": "Katherine Lynn-Rose",
-          "url": "https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ"
-        }
-      ],
-      "duration_ms": 126100,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L"
-    },
-    {
-      "added_at": "2025-09-26 04:00:18",
-      "album": {
-        "name": "The Real You",
-        "url": "https://open.spotify.com/album/3a4R1LkmIWzXuVnyxAwx5p"
-      },
-      "artists": [
-        {
-          "name": "Lyric",
-          "url": "https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/5fJ4NkMs0mYRfv1ZShIGKq"
-    },
-    {
-      "added_at": "2025-09-26 04:00:18",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/3SWt53l66wE5SyUfHclnDi"
-      },
-      "artists": [
-        {
-          "name": "LUELLA",
-          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/6gTnxcDgHr1Io7s4AYNH7P"
-    },
-    {
-      "added_at": "2025-09-26 04:00:18",
-      "album": {
-        "name": "go to hell",
-        "url": "https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH"
-      },
-      "artists": [
-        {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "go to hell",
-      "url": "https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r"
     },
     {
       "added_at": "2025-09-26 04:00:18",

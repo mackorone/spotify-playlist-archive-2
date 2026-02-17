@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-347 songs - 19 hr 24 min
+349 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Guitar Talk](https://open.spotify.com/track/7mbal2GFI0GvBTchDj61bO) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [Guitar Talk](https://open.spotify.com/album/5UhF5qbdtztphs2f6wqpOa) | 2:48 | 2026-01-29 |  |
 | [Gélido](https://open.spotify.com/track/4bKbELQHfllBUDB8cFH6ri) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Gélido](https://open.spotify.com/album/0Ws3kH0TFGWPdCXo3cTe9C) | 3:00 | 2025-11-11 | 2025-12-01 |
 | [Had Enough](https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf) | [Rules Man](https://open.spotify.com/artist/0TEGx2fJhFmfpzioHwA4oe) | [Had Enough](https://open.spotify.com/album/243tYzE06VMLKKlSEYSPhC) | 3:28 | 2025-12-26 | 2026-01-25 |
+| [Happy Pills](https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Happy Pills](https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7) | 3:01 | 2026-02-16 |  |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 | 2026-01-05 |
 | [Hectic Movement](https://open.spotify.com/track/4G0L0GzZjStc84JE0muTBt) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 2:17 | 2025-11-08 | 2025-12-01 |
 | [Heute geh ich drauf](https://open.spotify.com/track/23nNSezQQ5f4GYcnkDmHiX) | [EKN\_0322](https://open.spotify.com/artist/2TzFfwjSStKVlmeexgGpK5) | [Heute geh ich drauf](https://open.spotify.com/album/3ZrFHe0uXTln9gL7JMqqFb) | 2:45 | 2026-01-24 |  |
@@ -255,6 +256,7 @@
 | [Real Talk](https://open.spotify.com/track/0VZonNcbe7t9baqsGVeU7n) | [Young JD](https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL) | [Real Talk](https://open.spotify.com/album/0Na2C3AJXAMGt1JDy6sCe8) | 4:33 | 2025-11-05 | 2025-12-01 |
 | [Recognize](https://open.spotify.com/track/5EpZwXMWUCS3sLKBPpl7oJ) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 3:09 | 2025-11-10 | 2025-12-01 |
 | [Recorramos La Ciudad](https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o) | [Cheo MC](https://open.spotify.com/artist/52uwZEe4PbjQGc2NshIbrM) | [Recorramos La Ciudad](https://open.spotify.com/album/04biMfu7QdHLpgR43tK4mf) | 3:16 | 2025-11-13 | 2026-01-05 |
+| [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 |  |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
 | [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 | 2026-01-18 |  |
 | [Rollercoaster](https://open.spotify.com/track/34sMc8ETsF8MszlYl4TtpW) | [Arctic Lights](https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6) | [Rollercoaster](https://open.spotify.com/album/7nb8lrg9F5kZLLFrPEjIQ1) | 3:08 | 2025-11-17 | 2026-01-05 |

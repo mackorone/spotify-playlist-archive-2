@@ -881,6 +881,32 @@
     },
     {
       "album": {
+        "name": "AmaRider",
+        "url": "https://open.spotify.com/album/6swCK9UtZeTTl96vYWp5Td"
+      },
+      "artists": [
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246449,
+      "name": "AmaRider",
+      "url": "https://open.spotify.com/track/1eXAX85fhHNygLTnnA49Dp"
+    },
+    {
+      "album": {
         "name": "Amawele",
         "url": "https://open.spotify.com/album/1DnszhDj3QNpqWdXgudyjp"
       },
@@ -964,7 +990,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
@@ -11389,6 +11415,40 @@
     },
     {
       "album": {
+        "name": "Ngbambe Duze (feat. MFR Souls & Dj Maphorisa)",
+        "url": "https://open.spotify.com/album/3zAMXs1BFvWDwst6mTIK1h"
+      },
+      "artists": [
+        {
+          "name": "Maero",
+          "url": "https://open.spotify.com/artist/1T4ZmeiZPhtjCJsMs7yUC9"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        },
+        {
+          "name": "Last Born",
+          "url": "https://open.spotify.com/artist/3wK0eXR6qOs9PyRUxnoECN"
+        },
+        {
+          "name": "Mfr Souls",
+          "url": "https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484269,
+      "name": "Ngbambe Duze (feat. MFR Souls & Dj Maphorisa)",
+      "url": "https://open.spotify.com/track/0vwdMP1LbBDQCaICUHsxgU"
+    },
+    {
+      "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/0QYvoihSPn22fsyyHFU459"
       },
@@ -15958,7 +16018,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 374784,
       "name": "Thiba (feat. Tango Supreme, Uncool MC & Ricky Lenyora)",
       "url": "https://open.spotify.com/track/4gU4UjJZDFo6uHRgrMeJcs"

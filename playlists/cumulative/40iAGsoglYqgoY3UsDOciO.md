@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-487 songs - 23 hr 32 min
+490 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-07-26 |  |
 | [5 O'Clock](https://open.spotify.com/track/3vSRKMY9G9dH3TUW6mRA73) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:52 | 2023-07-26 |  |
 | [74 Cromwell Avenue \(The Way We Were\)](https://open.spotify.com/track/0rh0meIPY6p7DcNdpUZR5h) | [MNIB](https://open.spotify.com/artist/5lKWiFsG07JzfOqEDUizem), [The Honourable Minister Louis Farrakhan](https://open.spotify.com/artist/4FtUXBA3BecXGznJWoLT16) | [74 Cromwell Avenue \(Before I Was Born\)](https://open.spotify.com/album/6Ox8XncQV66GSKN9efYWzF) | 4:01 | 2024-07-08 |  |
+| [80](https://open.spotify.com/track/7AWO9DNzPZ1wHERhYBsaCN) | [WLF.JMS](https://open.spotify.com/artist/7CYEmpAvVpsRH1DbMfhUPt) | [80](https://open.spotify.com/album/2KBKLeWqab7JJS9GGkIUMO) | 2:32 | 2026-02-16 |  |
 | [A Heartache](https://open.spotify.com/track/4NrxYRCPIsx2VC5dsW2VYx) | [C.Z.B](https://open.spotify.com/artist/3fIOUrM5pHc0BnQlVvy9lj) | [Winter's Cold](https://open.spotify.com/album/3D4Xgq16DCwLn1v3aQRZ10) | 2:47 | 2025-03-24 |  |
 | [Adele Broke Me](https://open.spotify.com/track/7dXFpCEVBLk1PqVsvfeKYM) | [Nico Hunnidz](https://open.spotify.com/artist/0O1hOnoqfSJ5YWYyH0KRcB), [Ryini Beats](https://open.spotify.com/artist/03JplRxWHu0ohQNizcEKXp) | [Adele Broke Me](https://open.spotify.com/album/1Wuc9ALQdo5C6nqr8qbUCn) | 2:41 | 2025-10-23 |  |
 | [Adventure](https://open.spotify.com/track/0BgWfOoyBkpqtrmTMjDJAe) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf) | [Bem Vindo Natal 3 \(Deluxe\)](https://open.spotify.com/album/4uTLmQzbYDqqIG2owoJuxz) | 2:12 | 2024-06-04 |  |
@@ -101,6 +102,7 @@
 | [Coração das Cartas](https://open.spotify.com/track/51s8xs6E12LWGspINjtf2Z) | [RoDan AFK](https://open.spotify.com/artist/7Ay8RwKTlSxLAxry2rrcSQ) | [Coração das Cartas](https://open.spotify.com/album/6szhCj1LlamdaTH6i5jORX) | 2:18 | 2024-06-02 |  |
 | [Corpse Bride](https://open.spotify.com/track/5ij2sbmLClFGnWBrtr6Cwv) | [Highrise](https://open.spotify.com/artist/0K37X9yuGZbV6PVwjuDxtj) | [Corpse Bride](https://open.spotify.com/album/4FCMyEPnnWsmNjkrtW4NgT) | 1:52 | 2024-08-06 |  |
 | [Countin' On You](https://open.spotify.com/track/7Edr1e24lcvCFIuuYfahWR) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Countin' On You \(FAST X Soundtrack\)](https://open.spotify.com/album/79TSpvgNIyR8faqntvl11N) | 2:28 | 2023-07-26 |  |
+| [Crave](https://open.spotify.com/track/10yJtycXC7s7npCCcOVScU) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [HIBARI555](https://open.spotify.com/artist/2A6OB7KGDr2HXEDoqvYLXn) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 2:29 | 2026-02-16 |  |
 | [Criteria](https://open.spotify.com/track/3j0SCXX9MhdSxYpdFAlJms) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 1:45 | 2023-07-26 |  |
 | [Crunch Time](https://open.spotify.com/track/1zs08Z4WOWrBLXFOMmoEHl) | [Kershey](https://open.spotify.com/artist/5PXnOMWHxDzYxQucJp4bq8) | [Crunch Time](https://open.spotify.com/album/01vdh0IeFJRK2awZeuP04Q) | 2:24 | 2026-02-11 |  |
 | [CUORE DI GHIACCIO](https://open.spotify.com/track/1r88vtpM65rQ9FNkOmfW1Z) | [F1NIN](https://open.spotify.com/artist/2pEkdA1xF9Zc0gp0oUX2K3) | [CUORE DI GHIACCIO](https://open.spotify.com/album/18pNKBNJe0sFWPUs3gvlIs) | 2:25 | 2024-10-02 |  |
@@ -379,6 +381,7 @@
 | [sinisterIntentions](https://open.spotify.com/track/145cB9YpyrfsDTGxh3tTOP) | [Young Rebillionaire](https://open.spotify.com/artist/4dbmUc24ekKqfjwbpuGiRx) | [sinisterIntentions](https://open.spotify.com/album/6DqZntyUnsK62T91VZqu7N) | 1:30 | 2026-01-26 |  |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-07-26 |  |
 | [SLAM](https://open.spotify.com/track/1S47LMCjF4WL0RwOltDcHP) | [BE4N](https://open.spotify.com/artist/05Gd3YKIx417Tlc5bpWPfC), [InnerMars!](https://open.spotify.com/artist/4LZJOaX0ucwoIDnZFVwoxk) | [SLAM](https://open.spotify.com/album/6XsOf4Qm9XC5LOGuybWBP4) | 1:46 | 2025-10-08 |  |
+| [sleepeR](https://open.spotify.com/track/3AwyCR4jSQvmgpthwlGylS) | [dndKrym](https://open.spotify.com/artist/2lUIYiQ8ABS20WWFdOadZJ) | [sleepeR](https://open.spotify.com/album/327zFRuZsBfXLcpoGSPwwB) | 1:40 | 2026-02-16 |  |
 | [Slowed Down](https://open.spotify.com/track/74Vw1RhXNUTFt1X0rmuRZa) | [bananaxbrainz](https://open.spotify.com/artist/213rSssfcYfuQ0vYZGYiVO) | [Slowed Down](https://open.spotify.com/album/12ElruNyxI3vmg4utGkHdW) | 2:39 | 2024-05-30 |  |
 | [Smooth Operator](https://open.spotify.com/track/2jg0rXK2K9n3FvHNW6j6IT) | [Sir Gladis](https://open.spotify.com/artist/0LEqbOy9JAIvDyHePlaI19) | [Smooth Operator](https://open.spotify.com/album/4GtTnxqgc0yeMmlWOkf6LH) | 4:52 | 2026-01-20 |  |
 | [So Fake](https://open.spotify.com/track/70drshuBEPNmSiNaqmzUDF) | [Morgan Wong](https://open.spotify.com/artist/1t8E1XBBGUxxrOsuBX7DRN) | [So Fake](https://open.spotify.com/album/0uyBiWKoMz9b7cLmEU9PZM) | 2:07 | 2024-07-21 |  |

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: ERRA
 
-1,505 songs - 3 day 19 hr 33 min
+1,507 songs - 3 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2022-07-13 | 2022-07-19 |
 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 | 2022-06-10 | 2023-05-06 |
 | [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2022-07-13 | 2022-07-23 |
+| [DEAD SOUL](https://open.spotify.com/track/5cMIFlNMSNYDOlBCqlYHRG) | [Resistor](https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA) | [DEAD SOUL](https://open.spotify.com/album/6UjAyOSdQ7UOiQvPNDoQ2B) | 3:33 | 2026-02-13 |  |
 | [Dead Souls](https://open.spotify.com/track/7aa7J2weJ0mVLu4xHEKiKu) | [Substation](https://open.spotify.com/artist/4uCcS8G5SOw5BGO67pngjC) | [Dead Souls](https://open.spotify.com/album/0yyK6w1nNjDq3YutrQMvk1) | 3:46 | 2024-03-27 | 2024-05-11 |
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-14 | 2022-04-23 |
 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-10-08 | 2022-12-17 |
@@ -601,7 +602,7 @@
 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 | 2023-03-31 | 2025-01-18 |
 | [Graphic](https://open.spotify.com/track/3gZz9dqftXeYS7vLbolcG2) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Graphic](https://open.spotify.com/album/0pmmOjKGXNDfsAo1H9hyCv) | 3:53 | 2023-03-31 | 2023-08-19 |
 | [Gravebound](https://open.spotify.com/track/1q8DUC91kV2h96LX0PVO7P) | [In Somni](https://open.spotify.com/artist/4xlkYCPL2K11M8HIaIO6QA) | [Gravebound](https://open.spotify.com/album/7yzSIaTEeDsgREMST55pyL) | 3:01 | 2025-10-24 |  |
-| [Graveheart](https://open.spotify.com/track/3rTOWmTrSQWYmW049hlTYU) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Kim Song Sternkopf](https://open.spotify.com/artist/3tO21gfugw3hwlibuah7nH) | [Graveheart](https://open.spotify.com/album/54aNcZx8x4lyWEj3n7vlHy) | 2:46 | 2026-01-30 |  |
+| [Graveheart](https://open.spotify.com/track/3rTOWmTrSQWYmW049hlTYU) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Kim Song Sternkopf](https://open.spotify.com/artist/3tO21gfugw3hwlibuah7nH) | [Graveheart](https://open.spotify.com/album/54aNcZx8x4lyWEj3n7vlHy) | 2:46 | 2026-01-30 | 2026-02-17 |
 | [Graveyard](https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Empires Fall](https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb) | 3:03 | 2022-06-17 | 2022-12-17 |
 | [Gravity](https://open.spotify.com/track/2SZ5prjbW2zKwKp49z5uRM) | [UNDEAD CORPORATION](https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf) | [Gravity](https://open.spotify.com/album/2vh8djFLfy1ubK8BpDKwlt) | 4:06 | 2022-05-13 | 2022-06-11 |
 | [Grip](https://open.spotify.com/track/0Vu77LRXIvasO5OOFbX9jx) | [elijah](https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy) | [lowest](https://open.spotify.com/album/2dlOsUriCNKM3aCjjcUsd0) | 3:47 | 2025-10-24 |  |
@@ -649,6 +650,7 @@
 | [Hold Me, Help Me](https://open.spotify.com/track/5PonHqoB85p240oUT9AIDj) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Hold Me, Help Me](https://open.spotify.com/album/1g3ByU8bZ8KclMW1mLVwxz) | 3:45 | 2022-11-04 | 2023-05-06 |
 | [Hole Hearted](https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Hole Hearted](https://open.spotify.com/album/10kEMeY4T4I4gPn1gYLOgD) | 3:13 | 2024-08-25 | 2025-04-30 |
 | [Hollow](https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP) | [Hollow](https://open.spotify.com/album/18qPqwKIWroJmNkHsxo2bn) | 3:28 | 2024-11-22 | 2024-12-19 |
+| [Hollow Walls](https://open.spotify.com/track/0GYW7ykOnrbfWKbmAjeJkt) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Hollow Walls](https://open.spotify.com/album/6GUSCLPmHMldZbOOPSJOcb) | 3:12 | 2026-02-13 |  |
 | [Hollowed Heart](https://open.spotify.com/track/7HZHFE3NN7uQgf9JRRN3Hh) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/1eugdphmac0WQccxNJ96tn) | 3:51 | 2022-07-13 | 2022-07-23 |
 | [Home](https://open.spotify.com/track/5xGiG8izp7SgNaFskYWVbZ) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Home](https://open.spotify.com/album/5mLHqEAeh5zhf1WtDxBNPZ) | 4:04 | 2022-03-11 | 2022-05-14 |
 | [Hope In Hatred](https://open.spotify.com/track/2MGTtQeh2yi5Iysu0lLj5V) | [Rituals](https://open.spotify.com/artist/6zaggWMA34L6ag8GRa8pHh), [Tom P](https://open.spotify.com/artist/0k0bUj0qd2fXBiWeYrNPGy) | [Hope In Hatred](https://open.spotify.com/album/3bsJaxsyFGB1WKJYRJoy45) | 3:18 | 2025-11-07 | 2025-12-13 |
@@ -872,7 +874,7 @@
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |
 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 | 2022-06-24 | 2022-11-05 |
 | [Mystic Cord](https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Mystic Cord](https://open.spotify.com/album/3jVi4YL9O4ZIoe7eFFJQKE) | 3:01 | 2023-11-27 | 2024-02-10 |
-| [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 | 2025-06-20 |  |
+| [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 | 2025-06-20 | 2026-02-17 |
 | [Needle Eye](https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Needle Eye](https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ) | 2:49 | 2024-08-12 | 2024-12-19 |
 | [Nefarious](https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [Nefarious](https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt) | 4:11 | 2023-05-26 | 2024-11-23 |
 | [Negative](https://open.spotify.com/track/77VOSQS7TnAd07ZtUTtHry) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Negative](https://open.spotify.com/album/0jXvfiBh58VrpCm1fy0ONH) | 3:04 | 2023-05-01 | 2024-02-24 |

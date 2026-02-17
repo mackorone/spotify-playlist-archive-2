@@ -1,13 +1,53 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 985,
+  "num_followers": 986,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAE4vxm7zT5rz+139kkc5B/KPsj3LeR",
+  "snapshot_id": "AAAE6yE+hDLP+kBHTHvnJBPyZQ+eUOvS",
   "tracks": [
+    {
+      "added_at": "2026-02-16 23:10:48",
+      "album": {
+        "name": "Girls Who Are Wizards",
+        "url": "https://open.spotify.com/album/1akpAgX4I2XFX3RSfa4xsb"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "duration_ms": 330468,
+      "name": "Sacred Dragon",
+      "url": "https://open.spotify.com/track/0mUZACSoXJp9w5haaM32xm"
+    },
+    {
+      "added_at": "2026-01-27 13:35:27",
+      "album": {
+        "name": "Blood Debt",
+        "url": "https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x"
+      },
+      "artists": [
+        {
+          "name": "Loprov",
+          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
+        },
+        {
+          "name": "Daratomic",
+          "url": "https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM"
+        },
+        {
+          "name": "Moleigh",
+          "url": "https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Blood Debt",
+      "url": "https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4"
+    },
     {
       "added_at": "2026-02-11 18:25:55",
       "album": {
@@ -25,20 +65,36 @@
       "url": "https://open.spotify.com/track/0UYdjTBvZQMkw3vV6p5GD4"
     },
     {
-      "added_at": "2026-02-11 18:25:55",
+      "added_at": "2026-02-05 16:29:28",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk"
+        "name": "im so burnt out......",
+        "url": "https://open.spotify.com/album/3dehGedgrDUQgbnVXAw7OC"
       },
       "artists": [
         {
-          "name": "Reivan",
-          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
         }
       ],
-      "duration_ms": 219374,
-      "name": "It Should Be Enough",
-      "url": "https://open.spotify.com/track/29zqa4XsteeaYfJRjrQE78"
+      "duration_ms": 71455,
+      "name": "im so burnt out......",
+      "url": "https://open.spotify.com/track/0u9ah2ll7H8deTtTv7QEkS"
+    },
+    {
+      "added_at": "2026-02-06 22:46:19",
+      "album": {
+        "name": "PROJECTILE LAUNCH",
+        "url": "https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ"
+      },
+      "artists": [
+        {
+          "name": "Mors_Music",
+          "url": "https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap"
+        }
+      ],
+      "duration_ms": 103846,
+      "name": "PROJECTILE LAUNCH",
+      "url": "https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat"
     },
     {
       "added_at": "2026-02-11 18:25:55",
@@ -73,78 +129,6 @@
       "url": "https://open.spotify.com/track/7z812HS2zeD5Rn9mmNQmdQ"
     },
     {
-      "added_at": "2026-02-11 18:44:30",
-      "album": {
-        "name": "My Dreams Are Real",
-        "url": "https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm"
-      },
-      "artists": [
-        {
-          "name": "Ian Martyn",
-          "url": "https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB"
-        }
-      ],
-      "duration_ms": 291789,
-      "name": "We Built Pillow Forts",
-      "url": "https://open.spotify.com/track/7gCEHgBxNJQElU2AInPSHM"
-    },
-    {
-      "added_at": "2026-02-06 22:46:19",
-      "album": {
-        "name": "PROJECTILE LAUNCH",
-        "url": "https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ"
-      },
-      "artists": [
-        {
-          "name": "Mors_Music",
-          "url": "https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap"
-        }
-      ],
-      "duration_ms": 103846,
-      "name": "PROJECTILE LAUNCH",
-      "url": "https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat"
-    },
-    {
-      "added_at": "2026-02-05 16:29:28",
-      "album": {
-        "name": "im so burnt out......",
-        "url": "https://open.spotify.com/album/3dehGedgrDUQgbnVXAw7OC"
-      },
-      "artists": [
-        {
-          "name": "lil fasty",
-          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
-        }
-      ],
-      "duration_ms": 71455,
-      "name": "im so burnt out......",
-      "url": "https://open.spotify.com/track/0u9ah2ll7H8deTtTv7QEkS"
-    },
-    {
-      "added_at": "2026-01-27 13:35:27",
-      "album": {
-        "name": "Blood Debt",
-        "url": "https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x"
-      },
-      "artists": [
-        {
-          "name": "Loprov",
-          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
-        },
-        {
-          "name": "Daratomic",
-          "url": "https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM"
-        },
-        {
-          "name": "Moleigh",
-          "url": "https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "Blood Debt",
-      "url": "https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4"
-    },
-    {
       "added_at": "2026-01-24 02:23:37",
       "album": {
         "name": "skeleton",
@@ -159,6 +143,22 @@
       "duration_ms": 152400,
       "name": "skeleton",
       "url": "https://open.spotify.com/track/5CpFnf53jOpKvPiOxse77C"
+    },
+    {
+      "added_at": "2026-02-11 18:44:30",
+      "album": {
+        "name": "My Dreams Are Real",
+        "url": "https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm"
+      },
+      "artists": [
+        {
+          "name": "Ian Martyn",
+          "url": "https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB"
+        }
+      ],
+      "duration_ms": 291789,
+      "name": "We Built Pillow Forts",
+      "url": "https://open.spotify.com/track/7gCEHgBxNJQElU2AInPSHM"
     },
     {
       "added_at": "2026-01-29 08:24:54",

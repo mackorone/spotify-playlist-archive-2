@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Isabel LaRosa
 
-3,240 songs - 6 day 7 hr 1 min
+3,241 songs - 6 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 | 2025-02-27 | 2025-03-21 |
 | [Der neue Stil meiner Generation](https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Der neue Stil meiner Generation](https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi) | 2:24 | 2023-02-02 | 2023-02-24 |
 | [der schlechteste \(mit ritter lean\)](https://open.spotify.com/track/0Se7XhBWk4FV20i4JkYgFm) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Wilmersdorfs Kind](https://open.spotify.com/album/7nXtCEr6XwIstTNFIsO9t4) | 3:09 | 2024-08-29 | 2024-10-11 |
+| [Der schlimmste Ort ist in mir drin](https://open.spotify.com/track/4T3QpM4OS10if1WkHBfbgE) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Der schlimmste Ort ist in mir drin](https://open.spotify.com/album/2GjplfLq8EecTxuHL1Gdid) | 3:18 | 2026-02-16 |  |
 | [Der Teufel tanzt im Volksgarten](https://open.spotify.com/track/1mVeGEE0hlBf78OGpZ0GoX) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Der Teufel tanzt im Volksgarten](https://open.spotify.com/album/7t80uGRnH8U9ynRqbdE5GM) | 2:46 | 2025-11-20 | 2025-12-12 |
 | [Der, der dich liebt](https://open.spotify.com/track/3F8vtandirkggs3aOXOGgX) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Der, der dich liebt](https://open.spotify.com/album/0x0NEolhTT3xmyyGi4hwbg) | 3:22 | 2024-09-26 | 2025-01-10 |
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-01-30 | 2024-05-24 |
@@ -3117,7 +3118,7 @@
 | [Wieder](https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [2sick](https://open.spotify.com/artist/1FQkPQ3IrjRAny1OXdGX8S) | [Wieder](https://open.spotify.com/album/6Gvc1zMQanZDbbupEAEgHe) | 2:12 | 2024-07-04 | 2024-08-09 |
 | [Wieder Bass](https://open.spotify.com/track/01OJl9QRwf34pZS4vbz2mM) | [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [Wieder Bass](https://open.spotify.com/album/4pfHRAGxUFWdyO8RfJKnqt) | 2:14 | 2025-02-27 | 2025-03-14 |
 | [Wieder in Berlin](https://open.spotify.com/track/7c3XsZt640j1FSxX6oVFle) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Wieder in Berlin](https://open.spotify.com/album/3qRRgRM2ounWPjgxlg19uX) | 2:07 | 2024-07-18 | 2024-07-27 |
-| [wieder mal](https://open.spotify.com/track/1JHeIF48hQCrSDcfBa1and) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [backtoback](https://open.spotify.com/album/1ROn8y69vSgolGXPCNFmp4) | 2:12 | 2025-11-27 |  |
+| [wieder mal](https://open.spotify.com/track/1JHeIF48hQCrSDcfBa1and) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [backtoback](https://open.spotify.com/album/1ROn8y69vSgolGXPCNFmp4) | 2:12 | 2025-11-27 | 2026-02-17 |
 | [Wieder weg](https://open.spotify.com/track/1NcyPg0A4LHfvO7F6vPaiZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Wieder weg](https://open.spotify.com/album/5xXJNwVbSI6LtGey8nNsfG) | 2:26 | 2024-10-03 | 2024-11-12 |
 | [Wieder zurück \(feat\. Edwin Rosen\)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh), [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Arsenalplatz](https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j) | 3:58 | 2025-11-27 | 2026-02-06 |
 | [wiedersehen](https://open.spotify.com/track/0ga3JEPvSWi6aSgMfPVJow) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [wiedersehen](https://open.spotify.com/album/5wwgn9Z4UB02M3mLaeuLuG) | 2:40 | 2023-04-06 | 2023-04-18 |

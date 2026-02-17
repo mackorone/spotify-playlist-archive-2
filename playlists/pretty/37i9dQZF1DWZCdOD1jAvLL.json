@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Tiga & Boys Noize",
-  "num_followers": 268881,
+  "num_followers": 268889,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
         "name": "Hell Yeah (Feat. Waxmaster)",
         "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 212307,
       "name": "Hell Yeah (Feat. Waxmaster)",
       "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -1291,22 +1291,6 @@
       "duration_ms": 199395,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
         "name": "GOLDEN GOOSE",
         "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
       },
@@ -1427,26 +1427,6 @@
       "duration_ms": 142163,
       "name": "GOLDEN GOOSE",
       "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
-        "name": "Mind Dimension (Adam Sellouk Remix)",
-        "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Mind Dimension - Adam Sellouk Remix",
-      "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -1475,22 +1455,22 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+        "name": "Mind Dimension (Adam Sellouk Remix)",
+        "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         },
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
         }
       ],
-      "duration_ms": 220689,
-      "name": "Entwined (feat. Grimes)",
-      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
+      "duration_ms": 219692,
+      "name": "Mind Dimension - Adam Sellouk Remix",
+      "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -1511,6 +1491,26 @@
       "duration_ms": 174550,
       "name": "Not Gonna Be Your Boo (feat. Robin S)",
       "url": "https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Entwined (feat. Grimes)",
+      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
+        "name": "Bandit (Club Mix)",
+        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bandit - Club Mix",
+      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
         "name": "Bring The House Down",
         "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
       },
@@ -1851,26 +1871,6 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
-        "name": "Bandit (Club Mix)",
-        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bandit - Club Mix",
-      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
         "name": "TECHY MF",
         "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
       },
@@ -1883,6 +1883,22 @@
       "duration_ms": 174240,
       "name": "TECHY MF",
       "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
+        "name": "Bang That",
+        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        }
+      ],
+      "duration_ms": 170898,
+      "name": "Bang That",
+      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -1911,22 +1927,6 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
-        "name": "Bang That",
-        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
-      },
-      "artists": [
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        }
-      ],
-      "duration_ms": 170898,
-      "name": "Bang That",
-      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
         "name": "The Pit",
         "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
       },
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 193273,
-      "name": "Disguise",
-      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
         "name": "Curry Goat",
         "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 139064,
       "name": "Curry Goat",
       "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 193273,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -2239,26 +2239,18 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
-        "name": "Everybody Knows (feat. IRAH)",
-        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7IHP1dS0qdQ5U65GtvLA8K"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Everybody Knows - feat. IRAH",
-      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
+      "duration_ms": 179876,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0m7yrxSM3BOhuuON1iY6hG"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -2279,18 +2271,26 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/7IHP1dS0qdQ5U65GtvLA8K"
+        "name": "Everybody Knows (feat. IRAH)",
+        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
       },
       "artists": [
         {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
         }
       ],
-      "duration_ms": 179876,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0m7yrxSM3BOhuuON1iY6hG"
+      "duration_ms": 168000,
+      "name": "Everybody Knows - feat. IRAH",
+      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
         "name": "Back To Back (feat. Lil Debbie)",
         "url": "https://open.spotify.com/album/3YubItmx9pSssoPGho6bQi"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 170667,
       "name": "Back To Back (feat. Lil Debbie)",
       "url": "https://open.spotify.com/track/12EpRsQ6t3Y3paxIPIEVBL"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "added_at": "2026-02-13 17:58:42",
@@ -2427,6 +2427,26 @@
     {
       "added_at": "2026-02-13 17:58:42",
       "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/76xqKLejdd53fWG64HzXhh"
+      },
+      "artists": [
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "hjud",
+          "url": "https://open.spotify.com/artist/2XuRU9n4z1J1iQIZO4QEk9"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/5rOMKmbCYaPgsyo5dpAHxT"
+    },
+    {
+      "added_at": "2026-02-13 17:58:42",
+      "album": {
         "name": "AUTOBAHN",
         "url": "https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq"
       },
@@ -2455,26 +2475,6 @@
       "duration_ms": 134418,
       "name": "Sex In The Mosh",
       "url": "https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p"
-    },
-    {
-      "added_at": "2026-02-13 17:58:42",
-      "album": {
-        "name": "Peak",
-        "url": "https://open.spotify.com/album/76xqKLejdd53fWG64HzXhh"
-      },
-      "artists": [
-        {
-          "name": "msft",
-          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
-        },
-        {
-          "name": "hjud",
-          "url": "https://open.spotify.com/artist/2XuRU9n4z1J1iQIZO4QEk9"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Peak",
-      "url": "https://open.spotify.com/track/5rOMKmbCYaPgsyo5dpAHxT"
     },
     {
       "added_at": "2026-02-13 17:58:42",

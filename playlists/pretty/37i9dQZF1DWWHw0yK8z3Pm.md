@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Thelma & James
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,653 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,657 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 95 | [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 |
 | 96 | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/album/6t5AGNTVsSIsAGWhichoba) | 3:23 |
 | 97 | [Don't Put Me in the Middle](https://open.spotify.com/track/7LoMG7OXnNG8GrKcPUstEm) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Don't Put Me in the Middle](https://open.spotify.com/album/6LnHgFPcqxZZDNbqItKjIi) | 4:33 |
-| 98 | [Little Miss](https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Little Miss](https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW) | 2:38 |
-| 99 | [Wrong Guy](https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Wrong Guy](https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY) | 3:10 |
+| 98 | [Wrong Guy](https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Wrong Guy](https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY) | 3:10 |
+| 99 | [Little Miss](https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Little Miss](https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW) | 2:38 |
 | 100 | [Fool In The Woods](https://open.spotify.com/track/39LPmlSn19QgsorctBZRy0) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Fool In The Woods](https://open.spotify.com/album/7GZdlw8JHWg69d9LCMEYwX) | 3:29 |
 
 Snapshot ID: `AAAAAKB5qoqQkxqEEOpHjQlRVeXcSQRZ`

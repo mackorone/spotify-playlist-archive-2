@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Follownaise",
+        "url": "https://open.spotify.com/album/2zvjEVuqwNcOlIUDe1bOYK"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138672,
+      "name": "Follownaise",
+      "url": "https://open.spotify.com/track/5aFE42f0LP3mYFBcoqYl29"
+    },
+    {
+      "album": {
         "name": "Gas Erop",
         "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
       },
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-17",
       "duration_ms": 176100,
       "name": "Party All Night (Facking Feestje)",
       "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"

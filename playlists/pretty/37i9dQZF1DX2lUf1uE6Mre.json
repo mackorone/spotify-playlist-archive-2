@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Amo, Aymen",
-  "num_followers": 915037,
+  "num_followers": 915038,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "BLN",
+        "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 167153,
+      "name": "BLN",
+      "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Tutto Bene",
         "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
       },
@@ -415,18 +435,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "WAS MIR NOCH BLEIBT",
-        "url": "https://open.spotify.com/album/6TNySfTjnd82If8pkAAO8W"
+        "name": "Nur Mailbox",
+        "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
       "artists": [
         {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 157618,
-      "name": "WAS MIR NOCH BLEIBT",
-      "url": "https://open.spotify.com/track/2SOUXV3gTf5loWJtCHvESv"
+      "duration_ms": 156000,
+      "name": "Nur Mailbox",
+      "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -451,22 +475,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Nur Mailbox",
-        "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
+        "name": "WAS MIR NOCH BLEIBT",
+        "url": "https://open.spotify.com/album/6TNySfTjnd82If8pkAAO8W"
       },
       "artists": [
         {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Nur Mailbox",
-      "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
+      "duration_ms": 157618,
+      "name": "WAS MIR NOCH BLEIBT",
+      "url": "https://open.spotify.com/track/2SOUXV3gTf5loWJtCHvESv"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -503,26 +523,6 @@
       "duration_ms": 163946,
       "name": "Schmerz",
       "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "BLN",
-        "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
-      },
-      "artists": [
-        {
-          "name": "AK AUSSERKONTROLLE",
-          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
-        },
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 167153,
-      "name": "BLN",
-      "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "un beso",
+        "url": "https://open.spotify.com/album/1dimKyFHU3QqO0XtxOkq7q"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "duration_ms": 138308,
+      "name": "un beso",
+      "url": "https://open.spotify.com/track/4Vbl3B0am2Bbp2FkKs9dNB"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "un beso",
-        "url": "https://open.spotify.com/album/1dimKyFHU3QqO0XtxOkq7q"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        }
-      ],
-      "duration_ms": 138308,
-      "name": "un beso",
-      "url": "https://open.spotify.com/track/4Vbl3B0am2Bbp2FkKs9dNB"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Von vorn",
         "url": "https://open.spotify.com/album/3gaUmAg4wUA7znwsVLyWEl"
       },
@@ -1243,6 +1243,26 @@
       "duration_ms": 137342,
       "name": "Von vorn",
       "url": "https://open.spotify.com/track/1HFXlVDXuU5kCVgk2EccP7"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "YUP",
+        "url": "https://open.spotify.com/album/3mZaT5LgIailiUjZxOQWTH"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "VL RIO",
+          "url": "https://open.spotify.com/artist/5qd1CABLM6xWV7Ea3X13ZR"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "YUP",
+      "url": "https://open.spotify.com/track/6GXlqCs1Prtm2gll5s9zkW"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "YUP",
-        "url": "https://open.spotify.com/album/3mZaT5LgIailiUjZxOQWTH"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "VL RIO",
-          "url": "https://open.spotify.com/artist/5qd1CABLM6xWV7Ea3X13ZR"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "YUP",
-      "url": "https://open.spotify.com/track/6GXlqCs1Prtm2gll5s9zkW"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "94 F",
         "url": "https://open.spotify.com/album/4XNrW1y0mE9e1EeAISzsRt"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "MAYBACH TRUCK",
-        "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
-      },
-      "artists": [
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        }
-      ],
-      "duration_ms": 108569,
-      "name": "MAYBACH TRUCK",
-      "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Late Night",
         "url": "https://open.spotify.com/album/66LP7glcrs50BYphCws0Jv"
       },
@@ -1443,6 +1427,58 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "MAYBACH TRUCK",
+        "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "duration_ms": 108569,
+      "name": "MAYBACH TRUCK",
+      "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Unendlich",
+        "url": "https://open.spotify.com/album/2jJldFA63eXdzqmrm1FIRy"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 132475,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6nWCMoUxbjvtdLa4ubl5vd"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "ANNABELLE",
+        "url": "https://open.spotify.com/album/52lWG2YSAnNP5i0TQqYYnC"
+      },
+      "artists": [
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        },
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "ANNABELLE",
+      "url": "https://open.spotify.com/track/7dPNIrG8ThsUmwpGEawD2h"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Diadem",
         "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
       },
@@ -1455,22 +1491,6 @@
       "duration_ms": 164937,
       "name": "Diadem",
       "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1491,6 +1511,22 @@
       "duration_ms": 191661,
       "name": "HOKUS POKUS",
       "url": "https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1567,6 +1603,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2jQgajFlj5okka8zk86aK8"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/19rgyUBShlb3SOuxvLkZzK"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Summer Baby",
         "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
       },
@@ -1603,18 +1655,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Unendlich",
-        "url": "https://open.spotify.com/album/2jJldFA63eXdzqmrm1FIRy"
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0noQsWzkwjjsrIhGu9kUWP"
       },
       "artists": [
         {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
         }
       ],
-      "duration_ms": 132475,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6nWCMoUxbjvtdLa4ubl5vd"
+      "duration_ms": 151986,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1639,26 +1691,6 @@
       "duration_ms": 192315,
       "name": "Sonne sehen",
       "url": "https://open.spotify.com/track/38WpejZvGtiyy68bgrlH9y"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "ANNABELLE",
-        "url": "https://open.spotify.com/album/52lWG2YSAnNP5i0TQqYYnC"
-      },
-      "artists": [
-        {
-          "name": "Ataypapi",
-          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
-        },
-        {
-          "name": "KC Rebell",
-          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "ANNABELLE",
-      "url": "https://open.spotify.com/track/7dPNIrG8ThsUmwpGEawD2h"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1699,22 +1731,6 @@
       "duration_ms": 214146,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3p4kiz2Gr2bRkTZzKRDb28"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/0noQsWzkwjjsrIhGu9kUWP"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
-        }
-      ],
-      "duration_ms": 151986,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1779,42 +1795,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "LAYLA WA LAYLA",
-        "url": "https://open.spotify.com/album/7jB1urmBEU0thqfFiPzH0H"
-      },
-      "artists": [
-        {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        },
-        {
-          "name": "Zuna",
-          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "DRECKIGE DOLLARS",
-      "url": "https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/2jQgajFlj5okka8zk86aK8"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 144253,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/19rgyUBShlb3SOuxvLkZzK"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/3Co0FCldADeWNu51p7cOAu"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 125307,
       "name": "Bang",
       "url": "https://open.spotify.com/track/2v7mskZy5FYH2r993PoZIU"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "LAYLA WA LAYLA",
+        "url": "https://open.spotify.com/album/7jB1urmBEU0thqfFiPzH0H"
+      },
+      "artists": [
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "DRECKIGE DOLLARS",
+      "url": "https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1879,22 +1879,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "DU FEHLST",
-        "url": "https://open.spotify.com/album/2YqbtzJH5XlaYVkDv9r4Yi"
+        "name": "DEUTSCHER BADBOY",
+        "url": "https://open.spotify.com/album/0LOnAZ6R6N3RuvqFzeuGPe"
       },
       "artists": [
         {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        },
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
         }
       ],
-      "duration_ms": 163064,
-      "name": "DU FEHLST",
-      "url": "https://open.spotify.com/track/4Vna11o1Sw268jgcsXLace"
+      "duration_ms": 143558,
+      "name": "DEUTSCHER BADBOY",
+      "url": "https://open.spotify.com/track/0uSpBgfi1AesqaL4WlYnfQ"
     }
   ],
   "unique_name": "Shisha Club",
