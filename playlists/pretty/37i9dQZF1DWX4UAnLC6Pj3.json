@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! El Fantasma \ud83d\udcf8",
-  "num_followers": 1295030,
+  "num_followers": 1295281,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
-        "name": "Habla Tu Ex",
-        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Habla Tu Ex",
-      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
-    },
-    {
-      "added_at": "2026-02-13 06:00:06",
-      "album": {
         "name": "Somos Como El Viento",
         "url": "https://open.spotify.com/album/2LNAK5kPIZiVEWfRiaE3LM"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+        "name": "Habla Tu Ex",
+        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
         }
       ],
-      "duration_ms": 122583,
-      "name": "Que Chulada - En Vivo",
-      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+      "duration_ms": 193103,
+      "name": "Habla Tu Ex",
+      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
     },
     {
       "added_at": "2026-02-13 06:00:06",
@@ -611,6 +595,22 @@
       "duration_ms": 177533,
       "name": "El Amor No Es Suficiente",
       "url": "https://open.spotify.com/track/4qNLPr5NuhX98yqUMHZhgW"
+    },
+    {
+      "added_at": "2026-02-13 06:00:06",
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 122583,
+      "name": "Que Chulada - En Vivo",
+      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
     },
     {
       "added_at": "2026-02-13 06:00:06",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
-        "name": "N\u00famero Equivocado",
-        "url": "https://open.spotify.com/album/2EJH8SGmyMJ1YsbMTX5csC"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        },
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 204365,
-      "name": "N\u00famero Equivocado",
-      "url": "https://open.spotify.com/track/5nqw4d2N3h6CqD5TkdZoLX"
-    },
-    {
-      "added_at": "2026-02-13 06:00:06",
-      "album": {
         "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
         "url": "https://open.spotify.com/album/0iqkcchDWADy8fpC9zDFMr"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
-        "name": "Aunque Nos Tiren Hate",
-        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
+        "name": "N\u00famero Equivocado",
+        "url": "https://open.spotify.com/album/2EJH8SGmyMJ1YsbMTX5csC"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 186454,
-      "name": "Cada D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
+      "duration_ms": 204365,
+      "name": "N\u00famero Equivocado",
+      "url": "https://open.spotify.com/track/5nqw4d2N3h6CqD5TkdZoLX"
     },
     {
       "added_at": "2026-02-13 06:00:06",
@@ -799,6 +783,22 @@
       "duration_ms": 138651,
       "name": "M\u00e1ndame La Ubi",
       "url": "https://open.spotify.com/track/22vRSKgaMyGHhnozVxDAyj"
+    },
+    {
+      "added_at": "2026-02-13 06:00:06",
+      "album": {
+        "name": "Aunque Nos Tiren Hate",
+        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 186454,
+      "name": "Cada D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
     },
     {
       "added_at": "2026-02-13 06:00:06",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
+        "name": "Lo Veras de Lejos",
+        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Lo Veras de Lejos",
+      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
+    },
+    {
+      "added_at": "2026-02-13 06:00:06",
+      "album": {
         "name": "Una Noche Contigo",
         "url": "https://open.spotify.com/album/67YPrHoO6YMZGY8yJ4Me7F"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 203771,
       "name": "Una Noche Contigo",
       "url": "https://open.spotify.com/track/3XI2OcX3psYuOdeE5Pe77t"
-    },
-    {
-      "added_at": "2026-02-13 06:00:06",
-      "album": {
-        "name": "Lo Veras de Lejos",
-        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Lo Veras de Lejos",
-      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
     },
     {
       "added_at": "2026-02-13 06:00:06",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
+        "name": "Me cans\u00e9 de morir por tu amor",
+        "url": "https://open.spotify.com/album/5ltQPT6TIBNgNKjp3EBRqr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Delta Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
+        },
+        {
+          "name": "Banda Melon Melon",
+          "url": "https://open.spotify.com/artist/6Z9ZNNLz099vKp9Udr9GCY"
+        }
+      ],
+      "duration_ms": 229571,
+      "name": "Me cans\u00e9 de morir por tu amor",
+      "url": "https://open.spotify.com/track/0Es05RHPqGBJRJlcvG5CAi"
+    },
+    {
+      "added_at": "2026-02-13 06:00:06",
+      "album": {
         "name": "60 Aniversario: El Legado Contin\u00faa",
         "url": "https://open.spotify.com/album/0dIogYaSGCLU5fiVJMin26"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 221217,
       "name": "Para Toda La Vida",
       "url": "https://open.spotify.com/track/4vdCYL6S8koDV3h3e9UlhY"
-    },
-    {
-      "added_at": "2026-02-13 06:00:06",
-      "album": {
-        "name": "Me cans\u00e9 de morir por tu amor",
-        "url": "https://open.spotify.com/album/5ltQPT6TIBNgNKjp3EBRqr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Delta Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
-        },
-        {
-          "name": "Banda Melon Melon",
-          "url": "https://open.spotify.com/artist/6Z9ZNNLz099vKp9Udr9GCY"
-        }
-      ],
-      "duration_ms": 229571,
-      "name": "Me cans\u00e9 de morir por tu amor",
-      "url": "https://open.spotify.com/track/0Es05RHPqGBJRJlcvG5CAi"
     },
     {
       "added_at": "2026-02-13 06:00:06",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
-        "name": "Armando Aguirre",
-        "url": "https://open.spotify.com/album/1byarWQ4cUypN9fu5vW9ZC"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 161228,
-      "name": "Armando Aguirre",
-      "url": "https://open.spotify.com/track/62VbQIzls3Tg16odpZ4paF"
-    },
-    {
-      "added_at": "2026-02-13 06:00:06",
-      "album": {
         "name": "En eso no quedamos / Lo callar\u00e9 / Una p\u00e1gina m\u00e1s (En vivo)",
         "url": "https://open.spotify.com/album/0u2KYv85qj5dWv42kFfgvm"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 319085,
       "name": "En eso no quedamos / Lo callar\u00e9 / Una p\u00e1gina m\u00e1s - En vivo",
       "url": "https://open.spotify.com/track/2lT5IknctipMB6oyZ1eo0x"
+    },
+    {
+      "added_at": "2026-02-13 06:00:06",
+      "album": {
+        "name": "Armando Aguirre",
+        "url": "https://open.spotify.com/album/1byarWQ4cUypN9fu5vW9ZC"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 161228,
+      "name": "Armando Aguirre",
+      "url": "https://open.spotify.com/track/62VbQIzls3Tg16odpZ4paF"
     },
     {
       "added_at": "2026-02-13 06:00:06",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-13 06:00:06",
       "album": {
-        "name": "Son Amoltepec",
-        "url": "https://open.spotify.com/album/3jG6LQLjAuZQbPVvKTMSl5"
-      },
-      "artists": [
-        {
-          "name": "Banda Llano Verde",
-          "url": "https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54"
-        }
-      ],
-      "duration_ms": 171376,
-      "name": "Son Amoltepec",
-      "url": "https://open.spotify.com/track/0YENZJJ07UhscqJcBLYl6r"
-    },
-    {
-      "added_at": "2026-02-13 06:00:06",
-      "album": {
         "name": "Disculpe Usted",
         "url": "https://open.spotify.com/album/6ObgzEGebjGCGagzzFHwDq"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 201500,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/0no1lxFdg7ma79KH0hy2tK"
+    },
+    {
+      "added_at": "2026-02-13 06:00:06",
+      "album": {
+        "name": "Son Amoltepec",
+        "url": "https://open.spotify.com/album/3jG6LQLjAuZQbPVvKTMSl5"
+      },
+      "artists": [
+        {
+          "name": "Banda Llano Verde",
+          "url": "https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54"
+        }
+      ],
+      "duration_ms": 171376,
+      "name": "Son Amoltepec",
+      "url": "https://open.spotify.com/track/0YENZJJ07UhscqJcBLYl6r"
     },
     {
       "added_at": "2026-02-13 06:00:06",

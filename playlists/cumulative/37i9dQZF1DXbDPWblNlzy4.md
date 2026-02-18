@@ -2,7 +2,7 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Nsqk
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Joaquina
 
 525 songs - 1 day 3 hr 26 min
 

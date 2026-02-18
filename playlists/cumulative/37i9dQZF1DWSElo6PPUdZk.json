@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 160056,
       "name": "Mad at U",
       "url": "https://open.spotify.com/track/5gUw3RlfeWfSPKoLGlGu5E"
@@ -4548,6 +4548,32 @@
       "duration_ms": 141750,
       "name": "RUMAL",
       "url": "https://open.spotify.com/track/1HSgJzdRzYE0nPbR0PlEyt"
+    },
+    {
+      "album": {
+        "name": "Saadgi",
+        "url": "https://open.spotify.com/album/4x4UsoibuP539hCRTVTWKT"
+      },
+      "artists": [
+        {
+          "name": "Basant Kur",
+          "url": "https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Coachsahb",
+          "url": "https://open.spotify.com/artist/6Bh6azkXf8ySGXFCNuYifM"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Saadgi",
+      "url": "https://open.spotify.com/track/3pO9js7UmAvZWbOLeW0FHo"
     },
     {
       "album": {

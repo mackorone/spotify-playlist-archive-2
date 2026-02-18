@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 151781,
+  "num_followers": 151799,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAADaGfkc7v7sJs/z90LkuUqM",
+  "snapshot_id": "aZJeAAAAAADFfMBVnarW62E09OaICeEE",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/2AGIiRCZ9q5cYOfQ8LmU3B"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 187240,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
     },
     {
       "added_at": null,

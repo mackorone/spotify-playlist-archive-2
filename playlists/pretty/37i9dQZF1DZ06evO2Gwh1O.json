@@ -1,12 +1,12 @@
 {
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 8011,
+  "num_followers": 8013,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAACwhk3gjedDkLakuEtlw5Z6",
+  "snapshot_id": "aZJeAAAAAAAwf/TsSYX2uaZD883ugngb",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf"
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 255525,
-      "name": "Rookie",
-      "url": "https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT"
+      "duration_ms": 202746,
+      "name": "Kicking and Screaming",
+      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your History Is Mine: 2002-2009",
-        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 202746,
-      "name": "Kicking and Screaming",
-      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
+      "duration_ms": 255525,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Rules and Games",
-      "url": "https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m"
+      "duration_ms": 218293,
+      "name": "Maybe I Am?",
+      "url": "https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/3VKTPd7PLTsRSqrwIjcF5c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conduit",
         "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 146786,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0VhnzOzkZk4QOsdQjV9DLL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Ways To Scream Your Name",
-        "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Art Of American Football",
-      "url": "https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
+        "name": "Seven Ways To Scream Your Name",
+        "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 170720,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/3VKTPd7PLTsRSqrwIjcF5c"
+      "duration_ms": 153333,
+      "name": "Art Of American Football",
+      "url": "https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL"
     },
     {
       "added_at": null,
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 218293,
-      "name": "Maybe I Am?",
-      "url": "https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "Old Hymns",
-      "url": "https://open.spotify.com/track/7dbHDlGVMtdvcXhM5L6Ytf"
+      "duration_ms": 170320,
+      "name": "Rules and Games",
+      "url": "https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m"
     },
     {
       "added_at": null,

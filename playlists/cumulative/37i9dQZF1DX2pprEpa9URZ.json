@@ -8202,7 +8202,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 304418,
       "name": "Samra Samra",
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
@@ -9972,6 +9972,24 @@
       "duration_ms": 457000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5lc74AXwQnoAvXpef0GnvD"
+    },
+    {
+      "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/3BGVIwC4MahiHd96PCLaqt"
+      },
+      "artists": [
+        {
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352764,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/3SR8pZlWVascMkxrOhDDXk"
     },
     {
       "album": {

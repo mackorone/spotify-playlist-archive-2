@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
-  "num_followers": 77262,
+  "num_followers": 77305,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,26 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "Uzo Ano",
+        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Uzo Ano",
+      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 170475,
       "name": "Rules Of Life",
       "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "Uzo Ano",
-        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Uzo Ano",
-      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "OH MY DAYS",
+        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
+      },
+      "artists": [
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "duration_ms": 119166,
+      "name": "OH MY DAYS",
+      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 129079,
       "name": "Idansk1 tw0",
       "url": "https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "OH MY DAYS",
-        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
-      },
-      "artists": [
-        {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
-        }
-      ],
-      "duration_ms": 119166,
-      "name": "OH MY DAYS",
-      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "My Amigo",
-        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 160043,
-      "name": "My Amigo",
-      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
         "name": "BORN TO BE GREAT",
         "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 173559,
       "name": "BORN TO BE GREAT",
       "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
+        "name": "My Amigo",
+        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 160043,
+      "name": "My Amigo",
+      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 169018,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
         "name": "Coco Samba",
         "url": "https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
+        "name": "Steady x Fuji Explosion",
+        "url": "https://open.spotify.com/album/77tfHUei566yP3u8GQotG4"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         }
       ],
-      "duration_ms": 169018,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
+      "duration_ms": 199607,
+      "name": "Fuji Explosion",
+      "url": "https://open.spotify.com/track/2glMJh0s7jz2WA6sM6dU6g"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2026-02-13 00:01:43",
       "album": {
-        "name": "Steady x Fuji Explosion",
-        "url": "https://open.spotify.com/album/77tfHUei566yP3u8GQotG4"
-      },
-      "artists": [
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 199607,
-      "name": "Fuji Explosion",
-      "url": "https://open.spotify.com/track/2glMJh0s7jz2WA6sM6dU6g"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
         "name": "YAZI",
         "url": "https://open.spotify.com/album/47vElf8frT0kCgKE3qLcC7"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 138446,
       "name": "Up To The Sky",
       "url": "https://open.spotify.com/track/0C5EAk8CLWstW061MaIqBD"
-    },
-    {
-      "added_at": "2026-02-13 00:01:43",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF"
     },
     {
       "added_at": "2026-02-13 00:01:43",
@@ -1275,6 +1255,26 @@
       "duration_ms": 192000,
       "name": "Olufunmi (The Missing Recipe)",
       "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+    },
+    {
+      "added_at": "2026-02-13 00:01:43",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF"
     },
     {
       "added_at": "2026-02-13 00:01:43",

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-721 songs - 2 day 13 hr 18 min
+722 songs - 2 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 | 2025-05-16 |
 | [Take Care of Me](https://open.spotify.com/track/6lrFxFgwf9ePXlQhJS7tcI) | [Tondi Rams](https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1), [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx) | [Take Care of Me](https://open.spotify.com/album/10NoCod7WbsamE1GkAdFk8) | 4:20 | 2025-01-24 | 2025-03-07 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 | 2023-11-03 |
+| [Teach me how to love](https://open.spotify.com/track/0Gm6s6y9F4K6a4Yqq7mxXV) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Destiny Paul\-Enenche](https://open.spotify.com/artist/4kqZT7so05YLthY4Ue7tgu), [Paul\-Daniel Paul\-Enenche](https://open.spotify.com/artist/37IbjRwNWMpYXHlPquCcWG) | [Teach me how to love](https://open.spotify.com/album/6C9XTZaFlY4TKVX5Vywz7D) | 6:01 | 2026-02-13 |  |
 | [Tenkou! Why Feel Sorry?](https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Souvenirs](https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx) | 4:03 | 2024-02-23 | 2024-03-31 |
 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 | 2025-05-30 | 2025-06-27 |
 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-15 | 2024-08-21 |
@@ -613,7 +614,7 @@
 | [The Benediction](https://open.spotify.com/track/636EGinKoOcTZc5pTKrFxs) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Jasmine Jacobs](https://open.spotify.com/artist/7e63Fo8teAVzN3xIFBEHN7) | [The Benediction](https://open.spotify.com/album/3Gyr517Hwqq9kZDVIt437D) | 4:07 | 2025-05-30 | 2025-07-19 |
 | [The Darkest Light](https://open.spotify.com/track/3XozpvZljkeLZ2EwyS08nb) | [MATTHEWS](https://open.spotify.com/artist/6axjcGbkcunMPd8fOZCiDw) | [The Darkest Light](https://open.spotify.com/album/13CZP5zWkQ4UmoXLk25DqT) | 3:34 | 2025-12-05 | 2026-02-02 |
 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 | 2024-01-26 | 2025-06-13 |
-| [The Entrance Procession \- Live](https://open.spotify.com/track/799Lwti2ygmoiEDC20Uo16) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Ohemgee Faaji Friday 7.0 \(Live\)](https://open.spotify.com/album/3GikYzajSso0DDMrze0DEi) | 9:20 | 2025-08-08 |  |
+| [The Entrance Procession \- Live](https://open.spotify.com/track/799Lwti2ygmoiEDC20Uo16) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Ohemgee Faaji Friday 7.0 \(Live\)](https://open.spotify.com/album/3GikYzajSso0DDMrze0DEi) | 9:20 | 2025-08-08 | 2026-02-18 |
 | [The Glory \- Live](https://open.spotify.com/track/65pqBHFVIpW025dqKPs7ui) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [The Glory \(Live\)](https://open.spotify.com/album/2vzD3ednExidHSAFepr7PG) | 9:43 | 2025-08-22 | 2025-10-03 |
 | [The Great Romance](https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4) | [Eri Ife](https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg) | [Centre\(d\)](https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo) | 3:58 | 2024-02-16 | 2024-04-05 |
 | [The Ground We Stand On](https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 8:32 | 2024-01-12 | 2024-03-26 |

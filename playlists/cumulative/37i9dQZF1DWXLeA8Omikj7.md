@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,163 songs - 3 day 13 hr 13 min
+1,164 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Mirrors](https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Mirrors](https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY) | 3:45 | 2023-07-07 | 2023-09-20 |
 | [Missing the Moon](https://open.spotify.com/track/2JvbaCFEHS8aaakQ92xWmz) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Missing the Moon](https://open.spotify.com/album/1hNTKdVUzEhglYbukbndok) | 3:32 | 2023-03-03 | 2023-05-27 |
 | [ML3A](https://open.spotify.com/track/1o9DkWP5zph0hi09OdsiLi) | [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq), [Pilo](https://open.spotify.com/artist/7wyxqLCu88yJqDCl2EfESr) | [In Fragments](https://open.spotify.com/album/7IPytA4ux0ldE6LcsU3fwt) | 2:27 | 2020-08-26 | 2020-10-22 |
+| [Mockingbird](https://open.spotify.com/track/6BNPuxL7wzw6QZSBNGtwsD) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Mockingbird](https://open.spotify.com/album/1Dg8JaCDUih4uz63KlHQVX) | 5:02 | 2026-02-13 |  |
 | [Mollie \(hear your name\)](https://open.spotify.com/track/4RK8ACIo6MlEv8WyMIoxOa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:01 | 2023-03-24 | 2024-06-14 |
 | [Moment](https://open.spotify.com/track/5qVwiIw05xLv3IwTtqdd5S) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Two Fold Pt\. 2](https://open.spotify.com/album/6WAm1Z7pv03iivo9jCMePQ) | 3:12 | 2019-05-26\* | 2020-08-26 |
 | [Moments](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Moments](https://open.spotify.com/album/29h6YzXV7UUXJRdpnQaJ9P) | 3:20 | 2019-05-26\* | 2020-10-21 |
@@ -1108,7 +1109,7 @@
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2023-09-29 | 2025-10-10 |
 | [Voyage de la planète](https://open.spotify.com/track/3gCofca5qSvByjfLbdxmds) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Voyage de la planète](https://open.spotify.com/album/0pcfZtOOtLD1tsEqUzkFtF) | 7:38 | 2019-06-21 | 2020-10-22 |
 | [Waiting on You](https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys), [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Waiting on You](https://open.spotify.com/album/2iOQO77EAtci3tu0KZLH4h) | 4:07 | 2021-02-28 | 2025-08-30 |
-| [Wake Up](https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Wake Up](https://open.spotify.com/album/5n4XgI1I1bclmEDBFafsi4) | 2:22 | 2025-02-14 |  |
+| [Wake Up](https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Wake Up](https://open.spotify.com/album/5n4XgI1I1bclmEDBFafsi4) | 2:22 | 2025-02-14 | 2026-02-18 |
 | [Wake Up \- Nuage Remix](https://open.spotify.com/track/2ksI5VBtOvZegQBQRQgzLW) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/69dEWHRcIkqm2ycjET4WSB) | 3:36 | 2021-07-23 | 2022-10-05 |
 | [Wake Up \- Nuage Remix](https://open.spotify.com/track/6lEM7FPuQapGIDEwy0tNvj) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/2wrwP8NMrP8YGCj8g2ssxu) | 3:36 | 2022-09-09 | 2024-04-19 |
 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 | 2023-05-12 | 2024-02-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Charli xcx, CORTIS, Faizal Tahir, Usop, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,832 likes - 118 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,827 likes - 118 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

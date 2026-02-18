@@ -1,15 +1,131 @@
 {
   "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
-  "num_followers": 171056,
+  "num_followers": 171082,
   "original_name": "South Asian Sufi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF2uAEQ+sJfUb0qr6sF0OOvjDX1r",
+  "snapshot_id": "AAAAADicFeSMWa8WvhpdE4BOFbi3GWGF",
   "tracks": [
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Aaqa - Coke Studio Season 9",
+        "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 507000,
+      "name": "Aaqa - Coke Studio Season 9",
+      "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Bandeya Ho",
+        "url": "https://open.spotify.com/album/5XxrMEnLiOvGQ3wnvT3Ayd"
+      },
+      "artists": [
+        {
+          "name": "Khawar Jawad",
+          "url": "https://open.spotify.com/artist/1Yn6sVYDKokQTn0wjZ90Xx"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Bandeya Ho",
+      "url": "https://open.spotify.com/track/0SOD8Y5sTbMbyu1dC7HUWJ"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "duration_ms": 401380,
+      "name": "Charkha",
+      "url": "https://open.spotify.com/track/2G91arznljxk6VonGl0s2i"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Amjad Sabri",
+          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "duration_ms": 717190,
+      "name": "Rang",
+      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Fanoos",
+        "url": "https://open.spotify.com/album/4yuJMjY7oKMamaf8apSGgl"
+      },
+      "artists": [
+        {
+          "name": "Zohaib Kazi",
+          "url": "https://open.spotify.com/artist/6KLLWcERsoHPN3Mu0Z20ci"
+        },
+        {
+          "name": "Riaz Qadri",
+          "url": "https://open.spotify.com/artist/7xL0WrnmFNsnjfgCcXvdLS"
+        }
+      ],
+      "duration_ms": 310857,
+      "name": "Takht Hazaar (feat. Riaz Qadri)",
+      "url": "https://open.spotify.com/track/2VwOt0wnXOylavVC4Z34Qq"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Coke Studio Season 6",
+        "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
+      },
+      "artists": [
+        {
+          "name": "Saieen Zahoor",
+          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
+        },
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "duration_ms": 597866,
+      "name": "Rabba Ho",
+      "url": "https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Chahat Meri",
         "url": "https://open.spotify.com/album/1sGE43Uxo5l5wyJP3LRoVo"
@@ -33,10 +149,26 @@
       "url": "https://open.spotify.com/track/3cUduIIrrn9OhFpyhssh4N"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+        "name": "Wohi Khuda",
+        "url": "https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 409757,
+      "name": "Wohi Khuda",
+      "url": "https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Raqs-e-Bismil",
+        "url": "https://open.spotify.com/album/40m7KZRpYGJ1vgRAuKpl1R"
       },
       "artists": [
         {
@@ -44,68 +176,100 @@
           "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
         }
       ],
-      "duration_ms": 395070,
-      "name": "Dost",
-      "url": "https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg"
+      "duration_ms": 378693,
+      "name": "Yaar Ko Hamne Ja Baja Dekha",
+      "url": "https://open.spotify.com/track/2GZMJVqqEMM2uSHF1Uak6y"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
-        "name": "Piya Ki Hui",
-        "url": "https://open.spotify.com/album/4OGJMjjhZ9qvbUemFnMDWF"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
       },
       "artists": [
         {
-          "name": "Solomon Majid",
-          "url": "https://open.spotify.com/artist/6S9PnfzXydTE22placBcz6"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Rasaab Amir",
-          "url": "https://open.spotify.com/artist/2ItVcQurO4wXAUdWgm0zwT"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Piya Ki Hui",
-      "url": "https://open.spotify.com/track/7CDRqnS1L6wnOBsSEaxh3O"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Sajan Ghar Aayaa",
-        "url": "https://open.spotify.com/album/4IZ2wVgaOIQdoFlAjwFu94"
-      },
-      "artists": [
-        {
-          "name": "Ghayas Haider",
-          "url": "https://open.spotify.com/artist/2tkZLbhG41sN7Kf4MsiNrw"
-        }
-      ],
-      "duration_ms": 380055,
-      "name": "Sajan Ghar Aayaa",
-      "url": "https://open.spotify.com/track/3HF5K8pRVyIN4EGteQwwnK"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Lost;Found",
-        "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
-      },
-      "artists": [
-        {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
         },
         {
-          "name": "Huzaif Nazar",
-          "url": "https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy"
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
         }
       ],
-      "duration_ms": 460833,
-      "name": "Sajde",
-      "url": "https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN"
+      "duration_ms": 470500,
+      "name": "Kun Faya Kun",
+      "url": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Coke Studio Season 11: Episode 3 (Rung)",
+        "url": "https://open.spotify.com/album/58D1HICtvmP5L9c3MIHo2J"
+      },
+      "artists": [
+        {
+          "name": "Fareed Ayaz Abu Muhammad Qawwal",
+          "url": "https://open.spotify.com/artist/4IodA7kOT3aXLU9by0lATP"
+        }
+      ],
+      "duration_ms": 784695,
+      "name": "Piya Ghar Aaya - Coke Studio Season 11",
+      "url": "https://open.spotify.com/track/7GzO8lnk3k8g5QDdKk69ge"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Asrar",
+          "url": "https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn"
+        }
+      ],
+      "duration_ms": 357579,
+      "name": "Sab Aakho Ali Ali",
+      "url": "https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Nach Punjaban",
+        "url": "https://open.spotify.com/album/1eGjOBGtw2tT4lVWGuM5kf"
+      },
+      "artists": [
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        }
+      ],
+      "duration_ms": 388133,
+      "name": "Tere Rang Rang",
+      "url": "https://open.spotify.com/track/5nfT5lpnN49MHbvEREXrHf"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Wajd, Vol. 1",
+        "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "duration_ms": 448500,
+      "name": "Bhit Ja Bhitai",
+      "url": "https://open.spotify.com/track/62vCn3L8IyRhlxMgsYmSwT"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Karde Karam Tu (From \"Parwarish\")",
         "url": "https://open.spotify.com/album/0HNO3WO0pzK2gsaDsVnCjg"
@@ -121,35 +285,23 @@
       "url": "https://open.spotify.com/track/6VOwPPenagLmIJ679Nx2ZS"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
-        "name": "Guru (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5"
+        "name": "Wajd, Vol. 1",
+        "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Murtuza Khan",
-          "url": "https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj"
-        },
-        {
-          "name": "Qadir Khan",
-          "url": "https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT"
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
         }
       ],
-      "duration_ms": 309640,
-      "name": "Tere Bina",
-      "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
+      "duration_ms": 237430,
+      "name": "Rung",
+      "url": "https://open.spotify.com/track/0KRVbjl6ScvtBhBk72fYsW"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Anwar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc"
@@ -165,43 +317,7 @@
       "url": "https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Ishq Namazan",
-        "url": "https://open.spotify.com/album/5JEs0TZgm2OrM4hhbsZSnz"
-      },
-      "artists": [
-        {
-          "name": "Nooran Lal",
-          "url": "https://open.spotify.com/artist/4lVOolRQDokojhzCYM133w"
-        }
-      ],
-      "duration_ms": 495260,
-      "name": "Hum Faqiron Se Dosti Karlo",
-      "url": "https://open.spotify.com/track/10mRDHKUm5drallalnZLWE"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Afreen Afreen (Coke Studio Season 9)",
-        "url": "https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId"
-      },
-      "artists": [
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        },
-        {
-          "name": "Momina Mustehsan",
-          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Afreen Afreen (Coke Studio Season 9)",
-      "url": "https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Maula Toh Puch",
         "url": "https://open.spotify.com/album/7tD8D4xZ5WlHcP1K9oPebf"
@@ -229,27 +345,79 @@
       "url": "https://open.spotify.com/track/6lnJrKSdVbGYdN1qK2ESSP"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
-        "name": "The Dirty Picture",
-        "url": "https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO"
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
       "artists": [
         {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Kamal Khan",
-          "url": "https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8"
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
         }
       ],
-      "duration_ms": 325257,
-      "name": "Ishq Sufiyana (Male)",
-      "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
+      "duration_ms": 395070,
+      "name": "Dost",
+      "url": "https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Alif",
+        "url": "https://open.spotify.com/album/2KUzNELLaCZrTUuDzd1Gtd"
+      },
+      "artists": [
+        {
+          "name": "Ahsan Javed",
+          "url": "https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE"
+        },
+        {
+          "name": "Usamasutra",
+          "url": "https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Alif",
+      "url": "https://open.spotify.com/track/1IjVbXiyU4MVXWa2Gtkzxv"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Saieen Zahoor",
+          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
+        }
+      ],
+      "duration_ms": 492500,
+      "name": "Lagi Bina / Chal Mele Noon Challiye",
+      "url": "https://open.spotify.com/track/1LuLpzIUbHC400nO8XRs5t"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Khaled Anam",
+        "url": "https://open.spotify.com/album/2K3TNBb3ETblTPmUAy2Izg"
+      },
+      "artists": [
+        {
+          "name": "Khaled Anam",
+          "url": "https://open.spotify.com/artist/2Z2saE6S9doRPap657WWRD"
+        }
+      ],
+      "duration_ms": 241967,
+      "name": "Peera Ho",
+      "url": "https://open.spotify.com/track/5yiY1CdV3YKTOgEwe4tTJj"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Ye Rang",
         "url": "https://open.spotify.com/album/1cM92PlMSWbqwRhRhglrS9"
@@ -269,23 +437,7 @@
       "url": "https://open.spotify.com/track/7cM0mHXDVmyBjWHzLqlwZh"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Main Kaun Hoon",
-        "url": "https://open.spotify.com/album/46N671VY1hEdrSdVMbMVDE"
-      },
-      "artists": [
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        }
-      ],
-      "duration_ms": 255216,
-      "name": "Main Kaun Hoon",
-      "url": "https://open.spotify.com/track/2hK1LA9GCG23VinwnlLfMS"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
@@ -313,23 +465,55 @@
       "url": "https://open.spotify.com/track/0tY8ZIArzjkH6dbXp42ohg"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
-        "name": "Coke Studio Season 9: Sound of the Nation",
-        "url": "https://open.spotify.com/album/4X5hkWWjsoqKNeDimjWF5L"
+        "name": "Wajd, Vol. 1",
+        "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
       },
       "artists": [
         {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
         }
       ],
-      "duration_ms": 321500,
-      "name": "O Re",
-      "url": "https://open.spotify.com/track/1yrpoh26DVmRqMrXpQsnou"
+      "duration_ms": 518689,
+      "name": "Kamli Da Dhola",
+      "url": "https://open.spotify.com/track/2wCldqdsaqfVZ3w9vbM5g9"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Main Kaun Hoon",
+        "url": "https://open.spotify.com/album/46N671VY1hEdrSdVMbMVDE"
+      },
+      "artists": [
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        }
+      ],
+      "duration_ms": 255216,
+      "name": "Main Kaun Hoon",
+      "url": "https://open.spotify.com/track/2hK1LA9GCG23VinwnlLfMS"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Tune Dewana Banaya",
+        "url": "https://open.spotify.com/album/38bkGAUNsOEchtWQ5IT8Gh"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "duration_ms": 513711,
+      "name": "Tune Dewana Banaya",
+      "url": "https://open.spotify.com/track/3eA5kQKut97n90LGLLmX3x"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Karde Karam Maula",
         "url": "https://open.spotify.com/album/3clbWouITYey6EPsDPKykP"
@@ -349,7 +533,23 @@
       "url": "https://open.spotify.com/track/5Athu3P1hU22e3GgX4oKFx"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Wajd, Vol. 1",
+        "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "duration_ms": 404001,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/7J2YEpZ1fIodpfsZqSY6wK"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
@@ -381,7 +581,23 @@
       "url": "https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Sufi Medley",
+        "url": "https://open.spotify.com/album/7qMlaMJNlHUJjpRLQfj3L6"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Qureshi",
+          "url": "https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8"
+        }
+      ],
+      "duration_ms": 490478,
+      "name": "Sufi Medley",
+      "url": "https://open.spotify.com/track/5NnRYBrDpYLvoBHaR3KMPQ"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "30 Greatest Hits Rahat and Nusrat Fateh Ali Khan",
         "url": "https://open.spotify.com/album/3NGs9Qp17dqWazKfqrkZMs"
@@ -397,7 +613,7 @@
       "url": "https://open.spotify.com/track/46QBWRo5ar8B3pGjgAOANI"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Tajdar-E-Haram Coke Studio Season 8",
         "url": "https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t"
@@ -413,63 +629,7 @@
       "url": "https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Richa Sharma",
-          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
-        }
-      ],
-      "duration_ms": 365706,
-      "name": "Sajdaa",
-      "url": "https://open.spotify.com/track/5upmbnXemLfPvs3d2eyHml"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Kurbaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7gJUjDpRvBRY5oCh4pC9d5"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Salim Merchant",
-          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Shukran Allah",
-      "url": "https://open.spotify.com/track/3nKEiJUeaWn8q2O9I1xwlB"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Bajrangi Bhaijaan",
         "url": "https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t"
@@ -493,7 +653,7 @@
       "url": "https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
@@ -517,7 +677,7 @@
       "url": "https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Delhi-6",
         "url": "https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh"
@@ -545,43 +705,7 @@
       "url": "https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Par Chanaa De (Coke Studio Season 9)",
-        "url": "https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv"
-      },
-      "artists": [
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
-        }
-      ],
-      "duration_ms": 666000,
-      "name": "Par Chanaa De (Coke Studio Season 9)",
-      "url": "https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Mee Raqsam",
-        "url": "https://open.spotify.com/album/0UyC4LKCF25GCYj6R9MKqZ"
-      },
-      "artists": [
-        {
-          "name": "Javed Bashir",
-          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
-        }
-      ],
-      "duration_ms": 303749,
-      "name": "Mee Raqsam",
-      "url": "https://open.spotify.com/track/1szkFgc12IkhomwVaXLGdP"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Tu Jhoom",
         "url": "https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M"
@@ -601,119 +725,7 @@
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "HUSN",
-        "url": "https://open.spotify.com/album/0s04EqGpXZ5iafjqQKpe0y"
-      },
-      "artists": [
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "HUSN",
-      "url": "https://open.spotify.com/track/1HEaumfum03fcbwwdwm2Pv"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Coke Studio Season 9: Sound of the Nation",
-        "url": "https://open.spotify.com/album/4X5hkWWjsoqKNeDimjWF5L"
-      },
-      "artists": [
-        {
-          "name": "Momina Mustehsan",
-          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
-        },
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
-        }
-      ],
-      "duration_ms": 425000,
-      "name": "Tera Woh Pyar (Nawazishein Karam)",
-      "url": "https://open.spotify.com/track/5WI8K5O2qWlvPpizK0Z2V4"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        }
-      ],
-      "duration_ms": 470500,
-      "name": "Kun Faya Kun",
-      "url": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Paap (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4dS6K0dQ8O1FLN0KCvcAmf"
-      },
-      "artists": [
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 291920,
-      "name": "Mann Ki Lagan",
-      "url": "https://open.spotify.com/track/7fxi1nuAVENApf7H3VivFH"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Anjaana Anjaani",
-        "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 319115,
-      "name": "Aas Paas Khuda",
-      "url": "https://open.spotify.com/track/3kuxr8U3QynLzyW82p5hYR"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Ranjheya Ve",
-        "url": "https://open.spotify.com/album/54NHimWyJ1NFHKQUxyFalk"
-      },
-      "artists": [
-        {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
-        }
-      ],
-      "duration_ms": 278474,
-      "name": "Ranjheya Ve",
-      "url": "https://open.spotify.com/track/4uxuqSSwxaN1HDKWm3Qx7P"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Jhoomo Re",
         "url": "https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5"
@@ -737,7 +749,7 @@
       "url": "https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -757,7 +769,23 @@
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
+      "album": {
+        "name": "Peeran",
+        "url": "https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 254250,
+      "name": "Peeran",
+      "url": "https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi"
+    },
+    {
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Tu Mane Ya Na Mane",
         "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
@@ -773,39 +801,7 @@
       "url": "https://open.spotify.com/track/6Lks1JEnWDejwxwGIUGzRI"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "4 Saal",
-        "url": "https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q"
-      },
-      "artists": [
-        {
-          "name": "Bayaan",
-          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Din Dhalay",
-      "url": "https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Balaghal-Ula Bi-Kamaalihi",
-        "url": "https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz"
-      },
-      "artists": [
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 524000,
-      "name": "Balaghal-Ula Bi-Kamaalihi",
-      "url": "https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Anwar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -841,43 +837,27 @@
       "url": "https://open.spotify.com/track/3vd0Z4j9xwLVZUGUbmQTUV"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
-        "name": "Aaqa - Coke Studio Season 9",
-        "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
+        "name": "Tu Aur Mein",
+        "url": "https://open.spotify.com/album/5v3GvrCLJgpRwkQHsvbkbY"
       },
       "artists": [
         {
-          "name": "Abida Parveen",
-          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+          "name": "Mast",
+          "url": "https://open.spotify.com/artist/6Y0SzWOL0ZHqMZGJtgMdZ0"
         },
         {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+          "name": "Shaheryar Shahzad",
+          "url": "https://open.spotify.com/artist/4Wkemr4UA81Y00DryaMMWc"
         }
       ],
-      "duration_ms": 507000,
-      "name": "Aaqa - Coke Studio Season 9",
-      "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
+      "duration_ms": 282094,
+      "name": "Sufinama A divine Journey",
+      "url": "https://open.spotify.com/track/6ZDleQWGHGfjC80EPN0gQs"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Mein Nahin Hoon",
-        "url": "https://open.spotify.com/album/6JRnkNQyiSBLAM71RQGXok"
-      },
-      "artists": [
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Main Nahi Hoon",
-      "url": "https://open.spotify.com/track/1fiSYMu83lceg6nc63T97j"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Tasbih",
         "url": "https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF"
@@ -901,7 +881,7 @@
       "url": "https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Coke Studio Sessions: Season 3",
         "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
@@ -921,23 +901,7 @@
       "url": "https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 5",
-        "url": "https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0"
-      },
-      "artists": [
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 537324,
-      "name": "Rangrez",
-      "url": "https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW"
@@ -953,7 +917,7 @@
       "url": "https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
@@ -977,7 +941,7 @@
       "url": "https://open.spotify.com/track/7o9kPO1qalH8szQlYnMI6C"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
@@ -997,7 +961,7 @@
       "url": "https://open.spotify.com/track/1FVMCf8F6RgTVrIaN2R9tV"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Anjaana Anjaani",
         "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
@@ -1021,7 +985,7 @@
       "url": "https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Man Kunto Maula",
         "url": "https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt"
@@ -1041,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Dil",
         "url": "https://open.spotify.com/album/6p8nXdpQGXG3KLzQpm8pK5"
@@ -1057,23 +1021,7 @@
       "url": "https://open.spotify.com/track/2XiVM2X9nqh9tnPq37GhLo"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Haq Nama",
-        "url": "https://open.spotify.com/album/5J7Qzd4bmQCqBXuhmhXVyw"
-      },
-      "artists": [
-        {
-          "name": "Muhammad Samie",
-          "url": "https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs"
-        }
-      ],
-      "duration_ms": 306494,
-      "name": "Haq Nama",
-      "url": "https://open.spotify.com/track/4h00nIZhd1S6uJDKDpkEKj"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Maikada 2",
         "url": "https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0"
@@ -1089,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Ainay",
         "url": "https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL"
@@ -1109,23 +1057,7 @@
       "url": "https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Wohi Khuda",
-        "url": "https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 409757,
-      "name": "Wohi Khuda",
-      "url": "https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Salle Alla",
         "url": "https://open.spotify.com/album/3OjpUyw8B63wMLB1Snp514"
@@ -1149,39 +1081,7 @@
       "url": "https://open.spotify.com/track/6Pp8UsVAzoqCojPWEFFnYT"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Main Sadqay Ya Rasool Allah",
-        "url": "https://open.spotify.com/album/7yp5ubUkdCjgXBOAqnI6hM"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Main Sadqay Ya Rasool Allah",
-      "url": "https://open.spotify.com/track/4Aw75bqRkCO3Y1IOdGB03h"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Sanu Ek Pal Chain",
-        "url": "https://open.spotify.com/album/37kbj6Vz9DWILQcpAJRwl1"
-      },
-      "artists": [
-        {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-        }
-      ],
-      "duration_ms": 575936,
-      "name": "Sanu Ek Pal Chain",
-      "url": "https://open.spotify.com/track/3KMPY8RvRII2du31Cjl8Jg"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Jhoom Lia",
         "url": "https://open.spotify.com/album/1XHiTMWgdRVQHEs1dSXoH4"
@@ -1197,47 +1097,7 @@
       "url": "https://open.spotify.com/track/104yfNysGBlWilnzxpZo0r"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Le Ja",
-        "url": "https://open.spotify.com/album/1q9Mlk5agjG1UJaCHXuIi6"
-      },
-      "artists": [
-        {
-          "name": "Fariha Pervez",
-          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
-        }
-      ],
-      "duration_ms": 260204,
-      "name": "Le Ja",
-      "url": "https://open.spotify.com/track/5LLcS2wLaDx53fQHICh1Xr"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Coke Studio Season 6",
-        "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
-      },
-      "artists": [
-        {
-          "name": "Saieen Zahoor",
-          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
-        },
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Rohail Hyatt",
-          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
-        }
-      ],
-      "duration_ms": 597866,
-      "name": "Rabba Ho",
-      "url": "https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Pardadari",
         "url": "https://open.spotify.com/album/2bfwHKbSwfUFeMVGY1Fb4n"
@@ -1253,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0avkBFSFOWyZVfccT2u3Ag"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "SAEN V",
         "url": "https://open.spotify.com/album/4kqmmKtqwpehMneabNjdv6"
@@ -1273,23 +1133,7 @@
       "url": "https://open.spotify.com/track/2aoxNtHgeXaKk2wkuzYQc0"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Ishq Aap Bhe Awalla",
-        "url": "https://open.spotify.com/album/7AJV0qWSlzs6HsMQ7G5UUA"
-      },
-      "artists": [
-        {
-          "name": "Meesha Shafi",
-          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
-        }
-      ],
-      "duration_ms": 348024,
-      "name": "Ishq Aap Bhe Awalla",
-      "url": "https://open.spotify.com/track/0O0P91lDzZQAs8nNLiHNQW"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Jugni",
         "url": "https://open.spotify.com/album/5qAg8dmPonqUJMIY77VYxh"
@@ -1305,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4amYI9jDDirSXoZoDJN97w"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Coke Studio Season 10: Episode 7",
         "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
@@ -1321,7 +1165,7 @@
       "url": "https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Tu Kuja Man Kuja",
         "url": "https://open.spotify.com/album/1lmGcDNyECCYqVUI7fAGaR"
@@ -1337,23 +1181,7 @@
       "url": "https://open.spotify.com/track/0P39jvplTOS0eLSBWxmlHx"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Chain of Light",
-        "url": "https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77"
-      },
-      "artists": [
-        {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-        }
-      ],
-      "duration_ms": 688653,
-      "name": "Khabram Raseed Imshab",
-      "url": "https://open.spotify.com/track/7DCNxzlo5IPcMRxo7ac8JP"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Allah Tero Naam",
         "url": "https://open.spotify.com/album/0mD0vgIJNp1LkrqESr3SGW"
@@ -1381,7 +1209,7 @@
       "url": "https://open.spotify.com/track/6sAausYGMZTP2GYVt9tbIm"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Piyaji Dekho",
         "url": "https://open.spotify.com/album/4PHh64ZWLc3lBuoW3h8BbK"
@@ -1397,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5JsTXZfnzZh0LcV30bPxwT"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/6SwKz4ZFJuMw5BKy20SYPR"
@@ -1417,7 +1245,7 @@
       "url": "https://open.spotify.com/track/39BdrPzA4UL05QCqdp2d7D"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
@@ -1437,7 +1265,7 @@
       "url": "https://open.spotify.com/track/3WbmZDODopN9M7lDWd6uey"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "The Best of Wadali Brothers",
         "url": "https://open.spotify.com/album/6t70d2Plw6ILCHLZ6mCBQe"
@@ -1457,7 +1285,7 @@
       "url": "https://open.spotify.com/track/5Fu9Axrk4D9tJ72VDqtAOi"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Haq Ali",
         "url": "https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7"
@@ -1489,7 +1317,7 @@
       "url": "https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Ishq Namaz",
         "url": "https://open.spotify.com/album/3NbXJZVxCODC0k1NyieVjF"
@@ -1509,39 +1337,7 @@
       "url": "https://open.spotify.com/track/6zKfuiTQAfA6YqWHMVVULN"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
-      },
-      "artists": [
-        {
-          "name": "Asrar",
-          "url": "https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn"
-        }
-      ],
-      "duration_ms": 357579,
-      "name": "Sab Aakho Ali Ali",
-      "url": "https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
-      "album": {
-        "name": "Chain of Light",
-        "url": "https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77"
-      },
-      "artists": [
-        {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-        }
-      ],
-      "duration_ms": 572133,
-      "name": "Ya Gaus Ya Meeran",
-      "url": "https://open.spotify.com/track/6cA7JGt2iP1Euus9ArO9IF"
-    },
-    {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Salaam",
         "url": "https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2"
@@ -1557,7 +1353,7 @@
       "url": "https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n"
     },
     {
-      "added_at": "2025-12-03 07:31:43",
+      "added_at": "2026-02-17 10:30:47",
       "album": {
         "name": "Alif Allah",
         "url": "https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH"

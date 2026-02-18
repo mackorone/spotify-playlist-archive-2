@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 614592,
       "name": "#19",
       "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 149514,
       "name": "endless time",
       "url": "https://open.spotify.com/track/1eOpY9hSAJjyBFpeAFOQkU"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 130052,
       "name": "flora",
       "url": "https://open.spotify.com/track/2Dj9HQvQfwuuBXgeVFp0gl"
@@ -2810,10 +2810,28 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 439946,
       "name": "Lichtung",
       "url": "https://open.spotify.com/track/0Kj7AJaaO6g18tGGWmLR41"
+    },
+    {
+      "album": {
+        "name": "lifeline",
+        "url": "https://open.spotify.com/album/6dWhbmCZPuNb6HXFppGpyy"
+      },
+      "artists": [
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "lifeline",
+      "url": "https://open.spotify.com/track/73WbUPmhm7L4D378vsMF5n"
     },
     {
       "album": {
@@ -3100,7 +3118,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 1661311,
       "name": "Luster(Ambient)",
       "url": "https://open.spotify.com/track/70QHTYPSRhJ6k2kmMuGniB"
@@ -3887,6 +3905,28 @@
     },
     {
       "album": {
+        "name": "Polka Dots",
+        "url": "https://open.spotify.com/album/5feivxCeQm4EeBfCamJl15"
+      },
+      "artists": [
+        {
+          "name": "First Snow of The Year",
+          "url": "https://open.spotify.com/artist/6y7vZTvxfDrCVaW31jRYOu"
+        },
+        {
+          "name": "IDRA",
+          "url": "https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232026,
+      "name": "Polka Dots",
+      "url": "https://open.spotify.com/track/64lGNlxAha9rQT5cuQAk2k"
+    },
+    {
+      "album": {
         "name": "breath",
         "url": "https://open.spotify.com/album/5NQz9MuiwmMU9seqxfB4O2"
       },
@@ -4370,7 +4410,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 122316,
       "name": "sentimentality",
       "url": "https://open.spotify.com/track/7dOYYkUSpMt1e7KWQJHXZD"
@@ -4540,6 +4580,24 @@
       "duration_ms": 129032,
       "name": "Sleeping City",
       "url": "https://open.spotify.com/track/6unebrf4wJ1DLAk0fpIC8A"
+    },
+    {
+      "album": {
+        "name": "sleepless",
+        "url": "https://open.spotify.com/album/0joXvZ7TB54112cd6Mbhr7"
+      },
+      "artists": [
+        {
+          "name": "julez",
+          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92142,
+      "name": "sleepless",
+      "url": "https://open.spotify.com/track/2Zq9uPPJ8TvEoUgb4jRxJ2"
     },
     {
       "album": {
@@ -4899,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "Falter",
+        "url": "https://open.spotify.com/album/5p8NHgHV2Wdxeo1FMs0zfZ"
+      },
+      "artists": [
+        {
+          "name": "Stray Theories",
+          "url": "https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249243,
+      "name": "The Faded",
+      "url": "https://open.spotify.com/track/6g9uG83pDvpPrZOnZmKu3L"
+    },
+    {
+      "album": {
         "name": "the light in your eyes",
         "url": "https://open.spotify.com/album/3OrVPqyuqLPUVnDVZdJrHV"
       },
@@ -5040,7 +5116,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 128000,
       "name": "tired",
       "url": "https://open.spotify.com/track/7v6PJ1JrWnrqDTKLFCiU9s"
@@ -5552,7 +5628,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 116470,
       "name": "wishing",
       "url": "https://open.spotify.com/track/64qAwXz1NWqrV87L4iq7Yb"

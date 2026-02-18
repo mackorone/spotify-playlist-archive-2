@@ -1,6 +1,6 @@
 {
   "description": "Calm piano music for enhanced concentration.",
-  "num_followers": 1448325,
+  "num_followers": 1448268,
   "original_name": "Perfect Concentration",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Across The Bridge",
-        "url": "https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN"
-      },
-      "artists": [
-        {
-          "name": "Isora Hill",
-          "url": "https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM"
-        }
-      ],
-      "duration_ms": 135867,
-      "name": "Across The Bridge",
-      "url": "https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/49YyZgXdyepJ30xVYIqOiV"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 145602,
       "name": "Water",
       "url": "https://open.spotify.com/track/1RYyyfkC5oiqpAubtkc6k2"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Across The Bridge",
+        "url": "https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN"
+      },
+      "artists": [
+        {
+          "name": "Isora Hill",
+          "url": "https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM"
+        }
+      ],
+      "duration_ms": 135867,
+      "name": "Across The Bridge",
+      "url": "https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Ballerina Waltz",
-        "url": "https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9"
-      },
-      "artists": [
-        {
-          "name": "Ey\u00f8ni",
-          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Ballerina Waltz",
-      "url": "https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Truth Within",
         "url": "https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 141993,
       "name": "Truth Within",
       "url": "https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Ballerina Waltz",
+        "url": "https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Ballerina Waltz",
+      "url": "https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Slowly \u6162\u6162\u5730",
-        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 129828,
-      "name": "Slowly \u6162\u6162\u5730",
-      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Flower Wings",
         "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 138187,
       "name": "Flower Wings",
       "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Slowly \u6162\u6162\u5730",
+        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 129828,
+      "name": "Slowly \u6162\u6162\u5730",
+      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Irenic",
-        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 177323,
-      "name": "Irenic",
-      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Prati",
         "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 145566,
       "name": "Prati",
       "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Irenic",
+        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 177323,
+      "name": "Irenic",
+      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Ing\u00e9nue",
-        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
-      },
-      "artists": [
-        {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
-        }
-      ],
-      "duration_ms": 147639,
-      "name": "Ing\u00e9nue",
-      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Campania",
         "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
       },
@@ -1115,34 +1099,18 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Lost to memories",
-        "url": "https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj"
+        "name": "Ing\u00e9nue",
+        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
       "artists": [
         {
-          "name": "Aimon Cour",
-          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
         }
       ],
-      "duration_ms": 134056,
-      "name": "Lost to memories",
-      "url": "https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
-        "name": "Find The Light Behind The Clouds",
-        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
-      },
-      "artists": [
-        {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        }
-      ],
-      "duration_ms": 139884,
-      "name": "Find The Light Behind The Clouds",
-      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+      "duration_ms": 147639,
+      "name": "Ing\u00e9nue",
+      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1159,6 +1127,38 @@
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "duration_ms": 139885,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Lost to memories",
+        "url": "https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "duration_ms": 134056,
+      "name": "Lost to memories",
+      "url": "https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Each glorious entity",
-        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
+        "name": "The Pond",
+        "url": "https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw"
       },
       "artists": [
         {
-          "name": "Eberina",
-          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
         }
       ],
-      "duration_ms": 133430,
-      "name": "Each glorious entity",
-      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
+      "duration_ms": 148714,
+      "name": "The Pond",
+      "url": "https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "The Pond",
-        "url": "https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw"
-      },
-      "artists": [
-        {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "The Pond",
-      "url": "https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Nostrella",
         "url": "https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 156321,
       "name": "Nostrella",
       "url": "https://open.spotify.com/track/0LH9FWqGcPXzwZ3yTDhjXS"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Each glorious entity",
+        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
+      },
+      "artists": [
+        {
+          "name": "Eberina",
+          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+        }
+      ],
+      "duration_ms": 133430,
+      "name": "Each glorious entity",
+      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
+        "name": "Time Is a River",
+        "url": "https://open.spotify.com/album/35yjbZXzQHCSflB1ocHKub"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "duration_ms": 162116,
+      "name": "Time Is a River",
+      "url": "https://open.spotify.com/track/6V2bLU0kshksarML59YS4U"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
         "name": "Quiet Nights",
         "url": "https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 131000,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
-        "name": "Simple Beauty",
-        "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
-      },
-      "artists": [
-        {
-          "name": "Jon Hailey",
-          "url": "https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0"
-        }
-      ],
-      "duration_ms": 168675,
-      "name": "Simple Beauty",
-      "url": "https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Time Is a River",
-        "url": "https://open.spotify.com/album/35yjbZXzQHCSflB1ocHKub"
+        "name": "Simple Beauty",
+        "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
       },
       "artists": [
         {
-          "name": "M\u00edrabilis",
-          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+          "name": "Jon Hailey",
+          "url": "https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0"
         }
       ],
-      "duration_ms": 162116,
-      "name": "Time Is a River",
-      "url": "https://open.spotify.com/track/6V2bLU0kshksarML59YS4U"
+      "duration_ms": 168675,
+      "name": "Simple Beauty",
+      "url": "https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
+        "name": "Noapte",
+        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
+      },
+      "artists": [
+        {
+          "name": "Alexandru Andrei Popescu",
+          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
+        }
+      ],
+      "duration_ms": 199522,
+      "name": "Noapte",
+      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
         "name": "Evanesce",
         "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Noapte",
-        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
+        "name": "Murano",
+        "url": "https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte"
       },
       "artists": [
         {
-          "name": "Alexandru Andrei Popescu",
-          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
+          "name": "Afon A\u00e9ron",
+          "url": "https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k"
         }
       ],
-      "duration_ms": 199522,
-      "name": "Noapte",
-      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
+      "duration_ms": 157200,
+      "name": "Murano",
+      "url": "https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1703,22 +1719,6 @@
       "duration_ms": 139952,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
-        "name": "Murano",
-        "url": "https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte"
-      },
-      "artists": [
-        {
-          "name": "Afon A\u00e9ron",
-          "url": "https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Murano",
-      "url": "https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Armonia",
-        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
-      },
-      "artists": [
-        {
-          "name": "Elion Veero",
-          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
-        }
-      ],
-      "duration_ms": 180830,
-      "name": "Armonia",
-      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Tranquil Landscape",
         "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 187200,
       "name": "Tranquil Landscape",
       "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Armonia",
+        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
+      },
+      "artists": [
+        {
+          "name": "Elion Veero",
+          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
+        }
+      ],
+      "duration_ms": 180830,
+      "name": "Armonia",
+      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Emanate",
-        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
-      },
-      "artists": [
-        {
-          "name": "Aldo Talete",
-          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
-        }
-      ],
-      "duration_ms": 179281,
-      "name": "Emanate",
-      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Interim",
         "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 139124,
       "name": "Interim",
       "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Emanate",
+        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "duration_ms": 179281,
+      "name": "Emanate",
+      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
     },
     {
       "added_at": "2026-01-06 13:51:12",

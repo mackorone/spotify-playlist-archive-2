@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Nsqk
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Joaquina
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,283 likes - 78 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,284 likes - 78 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Basta Con Querernos Más \- Spotify Sessions \(Acústico\)](https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Nsqk \- Spotify Sessions](https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL) | 2:50 |
-| 2 | [torpe](https://open.spotify.com/track/2NCV9stP4wBkIi7QsKcyJG) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja 2](https://open.spotify.com/album/0laGuJ1xeprihqPkexp5PB) | 3:25 |
+| 1 | [torpe](https://open.spotify.com/track/2NCV9stP4wBkIi7QsKcyJG) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja 2](https://open.spotify.com/album/0laGuJ1xeprihqPkexp5PB) | 3:25 |
+| 2 | [No Basta Con Querernos Más \- Spotify Sessions \(Acústico\)](https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Nsqk \- Spotify Sessions](https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL) | 2:50 |
 | 3 | [Debería Ser Yo](https://open.spotify.com/track/1XufZGKFoECAFOFc9BGIkd) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Debería Ser Yo](https://open.spotify.com/album/272ZhTo8R6fUWDgAbp1wOi) | 2:46 |
 | 4 | [Me Toca A Mí](https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Me Toca A Mí](https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5) | 3:00 |
 | 5 | [Brinca \(Acuario\)](https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl) | 3:39 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 77 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes \(2024\-07\-19\)](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
 | 78 | [Home Alone](https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Home Alone](https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4) | 2:26 |
 
-Snapshot ID: `AAAAAFdjqfNosw7O0RYyMxUIKv8IW/gh`
+Snapshot ID: `AAAAAMg4J9W7YmpFCSqmq1Vy+E29adsZ`

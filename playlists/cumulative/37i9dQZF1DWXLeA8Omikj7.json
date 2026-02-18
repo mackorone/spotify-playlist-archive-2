@@ -11755,6 +11755,24 @@
     },
     {
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/1Dg8JaCDUih4uz63KlHQVX"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302532,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6BNPuxL7wzw6QZSBNGtwsD"
+    },
+    {
+      "album": {
         "name": "Actual Life 2 (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
       },
@@ -20860,7 +20878,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 142812,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi"

@@ -1,6 +1,6 @@
 {
   "description": "IJSLAND (Abel, Sef & FAISAL) op de cover",
-  "num_followers": 11235,
+  "num_followers": 11238,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-02-12 23:00:42",
       "album": {
+        "name": "Vlijmscherp",
+        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "Vlijmscherp",
+      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "added_at": "2026-02-12 23:00:42",
+      "album": {
         "name": "Giftig",
         "url": "https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 172941,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK"
-    },
-    {
-      "added_at": "2026-02-12 23:00:42",
-      "album": {
-        "name": "Vlijmscherp",
-        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "Vlijmscherp",
-      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
     },
     {
       "added_at": "2026-02-12 23:00:42",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-02-12 23:00:42",
       "album": {
+        "name": "Hardt",
+        "url": "https://open.spotify.com/album/7vDfXzVI6iBTtK7p2gSH7i"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Geen Ego",
+      "url": "https://open.spotify.com/track/1CwTDPhXGfgHZX6MFmDaLi"
+    },
+    {
+      "added_at": "2026-02-12 23:00:42",
+      "album": {
         "name": "Doe Het Voor Het Geld",
         "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 254935,
       "name": "Toen kwam jij",
       "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
-    },
-    {
-      "added_at": "2026-02-12 23:00:42",
-      "album": {
-        "name": "Hardt",
-        "url": "https://open.spotify.com/album/7vDfXzVI6iBTtK7p2gSH7i"
-      },
-      "artists": [
-        {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Geen Ego",
-      "url": "https://open.spotify.com/track/1CwTDPhXGfgHZX6MFmDaLi"
     },
     {
       "added_at": "2026-02-12 23:00:42",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-02-12 23:00:42",
       "album": {
-        "name": "Dansen met de dood",
-        "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
+        "name": "Waarom Ik Zo Ben",
+        "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
       },
       "artists": [
         {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
         }
       ],
-      "duration_ms": 204770,
-      "name": "Dansen met de dood",
-      "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
+      "duration_ms": 120833,
+      "name": "Waarom Ik Zo Ben",
+      "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
     }
   ],
   "unique_name": "indie.nl",

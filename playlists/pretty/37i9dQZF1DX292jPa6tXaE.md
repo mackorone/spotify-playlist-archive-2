@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Kanwar Shinh
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,083 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,133 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 24 | [Void](https://open.spotify.com/track/6pIMf6awBwC17HoyB5ioLp) | [Dakshita Singh](https://open.spotify.com/artist/79GI0hH0SczSoo2cmD8xBS), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd), [Ekamjot Singh](https://open.spotify.com/artist/2P2CeYkyAxMfOHTfl7JsSy) | [Void](https://open.spotify.com/album/1s7PCC0rlShK1EhKMewKh9) | 2:42 |
 | 25 | [ICONIC](https://open.spotify.com/track/0AcOW3bZG3egYiGXX0dAbz) | [Jag Randhawa](https://open.spotify.com/artist/1CflKa48Jm0FKZIXJbbtJn), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [Iconic](https://open.spotify.com/album/2wu4oRfUPf5lgcpy3zOtpu) | 2:36 |
 | 26 | [Long Distance](https://open.spotify.com/track/0JMvXYOYpp00DVRsLhztjs) | [JOLLY BOI](https://open.spotify.com/artist/6ZGzbykuzOGU4k2FNWOMqM), [Dark Soul Studioz](https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg) | [Long Distance](https://open.spotify.com/album/5JjUFbkyX4EwhBqqLkXnoU) | 3:03 |
-| 27 | [Hor Koi Na](https://open.spotify.com/track/23SktBfcrSzyEzGFFW8vow) | [zayl](https://open.spotify.com/artist/1PI7HPN94FTYkS7cpGl9Ck), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Hor Koi Na](https://open.spotify.com/album/69T2CwKBqtKchlOqGdJ5X6) | 2:17 |
+| 27 | [Hor Koi Na](https://open.spotify.com/track/23SktBfcrSzyEzGFFW8vow) | [ZAYL](https://open.spotify.com/artist/1PI7HPN94FTYkS7cpGl9Ck), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Hor Koi Na](https://open.spotify.com/album/69T2CwKBqtKchlOqGdJ5X6) | 2:17 |
 | 28 | [Tere Hi Naal](https://open.spotify.com/track/1JXJBil223CD6kfgyqZI7a) | [Juhi Rai](https://open.spotify.com/artist/2ZHEt5pbr89WP6P2Jar9al), [Leo Rana](https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Tere Hi Naal](https://open.spotify.com/album/3t5SV8XU8nn1wfmdZaiz0Q) | 2:04 |
 | 29 | [Taiyaar Sajna](https://open.spotify.com/track/03CvyEB1RZGKfFXhHd9PXc) | [Aanchal Kalia](https://open.spotify.com/artist/4WEt0MFVkBRfX7pSVzM7ZO), [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w), [Sehjaan](https://open.spotify.com/artist/7H6JPKZzoErmhaWUOp7pzw) | [Taiyaar Sajna](https://open.spotify.com/album/6qVQrhodnP1qHixAzt2n1K) | 2:54 |
 | 30 | [Meharbaaniyan](https://open.spotify.com/track/5QV4yws6FGYfV3NDfdNBN7) | [Geetkarz](https://open.spotify.com/artist/2sfCTNESjEmT9QdALWHXGs), [Vagish](https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv), [abhii](https://open.spotify.com/artist/32mzdjLFFFILBACaPK4ukU) | [Meharbaaniyan](https://open.spotify.com/album/50jxjVs2a3UNIteSRIB2yJ) | 3:06 |

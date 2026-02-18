@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 257311,
+  "num_followers": 257422,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
+        "name": "Pega la Vuelta / La Ventanita",
+        "url": "https://open.spotify.com/album/3jvZ8vULiCTJDWhgE8ZGN9"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 278301,
+      "name": "Pega la Vuelta / La Ventanita",
+      "url": "https://open.spotify.com/track/1oXR7VdMGW1iSnOeVcCZ6W"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
         "name": "A Puro Dolor / Un Mont\u00f3n de Estrellas (Live)",
         "url": "https://open.spotify.com/album/4ZAXQiJmXveCBSefUhlwHE"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 71981,
       "name": "Persiana Americana - En Vivo",
       "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
-        "name": "Pega la Vuelta / La Ventanita",
-        "url": "https://open.spotify.com/album/3jvZ8vULiCTJDWhgE8ZGN9"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 278301,
-      "name": "Pega la Vuelta / La Ventanita",
-      "url": "https://open.spotify.com/track/1oXR7VdMGW1iSnOeVcCZ6W"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -619,18 +619,26 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "En Teatro del Huerto",
-        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 260755,
-      "name": "Entre el Cielo Vos y Yo - En Vivo",
-      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+      "duration_ms": 362235,
+      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -667,26 +675,18 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
       },
       "artists": [
         {
-          "name": "Los Lamas",
-          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
-        },
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 362235,
-      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -779,22 +779,18 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Los del bohio - Sessiones con P\u00fablico #20 (Sin Miedo \"Un Tiro\")",
-        "url": "https://open.spotify.com/album/0dh4kgmhrYNUYFXRtepXFx"
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
       },
       "artists": [
         {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
         }
       ],
-      "duration_ms": 184413,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5DD1yO1yMTppZoIdZ07Rtx"
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -815,18 +811,22 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+        "name": "Los del bohio - Sessiones con P\u00fablico #20 (Sin Miedo \"Un Tiro\")",
+        "url": "https://open.spotify.com/album/0dh4kgmhrYNUYFXRtepXFx"
       },
       "artists": [
         {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+      "duration_ms": 184413,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5DD1yO1yMTppZoIdZ07Rtx"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+        "name": "Nunca M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+      "duration_ms": 184618,
+      "name": "Nunca M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Nunca M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 184618,
-      "name": "Nunca M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
+        "name": "Ya Te Olvide (En Vivo)",
+        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        }
+      ],
+      "duration_ms": 260096,
+      "name": "Ya Te Olvide - En Vivo",
+      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
         "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
         "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 208613,
       "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
       "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
-        "name": "Ya Te Olvide (En Vivo)",
-        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes del Penal",
-          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
-        }
-      ],
-      "duration_ms": 260096,
-      "name": "Ya Te Olvide - En Vivo",
-      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
-      },
-      "artists": [
-        {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 283977,
-      "name": "Tu C\u00e1rcel - En Vivo",
-      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
         "name": "Era Tranquila (En Vivo)",
         "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 237098,
       "name": "Era Tranquila - En Vivo",
       "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 283977,
+      "name": "Tu C\u00e1rcel - En Vivo",
+      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
     },
     {
       "added_at": "2026-02-06 03:00:02",

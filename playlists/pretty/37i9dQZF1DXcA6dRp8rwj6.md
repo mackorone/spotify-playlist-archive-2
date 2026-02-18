@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Mike WiLL Made\-It\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,510 likes - 97 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,522 likes - 97 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ROOMS](https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [ROOMS](https://open.spotify.com/album/50sklTdoxS2yLHgF3jnV3t) | 3:52 |
 | 2 | [Addict](https://open.spotify.com/track/1zzenAtdKuh6VsRfwzACGf) | [Lil Twist](https://open.spotify.com/artist/564gvOqSRcQoYAhaBpTiK2), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Addict](https://open.spotify.com/album/2aUtlGvt2w8EYmOb9zOVJm) | 3:33 |
 | 3 | [getting money still sad too](https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA) | [getting money still sad too](https://open.spotify.com/album/06590fcGOrc0hgvDHcDiaH) | 2:37 |
-| 4 | [What They Want](https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Lebron Flocka James 2K26](https://open.spotify.com/album/5KJNwu0VqV1SCUsjtLYybh) | 2:59 |
+| 4 | [What They Want](https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Lebron Flocka James 2K26](https://open.spotify.com/album/5KJNwu0VqV1SCUsjtLYybh) | 2:59 |
 | 5 | [WALANG HIYA](https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MADUMING TIMOG](https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj) | 3:24 |
 | 6 | [Everything Allocated](https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Everything Allocated](https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi) | 2:53 |
 | 7 | [Make Me Wise](https://open.spotify.com/track/2iOxs8Iu8URt6b3bBIXOSM) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Sebb Bash](https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5) | [Make Me Wise](https://open.spotify.com/album/3TfVJmCmGuVd5kngyUOnQX) | 2:28 |

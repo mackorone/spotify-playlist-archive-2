@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Passion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,162 likes - 79 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,496 likes - 79 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 27 | [Miracles](https://open.spotify.com/track/0MinxXAaUCp6nhhfYxrJwT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Kendrick Williams Jr](https://open.spotify.com/artist/6THqYD4nwDVdkVHVDr9ktp) | [Miracles](https://open.spotify.com/album/2f1vQLRRGUbmXvcCH1lJnm) | 5:02 |
 | 28 | [Life & Breath](https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Life & Breath](https://open.spotify.com/album/0Wu88qLqxq6qBNejyHeEUr) | 4:39 |
 | 29 | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH) | 4:32 |
-| 30 | [HE STILL MOVES](https://open.spotify.com/track/5EIPsTPNAASNIZtkCBXe3S) | [New Path Worship](https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx) | [HE STILL MOVES](https://open.spotify.com/album/2HN3cWuYjpUOhQXIeOF2UK) | 4:19 |
+| 30 | [HE STILL MOVES](https://open.spotify.com/track/5EIPsTPNAASNIZtkCBXe3S) | [New Path Worship](https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx) | [HE STILL MOVES](https://open.spotify.com/album/2HN3cWuYjpUOhQXIeOF2UK) | 4:16 |
 | 31 | [Heard About A River \- Live](https://open.spotify.com/track/02Ev3EfBX3j2irtlhTSPC7) | [Joel Case](https://open.spotify.com/artist/36loSyf5MJgUG6HOiwd5V5), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Cageless Birds](https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR) | [Let God Come In \(Live\)](https://open.spotify.com/album/2Nj2jE6wOlr0qCSBKhtGF6) | 7:46 |
 | 32 | [Psalm 103](https://open.spotify.com/track/60QixU3niqd9qaXaQnM57l) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Psalms](https://open.spotify.com/album/2RnBUBuK2iYntEWSDOP8vS) | 4:40 |
 | 33 | [Center \- Live](https://open.spotify.com/track/1yu6UKfMvbFZ0esY29yYlT) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 7:45 |

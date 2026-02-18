@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "DON\u2019T YOU SEE ME TRYING?",
-        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
-      },
-      "artists": [
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 213887,
-      "name": "DON\u2019T YOU SEE ME TRYING?",
-      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
         "name": "a couple minutes out",
         "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 206022,
       "name": "Steady",
       "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "Blue Sky Mentality (Complete Edition)",
-        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+        "name": "Ain't Today",
+        "url": "https://open.spotify.com/album/6GexyDP7V43ceAa1PqKTEq"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
         }
       ],
-      "duration_ms": 169880,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
+      "duration_ms": 160980,
+      "name": "Ain't Today",
+      "url": "https://open.spotify.com/track/6jUSZ7pXIrPXAUusFXA5Iy"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "Ain't Today",
-        "url": "https://open.spotify.com/album/6GexyDP7V43ceAa1PqKTEq"
+        "name": "Blue Sky Mentality (Complete Edition)",
+        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
       },
       "artists": [
         {
-          "name": "Saga Ludvigsson",
-          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 160980,
-      "name": "Ain't Today",
-      "url": "https://open.spotify.com/track/6jUSZ7pXIrPXAUusFXA5Iy"
+      "duration_ms": 169880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
+        "name": "Colombina",
+        "url": "https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Colombina",
+      "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 183000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/1yIGvFZxmJ2nJmCzSensSH"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
-        "name": "Colombina",
-        "url": "https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Colombina",
-      "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -923,42 +923,6 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "Sisters",
-        "url": "https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Sisters",
-      "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
-        "name": "for your love",
-        "url": "https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3"
-      },
-      "artists": [
-        {
-          "name": "Cruz Beckham",
-          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "for your love",
-      "url": "https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/3YYfdiJu4aNIi39LZdCm1Z"
       },
@@ -991,6 +955,42 @@
       "duration_ms": 229763,
       "name": "Guilt By Association",
       "url": "https://open.spotify.com/track/20C1WJvhvpR2wGUHNAwMVL"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
+        "name": "for your love",
+        "url": "https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3"
+      },
+      "artists": [
+        {
+          "name": "Cruz Beckham",
+          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "for your love",
+      "url": "https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "Klunk",
-        "url": "https://open.spotify.com/album/3UHqvrisWMiefwr9OjnmPM"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 271748,
-      "name": "Bit mig",
-      "url": "https://open.spotify.com/track/4thI83CMJQYfi9CXIayke1"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/76jdAYQFlicRLvKJJCE32U"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 154455,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3TSpXfD8sdJHsh6YagNbR2"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
+        "name": "Klunk",
+        "url": "https://open.spotify.com/album/3UHqvrisWMiefwr9OjnmPM"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 271748,
+      "name": "Bit mig",
+      "url": "https://open.spotify.com/track/4thI83CMJQYfi9CXIayke1"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "Call It What You Want",
-        "url": "https://open.spotify.com/album/2iYEIG1zRnrJLSKluiiyw7"
-      },
-      "artists": [
-        {
-          "name": "Sorn",
-          "url": "https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz"
-        }
-      ],
-      "duration_ms": 178409,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/3KOkOYoWauKJCCiyC916DD"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
         "name": "Walou",
         "url": "https://open.spotify.com/album/3zUevQMRs1Z1cFWV4O08Rw"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 153499,
       "name": "Walou",
       "url": "https://open.spotify.com/track/0eaaE2OY5LpxlaSx6GRLZv"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/2iYEIG1zRnrJLSKluiiyw7"
+      },
+      "artists": [
+        {
+          "name": "Sorn",
+          "url": "https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz"
+        }
+      ],
+      "duration_ms": 178409,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/3KOkOYoWauKJCCiyC916DD"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
+        "name": "Superhelt",
+        "url": "https://open.spotify.com/album/5wopoxP7eVriVCx7r5Lhpe"
+      },
+      "artists": [
+        {
+          "name": "Bogfinkevej",
+          "url": "https://open.spotify.com/artist/6sqESiip3bGRmC0DUu6640"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Superhelt",
+      "url": "https://open.spotify.com/track/0z4uPxYZJ0UWenoLoBVcyL"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
         "name": "say something",
         "url": "https://open.spotify.com/album/2R7Q2cBORoSFWVzeuaVxAS"
       },
@@ -1415,6 +1431,22 @@
       "duration_ms": 162242,
       "name": "say something",
       "url": "https://open.spotify.com/track/54O2qz5IvGbgXMBgioO5yP"
+    },
+    {
+      "added_at": "2026-02-13 00:00:14",
+      "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/44s3THxkhl9jkF2AgNLKiO"
+      },
+      "artists": [
+        {
+          "name": "hanna \u00f6gonsten",
+          "url": "https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4"
+        }
+      ],
+      "duration_ms": 145976,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/3O7lOjvWffRPuDtiWcGoRx"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -1451,18 +1483,18 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "Superhelt",
-        "url": "https://open.spotify.com/album/5wopoxP7eVriVCx7r5Lhpe"
+        "name": "hurt Y0u",
+        "url": "https://open.spotify.com/album/18umq58NNPOY3uPrwnW6nQ"
       },
       "artists": [
         {
-          "name": "Bogfinkevej",
-          "url": "https://open.spotify.com/artist/6sqESiip3bGRmC0DUu6640"
+          "name": "killanoia",
+          "url": "https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Superhelt",
-      "url": "https://open.spotify.com/track/0z4uPxYZJ0UWenoLoBVcyL"
+      "duration_ms": 148000,
+      "name": "hurt Y0u",
+      "url": "https://open.spotify.com/track/6V47VkYGF4sC6eZCIhtoTD"
     },
     {
       "added_at": "2026-02-13 00:00:14",
@@ -1483,38 +1515,6 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "hurt Y0u",
-        "url": "https://open.spotify.com/album/18umq58NNPOY3uPrwnW6nQ"
-      },
-      "artists": [
-        {
-          "name": "killanoia",
-          "url": "https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "hurt Y0u",
-      "url": "https://open.spotify.com/track/6V47VkYGF4sC6eZCIhtoTD"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/44s3THxkhl9jkF2AgNLKiO"
-      },
-      "artists": [
-        {
-          "name": "hanna \u00f6gonsten",
-          "url": "https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4"
-        }
-      ],
-      "duration_ms": 145976,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/3O7lOjvWffRPuDtiWcGoRx"
-    },
-    {
-      "added_at": "2026-02-13 00:00:14",
-      "album": {
         "name": "TURN UP",
         "url": "https://open.spotify.com/album/0Or1zn4ufq0j0q3HK1kNe5"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2026-02-13 00:00:14",
       "album": {
-        "name": "Undetected",
-        "url": "https://open.spotify.com/album/1zq8WEwKGFE0oTMoHynk9s"
+        "name": "Clammy",
+        "url": "https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8"
       },
       "artists": [
         {
-          "name": "CEVIL",
-          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
+          "name": "Povoa",
+          "url": "https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC"
         }
       ],
-      "duration_ms": 168436,
-      "name": "Undetected",
-      "url": "https://open.spotify.com/track/51ZskQuomrxpgKrq2YI4Pf"
+      "duration_ms": 186666,
+      "name": "Shut Me Down",
+      "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
     }
   ],
   "unique_name": "New Music Friday Iceland",

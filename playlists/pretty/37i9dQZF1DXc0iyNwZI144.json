@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1035706,
+  "num_followers": 1035674,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,30 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "url": "https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Dewain Whitmore",
+          "url": "https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd"
+        }
+      ],
+      "duration_ms": 200332,
+      "name": "Burn Out (feat. Dewain Whitmore)",
+      "url": "https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Burn Out (feat. Dewain Whitmore)",
-        "url": "https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Justin Mylo",
-          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
-        },
-        {
-          "name": "Dewain Whitmore",
-          "url": "https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd"
-        }
-      ],
-      "duration_ms": 200332,
-      "name": "Burn Out (feat. Dewain Whitmore)",
-      "url": "https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1483,26 +1483,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
-        "url": "https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq"
+        "name": "No Therapy",
+        "url": "https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
         }
       ],
-      "duration_ms": 166264,
-      "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
-      "url": "https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx"
+      "duration_ms": 172909,
+      "name": "No Therapy",
+      "url": "https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T"
     }
   ],
   "unique_name": "Projeto Ver\u00e3o",

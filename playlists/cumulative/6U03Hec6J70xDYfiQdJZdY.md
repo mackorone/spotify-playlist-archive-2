@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-83 songs - 4 hr 27 min
+84 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [My fellow creatures](https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:25 | 2025-10-16 |  |
 | [NATURE VIBRATION](https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:38 | 2025-10-16 |  |
 | [No Armor No Pain](https://open.spotify.com/track/52R2b3SBaqPapQAzAuKzwe) | [Jon Thebur](https://open.spotify.com/artist/2Bhpy04Xbt9Vj0siuMXx3n) | [No Armor No Pain](https://open.spotify.com/album/6yuweuJa8Vkwr79zxF33aU) | 3:42 | 2025-10-16 |  |
+| [Nostos](https://open.spotify.com/track/5k4NithRQadRb3NssO1Vfi) | [Andrea Vanzo](https://open.spotify.com/artist/4KiO59dzeB8dACXmrrwkKe), [Evgeny Grinko](https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C) | [Nostos](https://open.spotify.com/album/3EhCSdd3VDntnFs6msrOlH) | 2:02 | 2026-02-17 |  |
 | [Now is enough](https://open.spotify.com/track/2mGXHKQLP7Wfgu1CZaku1P) | [Van Toan](https://open.spotify.com/artist/5af1P6XDYgWZSJ8T0Fh5cT) | [Now is enough](https://open.spotify.com/album/7GxvKYmg1J88wurQg2n9r5) | 2:58 | 2025-10-16 |  |
 | [Nyman: The Heart Asks Pleasure First](https://open.spotify.com/track/4G3e9icdGC1WYRBjBmhoFX) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8), [Paul Neda](https://open.spotify.com/artist/62fh38Ccz04MaQXycXo6QD) | [Nyman: The Heart Asks Pleasure First](https://open.spotify.com/album/0sxmi34XG7f8yMUEAtgBDw) | 2:41 | 2025-10-16 |  |
 | [Oblivion](https://open.spotify.com/track/2LhJMSY63nsKrZeUOeTenD) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr), [Juan Arenosa](https://open.spotify.com/artist/3cgp4SJCP9dZ53OpbON3cH) | [Oblivion](https://open.spotify.com/album/5gWAFOZSXyRe50I1Tu0osm) | 2:00 | 2025-12-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music. Cover: ",
-  "num_followers": 738800,
+  "num_followers": 738875,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -136,12 +136,12 @@
       },
       "artists": [
         {
-          "name": "Rauschhaus",
-          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
-        },
-        {
           "name": "Peer Kusiv",
           "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        },
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
         }
       ],
       "duration_ms": 286875,

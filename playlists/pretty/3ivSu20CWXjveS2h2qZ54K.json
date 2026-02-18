@@ -1,13 +1,29 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6860,
+  "num_followers": 6861,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADSU0+MrgEyZh8UBKG8MjP8pyZv8e8o",
+  "snapshot_id": "AADSVJIFcFPaJTUVgccyP6m5LMMH81kH",
   "tracks": [
+    {
+      "added_at": "2026-02-17 18:52:01",
+      "album": {
+        "name": "Alan Sparhawk Solo Band",
+        "url": "https://open.spotify.com/album/2xT3jALHxGAC4VWOrVdVm0"
+      },
+      "artists": [
+        {
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+        }
+      ],
+      "duration_ms": 153036,
+      "name": "No More Darkness",
+      "url": "https://open.spotify.com/track/2r15Q4PrVlfG2X8xJ4UY2a"
+    },
     {
       "added_at": "2026-02-13 08:46:40",
       "album": {

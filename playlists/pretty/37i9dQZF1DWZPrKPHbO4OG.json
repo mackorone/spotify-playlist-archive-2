@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 35979,
+  "num_followers": 35999,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -21,7 +21,7 @@
         },
         {
           "name": "Shreyas",
-          "url": "https://open.spotify.com/artist/6WyOh4ow5M7eULS7iqiN00"
+          "url": "https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu"
         }
       ],
       "duration_ms": 158769,
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-01-28 11:19:37",
       "album": {
+        "name": "Lagan",
+        "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 246671,
+      "name": "Payee Fufata",
+      "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
+    },
+    {
+      "added_at": "2026-01-28 11:19:37",
+      "album": {
         "name": "Meri Madhubala",
         "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 285000,
       "name": "Aika Dajiba",
       "url": "https://open.spotify.com/track/5FjtI1VamgonPsylqnQWNZ"
-    },
-    {
-      "added_at": "2026-01-28 11:19:37",
-      "album": {
-        "name": "Lagan",
-        "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 246671,
-      "name": "Payee Fufata",
-      "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
     },
     {
       "added_at": "2026-01-28 11:19:37",

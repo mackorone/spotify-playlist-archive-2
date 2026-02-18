@@ -4,7 +4,7 @@
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-122 songs - 7 hr 58 min
+123 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Desenho](https://open.spotify.com/track/0kYVyrvBGm9PhHmOnLjrDG) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Desenho](https://open.spotify.com/album/404WYMX0T42RBpdx3HuN3q) | 3:45 | 2024-03-15 | 2024-05-20 |
 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 | 2023-09-21 |  |
 | [DISCOVERY](https://open.spotify.com/track/1FdjZ2MUFy1wj9cULYN1Ux) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [CAOS DLX](https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM) | 2:34 | 2025-07-28 | 2026-01-27 |
+| [Distante](https://open.spotify.com/track/11njCTxuLoTHXoScUxOsLC) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/0gwX24ETyA2GnM0eSYL806) | 2:52 | 2026-02-18 |  |
 | [Distante](https://open.spotify.com/track/3oR2ZPo9Y6Loo0Lr0Ur6CJ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 2:52 | 2024-09-07 | 2024-11-18 |
-| [Distante](https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9) | 2:52 | 2025-01-11 |  |
+| [Distante](https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9) | 2:52 | 2025-01-11 | 2026-02-18 |
 | [Distante](https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Distante](https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7) | 2:52 | 2024-03-09 | 2024-09-07 |
 | [Dutumob](https://open.spotify.com/track/048DxjBJekj6Ipk7OxtkF5) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:54 | 2024-04-26 |  |
 | [Dutumob](https://open.spotify.com/track/57qFXE8nd2rJN2HUHOhkZ3) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 3:54 | 2023-09-21 | 2024-04-26 |

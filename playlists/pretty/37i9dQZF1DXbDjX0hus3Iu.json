@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 533673,
+  "num_followers": 533689,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band",
+        "url": "https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH"
+      },
+      "artists": [
+        {
+          "name": "Rossington Collins Band",
+          "url": "https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Don't Misunderstand Me",
+      "url": "https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Champagne Jam",
         "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 287040,
       "name": "Ain't Life Grand",
       "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band",
-        "url": "https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH"
-      },
-      "artists": [
-        {
-          "name": "Rossington Collins Band",
-          "url": "https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Don't Misunderstand Me",
-      "url": "https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU"
     },
     {
       "added_at": "2025-06-20 04:06:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,045 likes - 280 songs - 15 hr 14 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,053 likes - 293 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,5 +288,18 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 278 | [Still Moving](https://open.spotify.com/track/03b7aZBGD9IeZoGWiSGqgP) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Still Moving](https://open.spotify.com/album/5gMWAAX2R6vZfNIN40M9CN) | 2:13 |
 | 279 | [Crazy](https://open.spotify.com/track/5tO2hNJAG7P2pEEuSLAtFp) | [Ellie Carter](https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6) | [Wonderland](https://open.spotify.com/album/3nw4woJFNdPHEBGv0WHxGM) | 2:22 |
 | 280 | [Pursuit of Happiness](https://open.spotify.com/track/60lx0cHHe8WQm3ZeOytUAJ) | [Electrekated](https://open.spotify.com/artist/1MnywL795Nz1Nxdf6Bsu8m) | [Pursuit of Happiness](https://open.spotify.com/album/7tInDasOjgmtuzWfrEY8Ke) | 3:40 |
+| 281 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 |
+| 282 | [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonzalo Perales Roy](https://open.spotify.com/artist/6AnX8950eF5AnppQ3lRCBc), [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 |
+| 283 | [Need To Wait](https://open.spotify.com/track/1B3tImaWNUqknXWxB4Q05m) | [halucynation](https://open.spotify.com/artist/1siPPfl5m8kmN0quVdFfzL) | [Need To Wait](https://open.spotify.com/album/1I91OLSY8B2yFXDQ3xh38q) | 2:50 |
+| 284 | [Plead My Cause](https://open.spotify.com/track/0Fg5ElAxpTPA2fYkYYuLrS) | [LeRoy Stoltzfus](https://open.spotify.com/artist/5Q7K5GJiNLRz7L056UpwYf) | [Plead My Cause](https://open.spotify.com/album/083PPL16HVrkc9Lzea5LYm) | 3:02 |
+| 285 | [I wanna be Taylor Swift](https://open.spotify.com/track/6atiihd6SIYsiI9QuiiVaD) | [Gracie James](https://open.spotify.com/artist/4stmdygFoEwUoheaZgl3Z2) | [I wanna be Taylor Swift](https://open.spotify.com/album/7Hz4BgBzLH8laTr3QwpZCD) | 3:11 |
+| 286 | [Burning Ashes On Jeans](https://open.spotify.com/track/1ZYI4yqbZ5CIt1bt7tpAaT) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 2:40 |
+| 287 | [i see forever in your eyes](https://open.spotify.com/track/0aLLY55iRWOeXhmIFptLBn) | [LOST PAIN](https://open.spotify.com/artist/2NgDo9eUU3j7TtYt9XKrBW) | [i see forever in your eyes](https://open.spotify.com/album/12f0bZr7UYF6k2sVhSi3ev) | 3:20 |
+| 288 | [Bad for Me](https://open.spotify.com/track/4wWERDnBibyTDkmSO0siaI) | [James Sauls](https://open.spotify.com/artist/6LuXoyq58x1GjlbgDNv0MX) | [Bad for Me](https://open.spotify.com/album/0fFJ4wvMQEMQ638KW3QtuH) | 3:14 |
+| 289 | [Dizzy](https://open.spotify.com/track/5Ct8nY0NadPxx4g9lv3pQX) | [Stacey Dineen](https://open.spotify.com/artist/5itke6gQPO6iLQq2Xy7jMj) | [Dizzy](https://open.spotify.com/album/5Cr2zeNloUbJDPQ4aj45uL) | 3:18 |
+| 290 | [My Heart Goes](https://open.spotify.com/track/3vDWRWLTytWOdvKV9RLsSa) | [Marky V\-lectro](https://open.spotify.com/artist/28cZo5TJyJUwjXUZENfSW0) | [My Heart Goes](https://open.spotify.com/album/7MoxhXCYcSsRpeFSbj3Yf1) | 2:39 |
+| 291 | [Boom Boom](https://open.spotify.com/track/6aeavt85cGIKLF79VWNhwc) | [Amanda Jean](https://open.spotify.com/artist/6O3ew5mruts7AzkJPT39og) | [Boom Boom](https://open.spotify.com/album/044cF6YlHehBMx2N5pV0Jo) | 2:48 |
+| 292 | [Drops of Rain](https://open.spotify.com/track/5HA0YBgTwf0FXyvD4QHLNW) | [aNGie](https://open.spotify.com/artist/71bUhvjdkzJAmqs4S1Z3kF) | [Beautiful Ways to Disappear](https://open.spotify.com/album/0eakmFRFZ4Qeo6HiMgRBDG) | 3:22 |
+| 293 | [AM PLECAT](https://open.spotify.com/track/58F4hhdI8Pcqp7pPrnQAEr) | [sick.slick](https://open.spotify.com/artist/7q0OHkrglfb83SpN3uAJVi) | [AM PLECAT](https://open.spotify.com/album/7MZmgQWY5975uy5GUG867n) | 1:36 |
 
-Snapshot ID: `AAA0xD9KYWpOUCv4ZCKuOXi0FIUeF3U1`
+Snapshot ID: `AAA00VbiLbg5Zw9YQXxcVGTgk6CBe6N6`

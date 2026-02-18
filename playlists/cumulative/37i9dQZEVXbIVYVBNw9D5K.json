@@ -618,7 +618,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 263799,
       "name": "A Can\u0131m",
       "url": "https://open.spotify.com/track/50SocgmOJdl1UPjOcFLSCm"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 249730,
       "name": "Arada Bir",
       "url": "https://open.spotify.com/track/5mUPKnEYPQh3IItoJVBeS7"
@@ -4878,7 +4878,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "Bir G\u00fcld\u00fcn",
       "url": "https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg"
@@ -9350,7 +9350,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 174762,
       "name": "E\u011eME BOYUN",
       "url": "https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS"
@@ -10644,6 +10644,24 @@
       "duration_ms": 132187,
       "name": "GNG Freestyle 1",
       "url": "https://open.spotify.com/track/1aJ2WHWbmCagZRRwKKviqB"
+    },
+    {
+      "album": {
+        "name": "Godfather",
+        "url": "https://open.spotify.com/album/2g5hfXAcmMYP0PSwc8w6yd"
+      },
+      "artists": [
+        {
+          "name": "Hokain",
+          "url": "https://open.spotify.com/artist/1QSgKtyE1HjVVzxfZCEGJy"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124319,
+      "name": "Godfather",
+      "url": "https://open.spotify.com/track/0ePHy3fVy5lzvpEOHTNmef"
     },
     {
       "album": {
@@ -15220,7 +15238,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 107658,
       "name": "KAYKAY",
       "url": "https://open.spotify.com/track/1U2tLp2wSqX1YtSUxxhbzm"
@@ -15238,7 +15256,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 107658,
       "name": "KAYKAY",
       "url": "https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q"
@@ -21986,7 +22004,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 228000,
       "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
       "url": "https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p"

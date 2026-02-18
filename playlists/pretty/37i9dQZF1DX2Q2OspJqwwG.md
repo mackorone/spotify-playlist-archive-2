@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,284 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,292 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 99 | [SLABICIUNEA MEA](https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM) | [COMANN](https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [SLABICIUNEA MEA](https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO) | 2:38 |
 | 100 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
 
-Snapshot ID: `AAAAACNTWXUTgXDoaI2ON2j953zuTO2h`
+Snapshot ID: `AAAAAIgjeAUKvaoWFDA9fsLr6qg3a0za`

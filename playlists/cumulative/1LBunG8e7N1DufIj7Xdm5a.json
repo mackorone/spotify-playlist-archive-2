@@ -23591,6 +23591,24 @@
     },
     {
       "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ"
+      },
+      "artists": [
+        {
+          "name": "Straight",
+          "url": "https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191919,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ"
+    },
+    {
+      "album": {
         "name": "Eighties style heavy metal",
         "url": "https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN"
       },
@@ -48472,6 +48490,24 @@
       "duration_ms": 115615,
       "name": "Pa Listocie Apalaj",
       "url": "https://open.spotify.com/track/3qRj5UETOyZvaad6xIB0jv"
+    },
+    {
+      "album": {
+        "name": "Pa lo Gringo",
+        "url": "https://open.spotify.com/album/17X7GZxuOmpsaeLwAWbuxg"
+      },
+      "artists": [
+        {
+          "name": "The Samu",
+          "url": "https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107091,
+      "name": "Pa lo Gringo",
+      "url": "https://open.spotify.com/track/4FAmAvluydf7r15Bsbc4UK"
     },
     {
       "album": {

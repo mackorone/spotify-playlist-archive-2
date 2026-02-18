@@ -14959,6 +14959,24 @@
     },
     {
       "album": {
+        "name": "Turista",
+        "url": "https://open.spotify.com/album/6zucgEMAtMxXTooztMsMEy"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158780,
+      "name": "Turista",
+      "url": "https://open.spotify.com/track/4GgULmlfnucCJ0LFwLen2s"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },

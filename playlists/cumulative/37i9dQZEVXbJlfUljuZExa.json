@@ -4326,7 +4326,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 243623,
       "name": "Cinta Ini Membunuhku",
       "url": "https://open.spotify.com/track/3jqOKTYh4XH9khpOXQp89Y"
@@ -19676,7 +19676,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 251714,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"
@@ -26370,6 +26370,40 @@
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u597d\u6211\u597d\u65b0\u5e74\u597d",
+        "url": "https://open.spotify.com/album/3CRbwJ4jsbbSsZPdxvTpOS"
+      },
+      "artists": [
+        {
+          "name": "Danny Koo",
+          "url": "https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9"
+        },
+        {
+          "name": "Jasmine C",
+          "url": "https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB"
+        },
+        {
+          "name": "Chris \u5b98\u6770\u7693",
+          "url": "https://open.spotify.com/artist/1RmlAusTzAZxnL52oD223v"
+        },
+        {
+          "name": "Miki\u548f\u7444",
+          "url": "https://open.spotify.com/artist/6CB6lTJCzYObdXJ0jh7vUs"
+        },
+        {
+          "name": "Janelle Jiahuii",
+          "url": "https://open.spotify.com/artist/2BtuqXTwj2cAPrgKCHfWIk"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "\u4f60\u597d\u6211\u597d\u65b0\u5e74\u597d",
+      "url": "https://open.spotify.com/track/7h5e2sDk3f9DlAJ8hX8jXn"
     },
     {
       "album": {

@@ -6523,6 +6523,24 @@
     },
     {
       "album": {
+        "name": "Pain 2 Profit",
+        "url": "https://open.spotify.com/album/07lZNxBwEKY6Aj9XLDK3i9"
+      },
+      "artists": [
+        {
+          "name": "MazziOmerta",
+          "url": "https://open.spotify.com/artist/7FpZCuK4UTz5VlOc79pkE1"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Prescription Drugs",
+      "url": "https://open.spotify.com/track/4eG9Tp5czw2Iw2HhNyA6AY"
+    },
+    {
+      "album": {
         "name": "From the Beginning to End",
         "url": "https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts"
       },

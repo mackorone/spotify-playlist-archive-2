@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-416 songs - 21 hr 57 min
+417 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Portland](https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:56 | 2023-12-13 |  |
 | [Pray](https://open.spotify.com/track/4s98hENRdjWanrZNDolBjP) | [FGFC820](https://open.spotify.com/artist/32raKeUHkfUVqgGHbIPD2u) | [Urban Audio Warfare](https://open.spotify.com/album/5CIMb1rasSmnOpAcmlqHpm) | 5:28 | 2023-12-13 | 2025-06-01 |
 | [Pray \(feat\. A$AP Ferg\)](https://open.spotify.com/track/00oeyRVsQcrVHHUR3wjgOw) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:36 | 2025-05-31 |  |
+| [Prescription Drugs](https://open.spotify.com/track/4eG9Tp5czw2Iw2HhNyA6AY) | [MazziOmerta](https://open.spotify.com/artist/7FpZCuK4UTz5VlOc79pkE1) | [Pain 2 Profit](https://open.spotify.com/album/07lZNxBwEKY6Aj9XLDK3i9) | 2:49 | 2026-02-17 |  |
 | [Priceless](https://open.spotify.com/track/65buTq4mPqG9IrerjC3kJW) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 3:26 | 2024-09-13 | 2025-10-11 |
 | [Promises](https://open.spotify.com/track/77EvGL5sPisf8KFGtDZcMR) | [Adam Halliday](https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh), [Murda Beatz](https://open.spotify.com/artist/781KgQAVIOdvM4yE2DnylS) | [About a Girl](https://open.spotify.com/album/2HHwfUxbEu8pbOeaqm0vvk) | 2:44 | 2023-12-13 |  |
 | [Purple Stamp](https://open.spotify.com/track/5vZqcDWLyN1GE7GibqcI3x) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:19 | 2023-12-13 |  |

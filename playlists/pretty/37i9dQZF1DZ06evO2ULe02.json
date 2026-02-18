@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1957,
+  "num_followers": 1959,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAAB8KrX+//RhofjHRWJtYPp2",
+  "snapshot_id": "aZJeAAAAAADU5xp3xNSHxQuuGleldNlo",
   "tracks": [
     {
       "added_at": null,
@@ -172,7 +172,7 @@
       "added_at": null,
       "album": {
         "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
+        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
       "artists": [
         {
@@ -180,25 +180,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 140613,
-      "name": "2 much 2 handle",
-      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 200541,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
+      "duration_ms": 250253,
+      "name": "contact high",
+      "url": "https://open.spotify.com/track/140LUknhC8JRQ2zRzYicwN"
     },
     {
       "added_at": null,
@@ -223,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 200541,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twenty Something",
         "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
       },
@@ -240,7 +240,7 @@
       "added_at": null,
       "album": {
         "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
+        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 250253,
-      "name": "contact high",
-      "url": "https://open.spotify.com/track/140LUknhC8JRQ2zRzYicwN"
+      "duration_ms": 140613,
+      "name": "2 much 2 handle",
+      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d4\u05d9\u05dc\u05d4 \u05e8\u05d5\u05d7",
-  "num_followers": 33289,
+  "num_followers": 33293,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-02-12 22:00:16",
       "album": {
-        "name": "La fille pas cool",
-        "url": "https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs"
-      },
-      "artists": [
-        {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "La fille pas cool",
-      "url": "https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41"
-    },
-    {
-      "added_at": "2026-02-12 22:00:16",
-      "album": {
         "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
         "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 241046,
       "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
       "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
+    },
+    {
+      "added_at": "2026-02-12 22:00:16",
+      "album": {
+        "name": "La fille pas cool",
+        "url": "https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "La fille pas cool",
+      "url": "https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41"
     },
     {
       "added_at": "2026-02-12 22:00:16",
@@ -747,22 +747,22 @@
     {
       "added_at": "2026-02-12 22:00:16",
       "album": {
-        "name": "Sun & Lemonade",
-        "url": "https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ"
+        "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
+        "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
       "artists": [
         {
-          "name": "Loren Peled",
-          "url": "https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh"
+          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
+          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
         },
         {
-          "name": "Daniella Pick",
-          "url": "https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp"
+          "name": "Maor Alush",
+          "url": "https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Sun & Lemonade",
-      "url": "https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1"
+      "duration_ms": 205496,
+      "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+      "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
     },
     {
       "added_at": "2026-02-12 22:00:16",
@@ -799,22 +799,38 @@
     {
       "added_at": "2026-02-12 22:00:16",
       "album": {
-        "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
-        "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
+        "name": "Sun & Lemonade",
+        "url": "https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
-          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
+          "name": "Loren Peled",
+          "url": "https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh"
         },
         {
-          "name": "Maor Alush",
-          "url": "https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal"
+          "name": "Daniella Pick",
+          "url": "https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp"
         }
       ],
-      "duration_ms": 205496,
-      "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
-      "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
+      "duration_ms": 179000,
+      "name": "Sun & Lemonade",
+      "url": "https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1"
+    },
+    {
+      "added_at": "2026-02-12 22:00:16",
+      "album": {
+        "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 408830,
+      "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+      "url": "https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix"
     },
     {
       "added_at": "2026-02-12 22:00:16",
@@ -835,22 +851,6 @@
       "duration_ms": 268500,
       "name": "\u05d0\u05d4\u05d1\u05ea \u05d7\u05d9\u05d9",
       "url": "https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs"
-    },
-    {
-      "added_at": "2026-02-12 22:00:16",
-      "album": {
-        "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
-        "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 408830,
-      "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
-      "url": "https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix"
     },
     {
       "added_at": "2026-02-12 22:00:16",

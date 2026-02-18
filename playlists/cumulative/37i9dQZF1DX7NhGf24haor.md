@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: Hard Driver & Sound Rush
+> Weekly new Hardstyle releases! Cover: D\-Sturb & DEEZL
 
 1,897 songs - 4 day 3 hr 51 min
 

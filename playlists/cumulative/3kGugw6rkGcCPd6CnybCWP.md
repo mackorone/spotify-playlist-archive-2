@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-174 songs - 10 hr 2 min
+175 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Watermelon](https://open.spotify.com/track/78wPXQZbggchUUFVRYM83J) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 1:50 | 2025-11-15 | 2026-01-17 |
 | [Weather](https://open.spotify.com/track/04r6BW5JKP1NygciLj0mZF) | [Luck Luster](https://open.spotify.com/artist/6EePjdPAGdfQeQlE2ioiXX) | [Weather](https://open.spotify.com/album/5hen5e2yTXV8j5SOOJdkZj) | 4:05 | 2025-11-21 | 2026-01-17 |
 | [What If I?](https://open.spotify.com/track/1DP5UjFVGHQsob2fEo55eg) | [Simon Joan](https://open.spotify.com/artist/0SdTqn4C90rxbSm4GUwGCk) | [What If I?](https://open.spotify.com/album/1Tm4s3KBW0JPVlX2Rbz2fj) | 2:50 | 2025-10-24 | 2025-12-02 |
+| [When the Smoke Clears](https://open.spotify.com/track/4o4HfCqu4tMpmPMBzILKzF) | [Aviela Sivia](https://open.spotify.com/artist/3rIBjdx8IaKKTLcAPm7VOm) | [When the Smoke Clears](https://open.spotify.com/album/6TPpKcggYH1K25VIAz0hmR) | 3:25 | 2026-02-18 |  |
 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 | 2026-02-08 |  |
 | [Why Not Try? \(Chill\)](https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Why Not Try? \(Chill\)](https://open.spotify.com/album/4pqYVl020D5Q97Z23o0qUs) | 2:36 | 2026-02-07 |  |
 | [Wild](https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX) | [Sole](https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK) | [Wild](https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg) | 2:51 | 2026-02-16 |  |

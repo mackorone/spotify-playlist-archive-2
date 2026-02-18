@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 444567,
+  "num_followers": 444552,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-05-15 19:43:12",
       "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 423360,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
-    },
-    {
-      "added_at": "2025-05-15 19:43:12",
-      "album": {
         "name": "La Ciudad",
         "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 214366,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
+    },
+    {
+      "added_at": "2025-05-15 19:43:12",
+      "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 423360,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
     },
     {
       "added_at": "2025-05-15 19:43:12",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-05-15 19:43:12",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 155852,
-      "name": "Juan el Descuartizador",
-      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
-    },
-    {
-      "added_at": "2025-05-15 19:43:12",
-      "album": {
         "name": "La Ciudad",
         "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 169180,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
+    },
+    {
+      "added_at": "2025-05-15 19:43:12",
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 155852,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
     },
     {
       "added_at": "2025-05-15 19:43:12",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-15 19:43:12",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0dlB97Gi1aU62lxdlEE7y8"
-      },
-      "artists": [
-        {
-          "name": "Hazel",
-          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Eso Es Amor",
-      "url": "https://open.spotify.com/track/3TeYPfcZ7BKLwEic9WnzCz"
-    },
-    {
-      "added_at": "2025-05-15 19:43:12",
-      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 278666,
       "name": "De Que el Amor Apesta",
       "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
+    },
+    {
+      "added_at": "2025-05-15 19:43:12",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0dlB97Gi1aU62lxdlEE7y8"
+      },
+      "artists": [
+        {
+          "name": "Hazel",
+          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Eso Es Amor",
+      "url": "https://open.spotify.com/track/3TeYPfcZ7BKLwEic9WnzCz"
     },
     {
       "added_at": "2025-05-15 19:43:12",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-05-15 19:43:12",
       "album": {
-        "name": "Inhalando Amor",
-        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
-      },
-      "artists": [
-        {
-          "name": "Hazel",
-          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
-        }
-      ],
-      "duration_ms": 291426,
-      "name": "Que Ser\u00e1 de M\u00ed",
-      "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
-    },
-    {
-      "added_at": "2025-05-15 19:43:12",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 166638,
       "name": "El y Yo",
       "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
+    },
+    {
+      "added_at": "2025-05-15 19:43:12",
+      "album": {
+        "name": "Inhalando Amor",
+        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
+      },
+      "artists": [
+        {
+          "name": "Hazel",
+          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
+        }
+      ],
+      "duration_ms": 291426,
+      "name": "Que Ser\u00e1 de M\u00ed",
+      "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
     },
     {
       "added_at": "2025-05-15 19:43:12",

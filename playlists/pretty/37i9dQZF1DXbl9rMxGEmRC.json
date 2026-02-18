@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics. Cover: Behemoth",
-  "num_followers": 464098,
+  "num_followers": 464087,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "The Age Of Nero",
-        "url": "https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Black Crow on a Tombstone",
-      "url": "https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Path Of Fierce Resistance",
         "url": "https://open.spotify.com/album/5pFoa1KA7r46eNuZvbdYX5"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219400,
       "name": "Path Of Fierce Resistance",
       "url": "https://open.spotify.com/track/2wYiXAJ6552SGJlZnvewF7"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "The Age Of Nero",
+        "url": "https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Black Crow on a Tombstone",
+      "url": "https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -899,18 +899,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
+        "name": "The Tide of Death and Fractured Dreams",
+        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
       },
       "artists": [
         {
-          "name": "I",
-          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
         }
       ],
-      "duration_ms": 353645,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72"
+      "duration_ms": 217849,
+      "name": "Endless Machine",
+      "url": "https://open.spotify.com/track/4IcMbsouvdrvIirllmC7ar"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "The Tide of Death and Fractured Dreams",
-        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
       },
       "artists": [
         {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+          "name": "I",
+          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
         }
       ],
-      "duration_ms": 217849,
-      "name": "Endless Machine",
-      "url": "https://open.spotify.com/track/4IcMbsouvdrvIirllmC7ar"
+      "duration_ms": 353645,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
+        "name": "Death Comes To All",
+        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
+      },
+      "artists": [
+        {
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+        }
+      ],
+      "duration_ms": 117189,
+      "name": "21 Sacraments",
+      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
         "name": "Songs Of The Dusk - EP",
         "url": "https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 332226,
       "name": "To Live Deliciously",
       "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
-        "name": "Death Comes To All",
-        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
-      },
-      "artists": [
-        {
-          "name": "Gates to Hell",
-          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
-        }
-      ],
-      "duration_ms": 117189,
-      "name": "21 Sacraments",
-      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Stained in Rot",
-        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Stained in Rot",
-      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Caught in the Treads",
         "url": "https://open.spotify.com/album/5ghkYlQALtSaQDvek8IfPO"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 215169,
       "name": "Caught in the Treads",
       "url": "https://open.spotify.com/track/5XDoERRDfIlN16fhWH1vqd"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Stained in Rot",
+        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Stained in Rot",
+      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Harbinger Of Woe",
-        "url": "https://open.spotify.com/album/4mYfUVZtfYzGEEEErTcMYc"
-      },
-      "artists": [
-        {
-          "name": "Brodequin",
-          "url": "https://open.spotify.com/artist/0QqpR7yMvfjGjMy4Ite5i5"
-        }
-      ],
-      "duration_ms": 243240,
-      "name": "Of Pillars And Trees",
-      "url": "https://open.spotify.com/track/29wTjvpsmkdWARwDxuWLXC"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "How's The Heart? (Bonus Version)",
         "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 229975,
       "name": "Only When I'm Breathing",
       "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Harbinger Of Woe",
+        "url": "https://open.spotify.com/album/4mYfUVZtfYzGEEEErTcMYc"
+      },
+      "artists": [
+        {
+          "name": "Brodequin",
+          "url": "https://open.spotify.com/artist/0QqpR7yMvfjGjMy4Ite5i5"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Of Pillars And Trees",
+      "url": "https://open.spotify.com/track/29wTjvpsmkdWARwDxuWLXC"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Human Scum",
-        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 275419,
-      "name": "Human Scum",
-      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Virtus Asinaria - Prayer",
         "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 318546,
       "name": "Virtus Asinaria - Prayer",
       "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Human Scum",
+        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 275419,
+      "name": "Human Scum",
+      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "The howling",
-        "url": "https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "The howling",
-      "url": "https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Here For None",
         "url": "https://open.spotify.com/album/03CPGRDNYWE7pmA9yXDdNa"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
+        "name": "The howling",
+        "url": "https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "The howling",
+      "url": "https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
         "name": "Driftwood",
         "url": "https://open.spotify.com/album/1bUNNohbhmwQMQzOwo2DqS"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 268392,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/6Pi5qwfnp0EqjkjOzF2ZDR"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
-        "name": "The End We Start From",
-        "url": "https://open.spotify.com/album/5BtsN0Bkxk4TAGfJB0qhak"
-      },
-      "artists": [
-        {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
-        }
-      ],
-      "duration_ms": 245969,
-      "name": "The End We Start From",
-      "url": "https://open.spotify.com/track/4daT1OtwHXyYPALKB2U87f"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
+        "name": "The End We Start From",
+        "url": "https://open.spotify.com/album/5BtsN0Bkxk4TAGfJB0qhak"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "duration_ms": 245969,
+      "name": "The End We Start From",
+      "url": "https://open.spotify.com/track/4daT1OtwHXyYPALKB2U87f"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
         "name": "Saturn Coming Down",
         "url": "https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge"
       },
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Therizo",
-        "url": "https://open.spotify.com/album/0n1euTWxvPt5Vzp9L81EVW"
-      },
-      "artists": [
-        {
-          "name": "Taubra",
-          "url": "https://open.spotify.com/artist/6WxirqOAGQ6RcriEuDRnOq"
-        }
-      ],
-      "duration_ms": 383740,
-      "name": "Congregation of the Unholy",
-      "url": "https://open.spotify.com/track/5bGpyUwrvei8Uyp9Yae8zf"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Between the Worlds Of Life And Death",
         "url": "https://open.spotify.com/album/5Z8BLgcS7m6vycYBJzjhzo"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 267274,
       "name": "Silent Prayers",
       "url": "https://open.spotify.com/track/1f1CfdRtLuYPo7FBdclY5e"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Therizo",
+        "url": "https://open.spotify.com/album/0n1euTWxvPt5Vzp9L81EVW"
+      },
+      "artists": [
+        {
+          "name": "Taubra",
+          "url": "https://open.spotify.com/artist/6WxirqOAGQ6RcriEuDRnOq"
+        }
+      ],
+      "duration_ms": 383740,
+      "name": "Congregation of the Unholy",
+      "url": "https://open.spotify.com/track/5bGpyUwrvei8Uyp9Yae8zf"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Step Through the Portal and Breathe",
-        "url": "https://open.spotify.com/album/2zc2vlnIYQeYh5rzuqCz9T"
-      },
-      "artists": [
-        {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
-        }
-      ],
-      "duration_ms": 400940,
-      "name": "Step Through the Portal and Breathe",
-      "url": "https://open.spotify.com/track/3w3Qf1qQ8J98BFhSQPl8Sv"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Despondency Chord Progressions",
         "url": "https://open.spotify.com/album/1hkt7HbbMrkQZqvmBFxk0Y"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 301100,
       "name": "Chant of Self Confrontation",
       "url": "https://open.spotify.com/track/0ZIIZlxKGY0oTbPzFqwEjc"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Step Through the Portal and Breathe",
+        "url": "https://open.spotify.com/album/2zc2vlnIYQeYh5rzuqCz9T"
+      },
+      "artists": [
+        {
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
+        }
+      ],
+      "duration_ms": 400940,
+      "name": "Step Through the Portal and Breathe",
+      "url": "https://open.spotify.com/track/3w3Qf1qQ8J98BFhSQPl8Sv"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Seed Of Death",
-        "url": "https://open.spotify.com/album/6O07o1ALpQp1pIh3rBa9MU"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 267831,
-      "name": "Seed Of Death",
-      "url": "https://open.spotify.com/track/11VpcYTYemjf7Rpn4Gjjxa"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Fire Blades From The Tomb",
         "url": "https://open.spotify.com/album/0tTv0uyvaoYehKel1wyIcp"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 416177,
       "name": "Covenant",
       "url": "https://open.spotify.com/track/4G2PngCnKKMUIEbpQkquXe"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Seed Of Death",
+        "url": "https://open.spotify.com/album/6O07o1ALpQp1pIh3rBa9MU"
+      },
+      "artists": [
+        {
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+        }
+      ],
+      "duration_ms": 267831,
+      "name": "Seed Of Death",
+      "url": "https://open.spotify.com/track/11VpcYTYemjf7Rpn4Gjjxa"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Remains Of A Dead World",
-        "url": "https://open.spotify.com/album/55fcaJ1hopKffHCtOJig0j"
-      },
-      "artists": [
-        {
-          "name": "Nightrage",
-          "url": "https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "Euphoria Within Chaos",
-      "url": "https://open.spotify.com/track/4tYHASDmTcl9d6zFCDPNXK"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "In the Twilight Grey",
         "url": "https://open.spotify.com/album/2EtaPsV5q2n21XiyF8UclQ"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 301106,
       "name": "Grace of the Past",
       "url": "https://open.spotify.com/track/6hxiOrhmVe8Z8NMC5zBN61"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Remains Of A Dead World",
+        "url": "https://open.spotify.com/album/55fcaJ1hopKffHCtOJig0j"
+      },
+      "artists": [
+        {
+          "name": "Nightrage",
+          "url": "https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "Euphoria Within Chaos",
+      "url": "https://open.spotify.com/track/4tYHASDmTcl9d6zFCDPNXK"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Origin of Fire",
-        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
-      },
-      "artists": [
-        {
-          "name": "Mors Subita",
-          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "Fire, Walk With Me",
-      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Casket",
         "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 113870,
       "name": "Casket",
       "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Origin of Fire",
+        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
+      },
+      "artists": [
+        {
+          "name": "Mors Subita",
+          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "Fire, Walk With Me",
+      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Death from Above",
-        "url": "https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO"
-      },
-      "artists": [
-        {
-          "name": "Goatwhore",
-          "url": "https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI"
-        }
-      ],
-      "duration_ms": 212355,
-      "name": "Death from Above",
-      "url": "https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Kr\u00e1sno",
         "url": "https://open.spotify.com/album/0xcHaw8JAslSjSuOlNWKzp"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 290568,
       "name": "Kr\u00e1sno",
       "url": "https://open.spotify.com/track/3hwQRPHb7bISgyLooGcv1V"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Death from Above",
+        "url": "https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO"
+      },
+      "artists": [
+        {
+          "name": "Goatwhore",
+          "url": "https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI"
+        }
+      ],
+      "duration_ms": 212355,
+      "name": "Death from Above",
+      "url": "https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0"
     },
     {
       "added_at": "2025-07-04 07:24:43",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAAAHcmf9aXDdHoK3wx1giNM+",
+  "snapshot_id": "aZJeAAAAAAD9LASpW1qKtzFr6uL5ioKH",
   "tracks": [
     {
       "added_at": null,
@@ -258,19 +258,11 @@
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
         }
       ],
-      "duration_ms": 171860,
-      "name": "Culiacan",
-      "url": "https://open.spotify.com/track/3R3kQSwosKvVNqQwa2C9Nq"
+      "duration_ms": 102592,
+      "name": "Party Prendio",
+      "url": "https://open.spotify.com/track/4ebWwTC1dGpc6ONcb2PrOb"
     },
     {
       "added_at": null,
@@ -350,11 +342,19 @@
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
         }
       ],
-      "duration_ms": 102592,
-      "name": "Party Prendio",
-      "url": "https://open.spotify.com/track/4ebWwTC1dGpc6ONcb2PrOb"
+      "duration_ms": 171860,
+      "name": "Culiacan",
+      "url": "https://open.spotify.com/track/3R3kQSwosKvVNqQwa2C9Nq"
     },
     {
       "added_at": null,

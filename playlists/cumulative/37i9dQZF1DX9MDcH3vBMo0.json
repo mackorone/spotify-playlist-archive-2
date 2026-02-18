@@ -3519,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Evening Breeze",
+        "url": "https://open.spotify.com/album/37Zu37uyM3Yve7ys41qn47"
+      },
+      "artists": [
+        {
+          "name": "Antoine Faur\u00e9",
+          "url": "https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140653,
+      "name": "Evening Breeze",
+      "url": "https://open.spotify.com/track/7tprazZON3rZewH5u0UBfn"
+    },
+    {
+      "album": {
         "name": "Days Gone By",
         "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
       },
@@ -3948,6 +3966,24 @@
       "duration_ms": 177000,
       "name": "Fiorire",
       "url": "https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv"
+    },
+    {
+      "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/4RzbLJgFYS9T19kti7IA9Y"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166092,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/58PD866X9AJh92045MujmK"
     },
     {
       "album": {

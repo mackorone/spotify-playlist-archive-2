@@ -23879,28 +23879,6 @@
     },
     {
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "date_added": "2026-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138533,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
-    },
-    {
-      "album": {
         "name": "RECKLESS & RATCHET",
         "url": "https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx"
       },
@@ -23920,6 +23898,32 @@
       "duration_ms": 177933,
       "name": "RECKLESS & RATCHET",
       "url": "https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2"
+    },
+    {
+      "album": {
+        "name": "Reckless (feat. Static Major)",
+        "url": "https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "Reckless (feat. Static Major)",
+      "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
     },
     {
       "album": {

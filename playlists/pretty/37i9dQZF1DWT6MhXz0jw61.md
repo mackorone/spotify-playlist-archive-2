@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,184 likes - 101 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,202 likes - 101 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 4 | [Everything Allocated](https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Everything Allocated](https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi) | 2:53 |
 | 5 | [The Villest \(with Erykah Badu\)](https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:30 |
 | 6 | [Belly](https://open.spotify.com/track/7MYypH9VM4e2Ai05LhhyDE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Belly](https://open.spotify.com/album/6xkDEPFBEVdWcOF42JEbYP) | 3:08 |
-| 7 | [Reckless](https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Reckless](https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym) | 2:18 |
+| 7 | [Reckless \(feat\. Static Major\)](https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Reckless \(feat\. Static Major\)](https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym) | 2:18 |
 | 8 | [JANKY moral COMPASS \(feat\. Samara Cyn & Sydney Leona\)](https://open.spotify.com/track/4Sfl1Hhi7adLW7IsHP4itc) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Sydney Leona](https://open.spotify.com/artist/4sWc3NPfHM8tgq3C1gASa4), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 5:09 |
 | 9 | [Tight Rope](https://open.spotify.com/track/2t289cdHBXWOsWEGiQfYiB) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Tight Rope](https://open.spotify.com/album/4XTHA4PvbCCNLcdS1yIYBY) | 2:55 |
 | 10 | [Both Eyes Closed](https://open.spotify.com/track/4iOCGZfwBA3opybMoqtqQT) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Highest 2 Lowest \(Original Soundtrack\)](https://open.spotify.com/album/7DCxpT85T64nNsvhuIbY58) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,879 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,873 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [tristesse](https://open.spotify.com/track/4aT7cdgeefPxRsMHL0prOs) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [tatendrang und todmüde](https://open.spotify.com/album/7pwvJVpn3pyRiWp01SKn2e) | 3:00 |
 | 17 | [Immer wenn du gehst](https://open.spotify.com/track/6kvMuGJKY5xczfokFAwmOq) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [ELEMENT](https://open.spotify.com/album/6Q3kvhiztpcSFE2rW6wKVY) | 3:33 |
 | 18 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
-| 19 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
-| 20 | [CLAP](https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [CLAP](https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ) | 2:06 |
-| 21 | [Kaputt machst](https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kaputt machst](https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL) | 2:29 |
+| 19 | [CLAP](https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [CLAP](https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ) | 2:06 |
+| 20 | [Kaputt machst](https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kaputt machst](https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL) | 2:29 |
+| 21 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
 | 22 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
 | 23 | [Papa](https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Papa](https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK) | 2:43 |
 | 24 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
 | 35 | [frieden](https://open.spotify.com/track/2SlpgnjraLCGUuxGlkplg2) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [wo ein herz bricht](https://open.spotify.com/album/5BmrppMudOMh2Q5AnCuNDh) | 3:07 |
 | 36 | [Disco](https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Disco](https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L) | 3:10 |
-| 37 | [Rocket Science](https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Soft Skin](https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E) | 3:14 |
-| 38 | [Cajito \(No Balão\)](https://open.spotify.com/track/6QkMTUvcWRH3bHfd74DBmX) | [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd) | [Cajito \(No Balão\)](https://open.spotify.com/album/3bSh5PIkFF3bvfhy2RgqGE) | 2:03 |
+| 37 | [Cajito \(No Balão\)](https://open.spotify.com/track/6QkMTUvcWRH3bHfd74DBmX) | [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd) | [Cajito \(No Balão\)](https://open.spotify.com/album/3bSh5PIkFF3bvfhy2RgqGE) | 2:03 |
+| 38 | [Rocket Science](https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Soft Skin](https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E) | 3:14 |
 | 39 | [Outrun](https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Outrun](https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt) | 3:17 |
 | 40 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
 | 41 | [Nie gleich](https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Nie gleich](https://open.spotify.com/album/5vNAPI9zz7ezRiW0fHirIk) | 3:01 |

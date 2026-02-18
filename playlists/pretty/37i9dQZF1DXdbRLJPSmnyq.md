@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,924 likes - 88 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,973 likes - 88 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

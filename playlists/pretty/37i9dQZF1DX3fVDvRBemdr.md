@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Dave Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,957 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,945 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monica](https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Monica](https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e) | 3:06 |
-| 2 | [Genieten zonder spijt](https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Genieten zonder spijt](https://open.spotify.com/album/4QHwUmWUFH5SiNWLfmA1G3) | 2:53 |
-| 3 | [Gisteren Was Het Feest](https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i) | [Matthijs Koning](https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV) | [Gisteren Was Het Feest](https://open.spotify.com/album/5rKeYZFEQaQhsmYStku0Tp) | 2:55 |
+| 2 | [Gisteren Was Het Feest](https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i) | [Matthijs Koning](https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV) | [Gisteren Was Het Feest](https://open.spotify.com/album/5rKeYZFEQaQhsmYStku0Tp) | 2:55 |
+| 3 | [Genieten zonder spijt](https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Genieten zonder spijt](https://open.spotify.com/album/4QHwUmWUFH5SiNWLfmA1G3) | 2:53 |
 | 4 | [1%](https://open.spotify.com/track/25vyONTCBi5i4J2k8NSngB) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [1%](https://open.spotify.com/album/4amrfzBhiVhXDGLyrMnzkX) | 2:51 |
 | 5 | [Gekkenhuis](https://open.spotify.com/track/6mbWCEF2EythgujAeKwE81) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl) | [Gekkenhuis](https://open.spotify.com/album/6SYqQyKQjPrejCqpzrU1zI) | 3:08 |
 | 6 | [Wiegelied \- 2.0](https://open.spotify.com/track/0uzWXLY18awtT7GiisLBrG) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0) | [Wiegelied \(2.0\)](https://open.spotify.com/album/09UBeoyQDy3ay8sBgQmXZE) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 84 | [De Bon Is Van Mij](https://open.spotify.com/track/5H6tJM9ZWBGxp2DkVuRFvY) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [De Bon Is Van Mij](https://open.spotify.com/album/0GSCRfKg3ILfgpBloMDBe1) | 2:55 |
 | 85 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
 
-Snapshot ID: `AAAAAKNwB5pxyxfaeh9TDATMHFvop+vF`
+Snapshot ID: `AAAAALAQGCIsYWG8rCmQcZCLSTaMWU6e`

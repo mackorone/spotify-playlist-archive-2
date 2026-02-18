@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 49 | [Around The World \- Remastered](https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable Nat King Cole Sings The Great Songs](https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ) | 2:34 |
 | 50 | [My One And Only Love \- Remastered](https://open.spotify.com/track/6DHuDz9Rnz5beUnOijThjH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 3:12 |
 | 51 | [All Through The Night \- Ella Fitzgerald Sings the Cole Porter Songbook](https://open.spotify.com/track/18b4Lt336qH0ei7w5AWyvQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 3:16 |
-| 52 | [Get Out of Town](https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 4:12 |
-| 53 | [Tomorrow](https://open.spotify.com/track/395b9mfjEHhWfb9YAWMmsl) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Tomorrow](https://open.spotify.com/album/4kWe0MtW6jWGlKxzoVAJ64) | 3:48 |
+| 52 | [Tomorrow](https://open.spotify.com/track/395b9mfjEHhWfb9YAWMmsl) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Tomorrow](https://open.spotify.com/album/4kWe0MtW6jWGlKxzoVAJ64) | 3:48 |
+| 53 | [Get Out of Town](https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 4:12 |
 | 54 | [It's Bad for Me \(with The Benny Goodman Sextet\)](https://open.spotify.com/track/2s1PZfqMkyQjZ4yFXPShji) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [Date With The King \(with The Benny Goodman Sextet\)](https://open.spotify.com/album/1UgsnlZGItDmf1qXMzaRbI) | 2:55 |
 | 55 | [Montmartre](https://open.spotify.com/track/4xKOPH17zTLnjQWcGdKTbI) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Rex Stewart](https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa) | [Djangologie Vol8 / 1937 \- 1938](https://open.spotify.com/album/4NyzXq4mgVy0XJZMBei6Nb) | 2:25 |
 | 56 | [FRIENDSHIP](https://open.spotify.com/track/0mNnK7dRqfHyZyoCMHGMLU) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [FRIENDSHIP](https://open.spotify.com/album/7FYhyvoCHvbGmHEk20TBJJ) | 4:47 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 195 | [Cyd Leaves Paris](https://open.spotify.com/track/3bwYzEleuFwuFRAvhI5lTx) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:25 |
 | 196 | [Swingin' The Jinx Away](https://open.spotify.com/track/2DP9FpAhW50aVtZXl9hZJo) | [Nat Gonella And His Georgians](https://open.spotify.com/artist/26doXq7toDGiMUAyGLFjJO) | [The Great British Dance Bands Play Cole Porter](https://open.spotify.com/album/3L31sFS22NEH1a9bgTkDYD) | 3:04 |
 | 197 | [Count Your Blessings \(Remasterisé\)](https://open.spotify.com/track/5euKJxlVJMPZAnFHhzDp47) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Les Grands Classiques de Noël \- 50 chants et chansons incontournables \(Version originale remasterisée\)](https://open.spotify.com/album/2ysrn3yblDSPrEuFNy1VpN) | 1:44 |
-| 198 | [Les Girls](https://open.spotify.com/track/6djAWzMP3qJ2UC2cIuRrnG) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years \(Expanded Edition\)](https://open.spotify.com/album/1Xq3pb1oUYrMqTHuc7N4Nl) | 2:01 |
-| 199 | [Check Out](https://open.spotify.com/track/2Yjd3UjEh3vlKKHU9PiPge) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:34 |
+| 198 | [Check Out](https://open.spotify.com/track/2Yjd3UjEh3vlKKHU9PiPge) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:34 |
+| 199 | [Les Girls](https://open.spotify.com/track/6djAWzMP3qJ2UC2cIuRrnG) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years \(Expanded Edition\)](https://open.spotify.com/album/1Xq3pb1oUYrMqTHuc7N4Nl) | 2:01 |
 | 200 | [Daphne's Office](https://open.spotify.com/track/78ZVpmTKkp9Ck9EfaFazAm) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:15 |
 | 201 | [Pilot Me](https://open.spotify.com/track/71B847yYnD56zyHeSP4dRY) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:45 |
 | 202 | [Gardener's Suite](https://open.spotify.com/track/1s5978mrmuDE6dI7jm4jUf) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:18 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcJ2tgAAAAB8Yt9tmfV2hADVaFQEYTXC`
+Snapshot ID: `AcJ8iAAAAADdqEX8sLLETg3MeP9iYAup`

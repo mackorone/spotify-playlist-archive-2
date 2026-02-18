@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6VaYrjshHIPyNBnmVdLdgQ">Hugo Tarres</a>
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:5TuV5KauTXLFX1ODD7mEb0">metro</a>
 
 4,122 songs - 9 day 11 hr 1 min
 

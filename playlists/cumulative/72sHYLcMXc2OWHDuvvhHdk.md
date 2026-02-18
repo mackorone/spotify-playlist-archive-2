@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,071 songs - 5 day 1 hr 6 min
+2,072 songs - 5 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Break Up Bangs](https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Break Up Bangs](https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ) | 2:36 | 2025-08-01 |  |
 | [Breaker](https://open.spotify.com/track/05UdJgtVRV1wOu28HOiOSY) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Waves Of Steel \(The Album\)](https://open.spotify.com/album/4qwOctwC9etKAkhIpx00jr) | 2:23 | 2025-12-11 |  |
 | [Breaking the Silence](https://open.spotify.com/track/2e3tbGEZwn3lpQfGydppwZ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 3:32 | 2025-06-16 |  |
+| [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 | 2026-02-18 |  |
 | [Breathing](https://open.spotify.com/track/6D8T3fYfGoHxla2hAFZiKT) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Breathing](https://open.spotify.com/album/0lt3iLnq9O9aLuapaK50CY) | 5:29 | 2025-05-29 |  |
 | [breathing, just fine](https://open.spotify.com/track/7B624w4xurrqjerVLU7flg) | [carlixe](https://open.spotify.com/artist/2QPm4y6rPTKDW2cFCzeu9P), [Luck chua](https://open.spotify.com/artist/6Yykd9A07URVYaes3f8x5R) | [breathing, just fine](https://open.spotify.com/album/4DrygYDis1BO1qxeCZLqWG) | 3:12 | 2025-09-17 |  |
 | [Bring Me One In Black](https://open.spotify.com/track/7jN6kuL28gYgE2j7E6s2YV) | [Hex Formes](https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM), [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA) | [Bring Me One In Black](https://open.spotify.com/album/4RPFINEC8miJgNziSwm4LZ) | 2:53 | 2025-08-25 |  |

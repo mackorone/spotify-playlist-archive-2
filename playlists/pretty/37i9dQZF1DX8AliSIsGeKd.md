@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover:
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,800 likes - 90 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,875 likes - 90 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Good Girl](https://open.spotify.com/track/1OhIvBBCNnTDx01ugLqscr) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Good Girl](https://open.spotify.com/album/1etZbO7J4Zwgkp6HdGztla) | 5:25 |
 | 5 | [Vicious Chords](https://open.spotify.com/track/0P2hbnluQ22QPuWLWZLvho) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Vicious Chords](https://open.spotify.com/album/6NSpFpsmUvEMyQI3os9nJ6) | 2:45 |
 | 6 | [DNA](https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [DNA](https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO) | 3:16 |
-| 7 | [Drink & Drive](https://open.spotify.com/track/7b5849pc6NoM538TLXo7S8) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Drink & Drive](https://open.spotify.com/album/5mJ32FobAznNMep350KApg) | 4:46 |
+| 7 | [Drink & Drive](https://open.spotify.com/track/7b5849pc6NoM538TLXo7S8) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Drink & Drive](https://open.spotify.com/album/5mJ32FobAznNMep350KApg) | 4:46 |
 | 8 | [Worth The Wait](https://open.spotify.com/track/4bKpSEdFwnK89NdAMiqpU1) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Worth The Wait](https://open.spotify.com/album/4Cqd6WPbg3ONt8vQqX4O1F) | 2:41 |
 | 9 | [Nobody But You](https://open.spotify.com/track/3hCJD1yx2671dxBOuqAEZJ) | [Marc Van Linden](https://open.spotify.com/artist/2bnp0PzMRKZX5ZuPcgL0P9), [Ewelina Koll](https://open.spotify.com/artist/2WfhpjgkElrDY87Gzf6lHv) | [Rave the Planet: Supporter Series, Vol\. 029](https://open.spotify.com/album/3NqxhEb6key2qLp8TyzV6P) | 5:03 |
 | 10 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 |

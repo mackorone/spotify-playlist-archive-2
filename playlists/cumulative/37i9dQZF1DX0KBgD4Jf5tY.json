@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:1KlD1JXtUV44n7tdzmiXit\">Salom\u00e8e</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:0xR9GzTwiXo7mZpoqOL0pG\">Paul Giorgi</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -2806,6 +2806,32 @@
       "duration_ms": 216068,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/7ArU3nxGQvUHI1duh9ct9J"
+    },
+    {
+      "album": {
+        "name": "santa caterina",
+        "url": "https://open.spotify.com/album/0FYlOefVC7RnKVsi0Rvnmt"
+      },
+      "artists": [
+        {
+          "name": "nicotina",
+          "url": "https://open.spotify.com/artist/2nU09GjOfh4WVzCi57Fy5z"
+        },
+        {
+          "name": "Brokenkidzz",
+          "url": "https://open.spotify.com/artist/5YoIT0p6aIAuLfxbK4D6mb"
+        },
+        {
+          "name": "IRBIS",
+          "url": "https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203916,
+      "name": "anedonia",
+      "url": "https://open.spotify.com/track/0bs9DFxBrKvOd6VEsC2p6W"
     },
     {
       "album": {
@@ -6290,7 +6316,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 119178,
       "name": "Casteddhru",
       "url": "https://open.spotify.com/track/6bvaGRdsEmCee3jCC2LeoY"
@@ -8763,6 +8789,28 @@
     },
     {
       "album": {
+        "name": "cuore semplice",
+        "url": "https://open.spotify.com/album/6Ff59SWynPOrTbtwqDFYm5"
+      },
+      "artists": [
+        {
+          "name": "Dae",
+          "url": "https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ"
+        },
+        {
+          "name": "Sandra Ru",
+          "url": "https://open.spotify.com/artist/3Ff2nWl1jfgAEJEBIRfYN4"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208065,
+      "name": "cuore semplice",
+      "url": "https://open.spotify.com/track/4zewAihOmFrEIuNmaKxQVc"
+    },
+    {
+      "album": {
         "name": "Cuore semplice",
         "url": "https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf"
       },
@@ -8936,7 +8984,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 175000,
       "name": "da questo non si torna",
       "url": "https://open.spotify.com/track/1UJWkw9zS2c0GV0VPO8gHC"
@@ -9360,6 +9408,24 @@
       "duration_ms": 132331,
       "name": "DETOX",
       "url": "https://open.spotify.com/track/3qWfrpqEpmQJMpytmXUsgb"
+    },
+    {
+      "album": {
+        "name": "Act II: Devi stare quiet / Questa citt\u00e0 brucia",
+        "url": "https://open.spotify.com/album/0HWRRstSBPJxpObtaSK16b"
+      },
+      "artists": [
+        {
+          "name": "INVERNO",
+          "url": "https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164096,
+      "name": "Devi stare quiet",
+      "url": "https://open.spotify.com/track/0Op7XFczJtSbxNXHVRRRMv"
     },
     {
       "album": {
@@ -14081,6 +14147,24 @@
     },
     {
       "album": {
+        "name": "giovane paura",
+        "url": "https://open.spotify.com/album/2dOr0edHSvMY9UQfQ2KIQi"
+      },
+      "artists": [
+        {
+          "name": "VEROSIMILE",
+          "url": "https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145957,
+      "name": "giovane paura",
+      "url": "https://open.spotify.com/track/72AltqJdBXCtmKENjbU2b6"
+    },
+    {
+      "album": {
         "name": "Giovani Vecchi",
         "url": "https://open.spotify.com/album/6C0FOTFKcELvwAPWApNZqJ"
       },
@@ -18238,7 +18322,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 199459,
       "name": "LA VITA IL GIOCO IL DESTINO",
       "url": "https://open.spotify.com/track/58XRSMHYiYG7WZmm0pQlYY"
@@ -18648,7 +18732,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 120000,
       "name": "le stelle, le strisce",
       "url": "https://open.spotify.com/track/7B3uWhhBbyzSJ5U4g0Wi3O"
@@ -19170,7 +19254,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 141479,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/6B9iMPSJOYpeDiTSrr4Q10"
@@ -23101,6 +23185,24 @@
     },
     {
       "album": {
+        "name": "Nen\u00e8",
+        "url": "https://open.spotify.com/album/4y9dapheFFFFpwKcYH1rce"
+      },
+      "artists": [
+        {
+          "name": "JANAKI",
+          "url": "https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212459,
+      "name": "Nen\u00e8",
+      "url": "https://open.spotify.com/track/65UY8dcWKmyuOilr3KYede"
+    },
+    {
+      "album": {
         "name": "Nero su bianco",
         "url": "https://open.spotify.com/album/3v8tyDAANdtkzM2YQbb1h2"
       },
@@ -25834,7 +25936,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 134030,
       "name": "Oopah",
       "url": "https://open.spotify.com/track/0yd2o1Fd32LonuRUrChnKr"
@@ -26794,7 +26896,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 105218,
       "name": "Parole liquide",
       "url": "https://open.spotify.com/track/0zwIkNd8wNMnEhheuV5wrB"
@@ -30067,6 +30169,24 @@
     },
     {
       "album": {
+        "name": "rifiorire",
+        "url": "https://open.spotify.com/album/5V0uqjEAjwKrlfHq7uKz33"
+      },
+      "artists": [
+        {
+          "name": "marsea",
+          "url": "https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229652,
+      "name": "rifiorire",
+      "url": "https://open.spotify.com/track/1Ak1nbrqJCBu8gEi9jC0N5"
+    },
+    {
+      "album": {
         "name": "RILASCIO",
         "url": "https://open.spotify.com/album/47Ya71TLlCDMnuqxO36E7u"
       },
@@ -31799,6 +31919,24 @@
     },
     {
       "album": {
+        "name": "Semi",
+        "url": "https://open.spotify.com/album/5oo0D7CBU1lJV1t38wbTY6"
+      },
+      "artists": [
+        {
+          "name": "Eyes Be Quiet",
+          "url": "https://open.spotify.com/artist/7KjAF7hhf1REuPoNnJWYX2"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315826,
+      "name": "Semi",
+      "url": "https://open.spotify.com/track/5hNxUJnIGBpvXeXzglTX7b"
+    },
+    {
+      "album": {
         "name": "SEMPREMEGLIO!",
         "url": "https://open.spotify.com/album/0mLZ5nQdVWfpDzU7d3R2zw"
       },
@@ -32162,7 +32300,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 144523,
       "name": "serotonina",
       "url": "https://open.spotify.com/track/1cjFUmSySY0dmXxN7JcmaX"
@@ -33084,6 +33222,24 @@
       "duration_ms": 178517,
       "name": "Solita",
       "url": "https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5BC1rai5AGQ0Fkxl7Dvpjq"
+      },
+      "artists": [
+        {
+          "name": "ETT",
+          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/22zdrRCq9fpzvdtTi4IXk3"
     },
     {
       "album": {
@@ -34562,7 +34718,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 131568,
       "name": "stop pipping boy it's just music",
       "url": "https://open.spotify.com/track/31pdNl590xWGj4qH5SWzuV"
@@ -35248,6 +35404,24 @@
       "duration_ms": 132656,
       "name": "Tanto Tutto Passa",
       "url": "https://open.spotify.com/track/0wWjSMMugt4LWXZ9OIv57S"
+    },
+    {
+      "album": {
+        "name": "Le Maioliche",
+        "url": "https://open.spotify.com/album/23XO5C121oQQOXAa7mzNeS"
+      },
+      "artists": [
+        {
+          "name": "IL MAESTRALE",
+          "url": "https://open.spotify.com/artist/0IOjdqi0HosJ3EK7jC1yeq"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186104,
+      "name": "Tapis Roulant",
+      "url": "https://open.spotify.com/track/1RTn2Qh4cLW0gPoOn6aY8q"
     },
     {
       "album": {
@@ -36080,6 +36254,24 @@
       "duration_ms": 186164,
       "name": "Timing",
       "url": "https://open.spotify.com/track/7IdvCpJhdLjd20COjoMMPu"
+    },
+    {
+      "album": {
+        "name": "Timu",
+        "url": "https://open.spotify.com/album/5LQsoImTfwbOMzCKoy6KTi"
+      },
+      "artists": [
+        {
+          "name": "DDUMA",
+          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182711,
+      "name": "Timu",
+      "url": "https://open.spotify.com/track/0MnilMV2J6GIFC4UFwosAy"
     },
     {
       "album": {

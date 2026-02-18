@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Lostboy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,472 likes - 93 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,524 likes - 93 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toujours Deux](https://open.spotify.com/track/1VxZBcZUeqHi8hXrEEjKRm) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb), [M!ND](https://open.spotify.com/artist/2GwMkWYrEUIY9jaY57EMXE) | [Deux côtés à l'histoire](https://open.spotify.com/album/5xNImPjWoQ0rJMISExAR0u) | 1:42 |
 | 2 | [Grazie Mille Freestyle](https://open.spotify.com/track/2xx0LgrSy19TFdbBHb3xol) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [GrandBazaar](https://open.spotify.com/artist/5Gy06Dx6rmDAfR6gA7Kkqw) | [GrandBazaar \(03\)](https://open.spotify.com/album/4wT3teHjdpYuRwPh7agzay) | 3:02 |
 | 3 | [Claim Your Blessings](https://open.spotify.com/track/1C2BSvWxlVgIwisrY0YTVW) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Claim Your Blessings](https://open.spotify.com/album/2Fv8VDaIRl9Xh0CGgD6NIi) | 2:22 |
-| 4 | [SUR MOI](https://open.spotify.com/track/5QoAyEU98raTjuVfNo9Ue0) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Shadow Wizard Money Gang](https://open.spotify.com/artist/34ESFFvfP5f465MC2V6E64) | [SUR MOI](https://open.spotify.com/album/4TIncoZAq6JfF2XlKL98bt) | 2:08 |
+| 4 | [SUR MOI](https://open.spotify.com/track/5QoAyEU98raTjuVfNo9Ue0) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Shadow Wizard Money Gang](https://open.spotify.com/artist/34ESFFvfP5f465MC2V6E64), [Sylinda](https://open.spotify.com/artist/6F6SH7OYlTzzDFeBntsHbg) | [SUR MOI](https://open.spotify.com/album/4TIncoZAq6JfF2XlKL98bt) | 2:08 |
 | 5 | [PLUS JAMAIS BROKE](https://open.spotify.com/track/1Lf4PXnMAvhowUR3TgASAA) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [PLUS JAMAIS BROKE](https://open.spotify.com/album/0Vd0mxIcnqbqGaW30um1GT) | 2:04 |
 | 6 | [Détour](https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Détour](https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4) | 3:39 |
 | 7 | [Ritz Carlton](https://open.spotify.com/track/6nJKlIarVo4DkFel40XF8g) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Ritz Carlton](https://open.spotify.com/album/03S4nz2a753KSzsh8uH4uC) | 4:06 |

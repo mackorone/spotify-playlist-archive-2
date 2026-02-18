@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-444 songs - 18 hr 48 min
+445 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Dunya](https://open.spotify.com/track/4eIdT2bW2gaTDdJnMgt7Ue) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Dunya](https://open.spotify.com/album/2w6QNteaT1zNP0BgCNZ7ji) | 2:47 | 2025-03-24 | 2025-05-28 |
 | [DUNYA](https://open.spotify.com/track/0LSqInjWSNjDXfimXbiMHF) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [DUNYA](https://open.spotify.com/album/0VD2v3aYOU0HdhvViSkduc) | 2:05 | 2025-12-19 | 2026-01-23 |
 | [Durch die Nacht](https://open.spotify.com/track/2SOJytsIuNLOG49osyWLRd) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Durch die Nacht](https://open.spotify.com/album/1p8BJWQQDUAwSkUA38lwuU) | 2:39 | 2024-09-09 | 2024-11-19 |
+| [DVD](https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [DVD](https://open.spotify.com/album/3VcBg8vxxaXNJJN72MCbJa) | 2:18 | 2026-02-12 |  |
 | [Désiré Doué](https://open.spotify.com/track/0uPckhHiNfc6BXrpnFbUqR) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Désiré Doué](https://open.spotify.com/album/13FSGypMPQ4BtYty51CsfD) | 2:29 | 2025-07-24 | 2025-09-19 |
 | [Edamame](https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt), [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Edamame](https://open.spotify.com/album/6z3Mi8dg1ffRpomYxQSHv2) | 1:55 | 2025-06-26 | 2025-08-12 |
 | [Egal](https://open.spotify.com/track/6zF5LE8eK9Bf98UwLVe8Du) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Egal](https://open.spotify.com/album/6ITpDSZZKmZejmS4EPMqPW) | 2:59 | 2024-06-28 | 2025-04-11 |
@@ -309,7 +310,7 @@
 | [Pasaport](https://open.spotify.com/track/1QA3bX5WWKkLqHb6Ft69Qc) | [Delil](https://open.spotify.com/artist/1qE4CSDyGGLsSBOtlWoYqX), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [Pasaport](https://open.spotify.com/album/4eBfzWqgbbTiqHsU0CONlf) | 2:03 | 2024-06-28 | 2025-11-07 |
 | [Pech & Schwefel](https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Pech & Schwefel](https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R) | 3:07 | 2025-10-02 |  |
 | [PERSONAL COACH](https://open.spotify.com/track/0PH1sxoJgwJATUb17xUKp8) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PERSONAL COACH](https://open.spotify.com/album/26LFq67ntFebSvo6x8VM0d) | 2:42 | 2026-01-22 |  |
-| [Phantom](https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Phantom](https://open.spotify.com/album/50fYMShGrQyKJ4DUwDth9v) | 2:33 | 2025-11-27 |  |
+| [Phantom](https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Phantom](https://open.spotify.com/album/50fYMShGrQyKJ4DUwDth9v) | 2:33 | 2025-11-27 | 2026-02-18 |
 | [PIRATE FR€€$T¥L£](https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [PIRATE FR€€$T¥L£](https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN) | 2:03 | 2026-01-22 |  |
 | [Pistoleta](https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP) | [Pistoleta](https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU) | 2:13 | 2024-06-28 | 2025-11-07 |
 | [Planet Vegeta](https://open.spotify.com/track/5yc8bnBQ4c8uNBNVkYQFJb) | [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7) | [Planet Vegeta](https://open.spotify.com/album/5tjI8eVQxXXCu3mUng3pcO) | 2:21 | 2025-12-19 | 2026-01-17 |

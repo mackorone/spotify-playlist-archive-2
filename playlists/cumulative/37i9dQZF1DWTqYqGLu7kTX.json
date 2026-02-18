@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225084,
+      "name": "Bonafide",
+      "url": "https://open.spotify.com/track/3rsiE2E0c87GG3UrkQ9Avy"
+    },
+    {
+      "album": {
         "name": "Boo Thang",
         "url": "https://open.spotify.com/album/3qKcozXbPJeQC7ekUdLuG4"
       },
@@ -2581,6 +2603,32 @@
     },
     {
       "album": {
+        "name": "GTA Mohali",
+        "url": "https://open.spotify.com/album/4VWX3ctvnVSGMWRpoXwxkY"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Sukhn Sandhu",
+          "url": "https://open.spotify.com/artist/6d0u916PvfFsZiOUjvWK7l"
+        },
+        {
+          "name": "Bhallwaan",
+          "url": "https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234947,
+      "name": "GTA Mohali",
+      "url": "https://open.spotify.com/track/3ju7Uoj3w30pMdKr2dRxKk"
+    },
+    {
+      "album": {
         "name": "Gutt",
         "url": "https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck"
       },
@@ -2706,6 +2754,28 @@
       "duration_ms": 129114,
       "name": "Heartless feat. Ikky",
       "url": "https://open.spotify.com/track/7cMYN4HXfJGyVy6zQ6mga6"
+    },
+    {
+      "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194683,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2NMhGp758inYRK2E0DnbyP"
     },
     {
       "album": {
@@ -2896,7 +2966,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 186007,
       "name": "Horsepower",
       "url": "https://open.spotify.com/track/7gAmdSj6wX9OiJIkSIGke5"
@@ -4167,6 +4237,32 @@
     },
     {
       "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Nazare",
+      "url": "https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i"
+    },
+    {
+      "album": {
         "name": "Negative Bande",
         "url": "https://open.spotify.com/album/2jnwBnl9Ea0ZXqqlbcH4tM"
       },
@@ -4868,7 +4964,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 138953,
       "name": "Opinion",
       "url": "https://open.spotify.com/track/0wDE9NWS9C5s0wbC5DQZ7z"
@@ -4908,7 +5004,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 186986,
       "name": "Peg Patiala",
       "url": "https://open.spotify.com/track/1T2zltv44cifAqZIbG3D2N"
@@ -5320,7 +5416,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 210116,
       "name": "Sarkar",
       "url": "https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r"

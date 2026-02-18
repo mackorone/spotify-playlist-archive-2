@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1224,
+  "num_followers": 1223,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAALPxSuEF+/H6uviEs82L7qYP2T+QqA",
+  "snapshot_id": "AAALRS+MHBU4GeeHEhhkBEQTgk5Kln2t",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -4281,6 +4281,22 @@
       "url": "https://open.spotify.com/track/7tskKEOY8Ao6oDDQupvqXd"
     },
     {
+      "added_at": "2026-02-17 17:27:32",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/18gjNVo1idsPDLeyC2u9Jo"
+      },
+      "artists": [
+        {
+          "name": "Clockwork Animals",
+          "url": "https://open.spotify.com/artist/2WVPZheo1GVUk7H4D8Cnay"
+        }
+      ],
+      "duration_ms": 265335,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/5G4SXO669dSIew39skz6vl"
+    },
+    {
       "added_at": "2026-02-16 08:38:05",
       "album": {
         "name": "What Daisy Did",
@@ -4313,6 +4329,22 @@
       "url": "https://open.spotify.com/track/7udj4TuaQohHpmu6hmtVuw"
     },
     {
+      "added_at": "2026-02-17 17:27:17",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/1Ww3fbLK24NEG8dPhriU1N"
+      },
+      "artists": [
+        {
+          "name": "Semench Chirock",
+          "url": "https://open.spotify.com/artist/17jjZJtry78DrTpQB0uAlN"
+        }
+      ],
+      "duration_ms": 265265,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/44om7A8mIDtFknRkEnGJrH"
+    },
+    {
       "added_at": "2026-02-16 09:08:29",
       "album": {
         "name": "...And Into The Abyss",
@@ -4343,6 +4375,70 @@
       "duration_ms": 66836,
       "name": "Disclaimer*",
       "url": "https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or"
+    },
+    {
+      "added_at": "2026-02-17 17:33:59",
+      "album": {
+        "name": "He\u00b4s Coming For You",
+        "url": "https://open.spotify.com/album/6hfLj6CeayrFKAP6SPad95"
+      },
+      "artists": [
+        {
+          "name": "One Step Further",
+          "url": "https://open.spotify.com/artist/6fH2lrvMgsYCJdBIvgjgm0"
+        }
+      ],
+      "duration_ms": 294084,
+      "name": "He\u00b4s Coming For You",
+      "url": "https://open.spotify.com/track/4IWccZBLqKHQcG3mXGpl0y"
+    },
+    {
+      "added_at": "2026-02-17 17:34:18",
+      "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/028H3GvvgjXlHv275ArnQU"
+      },
+      "artists": [
+        {
+          "name": "Enigme",
+          "url": "https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa"
+        }
+      ],
+      "duration_ms": 146279,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/5Rz3y7fI52nrKHGtQNrITU"
+    },
+    {
+      "added_at": "2026-02-17 17:34:33",
+      "album": {
+        "name": "Chains We Don\u2019t See",
+        "url": "https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1"
+      },
+      "artists": [
+        {
+          "name": "Enigme",
+          "url": "https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa"
+        }
+      ],
+      "duration_ms": 198679,
+      "name": "Chains We Don\u2019t See",
+      "url": "https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig"
+    },
+    {
+      "added_at": "2026-02-17 17:34:42",
+      "album": {
+        "name": "My Brain Hurts",
+        "url": "https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy"
+      },
+      "artists": [
+        {
+          "name": "Enigme",
+          "url": "https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa"
+        }
+      ],
+      "duration_ms": 104919,
+      "name": "My Brain Hurts",
+      "url": "https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj"
     }
   ],
   "unique_name": "Shuffle Roulette",

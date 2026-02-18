@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Sjava
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,024 likes - 95 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,132 likes - 95 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

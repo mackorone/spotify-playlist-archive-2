@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: The Incredibles
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,699 likes - 79 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,730 likes - 79 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Everywhere Isn't Texas",
+        "url": "https://open.spotify.com/album/5yFf6i6q4rXBJfB517gIgg"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195936,
+      "name": "Angry Man",
+      "url": "https://open.spotify.com/track/6dfY2Z1gPN58ViAUoaLgus"
+    },
+    {
+      "album": {
         "name": "It's Your Bed Babe, It's Your Funeral",
         "url": "https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH"
       },

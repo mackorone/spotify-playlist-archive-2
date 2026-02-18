@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 ### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: Hard Driver & Sound Rush
+> Weekly new Hardstyle releases! Cover: D\-Sturb & DEEZL
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,511 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,529 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Up In Flames](https://open.spotify.com/track/3afBhAnP5NBrG8sdXSUDXO) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Up In Flames](https://open.spotify.com/album/4YfIl21LibHPsHQYfdZSyj) | 2:52 |
 | 100 | [Legacy](https://open.spotify.com/track/4aJh1izMvbKRXW4lYT1zbU) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO), [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [Legacy](https://open.spotify.com/album/6gCXczP4Xq1BsIwqtIqDOx) | 2:43 |
 
-Snapshot ID: `AAAAAD9XH2Z4xTrEg4e2NQM+maB6vZ/1`
+Snapshot ID: `AAAAAPMdWvtrrEJAy6DnE/HYZd3x8+yT`

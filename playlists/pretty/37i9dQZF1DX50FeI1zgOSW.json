@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18469,
+  "num_followers": 18474,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFiUN2eMAHC2vmCwbXvVubnGf0ec",
+  "snapshot_id": "AAAAAB0DdiJn56vhRVslgvoHQfodhdCd",
   "tracks": [
     {
       "added_at": "2026-01-30 04:48:10",
@@ -147,6 +147,22 @@
       "duration_ms": 234294,
       "name": "Broken Star (From \"Loopd\")",
       "url": "https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm"
+    },
+    {
+      "added_at": "2026-02-17 10:18:43",
+      "album": {
+        "name": "Oh my baby",
+        "url": "https://open.spotify.com/album/1xGQE099slNMq3vi7OCYfs"
+      },
+      "artists": [
+        {
+          "name": "Roshith abdulrahman",
+          "url": "https://open.spotify.com/artist/1cmSRUsjBAxwwN0fiYAd1F"
+        }
+      ],
+      "duration_ms": 222474,
+      "name": "Oh my baby",
+      "url": "https://open.spotify.com/track/3wj1yaZ6wCsPNyT8yffpK9"
     },
     {
       "added_at": "2026-02-12 12:05:14",
@@ -339,6 +355,30 @@
       "duration_ms": 292482,
       "name": "Vagalaadi - Tamil",
       "url": "https://open.spotify.com/track/5eOOrz9evmVfB8gdlxeQDA"
+    },
+    {
+      "added_at": "2026-02-17 10:18:43",
+      "album": {
+        "name": "Bujjima",
+        "url": "https://open.spotify.com/album/0W6drGspLDcvOvOapzBkRJ"
+      },
+      "artists": [
+        {
+          "name": "Abhijith Rao",
+          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
+        },
+        {
+          "name": "Sathyamoorthy C",
+          "url": "https://open.spotify.com/artist/3ChJYuz2a0u0yymgxdXBRT"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Bujjima",
+      "url": "https://open.spotify.com/track/4NKIP7uy8ktgK5mHC2g0o9"
     },
     {
       "added_at": "2026-02-13 07:48:58",

@@ -2359,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Blacker Co., Ltd.",
+        "url": "https://open.spotify.com/album/7wL1lAgAYpVVjZVeTg9gOH"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30c4\u30ab\u25b6\ufe0e",
+          "url": "https://open.spotify.com/artist/0oqB1GXFWPOTNhQHGsUIO4"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240659,
+      "name": "Blacker Co., Ltd.",
+      "url": "https://open.spotify.com/track/2ggxE0JUtnQ34qbHRb5BAh"
+    },
+    {
+      "album": {
         "name": "BLADE",
         "url": "https://open.spotify.com/album/4loNGWqbtqewau1O9IK6QB"
       },
@@ -5387,6 +5405,24 @@
     },
     {
       "album": {
+        "name": "Dou-Da? DOING!",
+        "url": "https://open.spotify.com/album/5KXAsKvBXfCGmFI5zmNCdH"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u304d\u3065\u3089\u3044\u90e8\uff01",
+          "url": "https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229066,
+      "name": "Dou-Da? DOING!",
+      "url": "https://open.spotify.com/track/1N4CeCZaDj8EH1fh1DPrDt"
+    },
+    {
+      "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd"
       },
@@ -6836,6 +6872,32 @@
       "duration_ms": 216566,
       "name": "Fixer",
       "url": "https://open.spotify.com/track/1YbKeP9f10A8cDmHHIugwI"
+    },
+    {
+      "album": {
+        "name": "FLAG",
+        "url": "https://open.spotify.com/album/5YIgaRalLKIAdw6wRLmUTe"
+      },
+      "artists": [
+        {
+          "name": "HE\u2605VENS",
+          "url": "https://open.spotify.com/artist/00qptTNiEJxFuTidXosOeN"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256258,
+      "name": "FLAG",
+      "url": "https://open.spotify.com/track/4LaQuxzYmofzrl6nicUxHY"
     },
     {
       "album": {
@@ -10184,6 +10246,24 @@
       "duration_ms": 135933,
       "name": "Idol no Youikuhi",
       "url": "https://open.spotify.com/track/4P04kzpfijHSNJ2K7rggHL"
+    },
+    {
+      "album": {
+        "name": "Ignis -\u30a4\u30b0\u30cb\u30b9-",
+        "url": "https://open.spotify.com/album/0eunkMwTfuXGA2wZezmVNF"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "Ignis -\u30a4\u30b0\u30cb\u30b9-",
+      "url": "https://open.spotify.com/track/1NhM7fLXtADQqmOUDpX7gd"
     },
     {
       "album": {
@@ -20592,7 +20672,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -23118,7 +23198,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 191786,
       "name": "This is me",
       "url": "https://open.spotify.com/track/3OjrB0GhT0Sxf55Lc4IzEu"
@@ -23176,6 +23256,28 @@
       "duration_ms": 246033,
       "name": "ties",
       "url": "https://open.spotify.com/track/6NRH4SrOxLsw9tcUy6CcG4"
+    },
+    {
+      "album": {
+        "name": "TIMELESS POWER / Horizon (feat. MOTSU)",
+        "url": "https://open.spotify.com/album/7qQO6Ea1lgD6Wju6VtWYH4"
+      },
+      "artists": [
+        {
+          "name": "Yu Serizawa",
+          "url": "https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP"
+        },
+        {
+          "name": "motsu",
+          "url": "https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258366,
+      "name": "TIMELESS POWER - feat. MOTSU",
+      "url": "https://open.spotify.com/track/7inLeXnSHFCeLx8BkNOHLt"
     },
     {
       "album": {
@@ -24822,6 +24924,24 @@
       "duration_ms": 297733,
       "name": "wana (Rearrange)",
       "url": "https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f"
+    },
+    {
+      "album": {
+        "name": "Cipher Cipher",
+        "url": "https://open.spotify.com/album/5n5bU7pPYzcBN1pxu88yl0"
+      },
+      "artists": [
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Wangan Sniper",
+      "url": "https://open.spotify.com/track/5AqD8OD0S8AA7dxawDQ6BF"
     },
     {
       "album": {
@@ -31406,7 +31526,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 183017,
       "name": "\u30ae\u30e9\u30ae\u30e9",
       "url": "https://open.spotify.com/track/5Na6IctVfBXjuFiaNXqO0C"
@@ -32594,7 +32714,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 209427,
       "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
       "url": "https://open.spotify.com/track/6M410WEW7eCsU7z1BE3BJO"
@@ -35364,7 +35484,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 253220,
       "name": "\u30de\u30b9\u30ab\u30ec\u30a4\u30c9\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7xCP1TGk74XQbPCq5RSNbx"
@@ -44466,7 +44586,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 188370,
       "name": "\u82b1\u3068\u5922",
       "url": "https://open.spotify.com/track/0ccq2slzIsoNuVV16JiSCv"

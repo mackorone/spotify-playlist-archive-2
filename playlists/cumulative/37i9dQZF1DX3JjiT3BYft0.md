@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-464 songs - 1 day 9 hr 6 min
+465 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Drive Your Heart \(TV Size\)](https://open.spotify.com/track/7AokOlITbCKxv2p3ZExBiX) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Drive Your Heart \(TV Size\)](https://open.spotify.com/album/3XkqWtH6yil19RyoOkKWfd) | 1:29 | 2025-07-21 |  |
 | [Easy come, Easy go!](https://open.spotify.com/track/34nuDpuPidmEdI59zskdnM) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:03 | 2022-06-23 | 2022-07-16 |
 | [Easy come, Easy go!](https://open.spotify.com/track/2ncCiJamFs0oPwadYHeLnB) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Easy come, Easy go!](https://open.spotify.com/album/4dWNEvBo7llubwmwiiXCDH) | 4:03 | 2022-05-17 | 2022-07-27 |
-| [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 | 2024-11-28 |  |
+| [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 | 2024-11-28 | 2026-02-18 |
 | [Ever Sky Blue](https://open.spotify.com/track/7ilSinhhoq3XcfB5qcGMeP) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:01 | 2024-03-23 | 2024-06-26 |
 | [EXIST](https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5) | 3:59 | 2022-06-23 | 2022-10-02 |
 | [EXIST](https://open.spotify.com/track/1gkcJhxltGuf083hwqtUEQ) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/6x5mFSkyhGs8kbZGs9vCVA) | 3:59 | 2022-06-23 | 2022-07-13 |
@@ -88,7 +88,7 @@
 | [Fateful...](https://open.spotify.com/track/6evtJehnWx9jjhsWSt6iVH) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ハーモニー・デイ](https://open.spotify.com/album/1W7fePL7MZMBzdPXbypsUj) | 4:46 | 2022-05-17 | 2022-07-25 |
 | [FIRE BIRD](https://open.spotify.com/track/6zj48TjUA1GKb28KZMdXKX) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 5:24 | 2022-09-20 | 2024-04-19 |
 | [FIRE BIRD](https://open.spotify.com/track/3wClfr5M3l64ZldVXcig4g) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/2qtBhMhhcR4hO7JQOuyHI5) | 5:24 | 2022-06-23 | 2022-10-02 |
-| [FIRE BIRD](https://open.spotify.com/track/5YT7dwVt5HIm8PuXvXOS4s) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:25 | 2022-05-17 | 2022-07-28 |
+| [FIRE BIRD](https://open.spotify.com/track/5YT7dwVt5HIm8PuXvXOS4s) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:25 | 2022-05-17 |  |
 | [Five Letters](https://open.spotify.com/track/4vzVHL13WVQwDlUXmeqOrQ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:09 | 2024-03-23 | 2025-02-26 |
 | [flame of hope](https://open.spotify.com/track/5gVM0EJQqP5dOc3fnIpHSb) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:12 | 2022-09-20 | 2023-03-18 |
 | [flame of hope](https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:12 | 2023-03-14 | 2025-12-02 |
@@ -246,6 +246,7 @@
 | [WELCOME TO PANDEMONIUM](https://open.spotify.com/track/01Q3nEVbr4cwH2O8BVJlH2) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [WELCOME TO PANDEMONIUM](https://open.spotify.com/album/0LJgQuPcLD2um4w0EChr8J) | 4:14 | 2024-12-10 |  |
 | [What's the POPIPA!?](https://open.spotify.com/track/3ceacNpPfoVQny7eX9lsPm) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Jumpin'](https://open.spotify.com/album/15kWIDPuXd2W53eWSgghPS) | 4:38 | 2022-05-17 | 2022-07-28 |
 | [White Afternoon](https://open.spotify.com/track/31V6FvDnr17twvtDNLI91H) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [White Afternoon](https://open.spotify.com/album/7GUZfwkVnLI5aQZE0ZA8SC) | 4:58 | 2022-05-17 | 2022-07-13 |
+| [Wonder Night Land](https://open.spotify.com/track/2A4U9YGvujRynytJ5GEfDc) | [星降るティーパーティー](https://open.spotify.com/artist/0nHSIvKUJ7HXdUjvjXHPwm), [戸山香澄\(CV:愛美\)](https://open.spotify.com/artist/4qqHB9SmuXrOopifD0YzMa), [青葉モカ\(CV:三澤紗千香\)](https://open.spotify.com/artist/7sSeWmBMZAZzWl1hKZ2SGa), [白金燐子\(CV:志崎樺音\)](https://open.spotify.com/artist/4Ra3Di0TwwE4lFA21m1Hbj), [広町七深\(CV:西尾夕香\)](https://open.spotify.com/artist/3caqlI0HeXm2yOTvlkEkU5), [椎名立希\(CV:林 鼓子\)](https://open.spotify.com/artist/0oofhdiDZ1hcRHFjJmQYTS) | [Wonder Night Land](https://open.spotify.com/album/1MCHsCgzPQAKAbNpEZrBcI) | 3:58 | 2026-02-17 |  |
 | [Wonderful Sweet!](https://open.spotify.com/track/0REMbkTUuFLEwo3zAuxPo1) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ゆめゆめグラデーション](https://open.spotify.com/album/4PYxuwefUqpr0T7xOq3X1m) | 4:08 | 2022-05-17 | 2022-07-21 |
 | [Wonderland Girl](https://open.spotify.com/track/0tNvlOF1ZY5BwsNU078dZ8) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [天下卜ーイツA to Z☆](https://open.spotify.com/album/3EPw6jwPxa1xZuRABvNQTg) | 4:32 | 2022-06-23 | 2022-07-07 |
 | [Y.O.L.O!!!!!](https://open.spotify.com/track/5obvjW5vUBiCP7br5CniXh) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Y.O.L.O!!!!!](https://open.spotify.com/album/4aHYLSuQ1OOtdRjVxhfg22) | 4:30 | 2022-06-23 | 2022-07-27 |
@@ -440,7 +441,7 @@
 | [約束](https://open.spotify.com/track/0mMlO2uGxvX8Mr11RSB4y9) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 5:04 | 2023-05-30 | 2023-09-22 |
 | [約束](https://open.spotify.com/track/7rXA5MuwDku3tT0ABY7Amn) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [約束](https://open.spotify.com/album/6W6f8CRpWTlxPvbg3Too9b) | 5:04 | 2022-05-17 | 2022-07-03 |
 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 | 2024-01-04 | 2025-02-16 |
-| [紫炎 \(TV Size\)](https://open.spotify.com/track/3qQjhgLASMOO4Ob0UP6Xcj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [紫炎 \(TV Size\)](https://open.spotify.com/album/35NE5pQn5tGdRysXKqKQNf) | 1:28 | 2025-07-22 |  |
+| [紫炎 \(TV Size\)](https://open.spotify.com/track/3qQjhgLASMOO4Ob0UP6Xcj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [紫炎 \(TV Size\)](https://open.spotify.com/album/35NE5pQn5tGdRysXKqKQNf) | 1:28 | 2025-07-22 | 2026-02-18 |
 | [絆色のアンサンブル](https://open.spotify.com/track/1g8uyFFDuiYsgbDirSkB0R) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6), [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg), [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 5:12 | 2022-05-17 | 2022-07-26 |
 | [花園電気ギター!!!](https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7) | [花園たえ\(CV:大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 3:17 | 2022-05-17 |  |
 | [花園電気ギター！！！](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 | 2022-09-20 | 2024-04-19 |

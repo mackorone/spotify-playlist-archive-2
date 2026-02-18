@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,136 songs - 9 day 3 hr 39 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,138 songs - 9 day 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4144,5 +4144,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4134 | [SLOW DOWN](https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD) | [Ghostshaft](https://open.spotify.com/artist/5wxd8HLXD387D9PedWRLw8) | [SLOW DOWN](https://open.spotify.com/album/3TEYxk5CLucLCzVmGaiVry) | 4:19 |
 | 4135 | [Sintonía](https://open.spotify.com/track/6e6Aet1KdKaEwJAEb3TTRC) | [Ya Estamos Listos](https://open.spotify.com/artist/6osYtihDBfuqiqULsM3PWb) | [Sintonía](https://open.spotify.com/album/6DOtUV0Vle9n9ppQrcpcl0) | 3:34 |
 | 4136 | [Sunrise](https://open.spotify.com/track/2s7VCqMcb8QGrV0EibS9Zn) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Sunrise](https://open.spotify.com/album/60QAGbK2rS6skUvNkOtyi1) | 2:00 |
+| 4137 | [Pa lo Gringo](https://open.spotify.com/track/4FAmAvluydf7r15Bsbc4UK) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Pa lo Gringo](https://open.spotify.com/album/17X7GZxuOmpsaeLwAWbuxg) | 1:47 |
+| 4138 | [Fangs](https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ) | [Straight](https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2) | [Fangs](https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ) | 3:11 |
 
-Snapshot ID: `AAAHhejgBkFgkWxUHTlseiVsWB+Jd9xa`
+Snapshot ID: `AAAHh+DwPD6j6QtVFzm0Vu/c6xQsKN0O`

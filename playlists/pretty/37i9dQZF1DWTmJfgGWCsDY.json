@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 8958,
+  "num_followers": 8977,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Wanijue",
-        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
-      },
-      "artists": [
-        {
-          "name": "Micky Singer",
-          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "Wanijue",
-      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Wewe Hapo",
         "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 148036,
       "name": "Wewe Hapo",
       "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Wanijue",
+        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
+      },
+      "artists": [
+        {
+          "name": "Micky Singer",
+          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Wanijue",
+      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Kafubaa",
+        "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Zungu Macha",
+          "url": "https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL"
+        }
+      ],
+      "duration_ms": 246986,
+      "name": "Kafubaa",
+      "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Rudi Tena",
         "url": "https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 226208,
       "name": "Rudi Tena",
       "url": "https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Kafubaa",
-        "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Zungu Macha",
-          "url": "https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "Kafubaa",
-      "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
     },
     {
       "added_at": "2026-02-05 23:59:28",

@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-260 songs - 13 hr 6 min
+261 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Limitless Pyar \- Live](https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [KAURA \(Live\)](https://open.spotify.com/album/3UkkmmklJZzgDr4tRcMQhP) | 3:42 | 2024-10-21 | 2024-11-07 |
 | [Lost in You](https://open.spotify.com/track/6b4f1fyQRgfi3sck7vMkVB) | [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v) | [Lost in You](https://open.spotify.com/album/1grvHU03zKWUMHhyt4IdwT) | 2:03 | 2025-01-05 | 2025-07-26 |
 | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/track/0MLIDC4d0g3s4u26mgggKB) | [Suchita](https://open.spotify.com/artist/0YpMBPKadGsRHptQU2kh9V), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Sam Narula](https://open.spotify.com/artist/4jXfmkek5ImVxeZAKs74F2) | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/album/4Gqdj7ldijmnfPXzkzTaUt) | 2:38 | 2024-11-22 | 2024-12-05 |
-| [Mad at U](https://open.spotify.com/track/5gUw3RlfeWfSPKoLGlGu5E) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Mad at U](https://open.spotify.com/album/6SpSQjt8BqlXW8c2HESh0y) | 2:40 | 2026-01-23 |  |
+| [Mad at U](https://open.spotify.com/track/5gUw3RlfeWfSPKoLGlGu5E) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Mad at U](https://open.spotify.com/album/6SpSQjt8BqlXW8c2HESh0y) | 2:40 | 2026-01-23 | 2026-02-18 |
 | [Mai Margi Loko](https://open.spotify.com/track/1TzmILdILIYHyoyfeFTzZN) | [Hanjra](https://open.spotify.com/artist/3VEL26TczJVl4rkS1xtTjp), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Mai Margi Loko](https://open.spotify.com/album/6XCAunP1ozwfucQqX9CYG6) | 2:42 | 2025-01-09 |  |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 | 2024-10-09 |
@@ -213,6 +213,7 @@
 | [Rool Ditta Ee](https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC) | [Asif Masood](https://open.spotify.com/artist/6zVaELKGjvE7kA3bCzTsBl), [Saba Riaz](https://open.spotify.com/artist/4zmPgXIIr38vLo5N2TRntN) | [Rool Ditta Ee](https://open.spotify.com/album/4D7XfY3vTeavXDxFndrvHS) | 3:14 | 2024-09-11 | 2024-11-27 |
 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 | 2023-04-19 | 2024-12-04 |
 | [RUMAL](https://open.spotify.com/track/1HSgJzdRzYE0nPbR0PlEyt) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [BAHAAR, Vol\. 1](https://open.spotify.com/album/3xLDF5zlnOPjIV3KG0Krv4) | 2:21 | 2025-04-20 | 2025-06-03 |
+| [Saadgi](https://open.spotify.com/track/3pO9js7UmAvZWbOLeW0FHo) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Coachsahb](https://open.spotify.com/artist/6Bh6azkXf8ySGXFCNuYifM) | [Saadgi](https://open.spotify.com/album/4x4UsoibuP539hCRTVTWKT) | 2:26 | 2026-02-17 |  |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 | 2024-09-29 |
 | [Saiyyoni](https://open.spotify.com/track/7LDElWShranhWCQGEwbf8g) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Saiyyoni](https://open.spotify.com/album/3npfiDvrs0lPLsdhmosnq9) | 2:13 | 2026-02-13 |  |
 | [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 | 2024-11-21 | 2025-09-09 |

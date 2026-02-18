@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,687 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,806 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 97 | [Big Dumb Heart](https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart](https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm) | 3:36 |
 | 98 | [They Don't Come Better](https://open.spotify.com/track/2OshKfBMN3KFj7t7stkihZ) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [They Don't Come Better](https://open.spotify.com/album/2AhtPRZUB0Gox517fVb2cC) | 3:01 |
 | 99 | [Northeast](https://open.spotify.com/track/0K1X5e2Rc851vP4WLnBzti) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Northeast](https://open.spotify.com/album/53zANEuf1AA2i28x5gxK9G) | 3:40 |
-| 100 | [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 |
+| 100 | [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [SELF/LESS](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 |
 
 Snapshot ID: `AAAAAKopT6x0itBfk7BlZNN/iJLRks2C`

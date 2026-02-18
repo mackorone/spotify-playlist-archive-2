@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Balara
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,750 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,723 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 39 | [colete à prova de mágoas](https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [colete à prova de mágoas](https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR) | 3:17 |
 | 40 | [sofrer por você](https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [sofrer por você](https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i) | 2:54 |
 | 41 | [Tão Perto](https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Quarto](https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK) | 2:45 |
-| 42 | [Intimidade](https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Intimidade](https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj) | 2:59 |
-| 43 | [MINHA JÓIA](https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [MINHA JÓIA](https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy) | 3:41 |
+| 42 | [MINHA JÓIA](https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [MINHA JÓIA](https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy) | 3:41 |
+| 43 | [Intimidade](https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Intimidade](https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj) | 2:59 |
 | 44 | [Mar Manso](https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Mar Manso](https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki) | 3:09 |
 | 45 | [Del Amor Una Bandera](https://open.spotify.com/track/2UVQCFIHDHAvLEABsn5bqE) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Del Amor Una Bandera](https://open.spotify.com/album/2ISymt2oiMYBJaL7Iuy9k0) | 3:07 |
 | 46 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 53 | [HOJE VAI DAR PRAIA](https://open.spotify.com/track/1h7mI9d9Gq1IttWQPoRtwb) | [Márcia Castro](https://open.spotify.com/artist/0qK9aSzT5EIttqbaM1fPwN) | [HOJE VAI DAR PRAIA](https://open.spotify.com/album/48rOV8gIRio1GECT3o6YNB) | 2:36 |
 | 54 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 55 | [Jaqueta](https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Jaqueta](https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB) | 2:16 |
-| 56 | [Na Proa da Saudade](https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Gérbera + Na Proa da Saudade](https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH) | 3:36 |
-| 57 | [Saber Confiar](https://open.spotify.com/track/72fZiooQ214zq66ix04xJh) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Saber Confiar](https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi) | 3:24 |
+| 56 | [Saber Confiar](https://open.spotify.com/track/72fZiooQ214zq66ix04xJh) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Saber Confiar](https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi) | 3:24 |
+| 57 | [Na Proa da Saudade](https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Gérbera + Na Proa da Saudade](https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH) | 3:36 |
 | 58 | [MACIA BAHIA](https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [MACIA BAHIA](https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac) | 2:58 |
 | 59 | [NEM SE O MUNDO ACABAR](https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [NEM SE O MUNDO ACABAR](https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te) | 2:32 |
 | 60 | [Não Presta](https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [P E R T O](https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF) | 2:35 |

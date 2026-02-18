@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,032 songs - 2 day 5 hr 37 min
+1,033 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Nouveau La](https://open.spotify.com/track/1UkJUKZraPwQy0M0hF99Lj) | [BRG Hollywood](https://open.spotify.com/artist/1KKODhZL6H6AoHOaoOvxSh), [JIXELS](https://open.spotify.com/artist/5iErIKFja1S6AlXKS0Cup7) | [Nouveau La](https://open.spotify.com/album/5OijBrXEBg2H6SvlZX8Cfc) | 2:06 | 2025-11-21 |  |
 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-09-26 | 2026-02-07 |
 | [Nti nti mon amour](https://open.spotify.com/track/3DPTEGIrjiTTEDSB6Rju2I) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Nti nti mon amour](https://open.spotify.com/album/7z5d1Q43sf3kcwnvc3VViq) | 4:51 | 2024-07-19 | 2024-08-17 |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-02-17 |  |
 | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 4:03 | 2025-05-29 | 2025-11-04 |
 | [N°1](https://open.spotify.com/track/4MO9FQjvq19aQYHzwPS0EK) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [N°1](https://open.spotify.com/album/3vo1DGBT0rnIMoEmlzy1jq) | 1:01 | 2025-03-14 | 2025-04-11 |
 | [obligé](https://open.spotify.com/track/72CwufbasYHuLPmK4Sc8Fb) | [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [obligé](https://open.spotify.com/album/3OfclnCE5699252hpAuVWt) | 3:04 | 2023-09-22 | 2023-11-11 |

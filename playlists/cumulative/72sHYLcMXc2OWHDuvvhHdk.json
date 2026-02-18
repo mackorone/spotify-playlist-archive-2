@@ -3921,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "Breathe In Breathe Out",
+        "url": "https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB"
+      },
+      "artists": [
+        {
+          "name": "Crimson Brooks",
+          "url": "https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121480,
+      "name": "Breathe In Breathe Out",
+      "url": "https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI"
+    },
+    {
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/0lt3iLnq9O9aLuapaK50CY"
       },

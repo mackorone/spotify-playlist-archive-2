@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Amenazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,186 likes - 90 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,247 likes - 90 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 7 | [Natural \- Remix](https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Natural \(Remix\)](https://open.spotify.com/album/3uqqbHxbIjfw6olSmogD65) | 4:43 |
 | 8 | [DIGITAL15](https://open.spotify.com/track/4fwKpMyCBWCaj0W45a3emW) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [DIGITAL15](https://open.spotify.com/album/3VSKr1IIgKqteToundEf0e) | 2:55 |
 | 9 | [UNA BABY EN SANTIAGO](https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [THE MVP OF THE YEAR](https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY) | 2:45 |
-| 10 | [SALEN MALOS](https://open.spotify.com/track/7CX7Cq1iOyAR6utjjPh9De) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [THE MVP OF THE YEAR](https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY) | 2:02 |
+| 10 | [SALEN MALOS](https://open.spotify.com/track/7CX7Cq1iOyAR6utjjPh9De) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [THE MVP OF THE YEAR](https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY) | 2:02 |
 | 11 | [Felony](https://open.spotify.com/track/3IPDFQ4IjFtTdyDgJb67xN) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Felony](https://open.spotify.com/album/2CHYs0x7a81GMr74MFSiLY) | 2:56 |
 | 12 | [AMARA](https://open.spotify.com/track/11YF4qL5sWqAlb7yspRMI7) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [AMARA](https://open.spotify.com/album/2bIV1plB6NlVUV5ZzDG7p2) | 2:59 |
 | 13 | [OTRA AMIGA \(with Huan62\)](https://open.spotify.com/track/2jtfVUu2yP2Uba4b2WCV4S) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [OTRA AMIGA \(with Huan62\)](https://open.spotify.com/album/1Ql3mupsNRbVBg8x3Yjhw7) | 2:15 |

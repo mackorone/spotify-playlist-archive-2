@@ -4,7 +4,7 @@
 
 > Endelig fredag, endelig ny musik bl.a\. fra Karoline Mousing, Artigeardit og Baloosh ❤️‍🔥
 
-9,232 songs - 19 day 22 hr 58 min
+9,233 songs - 19 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2106,6 +2106,7 @@
 | [DPYB](https://open.spotify.com/track/28yZyKhLOsBmIXnvgMqZix) | [Tala Yunis](https://open.spotify.com/artist/3J5MQFJ1lFoswVXqzfDih0) | [DPYB](https://open.spotify.com/album/1gX3TsJK6j6MsmSZ3FP2gJ) | 2:43 | 2025-04-10 | 2025-04-18 |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 | 2025-10-03 |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-02-05 | 2026-02-13 |
+| [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-13 |  |
 | [Drama](https://open.spotify.com/track/5gRlTvWBTrm5DpF6RgxQBM) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Drama](https://open.spotify.com/album/02FOs5JKp1S08NEjCW64Eo) | 2:25 | 2024-05-23 | 2024-06-01 |
 | [DraMa](https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [DraMa](https://open.spotify.com/album/5C7uvzzu76KtaDEBxJPwIs) | 2:53 | 2026-02-12 |  |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-02 | 2025-01-10 |

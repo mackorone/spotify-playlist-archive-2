@@ -4,7 +4,7 @@
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 19 min
+81 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/21IF2y0P0IJgohIDfohPfo) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 2:36 | 2025-04-13 | 2025-04-22 |
 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 | 2024-08-08 | 2025-12-05 |
 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 | 2024-08-11 |  |
-| [Me Caes Muy Bien](https://open.spotify.com/track/43fkBqA49nXFi3Ju4i4R6w) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/3nXfTqiKI0vkCxHZQj74O2) | 3:44 | 2025-03-13 |  |
+| [Me Caes Muy Bien](https://open.spotify.com/track/0b4duJmsCyhHlw2i86IVcr) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/0aInpD3IS1snQgX22Mte2s) | 3:44 | 2026-02-18 |  |
+| [Me Caes Muy Bien](https://open.spotify.com/track/43fkBqA49nXFi3Ju4i4R6w) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/3nXfTqiKI0vkCxHZQj74O2) | 3:44 | 2025-03-13 | 2026-02-18 |
 | [Me Caes Muy Bien](https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/4AYdIA4uoXMxyTfJkdxjSH) | 3:44 | 2024-08-08 | 2025-03-13 |
 | [Muñequita Linda](https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Muñequita Linda](https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3) | 3:30 | 2024-08-08 |  |
 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 | 2024-08-08 |  |

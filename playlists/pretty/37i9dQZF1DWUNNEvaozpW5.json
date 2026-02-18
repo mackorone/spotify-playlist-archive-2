@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Bunbury.",
-  "num_followers": 612869,
+  "num_followers": 612876,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-02-12 23:01:41",
       "album": {
+        "name": "Besos de Perro",
+        "url": "https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "La luna me sabe a poco",
+      "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
+    },
+    {
+      "added_at": "2026-02-12 23:01:41",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
-    },
-    {
-      "added_at": "2026-02-12 23:01:41",
-      "album": {
-        "name": "Besos de Perro",
-        "url": "https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 267186,
-      "name": "La luna me sabe a poco",
-      "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
     },
     {
       "added_at": "2026-02-12 23:01:41",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-12 23:01:41",
       "album": {
-        "name": "Hasta que me quede sin voz",
-        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 306861,
-      "name": "Hasta que me quede sin voz",
-      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
-    },
-    {
-      "added_at": "2026-02-12 23:01:41",
-      "album": {
         "name": "Enemigos de lo ajeno (2008 Remaster)",
         "url": "https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 133040,
       "name": "Insurrecci\u00f3n - 2008 Remaster",
       "url": "https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk"
+    },
+    {
+      "added_at": "2026-02-12 23:01:41",
+      "album": {
+        "name": "Hasta que me quede sin voz",
+        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 306861,
+      "name": "Hasta que me quede sin voz",
+      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
     },
     {
       "added_at": "2026-02-12 23:01:41",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-12 23:01:41",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
-    },
-    {
-      "added_at": "2026-02-12 23:01:41",
-      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+    },
+    {
+      "added_at": "2026-02-12 23:01:41",
+      "album": {
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2026-02-12 23:01:41",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-02-12 23:01:41",
       "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2026-02-12 23:01:41",
-      "album": {
         "name": "AMSTERDAM",
         "url": "https://open.spotify.com/album/5ZveOE2qBb9KCkXxcOFn9B"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 232672,
       "name": "AMSTERDAM",
       "url": "https://open.spotify.com/track/15HqUnRMTUb07QigZzryQy"
+    },
+    {
+      "added_at": "2026-02-12 23:01:41",
+      "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
     },
     {
       "added_at": "2026-02-12 23:01:41",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-02-12 23:01:41",
       "album": {
-        "name": "Ayer So\u00f1\u00e9 (Aniversario)",
-        "url": "https://open.spotify.com/album/31fTUt5qwnTFfN2hnGaZje"
-      },
-      "artists": [
-        {
-          "name": "Benito Kamelas",
-          "url": "https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn"
-        }
-      ],
-      "duration_ms": 234774,
-      "name": "Ayer So\u00f1\u00e9 - Aniversario",
-      "url": "https://open.spotify.com/track/5RvUugCYiLKuBZcQHJil1v"
-    },
-    {
-      "added_at": "2026-02-12 23:01:41",
-      "album": {
         "name": "Historia de una Banda (En Directo)",
         "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 230779,
       "name": "Aviones Plateados - En Directo",
       "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
+    },
+    {
+      "added_at": "2026-02-12 23:01:41",
+      "album": {
+        "name": "Ayer So\u00f1\u00e9 (Aniversario)",
+        "url": "https://open.spotify.com/album/31fTUt5qwnTFfN2hnGaZje"
+      },
+      "artists": [
+        {
+          "name": "Benito Kamelas",
+          "url": "https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn"
+        }
+      ],
+      "duration_ms": 234774,
+      "name": "Ayer So\u00f1\u00e9 - Aniversario",
+      "url": "https://open.spotify.com/track/5RvUugCYiLKuBZcQHJil1v"
     },
     {
       "added_at": "2026-02-12 23:01:41",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2026-02-12 23:01:41",
       "album": {
+        "name": "Mar sin fondo",
+        "url": "https://open.spotify.com/album/4UrxToC82W4vVM0Y9a38VK"
+      },
+      "artists": [
+        {
+          "name": "Linze",
+          "url": "https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq"
+        }
+      ],
+      "duration_ms": 230434,
+      "name": "Mar sin fondo",
+      "url": "https://open.spotify.com/track/0Hu3LEEuyI2yciMzdgL9MV"
+    },
+    {
+      "added_at": "2026-02-12 23:01:41",
+      "album": {
         "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
         "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
-    },
-    {
-      "added_at": "2026-02-12 23:01:41",
-      "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Pienso en Aquella Tarde",
-      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

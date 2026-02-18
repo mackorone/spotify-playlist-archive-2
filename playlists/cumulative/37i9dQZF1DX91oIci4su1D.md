@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,242 songs - 3 day 2 hr 23 min
+1,243 songs - 3 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 | 2026-02-13 |  |
 | [9910](https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [9910](https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1) | 3:25 | 2023-09-08 | 2024-10-26 |
 | [A Big Life](https://open.spotify.com/track/1wC8NewPz9UC2omMzQx78S) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [A Big Life](https://open.spotify.com/album/68B29M8gbUTv0qSTjTIj7Q) | 3:47 | 2022-01-28 | 2023-02-25 |
-| [A Love Like You](https://open.spotify.com/track/1oY02AiGl444ywpOuWuet6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Robbie Seed](https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [A Love Like You](https://open.spotify.com/album/0JP7MmkQdZEOgkzDz0RCSH) | 3:48 | 2025-03-07 |  |
+| [A Love Like You](https://open.spotify.com/track/1oY02AiGl444ywpOuWuet6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Robbie Seed](https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [A Love Like You](https://open.spotify.com/album/0JP7MmkQdZEOgkzDz0RCSH) | 3:48 | 2025-03-07 | 2026-02-18 |
 | [A Moment in Time](https://open.spotify.com/track/2kdqKlE8lKL0iEA1GBWsoe) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Stine Grove](https://open.spotify.com/artist/51GkQKgac6wqdicVA2DvPu) | [A Moment in Time](https://open.spotify.com/album/2Gr1G2axlS7Ie5xHMeIxPT) | 2:50 | 2025-02-14 | 2025-10-27 |
 | [A Trillion Suns](https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo) | [Daniel Skyver](https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y) | [A Trillion Suns](https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE) | 3:29 | 2024-02-16 | 2025-03-22 |
 | [About A Love](https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [About A Love](https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp) | 4:05 | 2024-09-27 | 2025-05-03 |
@@ -250,6 +250,7 @@
 | [Cry My Name](https://open.spotify.com/track/5gJKGE7dk8OTULVIPIxWKn) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Cry My Name](https://open.spotify.com/album/3pfUQ49kJpoHO6EDp0s0oy) | 4:03 | 2022-03-04 | 2023-03-04 |
 | [Curer](https://open.spotify.com/track/6xASHanHhUcc6Mfo1FHaXa) | [Temple One](https://open.spotify.com/artist/04d81XptQA11pLPxMXLxC9) | [Vivid Motion](https://open.spotify.com/album/3inz2oPpQDvkejHkVA7SoY) | 3:21 | 2023-06-30 | 2024-07-13 |
 | [Dance of Life](https://open.spotify.com/track/2DfahOK7hUFhiiHFvVS9WF) | [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7) | [Dance of Life](https://open.spotify.com/album/1c4YuF4rGrlj665PVyxDuL) | 4:07 | 2024-09-13 | 2025-10-24 |
+| [Dance Of The Soul](https://open.spotify.com/track/77Vmd3Awqd8PNUVt5SlUx6) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Dance Of The Soul](https://open.spotify.com/album/0lmUGM7RlVcHVqg4ORbuFa) | 2:58 | 2026-02-13 |  |
 | [Dance To Death](https://open.spotify.com/track/1t9CSdEHfgWAKoPJuxGd9A) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [MEMO](https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN) | 3:08 | 2023-06-30 | 2023-09-30 |
 | [Dancing In The Stars \(With You\)](https://open.spotify.com/track/4vEBzVmIAbKSGtSMP45AuR) | [Triode](https://open.spotify.com/artist/6PeUGjC4XaZD1XysuYogDG), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Dancing In The Stars \(With You\)](https://open.spotify.com/album/5ETpVy3DQjIf9z7AiOArsr) | 4:19 | 2023-06-30 | 2024-07-13 |
 | [Daring To Love \- Asteroid Remix](https://open.spotify.com/track/0wCHys665L3AYPLKFTsgn1) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf), [Asteroid](https://open.spotify.com/artist/7x3GRBRhJ7qQfDoOwVSoL4) | [Daring To Love \(Asteroid Remix\)](https://open.spotify.com/album/6NOjTC9X40RuF6uIq1BWkB) | 3:49 | 2023-02-10 | 2023-12-30 |

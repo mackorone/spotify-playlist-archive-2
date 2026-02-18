@@ -81849,6 +81849,24 @@
     },
     {
       "album": {
+        "name": "Alan Sparhawk Solo Band",
+        "url": "https://open.spotify.com/album/2xT3jALHxGAC4VWOrVdVm0"
+      },
+      "artists": [
+        {
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153036,
+      "name": "No More Darkness",
+      "url": "https://open.spotify.com/track/2r15Q4PrVlfG2X8xJ4UY2a"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },

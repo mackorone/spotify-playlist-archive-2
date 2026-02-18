@@ -2,7 +2,7 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Bops and LGBTQIA+ artists only\. Cover: Jennarie
+> Bops and LGBTQIA+ artists only\. Cover: Jules, Naomi
 
 432 songs - 23 hr 9 min
 

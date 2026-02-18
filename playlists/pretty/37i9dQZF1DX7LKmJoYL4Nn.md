@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,411 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,415 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 19 | [君恋志願](https://open.spotify.com/track/1FpXk92XR1PgmCWnqZOxMB) | [瑠璃茉莉](https://open.spotify.com/artist/6Pcr7AKk6pOoRBEP7U7xJa), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [瑠璃茉莉「君恋志願」あんさんぶるスターズ！！ シャッフルユニットソング](https://open.spotify.com/album/3vD9fOvl57rX25QxKy1eY9) | 3:58 |
 | 20 | [しょーがいゼッタイそーあい宣言♥](https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan) | [Special for Princess!](https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3) | [しょーがいゼッタイそーあい宣言♥](https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl) | 3:17 |
 | 21 | [Wanderlust Sailing](https://open.spotify.com/track/6rXYXo0k7V3G5arz1f6cEg) | [UNDEAD](https://open.spotify.com/artist/4vpYguABoJeyeiQEVavB7F), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [UNDEAD「Wanderlust Sailing」あんさんぶるスターズ！！ ESアイドルソング season6](https://open.spotify.com/album/6ehYFEt3WgpNUL38O9N7c5) | 3:21 |
-| 22 | [催花雨の片道切符](https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h) | [Lancetta](https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Lancetta「催花雨の片道切符」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I) | 4:53 |
-| 23 | [らびゅ&ピース伝説](https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF) | [PM6:∞](https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [PM6:∞「らびゅ&ピース伝説」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l) | 3:45 |
+| 22 | [らびゅ&ピース伝説](https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF) | [PM6:∞](https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [PM6:∞「らびゅ&ピース伝説」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l) | 3:45 |
+| 23 | [催花雨の片道切符](https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h) | [Lancetta](https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Lancetta「催花雨の片道切符」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I) | 4:53 |
 | 24 | [星の鳴動響きし時に](https://open.spotify.com/track/4HfzaFfOFv2zIAzXT37LC6) | [Valkyrie](https://open.spotify.com/artist/5IBPK72CczyOeFkx6iKQUM), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Valkyrie「星の鳴動響きし時に」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/0oTq1rLPPyyOmjIqEY0km5) | 6:19 |
 | 25 | [CELEBRATE!!](https://open.spotify.com/track/4uRZvH0o2HyGswFQOWDA23) | [Trickstar](https://open.spotify.com/artist/2LZHEtIelyVc5j5StCwh4m), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Trickstar 「CELEBRATE!!」あんさんぶるスターズ！！ ESアイドルソング season6](https://open.spotify.com/album/1O2mVKwhzQ4kVeZx4Hd8s3) | 4:06 |
 | 26 | [SAKE OF LOVE](https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF), [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:38 |

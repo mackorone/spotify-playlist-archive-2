@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Thelma & James
 
-668 songs - 1 day 16 hr 26 min
+669 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Like a Child](https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Like a Child](https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2) | 3:36 | 2026-01-16 |  |
 | [Like A Rembrandt](https://open.spotify.com/track/2YePVQ7V5RP5QHIsg7YwF3) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Like A Rembrandt](https://open.spotify.com/album/6ZTxJZ9BNB0NuuFy9AY3JU) | 3:42 | 2025-10-06 | 2025-11-14 |
 | [Likewise](https://open.spotify.com/track/1YemKGp8t5PmqW5shGV8c8) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [Likewise](https://open.spotify.com/album/49W2Nmi2Sa415JIy1bQzzp) | 3:39 | 2024-06-21 | 2024-07-13 |
-| [Little Miss](https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Little Miss](https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW) | 2:38 | 2025-10-24 |  |
+| [Little Miss](https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Little Miss](https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW) | 2:38 | 2025-10-24 | 2026-02-18 |
 | [Little Red](https://open.spotify.com/track/2VaWteuuiYb4spgqgMqvXq) | [Vikki Gilmore](https://open.spotify.com/artist/7dRZclXkaEE73U3Tx1u9qV) | [Little Red](https://open.spotify.com/album/19haDyx2HW3RUE3B51HUhQ) | 3:31 | 2022-05-13 | 2022-10-29 |
 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 | 2023-07-14 | 2025-08-08 |
 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 | 2025-11-07 |  |
@@ -523,6 +523,7 @@
 | [Seasons](https://open.spotify.com/track/6E04ZDC2zmiBNonSpjVCe8) | [Blackbird Valley](https://open.spotify.com/artist/44Q243Ct8zD0pJAT6v4jGV) | [Seasons](https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef) | 5:01 | 2022-07-22 | 2023-04-22 |
 | [Second Thought](https://open.spotify.com/track/6aVcvW1HA1hEblYlJM8hAN) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Second Thought](https://open.spotify.com/album/0eMOa6K8m3LyiOUozJLrri) | 3:29 | 2022-08-26 | 2022-10-01 |
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 | 2022-09-17 |
+| [Sell all you have](https://open.spotify.com/track/4rQ9Rj1Au4Weq6szFakdZK) | [Zachary Lucky](https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E) | [Sell all you have](https://open.spotify.com/album/1NIiKN6O4r92ggOyAtBHvh) | 4:24 | 2026-02-06 |  |
 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 | 2023-08-04 | 2025-10-18 |
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 | 2023-04-22 |
 | [She Got Away](https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [She Got Away](https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks) | 2:44 | 2025-11-07 |  |

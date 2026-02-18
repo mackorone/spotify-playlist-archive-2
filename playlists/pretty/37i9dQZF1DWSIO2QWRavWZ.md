@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Tiana Major9
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,897 likes - 160 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,919 likes - 160 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

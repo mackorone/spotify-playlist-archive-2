@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 99012,
+  "num_followers": 99039,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Vivir la Vida",
-        "url": "https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME"
+        "name": "Meneando Cadera",
+        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
       },
       "artists": [
         {
-          "name": "Marco Bode",
-          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
         }
       ],
-      "duration_ms": 114475,
-      "name": "Vivir la Vida",
-      "url": "https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn"
+      "duration_ms": 131320,
+      "name": "Meneando Cadera",
+      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Meneando Cadera",
-        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
+        "name": "Vivir la Vida",
+        "url": "https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME"
       },
       "artists": [
         {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+          "name": "Marco Bode",
+          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
         }
       ],
-      "duration_ms": 131320,
-      "name": "Meneando Cadera",
-      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
+      "duration_ms": 114475,
+      "name": "Vivir la Vida",
+      "url": "https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Olokun",
-        "url": "https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf"
-      },
-      "artists": [
-        {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
-        }
-      ],
-      "duration_ms": 211295,
-      "name": "Olokun",
-      "url": "https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Obscure Tribal",
         "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209077,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Olokun",
+        "url": "https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf"
+      },
+      "artists": [
+        {
+          "name": "XAVO",
+          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+        }
+      ],
+      "duration_ms": 211295,
+      "name": "Olokun",
+      "url": "https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -767,22 +767,6 @@
       "duration_ms": 158240,
       "name": "World 2014 - Original Mix",
       "url": "https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Trippyal",
-        "url": "https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY"
-      },
-      "artists": [
-        {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
-        }
-      ],
-      "duration_ms": 170149,
-      "name": "Trippyal",
-      "url": "https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -831,6 +815,22 @@
       "duration_ms": 271259,
       "name": "The Virus - Alan Rosales Remix",
       "url": "https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Trippyal",
+        "url": "https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY"
+      },
+      "artists": [
+        {
+          "name": "XAVO",
+          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+        }
+      ],
+      "duration_ms": 170149,
+      "name": "Trippyal",
+      "url": "https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "BATEA",
-        "url": "https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp"
-      },
-      "artists": [
-        {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
-        }
-      ],
-      "duration_ms": 143024,
-      "name": "BATEA",
-      "url": "https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Jeffree's Volume 2",
         "url": "https://open.spotify.com/album/04Gb3cC1KZ25W0u2NJMadx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 240000,
       "name": "Sickhead",
       "url": "https://open.spotify.com/track/7HhnDS97yjtsGgvTYWM5Bc"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "BATEA",
+        "url": "https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp"
+      },
+      "artists": [
+        {
+          "name": "XAVO",
+          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+        }
+      ],
+      "duration_ms": 143024,
+      "name": "BATEA",
+      "url": "https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb"
     },
     {
       "added_at": "2024-07-05 22:41:57",

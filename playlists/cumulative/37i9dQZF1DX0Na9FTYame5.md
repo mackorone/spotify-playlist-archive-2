@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Souly
 
-342 songs - 15 hr 32 min
+343 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Garten vorm Haus](https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Garten vorm Haus](https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn) | 1:54 | 2024-11-11 |  |
 | [Geboren um zu leben](https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Geboren um zu leben](https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray) | 2:48 | 2025-05-29 |  |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 |  |
-| [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 | 2025-10-16 |  |
+| [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 | 2025-10-16 | 2026-02-18 |
 | [Gezeichnet von dir](https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Gezeichnet von dir](https://open.spotify.com/album/74f5BH05TncUY0a5t1jnN8) | 2:35 | 2026-01-23 |  |
 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 | 2024-06-28 | 2025-05-16 |
 | [Glaubst du mir](https://open.spotify.com/track/1G30mRK6xVlgZacAMGIqJi) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Jaimy](https://open.spotify.com/artist/6AOupVx3jzIsZ0qgrb3iuj) | [Glaubst du mir](https://open.spotify.com/album/6NbNH9YduxChQGg2GsbnFr) | 2:56 | 2025-11-06 | 2026-02-06 |
@@ -274,6 +274,7 @@
 | [Schwere Zeit](https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Schwere Zeit](https://open.spotify.com/album/0svFX9P5gBS7mggcJAjyJR) | 2:06 | 2025-04-17 | 2025-12-01 |
 | [Schön, dass du da warst](https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schön, dass du da warst](https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30) | 2:47 | 2025-07-17 |  |
 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 | 2025-09-18 |  |
+| [Sehnsucht](https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp) | [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Sehnsucht](https://open.spotify.com/album/0noQsWzkwjjsrIhGu9kUWP) | 2:31 | 2026-02-12 |  |
 | [Sehnsucht](https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Sehnsucht](https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3) | 3:03 | 2024-08-26 | 2025-08-07 |
 | [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 | 2024-08-01 | 2025-02-08 |
 | [Shawty](https://open.spotify.com/track/0epOvY19U7PF0d96EB3bkl) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Shawty](https://open.spotify.com/album/4Qjtz9UiZQybB6Y5TZa5Ck) | 2:24 | 2025-11-27 | 2025-12-06 |

@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-490 songs - 23 hr 39 min
+492 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [420 freestyle](https://open.spotify.com/track/4mRzDO9DVwxE0asxvlZ6gb) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [420 freestyle](https://open.spotify.com/album/2HqhCRZthOQBwZAAXn3THQ) | 1:43 | 2024-09-24 |  |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-07-26 |  |
 | [5 O'Clock](https://open.spotify.com/track/3vSRKMY9G9dH3TUW6mRA73) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:52 | 2023-07-26 |  |
+| [5:e November](https://open.spotify.com/track/4gdLpLCrFm5HroXN8BbJLr) | [Doktor Digital](https://open.spotify.com/artist/2wwKK1ZYLdkTvRZcTQng23) | [Kommer Från Skuggan](https://open.spotify.com/album/6l5HMEnv3US9BbQ3idhvhB) | 3:02 | 2026-02-17 |  |
 | [74 Cromwell Avenue \(The Way We Were\)](https://open.spotify.com/track/0rh0meIPY6p7DcNdpUZR5h) | [MNIB](https://open.spotify.com/artist/5lKWiFsG07JzfOqEDUizem), [The Honourable Minister Louis Farrakhan](https://open.spotify.com/artist/4FtUXBA3BecXGznJWoLT16) | [74 Cromwell Avenue \(Before I Was Born\)](https://open.spotify.com/album/6Ox8XncQV66GSKN9efYWzF) | 4:01 | 2024-07-08 |  |
 | [80](https://open.spotify.com/track/7AWO9DNzPZ1wHERhYBsaCN) | [WLF.JMS](https://open.spotify.com/artist/7CYEmpAvVpsRH1DbMfhUPt) | [80](https://open.spotify.com/album/2KBKLeWqab7JJS9GGkIUMO) | 2:32 | 2026-02-16 |  |
 | [A Heartache](https://open.spotify.com/track/4NrxYRCPIsx2VC5dsW2VYx) | [C.Z.B](https://open.spotify.com/artist/3fIOUrM5pHc0BnQlVvy9lj) | [Winter's Cold](https://open.spotify.com/album/3D4Xgq16DCwLn1v3aQRZ10) | 2:47 | 2025-03-24 |  |
@@ -301,6 +302,7 @@
 | [Old \(One Lucky Dude\)](https://open.spotify.com/track/1DQuMu6KuK4U7OOPUnHncf) | [Westbay](https://open.spotify.com/artist/53cZi0zTxO9HboRg5PkrBO) | [OLD \(One Lucky Dude\)](https://open.spotify.com/album/0dJuqvmDle4AUOszEob1kl) | 3:57 | 2025-12-26 |  |
 | [ON DECK](https://open.spotify.com/track/1y4wovZnDYu3yBX4kDpQKA) | [winterkhai](https://open.spotify.com/artist/6ziwWKlhLwUFw0oxFHF0MI) | [ON DECK](https://open.spotify.com/album/4dJKClsZAwu2DYT2PwXx2f) | 1:43 | 2024-06-11 |  |
 | [On Display, Pt\. 3](https://open.spotify.com/track/5wM2zCngggufalq4pnvYI3) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [On Display, Pt\. 3](https://open.spotify.com/album/2s8PuynnrQhk13zYrlEJSN) | 1:56 | 2025-12-01 |  |
+| [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 | 2026-02-17 |  |
 | [onmyown](https://open.spotify.com/track/5ISwOIIYblk456ck0M2Y2K) | [onelane](https://open.spotify.com/artist/4lMbBzx4zFXfTjphqaVGyN) | [onmyown](https://open.spotify.com/album/64Y6LDkBVT09ZvgSJ0j3e8) | 4:13 | 2024-10-07 |  |
 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 | 2023-07-26 |  |
 | [Our Only Love Song](https://open.spotify.com/track/0LPYpM6ntZYfiPwUIVjwMl) | [Hunter Magno](https://open.spotify.com/artist/7xwEeTxHw8V7VgTxLVTMFy) | [Our Only Love Song](https://open.spotify.com/album/2jdOSyjSF8qNY7md76iyoR) | 2:15 | 2024-06-20 |  |

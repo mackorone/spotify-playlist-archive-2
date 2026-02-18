@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 13309,
+  "num_followers": 13361,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "The Princess, Pt. Two",
-        "url": "https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Booty Swing",
-      "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Diamonds (Remixes)",
         "url": "https://open.spotify.com/album/5VViXjruVTgTp1eY2i0Yzp"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 194400,
       "name": "Diamonds - The Bimbo Jones Vocal Edit",
       "url": "https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "The Princess, Pt. Two",
+        "url": "https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Booty Swing",
+      "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Call Me A Spaceman",
-        "url": "https://open.spotify.com/album/3kARXHLsd4qAUuTtK3jztK"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Mitch Crown",
-          "url": "https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Call Me A Spaceman - Radio Edit",
-      "url": "https://open.spotify.com/track/1UPyhGntpIx9jGJ5UVtKVS"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Dance Again...The Hits",
         "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 237266,
       "name": "Dance Again (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Call Me A Spaceman",
+        "url": "https://open.spotify.com/album/3kARXHLsd4qAUuTtK3jztK"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Mitch Crown",
+          "url": "https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Call Me A Spaceman - Radio Edit",
+      "url": "https://open.spotify.com/track/1UPyhGntpIx9jGJ5UVtKVS"
     },
     {
       "added_at": "2022-10-14 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
-  "num_followers": 619167,
+  "num_followers": 619773,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGmnfStz82RcKepD+5+whx8JUFx",
+  "snapshot_id": "AAAAAGaO9garFxhcwDj0naEWQbgn4s73",
   "tracks": [
     {
       "added_at": "2025-11-26 07:40:57",
@@ -37,6 +37,26 @@
       "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
+      "added_at": "2026-02-09 06:30:29",
+      "album": {
+        "name": "CHEMBARATHI",
+        "url": "https://open.spotify.com/album/7b8TzluGoR96DLTSgpbWGA"
+      },
+      "artists": [
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "CHEMBARATHI",
+      "url": "https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8"
+    },
+    {
       "added_at": "2026-01-07 07:41:31",
       "album": {
         "name": "Vellarathaaram (From \"Sarvam Maya\")",
@@ -61,6 +81,54 @@
       "url": "https://open.spotify.com/track/2LzLaaGYFBzg7esTGqmpDR"
     },
     {
+      "added_at": "2026-02-17 06:27:53",
+      "album": {
+        "name": "Vayojana Zombie (From \"Prakambanam\")",
+        "url": "https://open.spotify.com/album/0NlXWEILHdLcugwBhxynAb"
+      },
+      "artists": [
+        {
+          "name": "Bibin Ashok",
+          "url": "https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Suhail Koya",
+          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
+        }
+      ],
+      "duration_ms": 205043,
+      "name": "Vayojana Zombie - From \"Prakambanam\"",
+      "url": "https://open.spotify.com/track/3G0YPT4Zo3AEMtGxkdVdGn"
+    },
+    {
+      "added_at": "2026-02-17 06:27:53",
+      "album": {
+        "name": "Belyol",
+        "url": "https://open.spotify.com/album/0AHOtjeUSQi96z5RoYTwKC"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Edappal Bappu",
+          "url": "https://open.spotify.com/artist/2YSIJrfYC4n4yh5nuAtVxI"
+        },
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        }
+      ],
+      "duration_ms": 177917,
+      "name": "Belyol",
+      "url": "https://open.spotify.com/track/1gSxCX6p00kxVqQjCN2PQY"
+    },
+    {
       "added_at": "2025-12-01 06:53:26",
       "album": {
         "name": "Kunjikkavil Meghame (From \"Aashaan\")",
@@ -83,26 +151,6 @@
       "duration_ms": 284210,
       "name": "Kunjikkavil Meghame (From \"Aashaan\")",
       "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
-    },
-    {
-      "added_at": "2026-02-09 06:30:29",
-      "album": {
-        "name": "CHEMBARATHI",
-        "url": "https://open.spotify.com/album/7b8TzluGoR96DLTSgpbWGA"
-      },
-      "artists": [
-        {
-          "name": "Lil PAYYAN",
-          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
-        },
-        {
-          "name": "AZWIN",
-          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "CHEMBARATHI",
-      "url": "https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8"
     },
     {
       "added_at": "2026-02-05 07:38:20",
@@ -255,38 +303,6 @@
       "duration_ms": 254823,
       "name": "Neeye Punchiri - One Side Love",
       "url": "https://open.spotify.com/track/1yioABzRG4WFEkO98WV5l7"
-    },
-    {
-      "added_at": "2026-02-02 04:31:00",
-      "album": {
-        "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
-        "url": "https://open.spotify.com/album/2ESmPaEdF357xZJ7U87TIb"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        },
-        {
-          "name": "Fejo",
-          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 227227,
-      "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
-      "url": "https://open.spotify.com/track/0t0wDOb0N5BrQAJ1DzDJQJ"
     },
     {
       "added_at": "2025-12-15 08:08:03",
@@ -635,26 +651,6 @@
       "duration_ms": 299055,
       "name": "Minnalvala (From \"Narivetta\")",
       "url": "https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm"
-    },
-    {
-      "added_at": "2025-07-14 08:45:32",
-      "album": {
-        "name": "Ray",
-        "url": "https://open.spotify.com/album/0oritKj3ppZGOmU91yYsDL"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 358929,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/7yyPe2eJRKxdwS0h3LDovO"
     },
     {
       "added_at": "2025-07-24 12:23:00",

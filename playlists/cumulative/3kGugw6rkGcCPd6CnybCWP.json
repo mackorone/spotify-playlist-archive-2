@@ -2985,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "When the Smoke Clears",
+        "url": "https://open.spotify.com/album/6TPpKcggYH1K25VIAz0hmR"
+      },
+      "artists": [
+        {
+          "name": "Aviela Sivia",
+          "url": "https://open.spotify.com/artist/3rIBjdx8IaKKTLcAPm7VOm"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205936,
+      "name": "When the Smoke Clears",
+      "url": "https://open.spotify.com/track/4o4HfCqu4tMpmPMBzILKzF"
+    },
+    {
+      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr"
       },

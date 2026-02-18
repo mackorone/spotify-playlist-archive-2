@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Ali Aka Mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,111 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,105 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 41 | [Aranjuez](https://open.spotify.com/track/0OM7yGXYagXOjIvChYKCRU) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/08AatdGir521ngEN6fHGmR) | 3:54 |
 | 42 | [El Camión de la Basura](https://open.spotify.com/track/7rAeQfVOdfAIWqHgk28x0A) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx) | [El Camión de la Basura](https://open.spotify.com/album/5aAhr5816Tn3pkLSHZwefN) | 3:59 |
 | 43 | [Vaivén](https://open.spotify.com/track/5Pmqbpl8LsFAOTVM5CyLcy) | [El Nido](https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF), [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Repz Bar$](https://open.spotify.com/artist/6gghfqGeVkTx0fcrgd7ESK), [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Alman Lenid](https://open.spotify.com/artist/3aKmPqBx1uIDdHexfQ81lf) | [Vaivén](https://open.spotify.com/album/009XeJky5RjEa5EuKI2OMv) | 4:14 |
-| 44 | [Quien Va](https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Alcolirykoz](https://open.spotify.com/artist/6zK4l1uHkF2cvOJLcdOShB), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 4:25 |
+| 44 | [Quien Va](https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 4:25 |
 | 45 | [Cara/Cruz](https://open.spotify.com/track/2KmRADR0BFvChKNAI24cTc) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Cara/Cruz](https://open.spotify.com/album/5EOcbsuFDolPWVLSeZb02m) | 3:44 |
 | 46 | [Caos](https://open.spotify.com/track/7FWgYHUUMKNjQar2oFkLv5) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Juegos de Azar](https://open.spotify.com/album/3COocsnqFmmlyI8W7vSaeY) | 4:07 |
 | 47 | [Pantone](https://open.spotify.com/track/0DW6Q5KTqkf1Lh2ROqmKWu) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,099 songs - 2 day 19 hr 45 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,100 songs - 2 day 19 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1107,5 +1107,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1097 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 1098 | [Fighting Gold](https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [Fighting Gold](https://open.spotify.com/album/1UMwWm9cXGyMsjMCnmPxrA) | 4:13 |
 | 1099 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
+| 1100 | [Defeat Here](https://open.spotify.com/track/0cY730wUNrEZlvj4mCIdyH) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [JUJUTSU KAISEN SEASON 3 \- The Culling Game \- Part 1 \- Original Soundtrack \~Selected Version\~](https://open.spotify.com/album/130ALCkyGuUdB8Jly6bXJd) | 1:36 |
 
-Snapshot ID: `AAAH9blWOyasP0KP/AR1WUb3WpKfUX+K`
+Snapshot ID: `AAAH9ljjI3L6Ya5B3gNp5nMI+xiImKY2`

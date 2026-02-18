@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24822,
+  "num_followers": 24818,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAAAevJRnI8kvFJsFhPG33l8e",
+  "snapshot_id": "aZJeAAAAAABootHhE0hXv8vktSyjwZtO",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
-        "url": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Something To Dance For - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake It Up: Break It Down",
         "url": "https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 175546,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
+        "url": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Something To Dance For - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Much (From \u201cZapped\u201d)",
-        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Todo Ritmo: I <3 Dance (Music From the TV Series)",
         "url": "https://open.spotify.com/album/5bTbeUe1dHjvpr6m2nN834"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 135653,
       "name": "Contagious Love",
       "url": "https://open.spotify.com/track/1twMlAUezt1FcoXcK0Wydf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Much (From \u201cZapped\u201d)",
+        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
     },
     {
       "added_at": null,

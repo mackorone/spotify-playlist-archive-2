@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 75087,
+  "num_followers": 75085,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,30 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Bad Boy Horns",
+        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
+      },
+      "artists": [
+        {
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Waeys",
+          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        }
+      ],
+      "duration_ms": 252342,
+      "name": "Bad Boy Horns",
+      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
       },
@@ -979,30 +1003,6 @@
       "duration_ms": 201517,
       "name": "Deserted",
       "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "Bad Boy Horns",
-        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
-      },
-      "artists": [
-        {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
-        },
-        {
-          "name": "Waeys",
-          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        }
-      ],
-      "duration_ms": 252342,
-      "name": "Bad Boy Horns",
-      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
     },
     {
       "added_at": "2026-01-16 00:00:17",

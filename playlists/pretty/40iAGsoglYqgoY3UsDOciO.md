@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 617 likes - 490 songs - 23 hr 39 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 620 likes - 492 songs - 23 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -498,5 +498,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 488 | [Crave](https://open.spotify.com/track/10yJtycXC7s7npCCcOVScU) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [HIBARI555](https://open.spotify.com/artist/2A6OB7KGDr2HXEDoqvYLXn) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 2:29 |
 | 489 | [sleepeR](https://open.spotify.com/track/3AwyCR4jSQvmgpthwlGylS) | [dndKrym](https://open.spotify.com/artist/2lUIYiQ8ABS20WWFdOadZJ) | [sleepeR](https://open.spotify.com/album/327zFRuZsBfXLcpoGSPwwB) | 1:40 |
 | 490 | [80](https://open.spotify.com/track/7AWO9DNzPZ1wHERhYBsaCN) | [WLF.JMS](https://open.spotify.com/artist/7CYEmpAvVpsRH1DbMfhUPt) | [80](https://open.spotify.com/album/2KBKLeWqab7JJS9GGkIUMO) | 2:32 |
+| 491 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 |
+| 492 | [5:e November](https://open.spotify.com/track/4gdLpLCrFm5HroXN8BbJLr) | [Doktor Digital](https://open.spotify.com/artist/2wwKK1ZYLdkTvRZcTQng23) | [Kommer Från Skuggan](https://open.spotify.com/album/6l5HMEnv3US9BbQ3idhvhB) | 3:02 |
 
-Snapshot ID: `AAABinKsW4nSCkTeJrlX+9F0bhsaHj4e`
+Snapshot ID: `AAABjOa3k6LPIc79yGdxWKQ++O8u5tLV`

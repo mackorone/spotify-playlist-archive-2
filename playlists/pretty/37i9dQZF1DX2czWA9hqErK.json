@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1329584,
+  "num_followers": 1329498,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "This Must Be Love",
         "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 167459,
       "name": "This Must Be Love",
       "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 241531,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
         "name": "Teenage Love",
         "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 205768,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 241531,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Someone That's Better",
-        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 133059,
-      "name": "Someone That's Better",
-      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "Running Out Of Time",
         "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     }
   ],
   "unique_name": "Easy",

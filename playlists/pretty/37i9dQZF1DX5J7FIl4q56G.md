@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Converge
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,407 likes - 125 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,438 likes - 125 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 5 | [Angel Eyes](https://open.spotify.com/track/2nU7OKyo1EZqZQYnIVjTO1) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [God Forgives](https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii) | 2:14 |
 | 6 | [devil's/speak](https://open.spotify.com/track/2Z2LaPdOVMFUvqfY7FP2oz) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [devil's/speak](https://open.spotify.com/album/1FV3MLWx4908vJthffT5TD) | 3:12 |
 | 7 | [Rip](https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Rip](https://open.spotify.com/album/64b596DrbceGFZ4pZQ3gp7) | 3:12 |
-| 8 | [Merciless Reflection \(feat\. Damonteal Harris\)](https://open.spotify.com/track/6linEvSbfcR1alvucoiTS2) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Damonteal Harris](https://open.spotify.com/artist/3DcN5TDPTBvoxDbDns1qdy) | [Merciless Reflection \(feat\. Damonteal Harris\)](https://open.spotify.com/album/46MLr9KAKnOQUXgTPia99g) | 3:13 |
+| 8 | [Merciless Reflection \(feat\. PeelingFlesh\)](https://open.spotify.com/track/6linEvSbfcR1alvucoiTS2) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [PeelingFlesh](https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG) | [Merciless Reflection \(feat\. PeelingFlesh\)](https://open.spotify.com/album/46MLr9KAKnOQUXgTPia99g) | 3:13 |
 | 9 | [Master of Deceit](https://open.spotify.com/track/53IpCvVxmw01MfpdjhWODO) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Devoured by the Mouth of Hell \(Deluxe Edition\)](https://open.spotify.com/album/5q3vizqkxvrrbKPU9HvbPb) | 4:00 |
 | 10 | [Purity Ladder](https://open.spotify.com/track/4jvYJcpCtuUdqSuO6KgyKb) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Purity Ladder](https://open.spotify.com/album/6d3HQ3uQug41JXDiLWQQMd) | 3:55 |
 | 11 | [Demons Are A Girl's Best Friend \- Live At Olympiahalle](https://open.spotify.com/track/24iYlwksZAym23c4cZEGeA) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Wildlive \(Live at Olympiahalle\)](https://open.spotify.com/album/4hMqVHybW4FvutDDhyrM8q) | 5:28 |

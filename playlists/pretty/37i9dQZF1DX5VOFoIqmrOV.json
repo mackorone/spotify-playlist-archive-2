@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 450173,
+  "num_followers": 450231,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -485,30 +485,6 @@
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Falaknuma Das (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1cBufU0U56Pcm7WIKNKtHE"
-      },
-      "artists": [
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 301500,
-      "name": "Arerey Manasa",
-      "url": "https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Arjun Reddy",
@@ -547,6 +523,30 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Falaknuma Das (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1cBufU0U56Pcm7WIKNKtHE"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 301500,
+      "name": "Arerey Manasa",
+      "url": "https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi"
     },
     {
       "added_at": "2023-01-11 20:52:12",

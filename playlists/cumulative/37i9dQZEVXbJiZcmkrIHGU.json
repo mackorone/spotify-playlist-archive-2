@@ -2537,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "700 PFERDE / UP SEHEN",
+        "url": "https://open.spotify.com/album/1gZnyeKKtJybOccFOrW3O2"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101355,
+      "name": "7OO PFERDE",
+      "url": "https://open.spotify.com/track/6ztt4FMa6HCfNdoH96Ppyx"
+    },
+    {
+      "album": {
         "name": "21 Gramm",
         "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 275773,
       "name": "Alle Jl\u00e4ser huh",
       "url": "https://open.spotify.com/track/6YqYOnjh0vkMp5cfzKHmbM"
@@ -11498,7 +11516,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 184200,
       "name": "Bleib stark",
       "url": "https://open.spotify.com/track/6PJsdilI64azZH5BPFFXTv"
@@ -30684,7 +30702,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 215769,
       "name": "Guten Morgen Barbarossaplatz",
       "url": "https://open.spotify.com/track/385lgFqvuFryjdlYzTF4fP"
@@ -30702,7 +30720,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 215769,
       "name": "Guten Morgen Barbarossaplatz",
       "url": "https://open.spotify.com/track/7Ifj0WCBgX5uisabg3GkDm"
@@ -55620,7 +55638,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
@@ -58214,7 +58232,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 192573,
       "name": "Prinzessin",
       "url": "https://open.spotify.com/track/6xxqvqzRighH5hQ5QwzFtq"
@@ -73160,7 +73178,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 206026,
       "name": "Tschingderassabum",
       "url": "https://open.spotify.com/track/5qEyqquRgKxpv0VKvcNXbC"

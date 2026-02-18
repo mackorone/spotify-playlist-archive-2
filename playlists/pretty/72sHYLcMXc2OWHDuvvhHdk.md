@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,325 songs - 5 day 15 hr 50 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 558 likes - 2,326 songs - 5 day 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2333,5 +2333,6 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2323 | [La Bella Vita Martini](https://open.spotify.com/track/1MlDg3ZJIq4foqIrjLez3d) | [La Seduçion](https://open.spotify.com/artist/4enMoBINKiDyX5Z2F1QJqy) | [Sangre Sudor Y Cumbiabilly](https://open.spotify.com/album/630WNRz4lyRfZ9BJ9OSODg) | 2:55 |
 | 2324 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 |
 | 2325 | [Moon Scrolls](https://open.spotify.com/track/64qqCzP5bq6X0qNqAh9BHl) | [McDead](https://open.spotify.com/artist/0NmzTtERx5LdRg0u6SGO0N) | [Moon Scrolls](https://open.spotify.com/album/1dRxZQnv10pp30nsJSAYWL) | 2:03 |
+| 2326 | [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 |
 
-Snapshot ID: `AAAJrBi0eC7hbFwY5758wEcP4iChfAbC`
+Snapshot ID: `AAAJrYXif7dszxHfVMQRKcaqYO0TmAwV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > New folk & americana driving the current, every week\. Cover: Mon Rovîa
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,677 likes - 101 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,684 likes - 101 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 100 | [Maniacapella](https://open.spotify.com/track/6MMmDh3aLPj8C3FJ2PGPj8) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [The Other Side](https://open.spotify.com/album/5ih1oUrztdhanRibICrlHa) | 4:01 |
 | 101 | [Mountain Top](https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:27 |
 
-Snapshot ID: `AAAAAM5ACmSbOuW3NpKquK5rO0NtjaWy`
+Snapshot ID: `AAAAAMVeQU5TNRQoFTy+76wZal0NFolI`

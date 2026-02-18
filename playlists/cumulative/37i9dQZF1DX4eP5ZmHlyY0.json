@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: CORTIS",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: \u4e2d\u5cf6\u5065\u4eba",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -518,10 +518,28 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 158796,
       "name": "All of You",
       "url": "https://open.spotify.com/track/5aZUKmHWosIdaehziLYEq4"
+    },
+    {
+      "album": {
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2lIYNTQtiK8t6v9byPP529"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158796,
+      "name": "All of You",
+      "url": "https://open.spotify.com/track/6aT2SFyv2KQ4DKMguYOLVb"
     },
     {
       "album": {
@@ -1488,6 +1506,24 @@
       "duration_ms": 217572,
       "name": "Blast Off",
       "url": "https://open.spotify.com/track/0vvOYAukZ2VD49ey01FJHY"
+    },
+    {
+      "album": {
+        "name": "BLAST OUT",
+        "url": "https://open.spotify.com/album/66uIDA2XHiC8sYRAt7qewO"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146999,
+      "name": "BLAST OUT",
+      "url": "https://open.spotify.com/track/6TLlOLLcsxBrtlWsGzVF37"
     },
     {
       "album": {
@@ -5837,6 +5873,28 @@
     },
     {
       "album": {
+        "name": "HOOKED",
+        "url": "https://open.spotify.com/album/06xraIG7LKvqtBQX7jsgo5"
+      },
+      "artists": [
+        {
+          "name": "NOWZ",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        },
+        {
+          "name": "Nigel Tay",
+          "url": "https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199606,
+      "name": "HOOKED",
+      "url": "https://open.spotify.com/track/6ft8y5BcL5tvLxe0z9H5Pn"
+    },
+    {
+      "album": {
         "name": "\u307e\u3055\u304b\u6ce3\u304f\u3068\u306f\u601d\u308f\u306a\u304b\u3063\u305f",
         "url": "https://open.spotify.com/album/3YmV4jIJtEzl0fbRDag6KX"
       },
@@ -6590,6 +6648,24 @@
       "duration_ms": 250033,
       "name": "It\u2019s all good",
       "url": "https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R"
+    },
+    {
+      "album": {
+        "name": "minisode 3: TOMORROW with Remixes",
+        "url": "https://open.spotify.com/album/0RFuTYmc3LtPHt0rs0Mqwl"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196694,
+      "name": "I\u2019ll See You There Tomorrow",
+      "url": "https://open.spotify.com/track/0tLijuYdMi1UwK7CD3B7bH"
     },
     {
       "album": {
@@ -7442,7 +7518,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 129333,
       "name": "LILMATIC",
       "url": "https://open.spotify.com/track/7FgaqhCQPHDfLfB9At78TQ"
@@ -7770,7 +7846,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 181786,
       "name": "Lovin' the Christmas",
       "url": "https://open.spotify.com/track/6Ws8iBdUJWu9XGsTGvQoEa"
@@ -11713,6 +11789,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180861,
+      "name": "SOL1ST",
+      "url": "https://open.spotify.com/track/0xHG1wMqBBrOzamRfJXqFv"
+    },
+    {
+      "album": {
         "name": "SOLDIER LOVE",
         "url": "https://open.spotify.com/album/4Lobcm9cyOgxultYK6KlrE"
       },
@@ -14576,7 +14670,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 172571,
       "name": "XTC",
       "url": "https://open.spotify.com/track/76qI8ihfONou0gth5gHW18"
@@ -16602,7 +16696,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 174865,
       "name": "\u9752\u6625\u30a4\u30f3\u30af\u30ec\u30c7\u30a3\u30d6\u30eb",
       "url": "https://open.spotify.com/track/2L6ygU5hYwjoFIu8Hi8Vu7"

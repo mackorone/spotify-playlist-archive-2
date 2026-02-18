@@ -101733,36 +101733,6 @@
     },
     {
       "album": {
-        "name": "Gustav Mahler - 8. Symphonie",
-        "url": "https://open.spotify.com/album/0SEnnF1d1KCPXvWGln66wY"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Tonk\u00fcnstler-Orchester",
-          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
-        },
-        {
-          "name": "Yutaka Sado",
-          "url": "https://open.spotify.com/artist/0Ge1IWbISUcsHxQVRmoshh"
-        },
-        {
-          "name": "Rafael Fingerlos",
-          "url": "https://open.spotify.com/artist/2WcK7Ux209Evnevy6xguCG"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124127,
-      "name": "Ewiger Wonnebrand",
-      "url": "https://open.spotify.com/track/0zv7pncyX3Te7pT9Ig5TOm"
-    },
-    {
-      "album": {
         "name": "Trace of Lament",
         "url": "https://open.spotify.com/album/7ChmEYG8ho2YiQWI6kSfs5"
       },
@@ -308082,6 +308052,36 @@
       "duration_ms": 341813,
       "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": IIp. Alles Verg\u00e4ngliche - Live",
       "url": "https://open.spotify.com/track/1TsZ99n9X8nAEZDwvbKQGF"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 8 in E-Flat Major, GMW 48 \"Symphony of a Thousand\" (Live at the Wiener Musikverein)",
+        "url": "https://open.spotify.com/album/0SEnnF1d1KCPXvWGln66wY"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Tonk\u00fcnstler-Orchester",
+          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
+        },
+        {
+          "name": "Yutaka Sado",
+          "url": "https://open.spotify.com/artist/0Ge1IWbISUcsHxQVRmoshh"
+        },
+        {
+          "name": "Rafael Fingerlos",
+          "url": "https://open.spotify.com/artist/2WcK7Ux209Evnevy6xguCG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124127,
+      "name": "Symphony No. 8 in E-Flat Major, GMW 48 \"Symphony of a Thousand\", Pt. 2 \"Schlussszene von Goethes Faust\": II. Ewiger Wonnebrand - Live at the Wiener Musikverein",
+      "url": "https://open.spotify.com/track/0zv7pncyX3Te7pT9Ig5TOm"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 603342,
+  "num_followers": 603304,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -759,18 +759,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+        "name": "Eso",
+        "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
+      "duration_ms": 242944,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -795,22 +799,18 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Eso",
-        "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
       },
       "artists": [
         {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        },
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 242944,
-      "name": "Eso",
-      "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Mejor Ya No Regreses",
+        "url": "https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 225344,
+      "name": "Mejor Ya No Regreses",
+      "url": "https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Mejor Ya No Regreses",
-        "url": "https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 225344,
-      "name": "Mejor Ya No Regreses",
-      "url": "https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5"
     },
     {
       "added_at": "2025-01-10 16:11:48",

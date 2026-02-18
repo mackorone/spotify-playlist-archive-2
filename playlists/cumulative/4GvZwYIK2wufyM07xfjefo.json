@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 181301,
       "name": "Snowflakes (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6O9pG0foR0bjrBgTeYRpdM"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 256814,
       "name": "Snowflakes Story (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1oMsN2jjKKTyRPkPhE8u7Z"
@@ -4137,6 +4137,28 @@
     },
     {
       "album": {
+        "name": "\u30c8\u30fc\u30c8\u30cd\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/6toeMkIV2TtEqzitwiSZOY"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30ac\u30c6\u30eb",
+          "url": "https://open.spotify.com/artist/2YIWx5tZSRNEi9cqNqhyUl"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "\u30c8\u30fc\u30c8\u30cd\u30cb\u30a2 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/4anNULcuyfSIivkr8nklSH"
+    },
+    {
+      "album": {
         "name": "\u30c9\u30e9\u30a4\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
         "url": "https://open.spotify.com/album/4kT4ppxo1nVy2c24Dob4b9"
       },
@@ -4262,6 +4284,28 @@
       "duration_ms": 254814,
       "name": "\u30cf\u30fc\u30d5\u30e0\u30fc\u30f3",
       "url": "https://open.spotify.com/track/5sXvoCPEKzkukDNpDVjmiK"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30c3\u30c9\u30a8\u30f3\u30c9\u75c7\u5019\u7fa4",
+        "url": "https://open.spotify.com/album/4yJPnR0ceicyXIY0dljIDw"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
+          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "\u30d0\u30c3\u30c9\u30a8\u30f3\u30c9\u75c7\u5019\u7fa4 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/4L6AsoB6Gtu7ONntUA6r6x"
     },
     {
       "album": {
@@ -4466,7 +4510,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 220805,
       "name": "\u30d4\u30c1\u30ab\u30fc\u30c8\u30c9\u30ed\u30c3\u30d7\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6pl9TqBuraGXsl0ZTWabyT"
@@ -5414,7 +5458,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 210996,
       "name": "\u5171\u72af\u8005 (feat. IA)",
       "url": "https://open.spotify.com/track/5GvVxGz1rzdUNOelmLb63h"
@@ -5560,6 +5604,28 @@
       "duration_ms": 248000,
       "name": "\u5341\u5e74\u5f8c\u306e\u79c1 \u5341\u5e74\u5f8c\u306e\u672a\u6765",
       "url": "https://open.spotify.com/track/1OZBcgqvnbK5aoUljojwni"
+    },
+    {
+      "album": {
+        "name": "\u53bb\u308a\u4eba\u9054\u306e\u30ef\u30eb\u30c4",
+        "url": "https://open.spotify.com/album/1EP39WGLXpeSEpBWUo5WOJ"
+      },
+      "artists": [
+        {
+          "name": "mothy",
+          "url": "https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u53bb\u308a\u4eba\u9054\u306e\u30ef\u30eb\u30c4 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/7BaIqOzWFn9eqLePH8hl9O"
     },
     {
       "album": {
@@ -6315,6 +6381,28 @@
     },
     {
       "album": {
+        "name": "\u611f\u50b7\u7656\u306e\u795e\u3055\u307e",
+        "url": "https://open.spotify.com/album/2iKP4TBvc4M85LCfSXvOdE"
+      },
+      "artists": [
+        {
+          "name": "Mushi-P",
+          "url": "https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "\u611f\u50b7\u7656\u306e\u795e\u3055\u307e (feat. \u521d\u97f3\u30df\u30af&MAYU)",
+      "url": "https://open.spotify.com/track/4BjPRPWzfGkky2jrgmjxxQ"
+    },
+    {
+      "album": {
         "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b",
         "url": "https://open.spotify.com/album/1o8d3p93iqW8wqnLq265Nr"
       },
@@ -6542,6 +6630,24 @@
       "duration_ms": 270234,
       "name": "\u6625\u3092\u5f85\u3064\u4eba (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7MwXqqRUI80QgoalRxuEYz"
+    },
+    {
+      "album": {
+        "name": "Red Guitar and Clear Red",
+        "url": "https://open.spotify.com/album/1iceOgTFTxDfmlWKoNuGfI"
+      },
+      "artists": [
+        {
+          "name": "nocchi1031",
+          "url": "https://open.spotify.com/artist/7MIq8tqPDBomlbtVgP3p3z"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287111,
+      "name": "\u6625\u6101 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/7jPA9SqoJqr4HzgRTjJJA7"
     },
     {
       "album": {
@@ -7854,7 +7960,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 273125,
       "name": "\u9b54\u6cd5\u306e\u666f\u8272 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6iZXZJhDEfm2zlnCxRFC94"

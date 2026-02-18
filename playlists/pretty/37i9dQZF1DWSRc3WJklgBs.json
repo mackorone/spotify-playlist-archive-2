@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1258518,
+  "num_followers": 1258475,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,26 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "Fear Me",
-        "url": "https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML"
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
       },
       "artists": [
         {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 166376,
-      "name": "Fear Me",
-      "url": "https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW"
+      "duration_ms": 233604,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -1239,26 +1243,22 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
+        "name": "Fear Me",
+        "url": "https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
         },
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
         }
       ],
-      "duration_ms": 233604,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+      "duration_ms": 166376,
+      "name": "Fear Me",
+      "url": "https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "High Like The Sky",
-        "url": "https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 182682,
-      "name": "High Like The Sky",
-      "url": "https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 152571,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
+        "name": "High Like The Sky",
+        "url": "https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 182682,
+      "name": "High Like The Sky",
+      "url": "https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
+        "name": "This Is Our Life",
+        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "This Is Our Life",
+      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 209696,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
-        "name": "This Is Our Life",
-        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "This Is Our Life",
-      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -2019,6 +2019,26 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 155210,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/7omszKcmeM2AvJ61dGoAsT"
       },
@@ -2055,26 +2075,6 @@
       "duration_ms": 178500,
       "name": "little mystery",
       "url": "https://open.spotify.com/track/0BVIfVKh1wkQjNK32GMHM2"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 155210,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -2251,6 +2251,26 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
         "name": "thinkin bout u",
         "url": "https://open.spotify.com/album/0F0x6VOHnHEWOiPhqAcEAK"
       },
@@ -2271,26 +2291,6 @@
       "duration_ms": 218854,
       "name": "thinkin bout u",
       "url": "https://open.spotify.com/track/7cKk67Ej2gfP1tnrcA6hje"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "ON&ON",
-        "url": "https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 243677,
-      "name": "ON&ON",
-      "url": "https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4sMMQskdXE5TJn62BHulqy"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 202935,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
+        "name": "ON&ON",
+        "url": "https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 243677,
+      "name": "ON&ON",
+      "url": "https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -2719,26 +2719,6 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "Holding Your Hand",
-        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 152603,
-      "name": "Holding Your Hand",
-      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
         "name": "eye2eye (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
@@ -2755,6 +2735,26 @@
       "duration_ms": 253714,
       "name": "eye2eye - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "25, spring",
-        "url": "https://open.spotify.com/album/2sVbAuD8grp9PsAp9ak1Ks"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 153471,
-      "name": "Safe In Your Love",
-      "url": "https://open.spotify.com/track/7n9Kvdjl3Mjvz6tQWXsNiz"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
         "name": "Fire Hell and Holy Water",
         "url": "https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 265132,
       "name": "Bittersweet Love (Hey Oh)",
       "url": "https://open.spotify.com/track/0RVKiAxra7NF8dCugGfYWu"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
+        "name": "25, spring",
+        "url": "https://open.spotify.com/album/2sVbAuD8grp9PsAp9ak1Ks"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 153471,
+      "name": "Safe In Your Love",
+      "url": "https://open.spotify.com/track/7n9Kvdjl3Mjvz6tQWXsNiz"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -2979,26 +2979,18 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "Love Yourself",
-        "url": "https://open.spotify.com/album/3EcBEvsqJw3naDNXY1VwDq"
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/3lfAb8OAMPOInRKO1BuqR7"
       },
       "artists": [
         {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "PINEO & LOEB",
-          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
-        },
-        {
-          "name": "Nina Nevra",
-          "url": "https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c"
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
         }
       ],
-      "duration_ms": 123687,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/28D5QdHykOQ96f55JN6Mbx"
+      "duration_ms": 162461,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4jnhZjWPyEeTS7VdiDC7Ui"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -3019,18 +3011,26 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/3lfAb8OAMPOInRKO1BuqR7"
+        "name": "Love Yourself",
+        "url": "https://open.spotify.com/album/3EcBEvsqJw3naDNXY1VwDq"
       },
       "artists": [
         {
-          "name": "heylucas",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "PINEO & LOEB",
+          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
+        },
+        {
+          "name": "Nina Nevra",
+          "url": "https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c"
         }
       ],
-      "duration_ms": 162461,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/4jnhZjWPyEeTS7VdiDC7Ui"
+      "duration_ms": 123687,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/28D5QdHykOQ96f55JN6Mbx"
     },
     {
       "added_at": "2026-02-13 16:11:52",
@@ -3151,26 +3151,6 @@
     {
       "added_at": "2026-02-13 16:11:52",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/0Vfyo3iWYetuk51mZoo9nj"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg"
-    },
-    {
-      "added_at": "2026-02-13 16:11:52",
-      "album": {
         "name": "Dream of You",
         "url": "https://open.spotify.com/album/43K4hlaKhlSAIRgUb5zMPg"
       },
@@ -3187,6 +3167,26 @@
       "duration_ms": 231290,
       "name": "Dream of You",
       "url": "https://open.spotify.com/track/2XAwf3OU5APIc4OIn62AjC"
+    },
+    {
+      "added_at": "2026-02-13 16:11:52",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0Vfyo3iWYetuk51mZoo9nj"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg"
     },
     {
       "added_at": "2026-02-13 16:11:52",

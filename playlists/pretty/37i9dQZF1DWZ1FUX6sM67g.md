@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Elsa y Elmar
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,601 likes - 62 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,568 likes - 62 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
 | 2 | [Te Dedico](https://open.spotify.com/track/1ZcdZQO5gzipPkjCxJ0uq6) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Dedico](https://open.spotify.com/album/6hG7Y2YydErFBY0jsg3sY1) | 3:45 |
-| 3 | [Tal para cual](https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Musica para Bailar](https://open.spotify.com/album/551URKJBJFWFQi8FDrcjxY) | 2:54 |
+| 3 | [Tal para cual](https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [MÚSICA PARA BAILAR](https://open.spotify.com/album/551URKJBJFWFQi8FDrcjxY) | 2:54 |
 | 4 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 |
 | 5 | [la patadita](https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [la patadita](https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u) | 2:28 |
 | 6 | [Vale la Pena](https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:27 |

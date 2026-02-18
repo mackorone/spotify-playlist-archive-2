@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,270 songs - 3 day 5 hr 53 min
+1,274 songs - 3 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-01-20 |  |
 | [Back by Popular Demand 1 1](https://open.spotify.com/track/1mkBeCkn7jb8ax2n3HylU7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to](https://open.spotify.com/album/7ucLe0eL8tclCz3FekcYyn) | 1:48 | 2022-08-17 |  |
 | [Back by Popular Demand 1 1 \- unmuffled](https://open.spotify.com/track/3QNBEvoWWdwQ1ai5s4wbPy) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to \(unmuffled\)](https://open.spotify.com/album/1hIumzZ2gdwGRjPkEN1YjV) | 1:48 | 2023-04-23 |  |
+| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2026-02-17 |  |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-10 | 2024-05-20 |
 | [Back Up To Earth](https://open.spotify.com/track/1OOC28cOjTfNd7fsZcbm7o) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:02 | 2021-11-03 |  |
 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-05-29 |  |
@@ -286,6 +287,7 @@
 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 | 2025-10-18 |  |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-25 |  |
 | [Dracula Teeth](https://open.spotify.com/track/1x9EqJg2UOhlhDAaTUyOIZ) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:51 | 2021-04-27 |  |
+| [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-17 |  |
 | [Drake](https://open.spotify.com/track/5tThXZ3ujCRFkTVo7AueDG) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:47 | 2021-08-16 |  |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-13 |  |
 | [Drawn Away](https://open.spotify.com/track/3NipzSKSELraJND5tcVlGV) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:32 | 2025-04-22 |  |
@@ -984,6 +986,7 @@
 | [Some Time Alone, Alone](https://open.spotify.com/track/1sEkQDvj0SurW8OUbQ8W3H) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2tvHcQfvtXvmFHIGyBiPVt) | 3:46 | 2023-01-09 |  |
 | [Someday](https://open.spotify.com/track/1sufemUrp56GbKAPVxU8iZ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/5yIIxsXGdQucmqHN82xGig) | 3:07 | 2020-12-26 |  |
 | [Somehow A Part Of Me Still Thinks You're Coming Home Because In My Dreams I Get To Kiss You Goodbye](https://open.spotify.com/track/06VeQCsGZM7sIAeRwSJHyE) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:04 | 2025-12-10 |  |
+| [Something \- From The Album "One Man Only"](https://open.spotify.com/track/6NLQeAXX1Z667AkJu0JV4c) | [Himesh Patel](https://open.spotify.com/artist/7mFiLle487vR83fsFmcKgt) | [Yesterday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58a9QAnhIUfHWyQCjcYUY7) | 2:48 | 2026-02-17 |  |
 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 | 2023-07-29 |  |
 | [Something To Rely On](https://open.spotify.com/track/2k2rzJvEZcNxFABtddUQ8N) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Coup De Grace](https://open.spotify.com/album/6aeQVwrZZu7wDpFMtTApyC) | 3:19 | 2021-01-24 |  |
 | [Song to the Siren ft\. Courtney Love](https://open.spotify.com/track/4ebM8xnMGL0JYU6F9Lp6iy) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Courtney Love](https://open.spotify.com/artist/4vI0xGbQl2cMnMiagUEBOj) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 2:59 | 2025-03-07 |  |
@@ -1098,6 +1101,7 @@
 | [The Jeweller's Hands](https://open.spotify.com/track/4PDPn7HosIycoXeoeibFc5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 5:44 | 2020-09-07 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2019-06-24 |  |
 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5gxZG7sHGi8k4zsfdF4DKG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/6L0Ddqho2KlutenNvRCOYc) | 3:12 | 2025-12-02 |  |
+| [The Long & Winding Road \- From The Album "One Man Only"](https://open.spotify.com/track/3TcsVIrEKXOqjgox8UPXQi) | [Himesh Patel](https://open.spotify.com/artist/7mFiLle487vR83fsFmcKgt) | [Yesterday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58a9QAnhIUfHWyQCjcYUY7) | 3:37 | 2026-02-17 |  |
 | [The Long And Winding Road \- Remastered 2009](https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:38 | 2022-08-04 |  |
 | [The Man on My Left Shoulder](https://open.spotify.com/track/2vUZjndOC0BiG41dZQSx05) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Voice Memos](https://open.spotify.com/album/3RB5ET1MaWKP7LQuYGzaZR) | 5:41 | 2022-06-15 |  |
 | [The Meeting Place](https://open.spotify.com/track/0RwXCC1iiZEfoKCtuGhrHS) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 3:57 | 2020-02-03 |  |

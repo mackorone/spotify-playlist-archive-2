@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Bops and LGBTQIA+ artists only\. Cover: Jennarie
+> Bops and LGBTQIA+ artists only\. Cover: Jules, Naomi
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,027 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,064 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 |
-| 2 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 3 | [Karma](https://open.spotify.com/track/1l7TcTEBgyDvrxpei7y3NW) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Karma](https://open.spotify.com/album/3Jjh7UANfX26kmkWSH2oJv) | 4:06 |
+| 2 | [Karma](https://open.spotify.com/track/1l7TcTEBgyDvrxpei7y3NW) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Karma](https://open.spotify.com/album/3Jjh7UANfX26kmkWSH2oJv) | 4:06 |
+| 3 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 4 | [Dance With My Demons](https://open.spotify.com/track/1IhbOzJ43gqG683rQHOxaw) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Dance With My Demons](https://open.spotify.com/album/2nABMq1ZNVsbH3fMSLXn0F) | 3:01 |
 | 5 | [birds & the bees](https://open.spotify.com/track/2aJtzhr5WgCoeUEHTNkA8C) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [up above](https://open.spotify.com/album/36Xjwbo8Q9AeaUWdegEh0L) | 4:42 |
 | 6 | [Girls Just Wanna](https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Girlhood](https://open.spotify.com/album/05KNazpljahHfx1ElDNujj) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [Sugar](https://open.spotify.com/track/1RtL0D6XycKWLCDt0pxpCf) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [When Are You Leaving?](https://open.spotify.com/album/073KfYmVFHQtkmh6zpTQ3N) | 4:02 |
 | 50 | [Fussy](https://open.spotify.com/track/4VA4eatY1J5Lhq6XjT3DVR) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1), [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Fussy](https://open.spotify.com/album/5RAnzcXg4fpMTbqQS9elVG) | 2:44 |
 
-Snapshot ID: `AAAAAMfBoBla8Nt9jKcQkA93AbUL2bFC`
+Snapshot ID: `AAAAAP+U+HvW0h7rT/EaxSMD4MTT3/Hl`

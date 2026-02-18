@@ -2,36 +2,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music from independent artists in the UK and Ireland\. Cover: Dirty Blond
+> The best new music from independent artists in the UK and Ireland\. Cover: JD Cliffe
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,103 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,110 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Empty Of You](https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Empty Of You](https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2) | 3:01 |
-| 2 | [Gap Teeth](https://open.spotify.com/track/19ci4coG2VYPGpS68eR1Ha) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Gap Teeth](https://open.spotify.com/album/41PQ9wRX5FAaz8iH2D50qu) | 3:13 |
-| 3 | [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 |
-| 4 | [Joy and Despair](https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy) | 4:00 |
-| 5 | [Sweet Relief](https://open.spotify.com/track/18fuBY1bNWMRgawQ7ThJxh) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Sweet Relief](https://open.spotify.com/album/48Gx7lfwIkvt0NnRDMPem5) | 4:06 |
-| 6 | [chicken bagel](https://open.spotify.com/track/0nom9dC1E9W0N0zFPbk37O) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [chicken bagel](https://open.spotify.com/album/3tWfAbJmRTF0w78zeQ9M3y) | 2:50 |
-| 7 | [break your own heart](https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [break your own heart](https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED) | 3:14 |
-| 8 | [It's Not You It's Him](https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [It's Not You It's Him](https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK) | 2:49 |
-| 9 | [How Hard Can It Be? \- Edit](https://open.spotify.com/track/1IgSfAgv8UyeAjbnmq8yyP) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [How Hard Can It Be?](https://open.spotify.com/album/7ayMfSIpAOXqMO4XXh6DmM) | 3:33 |
-| 10 | [Comfort Food](https://open.spotify.com/track/6RVhm0dPjzPANNCEY10eni) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Comfort Food](https://open.spotify.com/album/0fyAssiL3qDn2bD5m0mIi8) | 3:27 |
-| 11 | [Cannonball](https://open.spotify.com/track/124vsp9vtlJXFaCHVx5Drd) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Cannonball](https://open.spotify.com/album/3eKDetuZBRAG8bBVNCgpyG) | 3:48 |
-| 12 | [SHINIGAMI](https://open.spotify.com/track/4BpDKjq7lgHJs1PC69kpWh) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [SHINIGAMI](https://open.spotify.com/album/73G6D9UNozSCLCxfNnqx2u) | 1:58 |
-| 13 | [WHAT'S A GUY GOTTA DO](https://open.spotify.com/track/5LLqrWs1fOALBwTR1rXWvD) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [WHAT'S A GUY GOTTA DO](https://open.spotify.com/album/0kGAUwZtOMpDofSEmrIoNr) | 2:54 |
-| 14 | [Siren Song](https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Siren Song](https://open.spotify.com/album/7MjKeqKVTb6MU0TG4YaOng) | 2:57 |
-| 15 | [The Rain Isn't Over](https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [The Rain Isn't Over](https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB) | 3:02 |
-| 16 | [Safe Now](https://open.spotify.com/track/6EMdPtnLCYSsWBX0s8K0if) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Safe Now](https://open.spotify.com/album/4HCKn10cZMkTZ6wW1k6ULD) | 2:48 |
-| 17 | [never had a man DEMO](https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z) | [WESTGIRL](https://open.spotify.com/artist/0OPkfhvOowTQLXJ87vgIdD) | [never had a man DEMO](https://open.spotify.com/album/1YISTtmumiQlwIBPf2XICB) | 2:49 |
-| 18 | [I don't recognise you anymore](https://open.spotify.com/track/0Iy039DDtbSrPwLXO8rsru) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [I don't recognise you anymore](https://open.spotify.com/album/5WutVmK4nqhhoE3Gjs47qO) | 3:12 |
-| 19 | [selene](https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg) | [junechi](https://open.spotify.com/artist/5cmUKmvvNOeTPMN524dqIJ) | [selene](https://open.spotify.com/album/2Htwz1s7KGPR3po0H6zddo) | 3:52 |
-| 20 | [Marked Up](https://open.spotify.com/track/5IwRuwDHqwUEC1k60AATfy) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Marked Up](https://open.spotify.com/album/1jD2FnIbaPmrwPdHWzTf33) | 2:53 |
-| 21 | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/track/4ol6wLKnSSiu7MpPhYvIrk) | [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn) | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/album/7cvZTXuwZeTDPYKiNYSCmT) | 3:16 |
-| 22 | [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 |
-| 23 | [bubble](https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [bubble](https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9) | 3:01 |
-| 24 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
+| 1 | [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 |
+| 2 | [It's Not You It's Him](https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [It's Not You It's Him](https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK) | 2:49 |
+| 3 | [Empty Of You](https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Empty Of You](https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2) | 3:01 |
+| 4 | [Sweet Relief](https://open.spotify.com/track/18fuBY1bNWMRgawQ7ThJxh) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Sweet Relief](https://open.spotify.com/album/48Gx7lfwIkvt0NnRDMPem5) | 4:06 |
+| 5 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
+| 6 | [Siren Song](https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Siren Song](https://open.spotify.com/album/7MjKeqKVTb6MU0TG4YaOng) | 2:57 |
+| 7 | [Gap Teeth](https://open.spotify.com/track/19ci4coG2VYPGpS68eR1Ha) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Gap Teeth](https://open.spotify.com/album/41PQ9wRX5FAaz8iH2D50qu) | 3:13 |
+| 8 | [Joy and Despair](https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy) | 4:00 |
+| 9 | [chicken bagel](https://open.spotify.com/track/0nom9dC1E9W0N0zFPbk37O) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [chicken bagel](https://open.spotify.com/album/3tWfAbJmRTF0w78zeQ9M3y) | 2:50 |
+| 10 | [break your own heart](https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [break your own heart](https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED) | 3:14 |
+| 11 | [How Hard Can It Be? \- Edit](https://open.spotify.com/track/1IgSfAgv8UyeAjbnmq8yyP) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [How Hard Can It Be?](https://open.spotify.com/album/7ayMfSIpAOXqMO4XXh6DmM) | 3:33 |
+| 12 | [Comfort Food](https://open.spotify.com/track/6RVhm0dPjzPANNCEY10eni) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Comfort Food](https://open.spotify.com/album/0fyAssiL3qDn2bD5m0mIi8) | 3:27 |
+| 13 | [Cannonball](https://open.spotify.com/track/124vsp9vtlJXFaCHVx5Drd) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Cannonball](https://open.spotify.com/album/3eKDetuZBRAG8bBVNCgpyG) | 3:48 |
+| 14 | [SHINIGAMI](https://open.spotify.com/track/4BpDKjq7lgHJs1PC69kpWh) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [SHINIGAMI](https://open.spotify.com/album/73G6D9UNozSCLCxfNnqx2u) | 1:58 |
+| 15 | [WHAT'S A GUY GOTTA DO](https://open.spotify.com/track/5LLqrWs1fOALBwTR1rXWvD) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [WHAT'S A GUY GOTTA DO](https://open.spotify.com/album/0kGAUwZtOMpDofSEmrIoNr) | 2:54 |
+| 16 | [The Rain Isn't Over](https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [The Rain Isn't Over](https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB) | 3:02 |
+| 17 | [Safe Now](https://open.spotify.com/track/6EMdPtnLCYSsWBX0s8K0if) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Safe Now](https://open.spotify.com/album/4HCKn10cZMkTZ6wW1k6ULD) | 2:48 |
+| 18 | [never had a man DEMO](https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z) | [WESTGIRL](https://open.spotify.com/artist/0OPkfhvOowTQLXJ87vgIdD) | [never had a man DEMO](https://open.spotify.com/album/1YISTtmumiQlwIBPf2XICB) | 2:49 |
+| 19 | [I don't recognise you anymore](https://open.spotify.com/track/0Iy039DDtbSrPwLXO8rsru) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [I don't recognise you anymore](https://open.spotify.com/album/5WutVmK4nqhhoE3Gjs47qO) | 3:12 |
+| 20 | [selene](https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg) | [junechi](https://open.spotify.com/artist/5cmUKmvvNOeTPMN524dqIJ) | [selene](https://open.spotify.com/album/2Htwz1s7KGPR3po0H6zddo) | 3:52 |
+| 21 | [Marked Up](https://open.spotify.com/track/5IwRuwDHqwUEC1k60AATfy) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Marked Up](https://open.spotify.com/album/1jD2FnIbaPmrwPdHWzTf33) | 2:53 |
+| 22 | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/track/4ol6wLKnSSiu7MpPhYvIrk) | [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn) | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/album/7cvZTXuwZeTDPYKiNYSCmT) | 3:16 |
+| 23 | [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 |
+| 24 | [bubble](https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [bubble](https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9) | 3:01 |
 | 25 | [Midnight](https://open.spotify.com/track/7JNuZymSh8gk5E3N6HuKi0) | [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Midnight](https://open.spotify.com/album/5sb38xLfVOCHxguRskZy3K) | 5:14 |
 | 26 | [Boy U R](https://open.spotify.com/track/0YQpmBsYxkJtAhLS8jPN54) | [Yoji](https://open.spotify.com/artist/73lxtfVnwJhIIAAhLnMc10), [SJG](https://open.spotify.com/artist/3HCuzty6VgIh1FQsDKTbBp) | [Boy U R](https://open.spotify.com/album/2of9Ad3E6TqYUCmiR3mJJO) | 2:30 |
 | 27 | [I Am Obsessed](https://open.spotify.com/track/3OEwcMLOSCKljOb180fBRo) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I Am Obsessed](https://open.spotify.com/album/3z0apoiHWioSlbZ3ahueFp) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Moving Through](https://open.spotify.com/track/44FxiBvyj8RppaxFYcIJfD) | [Lewis McLaughlin](https://open.spotify.com/artist/6Th5PnKHXHqchkCl7pXeHz) | [Moving Through](https://open.spotify.com/album/04rYF4hFs59FTReJ5ppzEd) | 3:08 |
 | 100 | [Deja Vu](https://open.spotify.com/track/1T4170WYfcKAzS5OUFwUVc) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Deja Vu](https://open.spotify.com/album/3NqXg1xOJKKU9lKra6qqLt) | 2:03 |
 
-Snapshot ID: `AAAAAO6OLx9XxByfodJzQSkEtp+E/z2X`
+Snapshot ID: `AAAAADK3rtEdzKHj7t839ybuvbgn79bn`

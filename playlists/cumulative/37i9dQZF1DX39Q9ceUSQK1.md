@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: The Haunted Youth
 
-734 songs - 1 day 18 hr 44 min
+735 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [SPIDER](https://open.spotify.com/track/72rz0gf2wyg1wFcZ0qD5xi) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [SPIDER](https://open.spotify.com/album/5hltpFfRqXB2KML5a3adGh) | 2:41 | 2024-11-07 | 2025-01-24 |
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-05 | 2025-09-19 |
 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 | 2025-04-11 | 2025-07-05 |
+| [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 | 2026-02-17 |  |
 | [STACK UP THE REASONS](https://open.spotify.com/track/4WcGDz2rLPLzkHSy66T7LZ) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [STACK UP THE REASONS](https://open.spotify.com/album/3OEKR9OpwMN7lLdxEzSSxP) | 3:31 | 2026-01-30 |  |
 | [Stag Night](https://open.spotify.com/track/0FlDpHQzQNTTZ6YKSvx0sj) | [Jerry Spin](https://open.spotify.com/artist/47bHTDsGpklOVb5QpwHRM8) | [Stag Night](https://open.spotify.com/album/2bBw88dmctDVSaqt0urSvS) | 3:36 | 2025-12-16 |  |
 | [Stain](https://open.spotify.com/track/6iaO8JRf5gH2KwEVX8zXne) | [Arend Delabie](https://open.spotify.com/artist/26TO7XHp9aJeHjhlj0j804) | [Stain](https://open.spotify.com/album/4W9nPDHPuCRaBKDR01DRHK) | 3:14 | 2024-11-22 | 2025-02-08 |
@@ -635,7 +636,7 @@
 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 | 2025-06-20 | 2025-08-30 |
 | [The Mirror](https://open.spotify.com/track/2XuQYRC1eHBFZ1AER3EQbP) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [The Mirror](https://open.spotify.com/album/61cO8XhTmKxop0sic3zPIZ) | 3:03 | 2024-09-05 | 2024-10-05 |
 | [The Next Moment](https://open.spotify.com/track/2Q7b9g1siXYw5C3iAHQDDW) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [The Next Moment](https://open.spotify.com/album/26RctZifcu5zudepKeoh6M) | 3:46 | 2025-01-23 | 2025-04-05 |
-| [The Night \(I Wanna Know\)](https://open.spotify.com/track/2SufAz8tnLFegXflJCNT9K) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [The Night \(I Wanna Know\)](https://open.spotify.com/album/7e6npKI9Pg3506X4UDMY8X) | 2:35 | 2025-11-11 |  |
+| [The Night \(I Wanna Know\)](https://open.spotify.com/track/2SufAz8tnLFegXflJCNT9K) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [The Night \(I Wanna Know\)](https://open.spotify.com/album/7e6npKI9Pg3506X4UDMY8X) | 2:35 | 2025-11-11 | 2026-02-18 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-07 | 2025-04-18 |
 | [The Others](https://open.spotify.com/track/30J1M6E3h8s6fMKCJ7GbFX) | [Youri Lentjes](https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE) | [The Others](https://open.spotify.com/album/6LJVixJGpv3ZHniYkhtuhC) | 5:43 | 2025-09-18 | 2025-12-09 |
 | [The Ride Home](https://open.spotify.com/track/5SGlJZH10ztCskNdXORhbu) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Gift Horse](https://open.spotify.com/album/0IzNKyesKN0lCIO2e8kUDa) | 2:00 | 2024-09-05 | 2024-11-08 |

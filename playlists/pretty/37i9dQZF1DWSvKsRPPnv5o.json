@@ -1,6 +1,6 @@
 {
   "description": "Holdin' it down for the westside. Cover: 1 Umbrella",
-  "num_followers": 759176,
+  "num_followers": 759161,
   "original_name": "Westside",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2026-02-14 05:00:06",
       "album": {
-        "name": "Reckless",
+        "name": "Reckless (feat. Static Major)",
         "url": "https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym"
       },
       "artists": [
@@ -22,10 +22,14 @@
         {
           "name": "Bino Rideaux",
           "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
       "duration_ms": 138533,
-      "name": "Reckless",
+      "name": "Reckless (feat. Static Major)",
       "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
     },
     {

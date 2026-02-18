@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,602 songs - 3 day 18 hr 54 min
+1,604 songs - 3 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [GAME](https://open.spotify.com/track/4yW4xDZJLJUUdDNC0gdsNU) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [GAME](https://open.spotify.com/album/4VJRULO2JnD5QtPsXGivEx) | 2:49 | 2024-03-26 | 2024-04-11 |
 | [Gaze](https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Gaze](https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50) | 4:01 | 2023-10-24 | 2023-11-29 |
 | [Gerbera](https://open.spotify.com/track/0WpodCrGhNjKu87WxMUkFK) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Gerbera](https://open.spotify.com/album/5bW6MAWuSTKFk7cuMLOETR) | 3:50 | 2022-07-14 | 2022-07-27 |
-| [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 | 2025-07-15 |  |
+| [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 | 2025-07-15 | 2026-02-18 |
 | [Gingiragin](https://open.spotify.com/track/0yMLnG5bKL8HWHnp6Jj5oG) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Gingiragin](https://open.spotify.com/album/6xznymn8xYfw4SBmwLb10L) | 3:01 | 2023-03-30 | 2023-05-24 |
 | [Girl.](https://open.spotify.com/track/2uH4sSVxfRDBhsg1YekBBm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Girl.](https://open.spotify.com/album/5jR5aEVdxEXOMRf9Mp6uIK) | 3:25 | 2022-06-09 | 2022-07-24 |
 | [Give Me Hack.](https://open.spotify.com/track/4YYwfHJXmbd4JPqnzxp2fN) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Give Me Hack.](https://open.spotify.com/album/0kwRgklTnQDN8MXbGjkkbe) | 2:33 | 2023-10-12 | 2023-10-25 |
@@ -366,6 +366,7 @@
 | [NEZUMI Scheme](https://open.spotify.com/track/7IWwWWak1Ebp7ni7PTfhMx) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [NEZUMI Scheme](https://open.spotify.com/album/2tnTVBJQqfKUbO2Wf1H6A4) | 2:49 | 2022-11-22 | 2022-12-16 |
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-07-26 | 2022-07-29 |
 | [Nightmare Parade 2020s](https://open.spotify.com/track/4CAmPgwEWyLK8Y0zSpfdB5) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Nightmare Parade 2020s](https://open.spotify.com/album/1SfA0H357thgwx3buXvRDY) | 2:52 | 2022-10-06 | 2022-10-12 |
+| [No Fake Talk](https://open.spotify.com/track/7fVCppigrVZ2IPZqoq3otO) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [No Fake Talk](https://open.spotify.com/album/7l1LbVyU3Yfm1UwnwRyn69) | 2:59 | 2026-02-17 |  |
 | [NO PAIN](https://open.spotify.com/track/5yQlmRtLA28etk1Hj2zwpj) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [NO PAIN](https://open.spotify.com/album/4iVc9pwhdPQbBRhjm8JNMo) | 2:25 | 2024-12-10 | 2025-01-08 |
 | [No title \- Seaside Remix](https://open.spotify.com/track/3EVQv88JzEKwUf4gSyAtZm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [No title \- Seaside Remix](https://open.spotify.com/album/09ZfLnBpF3nmeLqFr8avZg) | 4:12 | 2022-08-16 | 2022-08-31 |
 | [noise](https://open.spotify.com/track/1T94Gaj6aRcBFr40xb8juN) | [oshina](https://open.spotify.com/artist/6uPDUcO9dIgZ6b75Z17XvA) | [noise](https://open.spotify.com/album/2hkE3tikBMrRNwlm66v3ml) | 2:44 | 2023-01-17 | 2023-01-19 |
@@ -564,6 +565,7 @@
 | [Virtual Castle](https://open.spotify.com/track/2iz30S6Pm83GnazDzniSYR) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Virtual Castle](https://open.spotify.com/album/6hs0jB18KMTOQ3P7OcNb3T) | 3:36 | 2022-06-21 | 2022-07-27 |
 | [Virtualistic Summer](https://open.spotify.com/track/3Z2MCc9s2fDxNYqvhOKqXk) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [Virtualistic Summer](https://open.spotify.com/album/3CjZiAFiGUvZWI0ZhWQ2Ew) | 4:20 | 2023-01-17 | 2023-01-27 |
 | [Virtualistic Summer](https://open.spotify.com/track/75hbXnneq2ySdPKWT32m2x) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [Virtualistic Summer](https://open.spotify.com/album/5bROdBeD24ujgnbbZTAQ93) | 4:20 | 2023-01-17 | 2023-01-19 |
+| [Vivarium](https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Vivarium](https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML) | 4:03 | 2026-02-17 |  |
 | [Volcano](https://open.spotify.com/track/20KIYq6fCX39NvcZeIFr7o) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Volcano](https://open.spotify.com/album/2EAlgzQTAd35KDAZuhN8cD) | 2:38 | 2022-10-04 | 2022-10-19 |
 | [VS](https://open.spotify.com/track/1q0kEuBTOCmRJ2B7o4sESz) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [VS](https://open.spotify.com/album/1CNntUhNcB7ubvHncuVDcu) | 2:45 | 2025-05-27 | 2025-06-04 |
 | [Wakuseitsushin feat\. Mel](https://open.spotify.com/track/5sPyRxOdmBXoONmkIXAUkK) | [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [Wakuseitsushin feat\. Mel](https://open.spotify.com/album/1WqErc2gluGCawMMWoaGtf) | 4:16 | 2023-11-29 | 2023-12-20 |
@@ -1116,7 +1118,7 @@
 | [不的](https://open.spotify.com/track/5OMmiRcQnIZdBtUKTcSMLS) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [Collage KAMITSUBAKI CITY UNDER CONSTRUCTION NARRATIVE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3IeBVCBM6YCsboNIpWQVCt) | 4:44 | 2024-02-13 | 2024-02-21 |
 | [不的](https://open.spotify.com/track/5xyCJY814Xoj2NRsm897mJ) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [NEW ROMANCER2](https://open.spotify.com/album/2aig4lobvtGAVzneCVSwyt) | 4:46 | 2024-02-13 | 2024-02-15 |
 | [世界で一番綺麗な夜](https://open.spotify.com/track/2u1MUroaxHgkaqMM3Es15L) | [深夜枠](https://open.spotify.com/artist/6RdcU4lC987g4qquPd3KyT) | [世界で一番綺麗な夜](https://open.spotify.com/album/1hwsS3oD8pIKR6k0gsXXOG) | 4:07 | 2022-06-09 | 2022-06-15 |
-| [世界の終わり](https://open.spotify.com/track/0yhHJISNoqaekTVJVURfXS) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [EVER GREEN](https://open.spotify.com/album/7d2EM3xspUHhHoFUVoVV3u) | 2:44 | 2026-02-10 |  |
+| [世界の終わり](https://open.spotify.com/track/0yhHJISNoqaekTVJVURfXS) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [EVER GREEN](https://open.spotify.com/album/7d2EM3xspUHhHoFUVoVV3u) | 2:44 | 2026-02-10 | 2026-02-18 |
 | [世界は美しいはずなんだ](https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz\. / 世界は美しいはずなんだ / スモーキーヒロイン](https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf) | 3:46 | 2022-06-09 | 2022-07-28 |
 | [世界を射抜いて](https://open.spotify.com/track/3doh9ovpudSkasN8mW0mnz) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [世界を射抜いて](https://open.spotify.com/album/7wAz3uZOdusfHucBgWNASD) | 3:42 | 2024-04-16 | 2024-04-24 |
 | [中毒性のチュウ](https://open.spotify.com/track/3hm6IL84H9yNoth64sIgDx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [中毒性のチュウ](https://open.spotify.com/album/1Up7ACJBmb4EWm3HFfkGo2) | 3:33 | 2023-07-13 | 2023-07-21 |

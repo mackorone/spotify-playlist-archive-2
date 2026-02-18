@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Idhayam Murali",
-  "num_followers": 186985,
+  "num_followers": 187146,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM69L/8hA979z3qg6+ZjKD1WdyfB",
+  "snapshot_id": "AAAAAA+zyL7KEH3dfz1iIRb+zecS7J/p",
   "tracks": [
     {
       "added_at": "2026-01-29 07:07:59",
@@ -225,6 +225,26 @@
       "url": "https://open.spotify.com/track/0ckcTjwiL6Vwrn2jT3ZkaD"
     },
     {
+      "added_at": "2026-02-17 10:23:37",
+      "album": {
+        "name": "Couple Friendly (Tamil)",
+        "url": "https://open.spotify.com/album/7zwM6LYDa0wLTE0ypDBJnq"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Karthik Manickavasakam",
+          "url": "https://open.spotify.com/artist/3YkUMVh7nPai0811Q22WPO"
+        }
+      ],
+      "duration_ms": 185062,
+      "name": "Nerungatta",
+      "url": "https://open.spotify.com/track/13xOVzImUS6QDlHlAH2czt"
+    },
+    {
       "added_at": "2025-10-16 06:28:55",
       "album": {
         "name": "Kannukulla (From \"Dude\")",
@@ -295,6 +315,30 @@
       "duration_ms": 209333,
       "name": "Pattuma (From \"Love Insurance Kompany\")",
       "url": "https://open.spotify.com/track/5oieVOqzZzYEgmrOis1gbU"
+    },
+    {
+      "added_at": "2026-02-17 10:23:37",
+      "album": {
+        "name": "Couple Friendly (Tamil)",
+        "url": "https://open.spotify.com/album/7zwM6LYDa0wLTE0ypDBJnq"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Sabarivaasan Shanmugam",
+          "url": "https://open.spotify.com/artist/1u8w0XLdPe1srpZLa11ZSS"
+        }
+      ],
+      "duration_ms": 204896,
+      "name": "Neel Vaaname",
+      "url": "https://open.spotify.com/track/7MU1QuYJkZ2UTK2zXGjle9"
     },
     {
       "added_at": "2026-02-05 15:20:44",
@@ -399,6 +443,26 @@
       "duration_ms": 196431,
       "name": "Beer Song",
       "url": "https://open.spotify.com/track/03yx9C5Ouy5oopwskskjSv"
+    },
+    {
+      "added_at": "2026-02-17 10:23:37",
+      "album": {
+        "name": "Couple Friendly (Tamil)",
+        "url": "https://open.spotify.com/album/7zwM6LYDa0wLTE0ypDBJnq"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Vignesh Srikanth",
+          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "Oar Thoorale",
+      "url": "https://open.spotify.com/track/2QARTBUKy2Sm0B5DqsoqVs"
     },
     {
       "added_at": "2025-10-06 07:00:36",
@@ -1157,26 +1221,6 @@
       "url": "https://open.spotify.com/track/68lCUcwumQzfvc6zqjrzbu"
     },
     {
-      "added_at": "2025-06-04 14:43:11",
-      "album": {
-        "name": "Retro [TAMIL]",
-        "url": "https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 261049,
-      "name": "Kannadi Poove",
-      "url": "https://open.spotify.com/track/3MELuNUntwMZwsNK9zNxJi"
-    },
-    {
       "added_at": "2025-06-11 13:01:25",
       "album": {
         "name": "Jillelama (From \"Kiss\")",
@@ -1203,54 +1247,6 @@
       "duration_ms": 212727,
       "name": "Jillelama (From \"Kiss\")",
       "url": "https://open.spotify.com/track/3RlgP4udYY9ytZmvlaKdXI"
-    },
-    {
-      "added_at": "2025-06-09 14:35:31",
-      "album": {
-        "name": "Jodi Porutham (From \"Aanpaavam Pollathathu\")",
-        "url": "https://open.spotify.com/album/6yKI0XWMoyI3QzpaJgPCHi"
-      },
-      "artists": [
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
-          "name": "Lakshmikanth M",
-          "url": "https://open.spotify.com/artist/6Goy3epqmrsTbPAipjhPKA"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        }
-      ],
-      "duration_ms": 225150,
-      "name": "Jodi Porutham (From \"Aanpaavam Pollathathu\")",
-      "url": "https://open.spotify.com/track/6UWIyLajJsVqo099jr5LcL"
-    },
-    {
-      "added_at": "2025-06-04 14:43:11",
-      "album": {
-        "name": "Tourist Family (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Aa5VLvyUn2lpKVnG2PaDe"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Mugai Mazhai",
-      "url": "https://open.spotify.com/track/0XFlAzCP6N036svSRGwH6m"
     }
   ],
   "unique_name": "Latest Love Tamil",

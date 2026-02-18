@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: pedro lanches, YMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,699 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,604 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 10 | [Descansadão](https://open.spotify.com/track/74rzS1YhGpXzqb00TF1BjS) | [Deluce](https://open.spotify.com/artist/1Ud5u4n6HkiJkAQDzUQVfF), [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [Descansadão](https://open.spotify.com/album/5xwO7zqxJBdv17d0jrj6sJ) | 3:50 |
 | 11 | [Aguça](https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK) | [André Loyola](https://open.spotify.com/artist/5F591AtA6bo4HzuzRni12V) | [Aguça](https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB) | 2:52 |
 | 12 | [Casca](https://open.spotify.com/track/7y4aQ9TBqOot08yUtglTE1) | [Marcelo Callado](https://open.spotify.com/artist/5PPXLAl96nllrxUESPD64E), [Guilherme Lirio](https://open.spotify.com/artist/0OSjVMA23gcjqqm6lkpgFe) | [Casca](https://open.spotify.com/album/7MElLSV72WuGzovGuuofil) | 3:54 |
-| 13 | [Ensalada de Verano](https://open.spotify.com/track/7qwBPJeOXTYhSxRPOfVGWs) | [Maria Luma](https://open.spotify.com/artist/0kPtoMbZBliIFjgrbj8ONC) | [Ensalada de Verano](https://open.spotify.com/album/5vFfW1UcJQPUjVhJEfgb5I) | 3:00 |
+| 13 | [Ensalada de Verano](https://open.spotify.com/track/7qwBPJeOXTYhSxRPOfVGWs) | [Mary Olivetti](https://open.spotify.com/artist/23kb4zi6EJe9OsuSSR6Gth), [Maria Luma](https://open.spotify.com/artist/0kPtoMbZBliIFjgrbj8ONC) | [Ensalada de Verano](https://open.spotify.com/album/5vFfW1UcJQPUjVhJEfgb5I) | 3:00 |
 | 14 | [Dona Veridiana](https://open.spotify.com/track/1tIVCufxDH7CkTLd1kLLmY) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [O Velho](https://open.spotify.com/album/0N0pg3yRDgJmTftrRpXIkP) | 2:45 |
 | 15 | [Me Pede](https://open.spotify.com/track/3uTUUjzDliYIEpHi1YSLJC) | [Karla Hill](https://open.spotify.com/artist/06OHroQpGdXwvdSJIfJdMC) | [Me Pede](https://open.spotify.com/album/0gnhQV4j0nQh4NvoNVHfad) | 2:59 |
 | 16 | [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 |

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 364209,
+  "num_followers": 364181,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/52ZbwJMz9J7ZoqjxoFIUjs"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/56NV29o2ezN1IgV2liRIqq"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "Hist\u00f3ria para dois",
         "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 198926,
       "name": "Hist\u00f3ria para dois",
       "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/52ZbwJMz9J7ZoqjxoFIUjs"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/56NV29o2ezN1IgV2liRIqq"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "baseado em surtos reais",
-        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "exausta",
-      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "Me Deixa Partir",
         "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 174107,
       "name": "Me Deixa Partir",
       "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "baseado em surtos reais",
+        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
+      },
+      "artists": [
+        {
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+        }
+      ],
+      "duration_ms": 139726,
+      "name": "exausta",
+      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "AMOR PROIBIDO",
-        "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
-      },
-      "artists": [
-        {
-          "name": "Gael Vicci",
-          "url": "https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw"
-        },
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 142926,
-      "name": "AMOR PROIBIDO",
-      "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "O Motivo",
         "url": "https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 184019,
       "name": "O Motivo",
       "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "AMOR PROIBIDO",
+        "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
+      },
+      "artists": [
+        {
+          "name": "Gael Vicci",
+          "url": "https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw"
+        },
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 142926,
+      "name": "AMOR PROIBIDO",
+      "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
     },
     {
       "added_at": "2026-02-06 03:00:06",

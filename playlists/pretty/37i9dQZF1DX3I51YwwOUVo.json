@@ -1,6 +1,6 @@
 {
   "description": "Get to know our 2026 Artists to Watch.",
-  "num_followers": 9190,
+  "num_followers": 9192,
   "original_name": "Artists To Watch 2026",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
+        "name": "Happy For You",
+        "url": "https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "duration_ms": 171686,
+      "name": "Happy For You",
+      "url": "https://open.spotify.com/track/49s2t57uSy4eN8goASFrD9"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
         "name": "WHIM WHAMIEE",
         "url": "https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 141538,
       "name": "WHIM WHAMIEE",
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
-        "name": "Happy For You",
-        "url": "https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb"
-      },
-      "artists": [
-        {
-          "name": "Zach John King",
-          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
-        }
-      ],
-      "duration_ms": 171686,
-      "name": "Happy For You",
-      "url": "https://open.spotify.com/track/49s2t57uSy4eN8goASFrD9"
     },
     {
       "added_at": "2026-01-12 16:30:22",

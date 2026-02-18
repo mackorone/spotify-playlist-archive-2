@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 155 songs - 8 hr 4 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 157 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 153 | [COME GET YOUR GIRL](https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [COME GET YOUR GIRL](https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl) | 3:41 |
 | 154 | [Sweet Blue Moon](https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Sweet Blue Moon](https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL) | 2:50 |
 | 155 | [The Last Song Of The Moon](https://open.spotify.com/track/0GZBewpkqjQHewlpGod48N) | [Le Monk](https://open.spotify.com/artist/2BX1nNrrRMfJCYvs3RwDX3) | [The Last Song Of The Moon](https://open.spotify.com/album/4yGHbD5qjrg5jIw7UCeeEv) | 3:06 |
+| 156 | [Electric Night](https://open.spotify.com/track/54ufnTqGX7Ur20FnoQ4mQp) | [Verena](https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y) | [Electric Night](https://open.spotify.com/album/5fx6zYSU38qN9DiSL4J9Lo) | 3:26 |
+| 157 | [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 |
 
-Snapshot ID: `AAAVoRGOV3677FSWVGdyze/tzh7oF/gd`
+Snapshot ID: `AAAVo0yoj9oLO9WMlrRKAyTRZGG/DKd/`

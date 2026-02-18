@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Electric Night",
+        "url": "https://open.spotify.com/album/5fx6zYSU38qN9DiSL4J9Lo"
+      },
+      "artists": [
+        {
+          "name": "Verena",
+          "url": "https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206630,
+      "name": "Electric Night",
+      "url": "https://open.spotify.com/track/54ufnTqGX7Ur20FnoQ4mQp"
+    },
+    {
+      "album": {
         "name": "Engaveta",
         "url": "https://open.spotify.com/album/2LYusTnY2bBjsLAx514ng5"
       },
@@ -2062,6 +2080,24 @@
       "duration_ms": 242548,
       "name": "Qu\u00e9",
       "url": "https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V"
+    },
+    {
+      "album": {
+        "name": "Rediscover",
+        "url": "https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan"
+      },
+      "artists": [
+        {
+          "name": "SurfingDJs",
+          "url": "https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "Rediscover",
+      "url": "https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP"
     },
     {
       "album": {

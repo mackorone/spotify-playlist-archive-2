@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : San T
 
-280 songs - 15 hr 1 min
+281 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Power \(From "Jai Bhim"\)](https://open.spotify.com/track/03EWeCL6DT7g5725PB6Yvv) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Power \(From "Jai Bhim"\)](https://open.spotify.com/album/0enZQ3uBeFAATgU3yQh6xz) | 3:38 | 2022-02-08 | 2023-05-13 |
 | [Pulikal Arambam](https://open.spotify.com/track/3ybMzrE3I9vSFdYPHFgAPb) | [B&K Vibrant Vibes](https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR) | [Roar of the Veeran: The Tiger Chronicles](https://open.spotify.com/album/2aJK22DHqp7xtPIxioPZV2) | 2:49 | 2025-05-30 | 2025-07-29 |
 | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/album/1FVH2D7UkI5LNhim5CshPS) | 3:30 | 2024-07-05 | 2025-10-10 |
+| [Rap Battle \(From "Dashamakan"\) \[TAMIL\]](https://open.spotify.com/track/2Zt1y2IkkorL0la28amBDe) | [Britto Michael](https://open.spotify.com/artist/15LdHQmw4fhQb4UbA76TZW), [Mc Rude](https://open.spotify.com/artist/6xS34wH493ApP7EgV76461), [Mj Suriya](https://open.spotify.com/artist/5QYPxGeVCe0pqa56U9M85n), [Vj Vijay](https://open.spotify.com/artist/3cUh2cpFC1HW3g7tbja9WC), [Smile Tupakeys](https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA), [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [KONGU THAMIZHA](https://open.spotify.com/artist/0sPiA4fskNZ8CDeZIWYwBw) | [Rap Battle \(From "Dashamakan"\) \[TAMIL\]](https://open.spotify.com/album/4TTXWkOELoST9LdRLgMuAC) | 5:25 | 2026-02-17 |  |
 | [Ratha Vaada](https://open.spotify.com/track/68OHTUe2PKRWdMIfchm9X8) | [Tha Anbu](https://open.spotify.com/artist/3yg7QLoFurlYyudmr28RrM) | [Ratha Vaada](https://open.spotify.com/album/6XVhUVNsirS9PJDKPjeRHc) | 2:22 | 2025-05-02 | 2025-12-31 |
 | [RATS](https://open.spotify.com/track/1B8F57w0px2VQnt3osOClz) | [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL), [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [RATS](https://open.spotify.com/album/7vARACVxzyKVLTp19WPyrv) | 1:56 | 2025-12-10 |  |
 | [Rekka Rekka \- From "Bison Kaalamaadan"](https://open.spotify.com/track/2lyodB0HLF9KWD8lR4EA4J) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [Mari Selvaraj](https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF) | [Rekka Rekka \(From "Bison Kaalamaadan"\)](https://open.spotify.com/album/7Br0FidswToB3vRdj9H8Nl) | 5:03 | 2025-09-16 |  |

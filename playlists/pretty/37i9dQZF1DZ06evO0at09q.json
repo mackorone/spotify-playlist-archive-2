@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAAA/K8LpEqeOOcE/1guG0bso",
+  "snapshot_id": "aZJeAAAAAADJIFcvxus8yKlK3Kmln33R",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Therapy EP",
+        "url": "https://open.spotify.com/album/0FUzCN0xgPAaKTPHfcjEtV"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Technical",
+      "url": "https://open.spotify.com/track/2WmqQRfjlBkvh1FQ3eIyXp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elise",
         "url": "https://open.spotify.com/album/1l4tCggsaDZ8s0bjSymMz8"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 225120,
       "name": "You Right",
       "url": "https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Therapy EP",
-        "url": "https://open.spotify.com/album/0FUzCN0xgPAaKTPHfcjEtV"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Technical",
-      "url": "https://open.spotify.com/track/2WmqQRfjlBkvh1FQ3eIyXp"
     },
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1KhopIaV113en6vdzKxWGZ"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7Cpc4zbO1DShE6eikGETd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/222D7CUNZUVg7QhXJa9MEl"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 230400,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0Lz7iCYjituzyqrZardCyy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1KhopIaV113en6vdzKxWGZ"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7Cpc4zbO1DShE6eikGETd9"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrosanct",
-        "url": "https://open.spotify.com/album/6Bpq6zlpy2N95575OLGt19"
-      },
-      "artists": [
-        {
-          "name": "ANGELZ",
-          "url": "https://open.spotify.com/artist/7tbMem2T4rnyYKXiUYJPCn"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 234430,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6kpRAcNQkOLz32LiSAp68I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/70Y499sKPQoo4qVMdT7RwD"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 153750,
       "name": "Like This",
       "url": "https://open.spotify.com/track/4A2vWdaWh7cF3SBguQm9l3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sacrosanct",
+        "url": "https://open.spotify.com/album/6Bpq6zlpy2N95575OLGt19"
+      },
+      "artists": [
+        {
+          "name": "ANGELZ",
+          "url": "https://open.spotify.com/artist/7tbMem2T4rnyYKXiUYJPCn"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 234430,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6kpRAcNQkOLz32LiSAp68I"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Modern Mechanics",
+        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "See It Through",
         "url": "https://open.spotify.com/album/4dmB32HMdTmKtpTkPwjayA"
       },
@@ -519,6 +535,26 @@
       "duration_ms": 256721,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1FtuKCXTuyoYpkR8VTsvmu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf"
     },
     {
       "added_at": null,
@@ -555,26 +591,6 @@
       "duration_ms": 228571,
       "name": "Lights Go Black",
       "url": "https://open.spotify.com/track/5bvq1x9gt9VdkYzccaE1YC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP"
-      },
-      "artists": [
-        {
-          "name": "Jacknife",
-          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Mechanics",
-        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workshop",
         "url": "https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC"
       },
@@ -648,9 +648,25 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 262677,
-      "name": "Submarine",
-      "url": "https://open.spotify.com/track/1hgaNjE0jepk3XviaXD62M"
+      "duration_ms": 198095,
+      "name": "Outta Nothing",
+      "url": "https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6pqnK4wrfwhbEpGF5hI9Sv"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
     },
     {
       "added_at": null,
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weird Times",
-        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
+        "name": "The Boat House 2019 Sampler",
+        "url": "https://open.spotify.com/album/15eiIsoLMskLCzWZZT0gjh"
       },
       "artists": [
         {
@@ -684,25 +700,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 243809,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6pqnK4wrfwhbEpGF5hI9Sv"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
+      "duration_ms": 230400,
+      "name": "Pop - Original Mix",
+      "url": "https://open.spotify.com/track/5SaqN8fWIBuWxLSNLbF2J9"
     },
     {
       "added_at": null,
@@ -716,9 +716,25 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Outta Nothing",
-      "url": "https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX"
+      "duration_ms": 262677,
+      "name": "Submarine",
+      "url": "https://open.spotify.com/track/1hgaNjE0jepk3XviaXD62M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weird Times",
+        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj"
     },
     {
       "added_at": null,
@@ -743,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B2TF (feat. JC Stormz)",
-        "url": "https://open.spotify.com/album/4952qWUyIqIZopeUc9MK2p"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "JC Stormz",
-          "url": "https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "B2TF (feat. JC Stormz)",
-      "url": "https://open.spotify.com/track/7bp6FEBpMRPS3Iak0hjA8c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa"
       },
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
+        "name": "B2TF (feat. JC Stormz)",
+        "url": "https://open.spotify.com/album/4952qWUyIqIZopeUc9MK2p"
       },
       "artists": [
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "JC Stormz",
+          "url": "https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV"
         }
       ],
-      "duration_ms": 232400,
-      "name": "Dimensions",
-      "url": "https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z"
+      "duration_ms": 230400,
+      "name": "B2TF (feat. JC Stormz)",
+      "url": "https://open.spotify.com/track/7bp6FEBpMRPS3Iak0hjA8c"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Mechanics",
-        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
       },
       "artists": [
         {
@@ -824,49 +824,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Pretty Deep",
-      "url": "https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Night Bass: Vol. 9",
-        "url": "https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Lose My Control",
-      "url": "https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/3ZYOZCzjTwjctJ10mJ87S9"
-      },
-      "artists": [
-        {
-          "name": "Golf Clap",
-          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
-        }
-      ],
-      "duration_ms": 244761,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/6neubvtqUejjgg8i0oupR8"
+      "duration_ms": 232400,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z"
     },
     {
       "added_at": null,
@@ -919,6 +879,38 @@
       "duration_ms": 227441,
       "name": "The One",
       "url": "https://open.spotify.com/track/2csADrGfCpIF81Ce8cD6UO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Night Bass: Vol. 9",
+        "url": "https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Lose My Control",
+      "url": "https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Modern Mechanics",
+        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Pretty Deep",
+      "url": "https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k"
     }
   ],
   "unique_name": "This Is Qlank",

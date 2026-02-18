@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 425 songs - 1 day 0 hr 19 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 426 songs - 1 day 0 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -433,5 +433,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 423 | [Spot Late](https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [Spot Late](https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE) | 3:03 |
 | 424 | [Medianoche](https://open.spotify.com/track/4frNQ6DvaOl96cemtTgW7q) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Medianoche](https://open.spotify.com/album/5zi9SzPGFgLazFD7C9ICym) | 3:49 |
 | 425 | [eyecandy](https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW) | [Roji](https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc) | [eyecandy](https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69) | 2:00 |
+| 426 | [Wozwald](https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x), [NILFRUITS](https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU) | [Wozwald](https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv) | 4:52 |
 
-Snapshot ID: `AAAJ4UYdiCRtd/p4cjNe3+Ng3Gg46FZO`
+Snapshot ID: `AAAJ4vbCgI1PtZirH8jhUXNMGXKC95E9`

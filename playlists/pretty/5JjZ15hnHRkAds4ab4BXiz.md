@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 577 songs - 1 day 12 hr 39 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 613 songs - 1 day 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -585,5 +585,41 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 575 | [Between Love & Hate](https://open.spotify.com/track/5OmumaYiHYXUsYZPGLFTYJ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:16 |
 | 576 | [Better Than Heaven](https://open.spotify.com/track/7m5COSlWIFdJ42fvpviFvr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 4:20 |
 | 577 | [Suffer Little Children \- 2011 Remaster](https://open.spotify.com/track/3nk8Vxo0BuovX4UtvuvcHR) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 5:30 |
+| 578 | [Dark Clouds](https://open.spotify.com/track/5LwcPc6IPUqHUlhxh00Yaz) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Retreat](https://open.spotify.com/album/0eJO7iAUWyekyWjUzMqVfJ) | 2:57 |
+| 579 | [Something Clicked and I Fell Off the Edge](https://open.spotify.com/track/1mpZq5CzWmC0272yUvJx4I) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Retreat](https://open.spotify.com/album/0eJO7iAUWyekyWjUzMqVfJ) | 2:29 |
+| 580 | [The World Was a Mess but His Hair Was Perfect](https://open.spotify.com/track/22Hd6pAlG4DaUiVJjgduDi) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 5:02 |
+| 581 | [Little Superstitions](https://open.spotify.com/track/3pwNvsFKMrE0FkKY17MlGM) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:51 |
+| 582 | [We Danced Together](https://open.spotify.com/track/4jUqjHS9fOjGYNGzG2Txsr) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:53 |
+| 583 | [Trouble](https://open.spotify.com/track/50cVQTHFurumpMYtdBMy4L) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:15 |
+| 584 | [Suspicious Eyes](https://open.spotify.com/track/15Y5nIGFignwUX1bJD5e7A) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:48 |
+| 585 | [On a Mission](https://open.spotify.com/track/5NUD9Te4zpqIj91B6dCiNf) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:06 |
+| 586 | [Down With Moonlight](https://open.spotify.com/track/048s1Kd6ZdGRR1TloCoefn) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:56 |
+| 587 | [When Tom Cruise Cries](https://open.spotify.com/track/5Air9ZKbAP96kOZAxKwO98) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 4:48 |
+| 588 | [Time to Stop Talking](https://open.spotify.com/track/2XfMZU4qlTz5eCRc3Q03sp) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:37 |
+| 589 | [Leave the City and Come Home](https://open.spotify.com/track/1E6jZMOSYYL8iGU7MprNKa) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:45 |
+| 590 | [Strasbourg](https://open.spotify.com/track/0zMTdhJLhbWP9O2wWM64pt) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 2:30 |
+| 591 | [Retreat](https://open.spotify.com/track/2lpIm524SryuSryrobYJlW) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 2:58 |
+| 592 | [22 Grand Job](https://open.spotify.com/track/4tTRcCYZSWrJKRmYeaZhFx) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 1:46 |
+| 593 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 |
+| 594 | [Open Book](https://open.spotify.com/track/57mKauLYvQxeHeN0zMC4uu) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 2:17 |
+| 595 | [The Guilt](https://open.spotify.com/track/690ncd1PFS2FBGjYaOK1jl) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 3:47 |
+| 596 | [Binary Love](https://open.spotify.com/track/31af84vNn7qI3PEMUbVUtV) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 3:45 |
+| 597 | [We Are All Animals](https://open.spotify.com/track/74dVOaICSDwJkCFZsSKeOn) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 4:08 |
+| 598 | [Violent](https://open.spotify.com/track/6ohGe2s5vt3dmg6n0FudZ6) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 2:34 |
+| 599 | [T Bone](https://open.spotify.com/track/12UMyqYOqwH673bHS2oW17) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 3:36 |
+| 600 | [Terror!](https://open.spotify.com/track/6uvD3pbIWYAKxixvTeJidG) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 2:54 |
+| 601 | [Work Work Work \- Pub Club Sleep](https://open.spotify.com/track/75tFTOBWr8utTL8wu1M5jH) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 4:05 |
+| 602 | [You're in It](https://open.spotify.com/track/3883MsT2s2VZhK52S0nCmt) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 3:06 |
+| 603 | [That's the Reason](https://open.spotify.com/track/2FPLwRsAniSAofEXaLGXGu) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 2:47 |
+| 604 | [The Loneliness of the Outdoor Smoker](https://open.spotify.com/track/1QvjtHdTjKyjZgwGuKxm5Y) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 2:07 |
+| 605 | [Bitchin' in the Kitchen](https://open.spotify.com/track/6p1UButqSFFPoW29WFgRz5) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 3:08 |
+| 606 | [The Woes of the Working Woman](https://open.spotify.com/track/7JIQhBbTjEyV4eDG6vvuVp) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 2:56 |
+| 607 | [1989](https://open.spotify.com/track/2enz9HbXTh7c0Nw2WTwL41) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 3:00 |
+| 608 | [Shackleton](https://open.spotify.com/track/6suMvKclheyyQGC5NZb3MW) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 2:42 |
+| 609 | [The Light from Your Mac](https://open.spotify.com/track/5l7PgnvJmD7U4eBiL12gX7) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 3:03 |
+| 610 | [Mullers Rachet](https://open.spotify.com/track/5g08C8G8GcNbWVJdVsKFWz) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 3:20 |
+| 611 | [The Final Hill](https://open.spotify.com/track/0llpw4r512hFfCP14n3FHX) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 3:04 |
+| 612 | [Demons \- Bonus Track](https://open.spotify.com/track/6ByDrEU84qGEjYlM5sS2N2) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 2:18 |
+| 613 | [The Rat](https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:22 |
 
-Snapshot ID: `AAAe+rcPkgD+/qDwUrGWkwpiySVzOWwV`
+Snapshot ID: `AAAfLGAN3/N//gWin+1m+5PJqiO0FUVY`

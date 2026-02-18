@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Yellowcard",
-  "num_followers": 600665,
+  "num_followers": 600668,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "an introduction to a theme",
+        "url": "https://open.spotify.com/album/4Z5B9b6wLABU9qbpHIbiCB"
+      },
+      "artists": [
+        {
+          "name": "PRETTY BLEAK",
+          "url": "https://open.spotify.com/artist/6x0YBTahRdiFIVlZt9ilLx"
+        }
+      ],
+      "duration_ms": 228696,
+      "name": "she'll come around",
+      "url": "https://open.spotify.com/track/0y5IM1HBP2gsRFzICg9xhx"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Second Thoughts",
         "url": "https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 186581,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "an introduction to a theme",
-        "url": "https://open.spotify.com/album/4Z5B9b6wLABU9qbpHIbiCB"
-      },
-      "artists": [
-        {
-          "name": "PRETTY BLEAK",
-          "url": "https://open.spotify.com/artist/6x0YBTahRdiFIVlZt9ilLx"
-        }
-      ],
-      "duration_ms": 228696,
-      "name": "she'll come around",
-      "url": "https://open.spotify.com/track/0y5IM1HBP2gsRFzICg9xhx"
     },
     {
       "added_at": "2025-10-10 13:24:48",

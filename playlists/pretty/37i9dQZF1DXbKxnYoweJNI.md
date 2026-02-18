@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 盧可沛 \(Look\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,997 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,994 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 28 | [等烟火照亮我 \- 《有一天》中文版](https://open.spotify.com/track/3Q3KPP4IDdcH9hlEtlrg5Y) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [等烟火照亮我 \(《有一天》中文版\)](https://open.spotify.com/album/28oR245lYPeGmP8rb2plpd) | 3:35 |
 | 29 | [碎片 \- Live](https://open.spotify.com/track/6617AJworONJhIFUovLDK6) | [康姆士\(COM’Z\)](https://open.spotify.com/artist/4O9yXuMzkIoRezqlpgkdjK) | [碎片 \(Live\)](https://open.spotify.com/album/4T3Ba0LxGdpiFxDuKDRdQC) | 5:40 |
 | 30 | [剛剛好](https://open.spotify.com/track/13Wz1HIsNyP5netmOw4eEF) | [李玉璽](https://open.spotify.com/artist/6AcLxs14V2VO3gr1peXGrA) | [剛剛好](https://open.spotify.com/album/3255OwIntT91lIAHtVtft8) | 3:35 |
-| 31 | [小情小惡](https://open.spotify.com/track/4HXV3yGtJLCJ9sM2fawNHn) | [SADOG](https://open.spotify.com/artist/3qk2tgdZpvroa0LavF8Qjl), [feat\. 四葉](https://open.spotify.com/artist/5eMoPQS8MfVuPhTr2xGQiO) | [小情小惡](https://open.spotify.com/album/517vCCrzcTAA2TQS0wYrlM) | 3:29 |
+| 31 | [小情小惡](https://open.spotify.com/track/4HXV3yGtJLCJ9sM2fawNHn) | [SADOG](https://open.spotify.com/artist/3qk2tgdZpvroa0LavF8Qjl), [四葉](https://open.spotify.com/artist/5eMoPQS8MfVuPhTr2xGQiO) | [小情小惡](https://open.spotify.com/album/517vCCrzcTAA2TQS0wYrlM) | 3:29 |
 | 32 | [愛情的騙子我問你](https://open.spotify.com/track/6ktV4hLcJNuUqjz2LYv1gj) | [李子森](https://open.spotify.com/artist/2vyfScfwMS0XzNI3ZCF7g0) | [愛情的騙子我問你](https://open.spotify.com/album/5nfBWJRgJJA1N7vDvMLRR4) | 4:11 |
 | 33 | [跳跳糖](https://open.spotify.com/track/7lnHnIQa5gVYhPe116TfsO) | [製燥者StoryMaker](https://open.spotify.com/artist/2s0XFVUikurzt8OJtfxrOX) | [跳跳糖](https://open.spotify.com/album/6AsVPi5VWnThVA4DDD19hX) | 3:36 |
 | 34 | [clouded](https://open.spotify.com/track/5yPq4ziGEtcFfSEhoM9mVb) | [高隆華KAOLONGHUA](https://open.spotify.com/artist/1C6rrLb5TXFkKYHG8h5miQ) | [clouded](https://open.spotify.com/album/6Er9JgtGWeXJ334JLqnqBm) | 3:54 |

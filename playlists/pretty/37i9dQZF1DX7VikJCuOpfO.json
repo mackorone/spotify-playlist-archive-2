@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Carolina Ross \ud83d\udcf8",
-  "num_followers": 366780,
+  "num_followers": 366770,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-        "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Ebrio de Amor",
         "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 173291,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
+        "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 310500,
+      "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Bailando De A Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 204850,
+      "name": "Bailando De A Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Veracruz",
         "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 222236,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Bailando De A Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 204850,
-      "name": "Bailando De A Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Le Voy a Pedir a Dios",
-        "url": "https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 174329,
-      "name": "Le Voy a Pedir a Dios",
-      "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "No Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 184000,
       "name": "No Pidas Perd\u00f3n",
       "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Le Voy a Pedir a Dios",
+        "url": "https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 174329,
+      "name": "Le Voy a Pedir a Dios",
+      "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Mi gran pa\u00eds",
-        "url": "https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5"
-      },
-      "artists": [
-        {
-          "name": "Jose Julian",
-          "url": "https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Mi gran pa\u00eds",
-      "url": "https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Esta vez te digo adios",
         "url": "https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 228965,
       "name": "Esta vez te digo adios",
       "url": "https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Mi gran pa\u00eds",
+        "url": "https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5"
+      },
+      "artists": [
+        {
+          "name": "Jose Julian",
+          "url": "https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mi gran pa\u00eds",
+      "url": "https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7"
     },
     {
       "added_at": "2026-01-16 06:00:26",

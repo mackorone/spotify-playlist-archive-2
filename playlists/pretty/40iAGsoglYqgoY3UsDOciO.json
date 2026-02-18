@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 617,
+  "num_followers": 620,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABinKsW4nSCkTeJrlX+9F0bhsaHj4e",
+  "snapshot_id": "AAABjOa3k6LPIc79yGdxWKQ++O8u5tLV",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8819,6 +8819,38 @@
       "duration_ms": 152413,
       "name": "80",
       "url": "https://open.spotify.com/track/7AWO9DNzPZ1wHERhYBsaCN"
+    },
+    {
+      "added_at": "2026-02-17 07:47:23",
+      "album": {
+        "name": "online",
+        "url": "https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7"
+      },
+      "artists": [
+        {
+          "name": "Derkio",
+          "url": "https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W"
+        }
+      ],
+      "duration_ms": 105258,
+      "name": "online",
+      "url": "https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi"
+    },
+    {
+      "added_at": "2026-02-17 10:13:18",
+      "album": {
+        "name": "Kommer Fr\u00e5n Skuggan",
+        "url": "https://open.spotify.com/album/6l5HMEnv3US9BbQ3idhvhB"
+      },
+      "artists": [
+        {
+          "name": "Doktor Digital",
+          "url": "https://open.spotify.com/artist/2wwKK1ZYLdkTvRZcTQng23"
+        }
+      ],
+      "duration_ms": 182639,
+      "name": "5:e November",
+      "url": "https://open.spotify.com/track/4gdLpLCrFm5HroXN8BbJLr"
     }
   ],
   "unique_name": "New Music Daily",

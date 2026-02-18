@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 325960,
       "name": "Goodbye Under the Half Moon",
       "url": "https://open.spotify.com/track/7wCDPJjZ6VLE1rNV6Hqweb"
@@ -5612,7 +5612,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 171633,
       "name": "Love, lala ~Koi no Yukue~",
       "url": "https://open.spotify.com/track/1AmCHBTq8Az3AwmRWBJSot"
@@ -7216,6 +7216,24 @@
       "duration_ms": 295500,
       "name": "One More Kiss (feat. \u3072\u304b\u308a) - grooveman Spot Remix",
       "url": "https://open.spotify.com/track/0JhKgf3yhZbCxA3Rap4YDT"
+    },
+    {
+      "album": {
+        "name": "smile",
+        "url": "https://open.spotify.com/album/33gNobiqLKSs5Av1I7SbC8"
+      },
+      "artists": [
+        {
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237418,
+      "name": "One more smile",
+      "url": "https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0"
     },
     {
       "album": {
@@ -17300,7 +17318,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 205253,
       "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
       "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Felipe Rodrigues, Marcus Salles
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,954 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,962 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 16 | [Canção da Igreja \- Ao Vivo](https://open.spotify.com/track/3uhab3nELrQRuAzwqt4rf5) | [Daniel Berg](https://open.spotify.com/artist/6f6c5Sgxd8tgjl7Rm94gT3) | [Canção da Igreja \(Ao Vivo\)](https://open.spotify.com/album/5NgRpXlqnRvZmDNpgK15yq) | 8:01 |
 | 17 | [Dia do Milagre \- Ao Vivo](https://open.spotify.com/track/3QDwAGui1PLKy3Zqdus7G8) | [Alda Célia](https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv), [Wagner Mamed](https://open.spotify.com/artist/1HgdKXzPnAuYwcoQ5w5mpB) | [Dia do Milagre \(Ao Vivo\)](https://open.spotify.com/album/5XTnFhORcJ3ymmLjpn4xmu) | 5:12 |
 | 18 | [Cria do Gueto \(Ferrari Roma\)](https://open.spotify.com/track/7EovZm9GYJLNVCN8WCZpkA) | [MC RN do Capão](https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB), [2B](https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE), [LYONS PROD.](https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr) | [Cria do Gueto \(Ferrari Roma\)](https://open.spotify.com/album/7n8JyXJfiZRG9Ejf854bzW) | 2:40 |
-| 19 | [Shout To The Lord \(All The Earth\)](https://open.spotify.com/track/7wg8imR5mCl949WZCaWKcw) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Shout To The Lord \(All The Earth\)](https://open.spotify.com/album/2r5L56XGZ2fXPSBReEN0zl) | 5:30 |
+| 19 | [Shout To The Lord \(All The Earth\)](https://open.spotify.com/track/7wg8imR5mCl949WZCaWKcw) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Shout To The Lord \(All The Earth\)](https://open.spotify.com/album/2r5L56XGZ2fXPSBReEN0zl) | 5:29 |
 | 20 | [Rios de Água Viva](https://open.spotify.com/track/4dbpy5OjHBsLk2kMqs4vFa) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Cantai a Deus Com Alegria 2026](https://open.spotify.com/album/12i7vYVMXJEg2VkOAPWQka) | 4:04 |
 | 21 | [Ambiente da Glória \- Ao Vivo](https://open.spotify.com/track/2tvYUqDZFSq0yadNpHWyOW) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Ambiente da Glória \(Ao Vivo\)](https://open.spotify.com/album/39rRgMZZekEgRzLE9UvxHA) | 4:23 |
 | 22 | [Minha Casa + Primeira Essência \(Jardim Particular\) \(Ao Vivo\)](https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Minha Casa + Primeira Essência \(Jardim Particular\) \(Ao Vivo\)](https://open.spotify.com/album/4dKKLxDteUFQAwu8ygASe5) | 4:20 |

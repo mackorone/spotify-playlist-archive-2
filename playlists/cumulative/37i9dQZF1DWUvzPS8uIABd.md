@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-895 songs - 1 day 20 hr 41 min
+896 songs - 1 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Ohi on](https://open.spotify.com/track/0pFOmP152iHYZTzo4xzLlM) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Ohi on](https://open.spotify.com/album/5LBpS72bQQnRpJ34K1FkxG) | 2:56 | 2025-10-23 | 2025-11-07 |
 | [Oikeesti](https://open.spotify.com/track/43MuhObkAwCP7D1jPP0Hso) | [90's FIN Cover Boyz & Girlz!](https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG) | [Oikeesti](https://open.spotify.com/album/5Gals1FwUZHyfZnAmMVbpX) | 2:49 | 2025-04-10 | 2025-06-20 |
 | [Ojaan ja allikkoon](https://open.spotify.com/track/6OCKHHmm2WYFmHVxMssS3N) | [Happoradio](https://open.spotify.com/artist/088hJWSolrJNzoNBo2cyOd) | [Ojaan ja allikkoon](https://open.spotify.com/album/2t1jSlpoAOPJt9N1BFdjqg) | 3:04 | 2025-04-24 | 2025-05-23 |
+| [OK \(feat\. ANI\)](https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [OK \(feat\. ANI\)](https://open.spotify.com/album/2g6fLu9kfMCuv59elnWu73) | 2:29 | 2026-02-12 |  |
 | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/track/6Qt8lAqvwTsfTdVzxJxGBv) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/album/4JlM4Fe25dcpi2cZdeu629) | 3:26 | 2025-09-26 | 2025-10-17 |
 | [Olga](https://open.spotify.com/track/5Zm7wFXMkdPS7NQoGxmzWS) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Olga](https://open.spotify.com/album/3Z7O7ZGG62ZIHSxqt6MHv0) | 2:42 | 2024-07-25 | 2024-08-16 |
 | [Olla ku mä \(feat\. Sara Bee\)](https://open.spotify.com/track/57pzlmYbXGWawWwNkFKavK) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Olla ku mä \(feat\. Sara Bee\)](https://open.spotify.com/album/7DS822E6LEyHdPIeyj2Ens) | 2:42 | 2025-07-03 | 2025-08-29 |
@@ -719,7 +720,7 @@
 | [Syntynyt uudelleen \(Vain elämää kausi 15\)](https://open.spotify.com/track/3EkJO4XHaKSwng6M5HjVTK) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Syntynyt uudelleen \(Vain elämää kausi 15\)](https://open.spotify.com/album/7CEbewMvyZCRF6BmPAl8lf) | 2:41 | 2024-09-19 | 2024-09-27 |
 | [Syttynyt sammumaan](https://open.spotify.com/track/116aJLV5ffatPjAZ7h8U5R) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Sadekehä](https://open.spotify.com/album/3pBo0FJ6Y1hrWe53pXNEdk) | 4:13 | 2024-11-14 | 2025-03-21 |
 | [Syvä pääty](https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Syvä pääty](https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM) | 3:08 | 2026-02-05 |  |
-| [Syypää sun hymyyn \- Unitas Sigma](https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:52 | 2025-12-05 |  |
+| [Syypää sun hymyyn \- Unitas Sigma](https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:52 | 2025-12-05 | 2026-02-18 |
 | [Syystakkikausi](https://open.spotify.com/track/73uA8BvDUEOOknZGekRiiB) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Syystakkikausi](https://open.spotify.com/album/7gDSmVPbTipAEguZK2YpD0) | 3:48 | 2024-09-19 | 2024-11-29 |
 | [Syysunelma \(Vain elämää kausi 15\)](https://open.spotify.com/track/4lUCfF0NQiKYmw3kQnSwzB) | [Waldo's People](https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF) | [Syysunelma \(Vain elämää kausi 15\)](https://open.spotify.com/album/2kP8K9MtaxXvNjUiujxDC4) | 2:11 | 2024-10-04 | 2024-10-11 |
 | [Syytä tätä iltaa](https://open.spotify.com/track/2RezuMCTCuePMmT8aZ6RNC) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:30 | 2025-11-20 |  |

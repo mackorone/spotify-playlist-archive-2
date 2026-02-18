@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 106311,
+  "num_followers": 106326,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Mi Canto",
-        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
-      },
-      "artists": [
-        {
-          "name": "Antonio y Joel Con Labranza",
-          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
-        }
-      ],
-      "duration_ms": 225870,
-      "name": "Que Estes Presente",
-      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 202525,
       "name": "Yo la Tengo",
       "url": "https://open.spotify.com/track/71SVOiLqzoTGtI8P90Pt8Q"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Mi Canto",
+        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Joel Con Labranza",
+          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
+        }
+      ],
+      "duration_ms": 225870,
+      "name": "Que Estes Presente",
+      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "El Gozo Que Yo Queria",
         "url": "https://open.spotify.com/album/1mnea2dZLEZCUmYP4KYW0t"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 200650,
       "name": "El Gozo Que Yo Queria",
       "url": "https://open.spotify.com/track/6lf0U3BKM3i0wPc6jr3SQ6"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Prende La Moto",
-        "url": "https://open.spotify.com/album/124x29480ASQ28sibsSykf"
-      },
-      "artists": [
-        {
-          "name": "La Reforma",
-          "url": "https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf"
-        }
-      ],
-      "duration_ms": 166421,
-      "name": "Prende La Moto",
-      "url": "https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Tus Planes",
         "url": "https://open.spotify.com/album/6HXnKD6egQWcHc3MbPfJPk"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 170898,
       "name": "Tus Planes",
       "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Prende La Moto",
+        "url": "https://open.spotify.com/album/124x29480ASQ28sibsSykf"
+      },
+      "artists": [
+        {
+          "name": "La Reforma",
+          "url": "https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf"
+        }
+      ],
+      "duration_ms": 166421,
+      "name": "Prende La Moto",
+      "url": "https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
+        "name": "Diez Mil Razones",
+        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
+      },
+      "artists": [
+        {
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
+        }
+      ],
+      "duration_ms": 180069,
+      "name": "Diez Mil Razones",
+      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
         "name": "Por Mucho Tiempo",
         "url": "https://open.spotify.com/album/4XeRGkZPzvBmpohrCTD55f"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 182772,
       "name": "Por Mucho Tiempo",
       "url": "https://open.spotify.com/track/3GaWTQ1vKqjGjSSaau0khU"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
-        "name": "Diez Mil Razones",
-        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
-      },
-      "artists": [
-        {
-          "name": "Zander",
-          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
-        }
-      ],
-      "duration_ms": 180069,
-      "name": "Diez Mil Razones",
-      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Esposa M\u00eda",
-        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
-      },
-      "artists": [
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Esposa M\u00eda",
-      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Siempre Has Sido Fiel",
         "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
       },
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Sinceridad",
-      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Agarra La Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
       },
@@ -1179,6 +1147,38 @@
       "duration_ms": 191447,
       "name": "Agarra La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Esposa M\u00eda",
+        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
+      },
+      "artists": [
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Esposa M\u00eda",
+      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Sinceridad",
+      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2026-01-23 11:50:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 81 songs - 4 hr 47 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 82 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 79 | [Wild](https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX) | [Sole](https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK) | [Wild](https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg) | 2:51 |
 | 80 | [Colours They Don't See](https://open.spotify.com/track/0FwGNBbGSDIg6NCnhCIxT3) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Colours They Don't See](https://open.spotify.com/album/020hrMuM4OcrEgZ88aEfQD) | 3:19 |
 | 81 | [Didn't I](https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Didn't I](https://open.spotify.com/album/3Mkk2I7FdtnPRIczgmA1wF) | 3:36 |
+| 82 | [When the Smoke Clears](https://open.spotify.com/track/4o4HfCqu4tMpmPMBzILKzF) | [Aviela Sivia](https://open.spotify.com/artist/3rIBjdx8IaKKTLcAPm7VOm) | [When the Smoke Clears](https://open.spotify.com/album/6TPpKcggYH1K25VIAz0hmR) | 3:25 |
 
-Snapshot ID: `AAANTpTyHu1+M7M6PPZxTHcmAUJrsAEH`
+Snapshot ID: `AAANT+p3LAKUYw8dpUGZP72y+WSOEq0V`

@@ -4,7 +4,7 @@
 
 > All of it
 
-1,121 songs - 2 day 20 hr 54 min
+1,122 songs - 2 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [DEAR DAD](https://open.spotify.com/track/7gZdwSYKKLizvDX4AMdoG5) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY](https://open.spotify.com/album/2IABxMR9VTFgVcY9PGiLVZ) | 3:57 | 2025-12-20 | 2025-12-22 |
 | [DEAR FUTURE WIFE](https://open.spotify.com/track/2nHoQkvezKPaBHEVUVAlR0) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY](https://open.spotify.com/album/2IABxMR9VTFgVcY9PGiLVZ) | 0:46 | 2025-12-20 | 2025-12-22 |
 | [Deep Stone Lullaby](https://open.spotify.com/track/0loGeCS5Qa7pcVoTB9tkH2) | [Michael Sechrist](https://open.spotify.com/artist/0YMr3SSFvkcMYSP9UNBJx0), [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Destiny 2: Beyond Light \(Original Soundtrack\)](https://open.spotify.com/album/5uceuos2MGwHNtFskwv2rs) | 3:24 | 2025-06-02 |  |
+| [Defeat Here](https://open.spotify.com/track/0cY730wUNrEZlvj4mCIdyH) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [JUJUTSU KAISEN SEASON 3 \- The Culling Game \- Part 1 \- Original Soundtrack \~Selected Version\~](https://open.spotify.com/album/130ALCkyGuUdB8Jly6bXJd) | 1:36 | 2026-02-17 |  |
 | [Deference for Darkness](https://open.spotify.com/track/4RyqpTW0gEKkVgFeNO50Ii) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo 3: ODST \(Original Soundtrack\)](https://open.spotify.com/album/7IjjokVGQCpjUt2B4wdaRW) | 6:38 | 2025-06-02 |  |
 | [Demon Days](https://open.spotify.com/track/2k6hpKTyubRVOmQR11ViY3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:28 | 2025-09-28 |  |
 | [Demon Time \(Lil Yachty feat\. Draft Day\)](https://open.spotify.com/track/0U4bETGvA2xw24gyTloxIJ) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 2:28 | 2025-06-02 |  |

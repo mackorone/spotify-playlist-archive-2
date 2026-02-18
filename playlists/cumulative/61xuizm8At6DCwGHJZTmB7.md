@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-703 songs - 2 day 19 hr 59 min
+704 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Christ Is Enough \- Chapel Sessions](https://open.spotify.com/track/78gqctl22FWZYSS0TzbQGv) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [David Mwonga](https://open.spotify.com/artist/30KkTXsoA1Jd9opfLIiXk1) | [Chapel Sessions](https://open.spotify.com/album/48TX3EHXrOPBEV12dtOcOD) | 5:47 | 2024-05-03 | 2025-03-21 |
 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 | 2022-04-04 | 2023-01-05 |
 | [Christ Is The Center \- Live](https://open.spotify.com/track/3BmnZfapXOFmWSfNcj740D) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Christ Is The Center \(Live\)](https://open.spotify.com/album/1jDtoHYnjjxY5Cy8eiCybz) | 8:59 | 2023-08-18 | 2024-04-19 |
+| [Christ Our Hope In Life And Death](https://open.spotify.com/track/641EMLat6LpLgqd1GJ5T6u) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/5WwTUeiJDoiGLkMn6G40t5) | 4:14 | 2026-02-17 |  |
 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 | 2022-06-10 | 2023-04-01 |
 | [Christus Victor \(Amen\)](https://open.spotify.com/track/4ltlOXaegEK4TWdhesU1fo) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Christus Victor \(Amen\)](https://open.spotify.com/album/5mtZSoghlKO0tHiiOchpzA) | 5:53 | 2025-08-15 |  |
 | [Christus Victor \(Amen\) \- Live](https://open.spotify.com/track/72qqgNgJZqj1YJ57bmvO28) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Christus Victor \(Amen\) \[Live\]](https://open.spotify.com/album/6vJvxgrxATRwT4ovaSifUZ) | 5:36 | 2024-10-25 |  |

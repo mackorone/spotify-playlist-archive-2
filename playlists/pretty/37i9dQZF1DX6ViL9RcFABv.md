@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Myles 6ix, Teetwo, TeniTeach
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,759 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,769 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 38 | [Santa](https://open.spotify.com/track/2FgjjNgPHjlqsrAfooIQei) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Santa](https://open.spotify.com/album/6YhpLTkiukZuaBakQkdMfa) | 2:32 |
 | 39 | [Voltas](https://open.spotify.com/track/6TlJgFz83EFcG4hQLl729K) | [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Voltas](https://open.spotify.com/album/68yieRSI4NlvQtmS5mABZt) | 2:56 |
 | 40 | [Rio do Esquecimento \(Feiras Novas\)](https://open.spotify.com/track/7L371LhPhHqD6n3M1wZnyd) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Rio do Esquecimento \(Feiras Novas\)](https://open.spotify.com/album/52NrtbltfK9K8k23ehS78D) | 2:21 |
-| 41 | [Leva\-me](https://open.spotify.com/track/00GaSyadd3k6KFCXRQfnFk) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Leva\-me](https://open.spotify.com/album/7AjVNaVNPYUAbN4kgCdXbG) | 3:13 |
+| 41 | [leva\-me](https://open.spotify.com/track/00GaSyadd3k6KFCXRQfnFk) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [leva\-me](https://open.spotify.com/album/7AjVNaVNPYUAbN4kgCdXbG) | 3:13 |
 | 42 | [Contigo](https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Contigo](https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr) | 3:19 |
 | 43 | [Elavoko](https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO) | [Elavoko](https://open.spotify.com/album/4XKaZTBjVImGWm0Gf6MRNZ) | 3:27 |
 | 44 | [Mentira](https://open.spotify.com/track/2E3gXY8cUE3uMiUGaQ8jAp) | [André Mousinho](https://open.spotify.com/artist/79xwBj2BY3OWVXddfpLmBS) | [Mentira](https://open.spotify.com/album/0dLc5KIC4hsH4Qj9iS2QkI) | 3:00 |

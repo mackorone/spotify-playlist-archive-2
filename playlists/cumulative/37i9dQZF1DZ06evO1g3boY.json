@@ -1237,6 +1237,32 @@
     },
     {
       "album": {
+        "name": "Sambabook Jorge Arag\u00e3o, Vol. 1",
+        "url": "https://open.spotify.com/album/4CXk1KQ5xeBNJU6Avhwx3f"
+      },
+      "artists": [
+        {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "Moleque Atrevido",
+      "url": "https://open.spotify.com/track/06C9UczQMHwocZNv2Cv0IV"
+    },
+    {
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -2048,7 +2074,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 211280,
       "name": "Subirusdoistiozin - Live",
       "url": "https://open.spotify.com/track/7bLMLwx6gJrCXoppD2YqOu"

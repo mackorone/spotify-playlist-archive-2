@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Kommer Fr\u00e5n Skuggan",
+        "url": "https://open.spotify.com/album/6l5HMEnv3US9BbQ3idhvhB"
+      },
+      "artists": [
+        {
+          "name": "Doktor Digital",
+          "url": "https://open.spotify.com/artist/2wwKK1ZYLdkTvRZcTQng23"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182639,
+      "name": "5:e November",
+      "url": "https://open.spotify.com/track/4gdLpLCrFm5HroXN8BbJLr"
+    },
+    {
+      "album": {
         "name": "74 Cromwell Avenue (Before I Was Born)",
         "url": "https://open.spotify.com/album/6Ox8XncQV66GSKN9efYWzF"
       },
@@ -5892,6 +5910,24 @@
       "duration_ms": 116363,
       "name": "On Display, Pt. 3",
       "url": "https://open.spotify.com/track/5wM2zCngggufalq4pnvYI3"
+    },
+    {
+      "album": {
+        "name": "online",
+        "url": "https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7"
+      },
+      "artists": [
+        {
+          "name": "Derkio",
+          "url": "https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105258,
+      "name": "online",
+      "url": "https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi"
     },
     {
       "album": {

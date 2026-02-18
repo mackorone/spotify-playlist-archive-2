@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,080 songs - 9 day 0 hr 48 min
+4,082 songs - 9 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1297,6 +1297,7 @@
 | [False Love](https://open.spotify.com/track/0ZCCjJEffv3cTFrYkHRAXZ) | [UAC Records](https://open.spotify.com/artist/5YMC2DzzURBLoxLrUKOyF6) | [False Love](https://open.spotify.com/album/2EFcRQn12DMEaPquDNxFGs) | 2:23 | 2025-06-28 |  |
 | [Fammi il piacere](https://open.spotify.com/track/3AmxF9vbSlby4ppFyRIZ8Y) | [Oto corpse](https://open.spotify.com/artist/4rQeLvrur32dXAIXU0oWHW), [PPOISON](https://open.spotify.com/artist/7q8XJXCL70Q8JjcPNUQUlE) | [Fammi il piacere](https://open.spotify.com/album/4im2xMfiVtovZFY1cJ2EUz) | 3:22 | 2025-06-08 |  |
 | [Fanfara 1° Funky Reggimento](https://open.spotify.com/track/1vzuMKsy5WDOVaNi7u0SAk) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 2:47 | 2025-06-20 |  |
+| [Fangs](https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ) | [Straight](https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2) | [Fangs](https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ) | 3:11 | 2026-02-17 |  |
 | [Fangs of the Serpent](https://open.spotify.com/track/4nKr96uyR3aFL5R3NsucWe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:39 | 2025-09-17 |  |
 | [Fantasmi Fantasiosi](https://open.spotify.com/track/0Jm3L5dWh7ZS1SmLPoQOCt) | [Karlo e Maria](https://open.spotify.com/artist/2ZuCvhJTEa87UhJY5o43Al) | [Il Primo Respiro](https://open.spotify.com/album/0QoqdePhMMxu23dmVXgy7g) | 2:52 | 2025-09-26 |  |
 | [Far Away](https://open.spotify.com/track/6Z3Xxm2BGsVDCMZLdccXyL) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P), [Akorlee](https://open.spotify.com/artist/0hOXhNIdpN54uJYShinc3v) | [Far Away](https://open.spotify.com/album/5uwd1qBXnEFnCi5Oas6ZAM) | 3:04 | 2025-06-04 |  |
@@ -2651,6 +2652,7 @@
 | [O’ Core Mio \(another\)](https://open.spotify.com/track/5AajqxPaUU0VxNIMlSHMFu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:24 | 2025-09-18 |  |
 | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/track/4Qzh8PAlFvoOTrbprJUqb9) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/album/7gITwQFrdvzqzAE3yfZ6Xu) | 4:23 | 2025-06-06 |  |
 | [Pa Listocie Apalaj](https://open.spotify.com/track/3qRj5UETOyZvaad6xIB0jv) | [Sam\-Nasam](https://open.spotify.com/artist/7tikRFYNyAAr6GTs05TUdl) | [Pa Listocie Apalaj](https://open.spotify.com/album/0rkwRDNflk4isUaNUIiJg0) | 1:55 | 2026-02-13 |  |
+| [Pa lo Gringo](https://open.spotify.com/track/4FAmAvluydf7r15Bsbc4UK) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Pa lo Gringo](https://open.spotify.com/album/17X7GZxuOmpsaeLwAWbuxg) | 1:47 | 2026-02-17 |  |
 | [Pace of Change](https://open.spotify.com/track/4ADZP5d42Otiy5FrWgp1ZL) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Pace of Change](https://open.spotify.com/album/0E9ZPOaICx3QZJ51uayOJC) | 3:25 | 2025-04-27 |  |
 | [Paige \(tratto da due storie vere\)](https://open.spotify.com/track/2zGY9Ufovvy6R7w9FxuRzB) | [Abbi](https://open.spotify.com/artist/13MHeIgS0BszMDW9uXEsk4) | [Paige \(tratto da due storie vere\)](https://open.spotify.com/album/1IprUdoorQVImC4b6O1dAl) | 2:41 | 2025-10-12 |  |
 | [PALUDE](https://open.spotify.com/track/7CFjMZURTiJnw1yrqKN7C8) | [VENDANT](https://open.spotify.com/artist/33KF3I4XUnQuS1RvwdtPWX) | [PALUDE](https://open.spotify.com/album/2QyrMzfz9g250srWkfMNZ7) | 3:45 | 2025-03-10 |  |

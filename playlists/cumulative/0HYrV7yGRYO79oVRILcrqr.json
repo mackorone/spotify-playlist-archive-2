@@ -4325,6 +4325,28 @@
     },
     {
       "album": {
+        "name": "Shame on Me",
+        "url": "https://open.spotify.com/album/2YZ4LHiDmL6Yhh0LraTytw"
+      },
+      "artists": [
+        {
+          "name": "Ugochill",
+          "url": "https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw"
+        },
+        {
+          "name": "The Turtle Project",
+          "url": "https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308400,
+      "name": "Shame on Me",
+      "url": "https://open.spotify.com/track/5MJ15vdn2Nmtywbjpm6l5h"
+    },
+    {
+      "album": {
         "name": "Tell me what it's for",
         "url": "https://open.spotify.com/album/3rbYCgf76Hv8h5GqckdG7U"
       },

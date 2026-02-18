@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most viral tracks right now - Belgium.",
-  "num_followers": 23112,
+  "num_followers": 23115,
   "original_name": "Viral 50 - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MSZ+wAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MSfSmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -25,39 +45,23 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Waar Was Je?",
-        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
+        "name": "The Airborne Toxic Event (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4zz8xBoQ8KxRXnP5IeDJJ2"
       },
       "artists": [
         {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
         }
       ],
-      "duration_ms": 148645,
-      "name": "Waar Was Je?",
-      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
+      "duration_ms": 303586,
+      "name": "Sometime Around Midnight",
+      "url": "https://open.spotify.com/track/7Hn0bZgca6QFz6OyKkvAi6"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Karnevalsmaus",
         "url": "https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K"
@@ -73,23 +77,7 @@
       "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "B.M.S (by my side)",
-        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
-      },
-      "artists": [
-        {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "B.M.S (by my side)",
-      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -100,28 +88,28 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "A New Day Has Come",
-        "url": "https://open.spotify.com/album/79BUFCc813MsPvj9cpbmVN"
+        "name": "Waar Was Je?",
+        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
       },
       "artists": [
         {
-          "name": "Mason Trent",
-          "url": "https://open.spotify.com/artist/3WUYZKTcRPPFXTpmwILTxM"
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
         }
       ],
-      "duration_ms": 151457,
-      "name": "A New Day Has Come",
-      "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
+      "duration_ms": 148645,
+      "name": "Waar Was Je?",
+      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -137,7 +125,23 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -148,28 +152,28 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "La voisine d'en dessous ...",
-        "url": "https://open.spotify.com/album/7gJs5tVVPBgid7MdyxUT9h"
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
       },
       "artists": [
         {
-          "name": "LauCarr\u00e9",
-          "url": "https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
         }
       ],
-      "duration_ms": 123103,
-      "name": "La voisine d'en dessous ...",
-      "url": "https://open.spotify.com/track/1p93Kn7xmhznBsmud9U3DS"
+      "duration_ms": 278416,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "ONE TRACK MIND",
         "url": "https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ"
@@ -185,7 +189,39 @@
       "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "La voisine d'en dessous ...",
+        "url": "https://open.spotify.com/album/7gJs5tVVPBgid7MdyxUT9h"
+      },
+      "artists": [
+        {
+          "name": "LauCarr\u00e9",
+          "url": "https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm"
+        }
+      ],
+      "duration_ms": 123103,
+      "name": "La voisine d'en dessous ...",
+      "url": "https://open.spotify.com/track/1p93Kn7xmhznBsmud9U3DS"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "De Tent Moet Op Z'n Kop",
         "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Malandra",
         "url": "https://open.spotify.com/album/5azfYN3PqeXTNfC00wvKs1"
@@ -217,47 +253,39 @@
       "url": "https://open.spotify.com/track/34mfNlwv5VbTtgsDOcTZGb"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Versatile - The Dark Triad (Slowed + Low Honor)",
-        "url": "https://open.spotify.com/album/544701joUsTjzSZSxcqOtb"
+        "name": "A New Day Has Come",
+        "url": "https://open.spotify.com/album/79BUFCc813MsPvj9cpbmVN"
       },
       "artists": [
         {
-          "name": "slenderpill",
-          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+          "name": "Mason Trent",
+          "url": "https://open.spotify.com/artist/3WUYZKTcRPPFXTpmwILTxM"
         }
       ],
-      "duration_ms": 132571,
-      "name": "Versatile - The Dark Triad - Slowed + Low Honor",
-      "url": "https://open.spotify.com/track/0dLohoopycOGpzoaFROXvk"
+      "duration_ms": 151457,
+      "name": "A New Day Has Come",
+      "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Papaoutai (Afro Soul)",
-        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
       },
       "artists": [
         {
-          "name": "mikeeysmind",
-          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Chill77",
-          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
-        },
-        {
-          "name": "Unjaps",
-          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
         }
       ],
-      "duration_ms": 280033,
-      "name": "Papaoutai - Afro Soul",
-      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "GMK",
         "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
@@ -273,7 +301,23 @@
       "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "\u00e0 la Belgique",
+        "url": "https://open.spotify.com/album/6o8A9GgS3cXINEmwMUHU3z"
+      },
+      "artists": [
+        {
+          "name": "'T Hof Van Commerce",
+          "url": "https://open.spotify.com/artist/4AXpdpyOnye51mlXxsKESw"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Linda toch!",
+      "url": "https://open.spotify.com/track/2TNXKqZhkmbqvb9bRoDLEx"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -289,7 +333,63 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Yeralt\u0131",
+        "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Yeralt\u0131",
+      "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "KATYUSHA",
+        "url": "https://open.spotify.com/album/1N6ikNoOz1sKOVgj4RvzrT"
+      },
+      "artists": [
+        {
+          "name": "BADGRUB",
+          "url": "https://open.spotify.com/artist/1oHVosfRZkSB6LA5pFAta2"
+        },
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "KATYUSHA",
+      "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
@@ -321,59 +421,107 @@
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "KATYUSHA",
-        "url": "https://open.spotify.com/album/1N6ikNoOz1sKOVgj4RvzrT"
+        "name": "Versatile (Slowed)",
+        "url": "https://open.spotify.com/album/7Hd2aP2IHua8xlWwN38mmx"
       },
       "artists": [
         {
-          "name": "BADGRUB",
-          "url": "https://open.spotify.com/artist/1oHVosfRZkSB6LA5pFAta2"
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
         },
         {
-          "name": "Police In Paris",
-          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+          "name": "Six Dior",
+          "url": "https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa"
         }
       ],
-      "duration_ms": 156000,
-      "name": "KATYUSHA",
-      "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
+      "duration_ms": 132571,
+      "name": "Versatile - Slowed",
+      "url": "https://open.spotify.com/track/2zLmTbXbaZD6xwjLsLsa3l"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Kakalika",
-        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
       "artists": [
         {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 181581,
-      "name": "Kakalika",
-      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
+      "duration_ms": 226666,
+      "name": "Secondhand (feat. Rema)",
+      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "JE NE SERAI JAMAIS.",
-        "url": "https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5"
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
       },
       "artists": [
         {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
         }
       ],
-      "duration_ms": 246186,
-      "name": "JE NE SERAI JAMAIS.",
-      "url": "https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK"
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Lijntje",
+        "url": "https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Lijntje",
+      "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "duration_ms": 280033,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -393,59 +541,7 @@
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "TIKI TIKI",
-        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
-      },
-      "artists": [
-        {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
-        }
-      ],
-      "duration_ms": 121739,
-      "name": "TIKI TIKI - Slowed",
-      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "Site 15",
-        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 236460,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "NOUS#2",
         "url": "https://open.spotify.com/album/299Uqyk8L4bdRTFMrTXdB3"
@@ -461,91 +557,7 @@
       "url": "https://open.spotify.com/track/6ry3hSxPMcbbmPatUzLKLY"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "Yeralt\u0131",
-        "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
-      },
-      "artists": [
-        {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Yeralt\u0131",
-      "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 204768,
-      "name": "EoO",
-      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 229381,
-      "name": "LO QUE LE PAS\u00d3 A HAWAii",
-      "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "FIGURED YOU OUT",
-        "url": "https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX"
-      },
-      "artists": [
-        {
-          "name": "Devkota",
-          "url": "https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm"
-        }
-      ],
-      "duration_ms": 134702,
-      "name": "FIGURED YOU OUT",
-      "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "In Kleir",
         "url": "https://open.spotify.com/album/7vwwCnI4xr4LwSih2OhQOK"
@@ -565,7 +577,59 @@
       "url": "https://open.spotify.com/track/4gZmLCXxm1WmCKiVMNXU0Z"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Site 15",
+        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 236460,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Zebra",
+        "url": "https://open.spotify.com/album/0qUdlr9tJL5qX5ehCjzcKO"
+      },
+      "artists": [
+        {
+          "name": "Lawineboys",
+          "url": "https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4"
+        }
+      ],
+      "duration_ms": 172520,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/2vBPWYCeB6ASj1uRNTZTC7"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -581,23 +645,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "Caramello",
-        "url": "https://open.spotify.com/album/2gtPIOyloixZsUge731YTM"
-      },
-      "artists": [
-        {
-          "name": "Moha Prod",
-          "url": "https://open.spotify.com/artist/0w6JcEWagEuAUTaRr5yxey"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Caramello",
-      "url": "https://open.spotify.com/track/5PMUJTLHeJaarBIokvOWz3"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Oxyg\u00e8ne",
         "url": "https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ"
@@ -617,87 +665,39 @@
       "url": "https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz"
+        "name": "Vierentwintigdelig Noodpakket",
+        "url": "https://open.spotify.com/album/3pI4Bz6qfgRzYrI60ntcXG"
       },
       "artists": [
         {
-          "name": "Only Chris",
-          "url": "https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G"
-        },
-        {
-          "name": "MALARKEY",
-          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
-        },
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+          "name": "Lamme Frans",
+          "url": "https://open.spotify.com/artist/3VTVxM9FFSMMrnO3nOh9Si"
         }
       ],
-      "duration_ms": 139687,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j"
+      "duration_ms": 189793,
+      "name": "Vierentwintigdelig Noodpakket",
+      "url": "https://open.spotify.com/track/0CrFZWIu08NUW2eDkAEygd"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Zebra",
-        "url": "https://open.spotify.com/album/0qUdlr9tJL5qX5ehCjzcKO"
+        "name": "JE NE SERAI JAMAIS.",
+        "url": "https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5"
       },
       "artists": [
         {
-          "name": "Lawineboys",
-          "url": "https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4"
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
         }
       ],
-      "duration_ms": 172520,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/2vBPWYCeB6ASj1uRNTZTC7"
+      "duration_ms": 246186,
+      "name": "JE NE SERAI JAMAIS.",
+      "url": "https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "La Camisa Negra",
-        "url": "https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE"
-      },
-      "artists": [
-        {
-          "name": "Elliott",
-          "url": "https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "HEAVENLY JUMPSTYLE",
-        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
-      },
-      "artists": [
-        {
-          "name": "TWXNY",
-          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
-        },
-        {
-          "name": "Sxilwix",
-          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
-        },
-        {
-          "name": "INNXCENCE",
-          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "HEAVENLY JUMPSTYLE",
-      "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Toernei G\u00e9nerale",
         "url": "https://open.spotify.com/album/3ZVI1Jmh4lihKiy4La2GJT"
@@ -713,103 +713,39 @@
       "url": "https://open.spotify.com/track/2WHJhaEljSTNNSEXPG3iRb"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+      "duration_ms": 204768,
+      "name": "EoO",
+      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "THE CORE - \u6838",
-        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 170625,
-      "name": "HYPNOTIZE",
-      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+      "duration_ms": 229381,
+      "name": "LO QUE LE PAS\u00d3 A HAWAii",
+      "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "I'm Not What Happened To Me",
-        "url": "https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L"
-      },
-      "artists": [
-        {
-          "name": "Good Vibes Tribe 11:11",
-          "url": "https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "I'm Not What Happened To Me",
-      "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "SHOT CALLERS",
-        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
-      },
-      "artists": [
-        {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
-        }
-      ],
-      "duration_ms": 208495,
-      "name": "Moonwalkin'",
-      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "Lossendeer",
-        "url": "https://open.spotify.com/album/5xWGao5JUr5YqKJ6XKk1Or"
-      },
-      "artists": [
-        {
-          "name": "Sjalen",
-          "url": "https://open.spotify.com/artist/7mT9U3VopJi2JZClD9QuUl"
-        }
-      ],
-      "duration_ms": 169558,
-      "name": "Lossendeer",
-      "url": "https://open.spotify.com/track/0PQ0WzW0FevrLxPbpdd5VA"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/77rPNlZk0Q1MISlzrNU8JG"
-      },
-      "artists": [
-        {
-          "name": "MA:RK",
-          "url": "https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD"
-    },
-    {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
         "name": "Baila de Gasolina",
         "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
@@ -825,68 +761,120 @@
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Ben ier weg",
-        "url": "https://open.spotify.com/album/3vaGN7LMsGyLqr69PmC7Oc"
+        "name": "Lampenfieber",
+        "url": "https://open.spotify.com/album/5xS3XPXynqERqssuxx8Ttc"
       },
       "artists": [
         {
-          "name": "'T Hof Van Commerce",
-          "url": "https://open.spotify.com/artist/4AXpdpyOnye51mlXxsKESw"
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
         }
       ],
-      "duration_ms": 257093,
-      "name": "Ben ier weg",
-      "url": "https://open.spotify.com/track/3CIFWn8S7mgFjsAdsdJvmP"
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/51tf2J1gGNLG0IIvLquE64"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "I'm Not What Happened To Me",
+        "url": "https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Good Vibes Tribe 11:11",
+          "url": "https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+      "duration_ms": 169960,
+      "name": "I'm Not What Happened To Me",
+      "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
     },
     {
-      "added_at": "2026-02-16 15:21:09",
+      "added_at": "2026-02-17 13:51:49",
       "album": {
-        "name": "Cry For Me (WA WA WA)",
-        "url": "https://open.spotify.com/album/5NWbNz7c261wCZsUfYOKuY"
+        "name": "Lossendeer",
+        "url": "https://open.spotify.com/album/5xWGao5JUr5YqKJ6XKk1Or"
       },
       "artists": [
         {
-          "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
-        },
-        {
-          "name": "shirobeats",
-          "url": "https://open.spotify.com/artist/6ikl2mKOYsek2fUhMj2CTW"
-        },
-        {
-          "name": "HalaCG",
-          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
-        },
-        {
-          "name": "Bubi",
-          "url": "https://open.spotify.com/artist/2LlDXTSoqYFe1viQSb3zw7"
+          "name": "Sjalen",
+          "url": "https://open.spotify.com/artist/7mT9U3VopJi2JZClD9QuUl"
         }
       ],
-      "duration_ms": 160645,
-      "name": "Cry For Me WA WA WA",
-      "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
+      "duration_ms": 169558,
+      "name": "Lossendeer",
+      "url": "https://open.spotify.com/track/0PQ0WzW0FevrLxPbpdd5VA"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 89745,
+      "name": "NO BATID\u00c3O",
+      "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Caramello",
+        "url": "https://open.spotify.com/album/2gtPIOyloixZsUge731YTM"
+      },
+      "artists": [
+        {
+          "name": "Moha Prod",
+          "url": "https://open.spotify.com/artist/0w6JcEWagEuAUTaRr5yxey"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Caramello",
+      "url": "https://open.spotify.com/track/5PMUJTLHeJaarBIokvOWz3"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
+    },
+    {
+      "added_at": "2026-02-17 13:51:49",
+      "album": {
+        "name": "La Camisa Negra",
+        "url": "https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE"
+      },
+      "artists": [
+        {
+          "name": "Elliott",
+          "url": "https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN"
     }
   ],
   "unique_name": "Viral 50 - Belgium",

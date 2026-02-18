@@ -971,6 +971,28 @@
     },
     {
       "album": {
+        "name": "Nostos",
+        "url": "https://open.spotify.com/album/3EhCSdd3VDntnFs6msrOlH"
+      },
+      "artists": [
+        {
+          "name": "Andrea Vanzo",
+          "url": "https://open.spotify.com/artist/4KiO59dzeB8dACXmrrwkKe"
+        },
+        {
+          "name": "Evgeny Grinko",
+          "url": "https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "Nostos",
+      "url": "https://open.spotify.com/track/5k4NithRQadRb3NssO1Vfi"
+    },
+    {
+      "album": {
         "name": "Now is enough",
         "url": "https://open.spotify.com/album/7GxvKYmg1J88wurQg2n9r5"
       },

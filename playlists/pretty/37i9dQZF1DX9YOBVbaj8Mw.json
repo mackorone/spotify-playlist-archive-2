@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19309,
+  "num_followers": 19308,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Letnie my\u015bli",
+        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Letnie my\u015bli",
+      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Sanatorium",
         "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 136000,
       "name": "primabalerina",
       "url": "https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Letnie my\u015bli",
-        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Letnie my\u015bli",
-      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Nie Ma Ziemi Nad Kujawy",
-        "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
       },
       "artists": [
         {
-          "name": "ZPiT Ziemia Bydgoska",
-          "url": "https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY"
+          "name": "Blindead 23",
+          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
         }
       ],
-      "duration_ms": 107826,
-      "name": "Oberek Kujawski Ze Szwankowa",
-      "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
+      "duration_ms": 510066,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Vanishing",
-        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
+        "name": "Nie Ma Ziemi Nad Kujawy",
+        "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
       },
       "artists": [
         {
-          "name": "Blindead 23",
-          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
+          "name": "ZPiT Ziemia Bydgoska",
+          "url": "https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY"
         }
       ],
-      "duration_ms": 510066,
-      "name": "Haunting",
-      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
+      "duration_ms": 107826,
+      "name": "Oberek Kujawski Ze Szwankowa",
+      "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Wsp\u00f3\u0142g\u0142osy",
         "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 91803,
       "name": "Gospel Song",
       "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1227,34 +1227,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Tradycyja",
-        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wyrostek",
-          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
-        },
-        {
-          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
-          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
-        },
-        {
-          "name": "Urszula Dudziak",
-          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
-        },
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 278672,
-      "name": "G\u00f3rniczy stan",
-      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "A statek p\u0142ynie",
         "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
       },
@@ -1287,6 +1259,34 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Tradycyja",
+        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wyrostek",
+          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
+        },
+        {
+          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
+          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
+        },
+        {
+          "name": "Urszula Dudziak",
+          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
+        },
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 278672,
+      "name": "G\u00f3rniczy stan",
+      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
-      },
-      "artists": [
-        {
-          "name": "Lukasz Targosz",
-          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
-        }
-      ],
-      "duration_ms": 137170,
-      "name": "Welcome To The Forrest",
-      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 577993,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Targosz",
+          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
+        }
+      ],
+      "duration_ms": 137170,
+      "name": "Welcome To The Forrest",
+      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
     },
     {
       "added_at": "2025-04-06 08:27:45",

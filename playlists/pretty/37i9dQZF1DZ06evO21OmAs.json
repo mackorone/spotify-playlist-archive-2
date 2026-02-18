@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 256719,
+  "num_followers": 256693,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAAAOPwbXgyHGyXQc1WO9MT3C",
+  "snapshot_id": "aZJeAAAAAAAuk/7F0Vu4/EDtXG1a1cPY",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,26 @@
       "duration_ms": 171745,
       "name": "Phantom Pain",
       "url": "https://open.spotify.com/track/2X05EASOuBv6aRQRJoGI1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/1McF5F0YbD6eks0nPFsKSo"
+      },
+      "artists": [
+        {
+          "name": "Lasse Lok\u00f8y",
+          "url": "https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv"
+        },
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 217071,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/3CU39VO6TZunoG0UoDKDkx"
     },
     {
       "added_at": null,

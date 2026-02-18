@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from ODUMODUBLVCK, Wande Coal, Yemi Alade, Zaylevelten and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,720 likes - 63 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,835 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 14 | [Crashout](https://open.spotify.com/track/3uerMRzubyhmewGvT0twg7) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Crashout](https://open.spotify.com/album/3UGq2pwp5Jki17wV9DUnjV) | 1:53 |
 | 15 | [Fuji Explosion](https://open.spotify.com/track/2glMJh0s7jz2WA6sM6dU6g) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Steady x Fuji Explosion](https://open.spotify.com/album/77tfHUei566yP3u8GQotG4) | 3:19 |
 | 16 | [Poser](https://open.spotify.com/track/5R1QqIQYa0K1yCWTVKkFYS) | [sabrina](https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC) | [Poser](https://open.spotify.com/album/7mR1PLbYLEj682n1wgPBk3) | 2:54 |
-| 17 | [Ọlówọ Ọrìmí](https://open.spotify.com/track/0jnY0KM7DPfzQHuv6wheFd) | [Lodù](https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs) | [Ọlówọ Ọrìmí](https://open.spotify.com/album/6RAiSXqmTSMMcJlVDl7jLk) | 3:35 |
+| 17 | [Olówó Orími](https://open.spotify.com/track/0jnY0KM7DPfzQHuv6wheFd) | [Lodù](https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs) | [Olówó Orími](https://open.spotify.com/album/6RAiSXqmTSMMcJlVDl7jLk) | 3:35 |
 | 18 | [Millicent](https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Millicent](https://open.spotify.com/album/1AdznG4ODTPvszpmYALbwt) | 3:07 |
 | 19 | [Mekɔn Adɔ](https://open.spotify.com/track/5BMh2DnkrOAbSipoWka1Xk) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Mekɔn Adɔ](https://open.spotify.com/album/6cus1YyspHCbKeSjjrBZhU) | 3:28 |
 | 20 | [Nasinzia II](https://open.spotify.com/track/1nm8oLMHs19tqKU9QoeSPM) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nasinzia II](https://open.spotify.com/album/14O2vNbA2bQSnCVYH2s6xx) | 3:01 |

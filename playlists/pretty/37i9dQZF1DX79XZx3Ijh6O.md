@@ -9,9 +9,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Time](https://open.spotify.com/track/5jjuX1BUS8fnPY9wGK4nPw) | [Keay](https://open.spotify.com/artist/2HLvWnuUDbB4wNQaLLwbud) | [No Time](https://open.spotify.com/album/6WgHKCtEecRzZYbRk64bLU) | 3:44 |
-| 2 | [За який тебе ловити хвіст?](https://open.spotify.com/track/2MY21UDHK72kQUnkCmiZFk) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [За який тебе ловити хвіст?](https://open.spotify.com/album/6uA1H22YlwANNzVSCH3nqp) | 3:55 |
-| 3 | [Ти зробиш це](https://open.spotify.com/track/3j2FsHO4WRNlx8CHaqWpDS) | [HORIZON](https://open.spotify.com/artist/2uo2uMDLCEoSprjWkDgFIJ), [Kris Gara](https://open.spotify.com/artist/41cPLZneB0k12yqJMiW8a0) | [Ти зробиш це](https://open.spotify.com/album/7FBQbGvcot1jxmuVottDes) | 3:30 |
-| 4 | [В тумані](https://open.spotify.com/track/5T1BC84jg3BNZ4F1DtmsTM) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj), [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [В тумані](https://open.spotify.com/album/4juSgCwey9o8IAYTD2PSD8) | 3:45 |
+| 2 | [В тумані](https://open.spotify.com/track/5T1BC84jg3BNZ4F1DtmsTM) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj), [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [В тумані](https://open.spotify.com/album/4juSgCwey9o8IAYTD2PSD8) | 3:45 |
+| 3 | [За який тебе ловити хвіст?](https://open.spotify.com/track/2MY21UDHK72kQUnkCmiZFk) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [За який тебе ловити хвіст?](https://open.spotify.com/album/6uA1H22YlwANNzVSCH3nqp) | 3:55 |
+| 4 | [Ти зробиш це](https://open.spotify.com/track/3j2FsHO4WRNlx8CHaqWpDS) | [HORIZON](https://open.spotify.com/artist/2uo2uMDLCEoSprjWkDgFIJ), [Kris Gara](https://open.spotify.com/artist/41cPLZneB0k12yqJMiW8a0) | [Ти зробиш це](https://open.spotify.com/album/7FBQbGvcot1jxmuVottDes) | 3:30 |
 | 5 | [дармоцвіт](https://open.spotify.com/track/3JPv5clX2AuR9flMSlWCt8) | [невтома](https://open.spotify.com/artist/6pGu1pC1HRUjhvQy7REuJh) | [подорож тривалістю в біль](https://open.spotify.com/album/6RqrHuSYaLxl2YxtjCw1kM) | 2:21 |
 | 6 | [Нічний птах Енчо](https://open.spotify.com/track/6wTl2Lju10jww57qhyKLr6) | [SYDOR](https://open.spotify.com/artist/5mCLSzdZkJ2PgQ0EGkIIgK) | [Очищення](https://open.spotify.com/album/3P77BhmlulYUlUFZ4YBYza) | 2:39 |
 | 7 | [Розслабтесь](https://open.spotify.com/track/3PcFTpYE3UGlAWEWrpNvWu) | [Ян Шипула](https://open.spotify.com/artist/5BuDqjHvCQQdehmJrN6Qwd) | [Розслабтесь](https://open.spotify.com/album/0WQDhm0qQCNOqCLm6ljvvJ) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 99 | [Повільно](https://open.spotify.com/track/71SLSGY6bZsEl2N2H6fBf0) | [TALICE](https://open.spotify.com/artist/6mzMq9r0bo1LYtnDJYip2l) | [Повільно](https://open.spotify.com/album/3HtM2KEm9neQk488nJEaHI) | 2:29 |
 | 100 | [Тікай](https://open.spotify.com/track/4hHHu32lL2JXtQMDDISC8V) | [Меланхолі\-Я](https://open.spotify.com/artist/3qoEu7vkf4hTDm7Y4UQzWY) | [Тікай](https://open.spotify.com/album/6uZWwjtdz0xl88K7C4E226) | 2:19 |
 
-Snapshot ID: `AAAAAFCCoqTCk14YQ8bbij3PrSHc/coY`
+Snapshot ID: `AAAAAG1yDK9Ucz+V3Cdxp9twfpsr240I`

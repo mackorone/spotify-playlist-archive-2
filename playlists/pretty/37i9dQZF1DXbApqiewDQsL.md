@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring MauXo
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,381 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,387 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 29 | [Un Cigarrito](https://open.spotify.com/track/1F8Q8Ye8TGvh5m0EcQA3sH) | [Gio Machado](https://open.spotify.com/artist/6XfR7v2Ni1FilUBYcSWfcR) | [Un Cigarrito](https://open.spotify.com/album/1bKA8BDYcOgU1MzXZB235e) | 2:29 |
 | 30 | [ULTIMA OPCION](https://open.spotify.com/track/3E3hfu34KnYPYQAaU3JNlt) | [Alexis Rodriguez](https://open.spotify.com/artist/2YvXip6VsQV2CVkyEbvLR8) | [ULTIMA OPCION](https://open.spotify.com/album/0SbLplyFLR0yoiayXXmurF) | 3:24 |
 
-Snapshot ID: `AAAAAKumR0hfCEKXoIjoPEe4utC1ctrm`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

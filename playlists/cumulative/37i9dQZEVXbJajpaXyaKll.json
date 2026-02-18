@@ -12103,6 +12103,24 @@
     },
     {
       "album": {
+        "name": "Ella Aprendio A Irse",
+        "url": "https://open.spotify.com/album/2tOFtgVkyKRsS9pgaZOC9s"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204319,
+      "name": "Ella Aprendio A Irse",
+      "url": "https://open.spotify.com/track/70xEo41ymzVEvVUfjVJVXP"
+    },
+    {
+      "album": {
         "name": "ella brilla",
         "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
       },
@@ -18262,7 +18280,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
@@ -19496,7 +19514,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 67105,
       "name": "La Nave del Olvido",
       "url": "https://open.spotify.com/track/1vdfrsoqbDkaLu0Usssgyg"
@@ -26101,6 +26119,28 @@
     },
     {
       "album": {
+        "name": "LA 8VA MARAVILLA",
+        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239628,
+      "name": "M\u00edrame Baby",
+      "url": "https://open.spotify.com/track/4GFg2xNBur9IngFW0fktUD"
+    },
+    {
+      "album": {
         "name": "Black Sabbath",
         "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
       },
@@ -26292,6 +26332,24 @@
       "duration_ms": 153837,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4EmOvfpI6RsyNk4qRGVZxJ"
+    },
+    {
+      "album": {
+        "name": "natural",
+        "url": "https://open.spotify.com/album/3tEqbcBqo1ziwNf9PMHVAN"
+      },
+      "artists": [
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108003,
+      "name": "natural",
+      "url": "https://open.spotify.com/track/4wj1Hgoj2U3Yhyc4xB6BN2"
     },
     {
       "album": {
@@ -27272,7 +27330,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 172054,
       "name": "No Se Ve / Chingon",
       "url": "https://open.spotify.com/track/1wDZFWLswOdkP3PBOWiSwI"
@@ -33995,6 +34053,24 @@
     },
     {
       "album": {
+        "name": "SE FELIZ :( - 07:00",
+        "url": "https://open.spotify.com/album/0yn2VqUkpNTgRdzIRUgmrL"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160040,
+      "name": "SE FELIZ :( - 07:00",
+      "url": "https://open.spotify.com/track/4vsG8CillpNPNP1BsyzsKa"
+    },
+    {
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -37932,7 +38008,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 211114,
       "name": "Te Amo y Me Amas",
       "url": "https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo"

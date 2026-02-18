@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 805254,
+  "num_followers": 805266,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Daughter, Daughter",
-        "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 205022,
-      "name": "Daughter, Daughter",
-      "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Quiet Flame",
         "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
       },
@@ -1019,18 +999,22 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
+        "name": "Daughter, Daughter",
+        "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
       },
       "artists": [
         {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 241225,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
+      "duration_ms": 205022,
+      "name": "Daughter, Daughter",
+      "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1047,6 +1031,22 @@
       "duration_ms": 234146,
       "name": "God Of Love",
       "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 241225,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
     },
     {
       "added_at": "2025-02-28 05:00:51",

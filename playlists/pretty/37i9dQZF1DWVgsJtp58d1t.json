@@ -1,6 +1,6 @@
 {
   "description": "The best in Black music! Cover: J. Cole",
-  "num_followers": 1118984,
+  "num_followers": 1119033,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2026-02-14 05:00:06",
       "album": {
-        "name": "Reckless",
+        "name": "Reckless (feat. Static Major)",
         "url": "https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym"
       },
       "artists": [
@@ -38,10 +38,14 @@
         {
           "name": "Bino Rideaux",
           "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
       "duration_ms": 138533,
-      "name": "Reckless",
+      "name": "Reckless (feat. Static Major)",
       "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
     },
     {
@@ -980,7 +984,7 @@
           "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
         }
       ],
-      "duration_ms": 171750,
+      "duration_ms": 171789,
       "name": "NNT",
       "url": "https://open.spotify.com/track/6RJ5RBEdQUdzAuLMRbeNqm"
     },

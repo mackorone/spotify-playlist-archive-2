@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGYDVZiUqvkFeWDaJmnLtYUxNm2xEJ",
+  "snapshot_id": "AAAGb7BWwGavC4N65XWxQyBYUGd1R79D",
   "tracks": [
+    {
+      "added_at": "2026-02-17 08:12:40",
+      "album": {
+        "name": "\u30c8\u30fc\u30c8\u30cd\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/6toeMkIV2TtEqzitwiSZOY"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30ac\u30c6\u30eb",
+          "url": "https://open.spotify.com/artist/2YIWx5tZSRNEi9cqNqhyUl"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "duration_ms": 224999,
+      "name": "\u30c8\u30fc\u30c8\u30cd\u30cb\u30a2 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/4anNULcuyfSIivkr8nklSH"
+    },
+    {
+      "added_at": "2026-02-17 08:12:53",
+      "album": {
+        "name": "\u611f\u50b7\u7656\u306e\u795e\u3055\u307e",
+        "url": "https://open.spotify.com/album/2iKP4TBvc4M85LCfSXvOdE"
+      },
+      "artists": [
+        {
+          "name": "Mushi-P",
+          "url": "https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "\u611f\u50b7\u7656\u306e\u795e\u3055\u307e (feat. \u521d\u97f3\u30df\u30af&MAYU)",
+      "url": "https://open.spotify.com/track/4BjPRPWzfGkky2jrgmjxxQ"
+    },
+    {
+      "added_at": "2026-02-17 08:13:08",
+      "album": {
+        "name": "Red Guitar and Clear Red",
+        "url": "https://open.spotify.com/album/1iceOgTFTxDfmlWKoNuGfI"
+      },
+      "artists": [
+        {
+          "name": "nocchi1031",
+          "url": "https://open.spotify.com/artist/7MIq8tqPDBomlbtVgP3p3z"
+        }
+      ],
+      "duration_ms": 287111,
+      "name": "\u6625\u6101 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/7jPA9SqoJqr4HzgRTjJJA7"
+    },
+    {
+      "added_at": "2026-02-17 08:13:19",
+      "album": {
+        "name": "\u53bb\u308a\u4eba\u9054\u306e\u30ef\u30eb\u30c4",
+        "url": "https://open.spotify.com/album/1EP39WGLXpeSEpBWUo5WOJ"
+      },
+      "artists": [
+        {
+          "name": "mothy",
+          "url": "https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "\u53bb\u308a\u4eba\u9054\u306e\u30ef\u30eb\u30c4 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/7BaIqOzWFn9eqLePH8hl9O"
+    },
+    {
+      "added_at": "2026-02-17 08:13:30",
+      "album": {
+        "name": "\u30d0\u30c3\u30c9\u30a8\u30f3\u30c9\u75c7\u5019\u7fa4",
+        "url": "https://open.spotify.com/album/4yJPnR0ceicyXIY0dljIDw"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
+          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "\u30d0\u30c3\u30c9\u30a8\u30f3\u30c9\u75c7\u5019\u7fa4 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/4L6AsoB6Gtu7ONntUA6r6x"
+    },
     {
       "added_at": "2026-02-10 07:53:03",
       "album": {
@@ -699,106 +795,6 @@
       "duration_ms": 183050,
       "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30fb\u30aa\u30fc\u30eb\u30fb\u30b6\u30c3\u30c8\u30fb\u30b8\u30e3\u30ba",
       "url": "https://open.spotify.com/track/4XclB9qUKnQH0uWY9w7HBf"
-    },
-    {
-      "added_at": "2025-11-25 08:22:18",
-      "album": {
-        "name": "\u9b54\u6cd5\u306e\u666f\u8272",
-        "url": "https://open.spotify.com/album/0Ulgv2my3M3aUbBtIgGskJ"
-      },
-      "artists": [
-        {
-          "name": "ryuryu",
-          "url": "https://open.spotify.com/artist/7dfblDi88zLmvIt9f5sRXc"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 273125,
-      "name": "\u9b54\u6cd5\u306e\u666f\u8272 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6iZXZJhDEfm2zlnCxRFC94"
-    },
-    {
-      "added_at": "2025-11-25 08:22:35",
-      "album": {
-        "name": "Snowflakes Story",
-        "url": "https://open.spotify.com/album/65j7CxNwxx6dUJh1CFtFib"
-      },
-      "artists": [
-        {
-          "name": "Heavenz",
-          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 256814,
-      "name": "Snowflakes Story (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1oMsN2jjKKTyRPkPhE8u7Z"
-    },
-    {
-      "added_at": "2025-11-25 08:22:51",
-      "album": {
-        "name": "\u5171\u72af\u8005",
-        "url": "https://open.spotify.com/album/5cVOEaxTr0qA8mpctowLxG"
-      },
-      "artists": [
-        {
-          "name": "dezzy",
-          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
-        },
-        {
-          "name": "IA",
-          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
-        }
-      ],
-      "duration_ms": 210996,
-      "name": "\u5171\u72af\u8005 (feat. IA)",
-      "url": "https://open.spotify.com/track/5GvVxGz1rzdUNOelmLb63h"
-    },
-    {
-      "added_at": "2025-11-25 08:23:08",
-      "album": {
-        "name": "\u30d4\u30c1\u30ab\u30fc\u30c8\u30c9\u30ed\u30c3\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/1f2d4KdJVAlXPttqcrFN2n"
-      },
-      "artists": [
-        {
-          "name": "Toa",
-          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 220805,
-      "name": "\u30d4\u30c1\u30ab\u30fc\u30c8\u30c9\u30ed\u30c3\u30d7\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6pl9TqBuraGXsl0ZTWabyT"
-    },
-    {
-      "added_at": "2025-11-25 08:23:28",
-      "album": {
-        "name": "Snowflakes",
-        "url": "https://open.spotify.com/album/2LIJRfFPYK8PM9nDXB737M"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u85e4\u539f\u6750\u6599",
-          "url": "https://open.spotify.com/artist/6XDQIrzjzBmRPZG988yhdI"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 181301,
-      "name": "Snowflakes (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6O9pG0foR0bjrBgTeYRpdM"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

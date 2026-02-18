@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: A.C.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,936 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,938 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 67 | [King Sin Queen](https://open.spotify.com/track/5ex9Y5lOU59ihvvI6hUx2a) | [Warrior Rapper School](https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8) | [teRAPias](https://open.spotify.com/album/6w2V106ibiMW4m0vR0lWNS) | 3:52 |
 | 68 | [Ansiedad](https://open.spotify.com/track/4Z3GWQHGWAqQhXxCk6tn0T) | [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6), [Franco Banda](https://open.spotify.com/artist/2bhMtu8Fua2BNTvwbjtJjH) | [Ansiedad](https://open.spotify.com/album/0t8AnfjwnXloKKvk8346sL) | 2:26 |
 | 69 | [Quizás](https://open.spotify.com/track/1gUlnrSpnJrsE4O1NH3kC3) | [Homiecidio Bando](https://open.spotify.com/artist/2ZouHtMqYZPZxkCdgxbX35) | [Los Que Son](https://open.spotify.com/album/2s1yM6C6jr14MBEiJCojzd) | 4:13 |
-| 70 | [Sin vestir esta piel](https://open.spotify.com/track/3joblY1lK6Tn3gpLE8CCCR) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Juaninacka](https://open.spotify.com/artist/6a7aRbyLNHHiwqgLh87Mpy), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3) | [Sin vestir esta piel](https://open.spotify.com/album/0CjmDMv6tKzzm3bHyAMsFh) | 3:46 |
+| 70 | [Sin vestir esta piel](https://open.spotify.com/track/3joblY1lK6Tn3gpLE8CCCR) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Juaninacka](https://open.spotify.com/artist/2PaKNF1xXpMEr5RoOiaAxc), [Don\-J HH](https://open.spotify.com/artist/54Fpcc4aX9IBvpAr65dXwQ) | [Sin vestir esta piel](https://open.spotify.com/album/0CjmDMv6tKzzm3bHyAMsFh) | 3:46 |
 | 71 | [Monedas](https://open.spotify.com/track/3kKxjmyiDgiQSi3aiZk0Oq) | [Django](https://open.spotify.com/artist/0vAPDDoJ3Hqk5sOff00c3j) | [Ratas](https://open.spotify.com/album/1ODDHkPfoaeffAiCMQoezs) | 4:09 |
 | 72 | [No Que No](https://open.spotify.com/track/0sLUxVo2K8F36pCItPx9uI) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Que No](https://open.spotify.com/album/1hU2tAaWy5dLSt9hKb0HfT) | 3:09 |
 | 73 | [Son Cosas](https://open.spotify.com/track/2r7btoSIVEmUFf8XnYGvr1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Son Cosas](https://open.spotify.com/album/4ns7SmrQvIjWtcFfqN8SVs) | 3:34 |

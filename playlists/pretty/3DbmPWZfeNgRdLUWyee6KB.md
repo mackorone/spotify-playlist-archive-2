@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,266 likes - 189 songs - 10 hr 42 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,274 likes - 199 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,5 +197,15 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 187 | [BEARER OF BROKEN HEARTS](https://open.spotify.com/track/3x0tdYzRgbL40ug33BDlwh) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [BEARER OF BROKEN HEARTS](https://open.spotify.com/album/5dCSAArQXvpni9MaflvRFa) | 3:25 |
 | 188 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 |
 | 189 | [Not a French Song](https://open.spotify.com/track/0XdvcUFPQA7YPzvnhlLCzI) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Not a French Song](https://open.spotify.com/album/0hC9O2mioBqHlmao5R9Qim) | 2:32 |
+| 190 | [outta my head](https://open.spotify.com/track/1y80uZHphUor17tSRxlki3) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [outta my head](https://open.spotify.com/album/0taGN6LqsGmOVgcsymPSy6) | 2:25 |
+| 191 | [Laddove](https://open.spotify.com/track/1UqljvWThNiyrEeSqES0DL) | [Nailuz](https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg) | [Laddove](https://open.spotify.com/album/3xCGBUIMhU53IW3jo4pb5o) | 3:36 |
+| 192 | [you can dance to this song… even if you’re still mourning the death of your cat](https://open.spotify.com/track/6vRhsbs1VlSfQaFO51C0Jk) | [Crazy Cat Lady in New York City](https://open.spotify.com/artist/6ptHV45BzGySgX41dsItHW) | [11 sad songs about death and cats](https://open.spotify.com/album/3uF9LgtFkczUJwjWMopHPv) | 2:17 |
+| 193 | [Godforsaken](https://open.spotify.com/track/6qxAEAoSzeXERxdbjxIrVn) | [Dame Fawn Denier](https://open.spotify.com/artist/6lAy6E6eYa6Feap35sZy6N) | [Godforsaken](https://open.spotify.com/album/7atHBCBbpuTD83eGd95aqC) | 3:11 |
+| 194 | [Ocaso](https://open.spotify.com/track/659i2zCINZi4ABiJsQCjHp) | [Los Insólitos](https://open.spotify.com/artist/4dgg2FsnowLvnzFaXVqhNX) | [Ocaso](https://open.spotify.com/album/2pDD1wX3qLYX0qK6j6nukM) | 3:51 |
+| 195 | [O pix da discordia](https://open.spotify.com/track/1buZTioz0iWUqNExX80W5j) | [Leozinho](https://open.spotify.com/artist/7wKgUAO1O7ZAE6uSd0MfbQ) | [O pix da discordia](https://open.spotify.com/album/5BGH5znY3JOKCv88pg16sc) | 2:00 |
+| 196 | [Way Down in the Hole](https://open.spotify.com/track/3Gy312YZVCRt5WBLcY5pnS) | [VKB Band](https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop) | [Way Down in the Hole](https://open.spotify.com/album/1AZQBllm4mi3dLzLpSzxkt) | 3:53 |
+| 197 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 |
+| 198 | [Lost In You](https://open.spotify.com/track/6P1A0agTnvgRiVgl1f9JPg) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [Lost In You](https://open.spotify.com/album/3mW30RpXjuvEwnZTOMwVZr) | 4:31 |
+| 199 | [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 |
 
-Snapshot ID: `AAAQdY+RLjlRWCShkCuus6k+BWj98B6M`
+Snapshot ID: `AAAQf834tv/I5OXX6mHi46iojhKnCmXj`

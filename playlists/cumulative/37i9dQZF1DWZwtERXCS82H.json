@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 154270,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/1cwuLKkJe10Khm77Hrxsyw"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 243209,
       "name": "Ballade Pour Elly",
       "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 120795,
       "name": "Beckoning",
       "url": "https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 127919,
       "name": "Bonds",
       "url": "https://open.spotify.com/track/19Le1uK7augMwFgc6wUOWe"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 146967,
       "name": "Countless",
       "url": "https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI"
@@ -3621,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Evening Breeze",
+        "url": "https://open.spotify.com/album/37Zu37uyM3Yve7ys41qn47"
+      },
+      "artists": [
+        {
+          "name": "Antoine Faur\u00e9",
+          "url": "https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140653,
+      "name": "Evening Breeze",
+      "url": "https://open.spotify.com/track/7tprazZON3rZewH5u0UBfn"
+    },
+    {
+      "album": {
         "name": "Days Gone By",
         "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
       },
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 163812,
       "name": "Felt Improv No. 10",
       "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
@@ -4068,6 +4086,24 @@
       "duration_ms": 177000,
       "name": "Fiorire",
       "url": "https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv"
+    },
+    {
+      "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/4RzbLJgFYS9T19kti7IA9Y"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166092,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/58PD866X9AJh92045MujmK"
     },
     {
       "album": {
@@ -5724,7 +5760,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 173862,
       "name": "In Presence",
       "url": "https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz"
@@ -8630,7 +8666,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 139370,
       "name": "Ogni Cosa",
       "url": "https://open.spotify.com/track/0kWnDjwAZiJgPWn3CI6J2B"
@@ -10790,7 +10826,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 165176,
       "name": "Seasonal mother",
       "url": "https://open.spotify.com/track/2zVMhbaUO3mBXZ16YFtOoP"
@@ -10934,7 +10970,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 153725,
       "name": "Seraphic Solace",
       "url": "https://open.spotify.com/track/0byE9qeBvok8PDkX4ZqVwi"
@@ -12184,7 +12220,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 189291,
       "name": "Stepwise",
       "url": "https://open.spotify.com/track/3R3snF0ylFymhJnFvrbvEQ"
@@ -15162,7 +15198,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 144474,
       "name": "wolkenlos",
       "url": "https://open.spotify.com/track/6bBI9q6jMKZPt5Bth1pxnV"

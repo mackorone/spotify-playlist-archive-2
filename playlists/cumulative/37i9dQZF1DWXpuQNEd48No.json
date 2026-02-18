@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 208000,
       "name": "Abuse",
       "url": "https://open.spotify.com/track/1AUDavpuGF538XF230Wv1r"
@@ -1962,6 +1962,28 @@
     {
       "album": {
         "name": "Charche",
+        "url": "https://open.spotify.com/album/2Ko1EaStAY3qbBALmqdl7T"
+      },
+      "artists": [
+        {
+          "name": "Cloud",
+          "url": "https://open.spotify.com/artist/5fbF88nlbT3z2qH9dlei5j"
+        },
+        {
+          "name": "Signature By OG",
+          "url": "https://open.spotify.com/artist/4WIUMr7y0ew27aNAWna1hu"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142736,
+      "name": "Charche",
+      "url": "https://open.spotify.com/track/6XE7hS0f3A59xRPZQf4nol"
+    },
+    {
+      "album": {
+        "name": "Charche",
         "url": "https://open.spotify.com/album/3KfTyw54dM8fKsPbvPlncW"
       },
       "artists": [
@@ -2207,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Chore Desi",
+        "url": "https://open.spotify.com/album/0r5U18cD9cOZGg2A80jXS5"
+      },
+      "artists": [
+        {
+          "name": "Its Aghori",
+          "url": "https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr"
+        },
+        {
+          "name": "Nishael",
+          "url": "https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151543,
+      "name": "Chore Desi",
+      "url": "https://open.spotify.com/track/3REvJ9NN7ibwwBvl61Xwz1"
+    },
+    {
+      "album": {
         "name": "Chore Haryana Aale",
         "url": "https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC"
       },
@@ -2330,6 +2374,32 @@
       "duration_ms": 224649,
       "name": "Chore Se Haryane Ke",
       "url": "https://open.spotify.com/track/5AtAg0j9V3wtYOvL8CQNdT"
+    },
+    {
+      "album": {
+        "name": "Chori Kati Gachh (From \"Mine Forever\")",
+        "url": "https://open.spotify.com/album/4DUYm0TUvnz5bUW4n7MKnC"
+      },
+      "artists": [
+        {
+          "name": "ViruSs",
+          "url": "https://open.spotify.com/artist/5NwH9QhyGfMDV6agHtBeqI"
+        },
+        {
+          "name": "Aarav Kaler",
+          "url": "https://open.spotify.com/artist/0qEiHe0YyGfdHn4DO5rmpI"
+        },
+        {
+          "name": "Ullumanati",
+          "url": "https://open.spotify.com/artist/4lYNRgHw7avPnT7pK1mehz"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "Chori Kati Gachh - From \"Mine Forever\"",
+      "url": "https://open.spotify.com/track/42RtGaj9e2TuOcAWm7Hd6P"
     },
     {
       "album": {
@@ -2892,7 +2962,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 205006,
       "name": "Desi Balak Gama Ke",
       "url": "https://open.spotify.com/track/6DonWP8ZlT3US6PlomsIka"
@@ -8295,6 +8365,24 @@
     },
     {
       "album": {
+        "name": "ON MY OWN",
+        "url": "https://open.spotify.com/album/2n0YUx9pVR9qytcTfFUEJy"
+      },
+      "artists": [
+        {
+          "name": "Heer Sharma",
+          "url": "https://open.spotify.com/artist/4QQR1yL6LPFEdLXrRsKyJU"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "ON MY OWN",
+      "url": "https://open.spotify.com/track/44F9E52qICkPn25RTgV4fm"
+    },
+    {
+      "album": {
         "name": "On the Way",
         "url": "https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw"
       },
@@ -9258,7 +9346,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 129348,
       "name": "Regret",
       "url": "https://open.spotify.com/track/3P3tIn3rfJTzAJbvfWO6uQ"
@@ -10718,7 +10806,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 185052,
       "name": "Theth Bars",
       "url": "https://open.spotify.com/track/6SauaZaUBC0EHvJ7o3Vrpb"

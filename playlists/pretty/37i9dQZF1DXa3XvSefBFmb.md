@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Rita Rocha, e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,048 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,049 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Leva\-me](https://open.spotify.com/track/00GaSyadd3k6KFCXRQfnFk) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Leva\-me](https://open.spotify.com/album/7AjVNaVNPYUAbN4kgCdXbG) | 3:13 |
+| 1 | [leva\-me](https://open.spotify.com/track/00GaSyadd3k6KFCXRQfnFk) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [leva\-me](https://open.spotify.com/album/7AjVNaVNPYUAbN4kgCdXbG) | 3:13 |
 | 2 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 |
 | 3 | [Sodadi](https://open.spotify.com/track/1LBVatFYRDSfosUCsdPJjb) | [Avanah](https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY) | [Sodadi](https://open.spotify.com/album/6yGZtar5VkZZsSTcBMPXAW) | 3:09 |
 | 4 | [sereia do tejo](https://open.spotify.com/track/1sInZsfDXJEH5gbBaDK6qk) | [Sónia Trópicos](https://open.spotify.com/artist/0T7F5hQwoXVywdSmxZzi3N) | [sereia do tejo](https://open.spotify.com/album/6Fl4uRPj1fhtAfPRFlFJM0) | 2:41 |

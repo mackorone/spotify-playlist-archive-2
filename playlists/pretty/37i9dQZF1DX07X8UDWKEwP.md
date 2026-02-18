@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,207 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,216 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 13 | [Cuidado Conmigo \- Versión Salsa](https://open.spotify.com/track/0t422ehD7Tq6ScQEbFMw9t) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Cuidado Conmigo \(Versión Salsa\)](https://open.spotify.com/album/2jYEAaXVw27hciL5bwgLZd) | 3:25 |
 | 14 | [Dario](https://open.spotify.com/track/7GMwZxNtYYteLnPgZPHR5d) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [Dario](https://open.spotify.com/album/3ZKapj48pN5cFTydeCFYEV) | 2:09 |
 | 15 | [la patadita](https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [la patadita](https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u) | 2:28 |
-| 16 | [Tal para cual](https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Musica para Bailar](https://open.spotify.com/album/551URKJBJFWFQi8FDrcjxY) | 2:54 |
+| 16 | [Tal para cual](https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [MÚSICA PARA BAILAR](https://open.spotify.com/album/551URKJBJFWFQi8FDrcjxY) | 2:54 |
 | 17 | [ROMÁNTICA](https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [ROMÁNTICA](https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M) | 3:51 |
 | 18 | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 |
 | 19 | [Muérdeme](https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Muérdeme](https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt) | 3:04 |

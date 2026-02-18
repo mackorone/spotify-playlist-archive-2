@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60667,
+  "num_followers": 60661,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "500 kr",
+        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
+      },
+      "artists": [
+        {
+          "name": "I$AK",
+          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "500 kr",
+      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "VULKAN\u00d8",
         "url": "https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ"
       },
@@ -555,42 +575,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Feelings You Don't Say Out Loud",
-        "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Feel Sorry",
-      "url": "https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "500 kr",
-        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
-      },
-      "artists": [
-        {
-          "name": "I$AK",
-          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
-        },
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "500 kr",
-      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 202171,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Feelings You Don't Say Out Loud",
+        "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Feel Sorry",
+      "url": "https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Two Years",
         "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 172889,
       "name": "Two Years",
       "url": "https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "N\u00e4r solen g\u00e5r ner",
+        "url": "https://open.spotify.com/album/00hvBlNmx8fqWKsR7L7AIQ"
+      },
+      "artists": [
+        {
+          "name": "Vince Wavy",
+          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
+        }
+      ],
+      "duration_ms": 201374,
+      "name": "N\u00e4r solen g\u00e5r ner",
+      "url": "https://open.spotify.com/track/5ajkC6KlMFGCCuTpMTHo9E"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Baba Life",
         "url": "https://open.spotify.com/album/6KZ5yRxExqkWqXtZH66Gp8"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 190573,
       "name": "Baba Life",
       "url": "https://open.spotify.com/track/2PE4NQTuR3u8MQZJSE5sLw"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "N\u00e4r solen g\u00e5r ner",
-        "url": "https://open.spotify.com/album/00hvBlNmx8fqWKsR7L7AIQ"
-      },
-      "artists": [
-        {
-          "name": "Vince Wavy",
-          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
-        }
-      ],
-      "duration_ms": 201374,
-      "name": "N\u00e4r solen g\u00e5r ner",
-      "url": "https://open.spotify.com/track/5ajkC6KlMFGCCuTpMTHo9E"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "WHAT\u2019S CUTE ABOUT HELL?",
-        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
-      },
-      "artists": [
-        {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Heart of Glass",
-      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Where's My Mind",
         "url": "https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Faller s\u00e5 l\u00e4tt",
-        "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
+        "name": "WHAT\u2019S CUTE ABOUT HELL?",
+        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
       },
       "artists": [
         {
-          "name": "Melwin Wid",
-          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+          "name": "Wilma Vidal",
+          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
         }
       ],
-      "duration_ms": 155322,
-      "name": "Faller s\u00e5 l\u00e4tt",
-      "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
+      "duration_ms": 240240,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1039,6 +1023,22 @@
       "duration_ms": 186893,
       "name": "Same Old Dirt",
       "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Faller s\u00e5 l\u00e4tt",
+        "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
+      },
+      "artists": [
+        {
+          "name": "Melwin Wid",
+          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Faller s\u00e5 l\u00e4tt",
+      "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "lotion",
-        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
       },
       "artists": [
         {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
         }
       ],
-      "duration_ms": 267559,
-      "name": "lotion",
-      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
+      "duration_ms": 213137,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        }
+      ],
+      "duration_ms": 134254,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "I want you to be happy",
         "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
+        "name": "lotion",
+        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
       },
       "artists": [
         {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
         }
       ],
-      "duration_ms": 134254,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
+      "duration_ms": 267559,
+      "name": "lotion",
+      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1407,22 +1423,6 @@
       "duration_ms": 242895,
       "name": "Andra Sidan",
       "url": "https://open.spotify.com/track/2gnMvGyvaq5729qTsXObn6"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Bully",
-        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Isobel",
-          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
     },
     {
       "added_at": "2026-02-12 23:00:44",

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124324,
+  "num_followers": 124319,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVIEU8SXQ/l1PjBIPahF1pHMr//lhh",
+  "snapshot_id": "AAAVITa5uFtAr4R+ffZdqtcBwjp7cPhR",
   "tracks": [
+    {
+      "added_at": "2026-02-17 14:41:13",
+      "album": {
+        "name": "Monstercat Instinct Selections 01",
+        "url": "https://open.spotify.com/album/2E8zvO8qz4NayWPn65dlEU"
+      },
+      "artists": [
+        {
+          "name": "ROOTIME",
+          "url": "https://open.spotify.com/artist/3jBBUJb1ugQtiBV1fxJ73t"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Hollywood '84",
+      "url": "https://open.spotify.com/track/7p8PCW0SNNO7XFAyMyyaRf"
+    },
     {
       "added_at": "2026-02-13 15:01:39",
       "album": {

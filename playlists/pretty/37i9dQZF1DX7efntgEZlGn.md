@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,350 likes - 54 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,351 likes - 54 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 17 | [Lenga](https://open.spotify.com/track/7pRb8X9cHy14Om1Y14DUfW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Lenga](https://open.spotify.com/album/3dBYgjC44flylPLTfBFX2y) | 3:16 |
 | 18 | [FOR YOU](https://open.spotify.com/track/4AoxEgV7vkrAKpJZDwycgV) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [FOR YOU](https://open.spotify.com/album/0PzaWYzLZI2oAPZrCiHi71) | 2:46 |
 | 19 | [Hubadiliki \(feat\. Bella Kombo\)](https://open.spotify.com/track/1A3uvglKkwzkm3kIE0B67I) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Bella Kombo](https://open.spotify.com/artist/72i32gJ4wl0C1b0RG4h5iN) | [Black Child](https://open.spotify.com/album/0IrAxhlwwL6RsdDdyeQyBm) | 4:35 |
-| 20 | [Anza Na Mimi](https://open.spotify.com/track/1IbqQnaUT7ZJdG9vZmVOlV) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anza Na Mimi](https://open.spotify.com/album/437wUYeGnL8aZcWtA7g9uL) | 3:42 |
+| 20 | [Anza Na Mimi](https://open.spotify.com/track/1IbqQnaUT7ZJdG9vZmVOlV) | [Boss MOG](https://open.spotify.com/artist/77mPArY9dTvCfjVOMDqd5g) | [Anza Na Mimi](https://open.spotify.com/album/437wUYeGnL8aZcWtA7g9uL) | 3:42 |
 | 21 | [Backslide](https://open.spotify.com/track/6XGUIaVkvoyc5An6h0uotV) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/1SfBM3PER9TurMOWK7GC0S) | 3:53 |
 | 22 | [Kingdom Choir](https://open.spotify.com/track/1sFfVH2LOKkI0f2s6pV4dh) | [Jfam](https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya), [Moodkai](https://open.spotify.com/artist/5fDrroPhERu1w9tkKVbG2d), [Davy Noty](https://open.spotify.com/artist/0Evb0Rducxsch65j5KJ1Iv), [Dj Ruff](https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr) | [Kingdom Choir](https://open.spotify.com/album/5lKTag6OC0bAxAqPIHOMnt) | 3:32 |
 | 23 | [All of My Worship](https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [All of My Worship](https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK) | 3:28 |

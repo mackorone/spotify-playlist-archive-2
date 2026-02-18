@@ -4999,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "A Bowl of Age",
+        "url": "https://open.spotify.com/album/2yP0eCuvzIhydUSKiG1lSj"
+      },
+      "artists": [
+        {
+          "name": "Bok Dajin",
+          "url": "https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161365,
+      "name": "A Bowl of Age",
+      "url": "https://open.spotify.com/track/70uenTm7l4n82vYVyWb0Lm"
+    },
+    {
+      "album": {
         "name": "A Breeze of Memories",
         "url": "https://open.spotify.com/album/4dNSZfAaQtrQbZyVISh9dd"
       },
@@ -35388,7 +35406,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 177067,
       "name": "Butterflies in my heart",
       "url": "https://open.spotify.com/track/1sQZZliQRm2IgjhHsJVy4E"
@@ -64070,7 +64088,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 194833,
       "name": "dust",
       "url": "https://open.spotify.com/track/7lZe7HIcIWwYNThkh9ywaG"
@@ -85906,6 +85924,24 @@
       "duration_ms": 176343,
       "name": "Give Me That - Korean Version",
       "url": "https://open.spotify.com/track/4Ta60nUTt3W1JU0AxctPyG"
+    },
+    {
+      "album": {
+        "name": "Give me that ca$h",
+        "url": "https://open.spotify.com/album/7cepctR66dNGaSU1VZ3ueQ"
+      },
+      "artists": [
+        {
+          "name": "HOON",
+          "url": "https://open.spotify.com/artist/1VTv19vFoeiKs28gOzntpL"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86346,
+      "name": "Give me that ca$h",
+      "url": "https://open.spotify.com/track/6ek2wbFgQcaarUxMc92lxW"
     },
     {
       "album": {
@@ -127583,6 +127619,36 @@
     },
     {
       "album": {
+        "name": "KIPAESI",
+        "url": "https://open.spotify.com/album/05Fze8BD2rCmW9hlIrN0Aq"
+      },
+      "artists": [
+        {
+          "name": "KOREANGROOVE",
+          "url": "https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "kitsyojii",
+          "url": "https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt"
+        },
+        {
+          "name": "Jichoomy",
+          "url": "https://open.spotify.com/artist/3B3obLpYvUEPncFyEyazl8"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "KIPAESI (Feat. ZENE THE ZILLA, kitsyojii, Jichoomy)",
+      "url": "https://open.spotify.com/track/4nB5o9m98Wt5bnnc2CEtiw"
+    },
+    {
+      "album": {
         "name": "Fantasy Pieces op.3 \u2013 Monster",
         "url": "https://open.spotify.com/album/0YRkXKhGb55FbFTXFKTtyc"
       },
@@ -142957,6 +143023,24 @@
     },
     {
       "album": {
+        "name": "Crazily, Only You (Original Webtoon Soundtrack), Pt. 25",
+        "url": "https://open.spotify.com/album/0uCnIm596dP9nMmA408FlO"
+      },
+      "artists": [
+        {
+          "name": "Ha Jin Woo",
+          "url": "https://open.spotify.com/artist/3fAszV8R8nx0cIkEglc9WC"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204175,
+      "name": "Love like rain on us",
+      "url": "https://open.spotify.com/track/2wwAYp1vW7ho5brkRBugTP"
+    },
+    {
+      "album": {
         "name": "LOVE LINE",
         "url": "https://open.spotify.com/album/180Huy9CUpRbOr0TJWErPY"
       },
@@ -156534,7 +156618,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 165517,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7BCBvD6x0CvAxQEgKNGaJr"
@@ -163290,7 +163374,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 195000,
       "name": "NAMSAN TOWER (feat. LEY)",
       "url": "https://open.spotify.com/track/1DfQw1Y8gpDDeqkOGMIAVY"
@@ -167364,7 +167448,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 245000,
       "name": "NO NEWS",
       "url": "https://open.spotify.com/track/5JPXDqMvhS8L0UV9gHhOzt"
@@ -176644,6 +176728,28 @@
       "duration_ms": 259725,
       "name": "ordinary love story",
       "url": "https://open.spotify.com/track/5QmzVk6ImvVAvdbemUIlGr"
+    },
+    {
+      "album": {
+        "name": "LOVE SONG BUNDLE.",
+        "url": "https://open.spotify.com/album/6JragXEObROPfpe6bjFZaD"
+      },
+      "artists": [
+        {
+          "name": "B JYUN.",
+          "url": "https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1"
+        },
+        {
+          "name": "offtheneve",
+          "url": "https://open.spotify.com/artist/5m2RRNUDdsjVPgJRAo0O5D"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217919,
+      "name": "ORDINARY LOVESONG.",
+      "url": "https://open.spotify.com/track/2RgUMNjkAkqqe9lrRTrNZ7"
     },
     {
       "album": {
@@ -199894,7 +200000,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 177142,
       "name": "sarang..",
       "url": "https://open.spotify.com/track/6ZJfNgDzD5itYTKZGj7aPy"
@@ -244566,7 +244672,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 204176,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/5I3Knzx2gKQs6wAGKN4xnH"
@@ -268683,6 +268789,24 @@
     },
     {
       "album": {
+        "name": "WORD = LOVE",
+        "url": "https://open.spotify.com/album/3HPTqVLXgaRp61zMawEqn9"
+      },
+      "artists": [
+        {
+          "name": "BOUN",
+          "url": "https://open.spotify.com/artist/0OlM5yJgtK5Gxeye4z7SLw"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "WORD = LOVE",
+      "url": "https://open.spotify.com/track/3VkfI6yXnhi7LtWxfeCGvf"
+    },
+    {
+      "album": {
         "name": "Words before death",
         "url": "https://open.spotify.com/album/1nMEtGmOEcZriI6Uz6qrRC"
       },
@@ -279074,6 +279198,24 @@
       "duration_ms": 242922,
       "name": "\ub0a1\uc740 \uad34\ub2f4 Cumulus",
       "url": "https://open.spotify.com/track/0XxPZIlQZ9V6yy4d56vTBU"
+    },
+    {
+      "album": {
+        "name": "\ub0a8",
+        "url": "https://open.spotify.com/album/7D48pjH1quK7raiZuF5kIG"
+      },
+      "artists": [
+        {
+          "name": "Terry",
+          "url": "https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "\ub0a8",
+      "url": "https://open.spotify.com/track/3IrLU6Qp6RdXL7TK7puZxd"
     },
     {
       "album": {

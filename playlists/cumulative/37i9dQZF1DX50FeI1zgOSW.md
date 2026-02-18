@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
 
-717 songs - 1 day 16 hr 51 min
+719 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Broken Star \(From "Loopd"\)](https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm) | [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc), [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e) | [Broken Star \(From "Loopd"\)](https://open.spotify.com/album/4OV1vpPYa4djhsQcBBRCtI) | 3:54 | 2026-02-13 |  |
 | [Broken Wings](https://open.spotify.com/track/77jETME7Ez1121b19u4rVc) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [Broken Wings](https://open.spotify.com/album/2a0O2snHRwzZyp7SLojqQZ) | 3:33 | 2025-04-10 | 2025-07-02 |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2023-03-21 | 2023-06-24 |
+| [Bujjima](https://open.spotify.com/track/4NKIP7uy8ktgK5mHC2g0o9) | [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp), [Sathyamoorthy C](https://open.spotify.com/artist/3ChJYuz2a0u0yymgxdXBRT), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Bujjima](https://open.spotify.com/album/0W6drGspLDcvOvOapzBkRJ) | 2:59 | 2026-02-17 |  |
 | [Callin](https://open.spotify.com/track/21ZfO35yXXVaz68RFq0j1u) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Callin](https://open.spotify.com/album/53A1Rka8vVEqsh0qYuuGFF) | 2:31 | 2024-02-23 | 2024-03-09 |
 | [Cappuccino](https://open.spotify.com/track/6UUN4R8AFzTAy0t36Gy5sa) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Cappuccino](https://open.spotify.com/album/0zT6PGfOSAmNR9LfHkkqIk) | 3:22 | 2025-03-10 | 2025-06-04 |
 | [Chance eh ille](https://open.spotify.com/track/5fLu5jziyGa6W9sO6hQjDw) | [Abhilash Gupta](https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M) | [Chance eh ille](https://open.spotify.com/album/7KY5QzrzH4bwic3HK7IPJI) | 3:06 | 2023-09-25 | 2024-05-04 |
@@ -435,6 +436,7 @@
 | [Office Anthem](https://open.spotify.com/track/5630irusLB5Zn3GY0QHReL) | [Dev Prakash](https://open.spotify.com/artist/45Ejr1KMTb7ofrNht7HWXZ) | [Office Anthem](https://open.spotify.com/album/7GcIIQ77lcWenxnuxYsOiz) | 4:13 | 2023-05-26 | 2023-07-25 |
 | [Oh Ho Penne \| Jamspot](https://open.spotify.com/track/6FKYdu56Zo69TwsR7fIucB) | [Pruthushaan](https://open.spotify.com/artist/7upALVqj1PmhQmEdTMi3Np), [Dishan Abrahams](https://open.spotify.com/artist/26IYw28t7jCB4gBHFNHeDU) | [Oh Ho Penne \| Jamspot](https://open.spotify.com/album/0Pri4zxzuJ8VB7IyyFLqoK) | 2:11 | 2024-08-30 | 2024-12-06 |
 | [Oh Kanmaniye](https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C) | [Dhayanesh Kumar R](https://open.spotify.com/artist/3RMR9E25rkqAVcYdaheO3f), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Padmaja Sreeenivasan](https://open.spotify.com/artist/2SVKMYeIcn3iTeKmI1cJpD) | [Oh Kanmaniye](https://open.spotify.com/album/4ChiG4kmBCXR6LWbX1ig6p) | 3:35 | 2024-08-16 | 2025-01-31 |
+| [Oh my baby](https://open.spotify.com/track/3wj1yaZ6wCsPNyT8yffpK9) | [Roshith abdulrahman](https://open.spotify.com/artist/1cmSRUsjBAxwwN0fiYAd1F) | [Oh my baby](https://open.spotify.com/album/1xGQE099slNMq3vi7OCYfs) | 3:42 | 2026-02-17 |  |
 | [Oh My Baby](https://open.spotify.com/track/6ZEz7w3tmInPP7WlK9C1wB) | [Sharon Shobana Vasudevan](https://open.spotify.com/artist/34T3pEe3EpbGVta9jXsTxg), [Sridhar Sena](https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET) | [Oh My Baby](https://open.spotify.com/album/3G9ETvDZGYQvOEQwWFi8RV) | 4:36 | 2025-11-17 |  |
 | [Oh Penne](https://open.spotify.com/track/14VjnMSZqC2hA8dIXMeBzi) | [SKN Sona](https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf), [Snehaa Sesh](https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO) | [Oh Penne](https://open.spotify.com/album/3bm1opjPl4lY3EJh8yW9SZ) | 4:15 | 2024-02-01 | 2024-04-02 |
 | [Oh Penne](https://open.spotify.com/track/2ONbOG4fGuX6fS4HhIy3ia) | [SKN Sona](https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf), [Snehaa Sesh](https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO) | [Oh Penne](https://open.spotify.com/album/3LsdoeaD3w9t12wWjQ8Hkr) | 4:15 | 2023-10-23 | 2024-02-21 |

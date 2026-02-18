@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,224 likes - 268 songs - 14 hr 58 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,223 likes - 274 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,9 +272,15 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 262 | [Better Mess](https://open.spotify.com/track/13s7P7Dl3aAVfvl4de9TGD) | [Emma Solane](https://open.spotify.com/artist/1a1VZfdCfLZn0gnoj34bGG) | [Better Mess](https://open.spotify.com/album/2zqeOUM5iYnYALYuDa8rEa) | 2:54 |
 | 263 | [Who Will I Be Without The Hurt I Hide?](https://open.spotify.com/track/3gPpJbCPhtdWs7QPLV77DR) | [Drowning Spree](https://open.spotify.com/artist/3hQb3x5dtoqt0PGaNRA7ny) | [Dust](https://open.spotify.com/album/0Don16tktB8AlPnTVNRnNT) | 2:57 |
 | 264 | [\(turn down the\) Radio](https://open.spotify.com/track/7tskKEOY8Ao6oDDQupvqXd) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:01 |
-| 265 | [What Daisy Did](https://open.spotify.com/track/1wObDsiL7Kxn1f8q1tMjxY) | [Ninebanks](https://open.spotify.com/artist/42PRfPQPdRIrDHTFITDCtl) | [What Daisy Did](https://open.spotify.com/album/6RASAtC0veORMpLjBulrHp) | 3:08 |
-| 266 | [Hunger of Hadar](https://open.spotify.com/track/7udj4TuaQohHpmu6hmtVuw) | [Crush](https://open.spotify.com/artist/5yvFvBNNtlQLLiV6QZOreL) | [Hunger of Hadar](https://open.spotify.com/album/1Mw1I3H1UWrSD2N7eL9tBV) | 4:40 |
-| 267 | [Make Way For The King](https://open.spotify.com/track/4Tc9hUFubPxWZg6ZVROomE) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 3:58 |
-| 268 | [Disclaimer\*](https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or) | [FLAWERS](https://open.spotify.com/artist/5VnP0wjcPHZEburwioHNCv) | [Disclaimer\*](https://open.spotify.com/album/6Edik332rPxEVmkk0GPNEl) | 1:06 |
+| 265 | [Drowning](https://open.spotify.com/track/5G4SXO669dSIew39skz6vl) | [Clockwork Animals](https://open.spotify.com/artist/2WVPZheo1GVUk7H4D8Cnay) | [Drowning](https://open.spotify.com/album/18gjNVo1idsPDLeyC2u9Jo) | 4:25 |
+| 266 | [What Daisy Did](https://open.spotify.com/track/1wObDsiL7Kxn1f8q1tMjxY) | [Ninebanks](https://open.spotify.com/artist/42PRfPQPdRIrDHTFITDCtl) | [What Daisy Did](https://open.spotify.com/album/6RASAtC0veORMpLjBulrHp) | 3:08 |
+| 267 | [Hunger of Hadar](https://open.spotify.com/track/7udj4TuaQohHpmu6hmtVuw) | [Crush](https://open.spotify.com/artist/5yvFvBNNtlQLLiV6QZOreL) | [Hunger of Hadar](https://open.spotify.com/album/1Mw1I3H1UWrSD2N7eL9tBV) | 4:40 |
+| 268 | [Release](https://open.spotify.com/track/44om7A8mIDtFknRkEnGJrH) | [Semench Chirock](https://open.spotify.com/artist/17jjZJtry78DrTpQB0uAlN) | [Release](https://open.spotify.com/album/1Ww3fbLK24NEG8dPhriU1N) | 4:25 |
+| 269 | [Make Way For The King](https://open.spotify.com/track/4Tc9hUFubPxWZg6ZVROomE) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 3:58 |
+| 270 | [Disclaimer\*](https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or) | [FLAWERS](https://open.spotify.com/artist/5VnP0wjcPHZEburwioHNCv) | [Disclaimer\*](https://open.spotify.com/album/6Edik332rPxEVmkk0GPNEl) | 1:06 |
+| 271 | [He´s Coming For You](https://open.spotify.com/track/4IWccZBLqKHQcG3mXGpl0y) | [One Step Further](https://open.spotify.com/artist/6fH2lrvMgsYCJdBIvgjgm0) | [He´s Coming For You](https://open.spotify.com/album/6hfLj6CeayrFKAP6SPad95) | 4:54 |
+| 272 | [Never Again](https://open.spotify.com/track/5Rz3y7fI52nrKHGtQNrITU) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Never Again](https://open.spotify.com/album/028H3GvvgjXlHv275ArnQU) | 2:26 |
+| 273 | [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 |
+| 274 | [My Brain Hurts](https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [My Brain Hurts](https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy) | 1:44 |
 
-Snapshot ID: `AAALPxSuEF+/H6uviEs82L7qYP2T+QqA`
+Snapshot ID: `AAALRS+MHBU4GeeHEhhkBEQTgk5Kln2t`

@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-305 songs - 17 hr 11 min
+306 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bless The Broken Road](https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Bless The Broken Road \(The Duets Album\)](https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ) | 4:10 | 2020-04-17 | 2024-04-19 |
 | [Bless The Broken Road](https://open.spotify.com/track/5Fy6J74jVV1skR9rsOzoqE) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Timeless: The Selah Music Collection](https://open.spotify.com/album/2k6RX4wf7ugNg7wsZ6CZw7) | 4:10 | 2020-04-17 | 2022-11-13 |
 | [Boo](https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK) | [Boo](https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl) | 2:20 | 2024-02-03 | 2025-02-08 |
-| [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 | 2025-02-14 |  |
+| [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 | 2025-02-14 | 2026-02-18 |
 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 | 2023-01-31 | 2024-02-04 |
 | [Butterflies](https://open.spotify.com/track/7uKhxMHB8UXqsHO0OKlPfd) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [HOME AWAY FROM HOME](https://open.spotify.com/album/3IiegkxYVMPRNpY3wDFD1x) | 2:16 | 2025-12-14 | 2026-01-15 |
 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 | 2024-02-03 | 2025-02-21 |
@@ -238,6 +238,7 @@
 | [Safe](https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Safe](https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX) | 4:30 | 2020-04-17 | 2025-09-15 |
 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 | 2024-02-03 | 2026-02-08 |
 | [Scared to Love](https://open.spotify.com/track/3mhdHHNjP6lllNggZwK9v6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Scared to Love](https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff) | 4:15 | 2024-02-03 | 2025-11-30 |
+| [Set Me Free](https://open.spotify.com/track/3GWHYf0nPbs962TqBdRyKC) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [Set Me Free](https://open.spotify.com/album/7bfETEY3zXmR2c6e6rnaYd) | 3:32 | 2026-02-13 |  |
 | [SHE](https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [SHE](https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH) | 3:44 | 2023-01-31 | 2023-12-10 |
 | [SHOW ME LOVE AGAIN](https://open.spotify.com/track/0r3fryvorHwYl4pPIJilco) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [With Love, Anike](https://open.spotify.com/album/0LHtU4Hcv2OEfW3xaBHX4p) | 3:36 | 2025-02-14 |  |
 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/7HZ71xA72mMAj94NH7suWy) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2024-02-03 | 2024-07-18 |

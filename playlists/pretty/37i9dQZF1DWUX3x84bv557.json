@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: MAKSIM & Babet",
-  "num_followers": 246905,
+  "num_followers": 246899,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOcfOCMlEGJmK/n0lSJTyYg+4stK",
+  "snapshot_id": "AAAAAOV5uZmz809my7a+DzeejflFWgBV",
   "tracks": [
     {
       "added_at": "2026-02-13 12:00:17",
@@ -131,6 +131,42 @@
     {
       "added_at": "2026-02-13 12:00:17",
       "album": {
+        "name": "Waar Ben Jij Geweest",
+        "url": "https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "duration_ms": 168442,
+      "name": "Waar Ben Jij Geweest",
+      "url": "https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM"
+    },
+    {
+      "added_at": "2026-02-13 12:00:17",
+      "album": {
+        "name": "Jouw Adres",
+        "url": "https://open.spotify.com/album/4cwPu3BX8jWSpo8nOigTN8"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 153529,
+      "name": "Jouw Adres",
+      "url": "https://open.spotify.com/track/0daNdINz7hhgm7KYRswsKJ"
+    },
+    {
+      "added_at": "2026-02-13 12:00:17",
+      "album": {
         "name": "Leun Maar Op Mij",
         "url": "https://open.spotify.com/album/05Bk4rmZoPUuH1dffJZLfk"
       },
@@ -163,22 +199,6 @@
     {
       "added_at": "2026-02-13 12:00:17",
       "album": {
-        "name": "Waar Ben Jij Geweest",
-        "url": "https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3"
-      },
-      "artists": [
-        {
-          "name": "LAUF",
-          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
-        }
-      ],
-      "duration_ms": 168442,
-      "name": "Waar Ben Jij Geweest",
-      "url": "https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM"
-    },
-    {
-      "added_at": "2026-02-13 12:00:17",
-      "album": {
         "name": "Op Mijn Tijd",
         "url": "https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 164402,
       "name": "Voelen Dat Ik Leef",
       "url": "https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq"
-    },
-    {
-      "added_at": "2026-02-13 12:00:17",
-      "album": {
-        "name": "Jouw Adres",
-        "url": "https://open.spotify.com/album/4cwPu3BX8jWSpo8nOigTN8"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 153529,
-      "name": "Jouw Adres",
-      "url": "https://open.spotify.com/track/0daNdINz7hhgm7KYRswsKJ"
     },
     {
       "added_at": "2026-02-13 12:00:17",
@@ -247,6 +247,42 @@
     {
       "added_at": "2026-02-13 12:00:17",
       "album": {
+        "name": "CD van mij",
+        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "CD van mij",
+      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
+    },
+    {
+      "added_at": "2026-02-13 12:00:17",
+      "album": {
+        "name": "Gedoemd Te Mislukken",
+        "url": "https://open.spotify.com/album/6veVuNUi2Ges3ZacZzyhUe"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Gedoemd Te Mislukken",
+      "url": "https://open.spotify.com/track/08usYSVEgY0R01aoWgiVFf"
+    },
+    {
+      "added_at": "2026-02-13 12:00:17",
+      "album": {
         "name": "Kom Je Langs",
         "url": "https://open.spotify.com/album/1LBMlV3vNWjzOvX3PfULWD"
       },
@@ -279,26 +315,6 @@
     {
       "added_at": "2026-02-13 12:00:17",
       "album": {
-        "name": "CD van mij",
-        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "CD van mij",
-      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
-    },
-    {
-      "added_at": "2026-02-13 12:00:17",
-      "album": {
         "name": "Dansvloer Dilemma",
         "url": "https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 194910,
       "name": "Echt Zo",
       "url": "https://open.spotify.com/track/5RiNPHQmTZeLHiVPZFg0jn"
-    },
-    {
-      "added_at": "2026-02-13 12:00:17",
-      "album": {
-        "name": "Gedoemd Te Mislukken",
-        "url": "https://open.spotify.com/album/6veVuNUi2Ges3ZacZzyhUe"
-      },
-      "artists": [
-        {
-          "name": "Sleeq",
-          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Gedoemd Te Mislukken",
-      "url": "https://open.spotify.com/track/08usYSVEgY0R01aoWgiVFf"
     },
     {
       "added_at": "2026-02-13 12:00:17",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-13 12:00:17",
       "album": {
-        "name": "Woensdag",
-        "url": "https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
-        }
-      ],
-      "duration_ms": 141470,
-      "name": "Woensdag",
-      "url": "https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf"
-    },
-    {
-      "added_at": "2026-02-13 12:00:17",
-      "album": {
         "name": "Pauze",
         "url": "https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 140750,
       "name": "Wolken",
       "url": "https://open.spotify.com/track/2OmLONCXv8o6QEgmzcAmBa"
+    },
+    {
+      "added_at": "2026-02-13 12:00:17",
+      "album": {
+        "name": "Woensdag",
+        "url": "https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "duration_ms": 141470,
+      "name": "Woensdag",
+      "url": "https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf"
     },
     {
       "added_at": "2026-02-13 12:00:17",

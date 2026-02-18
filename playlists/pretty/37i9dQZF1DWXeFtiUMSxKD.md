@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeFtiUMSxKD.md) - [plain]
 
 > The songs that inspired "Wuthering Heights," curated by Charli xcx and Emerald Fennell\. Plus, the film's original soundtrack album by Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,031 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,728 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

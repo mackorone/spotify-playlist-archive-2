@@ -68473,7 +68473,7 @@
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171750,
+      "duration_ms": 171789,
       "name": "NNT",
       "url": "https://open.spotify.com/track/6RJ5RBEdQUdzAuLMRbeNqm"
     },
@@ -81547,28 +81547,6 @@
     },
     {
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "date_added": "2026-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138533,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
-    },
-    {
-      "album": {
         "name": "Reckless & Sweet",
         "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
       },
@@ -81584,6 +81562,32 @@
       "duration_ms": 159680,
       "name": "Reckless & Sweet",
       "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
+      "album": {
+        "name": "Reckless (feat. Static Major)",
+        "url": "https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "Reckless (feat. Static Major)",
+      "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
     },
     {
       "album": {

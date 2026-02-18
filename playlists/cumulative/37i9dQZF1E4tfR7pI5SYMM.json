@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 190545,
       "name": "'Til They Clean Me From the Side of the Road",
       "url": "https://open.spotify.com/track/4Pdv0IgOCgFHfbVhCVBUcJ"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 163567,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/3cesGBFlKLX0Ff0SJD53B9"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 238232,
       "name": "Dream III",
       "url": "https://open.spotify.com/track/4DXpm57YyEvDebgLuiHqAw"
@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 267391,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
@@ -2900,6 +2900,24 @@
       "duration_ms": 266506,
       "name": "Imposter's Dance",
       "url": "https://open.spotify.com/track/7lH3ksZ0uu1as57zkyvmlR"
+    },
+    {
+      "album": {
+        "name": "Alles Endet",
+        "url": "https://open.spotify.com/album/6CfWnGZMQlBN8kYJRuRCB4"
+      },
+      "artists": [
+        {
+          "name": "ROTH",
+          "url": "https://open.spotify.com/artist/7l7GLsptmE37UoBbGq4j4M"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "In Den Wurzeln Der Eichen",
+      "url": "https://open.spotify.com/track/25LXnPr7P6xPRHF7jDMaP6"
     },
     {
       "album": {
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 312096,
       "name": "Kas Mes?",
       "url": "https://open.spotify.com/track/55eUd1ieePkJ3aPmSDud1i"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Kom Og Klikk",
       "url": "https://open.spotify.com/track/7g9I1OQhHH3MvKGf43TbZt"
@@ -3156,7 +3174,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 243902,
       "name": "Kom Og Klikk - Harvey North Remix",
       "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
@@ -3697,6 +3715,28 @@
     },
     {
       "album": {
+        "name": "Me, Myself and I",
+        "url": "https://open.spotify.com/album/3mwsXQeYsdSmbXre9RDzD0"
+      },
+      "artists": [
+        {
+          "name": "This Eternal Decay",
+          "url": "https://open.spotify.com/artist/5MYAn0u2g4d3lRVLyrCC5J"
+        },
+        {
+          "name": "Darkways",
+          "url": "https://open.spotify.com/artist/3tzqjcIe3CsvE2pS7utv7B"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241806,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6oiA8lDMivmCZcxePtcfJV"
+    },
+    {
+      "album": {
         "name": "Meet Again",
         "url": "https://open.spotify.com/album/53rMBu5VBAWZMl5oUF5ZNg"
       },
@@ -3766,6 +3806,24 @@
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
+    },
+    {
+      "album": {
+        "name": "Mirror Curse",
+        "url": "https://open.spotify.com/album/5kHpnniuOlch6HiZaaI8p0"
+      },
+      "artists": [
+        {
+          "name": "Deus Ex Lumina",
+          "url": "https://open.spotify.com/artist/5DbzvrfeTWRy2XP39CmmTS"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Mirror Curse",
+      "url": "https://open.spotify.com/track/7eqHOmbCELyi1yn0ZPQJIu"
     },
     {
       "album": {
@@ -3975,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "Antipode",
+        "url": "https://open.spotify.com/album/7CQsyA3DUdv6viu20GxAuA"
+      },
+      "artists": [
+        {
+          "name": "OUL",
+          "url": "https://open.spotify.com/artist/7fYCDj4CFxzSB6D9ts52Iu"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255812,
+      "name": "My Elegy",
+      "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
+    },
+    {
+      "album": {
         "name": "My Love Fits You Like A Glove",
         "url": "https://open.spotify.com/album/0iunX1byq12wToqMJb6i6z"
       },
@@ -4152,7 +4228,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -4448,10 +4524,28 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 174545,
       "name": "Odin",
       "url": "https://open.spotify.com/track/1ht01WVeH0egiSMOyTGjW8"
+    },
+    {
+      "album": {
+        "name": "Apofenia",
+        "url": "https://open.spotify.com/album/54AqDEVCZNNlXSZj9RVMjj"
+      },
+      "artists": [
+        {
+          "name": "In Nocte Perpetua",
+          "url": "https://open.spotify.com/artist/6nZB1rHIDDHscrslmBQO5X"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246088,
+      "name": "Old Heart Falls",
+      "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
     },
     {
       "album": {
@@ -4520,7 +4614,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 248006,
       "name": "Open Letter",
       "url": "https://open.spotify.com/track/1UrVaIrMeq8EIvi5XaLkRL"
@@ -4802,6 +4896,32 @@
       "duration_ms": 242466,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0wd5vQAbVsBFxlungrDqlV"
+    },
+    {
+      "album": {
+        "name": "Pr\u00eat-\u00e0-Mourir 2",
+        "url": "https://open.spotify.com/album/5xd7o3Y0ALV3Vjo9QZO8Of"
+      },
+      "artists": [
+        {
+          "name": "Sydney Valette",
+          "url": "https://open.spotify.com/artist/2KJAUWVNVVze4aPbJdDS4I"
+        },
+        {
+          "name": "Zoe H",
+          "url": "https://open.spotify.com/artist/6ekxJ9CKJ4SgfJOwyra31Z"
+        },
+        {
+          "name": "Pauline",
+          "url": "https://open.spotify.com/artist/1UUWzwUGRtDtulSjcrcdzR"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267390,
+      "name": "Pr\u00eat-\u00e0-Mourir 2",
+      "url": "https://open.spotify.com/track/55KW8vo5FASS19k07W2T9S"
     },
     {
       "album": {
@@ -5490,7 +5610,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 216864,
       "name": "Sons of Aeeth",
       "url": "https://open.spotify.com/track/4hGuteKLpeM13iVnhkwWlg"
@@ -5620,7 +5740,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Stjernene Lyser",
       "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
@@ -5934,7 +6054,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 258147,
       "name": "Tension - 442 Hz",
       "url": "https://open.spotify.com/track/1yUz9pCTAuytgs56FFb1wa"
@@ -6114,7 +6234,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -6392,7 +6512,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -6706,7 +6826,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -6875,6 +6995,24 @@
     },
     {
       "album": {
+        "name": "Vessel To Nowhere",
+        "url": "https://open.spotify.com/album/1D2GNqEfh2MGCskkejE6pn"
+      },
+      "artists": [
+        {
+          "name": "Hela",
+          "url": "https://open.spotify.com/artist/1rRi8buombpxhC9BDJmhhT"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420060,
+      "name": "Vessel To Nowhere",
+      "url": "https://open.spotify.com/track/0yWg1jXATCxyo76uyWDjrW"
+    },
+    {
+      "album": {
         "name": "Systeemi",
         "url": "https://open.spotify.com/album/5iDdFI6IZWxoum8Ya5vmd5"
       },
@@ -6922,7 +7060,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -7312,7 +7450,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 193880,
       "name": "Yes Life",
       "url": "https://open.spotify.com/track/6FWuNBlli4DK29hMLq1J0a"
@@ -7442,7 +7580,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"

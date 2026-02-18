@@ -8,9 +8,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Lover's Concerto](https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:14 | 2022-05-25 |  |
+| [A Lover's Concerto](https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:14 | 2022-05-25 | 2026-02-18 |
 | [Ain't That Peculiar \- Remastered](https://open.spotify.com/track/7om40hqPzeuIhQUKA6TLMn) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 1:46 | 2023-02-11 | 2024-02-11 |
-| [Alfie](https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:50 | 2022-05-27 | 2026-02-15 |
+| [Alfie](https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:50 | 2022-05-27 |  |
 | [Baby I Love You](https://open.spotify.com/track/2tTdwJOFZY5ofaomvP4WmY) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:07 | 2022-05-25 |  |
 | [Baby I Miss You](https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:21 | 2022-05-25 |  |
 | [Break Your Promise \- Remastered](https://open.spotify.com/track/6k2cegIpd6Nc2WpO6xaSIc) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:03 | 2022-05-26 |  |

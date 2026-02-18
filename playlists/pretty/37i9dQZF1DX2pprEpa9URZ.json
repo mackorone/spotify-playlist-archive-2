@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 895274,
+  "num_followers": 895376,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -135,54 +135,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Samarkand",
-        "url": "https://open.spotify.com/album/7GI2B06iMtjtzt1pK6FtR2"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "KIDY",
-          "url": "https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG"
-        },
-        {
-          "name": "ARVIII",
-          "url": "https://open.spotify.com/artist/3rFcQPQZfXDmbCsF5mNmyQ"
-        }
-      ],
-      "duration_ms": 141219,
-      "name": "Samarkand",
-      "url": "https://open.spotify.com/track/1acilPTS9wGa5MpBSyonPZ"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Sabu",
-        "url": "https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        },
-        {
-          "name": "Palane",
-          "url": "https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr"
-        }
-      ],
-      "duration_ms": 184062,
-      "name": "Sabu",
-      "url": "https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Mui",
         "url": "https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV"
       },
@@ -211,6 +163,54 @@
       "duration_ms": 243902,
       "name": "Mui",
       "url": "https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Sabu",
+        "url": "https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        },
+        {
+          "name": "Palane",
+          "url": "https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr"
+        }
+      ],
+      "duration_ms": 184062,
+      "name": "Sabu",
+      "url": "https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Samarkand",
+        "url": "https://open.spotify.com/album/7GI2B06iMtjtzt1pK6FtR2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "KIDY",
+          "url": "https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG"
+        },
+        {
+          "name": "ARVIII",
+          "url": "https://open.spotify.com/artist/3rFcQPQZfXDmbCsF5mNmyQ"
+        }
+      ],
+      "duration_ms": 141219,
+      "name": "Samarkand",
+      "url": "https://open.spotify.com/track/1acilPTS9wGa5MpBSyonPZ"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -395,6 +395,26 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Objetos enterrados",
         "url": "https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk"
       },
@@ -439,26 +459,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Salaam",
-        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Hiya",
-          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
       },
@@ -475,30 +475,6 @@
       "duration_ms": 180021,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "No Bad Vibes (with Jayda G)",
-        "url": "https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes (with Jayda G)",
-      "url": "https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -559,6 +535,30 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "No Bad Vibes (with Jayda G)",
+        "url": "https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes (with Jayda G)",
+      "url": "https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -603,18 +603,38 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
+        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "David Rausch",
+          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
+        },
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 431565,
+      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
+      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -643,6 +663,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB"
       },
@@ -659,6 +695,42 @@
       "duration_ms": 258515,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Akenza",
+        "url": "https://open.spotify.com/album/3UHmB0lFBUwSdsP65b8qcH"
+      },
+      "artists": [
+        {
+          "name": "El Khatib",
+          "url": "https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y"
+        }
+      ],
+      "duration_ms": 139312,
+      "name": "Akenza",
+      "url": "https://open.spotify.com/track/67RI2O6JgdeBENhn6rY4eG"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Experiencing a Significant Gravitas Shortfall",
+        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
+      },
+      "artists": [
+        {
+          "name": "Commoner",
+          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
+        },
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
+      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -683,78 +755,6 @@
       "duration_ms": 291274,
       "name": "Umlungu Wami",
       "url": "https://open.spotify.com/track/0Z63ASshEjLPyOxguKGYve"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Akenza",
-        "url": "https://open.spotify.com/album/3UHmB0lFBUwSdsP65b8qcH"
-      },
-      "artists": [
-        {
-          "name": "El Khatib",
-          "url": "https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y"
-        }
-      ],
-      "duration_ms": 139312,
-      "name": "Akenza",
-      "url": "https://open.spotify.com/track/67RI2O6JgdeBENhn6rY4eG"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
-        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
-      },
-      "artists": [
-        {
-          "name": "David Rausch",
-          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
-        },
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 431565,
-      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
-      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Experiencing a Significant Gravitas Shortfall",
-        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
-      },
-      "artists": [
-        {
-          "name": "Commoner",
-          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
-        },
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
-      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Agua e pipa",
         "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 202553,
       "name": "Agua e pipa",
       "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -983,30 +983,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Asalam Alaikum",
-        "url": "https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        },
-        {
-          "name": "Zamna Soundsystem",
-          "url": "https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG"
-        }
-      ],
-      "duration_ms": 303386,
-      "name": "Asalam Alaikum",
-      "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Asalam Alaikum",
+        "url": "https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Zamna Soundsystem",
+          "url": "https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG"
+        }
+      ],
+      "duration_ms": 303386,
+      "name": "Asalam Alaikum",
+      "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
+      },
+      "artists": [
+        {
+          "name": "Solkatt",
+          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 285148,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
-      },
-      "artists": [
-        {
-          "name": "Solkatt",
-          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
-      },
-      "artists": [
-        {
-          "name": "Lilya Mandre",
-          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
-        },
-        {
-          "name": "Dennis Louvra",
-          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 294661,
       "name": "El Dolor",
       "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "Dennis Louvra",
+          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Liya Snin (Omerar Nanda Remix)",
         "url": "https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil"
       },
       "artists": [
         {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+          "name": "Palo Canto",
+          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
         }
       ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+      "duration_ms": 187722,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1463,22 +1479,6 @@
       "duration_ms": 403831,
       "name": "Flowers in Mind",
       "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil"
-      },
-      "artists": [
-        {
-          "name": "Palo Canto",
-          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
-        }
-      ],
-      "duration_ms": 187722,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/3BGVIwC4MahiHd96PCLaqt"
       },
       "artists": [
         {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
         }
       ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+      "duration_ms": 352764,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/3SR8pZlWVascMkxrOhDDXk"
     }
   ],
   "unique_name": "Org\u00e1nica",

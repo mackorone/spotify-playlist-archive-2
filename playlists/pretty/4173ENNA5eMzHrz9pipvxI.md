@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: TH;EN
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,613 likes - 151 songs - 7 hr 35 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,609 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,6 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 147 | [All That Mattered \(Love You Down\)](https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [De Nuit](https://open.spotify.com/artist/6KH3HjsV7nNF47ODgNISHH) | [All That Mattered \(Love You Down\)](https://open.spotify.com/album/63E7tYqaL1KJNGymN1prgq) | 2:43 |
 | 148 | [La Vida \- Radio Edit](https://open.spotify.com/track/6DCNCcgxcMSTBoPdNXcei3) | [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b), [Peter Guzman](https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3), [Jose Alves](https://open.spotify.com/artist/3wgghSRJ0p9lOfHiE9D1Y9), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [La Vida EP](https://open.spotify.com/album/6Jsb3lrk8UEOaYJKlCMtgg) | 4:48 |
 | 149 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
-| 150 | [Not Just Rhythm](https://open.spotify.com/track/2H8zZJJBlLZ90oLiaajzKI) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Not Just Rhythm](https://open.spotify.com/album/3rgskMBNFITv37ye3hDlCp) | 3:28 |
-| 151 | [Fever Dream \- Extended Mix](https://open.spotify.com/track/0nBHXHM7VzucF8OtVJzAdE) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Fever Dream](https://open.spotify.com/album/3M7b4WrkyiNENf3GNXKLuq) | 3:32 |
+| 150 | [Fever Dream \- Extended Mix](https://open.spotify.com/track/0nBHXHM7VzucF8OtVJzAdE) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Fever Dream](https://open.spotify.com/album/3M7b4WrkyiNENf3GNXKLuq) | 3:32 |
 
-Snapshot ID: `AAAgrwBdyWZyULKzHPtOWrdPvTqn4SPC`
+Snapshot ID: `AAAgsMZiZqP3jiLOG3ws6X0wSrfpm/nH`

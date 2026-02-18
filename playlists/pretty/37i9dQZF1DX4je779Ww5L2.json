@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191280,
+  "num_followers": 191270,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Pelechian 2",
-        "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
-      },
-      "artists": [
-        {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "Pelechian 2",
-      "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "August Parker",
         "url": "https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 199000,
       "name": "Eight",
       "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Pelechian 2",
+        "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "duration_ms": 307706,
+      "name": "Pelechian 2",
+      "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -467,22 +467,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
       },
       "artists": [
         {
-          "name": "Sam De Nef",
-          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
-        },
-        {
-          "name": "Camille Camille",
-          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
         }
       ],
-      "duration_ms": 253919,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
+      "duration_ms": 403787,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -503,18 +499,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
       },
       "artists": [
         {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+          "name": "Sam De Nef",
+          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
+        },
+        {
+          "name": "Camille Camille",
+          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
         }
       ],
-      "duration_ms": 403787,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
+      "duration_ms": 253919,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Sincerely, Sevens",
+        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "More than a warning",
         "url": "https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 301417,
       "name": "More than a warning",
       "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Time Drifts",
-        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
-      },
-      "artists": [
-        {
-          "name": "I Am Oak",
-          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
-        }
-      ],
-      "duration_ms": 237635,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Time Drifts",
+        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
+      },
+      "artists": [
+        {
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+        }
+      ],
+      "duration_ms": 237635,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Moonlit Parade",
         "url": "https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat"
       },
@@ -1067,38 +1083,6 @@
       "duration_ms": 185680,
       "name": "Moonlit Parade",
       "url": "https://open.spotify.com/track/1NL10e7NLz2eODtCieADly"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Sincerely, Sevens",
-        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1119,18 +1103,34 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
       "artists": [
         {
-          "name": "Loki Project",
-          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
+      },
+      "artists": [
+        {
+          "name": "Loki Project",
+          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 248933,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
-      },
-      "artists": [
-        {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
-        }
-      ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Don't Worry About The Rain",
         "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 227840,
       "name": "Don't Worry About The Rain",
       "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "added_at": "2026-02-12 23:00:28",

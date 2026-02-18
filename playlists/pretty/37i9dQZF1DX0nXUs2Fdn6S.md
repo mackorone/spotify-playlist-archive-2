@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Nucleya
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,619 likes - 78 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,622 likes - 78 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 77 | [All Night](https://open.spotify.com/track/096pe7et5ylo1upVC9D6CQ) | [Shahee](https://open.spotify.com/artist/0ghVk0BN5DJo2zcxV5IkQS) | [All Night](https://open.spotify.com/album/4YAKNotRPQJ1OLRXwBSE5X) | 2:50 |
 | 78 | [Mera Dil](https://open.spotify.com/track/4CgB8kj1mrBOkeGnTTw28m) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Adnan Ahmad](https://open.spotify.com/artist/7qFEucMhWHhPO9LftYsTcO) | [Mera Dil](https://open.spotify.com/album/3TPaXFvYWPk2F9WqGiGM0c) | 3:15 |
 
-Snapshot ID: `AAAAAEBm+7/iVE2V5T5YQkqe5vX0bncP`
+Snapshot ID: `AAAAAKKRUvTSXKUPpBv56Hi84fckj+m7`

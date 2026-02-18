@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
@@ -6552,7 +6552,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -20781,6 +20781,24 @@
     },
     {
       "album": {
+        "name": "Omg\u65b0\u5e74\u5230",
+        "url": "https://open.spotify.com/album/7jk6FZuoA62JVJedDXfCt6"
+      },
+      "artists": [
+        {
+          "name": "1119",
+          "url": "https://open.spotify.com/artist/5cKj8OK6VqHbxpsWIpfKYz"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191775,
+      "name": "Omg\u65b0\u5e74\u5230",
+      "url": "https://open.spotify.com/track/3uOVQL7FjHqlnZzoCb8IQF"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -23928,7 +23946,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -28644,7 +28662,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -29934,6 +29952,24 @@
       "duration_ms": 211399,
       "name": "Thursday's Child Has Far To Go",
       "url": "https://open.spotify.com/track/04CHEoMbrLOiX8co3EG5dO"
+    },
+    {
+      "album": {
+        "name": "MY Astro Tian Tian Hao Tian Hao Fu Qi",
+        "url": "https://open.spotify.com/album/2qCtuaUZzRXsVfniix873c"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "Tian Tian Hao Tian",
+      "url": "https://open.spotify.com/track/0f7TfVYvAGaGPNmAlPjrF4"
     },
     {
       "album": {
@@ -34047,6 +34083,40 @@
     },
     {
       "album": {
+        "name": "\u4f60\u597d\u6211\u597d\u65b0\u5e74\u597d",
+        "url": "https://open.spotify.com/album/3CRbwJ4jsbbSsZPdxvTpOS"
+      },
+      "artists": [
+        {
+          "name": "Danny Koo",
+          "url": "https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9"
+        },
+        {
+          "name": "Jasmine C",
+          "url": "https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB"
+        },
+        {
+          "name": "Chris \u5b98\u6770\u7693",
+          "url": "https://open.spotify.com/artist/1RmlAusTzAZxnL52oD223v"
+        },
+        {
+          "name": "Miki\u548f\u7444",
+          "url": "https://open.spotify.com/artist/6CB6lTJCzYObdXJ0jh7vUs"
+        },
+        {
+          "name": "Janelle Jiahuii",
+          "url": "https://open.spotify.com/artist/2BtuqXTwj2cAPrgKCHfWIk"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "\u4f60\u597d\u6211\u597d\u65b0\u5e74\u597d",
+      "url": "https://open.spotify.com/track/7h5e2sDk3f9DlAJ8hX8jXn"
+    },
+    {
+      "album": {
         "name": "\u4f60\u8aac\u86c7",
         "url": "https://open.spotify.com/album/4nVsnpel2AYjHlmN3CnWZz"
       },
@@ -34292,7 +34362,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 254794,
       "name": "\u5584\u540e",
       "url": "https://open.spotify.com/track/6gYS6CQc7UMnj0Ubq3C0QT"
@@ -34328,7 +34398,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 333628,
       "name": "\u5609\u8cd3",
       "url": "https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi"
@@ -34408,6 +34478,24 @@
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
+    },
+    {
+      "album": {
+        "name": "\u5feb\u4e50\u5230\u9f20\u5927\u56e2\u5706",
+        "url": "https://open.spotify.com/album/2FVphxTvl3PHVWweG6giRc"
+      },
+      "artists": [
+        {
+          "name": "MY ASTRO",
+          "url": "https://open.spotify.com/artist/7bmFi3dRcpOeOPbSlxIjlZ"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "\u5927\u56e2\u5706",
+      "url": "https://open.spotify.com/track/0qeVmjN80xo21BjmQBnK1O"
     },
     {
       "album": {
@@ -34798,6 +34886,70 @@
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u5e74\u597d\u9a6c",
+        "url": "https://open.spotify.com/album/44gtmllg30oJ1AteDrRczW"
+      },
+      "artists": [
+        {
+          "name": "\u949f\u76db\u5fe0",
+          "url": "https://open.spotify.com/artist/3tJiBxotnVJzNdx1BAeEnJ"
+        },
+        {
+          "name": "Stella Chung",
+          "url": "https://open.spotify.com/artist/3BrG5EjjAeVzpHt5vT5Wk8"
+        },
+        {
+          "name": "\u5a03\u5a03",
+          "url": "https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg"
+        },
+        {
+          "name": "\u949f\u65ed\u8f89",
+          "url": "https://open.spotify.com/artist/1K1r8X1fptuHNRpYCblDt6"
+        },
+        {
+          "name": "\u5b59\u742a\u6b22",
+          "url": "https://open.spotify.com/artist/1czo9B16t2L0mUGhQ1ZX6y"
+        },
+        {
+          "name": "\u90d1\u96ea\u94a7",
+          "url": "https://open.spotify.com/artist/5roLaKllDwgiowG9ViZyHs"
+        },
+        {
+          "name": "\u51af\u97e6\u8bda",
+          "url": "https://open.spotify.com/artist/3kaT8bkZ3J5Wu0beHJBj5H"
+        },
+        {
+          "name": "\u674e\u6c38\u94a7",
+          "url": "https://open.spotify.com/artist/10gQZrIBqtjyk7zaVHD3tY"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204004,
+      "name": "\u65b0\u5e74\u597d\u9a6c",
+      "url": "https://open.spotify.com/track/6KR1AEzSk4XwKTyInPXjMr"
+    },
+    {
+      "album": {
+        "name": "\u65f6\u5149\u5927\u8033\u7abf",
+        "url": "https://open.spotify.com/album/40CVvJ0AOkcBLpwEXlK8Ax"
+      },
+      "artists": [
+        {
+          "name": "3P",
+          "url": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242777,
+      "name": "\u65f6\u5149\u5927\u8033\u7abf",
+      "url": "https://open.spotify.com/track/6kzuQumnMjqQUQhBmYotEy"
     },
     {
       "album": {

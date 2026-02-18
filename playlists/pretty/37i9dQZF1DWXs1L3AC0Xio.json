@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 807737,
+  "num_followers": 807804,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -763,18 +763,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
         }
       ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+      "duration_ms": 255661,
+      "name": "Dear Agony - Aurora Version",
+      "url": "https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -795,22 +799,18 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
       },
       "artists": [
         {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        },
-        {
-          "name": "Lacey Sturm",
-          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 255661,
-      "name": "Dear Agony - Aurora Version",
-      "url": "https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ"
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
     },
     {
       "added_at": "2024-06-26 02:18:14",

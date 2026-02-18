@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 263 likes - 1,942 songs - 4 day 20 hr 38 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 264 likes - 1,942 songs - 4 day 20 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 107 | [Distant Memories](https://open.spotify.com/track/3jEzTEIQlLUvAI8MCa6ZTX) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 1](https://open.spotify.com/album/669reT1wAagQzhBIIzo4nK) | 3:49 |
 | 108 | [Dreams](https://open.spotify.com/track/5S9yNiOdaWLKtRbXehNEvA) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [Dreams](https://open.spotify.com/album/6Dw0hSW0YP05IyqYY9bGIj) | 1:57 |
 | 109 | [one cigarette more](https://open.spotify.com/track/4JtBxIgorR07GHvsQa7CJn) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [one cigarette more](https://open.spotify.com/album/5gyvJsBHCkSbRuCfby5HD6) | 1:09 |
-| 110 | [again](https://open.spotify.com/track/6J8EbkOM82wM3QtG0q128D) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [](https://open.spotify.com/album/null) | 1:54 |
-| 111 | [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [](https://open.spotify.com/album/null) | 3:03 |
+| 110 | [again](https://open.spotify.com/track/6J8EbkOM82wM3QtG0q128D) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [again](https://open.spotify.com/album/5TDj05hZIp16RoCNE1VJNd) | 1:54 |
+| 111 | [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [Lemon](https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX) | 3:03 |
 | 112 | [Pensare in Grande](https://open.spotify.com/track/0hOPVUy0HQ4ju0s724bEZZ) | [PitMike](https://open.spotify.com/artist/0MkxrIxJy1hfKSX7CwDkjz) | [Pensare in Grande](https://open.spotify.com/album/6t68A2V4e2c9Ht12LRHDVD) | 3:39 |
 | 113 | [VENEZUELA QUERIDA](https://open.spotify.com/track/0TFh5PqPUfRIfL6nKeHoCI) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [VENEZUELA QUERIDA](https://open.spotify.com/album/4oEzaEQtaLnY7FcXUyxpWD) | 4:22 |
 | 114 | [Everything I Need](https://open.spotify.com/track/1gzPMqJ2hvJLfSU5DuAD6N) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 2:32 |

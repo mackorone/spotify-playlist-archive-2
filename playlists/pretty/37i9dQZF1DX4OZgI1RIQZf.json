@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 142876,
+  "num_followers": 142852,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Brain Drain",
         "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 209106,
       "name": "Pet Sematary",
       "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 189213,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
     },
     {
       "added_at": "2025-11-03 08:50:06",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "It's Halloween!",
-        "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 149117,
-      "name": "It's Halloween!",
-      "url": "https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Four Words to Stand On",
         "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 211480,
       "name": "Standing on Ghosts",
       "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "It's Halloween!",
+        "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 149117,
+      "name": "It's Halloween!",
+      "url": "https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP"
     },
     {
       "added_at": "2025-11-03 08:50:06",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
         "name": "To Lose My Life ...",
         "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 217880,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Right On, Frankenstein!",
-      "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
     },
     {
       "added_at": "2025-11-03 08:50:06",

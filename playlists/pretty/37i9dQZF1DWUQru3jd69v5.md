@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > dedde in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,567 likes - 71 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,563 likes - 71 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 57 | [Veleno \(feat\. Melons\)](https://open.spotify.com/track/6zrqFmqFfx2wfGB4Q0pwmQ) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [LIMITLESS](https://open.spotify.com/album/3KMc2fY6MgdjJ9OOR8NFP7) | 2:40 |
 | 58 | [QUELLA VITA LA](https://open.spotify.com/track/4HnufmWkOlYchtswWtXe3d) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [QUELLA VITA LA](https://open.spotify.com/album/03fQgYy0ILBZBpjl9Dfl7E) | 2:30 |
 | 59 | [L'Eco Della Montagna](https://open.spotify.com/track/6Srpvd0584CWHdaWMi1ZM4) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz) | [L'Eco Della Montagna](https://open.spotify.com/album/04bd5S4vY9RiL91HRCy62H) | 2:35 |
-| 60 | [Respira](https://open.spotify.com/track/5qki6VDTt1Aa8LToJXK0l7) | [Ayo Mich](https://open.spotify.com/artist/3TCtxMB7XKS9QmSZmcJQ3a), [Dmoha](https://open.spotify.com/artist/3Azrc3PGFCLwPxouZw8ELl) | [Respira](https://open.spotify.com/album/4fwwPrk0T1EnY6aIzH2y8m) | 2:07 |
+| 60 | [Respira](https://open.spotify.com/track/5qki6VDTt1Aa8LToJXK0l7) | [Ayo Mich](https://open.spotify.com/artist/3TCtxMB7XKS9QmSZmcJQ3a), [Dmoha](https://open.spotify.com/artist/3Azrc3PGFCLwPxouZw8ELl), [goon!](https://open.spotify.com/artist/433ELfo0sY6Bp9KxbCIJbW) | [Respira](https://open.spotify.com/album/4fwwPrk0T1EnY6aIzH2y8m) | 2:07 |
 | 61 | [4 Stelle](https://open.spotify.com/track/5NnoufqymGV8KxDRaPtg4p) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [4 Stelle](https://open.spotify.com/album/2jV9SX1RlnZ61bzVpjtIfm) | 2:19 |
 | 62 | [Angioletto & Ivan](https://open.spotify.com/track/3E8CHshsY22HCd4mfNCj3h) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [Angioletto & Ivan](https://open.spotify.com/album/3sHmICKLEu1zDk2HXSEikH) | 2:10 |
 | 63 | [a me piace \#249 \(feat\. LILCR\)](https://open.spotify.com/track/78Wk5K5YOrpyaRxgWmh7qN) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [TORINO SANGUINA](https://open.spotify.com/album/38dpyXQ8dnqHjKNxOqst2S) | 2:31 |

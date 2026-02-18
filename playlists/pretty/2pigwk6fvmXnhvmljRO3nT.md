@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,201 songs - 20 day 20 hr 25 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,209 songs - 20 day 20 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8209,5 +8209,13 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8199 | [どりーみんチュチュ](https://open.spotify.com/track/4DxH0xyPAzmsO4uXmxieWX) | [日野森雫](https://open.spotify.com/artist/5N00QVyIS7NWkuQWEfJmKQ) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:02 |
 | 8200 | [ロミオとシンデレラ](https://open.spotify.com/track/55hLQq6wmtX26c9hKgtWOh) | [桃井愛莉](https://open.spotify.com/artist/7gj8NlLwHKucHSC5OGiuVh) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:39 |
 | 8201 | [群青讃歌](https://open.spotify.com/track/2kMIsL9F7WOHFVMjGGhVIQ) | [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 4:35 |
+| 8202 | [Love the Subhuman Self](https://open.spotify.com/track/7gESuiigF7GFFYIApfUBk5) | [AISHA](https://open.spotify.com/artist/2CrQohuZKX4Kijnw1FX4tf), [Jamison Boaz](https://open.spotify.com/artist/1wGBkxY8jfldPFkN6Ov8d0), [Arc System Works](https://open.spotify.com/artist/7vlM4bn4gPubcmntK8UBp0) | [GUILTY GEAR \-STRIVE\- ORIGINAL SOUND TRACK VOL.1](https://open.spotify.com/album/3IaQ0DQMIXMShbMDNepeTK) | 5:08 |
+| 8203 | [お気に召すまま \(feat\. 天馬司&鳳えむ&草薙寧々&神代類&鏡音レン\)](https://open.spotify.com/track/3CvVyk1qYQQjTTs7KBxsNR) | [ワンダーランズ×ショウタイム](https://open.spotify.com/artist/2hSk8TGHXNQwIiDRYtzLdv) | [ワンダーランズ×ショウタイム SEKAI ALBUM vol.1\(Selected Edition\)](https://open.spotify.com/album/63c3DcG83DOi1HQKrsoT3U) | 4:07 |
+| 8204 | [トンデモワンダーズ \(feat\. 天馬司&鳳えむ&草薙寧々&神代類&KAITO\)](https://open.spotify.com/track/1fQS2hOhCfn4EgCLQixec4) | [ワンダーランズ×ショウタイム](https://open.spotify.com/artist/2hSk8TGHXNQwIiDRYtzLdv) | [トンデモワンダーズ/Glory Steady Go!](https://open.spotify.com/album/2v0NotlcJRUpIK1e51ZFys) | 3:16 |
+| 8205 | [グッバイ宣言 \(feat\. 天馬司&鳳えむ&草薙寧々&神代類\)](https://open.spotify.com/track/61WV1fxivICkontz5fcfVz) | [ワンダーランズ×ショウタイム](https://open.spotify.com/artist/2hSk8TGHXNQwIiDRYtzLdv) | [ワンダーランズ×ショウタイム SEKAI ALBUM vol.2](https://open.spotify.com/album/7uYMjyck1lc8GBvcNdTCXk) | 2:53 |
+| 8206 | [blender \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO\)](https://open.spotify.com/track/2sVpRD1s6JI3AouHJlJB3V) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Beyond the way/blender](https://open.spotify.com/album/0Oz2FhHwp3WLqyCqJUPJlM) | 2:15 |
+| 8207 | [ロストワンの号哭 \(feat\. 星乃一歌&日野森志歩&鏡音リン\)](https://open.spotify.com/track/6CyurDf3ISOyCwHwqqAPV9) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [Leo/need SEKAI ALBUM vol.2\(Selected Edition\)](https://open.spotify.com/album/62rbnAyLsDsHoD7aPZfD8e) | 3:35 |
+| 8208 | [ロストエンファウンド \(feat\. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク\)](https://open.spotify.com/track/0YHFrIyuqPtJQt6a6lqB63) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [Leo/need SEKAI ALBUM vol.2\(Selected Edition\)](https://open.spotify.com/album/62rbnAyLsDsHoD7aPZfD8e) | 5:03 |
+| 8209 | [アンビリカル](https://open.spotify.com/track/0ZjPiCpMBPzb2G3FUi9N0G) | [MILGRAM ユノ \(CV: 相坂優歌\)](https://open.spotify.com/artist/7BQFAksg6eICiE2Io3h7GZ) | [アンビリカル](https://open.spotify.com/album/10lp2srOD3qXyMcZwWUNNv) | 3:23 |
 
-Snapshot ID: `AAAKoJkQr6PxcQ4RXncUb8x/mUeP/FJp`
+Snapshot ID: `AAAKqH63agVAXamHR91aQiBD/UP7m+zh`

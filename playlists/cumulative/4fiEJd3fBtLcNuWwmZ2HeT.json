@@ -5243,6 +5243,28 @@
     },
     {
       "album": {
+        "name": "Wozwald",
+        "url": "https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv"
+      },
+      "artists": [
+        {
+          "name": "Yuu Miyashita",
+          "url": "https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x"
+        },
+        {
+          "name": "NILFRUITS",
+          "url": "https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292761,
+      "name": "Wozwald",
+      "url": "https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw"
+    },
+    {
+      "album": {
         "name": "Yoidoreshirazu",
         "url": "https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA"
       },

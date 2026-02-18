@@ -9933,6 +9933,24 @@
     },
     {
       "album": {
+        "name": "Monstercat Instinct Selections 01",
+        "url": "https://open.spotify.com/album/2E8zvO8qz4NayWPn65dlEU"
+      },
+      "artists": [
+        {
+          "name": "ROOTIME",
+          "url": "https://open.spotify.com/artist/3jBBUJb1ugQtiBV1fxJ73t"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Hollywood '84",
+      "url": "https://open.spotify.com/track/7p8PCW0SNNO7XFAyMyyaRf"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
       },

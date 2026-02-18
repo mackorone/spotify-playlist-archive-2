@@ -1,6 +1,6 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 287987,
+  "num_followers": 288265,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet"
     },
     {
+      "added_at": "2025-08-22 00:01:27",
+      "album": {
+        "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
+        "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 388866,
+      "name": "Ndenzel' Uncedo Hymn 377 - Live",
+      "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Miracle No Dey Tire Jesus",
@@ -1451,42 +1467,18 @@
     {
       "added_at": "2025-08-22 00:01:27",
       "album": {
-        "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
-        "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 388866,
-      "name": "Ndenzel' Uncedo Hymn 377 - Live",
-      "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
-    },
-    {
-      "added_at": "2025-10-31 00:01:28",
-      "album": {
-        "name": "Agnus Dei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A"
-      },
-      "artists": [
-        {
-          "name": "NOVO CANTO",
-          "url": "https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
-        }
-      ],
-      "duration_ms": 356470,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
+      "duration_ms": 309600,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
     }
   ],
   "unique_name": "Praise and Worship",

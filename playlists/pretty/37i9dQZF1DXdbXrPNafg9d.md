@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hemlocke Springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,520 likes - 199 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,424 likes - 199 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

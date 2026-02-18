@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29244,
+  "num_followers": 29249,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
         "name": "SeanPaul",
         "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 237500,
       "name": "SeanPaul",
       "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Talpra cig\u00e1nyok",
-      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
         "name": "\u00c9DEN",
         "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 190000,
       "name": "\u00c9DEN",
       "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "Vinnipu",
-        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 108746,
-      "name": "Vinnipu",
-      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
+        "name": "Vinnipu",
+        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 108746,
+      "name": "Vinnipu",
+      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "ICE SPICE",
-        "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 121121,
-      "name": "ICE SPICE",
-      "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
         "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
         "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 215000,
       "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
       "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
+        "name": "ICE SPICE",
+        "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 121121,
+      "name": "ICE SPICE",
+      "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "KETT\u0150/KETT\u0150",
-        "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 177791,
-      "name": "KETT\u0150/KETT\u0150",
-      "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
         "name": "SZAR AZ \u00c9LET",
         "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
       },
@@ -1015,22 +999,6 @@
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
-        "name": "21 R\u00f3zsasz\u00e1l",
-        "url": "https://open.spotify.com/album/2Xf8aTbtaF1lEvTRQy4HVj"
-      },
-      "artists": [
-        {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
-        }
-      ],
-      "duration_ms": 255294,
-      "name": "21 R\u00f3zsasz\u00e1l",
-      "url": "https://open.spotify.com/track/7L3baFE8EUbk7jbp2o4XB0"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1071,8 +1039,8 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "EGY/KETT\u0150",
-        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
+        "name": "KETT\u0150/KETT\u0150",
+        "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
       },
       "artists": [
         {
@@ -1080,9 +1048,25 @@
           "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 299768,
-      "name": "EGY/KETT\u0150",
-      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
+      "duration_ms": 177791,
+      "name": "KETT\u0150/KETT\u0150",
+      "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
+        "name": "21 R\u00f3zsasz\u00e1l",
+        "url": "https://open.spotify.com/album/2Xf8aTbtaF1lEvTRQy4HVj"
+      },
+      "artists": [
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "duration_ms": 255294,
+      "name": "21 R\u00f3zsasz\u00e1l",
+      "url": "https://open.spotify.com/track/7L3baFE8EUbk7jbp2o4XB0"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
+        "name": "WildWest",
+        "url": "https://open.spotify.com/album/5sv3nEmu2pcyvvBzPITP1V"
+      },
+      "artists": [
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "duration_ms": 153108,
+      "name": "WildWest",
+      "url": "https://open.spotify.com/track/1PUUfO1tHORNs1Ur28kVy2"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
         "name": "hungarian mambo",
         "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
       },
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "WildWest",
-        "url": "https://open.spotify.com/album/5sv3nEmu2pcyvvBzPITP1V"
+        "name": "EGY/KETT\u0150",
+        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
       },
       "artists": [
         {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 153108,
-      "name": "WildWest",
-      "url": "https://open.spotify.com/track/1PUUfO1tHORNs1Ur28kVy2"
+      "duration_ms": 299768,
+      "name": "EGY/KETT\u0150",
+      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1475,22 +1475,26 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "GETT\u00d3MILLIOMOS",
-        "url": "https://open.spotify.com/album/1OT0WsyUUHjpX71v9pssW6"
+        "name": "Purgat\u00f3rium",
+        "url": "https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7"
       },
       "artists": [
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
         },
         {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
         }
       ],
-      "duration_ms": 192666,
-      "name": "GETT\u00d3MILLIOMOS",
-      "url": "https://open.spotify.com/track/5Qy43wtpEMYgLMONxYn7uZ"
+      "duration_ms": 191687,
+      "name": "Purgat\u00f3rium",
+      "url": "https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC"
     }
   ],
   "unique_name": "Most Men\u0151",

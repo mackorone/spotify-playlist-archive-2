@@ -1,29 +1,13 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 178886,
+  "num_followers": 178962,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAACX0Jy8Yn5pDEp4a44LGNOH",
+  "snapshot_id": "aZJeAAAAAAA6N4rIOwSEFfzjnnkpcl4r",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 265906,
       "name": "Be Like That",
       "url": "https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Away From The Sun",
-      "url": "https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 264800,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1aC1IBAETh2XYGOE8kCC6t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Away From The Sun",
+      "url": "https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "The Road I'm On",
-      "url": "https://open.spotify.com/track/2C1m7Lw5cUpFWUkN6Tovik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Us And The Night",
         "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 223680,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "The Road I'm On",
+      "url": "https://open.spotify.com/track/2C1m7Lw5cUpFWUkN6Tovik"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0oNiYKgINhqhPuwE9LTlj1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acoustic Back Porch Jam",
         "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 235360,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0oNiYKgINhqhPuwE9LTlj1"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Ticket To Heaven",
-      "url": "https://open.spotify.com/track/09FofPlGG8SGxccEuUHHJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Us And The Night",
         "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 161946,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/6cJRjKolnLTz0Q0TbwJaSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Ticket To Heaven",
+      "url": "https://open.spotify.com/track/09FofPlGG8SGxccEuUHHJ5"
     },
     {
       "added_at": null,

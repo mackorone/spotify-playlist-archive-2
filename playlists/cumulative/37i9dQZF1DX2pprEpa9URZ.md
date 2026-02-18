@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-518 songs - 2 day 3 hr 6 min
+519 songs - 2 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Salaam](https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Hiya](https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH) | [Salaam](https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX) | 4:46 | 2026-02-06 |  |
 | [Salda](https://open.spotify.com/track/0sbsOpPtIZAGtTPbEmpBhB) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mada](https://open.spotify.com/album/1NyyI2zT7vkxUGT6pJkzN1) | 7:14 | 2020-07-24 | 2020-11-21 |
 | [Samarkand](https://open.spotify.com/track/1acilPTS9wGa5MpBSyonPZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [KIDY](https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG), [ARVIII](https://open.spotify.com/artist/3rFcQPQZfXDmbCsF5mNmyQ) | [Samarkand](https://open.spotify.com/album/7GI2B06iMtjtzt1pK6FtR2) | 2:21 | 2026-01-12 |  |
-| [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 | 2022-04-04 |  |
+| [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 | 2022-04-04 | 2026-02-18 |
 | [Sanba Yo Pran Pale \- DJ Koze Remix](https://open.spotify.com/track/5TyalfMvGOlfM8Rs0bUqiU) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Sanba Yo Pran Pale \(DJ Koze Remix\)](https://open.spotify.com/album/2FGt0fcWBWvHQuXdgaw5Bo) | 10:47 | 2021-12-17 | 2022-07-28 |
 | [Sand](https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Sand](https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl) | 3:07 | 2023-02-17 | 2025-01-19 |
 | [Sapphire Penumbra](https://open.spotify.com/track/6j1cxtEsXudS5ffVoJPvVo) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Sant \(IR\)](https://open.spotify.com/artist/4LBZoQSlbFTNDDKfS5kZ8o) | [Tu Sombra](https://open.spotify.com/album/6miODbynyMIfUnmqZfnWb0) | 6:35 | 2021-11-04 | 2022-07-11 |
@@ -485,6 +485,7 @@
 | [Vasudeva](https://open.spotify.com/track/32V1RHcDM6UHQ864VCLIfK) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0ZEDJKw8dd2q1IKjZCwIye) | 6:16 | 2019-08-02\* | 2021-06-04 |
 | [Vayu](https://open.spotify.com/track/6Tllev6fw9tXOodmoAsIZC) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9) | [Fragile](https://open.spotify.com/album/7bkCjULlGysGT8pfaYQDmp) | 7:06 | 2019-08-02\* | 2019-09-06 |
 | [Voices](https://open.spotify.com/track/5lc74AXwQnoAvXpef0GnvD) | [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [Voices](https://open.spotify.com/album/7LrigGSm0XLAjBtbI2eedN) | 7:37 | 2020-06-12 | 2023-02-01 |
+| [Volando](https://open.spotify.com/track/3SR8pZlWVascMkxrOhDDXk) | [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [Pablo](https://open.spotify.com/album/3BGVIwC4MahiHd96PCLaqt) | 5:52 | 2026-02-06 |  |
 | [Voodoo Guitar \- Timboletti Remix](https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1), [Timboletti](https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG) | [Voodoo Guitar](https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI) | 10:37 | 2020-04-25 | 2023-11-16 |
 | [Vourvourou](https://open.spotify.com/track/4I1Y8lgR6KCV2QCL1sx0oc) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH) | [Vourvourou](https://open.spotify.com/album/1anIq6aEt4LER2xiD5ndHD) | 7:05 | 2021-12-17 | 2021-12-21 |
 | [Voyager](https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Gruwski](https://open.spotify.com/artist/0XMmdHuO3XYx3PCqqgCen6) | [Voyager](https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM) | 6:56 | 2025-02-07 |  |

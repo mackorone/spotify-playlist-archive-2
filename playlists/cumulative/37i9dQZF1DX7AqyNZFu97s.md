@@ -2,7 +2,7 @@
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music from independent artists in the UK and Ireland\. Cover: Dirty Blond
+> The best new music from independent artists in the UK and Ireland\. Cover: JD Cliffe
 
 3,524 songs - 7 day 17 hr 43 min
 

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-895 songs - 2 day 3 hr 9 min
+899 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Cannibals Know Their Rights!](https://open.spotify.com/track/3WpB6iLtuQ05i6uYGOfciB) | [Highwayman](https://open.spotify.com/artist/3UEaff5wuK2Y6B6Ti5xlgm) | [Issue \#1 Dec 2025: Paid in Caps](https://open.spotify.com/album/14jFvrOmBhRf7L9D4qN3uU) | 2:15 | 2026-02-03 |  |
 | [Carbonic Acid](https://open.spotify.com/track/0MBnIaokH39NLwo8vtcClZ) | [Schwimmbad](https://open.spotify.com/artist/3huQYnrNPMahn6aYRNJgc9) | [Reibregal](https://open.spotify.com/album/4dBKiXCD2Bj8Ap2KFLasK5) | 3:18 | 2025-12-23 | 2026-01-15 |
 | [Castaway](https://open.spotify.com/track/7oEXp5pzlZIGafGaAM3ibD) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Castaway](https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9) | 3:49 | 2026-01-19 | 2026-02-12 |
-| [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 | 2026-01-16 | 2026-02-05 |
+| [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 | 2026-01-16 |  |
 | [Chemical Bombs](https://open.spotify.com/track/0PRBSms3c5zlSMSLOsdsnH) | [MØSHFIT](https://open.spotify.com/artist/59kUvmrTGqXguuuv6s5yRW) | [Chemical Bombs](https://open.spotify.com/album/1mzDbMz0QgeEQOBHletG4q) | 3:15 | 2026-01-21 |  |
 | [CHEMICAL DEFAULT](https://open.spotify.com/track/4U5bfXx3RmZ2YEDJLcIokK) | [FATECRIMES](https://open.spotify.com/artist/7eDt0Al79jubHyYCXU3en7) | [CHEMICAL DEFAULT](https://open.spotify.com/album/1Ulgt4WsPQtwbmpQdIvyD6) | 2:21 | 2025-12-23 | 2026-01-24 |
 | [Chemtrails](https://open.spotify.com/track/4RnJHlFySudDfGEokB4ro4) | [The Picnic](https://open.spotify.com/artist/6x2UCfTPMvxBUEM8seebng) | [Chemtrails](https://open.spotify.com/album/4VI1Dfm1kYSrRn8ZYJcrtw) | 3:51 | 2025-12-13 | 2026-01-06 |
@@ -230,6 +230,7 @@
 | [Drama \(remaster\)](https://open.spotify.com/track/5KQrS9D7ARWN8fiNBNiYSy) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:48 | 2025-09-18 |  |
 | [Drone](https://open.spotify.com/track/0nnPnAzEAAClDDiMNYtNDp) | [No Heroes](https://open.spotify.com/artist/6Pkz22OR0gHZ9BP5nLmIga) | [Brood Eternal](https://open.spotify.com/album/4kh6JMt1hzHeAst4kAndp3) | 1:42 | 2026-01-15 | 2026-02-16 |
 | [Drone Drive\-By](https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Drone Drive\-By](https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb) | 3:30 | 2025-11-26 | 2025-12-24 |
+| [Drowning](https://open.spotify.com/track/5G4SXO669dSIew39skz6vl) | [Clockwork Animals](https://open.spotify.com/artist/2WVPZheo1GVUk7H4D8Cnay) | [Drowning](https://open.spotify.com/album/18gjNVo1idsPDLeyC2u9Jo) | 4:25 | 2026-02-17 |  |
 | [Drowning](https://open.spotify.com/track/16A2TC89Jt7eaf7iuVaM3p) | [Fear Lab](https://open.spotify.com/artist/59OL42glNaguFmSfhUSpDE) | [Drowning](https://open.spotify.com/album/0RfIOR90ccA6EAMXVQvUMY) | 3:22 | 2025-11-17 | 2025-12-10 |
 | [Drowning Into You](https://open.spotify.com/track/18mYfxvwpVVXli6HgmJXpm) | [Faith in Faces](https://open.spotify.com/artist/5nTj6k2ZmbVOZICHFz1BPY) | [Drowning Into You](https://open.spotify.com/album/7LyIYQb75whKjUXyhWB6oI) | 3:24 | 2025-12-08 | 2026-01-06 |
 | [Drunken Master Tiger Theme](https://open.spotify.com/track/1dLk2EWC0KFGhIXtDw9E94) | [San Mitch](https://open.spotify.com/artist/59Qp0eZhzkGpxCrIfV3yg5) | [Ten Diamond Hours](https://open.spotify.com/album/7cC1aFdkJ92kqehfHMY4ck) | 3:17 | 2025-12-28 | 2026-01-22 |
@@ -340,6 +341,7 @@
 | [Here I Am](https://open.spotify.com/track/0FTBL9ylHOi6AVx6fn84eu) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [A Timeless Echo](https://open.spotify.com/album/02bybNqQgeAxHm8zp2I5ZJ) | 3:12 | 2025-12-15 | 2026-01-06 |
 | [Here We Go](https://open.spotify.com/track/1AhqASK4Hs7kQ6naWHaVNW) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/4EVGPprwwNEdaUa2ebv1Tx) | 2:48 | 2025-11-27 | 2025-12-24 |
 | [Heroin](https://open.spotify.com/track/7I4YKnh2WR4PrTAdEaXUkG) | [K.I.N.D.](https://open.spotify.com/artist/1daUH8rLkcybdtmDZXP0N2) | [Heroin](https://open.spotify.com/album/2EHkTBQBf0QCSdWSuhfAcN) | 3:16 | 2026-02-02 |  |
+| [He´s Coming For You](https://open.spotify.com/track/4IWccZBLqKHQcG3mXGpl0y) | [One Step Further](https://open.spotify.com/artist/6fH2lrvMgsYCJdBIvgjgm0) | [He´s Coming For You](https://open.spotify.com/album/6hfLj6CeayrFKAP6SPad95) | 4:54 | 2026-02-17 |  |
 | [High Waves](https://open.spotify.com/track/3EnpPXWnbkcOgb4VN3UZuk) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [High Waves](https://open.spotify.com/album/7yBWbfqK8KrB5SAofb4y2H) | 6:25 | 2026-01-16 | 2026-02-05 |
 | [Highway Maintenance](https://open.spotify.com/track/0SlCUGQmeS4u1bnroVW08r) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Highway Maintenance](https://open.spotify.com/album/0J1QQLCiEgAWgbHS1H5eiO) | 5:37 | 2025-12-15 | 2026-01-06 |
 | [Hold The Line](https://open.spotify.com/track/5RDoRjFsaQNWvYH0XZym3V) | [Ceramics](https://open.spotify.com/artist/4XtfdGn6rSGua0VIL79eFi) | [Hold The Line](https://open.spotify.com/album/40IenIHnq1Cr2zBKYXOChg) | 4:24 | 2025-11-27 | 2025-12-24 |
@@ -495,7 +497,7 @@
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-15 | 2025-12-10 |
 | [Much Bigger Things](https://open.spotify.com/track/0NdFB6srCdlii5agLG7bY0) | [Ashes & Orchids](https://open.spotify.com/artist/2DPoTH8Gvx1tTM89NmWhLY) | [Grayscale Horizons](https://open.spotify.com/album/5Rj23GRlPVoUc1RU4SjHnp) | 3:49 | 2025-12-31 | 2026-01-22 |
 | [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 | 2025-12-03 | 2025-12-24 |
-| [My Brain Hurts](https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [My Brain Hurts](https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy) | 1:44 | 2025-12-20 | 2026-01-15 |
+| [My Brain Hurts](https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [My Brain Hurts](https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy) | 1:44 | 2025-12-20 |  |
 | [My Dog's A Liar](https://open.spotify.com/track/73WAYwjpYFFxm6VOo3MfUZ) | [Internet Romance](https://open.spotify.com/artist/2XeleVtPv8IBvzy6T1zHnY) | [My Dog's A Liar](https://open.spotify.com/album/7I4lxNA1GYotD5uo1ubVND) | 3:37 | 2026-01-20 |  |
 | [My Endless Journey](https://open.spotify.com/track/39USGgtJdnzQQvIBeNSp4c) | [The Antarctica Project](https://open.spotify.com/artist/4DDrHTmwLmDFgv8CoobPjr) | [My Endless Journey](https://open.spotify.com/album/7DotwfknL0UFLufl9HQg9T) | 4:26 | 2025-12-08 | 2026-01-06 |
 | [My Fire](https://open.spotify.com/track/5ebe3sqCcIyUMO7NAJx1nB) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Phonophobia](https://open.spotify.com/album/5MXUhzOkcsfBvUlOnOwmRF) | 2:50 | 2026-01-11 | 2026-02-03 |
@@ -509,6 +511,7 @@
 | [NecroMantis](https://open.spotify.com/track/5aaxfg4g3b99y5844DHu4B) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 6:18 | 2025-11-27 | 2026-01-15 |
 | [Neglect](https://open.spotify.com/track/4JnXPig0gbcjB7EaO6zvNL) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Neglect](https://open.spotify.com/album/5JdB9X5V5pPklgomys3RBs) | 3:36 | 2025-12-17 | 2026-01-15 |
 | [Neon Skin](https://open.spotify.com/track/4XYpLO8ui8SiRiOHa4AFZ2) | [izakt](https://open.spotify.com/artist/2fF0zAC1HlJ7WobgTMYN0W) | [Blacked Out](https://open.spotify.com/album/0jGW29L6oF2qFPIBAuSvql) | 5:23 | 2025-11-29 | 2025-12-24 |
+| [Never Again](https://open.spotify.com/track/5Rz3y7fI52nrKHGtQNrITU) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Never Again](https://open.spotify.com/album/028H3GvvgjXlHv275ArnQU) | 2:26 | 2026-02-17 |  |
 | [Never Surrender](https://open.spotify.com/track/7tcASOx2TaCRCvNolHzFgr) | [Grippers](https://open.spotify.com/artist/1i3lv73I5we0bg5x3Fy0eb) | [Black Tears](https://open.spotify.com/album/22sg8KIs4YGuGLdhNTu77h) | 2:23 | 2026-02-03 |  |
 | [Never There](https://open.spotify.com/track/4l6VMALVzlUboAJy17CAqG) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Never There](https://open.spotify.com/album/4UotUytIl9YcpgNPlGHoTk) | 3:36 | 2025-11-28 | 2025-12-24 |
 | [New England](https://open.spotify.com/track/5MFC7AFTAhVbvaSGOnkLxG) | [Morningside](https://open.spotify.com/artist/5YjLMKEZrUqYDwPhoD9lAN) | [New England](https://open.spotify.com/album/39OwZcFimKfgx8x5t7NCep) | 4:29 | 2025-11-03 | 2025-12-10 |
@@ -604,6 +607,7 @@
 | [Red Light, Danger!](https://open.spotify.com/track/62y4Ymu5RGcFzl9VyjWe2N) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Red Light, Danger!](https://open.spotify.com/album/29CA8Ld2mCKoeazUqbdCOO) | 4:05 | 2026-01-01 | 2026-01-22 |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
 | [Regular Piece Of Shit](https://open.spotify.com/track/27zQNRkLR1kfhIuyfTcMic) | [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Regular Piece Of Shit](https://open.spotify.com/album/6B5lAhbdRmNihTZ2OqZd9e) | 2:43 | 2026-01-26 |  |
+| [Release](https://open.spotify.com/track/44om7A8mIDtFknRkEnGJrH) | [Semench Chirock](https://open.spotify.com/artist/17jjZJtry78DrTpQB0uAlN) | [Release](https://open.spotify.com/album/1Ww3fbLK24NEG8dPhriU1N) | 4:25 | 2026-02-17 |  |
 | [Reloaded](https://open.spotify.com/track/6cvpx4nJPQ9JcX4OmAWjM7) | [K.W.E.S.I.](https://open.spotify.com/artist/1JQNmDKu1o2W8MPGDnBiCy) | [SHEESH!](https://open.spotify.com/album/3GuFTVum5qr45HkbPtveqx) | 2:06 | 2025-11-07 | 2025-12-10 |
 | [Reluctantly Obedient](https://open.spotify.com/track/16sJgOaLZvcOwdM7H30vfz) | [Dazed Pilots](https://open.spotify.com/artist/0fEDLTnhPxRCSUUVwWIjjV) | [Here's to Me EP](https://open.spotify.com/album/19UnyRigrkHVXvLMYqMDz7) | 2:11 | 2026-01-15 | 2026-02-16 |
 | [Remember Lady](https://open.spotify.com/track/4BO9dmX7Yuh5gF9vA1KWW8) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Let's Greet the Sunrise](https://open.spotify.com/album/5XlQowlA1XmId9UjzxhS4K) | 3:15 | 2025-12-01 | 2025-12-24 |

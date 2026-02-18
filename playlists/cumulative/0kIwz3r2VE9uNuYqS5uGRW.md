@@ -4,7 +4,7 @@
 
 > 
 
-151 songs - 7 hr 51 min
+153 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Early Birds](https://open.spotify.com/track/0vR3kZAVHbQdxfELwGbOlB) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Early Birds](https://open.spotify.com/album/2jybjZOdnaBsM685CybAjI) | 4:22 | 2025-03-12 |  |
 | [Eclipse](https://open.spotify.com/track/6HJgZKIv8gGEDqieNRHgi3) | [Jessika Elizalde](https://open.spotify.com/artist/1tMcn5ilxoHnYr2EPjbHlO) | [Eclipse](https://open.spotify.com/album/3dVPaj5gIzyJgbkaMtzAP0) | 3:11 | 2026-01-02 |  |
 | [El Refrán](https://open.spotify.com/track/2db7peohg2RsaCOeXozJjF) | [Yadiell](https://open.spotify.com/artist/0rYolSGwAR5m9g6h4Jlfwq) | [El Refrán](https://open.spotify.com/album/0qKfCoShShQYSWVkdq6Vom) | 2:24 | 2025-07-07 |  |
+| [Electric Night](https://open.spotify.com/track/54ufnTqGX7Ur20FnoQ4mQp) | [Verena](https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y) | [Electric Night](https://open.spotify.com/album/5fx6zYSU38qN9DiSL4J9Lo) | 3:26 | 2026-02-17 |  |
 | [Engaveta](https://open.spotify.com/track/0ObZQ0RZV6FA8eegOVn1tO) | [EDUAR JOHVA](https://open.spotify.com/artist/5FYycsrb8zR2om6x9uSo0K) | [Engaveta](https://open.spotify.com/album/2LYusTnY2bBjsLAx514ng5) | 3:15 | 2025-11-02 |  |
 | [Evil Middle](https://open.spotify.com/track/0WsHKHzrgEMeISc5ydXyXg) | [Marcos Crunk](https://open.spotify.com/artist/7GNeQ6y9JFQ6deOJfrtHjD), [BR3NX](https://open.spotify.com/artist/0YNWnKCEelU5896FKYUVl6) | [Evil Middle](https://open.spotify.com/album/3DkC03tKYGw7OCPZPIPxPH) | 2:37 | 2025-08-20 |  |
 | [Evitandome](https://open.spotify.com/track/39RIAIenvbjRqw2iAWWoPV) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3), [dodo\_wav](https://open.spotify.com/artist/6351jyBEW00GePNPjRCsj1), [Wvy Laosean](https://open.spotify.com/artist/604Lg9hn3moDuuSRJlTXmh) | [Evitandome](https://open.spotify.com/album/7DIzgZs3139vMTCDNz668P) | 3:17 | 2025-09-05 |  |
@@ -116,6 +117,7 @@
 | [Purgatorio](https://open.spotify.com/track/5VK83qZanFNfjhRGeizUTP) | [Denivek](https://open.spotify.com/artist/3yF4wRjfd495MPjjquHKVH) | [International I](https://open.spotify.com/album/4oyD19daykyixpY2E5j1iI) | 6:46 | 2025-08-12 |  |
 | [Que somos¿](https://open.spotify.com/track/0SARdMrIILVY8go5R421YG) | [Marche](https://open.spotify.com/artist/5x8Xce2apfeu5ETjcA0Das) | [Que somos¿](https://open.spotify.com/album/7kQMcWVDuXVW9ZIebJFIRp) | 1:59 | 2025-03-12 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
+| [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 | 2026-02-17 |  |
 | [relapse](https://open.spotify.com/track/3CvRv1klCmdwGoOTRyJawj) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [relapse](https://open.spotify.com/album/0Yl4XnXHS0trdkI8rvFqyS) | 3:06 | 2025-03-26 |  |
 | [Return of a King](https://open.spotify.com/track/5WtPqlQHxx50OFEGFiO6pv) | [Killian Ordono](https://open.spotify.com/artist/1yMfzq45DtTDq4SGtHNRo4), [IzRosh](https://open.spotify.com/artist/2p1bgggvCXinSQz2OtBHXu), [Jayy Dogg](https://open.spotify.com/artist/33LUb0cLTRldb9HEzejGBC) | [Return of a King](https://open.spotify.com/album/3XFMPFaloBNSXpNZPWwCBC) | 2:17 | 2025-03-12 |  |
 | [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,383 likes - 258 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,297 likes - 258 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 257 | [It's Time](https://open.spotify.com/track/3XBaLIbPhCrTiRhdgu5N6b) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [It's Time](https://open.spotify.com/album/3CgXceQ7TtyBPmZ6AklqBU) | 2:42 |
 | 258 | [Sunkissed](https://open.spotify.com/track/2tX6KMIEgB11uvahcpkbGK) | [Mill Falc](https://open.spotify.com/artist/5Wh82ZLZ5dAP7xF91Qki3j) | [Sunkissed](https://open.spotify.com/album/6URLn2KY0LdVdrigh8b8ZG) | 2:12 |
 
-Snapshot ID: `AAAAACHkdPKkHsto+YSYTr5LgnMO3dK2`
+Snapshot ID: `AAAAACqjZwRVV/adT67VSCp8sFc+FuK6`

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 47563,
+  "num_followers": 47584,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Virasat -E- Punjab,Vol. 1",
-        "url": "https://open.spotify.com/album/79G3oFYdXkf3sjZ4HyHAaz"
-      },
-      "artists": [
-        {
-          "name": "Surinder Kaur",
-          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
-        },
-        {
-          "name": "Prakash Kaur",
-          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Kala Dooria",
-      "url": "https://open.spotify.com/track/2U2xgNrMtfHtXks6TrY1zt"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Challa X Chan Kithan Guzari",
         "url": "https://open.spotify.com/album/34bbYQoSZGbmrSSebFPXxy"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 320064,
       "name": "Challa X Chan Kithan Guzari",
       "url": "https://open.spotify.com/track/2hWNpP7C7mvLTloxpQM9Dw"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Virasat -E- Punjab,Vol. 1",
+        "url": "https://open.spotify.com/album/79G3oFYdXkf3sjZ4HyHAaz"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        },
+        {
+          "name": "Prakash Kaur",
+          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Kala Dooria",
+      "url": "https://open.spotify.com/track/2U2xgNrMtfHtXks6TrY1zt"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Kale Rang Da Paranda (Folk Recreation)",
-        "url": "https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb"
-      },
-      "artists": [
-        {
-          "name": "Harshdeep Kaur",
-          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Kale Rang Da Paranda - Folk Recreation",
-      "url": "https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Wanga Satrangiyan",
         "url": "https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 206000,
       "name": "Wanga Satrangiyan",
       "url": "https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Kale Rang Da Paranda (Folk Recreation)",
+        "url": "https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb"
+      },
+      "artists": [
+        {
+          "name": "Harshdeep Kaur",
+          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Kale Rang Da Paranda - Folk Recreation",
+      "url": "https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Nikka Jeha",
-        "url": "https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO"
-      },
-      "artists": [
-        {
-          "name": "Dolly Guleria",
-          "url": "https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ"
-        }
-      ],
-      "duration_ms": 314053,
-      "name": "Ambarsare De Papad",
-      "url": "https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Sound Of Soil",
         "url": "https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 275874,
       "name": "Laggiyan Ne Maujaan - Natiya Kalam",
       "url": "https://open.spotify.com/track/2f3Nw8rClVhNMFIvNMjyJA"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Nikka Jeha",
+        "url": "https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO"
+      },
+      "artists": [
+        {
+          "name": "Dolly Guleria",
+          "url": "https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ"
+        }
+      ],
+      "duration_ms": 314053,
+      "name": "Ambarsare De Papad",
+      "url": "https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Charkha Chanan Da - Single",
-        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
-      },
-      "artists": [
-        {
-          "name": "Vanitaa Pande",
-          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
-        }
-      ],
-      "duration_ms": 161359,
-      "name": "Charkha Chanan Da",
-      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Jutti Kasuri",
         "url": "https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 196500,
       "name": "Jutti Kasuri",
       "url": "https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Charkha Chanan Da - Single",
+        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
+      },
+      "artists": [
+        {
+          "name": "Vanitaa Pande",
+          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
+        }
+      ],
+      "duration_ms": 161359,
+      "name": "Charkha Chanan Da",
+      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
     },
     {
       "added_at": "2026-01-13 11:20:11",

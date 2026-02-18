@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1562977,
+  "num_followers": 1563234,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "Dos Uvas (PJ's Flip)",
-        "url": "https://open.spotify.com/album/6uPTpysbCOXLo0aEwtEtwI"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "Dos Uvas - PJ's Flip",
-      "url": "https://open.spotify.com/track/5czfp4hTYMr0W7JFTjAKrZ"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Saturday Mornings (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 198960,
       "name": "Ziplock",
       "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Dos Uvas (PJ's Flip)",
+        "url": "https://open.spotify.com/album/6uPTpysbCOXLo0aEwtEtwI"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "Dos Uvas - PJ's Flip",
+      "url": "https://open.spotify.com/track/5czfp4hTYMr0W7JFTjAKrZ"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
-      },
-      "artists": [
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        }
-      ],
-      "duration_ms": 131506,
-      "name": "ICON",
-      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "duration_ms": 131506,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 197066,
       "name": "The LP",
       "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "Infinite NETIC - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/70xmgpUqRM00bOhmsUmzpn"
-      },
-      "artists": [
-        {
-          "name": "Anik Khan",
-          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Infinite NETIC - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6sSD6Wgz334lTkVUUx6do0"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Life Is Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 216386,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Infinite NETIC - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/70xmgpUqRM00bOhmsUmzpn"
+      },
+      "artists": [
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Infinite NETIC - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6sSD6Wgz334lTkVUUx6do0"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "jamal crawford",
-        "url": "https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W"
-      },
-      "artists": [
-        {
-          "name": "MARCO PLUS",
-          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "jamal crawford",
-      "url": "https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "jamal crawford",
+        "url": "https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W"
+      },
+      "artists": [
+        {
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "jamal crawford",
+      "url": "https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "Out Of My Hands (feat. Oddisee)",
-        "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
-      },
-      "artists": [
-        {
-          "name": "GR\u20acY",
-          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Out Of My Hands (feat. Oddisee)",
-      "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "DON'T GROW UP TOO SOON",
         "url": "https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v"
       },
@@ -1991,6 +1971,26 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
+        "name": "Out Of My Hands (feat. Oddisee)",
+        "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acY",
+          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Out Of My Hands (feat. Oddisee)",
+      "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
         "name": "NIGHTS LIKE THIS",
         "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
       },
@@ -2007,18 +2007,22 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "THE FIFTH",
-        "url": "https://open.spotify.com/album/7w60iPNhta9fiKiQ61mulV"
+        "name": "We Do It Remixes",
+        "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
         }
       ],
-      "duration_ms": 200612,
-      "name": "RULAZ",
-      "url": "https://open.spotify.com/track/6MXbOpXo165jln2ukWqG9n"
+      "duration_ms": 187941,
+      "name": "We Do It (Jazz Spastiks Remix)",
+      "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
     }
   ],
   "unique_name": "Jazz Rap",

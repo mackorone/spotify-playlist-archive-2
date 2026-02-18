@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 90359,
+  "num_followers": 90372,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZEMgAAAAAB4zCeirSVbMh0skCWb2k3g",
+  "snapshot_id": "aZJeAAAAAADPuQh80kjmol/A7QlkBk2Y",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas all\u00e1 de la Zona",
-        "url": "https://open.spotify.com/album/4IHM9TLc2zWpidWNG7zo4M"
+        "name": "Con Rastafari todo concuerda",
+        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Vivo feliz",
-      "url": "https://open.spotify.com/track/5qDiPedceWwnWftLIAoCHN"
+      "duration_ms": 212693,
+      "name": "Por lo que obtuve",
+      "url": "https://open.spotify.com/track/4qFtkjfZLSrfDzTRbRjkFc"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Rastafari todo concuerda",
-        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
+        "name": "Mas all\u00e1 de la Zona",
+        "url": "https://open.spotify.com/album/4IHM9TLc2zWpidWNG7zo4M"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 212693,
-      "name": "Por lo que obtuve",
-      "url": "https://open.spotify.com/track/4qFtkjfZLSrfDzTRbRjkFc"
+      "duration_ms": 213000,
+      "name": "Vivo feliz",
+      "url": "https://open.spotify.com/track/5qDiPedceWwnWftLIAoCHN"
     },
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas all\u00e1 de la Zona",
-        "url": "https://open.spotify.com/album/4IHM9TLc2zWpidWNG7zo4M"
+        "name": "Mundo de Cristal",
+        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
       },
       "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
         {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 214250,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/4uidLTpPOnvuFBSlHASOjq"
+      "duration_ms": 210000,
+      "name": "Mundo de Cristal",
+      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
     },
     {
       "added_at": null,
@@ -447,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo de Cristal",
-        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
+        "name": "Mas all\u00e1 de la Zona",
+        "url": "https://open.spotify.com/album/4IHM9TLc2zWpidWNG7zo4M"
       },
       "artists": [
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
         {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Mundo de Cristal",
-      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
+      "duration_ms": 214250,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/4uidLTpPOnvuFBSlHASOjq"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 208596,
-      "name": "Cuanto heredamos",
-      "url": "https://open.spotify.com/track/3h6m0wvnj4yyB3u29NeX16"
+      "duration_ms": 317465,
+      "name": "Amar es mas",
+      "url": "https://open.spotify.com/track/1BUW2OuuqNSUSphIKVxHNu"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 317465,
-      "name": "Amar es mas",
-      "url": "https://open.spotify.com/track/1BUW2OuuqNSUSphIKVxHNu"
+      "duration_ms": 208596,
+      "name": "Cuanto heredamos",
+      "url": "https://open.spotify.com/track/3h6m0wvnj4yyB3u29NeX16"
     },
     {
       "added_at": null,

@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Valoa varten",
+        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "Aloittelijat",
+      "url": "https://open.spotify.com/track/3N3BAE6zMcLGl4znCXtzoI"
+    },
+    {
+      "album": {
         "name": "Andr\u00e9 (feat. Kerkkogabriel)",
         "url": "https://open.spotify.com/album/3CsFnRuZrMDDWYDEAOHZTN"
       },
@@ -19202,7 +19220,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 186043,
       "name": "Tykk\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"

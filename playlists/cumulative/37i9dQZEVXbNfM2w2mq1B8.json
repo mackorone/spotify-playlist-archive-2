@@ -14246,7 +14246,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 202500,
       "name": "Hasta La Vista Baby",
       "url": "https://open.spotify.com/track/3vhDg4065joVp9xyBUPo4o"
@@ -16664,7 +16664,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 207760,
       "name": "Imame li vrazka",
       "url": "https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD"
@@ -17998,7 +17998,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 245840,
       "name": "Kato Tebe Vtori Nyama",
       "url": "https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg"
@@ -19754,7 +19754,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 218468,
       "name": "Losha",
       "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
@@ -21692,7 +21692,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 198000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
@@ -21964,7 +21964,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 206917,
       "name": "Ministarat Na Veselieto",
       "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
@@ -22248,7 +22248,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 203571,
       "name": "Moeto slabo myasto",
       "url": "https://open.spotify.com/track/6o1w1oqUMiJI1Kp0s0ksRK"
@@ -27862,7 +27862,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -36540,7 +36540,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "ULICHNI TSARE",
       "url": "https://open.spotify.com/track/7CNJa7aVfWNE2Fbkomn4tw"
@@ -40202,7 +40202,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 184186,
       "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
       "url": "https://open.spotify.com/track/2mFSFpS0LqeTMfuD6X8KVo"
@@ -40706,7 +40706,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 190632,
       "name": "\u0412\u0441\u0435 \u043f\u043e \u0436\u0438\u0432\u043e\u0442\u0430",
       "url": "https://open.spotify.com/track/0S708VDmTF0V7y6HIfPVNq"
@@ -41148,7 +41148,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 168750,
       "name": "\u0414\u0430\u043b\u0435 \u0434\u0430\u043b\u0435",
       "url": "https://open.spotify.com/track/0n0EI2pBX3dtF6MICMM6TC"
@@ -41510,6 +41510,28 @@
       "duration_ms": 164989,
       "name": "\u0414\u044f\u0432\u043e\u043b\u0430 \u043f\u0430\u0440\u0430 \u0438\u0437\u043a\u0430\u0440\u0430",
       "url": "https://open.spotify.com/track/5UnA7doBvFDdpKs90fp8dE"
+    },
+    {
+      "album": {
+        "name": "\u0415\u0412\u0420\u041e\u041c\u0418\u041b\u0418\u041e\u041d\u0415\u0420\u0410",
+        "url": "https://open.spotify.com/album/0TLmNHuBWQZR9NFYiCQLME"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        },
+        {
+          "name": "DJ Ceci Ludata Glava",
+          "url": "https://open.spotify.com/artist/74GzqKaHbbDCOEdJQuY6xo"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237910,
+      "name": "\u0415\u0412\u0420\u041e\u041c\u0418\u041b\u0418\u041e\u041d\u0415\u0420\u0410",
+      "url": "https://open.spotify.com/track/57z7ped4ONHBNbK9U2LoFM"
     },
     {
       "album": {
@@ -43044,7 +43066,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 217959,
       "name": "\u041c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je"
@@ -43066,7 +43088,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 176923,
       "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
       "url": "https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6"
@@ -43360,7 +43382,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 175813,
       "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
       "url": "https://open.spotify.com/track/2Exu33bEQ8U2ZSCwLXJ2I5"
@@ -45310,7 +45332,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 234375,
       "name": "\u041f\u0440\u043e\u0441\u0442\u043e \u043c\u0438 \u043a\u0430\u0436\u0438",
       "url": "https://open.spotify.com/track/575F5O0CzbuFtRZKxLcgXb"
@@ -46974,7 +46996,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 190515,
       "name": "\u0429\u0435 \u043c\u0435 \u0442\u044a\u0440\u0441\u0438\u0448",
       "url": "https://open.spotify.com/track/4DxdsSAzo1IVE2PRg0WsG8"

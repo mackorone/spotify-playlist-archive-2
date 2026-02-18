@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1266,
+  "num_followers": 1274,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQdY+RLjlRWCShkCuus6k+BWj98B6M",
+  "snapshot_id": "AAAQf834tv/I5OXX6mHi46iojhKnCmXj",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -3163,6 +3163,166 @@
       "duration_ms": 152000,
       "name": "Not a French Song",
       "url": "https://open.spotify.com/track/0XdvcUFPQA7YPzvnhlLCzI"
+    },
+    {
+      "added_at": "2026-02-17 08:43:43",
+      "album": {
+        "name": "outta my head",
+        "url": "https://open.spotify.com/album/0taGN6LqsGmOVgcsymPSy6"
+      },
+      "artists": [
+        {
+          "name": "michelle gwod",
+          "url": "https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "outta my head",
+      "url": "https://open.spotify.com/track/1y80uZHphUor17tSRxlki3"
+    },
+    {
+      "added_at": "2026-02-17 08:43:48",
+      "album": {
+        "name": "Laddove",
+        "url": "https://open.spotify.com/album/3xCGBUIMhU53IW3jo4pb5o"
+      },
+      "artists": [
+        {
+          "name": "Nailuz",
+          "url": "https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "Laddove",
+      "url": "https://open.spotify.com/track/1UqljvWThNiyrEeSqES0DL"
+    },
+    {
+      "added_at": "2026-02-17 08:43:53",
+      "album": {
+        "name": "11 sad songs about death and cats",
+        "url": "https://open.spotify.com/album/3uF9LgtFkczUJwjWMopHPv"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cat Lady in New York City",
+          "url": "https://open.spotify.com/artist/6ptHV45BzGySgX41dsItHW"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "you can dance to this song\u2026 even if you\u2019re still mourning the death of your cat",
+      "url": "https://open.spotify.com/track/6vRhsbs1VlSfQaFO51C0Jk"
+    },
+    {
+      "added_at": "2026-02-17 08:43:59",
+      "album": {
+        "name": "Godforsaken",
+        "url": "https://open.spotify.com/album/7atHBCBbpuTD83eGd95aqC"
+      },
+      "artists": [
+        {
+          "name": "Dame Fawn Denier",
+          "url": "https://open.spotify.com/artist/6lAy6E6eYa6Feap35sZy6N"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Godforsaken",
+      "url": "https://open.spotify.com/track/6qxAEAoSzeXERxdbjxIrVn"
+    },
+    {
+      "added_at": "2026-02-17 08:44:09",
+      "album": {
+        "name": "Ocaso",
+        "url": "https://open.spotify.com/album/2pDD1wX3qLYX0qK6j6nukM"
+      },
+      "artists": [
+        {
+          "name": "Los Ins\u00f3litos",
+          "url": "https://open.spotify.com/artist/4dgg2FsnowLvnzFaXVqhNX"
+        }
+      ],
+      "duration_ms": 231844,
+      "name": "Ocaso",
+      "url": "https://open.spotify.com/track/659i2zCINZi4ABiJsQCjHp"
+    },
+    {
+      "added_at": "2026-02-17 08:44:28",
+      "album": {
+        "name": "O pix da discordia",
+        "url": "https://open.spotify.com/album/5BGH5znY3JOKCv88pg16sc"
+      },
+      "artists": [
+        {
+          "name": "Leozinho",
+          "url": "https://open.spotify.com/artist/7wKgUAO1O7ZAE6uSd0MfbQ"
+        }
+      ],
+      "duration_ms": 120680,
+      "name": "O pix da discordia",
+      "url": "https://open.spotify.com/track/1buZTioz0iWUqNExX80W5j"
+    },
+    {
+      "added_at": "2026-02-17 22:23:08",
+      "album": {
+        "name": "Way Down in the Hole",
+        "url": "https://open.spotify.com/album/1AZQBllm4mi3dLzLpSzxkt"
+      },
+      "artists": [
+        {
+          "name": "VKB Band",
+          "url": "https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Way Down in the Hole",
+      "url": "https://open.spotify.com/track/3Gy312YZVCRt5WBLcY5pnS"
+    },
+    {
+      "added_at": "2026-02-17 22:23:11",
+      "album": {
+        "name": "We Know",
+        "url": "https://open.spotify.com/album/5wht23W282apahy1VUzvKA"
+      },
+      "artists": [
+        {
+          "name": "Spounk",
+          "url": "https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "We Know",
+      "url": "https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3"
+    },
+    {
+      "added_at": "2026-02-17 22:23:15",
+      "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/3mW30RpXjuvEwnZTOMwVZr"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/6P1A0agTnvgRiVgl1f9JPg"
+    },
+    {
+      "added_at": "2026-02-17 22:23:21",
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk"
+      },
+      "artists": [
+        {
+          "name": "Mckai",
+          "url": "https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7"
     }
   ],
   "unique_name": "New Indie Music",

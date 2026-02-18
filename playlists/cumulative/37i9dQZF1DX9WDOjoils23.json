@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-18",
       "duration_ms": 188595,
       "name": "Chhadd Balle Balle Nu (From \"Hoshiar Singh\")",
       "url": "https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj"
@@ -1419,6 +1419,28 @@
     },
     {
       "album": {
+        "name": "Qubool Hai",
+        "url": "https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6"
+      },
+      "artists": [
+        {
+          "name": "Kanwar Grewal",
+          "url": "https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu"
+        },
+        {
+          "name": "Anhad Kaur",
+          "url": "https://open.spotify.com/artist/1xTTsDAwaJ17ufCVjpyV86"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409137,
+      "name": "Qubool Hai",
+      "url": "https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ"
+    },
+    {
+      "album": {
         "name": "Ek Buta Ambi Da",
         "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
       },
@@ -1507,7 +1529,7 @@
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 404170,
+      "duration_ms": 315243,
       "name": "Rutba",
       "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
     },

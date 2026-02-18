@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62411,
+  "num_followers": 62415,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "Lancetta\u300c\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
-        "url": "https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I"
-      },
-      "artists": [
-        {
-          "name": "Lancetta",
-          "url": "https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 293011,
-      "name": "\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26",
-      "url": "https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "PM6:\u221e\u300c\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 225202,
       "name": "\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac",
       "url": "https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "Lancetta\u300c\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I"
+      },
+      "artists": [
+        {
+          "name": "Lancetta",
+          "url": "https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 293011,
+      "name": "\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26",
+      "url": "https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h"
     },
     {
       "added_at": "2026-01-13 16:06:44",
